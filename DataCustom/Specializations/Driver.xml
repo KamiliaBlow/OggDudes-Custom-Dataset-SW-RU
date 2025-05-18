@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>DRIVER</Key>
-  <Name>Driver</Name>
-  <Description>[H4]Driver - The Need for Speed[h4]
+  <Name>Водитель</Name>
+  <Description>[H4]Водитель - Жажда скорости[h4]
 
-[P]Pilots are great for traveling from one system to another, but it's the Drivers that move beings around once they hit dirtside. While nearly anyone can manage the basics of a ground vehicle or a speeder, a Driver is priceless when the blaster bolts start flying or the weather turns particularly nasty. It's one thing to know how to go forward and back and how to apply the breaks. It's another thing entirely to know how far one can flip a speeder over to one side without stalling while skirting the wall of a canyon, swerving through rocky outcroppings and avoiding a hail of plasma fire from the swoop gang that's chasing the group.
+[P]Пилоты отлично подходят для путешествий из одной системы в другую, но именно водители перемещают существ, когда они оказываются на поверхности. Хотя почти каждый может справиться с управлением наземным транспортным средством или спидером, водитель бесценен, когда начинают лететь выстрелы из бластера или погода становится особенно скверной. Одно дело - знать, как ехать вперед и назад и как нажимать на тормоза. Совсем другое дело - знать, как сильно можно перевернуть спидер на бок, не заглохнув при этом, обходя стену каньона, виляя по скальным выступам и избегая града плазменного огня со стороны преследующей группу банды свупов.
 
-[P]Drivers understand the machines they operate, and they are exceptionally skilled with nearly anything that moves from one place on a planet to another, typically demonstrating some higher level of style or finesse.
+[P]Водители разбираются в машинах, которыми управляют, и обладают исключительным мастерством в обращении почти со всем, что перемещается из одной точки планеты в другую, демонстрируя, как правило, высокий уровень стиля или изящества.
 
-[P]In addition to the skills that round out an Explorer, Drivers have access to [B]Cool, Gunnery, Mechanics,[b] and [B]Piloting (Planetary)[b] as their bonus career skills. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each without spending starting experience. As always, remember that no starting skill may have higher than two ranks.
+[P]В дополнение к навыкам, которые развивают Исследователи, Водители имеют доступ к [B]Хладнокровию, Артиллерии, Механике[b] и [B]Пилотированию (планетарному)[b] в качестве бонусных карьерных навыков. Если это стартовая специализация персонажа, он может выбрать два из этих навыков, и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. Как всегда, помните, что ни один стартовый навык не может иметь более двух рангов.
 
-[P]Drivers are highly valued almost anywhere they go. Companies, military and security units, governments, and criminal factions all have a regular need for those who can transport personnel and goods over a planet's surface. Additionally, more than a few planets in the Outer Rim have traditions of racing of one style or another, and Drivers are naturals for being able to enter such competitions and walk away with a decent purse. Naturally, this depends on their skill and their ability to avoid being killed by other Drivers.
+[P]Водители высоко ценятся практически везде. Компании, военные и охранные подразделения, правительства и преступные группировки - все они регулярно нуждаются в тех, кто может перевозить персонал и грузы по поверхности планеты. Кроме того, более чем на нескольких планетах Внешнего кольца существуют традиции гонок того или иного стиля, и водители - прирожденные участники таких соревнований, способные выйти из них с приличным кошельком. Естественно, это зависит от их мастерства и способности не быть убитыми другими водителями.
 
-[P]An Explorer with a Driver specialization is a natural fit for almost any Player Character group. His basic skill set as an Explorer is already helpful, and his talents for moving the group around on a planet automatically make him exceedingly valuable. This is especially true when the inevitable situation arises demanding a quick getaway under a hail of blaster fire.</Description>
+[P]Исследователь со специализацией Водитель идеально впишется практически в любую группу персонажей. Его базовые навыки Исследователя уже полезны, а талант к перемещению группы по планете автоматически делает его чрезвычайно ценным. Это особенно актуально, когда возникает неизбежная ситуация, требующая быстрого бегства под градом бластерного огня.</Description>
   <Sources>
-    <Source Page="67">Age of Rebellion Core Rulebook</Source>
-    <Source Page="29">Enter the Unknown</Source>
+    <Source Page="67">Книга правил: Эпоха восстания</Source>
+    <Source Page="29">Дополнение: Шаг в неизвестность</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <CareerSkills>

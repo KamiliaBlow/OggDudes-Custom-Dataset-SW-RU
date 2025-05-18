@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>ADVISOR</Key>
-  <Name>Advisor</Name>
-  <Description>[H4]Advisor[h4]
-Not everyone who is skilled in the ways of the Force seeks to hold a position Of tremendous authority. In fact, some believe they would find it too easy to abuse their unique abilities if they placed themselves in a position of leadership. Instead, they choose to accept the Advisor's role to ensure they cannot be corrupted by the lure of power. Others feel their advice too valuable to limit to one planet or region and wander the stars, sowing the guidance of the Force wherever they might go. Socially adept and Force-sensitive characters with either of these philosophies can be excellent fits for the Advisor specialization.
+  <Name>Советник</Name>
+  <Description>[H4]Советник[h4]
+Не все, кто владеет Силой, стремятся занимать высокое положение. Некоторые считают, что, заняв руководящую должность, они слишком легко злоупотребят своими уникальными способностями. Поэтому они соглашаются на роль советника, чтобы не быть развращенными жаждой власти. Другие считают, что их советы слишком ценны, чтобы ограничиваться одной планетой или регионом, и странствуют по звездам, сея наставления Силы везде, куда бы они ни попали. Социально активные и чувствительные к Силе персонажи с любой из этих философий могут стать отличными кандидатами на специализацию Советник.
 
-[P]Advisors acquire [B]Charm, Deception, Negotiation,[b] and [B]Streetwise[b] as additional career skills. If this is the characters starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. This combination enables Advisors to take a very pragmatic approach in working with others and offering them the guidance of the Force. An accomplished Advisor can quickly analyze the risks of a situation and then, using the necessary tools, influence the involved parties so that a desired outcome is rapidly achieved. A less scrupulous individual with these techniques could become a successful con artist. Advisors must be careful to avoid that fate.
+[P]Советники получают [B]Обаяние, Обман, Переговоры[b] и [B]Уличная интуиция[b] в качестве дополнительных карьерных навыков. Если это стартовая специализация персонажа, он может выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. Эта комбинация позволяет Советникам использовать очень прагматичный подход в работе с другими людьми и предлагать им руководство Силы. Опытный Советник может быстро проанализировать риски ситуации, а затем, используя необходимые инструменты, повлиять на вовлеченные стороны так, чтобы желаемый результат был быстро достигнут. Менее скрупулезный человек, владеющий этими приемами, может стать успешным мошенником. Советники должны быть осторожны, чтобы избежать этой участи.
 
-[P]Some Advisors attach themselves to a planetary government, helping to shape the rule of law and ensure fairness and justice for all. Many popular rulers have had wise Advisors at hand, helping ensure their policies do the most good for the greatest number. Other Advisors choose to work in less glamorous roles—often among the poor and the desperate. There, they try to counsel and guide individuals in dire straits, sometimes providing salvation to those who have lost all hope.</Description>
-  <Source Page="81">Force and Destiny Core Rulebook</Source>
+[P]Некоторые Советники прикрепляются к планетарному правительству, помогая установить верховенство закона и обеспечить справедливость и правосудие для всех. Многие популярные правители имеют под рукой мудрых Советников, помогающих им проводить политику, направленную на благо наибольшего числа людей. Другие Советники предпочитают работать в менее гламурных сферах - часто среди бедных и отчаявшихся. Там они пытаются консультировать и направлять людей, оказавшихся в тяжелом положении, иногда давая спасение тем, кто потерял всякую надежду.</Description>
+  <Source Page="81">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>CHARM</Key>

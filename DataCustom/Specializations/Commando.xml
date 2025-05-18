@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>COMMANDO</Key>
-  <Name>Commando</Name>
+  <Name>Коммандос</Name>
   <Description>
-    [H4]Commando - Strike the Target[h4]
+    [H4]Коммандос - Поражает цель[h4]
 
-Commandos are specialists trained to strike the enemy from unexpected directions to do the most damage in the most vulnerable locations. Commando teams are often used like surgical instruments by the commanders who have access to them. A Commando knows how to find a target, attack it, disable it, survive the aftermath, and find his way home.
+Коммандос - это специалисты, обученные наносить удары по врагу с неожиданных направлений, чтобы нанести наибольший урон в самых уязвимых местах. Команды коммандос часто используются командирами, имеющими к ним доступ, как хирургические инструменты. Коммандос знают, как найти цель, атаковать ее, вывести из строя, пережить последствия и найти дорогу домой.
 
-[P]Commandos gain [B]Brawl, Melee, Resilience,[b] and [B]Survival[b] as additional career skills. If Commando is the character's first specialization, two of these new career skills gain a free rank each. Commandos are masters of close combat and surviving in all conditions. They are usually good at sneaking past enemy guards and listening posts as well.
+[P]оммандос получают [B]Грубую силу, Ближний бой, Стойкость[b] и [B]Выживание[b] в качестве дополнительных карьерных навыков. Если коммандос - первая специализация персонажа, два из этих новых карьерных навыков получают по одному бесплатному рангу. Коммандос - мастера ближнего боя и выживания в любых условиях. Обычно они также умеют пробираться мимо вражеских охранников и подслушивающих постов.
 
-[P]For any team, a Commando is a fine general-purpose combat specialist to have around. He handles fights well (especially hand-to-hand situations), and can manage in almost any high-stress situation. More often than not, he's also effective as backup during covert operations. Matters of overall philosophy or strategy rarely concern a Commando; he's almost always focused on the mission at hand or training to ensure he and his companions survive the next one.
+[P]Для любой команды коммандос - отличный боевой специалист общего назначения. Он хорошо переносит драки (особенно рукопашные) и может справиться практически с любой ситуацией, связанной с высоким уровнем стресса. Чаще всего он также эффективен в качестве прикрытия во время тайных операций. Вопросы общей философии или стратегии редко волнуют коммандос; он почти всегда сосредоточен на текущей миссии или на тренировках, чтобы обеспечить себе и своим товарищам выживание в следующей.
 
-[P]As stand-up confrontations are normally a losing proposition for the Alliance, the Commandos are some of the most important and effective soldiers fighting for the Rebellion. Their capacity to surgically strike at Imperial targets, as well as their value as guards and support personnel for other specialists operating on behalf of the Alliance, makes any single one of them worth more than a platoon of stormtroopers.</Description>
-  <Source Page="91">Age of Rebellion Core Rulebook</Source>
+[P]Поскольку для Альянса противостояние в лоб обычно проигрышно, коммандос - одни из самых важных и эффективных солдат, сражающихся за Восстание. Их способность наносить хирургические удары по имперским целям, а также их ценность в качестве охранников и вспомогательного персонала для других специалистов, действующих от имени Альянса, делает любого из них более ценным, чем взвод штурмовиков.</Description>
+  <Source Page="91">Книга правил: Эпоха восстания</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>BRAWL</Key>

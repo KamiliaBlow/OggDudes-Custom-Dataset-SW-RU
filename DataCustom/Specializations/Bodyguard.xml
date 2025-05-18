@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>BODYGUARD</Key>
-  <Name>Bodyguard</Name>
-  <Description>[H4]Bodyguard - Personal Defender[h4]
+  <Name>Телохранитель</Name>
+  <Description>[H4]Телохранитель - Личный защитник[h4]
 
-[P]Hired Guns who choose the Bodyguard specialization are excellent choices for defending both people and places. They tend to be highly capable with all kinds of weaponry, extremely tough and savvy in combat, and exactly the right people to get behind when blaster fire starts flying.
+[P]Наемники, выбравшие специализацию "Телохранитель", - отличный выбор для защиты как людей, так и мест. Они умеют обращаться со всеми видами оружия, очень выносливы и ловки в бою, и именно те люди, за спину которых можно встать, когда начнется стрельба из бластера.
 
-[P]Their additional Career skills are indicative of their job: [B]Gunnery, Perception, Piloting (Planetary),[b] and [B]Ranged (Heavy)[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. With this array of skills, a Bodyguard can operate anything that shoots, keep a good eye on his surroundings, and can handle any planet-bound craft with great aptitude. This, combined with his talent options, makes him potentially perfect as an armed chauffeur [I]or[i] as a heavy weapons emplacement operator. He also makes a resilient soldier.
+[P]Дополнительные карьерные навыки соответствуют их профессии: [B]Артиллерия, Внимание, Пилотирование (планета)[b] и [B]Дальний бой (тяжелое оружие)[b]. Если это стартовая специализация персонажа, он может выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. С таким набором умений телохранитель может управлять всем, что стреляет, хорошо следить за окружающей обстановкой и отлично управляться с любым планетарным кораблем. В сочетании с талантами это делает его потенциально идеальным вооруженным шофером [I] или [i] оператором установки тяжелого оружия. Из него также получится выносливый солдат.
 
-[P]A Bodyguard will have a rather easy time finding work in the Outer Rim, especially if he doesn't mind looking after the backside of high-ranking criminal scum or corporate operators who are trying to do business without becoming victims. His facility with all kinds of weapons and vehicles make him useful to any number of quasi-legal or criminal operations.
+[P]Телохранителю будет довольно легко найти работу во Внешнем кольце, особенно если он не против присматривать за спинами высокопоставленных преступников или корпоративных операторов, которые пытаются вести бизнес, не становясь жертвами. Его умение обращаться со всеми видами оружия и транспортных средств делает его полезным для любого количества квазилегальных или криминальных операций.
 
-[P]As part of a group of Player Characters, a Bodyguard is going to be considered more or less a heavy combatant—the guy who stands up front with the biggest gun. However, the combination of skills and talents can be angled towards some different approaches. For example, if there's any kind of Politico or Trader in the group, a Bodyguard may well be there solely for the purpose of keeping that person alive.</Description>
-  <Source Page="77">Edge of the Empire Core Rulebook</Source>
+[P]В составе группы персонажей, телохранитель будет считаться более или менее тяжелым бойцом - парнем, который стоит впереди с самым большим оружием. Однако комбинация навыков и талантов может быть направлена на разные подходы. Например, если в группе есть какой-нибудь Политик или Торговец, телохранитель вполне может быть там исключительно для того, чтобы сохранить ему жизнь.</Description>
+  <Source Page="77">Книга правил: Край Империи</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>GUNN</Key>

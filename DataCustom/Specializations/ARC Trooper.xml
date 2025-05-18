@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>ARCTROOP</Key>
-  <Name>ARC Trooper</Name>
-  <Description>[H4]ARC Trooper[h4]
-While the bulk of the Grand Army of the Republic try consists of the standard clone troopers, military leadership and the engineers of Kamino recognized the need for specialized soldiers. Squads of Advanced Recon Commando troopers fulfill the need for small and flexible tactical squads to take on unconventional objectives despite everchanging and unknown  situations and lack of access to command leadership  These elite soldiers act independently and creatively. showcasing the clones' potential in a way that can only be called human.
-[P]Focused on tactics for quick strikes, careful Infiltration. or overwhelming force, ARC Troopers gain the additional career skills [B]Coordination, Mechanics. Piloting (Planetary), and Stealth[b] If this is a character's starting specialization, they choose two of these skills and gain a rank in each. ARC Troopers have to be in peak physical condition to survive the many different climates and planets of the galaxy. They are often selected for daring aerial insertions and other missions requiring jetpacks. The abilities not only to  operate jetpacks and other specialized gear but also to keep them in working order on the held can be crucial. Often, ARC Troopers must get behind enemy lines and back out again without being detected.</Description>
-  <Source Page="21">Collapse of the Republic</Source>
+  <Name>ЭРК Штурмовик</Name>
+  <Description>[H4]ЭРК Штурмовик[h4]
+Хотя основная часть Великой Армии Республики состоит из стандартных солдат клонов, военное руководство и инженеры Камино признали необходимость в специализированных солдатах. Отряды Элитных разведчиков-коммандос удовлетворяют потребность в небольших и гибких тактических отрядах, способных брать на себя решение нестандартных задач, несмотря на постоянно меняющуюся и неизвестную ситуацию и отсутствие доступа к командному руководству. Эти элитные солдаты действуют независимо и творчески, демонстрируя потенциал клонов таким образом, что их можно назвать только людьми.
+[P]Сосредоточившись на тактике быстрых ударов, осторожного проникновения или подавляющей силы, ЭРК Штурмовики получают дополнительные карьерные навыки [B]Координация, Механика. Пилотирование (планетарное), и Скрытность[b]. Если это начальная специализация персонажа, он выбирает два из этих навыков и получает по одному бесплатному рангу для каждого. ЭРК Штурмовики должны быть в отличной физической форме, чтобы выжить в различных климатических условиях и на разных планетах галактики. Их часто выбирают для смелых воздушных высадок и других миссий, требующих использования реактивных ранцев. Умение не только управлять реактивными ранцами и другим специализированным снаряжением, но и поддерживать их в рабочем состоянии может иметь решающее значение. Часто бойцам ЭРК приходится проникать в тыл врага и возвращаться обратно, оставаясь незамеченными.</Description>
+  <Source Page="21">Дополнение: Падение Ресублики</Source>
   <Custom>AddedItem</Custom>
   <CareerSkills>
     <Key>COORD</Key>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>AGGRES</Key>
-  <Name>Aggressor</Name>
-  <Description>[H4]Aggressor[h4]
+  <Name>Агрессор</Name>
+  <Description>[H4]Агрессор[h4]
 
-The Aggressor relies on fear to intimidate his opposition into surrender or retreat. Aggressors tend to be tough and dangerous combatants, able to dish out brutal damage to anyone who fights them, while surviving the same. They use their confident, terrifying attitudes to convey this to their opponents. Some Aggressors hope their enemies back down without a fight, but others fall into the trap of relishing the fear they inspire.
+Агрессор полагается на страх, чтобы запугать противника и заставить его сдаться или отступить. Агрессоры, как правило, жесткие и опасные бойцы, способные нанести жестокий урон любому, кто с ними сражается, и при этом выжить. Они используют свой уверенный, устрашающий вид, чтобы донести это до своих противников. Некоторые Агрессоры надеются, что их враги сдадутся без боя, но другие попадают в ловушку, наслаждаясь страхом, который они внушают.
 
-[P]Aggressors acquire [B]Coercion, Knowledge (Underworld), Ranged (Light),[b] and [B]Streetwise[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. These skills enable Aggressors to recognize the bravado shown by criminal enforcers and thugs. It also aids them in cowing these individuals, assuring these predators that the Force-sensitive character is a far scarier and more potent individual than they have previously faced.
+[P]Агрессоры получают [B]Запугивание, Знание (преступный мир), Дальний бой (легкое оружие),[b] и [B]Уличная интуиция[b] в качестве дополнительных карьерных навыков. Если это стартовая специализация персонажа, он может выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. Эти навыки позволяют Агрессорам распознавать браваду, которую демонстрируют преступники и бандиты. Кроме того, они помогают им подавить этих людей, убеждая хищников в том, что чувствительный к Силе персонаж гораздо страшнее и сильнее, чем те, с кем они сталкивались раньше.
 
-[P]Tempered by the Force, some characters who undertake this specialization prefer to use their abilities to intimidate foes into surrender so they don't have to kill needlessly. While they are extremely capable in this regard, they frequently learn the techniques required to cause the bare minimum of damage necessary. Precision is important, as every life still holds value in the Force.
+[P]Некоторые персонажи, получившие эту специализацию, предпочитают использовать свои способности для запугивания врагов, чтобы те не сдавались и не убивали без необходимости. Несмотря на то, что они чрезвычайно способны в этом отношении, они часто изучают приемы, необходимые для нанесения минимального урона. Точность очень важна, ведь для Силы ценна каждая жизнь.
 
-[P]When confronted by a foe that seems irredeemable, however, the Aggressor's attitude shifts appropriately. All elements of self-restraint are discarded, and the Aggressor is able to simply punish his foes, inflicting devastating blow after devastating blow. Often, opponents simply flee rather than engage an Aggressor. Stories told by survivors—and sometimes allies—add to the character's reputation, making it even easier to intimidate future enemies.</Description>
-  <Source Page="99">Force and Destiny Core Rulebook</Source>
+[P]Однако, столкнувшись с врагом, который кажется неисправимым, Агрессор меняет свое отношение к происходящему. Все элементы самоограничения отбрасываются, и Агрессор способен просто наказывать своих врагов, нанося сокрушительный удар за сокрушительным ударом. Часто противники просто убегают, а не вступают в бой с Агрессором. Истории, рассказанные выжившими, а иногда и союзниками, повышают репутацию персонажа, что еще больше упрощает запугивание будущих врагов.</Description>
+  <Source Page="99">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COERC</Key>

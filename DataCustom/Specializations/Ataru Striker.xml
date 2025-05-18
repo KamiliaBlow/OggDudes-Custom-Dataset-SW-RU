@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>ATARU</Key>
-  <Name>Ataru Striker</Name>
-  <Description>[H4]Ataru Striker[h4]
+  <Name>Нападающий Атару</Name>
+  <Description>[H4]Нападающий Атару[h4]
 
-When working alone in a hostile environment, every physical conflict must be resolved quickly and decisively. Frequently, an uncivilized planet completely lacks any sort of medical facilities. In fact, at times, an isolated explorer could be the only sentient being on the world. In such a situation, a minor injury can be deadly. If a conflict is necessary, it is better to resolve it quickly, taking whatever risks are involved, than to fight more conservatively and prolong the risk of injury. The Ataru Striker embraces this approach, throwing himself into combat with every fiber of his being.
+При работе в одиночку во враждебной среде любой физический конфликт должен быть разрешен быстро и решительно. Зачастую на нецивилизованной планете полностью отсутствуют какие-либо медицинские учреждения. Порой одинокий исследователь может оказаться единственным разумным существом на планете. В такой ситуации незначительная травма может оказаться смертельно опасной. Если возникает необходимость в конфликте, лучше решить его быстро, идя на любой риск, чем сражаться более консервативно и увеличивать риск получения травмы. Нападающий Атару придерживается такого подхода, бросаясь в бой всеми фибрами своего существа.
 
-[P]Ataru Strikers acquire [B]Athletics, Coordination, Lightsaber,[b] and [B]Perception[b] as additional career skills. If this is the characters starting specialization, he may choose two of these skills and gain one free rank in 'each, without spending starting experience. This fighting style is highly dependent on the combatant's ability to quickly assess a situation and use natural athleticism to exploit the environment. In this way, the combatant is able to gain every possible advantage over an opponent. The combination of these edges and the rapid attacks that characterize Ataru martial arts can force a combat to a very quick resolution.
-[P]Practitioners of the Ataru fighting style must be supremely confident in their abilities. They must also be exceptionally athletic and capable of committing all their energy into a very brief conflict. When engaged in a physical conflict, Ataru Strikers fight without remorse but also with little concern for their own safety. Every motion is designed to inflict a flurry of rapid and overpowering attacks against their opponents from myriad angles. Their vicious and unrelenting offense is their best (and sometimes only) defense—most opponents are so busy defending themselves that they have no time to attack in turn.
+[P]Надающие Атару получают [B]Атлетику, Координацию, Световой меч[b] и [B]Внимание[b] в качестве дополнительных карьерных навыков. Если это начальная специализация персонажа, он может выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. Этот стиль боя в значительной степени зависит от способности бойца быстро оценивать ситуацию и использовать природный атлетизм для использования окружающей среды. Таким образом, боец получает все возможные преимущества над противником. Сочетание этих преимуществ и быстрых атак, характерных для боевых искусств Атару, может привести бой к очень быстрому разрешению.
+[P]Практикующие боевой стиль Атару должны быть абсолютно уверены в своих силах. Они также должны быть исключительно атлетичны и способны направить всю свою энергию на очень короткий конфликт. Вступая в физический конфликт, бойцы Атару сражаются без угрызений совести, но и не заботясь о собственной безопасности. Каждое движение направлено на нанесение шквала быстрых и мощных ударов по противнику с разных сторон. Жестокое и неумолимое нападение является их лучшей (а иногда и единственной) защитой - большинство противников настолько заняты защитой, что у них нет времени атаковать в свою очередь.
 
-[P]However, this style of unrelenting attack can have its disadvantages. An Ataru Striker needs to see his opponent defeated quickly, before he exhausts himself. An individual who can outlast an Ataru Striker can prove to be his deadliest enemy.</Description>
-  <Source Page="87">Force and Destiny Core Rulebook</Source>
+[P]Однако у этого стиля неумолимой атаки есть и свои недостатки. Нападающему Атару необходимо, чтобы его противник был повержен быстро, пока он не выдохся. Тот, кто сможет пережить нападение Атару, может оказаться его самым смертельным врагом.</Description>
+  <Source Page="87">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ATHL</Key>

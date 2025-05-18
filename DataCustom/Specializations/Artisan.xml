@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>ARTISAN</Key>
-  <Name>Artisan</Name>
-  <Description>[H4]Artisan[h4]
+  <Name>Ремесленник</Name>
+  <Description>[H4]Ремесленник[h4]
 
-Some Force users have an innate skill with tools and machines. These skilled artificers can use their skill with the Force to enhance their abilities, and even intuitively understand a machine's form and function. After all, while tools and machines may not be alive, the Force envelopes everything in the galaxy. Artisans feel the Force that surrounds their tools and the items they work on, using this connection to build creations of wondrous beauty and precision. An Artisan does not create scores of the same item for sale Of distribution. Instead, each of his creations is individual and iconic, a true work of art.
+Некоторые пользователи Силы обладают врожденным умением работать с инструментами и машинами. Эти искусные ремесленники могут использовать свои навыки работы с Силой для улучшения своих способностей и даже интуитивно понимать форму и функции машины. Ведь если инструменты и машины не могут быть живыми, то Сила окутывает все в галактике. Ремесленники чувствуют Силу, которая окружает их инструменты и предметы, над которыми они работают, и используют эту связь для создания творений удивительной красоты и точности. Ремесленник не создает десятки одинаковых предметов для продажи и распространения. Вместо этого каждое его творение индивидуально и уникально, это настоящее произведение искусства.
 
-[P]Artisans acquire [B]Astrogation, Computers, Knowledge (Education),[b] and [B]Mechanics[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. In order to fully integrate their Force abilities with the devices they manipulate, Artisans must first have a solid understanding of how those tools work. This requires a fundamental educational grounding in the principles of technology.
+[P]Ремесленники получают [B]Астрогацию, Компьютеры, Знания (Образование),[b] и [B]Механику[b] в качестве дополнительных карьерных навыков. Если это стартовая специализация персонажа, он может выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. Чтобы полностью интегрировать свои способности к Силе с устройствами, которыми они манипулируют, ремесленники должны сначала хорошо понимать, как эти инструменты работают. Это требует фундаментального образования в области принципов технологии.
 
-[P]Within urban environments, individuals who never learn to recognize their Force talents are prone to follow the Artisan's path. This is because they are surrounded by technology, and if these individuals take an interest in how things work and how to repair them, their Force abilities may naturally develop in concert. When faced with a broken machine, they can often identify the problem in an intuitive way—some even claim that the machines "speak" to them. Some Artisans live up to the stereotype of the messy inventor, while others remain meticulously neat or even take pains to disguise their craftsmanship from casual observers.</Description>
-  <Source Page="93">Force and Destiny Core Rulebook</Source>
+[P]В городской среде люди, которые так и не научились распознавать свои таланты Силы, склонны идти по пути ремесленника. Это происходит потому, что их окружают технологии, и если эти люди интересуются тем, как работают вещи и как их ремонтировать, их способности к Силе могут развиваться естественным образом. Столкнувшись со сломанной машиной, они часто могут определить проблему интуитивно - некоторые даже утверждают, что машины "говорят" с ними. Некоторые ремесленники соответствуют стереотипу беспорядочного изобретателя, в то время как другие остаются скрупулезно аккуратными или даже стараются скрыть свое мастерство от случайных наблюдателей.</Description>
+  <Source Page="93">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ASTRO</Key>

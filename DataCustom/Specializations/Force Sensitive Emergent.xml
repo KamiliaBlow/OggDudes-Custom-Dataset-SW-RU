@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>FORCESENSITIVEEMERGENT</Key>
-  <Name>Force Sensitive Emergent</Name>
+  <Name>Чувствительный к Силе: Ученик</Name>
   <Description>
-    [H4]Force Sensitive Emergent[h4]
+    [H4]Чувствительный к Силе: Ученик[h4]
 
-The Rebel Alliance stands for the restitution of the values and structures that were set aside during the rise of Emperor Palpatine. As Force users have been among those persecuted under the Imperial regime, many of them sympathize with the goals of the Rebellion. As a result of this, one of the Rebel Alliance's most underestimated assets is a cadre of amateur Force-sensitives who could prove decisive in the struggle against the Empire. Or at least, they would be if they were properly identified and trained.
+Повстанческий альянс выступает за восстановление ценностей и структур, которые были отброшены во время правления императора Палпатина. Поскольку пользователи Силы были одними из тех, кого преследовал Имперский режим, многие из них симпатизируют целям Повстанческого альянса. В результате этого одним из самых недооцененных активов Альянса повстанцев стал отряд чувствительных к Силе, которые могли бы сыграть решающую роль в борьбе с Империей. Или, по крайней мере, могли бы, если бы их правильно выявили и обучили.
 
-[P]Within the ranks of Rebel organizations, Force-sensitives are safe from the Empire and have access to one of the few remaining societies in the galaxy that still openly acknowledges and encourages an understanding of the light side of the Force. While the Jedi Order has been shattered by the Empire, there are many within the Rebel Alliance who remember them and their teachings. While few Force-sensitives are ever fortunate enough to receive training from an actual Jedi, at least in the Alliance they can learn about the Order's traditions and techniques from sympathetic sources.
+[P]В рядах повстанческих организаций чувствительные к Силе находятся в безопасности от Империи и имеют доступ к одному из немногих оставшихся в галактике обществ, которое все еще открыто признает и поощряет понимание светлой стороны Силы. Хотя Орден джедаев был уничтожен Империей, в Альянсе повстанцев есть много тех, кто помнит их и их учение. Хотя лишь немногим чувствительным к Силе посчастливилось пройти обучение у настоящего джедая, по крайней мере в Альянсе они могут узнать о традициях и техниках Ордена из сочувствующих источников.
 
-[P]While they were regarded by the citizens of the galaxy as a benevolent order dedicated to the promotion of peace and harmony throughout the galaxy, the Jedi Knights also had a well-deserved reputation as fierce warriors, particularly when it came to close-quarters fighting with their signature weapon, the lightsaber. While few Force-sensitives hope to develop such prowess, or come to possess a lightsaber of their own, they do tend to develop some skill at martial arts. In fact, a little training in hand-to-hand combat is recommended, both as a method of self-protection and because the associated regimen is said to help put one in the right frame of mind to contemplate the Force.
+[P]Хотя жители галактики считали их доброжелательным орденом, призванным поддерживать мир и гармонию во всей галактике, рыцари джедаи также пользовались заслуженной репутацией свирепых воинов, особенно когда дело доходило до ближнего боя с их фирменным оружием - световым мечом. Хотя мало кто из обладателей Силы надеется развить в себе такое мастерство или стать обладателем собственного светового меча, они, как правило, развивают некоторые навыки в боевых искусствах. На самом деле, небольшое обучение рукопашному бою рекомендуется как в качестве метода самозащиты, так и потому, что связанный с ним режим, как говорят, помогает привести человека в нужное состояние для чувствительного к Силе.
 
-[P]The Force-Sensitive Emergent specialization does not have any career skills associated with it. When a character purchases this specialization, he automatically receives a Force rating of 1 (if he did not already have it). However, if the character already has a Force rating of 1 or higher, it does not improve when he purchases the Force-Sensitive Emergent specialization.
+[P]Специализация "Чувствительный к Силе: Ученик" не имеет связанных с ней карьерных навыков. Когда персонаж приобретает эту специализацию, он автоматически получает рейтинг Силы, равный 1 (если у него его еще не было). Однако если у персонажа уже есть рейтинг Силы 1 или выше, он не повышается при приобретении специализации "Чувствительный к Силе: Ученик".
 
-[P]Just like other specializations, the Force-Sensitive Emergent specialization can be taken at character creation or at any subsequent point. This represents the fact that some Force-sensitives do not become aware of their potential until a relatively late stage of their lives.</Description>
-  <Source Page="292">Age of Rebellion Core Rulebook</Source>
+[P]Как и другие специализации, специализацию "Чувствительный к Силе: Ученик" можно получить при создании персонажа или в любой последующий момент. Это отражает тот факт, что некоторые чувствительные к Силе не осознают свой потенциал до относительно позднего этапа своей жизни.</Description>
+  <Source Page="292">Книга правил: Эпоха восстания</Source>
   <Custom>DescOnly</Custom>
   <Universal>true</Universal>
   <Attributes>

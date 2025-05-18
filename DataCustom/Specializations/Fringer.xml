@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>FRINGER</Key>
-  <Name>Fringer</Name>
-  <Description>[H4]Fringer - Discovering Possibilities[h4]
+  <Name>Фрингер</Name>
+  <Description>[H4]Фрингер - Открывая возможности[h4]
 
-[P]Part negotiator, part astrogator, and savvy in the ways of the galaxy beyond the Core Worlds, the Fringer is a jack-of-all-trades. He focuses on knowing how to find what he needs and how to get where he needs to go. He's got the gift of gab when it's time to talk, and the awareness and reflexes to maneuver away when it's time to run.
+[P]Частично переговорщик, частично астрогатор и знаток галактики за пределами Основных миров, Фрингер - мастер на все руки. Главное для него - знать, как найти то, что ему нужно, и как добраться туда, куда ему нужно. У него есть дар болтать, когда нужно говорить, и осознание и рефлексы, чтобы маневрировать, когда нужно бежать.
 
-[P]The additional Career skills for a Fringer are indicative of his diversified nature: [B]Astrogation, Coordination, Negotiation,[b] and [B]Streetwise[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Fringers are skilled navigators and rugged survivalists.
+[P]Дополнительные карьерные навыки для Фрингера свидетельствуют о его разностороннем характере: [B]Астрогация, Координация, Переговоры[b] и [B]Уличная интуиция[b]. Если это стартовая специализация персонажа, он может выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. Фрингеры - искусные навигаторы и выносливые выживальщики.
 
-[P]Many Fringers are excellent pilots, some rivaling even Smugglers in terms of talent. They are also highly prized for their ability to navigate ships through the unknown ranges of the Outer Rim. Fringers can also be tough, wiry, and nimble, surprising any would-be assailant with their ability to avoid getting hit and avoid getting caught.
+[P]Многие фрингеры - отличные пилоты, некоторые из них по уровню таланта соперничают даже с контрабандистами. Они также высоко ценятся за умение вести корабли по неизведанным просторам Внешнего кольца. Кроме того, фрингеры могут быть крепкими, жилистыми и ловкими, удивляя любого потенциального нападающего своей способностью избегать ударов и не попадаться.
 
-[P]A Player Character Fringer stands a good chance of being either the primary or secondary pilot for a group; he'll certainly be the likely choice for handling astrogation duties. He may also be the one the group turns to when it comes to dealing with employers, or finding a job in the first place. If someone needs to go into a starport or town to handle business, the Fringer should definitely be a part of that excursion.</Description>
-  <Source Page="71">Edge of the Empire Core Rulebook</Source>
+[P]Персонаж игрока Фрингер имеет все шансы стать основным или вспомогательным пилотом группы; он, конечно же, будет наиболее вероятным выбором для выполнения обязанностей астрогатора. Он также может стать тем, к кому группа обратится, когда дело дойдет до общения с работодателями или поиска работы. Если кому-то нужно отправиться в звездный порт или город, чтобы уладить дела, фрингер обязательно должен быть частью этой экскурсии.</Description>
+  <Source Page="71">Книга правил: Край Империи</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ASTRO</Key>

@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>AGITATOR</Key>
-  <Name>Agitator</Name>
+  <Name>Агитатор</Name>
   <Description>
-    [H4]Agitator - Rousing the Masses[h4]
+    [H4]Агитатор - Возбудитель масс[h4]
 
-The Empire's main weapon, more effective than all of the incredible firepower at its disposal, is fear. Fear lets it maintain order and authority over the countless beings in its thrall. The Agitator's primary goal is to remove that fear and replace it with anger, or courage, or a sense of righteousness—whatever it takes to get the people to rise up, take up arms, reject Palpatine's tyranny, and restore freedom and justice to the galaxy.
+Главное оружие Империи, более эффективное, чем вся имеющаяся в ее распоряжении невероятная огневая мощь - это страх. Страх позволяет ей поддерживать порядок и власть над бесчисленными существами, находящимися в ее власти. Главная цель Агитатора - устранить этот страх и заменить его гневом, или мужеством, или чувством праведности - чем угодно, лишь бы люди восстали, взяли в руки оружие, отвергли тиранию Палпатина и восстановили свободу и справедливость в галактике.
 
-[P]For Agitators, [B]Coercion, Deception, Knowledge (Underworld),[b] and [B]Streetwise[b] are all added as career skills. So long as this is the first specialization for the PC, he gains a free rank in two of these four skills. Agitators often bully the bullies to move them out of the way, and when they are able to get the people to follow them, they know how to lead. Understanding the ways of the streets is also vital to survival and success.
+[P]Для Агитаторов в качестве карьерных навыков добавляются [B]Запугивание, Обман, Знание (преступный мир),[b] и [B]Уличная интуиция[b]. Пока это первая специализация для ПК, он получает бесплатный ранг в двух из этих четырех навыков. Агитаторы часто задирают обидчиков, чтобы убрать их с дороги, а когда им удается заставить людей идти за ними, они умеют руководить. Понимание уличных порядков также жизненно важно для выживания и успеха.
 
-[P]Most Agitators come by the calling through hardship and suffering. Their own personal tragedies at the hands of their oppressors drive them to call upon others to resist injustice and authoritarianism. Some are more altruistic in nature, sufficiently moved,by the suffering of others to take action and rouse the people to a cause in which they can believe. Only those with charisma and will in sufficient quantities can truly succeed in this dangerous and demanding course.
+[P]Большинство агитаторов приходят к своему призванию через трудности и страдания. Их личные трагедии от рук угнетателей побуждают их призывать других к сопротивлению несправедливости и авторитаризму. Некоторые более альтруистичны по своей природе, их достаточно трогают страдания других, чтобы начать действовать и поднять людей на дело, в которое они могут поверить. Только те, кто обладает харизмой и волей в достаточном количестве, могут по-настоящему преуспеть в этом опасном и требовательном деле.
 
-[P]Many in the Alliance's upper levels consider Agitators a necessary evil; they are not keen to move populations of untrained civilians to go to war against the Empire's stormtroopers and other resources, yet they accept that, ultimately, it will take the entire galaxy doing just that if victory is to be achieved. When possible, Agitators are supported by other Alliance operatives, and a plan to arm and support the populace is usually in place before the Agitator goes to work.</Description>
-  <Source Page="80">Age of Rebellion Core Rulebook</Source>
+[P]Многие в высшем руководстве Альянса считают Агитаторов необходимым злом; они не горят желанием заставлять необученное гражданское население воевать против штурмовиков и других ресурсов Империи, однако признают, что в конечном итоге для достижения победы потребуется, чтобы вся галактика сделала именно это. Когда это возможно, Агитаторов поддерживают другие оперативники Альянса, а план по вооружению и поддержке населения обычно разрабатывается до того, как Агитатор приступит к работе.</Description>
+  <Source Page="80">Книга правил: Эпоха восстания</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COERC</Key>

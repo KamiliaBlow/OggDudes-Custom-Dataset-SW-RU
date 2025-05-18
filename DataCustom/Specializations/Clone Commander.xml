@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>CLONECOM</Key>
-  <Name>Clone Commander</Name>
-  <Description>[H4]Clone Commander[h4]
-The bio geneticists on Kamino understand that a clone army needs specialized commanders. While nonclone commanders could serve the function, the Kaminoans wished to sell a fully staffed military as a whole package and took on the challenge of providing an independent thinker with unwavering loyalty to their buyer. A Clone Commander can come from the soldier's ranks, having shown a natural ability to command, or can be engineered on Kamino through specialty training. The Jedi lean on these commanders to advise them, enforce discipline, and execute the Jedi's orders.
-[P]A Clone Commander leads a regiment of four battalions of four companies each, taking orders directly from the Jedi on the field. They must think large scale, advising the Jedi on tactical and strategic matters, questioning when appropriate, but following orders when commanded. They must also interpret those orders, making sure they can accomplish the Jedi's goals while keeping casualties low. Lastly, they must pay attention to logistics and supply lines, ensuring that their regiments can hold the territory they take or have the ability to wage an offensive. This training provides Clone Commanders with the career skills [B]Knowledge (Core Worlds), Knowledge (Warfare), Leadership, and Perception[b]. If this is the PC's first specialization, the PC gains one rank in each of two of these skills.</Description>
-  <Source Page="22">Collapse of the Republic</Source>
+  <Name>Клон командир</Name>
+  <Description>[H4]Клон командир[h4]
+Биогенетики на Камино понимают, что армии клонов нужны специализированные командиры. Хотя командиры, не являющиеся клонами, могли бы выполнять эту функцию, каминоанцы хотели продать полностью укомплектованную армию как единое целое и взяли на себя труд обеспечить независимого мыслителя с непоколебимой преданностью своему покупателю. Клон-командир может прийти из солдатских рядов, проявив природные способности к командованию, или быть подготовленным на Камино в ходе специального обучения. Джедаи опираются на этих командиров, чтобы те давали им советы, следили за дисциплиной и выполняли приказы джедаев.
+[P]Клон командир возглавляет полк из четырех батальонов по четыре роты в каждом, получая приказы непосредственно от джедаев на поле боя. Они должны мыслить масштабно, консультируя джедаев по тактическим и стратегическим вопросам, задавая вопросы, когда это необходимо, но выполняя приказы, когда ими командуют. Они также должны интерпретировать эти приказы, убеждаясь, что смогут выполнить цели джедаев, сохраняя при этом низкий уровень потерь. И наконец, они должны уделять внимание логистике и линиям снабжения, чтобы их полки могли удерживать захваченные территории или вести наступление. Это обучение дает клонам командирам карьерные навыки [B]Знания (Центральные Миры), Знания (Военное дело), Лидерство, и Внимание[b]. Если это первая специализация персонажа игрока, он получает по одному рангу в каждом из двух этих навыков.</Description>
+  <Source Page="22">Дополнение: Падение Ресублики</Source>
   <Custom>AddedItem</Custom>
   <CareerSkills>
     <Key>CORE</Key>

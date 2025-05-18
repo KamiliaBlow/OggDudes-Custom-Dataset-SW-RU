@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>ASSAS</Key>
-  <Name>Assassin</Name>
-  <Description>[H4]Assassin - Instrument of Policy[h4]
+  <Name>Убийца</Name>
+  <Description>[H4]Убийца - Инструмент политики[h4]
 
-[P]Whereas most Bounty Hunters focus primarily on the capture of quarry, those who specialize as Assassins are generally tasked with the straightforward proposition of terminating their targets. The selection of additional skills for an Assassin very much points towards his focus: [B]Melee, Ranged (Heavy), Skulduggery,[b] and [B]Stealth[b]. These four skills become additional Career skills. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Assassins tend to prefer getting in quietly, taking out targets (either up close or sniping from afar), and leaving just as silently as they entered. Their talents are very appropriate for this kind of work.
+[P]В то время как большинство охотников за головами сосредоточены в основном на захвате добычи, специализирующиеся как убийцы обычно ставят перед собой простую задачу - уничтожить свою цель. Выбор дополнительных навыков убийцы во многом зависит от его специализации: [B]Ближний бой, Дальний бой (тяжелое оружие), Жульничество[b] и [B]Скрытность[b]. Эти четыре навыка становятся дополнительными карьерными навыками. Если это стартовая специализация персонажа, он может выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. Убийцы предпочитают тихо входить в дом, уничтожать цели (либо вблизи, либо снайперски издалека) и уходить так же тихо, как и вошли. Их таланты как нельзя лучше подходят для такой работы.
 
-[P]Despite their different methods, Assassins still adhere to many of the same ethics and practices of other Bounty Hunters. They take their work very seriously, avoid all needless bloodshed, and honor their contracts to the letter. Some treat their methods with reverence, even assigning a certain mystique to it. Others simply see themselves as cold killers, and are just fine with it.</Description>
-  <Source Page="59">Edge of the Empire Core Rulebook</Source>
+[P]Несмотря на различия в методах, убийцы придерживаются тех же этических норм, что и другие охотники за головами. Они очень серьезно относятся к своей работе, избегают ненужного кровопролития и до мелочей соблюдают условия контрактов. Некоторые относятся к своим методам с благоговением, даже наделяя их определенной мистикой. Другие просто считают себя холодными убийцами, и их это вполне устраивает.</Description>
+  <Source Page="59">Книга правил: Край Империи</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>MELEE</Key>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>DOCTOR</Key>
-  <Name>Doctor</Name>
-  <Description>[H4]Doctor - The Gift of Healing[h4]
+  <Name>Доктор</Name>
+  <Description>[H4]Доктор - Дар исцеления[h4]
 
-Of all the types of Colonists who come to the Outer Rim, Doctors probably have the easiest time finding employment. They are in high demand almost anywhere they go. Unfortunately, most of what they are asked to do involves patching up the wounds of the worst kind of beings.
+Из всех типов колонистов, прибывающих на Внешнее кольцо, докторам, пожалуй, легче всего найти работу. Они пользуются большим спросом практически везде, куда бы ни отправились. К сожалению, большая часть того, что их просят сделать, - это латание ран самых ужасных негодяев.
 
-[P]The Doctor adds [B]Cool, Knowledge (Education), Medicine,[b] and [B]Resilience[b] to his Career skills. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. With these skills, a Doctor brings not only healing and the treatment of illnesses with him, he brings a broad spectrum of knowledge and a solid persona in the face of adversity.
+[P]Доктор добавляет [B]Хладнокровие, Знания (Образование), Медицина, [b] и [B]Стойкость[b] к своим карьерным навыкам. Если это стартовая специализация персонажа, он может выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. С этими навыками Доктор приносит с собой не только исцеление и лечение болезней, но и широкий спектр знаний и стойкость перед лицом невзгод.
 
-[P]Most Doctors trade their healing talents for a chance to see more of the galaxy than their time in medical school ever allowed. Their overall motives can be as varied as those of any being, yet they tend to share a common instinct to heal where there is harm. While many will simply take up residence with whatever lord, corporation, or boss will hire them, other Doctors will find a way to get out into the larger galaxy, both to bring help to those in need and to experience life in some fashion.
+[P]Большинство докторов обменивают свои врачебные таланты на возможность увидеть больше галактики, чем позволяла учеба в медицинской школе. Их общие мотивы могут быть столь же разнообразны, как и мотивы любого существа, но, как правило, их объединяет общий инстинкт - лечить там, где есть вред. В то время как многие из них просто поселяются у какого-нибудь лорда, корпорации или босса, который их наймет, другие доктора находят способ выбраться в большую галактику, чтобы помочь тем, кто в этом нуждается, и чтобы испытать жизнь в какой-то мере.
 
-[P]A Player Character Doctor is likely to be considered a kind of "combat medic" for the group; this isn't a bad thing at all, and the role will make him very popular. At the same time, a Doctor can often help with broader issues of understanding or finding things out, especially if there isn't a Scholar in the group.</Description>
-  <Source Page="65">Edge of the Empire Core Rulebook</Source>
+[P]Персонаж Доктор игрока, скорее всего, будет считаться своего рода "боевым медиком" в группе; это совсем не плохо, и эта роль сделает его очень популярным. В то же время Доктор часто может помочь в более широких вопросах понимания или выяснения вещей, особенно если в группе нет Ученого.</Description>
+  <Source Page="65">Книга правил: Край Империи</Source>
   <CareerSkills>
     <Key>COOL</Key>
     <Key>EDU</Key>
