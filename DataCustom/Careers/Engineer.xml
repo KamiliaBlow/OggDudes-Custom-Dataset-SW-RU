@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Career>
   <Key>ENGINEER</Key>
-  <Name>Engineer</Name>
+  <Name>Инженер</Name>
   <Description>
-    [H4]Engineer[h4]
+    [H4]Инженер[h4]
 
-An Engineer's eight career skills are [B]Athletics, Computers, Knowledge (Education), Mechanics, Perception, Piloting (Space), Ranged (Light),[b] and [b]Vigilance[b]. The Engineer automatically gains a rank in four of these skills without spending experience, and gains a discount on increasing them with future experience points.
+Восемь профессиональных навыков инженера это: [B]Атлетика, Компьютеры, Знания (Образование), Механика, Внимание, Пилотирование (Космос), Дальний бой (легкое оружие),[b] и [B]Бдительность[b]. Инженер автоматически получает ранг в четырех из этих навыков, не тратя опыт, и получает скидку на их повышение с помощью будущих очков опыта.
 
-[P][H4]AN ENGINEER'S ROLE[h4]
+[P][H4]РОЛЬ ИНЖЕНЕРА[h4]
 
-[P]There would be no Galactic Civil War if not for the massive technological capabilities of both the Empire and the Alliance. Machines of every size and weapons of every type are employed across great distances to hammer away at the enemy. These machines are imagined, designed, and built by Engineers, and Engineers are the ones who know how to keep them running—or to stop them cold.
+[P]Галактической гражданской войны не было бы, если бы не огромные технологические возможности Империи и Альянса. Машины всех размеров и оружие всех типов используются на огромных расстояниях, чтобы уничтожить врага. Эти машины придуманы, спроектированы и построены инженерами, и именно инженеры знают, как заставить их работать или остановить.
 
-[P]Engineers speak the languages of computers, engines, and electrical conduits (they should, since they invented them). Most engineers prefer working with technology over people, especially in light of how chaotic the latter are. While some Engineers are fully (and eagerly) aware of the massive destruction their creations are capable of, most are merely fascinated with the challenge of creating something new, or fixing something thought beyond repair. Some focus their attentions on disrupting the machines of others, pitting their knowledge and talents against those of rivals working for the opposition.
+[P]Инженеры говорят на языках компьютеров, двигателей и электропроводов (так и должно быть, ведь они их изобрели). Большинство инженеров предпочитают работать с технологиями, а не с людьми, особенно в свете того, насколько хаотичны последние. Хотя некоторые инженеры полностью (и с нетерпением) осознают, на какие масштабные разрушения способны их творения, большинство из них просто увлечены задачей создать что-то новое или починить то, что считалось не подлежащим ремонту. Некоторые сосредотачивают свое внимание на нарушении работы чужих машин, противопоставляя свои знания и таланты знаниям и талантам соперников, работающих на оппозицию.
 
-[P]Whether at the design table, in the hangar bay, or scurrying towards an access panel with explosives in hand, Engineers are a vital part of the Alliance's war effort. They bring the Rebellion new weapons to fight with, keep its machines in service, and deliver devastating setbacks to the Empire's continuing agenda to craft superweapons of mass destruction.</Description>
-  <Source Page="82">Age of Rebellion Core Rulebook</Source>
+[P]За столом конструктора, в ангаре или у панели доступа со взрывчаткой в руках - инженеры являются жизненно важной частью военных усилий Альянса. Они приносят Восстанию новое оружие, поддерживают в рабочем состоянии его машины и наносят сокрушительный удар по планам Империи по созданию супероружия массового поражения.</Description>
+  <Source Page="82">Книга правил: Эпоха восстания</Source>
   <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>ATHL</Key>

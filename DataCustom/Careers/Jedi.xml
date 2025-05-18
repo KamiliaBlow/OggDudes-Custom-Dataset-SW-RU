@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Career>
   <Key>JEDI</Key>
-  <Name>Jedi</Name>
-  <Description>[H4]Jedi[h4]
-The Jedi's six career skills are [B]Athletics, Cool, Discipline, Knowledge (Lore), Lightsaber,[b] and [B]Piloting (Space).[b] Characters with this career automatically gain a rank in three of these skills without spending experience and gain a discount when increasing them with future experience points. [B]Jedi begin the game with a Force rating of 1.[b]
+  <Name>Джедай</Name>
+  <Description>[H4]Джедай[h4]
+Шесть карьерных навыков джедая это: [B]Атлетика, Хладнокровие, Выдержка, Знания (Легенды), Световой меч[b] и [B]Пилотирование (Космос).[b] Персонажи с этой карьерой автоматически получают ранг в трех из этих навыков без траты опыта и получают скидку при их повышении за счет будущих очков опыта. [B]Джедаи начинают игру с рейтингом Силы, равным 1.[b]
 
-[H4]A WARRIOR FOR PEACE[h4]
+[H4]ВОИН МИРА[h4]
 
-The Jedi of today have different roles than those described in myths, legends, and folk tales. These stories describe strange mystics, tyrant-toppling heroes, and shadowy figures manipulating minds. While such tales have some basis in fact, the Jedi now serve as generals, soldiers, emergency response specialists, and-in some cases-enforcers of the Galactic Republic's will.
-[P]Since the outbreak of the Clone Wars, Jedi have found themselves exploring the more esoteric aspects of the Force only rarely. Rather than philosophizing, they spend much of their time engaged in such activities as fighting battle droids, uncovering Separatist agents, and helping civilians survive the effects of the war with only limited support from the Republic government.
-[P]Jedi begin as Initiates or younglings, become Padawans for one-on-one training, progress to Knights when ready for independent responsibility, and may ultimately become Masters, who may adopt a monastic, scholarly, or administrative life. The urgency of the Clone Wars favors this structured approach, as these titles also help dictate wartime responsibilities. Masters advise the Jedi Order and the Republic from Coruscant. Knights take to the field of battle as commanders, and Padawans stand by their Masters' sides as subcommanders and aides.
+Роль современных джедаев отличается от той, что описана в мифах, легендах и народных сказках. В этих историях описываются странные мистики, герои, свергающие тиранов, и теневые фигуры, манипулирующие сознанием. Хотя такие истории имеют под собой некоторую основу, джедаи сегодня служат генералами, солдатами, специалистами по чрезвычайным ситуациям, а в некоторых случаях - исполнителями воли Галактической Республики.
+[P]После начала Войны клонов джедаи лишь изредка обращаются к эзотерическим аспектам Силы. Вместо того чтобы философствовать, они проводят большую часть своего времени за такими занятиями, как борьба с боевыми дроидами, раскрытие агентов Сепаратистов и помощь мирным жителям в преодолении последствий войны при ограниченной поддержке правительства Республики.
+[P]Джедаи начинают как Юнлинги или Посвященные, становятся Падаванами для обучения один на один, переходят в Рыцари, когда готовы к самостоятельной ответственности, и в конце концов становятся Мастерами, которые могут вести монашеский, ученый или административный образ жизни. Срочность Войны клонов благоприятствует такому структурированному подходу, поскольку эти титулы также помогают определить обязанности в военное время. Магистры консультируют Орден джедаев и Республику с Корусанта. Рыцари выходят на поле боя в качестве командиров, а падаваны стоят рядом со своими мастерами в качестве субкомандиров и помощников.
 </Description>
-  <Source Page="24">Rise of the Separatists</Source>
+  <Source Page="24">Дополнение: Восстание сепаратистов</Source>
   <Custom>AddedItem</Custom>
   <CareerSkills>
     <Key>ATHL</Key>

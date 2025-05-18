@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Career>
   <Key>MYSTIC</Key>
-  <Name>Mystic</Name>
+  <Name>Мистик</Name>
   <Description>
-    [H4]Mystic[h4]
+    [H4]Мистик[h4]
 
-The Mystic's six career skills are [B]Charm, Coercion, Knowledge (Lore), Knowledge (Outer Rim), Perception,[b] and [B]Vigilance[b]. A Mystic automatically gains a rank in three of these skills without spending experience and gains a discount on increasing them with future experience points. [B]A Mystic begins play with a Force rating of 1.[b]
+Шесть карьерных навыков мистика это: [B]Обаяние, Запугивание, Знание (Легенды), Знание (Внешнее кольцо), Внимание[b] и [B]Бдительность[b]. Мистик автоматически получает ранг в трех из этих навыков, не тратя опыт, и получает скидку на их повышение с помощью будущих очков опыта. [B]Мистик начинает игру с рейтингом Силы, равным 1.[b]
 
-[P][H4]A MYSTIC'S ROLE[h4]
+[P][H4]РОЛЬ МИСТИКА[h4]
 
-[P]Characters who follow the Mystic career are typically born to accept this mantle. From the time they first open their eyes, a strong connection to the Force colors their perception of the world surrounding them. They constantly perceive the ebb and flow of its energies between all living things. To many Mystics, the Force is as important a guide and mentor as their family and trusted friends. It teaches them to trust their instincts more than any training or instruction, for those instincts come from the Force.
+[P]Персонажи, которые следуют карьере мистика, как правило, рождаются, чтобы принять эту мантию. С того момента, как они впервые открывают глаза, сильная связь с Силой окрашивает их восприятие окружающего мира. Они постоянно ощущают прилив и отлив ее энергий между всеми живыми существами. Для многих мистиков Сила - такой же важный проводник и наставник, как семья и верные друзья. Она учит их доверять своим инстинктам больше, чем любые тренировки или наставления, ведь эти инстинкты исходят от Силы.
 
-[P]Because Mystics dwell so deeply in the Force, they often learn to master a broad range of Force powers. Training and practice can, of course, enhance their aptitude, but not all of them require a teacher. Rather, many Mystics simply intuit their powers through experience and their connection to the Force. Many Mystics accept this as the natural way of things. They strongly believe that the Force guides and provides for them as long as they remember to remain open and aware of its presence.
+[P]Поскольку мистики глубоко погружаются в Силу, они часто учатся владеть широким спектром способностей Силы. Тренировки и практика, конечно, могут повысить их способности, но не все они требуют учителя. Скорее, многие Мистики просто интуитивно понимают свои способности благодаря опыту и связи с Силой. Многие мистики принимают это как естественный ход вещей. Они твердо верят, что Сила направляет и обеспечивает их до тех пор, пока они не забывают оставаться открытыми и осознавать ее присутствие.
 
-[P]Many Mystics come from a culture where their connection to the Force has made them a person of importance. In some instances, they might have served as an advisor or even a magistrate. In other cases, their role could have been more religious or shamanic. They are likely to expect a certain degree of deference because of their previous experiences. This means many Mystics develop a powerful charisma and captivating presence. Some Mystics come by this naturally, able to convince others of what they have seen using soft words and persuasive arguments. Others work tirelessly to develop these personality traits, knowing that a compliment (or even a lie) in the right ear at the right time can quickly advance their goals.</Description>
-  <Source Page="78">Force and Destiny Core Rulebook</Source>
+[P]Многие мистики происходят из культур, где их связь с Силой сделала их важными персонами. В некоторых случаях они могли служить советником или даже судьей. В других случаях их роль могла быть более религиозной или шаманской. Благодаря своему предыдущему опыту они, скорее всего, ожидают определенной степени почтения. Это означает, что многие Мистики обладают мощной харизмой и пленительным очарованием. Некоторые Мистики получают это от природы, умея убедить других в том, что они видели, используя мягкие слова и убедительные аргументы. Другие неустанно работают над развитием этих качеств личности, зная, что комплимент (или даже ложь), сказанный в нужное время, может быстро продвинуть их цели.</Description>
+  <Source Page="78">Книга правил: Сила и судьба</Source>
   <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>CHARM</Key>

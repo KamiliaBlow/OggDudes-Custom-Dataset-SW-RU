@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Career>
   <Key>SEEKER</Key>
-  <Name>Seeker</Name>
+  <Name>Искатель</Name>
   <Description>
-    [H4]Seeker[h4]
+    [H4]Искатель[h4]
 
-The Seeker's six career skills are [B]Knowledge (Xenology), Piloting (Planetary), Piloting (Space), Ranged (Heavy), Survival,[b] and [B]Vigilance[b]. Characters with this career automatically gain a rank in three of these skills without spending experience and gain a discount on increasing them with future experience points. [B]Seekers begin the game with a Force rating of 1.[b]
+Шесть карьерных навыков Искателя это: [B]Знание (ксенология), Пилотирование (планетарное), Пилотирование (космическое), Дальний бой (тяжелое оружие), Выживание[b] и [B]Бдительность[b]. Персонажи с этой карьерой автоматически получают ранг в трех из этих навыков, не тратя опыт, и получают скидку на их повышение с помощью будущих очков опыта. [B]Искатели начинают игру с рейтингом Силы, равным 1.[b]
 
-[P][H4]A SEEKER'S ROLE[h4]
+[P][H4]РОЛЬ ИСКАТЕЛЯ[h4]
 
-[P]It is not uncommon for some Force adepts to feel compelled to travel throughout the galaxy to aid those in need and to oppose those who use the dark side. While some might focus their attentions in cities and urban centers, the need can be just as great far
-from the heart of galactic civilization. A Force adept who is willing and able to travel and work in these environments can help ease crushing poverty or crippling plagues of hunger and disease. He can also discover new Force techniques, find sensitives in need of training, and at times halt dangerous threats that could otherwise fester in isolation. A Seeker must be capable of doing all of these things, while traveling far from any meaningful support network.
-[P]Seekers generally take a very pragmatic view toward the Force. Operating independently, they consider it to be one of the tools in their arsenal, but not the only one. For a Seeker, preparedness and adaptability are paramount. They cannot count on finding the right tools for the job in the isolated areas in which they travel. As such, they learn to be flexible and adapt quickly to find the best equipment from what is available. In some environments, this may mean discovering information about flora and fauna that is previously undocumented. In such situations, the Force can be the most reliable asset, and its flexibility can aid them in selecting and using whatever else is at hand.
+[P]Нередко адепты Силы вынуждены путешествовать по галактике, чтобы помогать нуждающимся и противостоять тем, кто использует темную сторону. Хотя некоторые из них могут сосредоточить свое внимание на городах и городских центрах, потребность в помощи может быть столь же велика
+и вдали от сердца галактической цивилизации. Адепт Силы, который хочет и может путешествовать и работать в таких условиях, может помочь облегчить сокрушительную нищету или изнурительную эпидемию голода и болезней. Он также может открывать новые техники Силы, находить чувствительных, нуждающихся в обучении, и порой останавливать опасные угрозы, которые в противном случае могли бы гнить в изоляции. Искатель должен быть способен делать все эти вещи, находясь вдали от какой-либо значимой сети поддержки.
+[P]Искатели обычно относятся к Силе весьма прагматично. Действуя самостоятельно, они считают ее одним из инструментов в своем арсенале, но не единственным. Для Искателя готовность и способность к адаптации имеют первостепенное значение. Они не могут рассчитывать на то, что в изолированных районах, по которым они путешествуют, найдутся подходящие инструменты для работы. Поэтому они учатся быть гибкими и быстро адаптироваться, чтобы найти лучшее снаряжение из того, что есть в наличии. В некоторых условиях это может означать обнаружение информации о флоре и фауне, которая ранее не была задокументирована. В таких ситуациях Сила может стать самым надежным средством, а ее гибкость поможет им выбрать и использовать все, что попадется под руку.
 
-[P]This flexibility is vital for a Seeker. Some of these characters travel at the direction of the Force, allowing fortune and chance to select their destinations and their traveling companions. Others work within the confines of larger groups. They may be troubleshooters. bounty hunters, envoys, or even traveling merchants. The variety of work means the Seeker must be prepared to quickly adapt to these changing situations and to make the most effective use possible of the tools that are at hand.</Description>
-  <Source Page="84">Force and Destiny Core Rulebook</Source>
+[P]Такая гибкость жизненно важна для Искателя. Некоторые из этих персонажей путешествуют по велению Силы, позволяя фортуне и случайности выбирать места назначения и попутчиков. Другие работают в составе больших групп. Они могут быть устранителями неполадок, охотниками за головами, посланниками или даже странствующими торговцами. Разнообразие работы означает, что Искатель должен быть готов быстро адаптироваться к меняющимся ситуациям и максимально эффективно использовать имеющиеся под рукой инструменты.</Description>
+  <Source Page="84">Книга правил: Сила и судьба</Source>
   <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>PILOTPL</Key>

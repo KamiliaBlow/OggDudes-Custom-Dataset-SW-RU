@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Career>
   <Key>HIREDGUN</Key>
-  <Name>Hired Gun</Name>
+  <Name>Наемник</Name>
   <Description>
-    [H4]Hired Gun[h4]
+    [H4]Наемник[h4]
 
-[P]The Hired Gun's eight career skills are [B]Athletics, Brawl, Discipline, Melee, Piloting (Planetary), Ranged (Light), Resilience,[b] and [B]Vigilance[b]. He automatically gains one rank in four of these skills (of his choosing) without spending experience, and he receives a discount when he spends experience to purchase ranks in any of these skills.
+[P]Восемь карьерных навыков наемника это: [B]Атлетика, Грубая сила, Выдержка, Рукопашный бой, Пилотирование (планетарное), Дальний бой (легкое оружие), Стойкость[b] и [B]Бдительность[b]. Он автоматически получает один ранг в четырех из этих навыков (по своему выбору), не тратя опыт, и получает скидку, когда тратит опыт на приобретение рангов в любом из этих навыков.
 
-[P][H4]A Hired Gun's Role[h4]
+[P][H4]РОЛЬ НАЕМНИКА[h4]
 
-[P]When it comes to fighting, the Hired Gun is at the forefront. He's less of an independent operator than the Bounty Hunter, preferring to have a defined mission, an objective to achieve, and some credits to spend when the job is done. Hired Guns are muscle and applied force, meant to defend or attack as the situation requires. They deal damage or protect others for credits, and this makes them simple and sometimes refreshingly direct.
+[P]Когда дело доходит до сражений, Наемник выходит на передний план. Он менее самостоятелен, чем охотник за головами, предпочитая иметь определенное задание, цель, которую нужно достичь, и кредиты, которые можно потратить, когда дело сделано. Наемники - это мускулы и прикладная сила, призванная защищать или нападать в зависимости от ситуации. Они нападают или защищают других за кредиты, и это делает их простыми и иногда довольно прямолинейными.
 
-[P]A Hired Gun one typically encounters in the Outer Rim likely came from one of three kinds of backgrounds; he may have been a soldier for the Empire (or, possibly, even for the Old Republic before its fall), he might have served with a planetary or organizational force of some kind, or he simply came up hard, learning how to shoot and fight because that was the only way he could survive. However he came by them, the Hired Gun has the kinds of skills and talents that make it fairly easy to find work in the Outer Rim and the fringes of society.
+[P]Наемника, которого обычно можно встретить во Внешнем кольце, скорее всего, был выходцем из одной из трех сфер: он мог быть солдатом Империи (или, возможно, даже Старой Республики до ее падения), мог служить в планетарных или общих силах, или просто учился стрелять и драться, когда-то в прошлом, потому что это был единственный способ выжить. Как бы он к ним ни пришел, наемник обладает теми навыками и талантами, благодаря которым ему довольно легко найти работу во Внешнем кольце и на задворках общества.
 
-[P]Many Hired Guns are true mercenaries, either working for themselves or contracted to a guild or company of some kind. Much like Bounty Hunters, the Hired Guns who are part of a guild tend to enjoy a great deal of support. They do not, however, have much in the way of freedom. More than a few Hired Guns have walked away from contracts that either violated their personal ethics or left them feeling completely exploited with terrible terms of service. Unfortunately, such mercenaries are left watching their backs for years after.
+[P]Многие наемники - реальные наемники, работающие либо на себя, либо по контракту с какой-либо гильдией или компанией. Как и охотники за головами, наемники, состоящие в гильдии, обычно пользуются большой поддержкой. Однако свободы у них не так много. Не раз наемники уходили от контрактов, которые либо нарушали их личную этику, либо заставляли их чувствовать себя полностью эксплуатируемыми с ужасными условиями службы. К сожалению, такие наемники еще долгие годы следят за своими спинами.
 
-[P]Independent Hired Guns enjoy the greatest freedom, yet they also spend a lot of time just trying to find a good job, and preferably one that doesn't give them a life expectancy measured in days. Reputation can mean everything for such professionals, yet a simple test of skills and competency may often result in a better arrangement if the right employer is impressed.</Description>
-  <Source Page="74">Edge of the Empire Core Rulebook</Source>
+[P]Независимые наемники пользуются наибольшей свободой, но и они тратят много времени на то, чтобы найти хорошую работу, и желательно такую, чтобы срок ее жизни не исчислялся днями. Репутация для таких профессионалов может значить все, но простая проверка навыков и компетентности часто может привести к лучшему соглашению, если работодатель произведет впечатление.</Description>
+  <Source Page="74">Книга правил: Край Империи</Source>
   <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>ATHL</Key>

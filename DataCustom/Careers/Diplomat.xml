@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Career>
   <Key>DIPLOMAT</Key>
-  <Name>Diplomat</Name>
+  <Name>Дипломат</Name>
   <Description>
-    [H4]Diplomat[h4]
+    [H4]Дипломат[h4]
 
-A Diplomat's eight career skills are [B]Charm, Deception, Knowledge (Core Worlds), Knowledge (Lore), Knowledge (Outer Rim), Knowledge (Xenology), Leadership,[b] and [B]Negotiation[b]. He automatically gains a rank in four of these skills without spending experience, and gains a discount on increasing them with future experience points.
+Восемь карьерных навыков дипломата это: [B]Обаяние, Обман, Знание (Центральные миры), Знание (Легенды), Знание (Внешнее кольцо), Знание (Ксенология), Лидерство[b] и [B]Переговоры[b]. Он автоматически получает ранг в четырех из этих навыков, не тратя опыт, и получает скидку на их повышение с помощью будущих очков опыта.
 
-[P][H4]A DIPLOMAT'S ROLE[h4]
+[P][H4]РОЛЬ ДИПЛОМАТА[h4]
 
-[P]The single most important resource in any war is people, and the Diplomat is the procurer of this resource, as well as the one who guides its use. Diplomats may not directly wage the war, but they ensure there is a chance for victory, and they are utterly indispensable for arranging and managing the peace to follow.
+[P]Важнейшим ресурсом в любой войне являются люди, а дипломат - это поставщик этого ресурса, а также тот, кто руководит его использованием. Дипломаты не могут непосредственно вести войну, но они обеспечивают шанс на победу и совершенно незаменимы для организации и управления последующим миром.
 
-[P]While many of the Rebellion's heroes wage war with weapons, Diplomats are masters of employing words for strategic gain. If the stylus is stronger than the sword, then it is the Diplomat who must wield it with the skill and finesse necessary to achieve victory without spilling a drop of blood. Whether overseeing a treaty with a potential ally or arranging the terms for an enemy's equitable surrender, a Diplomat's battlefield is the negotiating table.
+[P]В то время как многие герои Восстания ведут войну с помощью оружия, дипломаты - мастера использования слов для достижения стратегических целей. Если перо сильнее меча, то именно Дипломат должен владеть им с мастерством и изяществом, необходимыми для достижения победы без пролития капли крови. Будь то заключение договора с потенциальным союзником или согласование условий справедливой капитуляции врага, поле боя для дипломата - это стол переговоров.
 
-[P]In the halls of the Senate, on the streets of a planet rife with political discord, or in a warehouse full of desperately needed medical supplies, the Diplomat struggles to gain the upper hand and achieve a favorable—and perhaps peaceful—outcome for his people. No matter his methods, the Diplomat's success or failure has dramatic impact on a great many lives, and this drives him to passionately pursue his own form of victory at all costs.</Description>
-  <Source Page="76">Age of Rebellion Core Rulebook</Source>
+[P]В залах Сената, на улицах планеты, охваченной политическими разногласиями, или на складе с крайне необходимыми медикаментами Дипломат борется за то, чтобы одержать верх и добиться благоприятного, а возможно, и мирного исхода для своего народа. Независимо от его методов, успех или неудача Дипломата оказывает драматическое влияние на множество жизней, и это заставляет его страстно добиваться своей собственной формы победы любой ценой.</Description>
+  <Source Page="76">Книга правил: Эпоха восстания</Source>
   <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>CHARM</Key>

@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Career>
   <Key>CLONE</Key>
-  <Name>Clone Soldier</Name>
-  <Description>[H4]Clone Soldier[h4]
-Clone Soldiers' initial training is narrowly focused to deliver the tools they need as soldiers in the Grand Army of the Republic. Due to their accelerated, synthetic growth cycle and rapid training program, they begin with the career skills [B]Athletics, Brawl, Cool, Discipline, Medicine, Ranged (Heavy), Ranged (Light),[b] and [B]Vigilance.[b] A Clone Soldier automatically gains a rank in four of these skills without spending experience. They receive a discount when spending experience points for advancement on any of the eight career skills.
+  <Name>Солдат клон</Name>
+  <Description>[H4]Солдат клон[h4]
+Первоначальная подготовка солдат-клонов узконаправленна, чтобы дать им инструменты, необходимые для службы в Великой армии Республики. Благодаря ускоренному, синтетическому циклу роста и быстрой программе обучения, они начинают с карьерных навыков: [B]Атлетика, Грубая сила, Хладнокровие, Выдержка, Медицина, Дальний бой (тяжелое оружие), Дальний бой (легкое оружие),[b] и [B]Бдительность.[b] Солдат-клон автоматически получает ранг в четырех из этих навыков без траты опыта. Они получают скидку при расходовании очков опыта для продвижения по любому из восьми карьерных навыков.
 
-[H4]A CLONE SOLDIER'S ROLE[h4]
+[H4]РОЛЬ СОЛДАТА КЛОНА[h4]
 
-Clone Soldiers form the backbone of the Grand Army of the Republic. They serve in practically every battlefield role, fighting as infantry, leading as officers, and flying as pilots, in addition to fulfilling both mundane and esoteric responsibilities. These soldiers share their genetic identity, their origins, and their core training. However, they all have distinct experiences and personal responsibilities. These slight variations are enough to make them recognizable individuals who manage to secure their own niches within the vast army.
-[P]The clones' shared traits are a powerful asset to the individual soldiers and the army as a whole. They are universally competent in those areas required for them to be effective soldiers. They have a baseline level of training that is extremely consistent, so that the clones' commanders-including Jedi, career military officers, and other clones-can reliably expect them to perform as planned in the field. Further, the flexibility inherent to their organic makeup grants a significant advantage against their most common opponents: the droids of the Separatist army.
+Солдаты-клоны составляют костяк Великой армии Республики. Они выполняют практически все функции на поле боя: сражаются как пехотинцы, руководят как офицеры, летают как пилоты, а также выполняют как обыденные, так и эзотерические обязанности. Эти солдаты имеют общую генетическую принадлежность, происхождение и основную подготовку. Однако у каждого из них есть свой опыт и свои обязанности. Этих незначительных различий достаточно, чтобы сделать их узнаваемыми личностями, которые сумели занять свои собственные ниши в огромной армии.
+[P]Общие черты клонов являются мощным преимуществом как для отдельных солдат, так и для армии в целом. Они универсально компетентны в тех областях, которые необходимы им для того, чтобы быть эффективными солдатами. Их базовый уровень подготовки чрезвычайно постоянен, так что командиры клонов - джедаи, кадровые военные и другие клоны - могут с уверенностью ожидать от них запланированных действий в полевых условиях. Кроме того, гибкость, присущая их органическому составу, дает значительное преимущество против их самых распространенных противников - дроидов армии Сепаратистов.
 </Description>
-  <Source Page="18">Rise of the Separatists</Source>
+  <Source Page="18">Дополнение: Восстание сепаратистов</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ATHL</Key>

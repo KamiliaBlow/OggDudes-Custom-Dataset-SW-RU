@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Career>
   <Key>COMMANDER</Key>
-  <Name>Commander</Name>
+  <Name>Командующий</Name>
   <Description>
-    [H4]Commander [h4]
+    [H4]Командующий [h4]
 
-A Commander's eight career skills are [B]Coercion, Cool, Discipline, Knowledge (Warfare), Leadership, Perception, Ranged (Light),[b] and [B]Vigilance[b]. He automatically gains a rank in four of these skills without spending experience, and gains a discount on increasing them with future experience points.
+Восемь карьерных навыков командующего это: [B]Запугивание, Хладнокровие, Выдержка, Знание (военное дело), Лидерство, Внимание, Дальний бой (легкое оружие),[b] и [B]Бдительность[b]. Он автоматически получает ранг в четырех из этих навыков, не тратя опыт, и получает скидку на их повышение с помощью будущих очков опыта.
 
-[P][H4]A COMMANDER'S ROLE[h4]
+[P][H4]РОЛЬ КОМАНДУЮЩЕГО[h4]
 
-[P]Individual warriors can act bravely and with resolute determination, accomplishing great things. They can also cause untold havoc without any real achievement, save property damage and loss of life, including their own. A motley mob of people capable of violence is only a threat until a more disciplined force arrives to put it down.
+[P]Отдельные воины могут действовать храбро и решительно, совершая великие дела. Они также могут устроить несметный хаос без каких-либо реальных достижений, кроме порчи имущества и гибели людей, в том числе и своей собственной. Разношерстная толпа людей, способных на насилие, представляет собой угрозу лишь до тех пор, пока не прибудут более дисциплинированные силы, чтобы подавить ее.
 
-[P]The role of a Commander is to organize, manage, and lead the fighters and other people who serve in a military force so they accomplish truly great things together. He must see the bigger picture, make the hard decisions, and motivate his people to charge into the jaws of death for a greater cause, all while never wasting personnel or resources. Without good Commanders, true victory is impossible for any military.
+[P]Роль командующего заключается в организации, управлении и руководстве бойцами и другими людьми, служащими в вооруженных силах, чтобы они вместе совершали поистине великие дела. Он должен видеть общую картину, принимать сложные решения и мотивировать своих людей бросаться в пасть смерти ради великой цели, не теряя при этом ни личного состава, ни ресурсов. Без хороших командующих настоящая победа невозможна для любой армии.
 
-[P]Whether on the bridge of a capital ship, flying in formation with a squad of starfighters, or standing on a hill shouting encouragement to his troops, the Commander is the true heart and soul of the Alliance military. In his hands lies the key to victory or defeat.</Description>
-  <Source Page="70">Age of Rebellion Core Rulebook</Source>
+[P]Находясь на мостике крупного корабля, летя в строю с эскадрильей звездолетов или стоя на холме и подбадривая своих солдат, командующий является истинным сердцем и душой армии Альянса. В его руках находится ключ к победе или поражению.</Description>
+  <Source Page="70">Книга правил: Эпоха восстания</Source>
   <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>COERC</Key>

@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Career>
   <Key>SMUG</Key>
-  <Name>Smuggler</Name>
+  <Name>Контрабандист</Name>
   <Description>
-    [H4]Smuggler[h4]
+    [H4]Контрабандист[h4]
 
-[P]Smugglers are a crafty, diverse bunch with core skills as follows: [B]Coordination, Deception, Knowledge (Underworld), Perception, Piloting (Space), Skulduggery, Streetwise,[b] and [B]Vigilance[b]. He automatically gains one rank in four of these skills (of his choosing) without spending experience, and he receives a discount when he spends experience to purchase ranks in any of these skills.
+[P]Контрабандисты - хитрая и разносторонняя компания, обладающая следующими основными навыками: [B]Координация, Обман, Знание (преступный мир), Внимание, Пилотирование (космос), Жульничество, Уличная интуиция[b] и [B]Бдительность[b]. Он автоматически получает один ранг в четырех из этих навыков (по своему выбору), не тратя опыт, и получает скидку, когда тратит опыт на приобретение рангов в любом из этих навыков.
 
-[P][H4]The Smuggler's Role[h4]
+[P][H4]РОЛЬ КОНТРАБАНДИСТА[h4]
 
-[P]Though they spend most of their lives struggling to avoid Imperial entanglements, keeping their ships flying, dodging blaster fire, and having enough to eat, Smugglers are often seen as the freest beings in the galaxy. They travel the hyperspace lanes, system to system, planet to planet, bringing what people want and need (and cannot get through legitimate means).
+[P]Несмотря на то что большую часть своей жизни они проводят, стараясь избежать имперских пут, удерживая свои корабли в полете, уклоняясь от огня бластеров и имея достаточно еды, контрабандистов часто считают самыми свободными существами в галактике. Они путешествуют по гиперпространственным каналам, от системы к системе, от планеты к планете, доставляя то, что нужно людям (и что они не могут получить законным путем).
 
-[P]Unfortunately, that freedom is often an illusion; many Smugglers find themselves indebted to powerful people, having been forced to take a marker on their ships just to stay in business. Such markers inevitably lead Smugglers into a kind of indentured servitude unless they can figure a way out of it. That requires a very big 'score" of some kind—a job of such financial reward, the Smuggler can buy his ship back and afford to operate on his own again.
+[P]К сожалению, эта свобода часто оказывается иллюзией: многие контрабандисты оказываются в долгу перед влиятельными людьми, вынужденные брать маркер на свои корабли, чтобы оставаться в бизнесе. Такие метки неизбежно приводят контрабандистов в своего рода кабалу, если только они не найдут выход из нее. Для этого нужно сорвать очень большой куш - выполнить работу с таким финансовым вознаграждением, чтобы контрабандист смог выкупить свой корабль и снова позволить себе работать самостоятельно.
 
-[P]Few Smugglers survive that kind of job. Most just deal with their circumstances and keep their ships going.
+[P]Немногие контрабандисты выживают после такой работы. Большинство просто смиряются с обстоятельствами и поддерживают свои корабли в рабочем состоянии.
 
-[P]Even with a marker on the ship, though, Smugglers tend to have a great deal of autonomy, and they develop a great many skills and talents that any group making their way through the Outer Rim will find helpful. Smugglers know their way around the underworld and fringe society, and they tend to know how to get things done, especially if legality isn't an issue.
+[P]Однако даже при наличии маркера на корабле контрабандисты обычно обладают большой самостоятельностью и развивают множество навыков и талантов, которые пригодятся любой группе, пробирающейся через Внешнее кольцо. Контрабандисты знают толк в криминальном мире и пограничных обществах, они умеют добиваться своего, особенно если законность не является проблемой.
 
-[P]Smugglers are a vital part of Outer Rim society. With tariffs, quantity restrictions, and outright banning of even basic necessities being shipped to worlds not fully under Imperial Law, a great many people would be scratching out the poorest sort of existence, or perhaps dying outright due to lack of food and medicine. Smugglers' ships are the lifelines that keep many distant population centers going.
+[P]Контрабандисты - жизненно важная часть общества Внешнего кольца. С учетом тарифов, ограничений по количеству и прямого запрета на доставку даже предметов первой необходимости на миры, не полностью подчиняющиеся Имперским законам, очень многие люди будут влачить самое жалкое существование, а возможно, и вовсе умрут из-за нехватки еды и лекарств. Корабли контрабандистов - это спасательные круги, которые поддерживают жизнь многих отдаленных населенных пунктов.
 
-[P]Of course, the most profitable cargoes are the ones that will land someone in the Kessel spice mines if he's caught with them.</Description>
-  <Source Page="80">Edge of the Empire Core Rulebook</Source>
+[P]Конечно, самые прибыльные грузы - это те, за которые можно угодить в шахты Кессела, если его поймают с ними.</Description>
+  <Source Page="80">Книга правил: Край Империи</Source>
   <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>COORD</Key>

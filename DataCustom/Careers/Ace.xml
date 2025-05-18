@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Career>
   <Key>THEACE</Key>
-  <Name>Ace</Name>
+  <Name>Пилот</Name>
   <Description>
-    [H4]Ace [h4]
+    [H4]Пилот [h4]
 
-An Ace's eight career skills are [B]Astrogation, Cool, Gunnery, Mechanics, Perception, Piloting (Planetary), Piloting (Space),[b] and [B]Ranged (Light).[b] The Ace automatically gains a rank in four of these skills without spending experience, and receives a discount on increasing them with future experience points.
+Восемь карьерных навыков Пилота это: [B]Астрогация, Хладнокровие, Артиллерия, Механика, Внимание, Пилотирование (планетарное), Пилотирование (космическое),[b] и [B]Дальний бой (легкое оружие).[b] Пилот автоматически получает ранг в четырех из этих навыков без траты опыта и получает скидку на их повышение с будущими очками опыта.
 
-[P][H4]AN ACE'S ROLE[h4]
+[P][H4]РОЛЬ ПИЛОТА[h4]
 
-[P]Piloting vehicles, from repulsorlift speeders to massive starships and everything in between, is a fairly common skill for anyone who lives outside of a completely isolated, low-tech society. However, when it's time to get somewhere fast or plunge into the thick of vehicular combat, Aces are the ones people want at the controls.
-[P]Just getting from one place to another is not enough for the Ace; this flier wants to get there faster, and to do so with style. He'd rather dive headlong into an asteroid field with half a dozen ships on his tail than safely move cargo down a well-traveled hyperspace lane. Aces are not the kind of people most transport companies want to hire to move their goods. They are, however, in very high demand when it comes to ship-to-ship combat of any kind, or when war machines need to be maneuvered into place during a planet-side battle.
+[P]Пилотирование транспортных средств, от репульсорных спидеров до огромных звездолетов и всего, что между ними, - довольно распространенный навык для всех, кто живет не в полностью изолированном низкотехнологичном обществе. Однако когда нужно быстро добраться до места или погрузиться в гущу боев на технике, за штурвалом оказываются именно пилоты.
+[P]Просто добраться из одного места в другое для Пилота недостаточно: этот ас хочет добраться туда быстрее и сделать это стильно. Он скорее нырнет в астероидное поле с полудюжиной кораблей на хвосте, чем безопасно перевезет груз по хорошо проторенной гиперпространственной дорожке. Пилоты - не те люди, которых большинство транспортных компаний хотят нанять для перевозки своих грузов. Однако они очень востребованы, когда дело доходит до боя между кораблями любого типа или когда нужно маневрировать военными машинами во время планетарного сражения.
 
-[P]The Ace isn't just a master of piloting and driving, but often has a gift for using vehicular weapons to deadly effect. He understands that shooting is about more than merely looking through a scope and pulling a trigger—leading the target, compensating for the complexities of moving bodies in space, and aiming for vulnerable systems make the Ace a force to be reckoned with in any dogfight or speeder chase.</Description>
-  <Source Page="64">Age of Rebellion Core Rulebook</Source>
+[P]Пилот - не только мастер пилотирования и вождения, но и часто обладает даром смертоносного использования оружия транспорта. Он понимает, что стрелять - это не просто смотреть в прицел и нажимать на курок: наведение на цель, компенсация сложностей перемещения тел в пространстве и прицеливание в уязвимые системы делают Пилота силой, с которой приходится считаться в любой грязной драке или погоне за спидером.</Description>
+  <Source Page="64">Книга правил: Эпоха восстания</Source>
   <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>ASTRO</Key>

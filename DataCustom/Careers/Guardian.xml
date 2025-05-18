@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Career>
   <Key>GUARD</Key>
-  <Name>Guardian</Name>
+  <Name>Защитник</Name>
   <Description>
-    [H4]Guardian[h4]
+    [H4]Защитник[h4]
 
-The Guardian's six career skills are [B]Brawl, Cool, Discipline, Melee, Resilience,[b] and [B]Vigilance[b]. A character who chooses this career automatically 'gains a rank in three of these skills without spending experience and gains a discount on increasing them with future experience points. [B]The Guardian begins with a Force rating of 1.[b]
+Шесть карьерных навыков Защитника это: [B]Грубая сила, Хладнокровие, Дисциплина, Ближний бой, Стойкость[b] и [B]Бдительность[b]. Персонаж, выбравший эту карьеру, автоматически получает ранг в трех из этих навыков без траты опыта и получает скидку на их повышение в будущем за счет очков опыта. [B]Защитник начинает с рейтингом Силы, равным 1.[b]
 
-[P][H4]A GUARDIAN'S ROLE[h4]
+[P][H4]РОЛЬ ЗАЩИТНИКА[h4]
 
-[P]Adherents of the Guardian career are driven by a strong sense of responsibility and compassion. They recognize their affinity for the Force gives them the power—and responsibility—to help the helpless and aid the oppressed. Guardians tend to be blunt and forthright, using their prodigious combat prowess and natural leadership skills to directly intercede where they are needed most.
+[P]Адептами карьеры Защитника движет сильное чувство ответственности и сострадания. Они понимают, что их родство с Силой дает им возможность и обязанность помогать беспомощным и угнетенным. Защитники склонны быть прямыми и откровенными, используя свои выдающиеся боевые способности и природные лидерские качества для прямого вмешательства там, где они больше всего нужны.
 
-[P]Most Guardians have a swagger about them, a cool confidence coupled with an air of nobility and authority. This poise is often well deserved. Guardians are capable of surviving and winning battles against overwhelming odds. Their martial training tends to focus almost exclusively on defense and resilience, leaving a Guardian as hard as granite. Hordes of opponents break upon a Guardian like waves upon shoreline rocks, leaving themselves exhausted and open to devastating counterattacks.
+[P]Большинство Защитников отличаются развязностью, холодной уверенностью в себе и благородством и властностью. Такое самообладание часто бывает вполне заслуженным. Защитники способны выживать и побеждать в сражениях, когда шансы на победу слишком велики. Их боевая подготовка, как правило, сосредоточена почти исключительно на защите и стойкости, поэтому Защитник тверд как гранит. Полчища противников обрушиваются на Защитника, как волны на прибрежные скалы, оставляя его обессиленным и открытым для сокрушительных контратак.
 
-[P]Alone, this combat prowess would be impressive, but a Guardian couples his abilities with his connection to the Force. This combination makes the Guardian far more than a mere thug, inspiring compassion and concern for those he protects. A Guardian's defensive combat style matches this concern for life. Rather than make aggressive moves, he gives his opposition every chance to relent and choose a peaceful resolution. However, if they attack, the Guardian quickly demonstrates why their choice was the wrong one.
+[P]В одиночку такая боевая доблесть впечатляет, но Защитник сочетает свои способности со связью с Силой. Такое сочетание делает Защитника намного больше, чем простого головореза, внушая сострадание и заботу о тех, кого он защищает. Защитный стиль боя Защитника соответствует этой заботе о жизни. Вместо того чтобы предпринимать агрессивные действия, он дает противнику все шансы сдаться и выбрать мирное решение. Однако если они нападают, Защитник быстро показывает, почему их выбор был неверным.
 
-[P]In many cases, a Guardian becomes established within a particular geographic region. This might be as large as a group of planets within a sector or as small as a neighborhood in a large city. A Guardian who focuses on a region in this way can choose to take stewardship of it. Notably, such stewardship comes out of a sense of responsibility and duty rather than any actual authority. Guardians seldom assume political power. Instead, they act in accordance with their internal moral compass, as guided by the Force, to ensure that everyone under their protection receives the justice they deserve.
-[P]Other Guardians follow the calling of the Force to travel and aid beings in need wherever they might find them. Many such Guardians wander in a seemingly aimless fashion, apparently letting random chance direct them where they might need to go. Almost invariably. their voyages soon lead them to people who desperately need help. </Description>
-  <Source Page="72">Force and Destiny Core Rulebook</Source>
+[P]Во многих случаях Защитник закрепляется в определенном географическом регионе. Это может быть как большая группа планет в рамках сектора, так и небольшой район в большом городе. Защитник, сосредоточивший свое внимание на регионе, может принять решение о его опеке. Примечательно, что такое управление проистекает скорее из чувства ответственности и долга, чем из каких-либо реальных полномочий. Защитники редко берут на себя политическую власть. Вместо этого они действуют в соответствии со своим внутренним моральным компасом, руководствуясь Силой, чтобы каждый, кто находится под их защитой, получил заслуженную справедливость.
+[P]Другие Защитники, следуя зову Силы, путешествуют и помогают нуждающимся существам, где бы они их ни нашли. Многие из таких Защитников странствуют, казалось бы, бесцельно, позволяя случайным обстоятельствам направлять их туда, куда им нужно. Почти всегда их странствия вскоре приводят их к людям, которые отчаянно нуждаются в помощи. </Description>
+  <Source Page="72">Книга правил: Сила и судьба</Source>
   <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>BRAWL</Key>

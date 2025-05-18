@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Career>
   <Key>TECHNICIAN</Key>
-  <Name>Technician</Name>
+  <Name>Техник</Name>
   <Description>
-    [H4]Technician[h4]
+    [H4]Техник[h4]
 
-[P]Technicians are both knowledgeable and handy, and their skills show it: [B]Astrogation, Computers, Coordination, Discipline, Knowledge (Outer Rim), Mechanics, Perception,[b] and [B]Piloting (Planetary)[b]. He automatically gains one rank in four of these skills (of his choosing) without spending experience, and he receives a discount when he spends experience to purchase ranks in any of these skills.
+[P]Техники одновременно знающие и умелые, и об этом свидетельствуют их навыки: [B]Астрогация, Компьютеры, Координация, Выдержка, Знания (Внешнее кольцо), Механика, Внимание,[b] и [B]Пилотирование (планетарное)[b]. Он автоматически получает один ранг в четырех из этих навыков (по своему выбору), не тратя опыт, и получает скидку, когда тратит опыт на приобретение рангов в любом из этих навыков.
 
-[P][H4]The Technician's Role[h4]
+[P][H4]РОЛЬ ТЕХНИКА[h4]
 
-[P]Pretty much anything to do with technology or mechanical devices lies within the Technician's purview. He knows how to operate, maintain, repair, and upgrade just about anything with power or gears. Most Technicians would rather deal with machines and droids than people; the latter are just too unpredictable.
-[P]Technicians can be found almost anywhere, at any tier of society or in any location where there's even a few machines. Formality—even cleanliness—tends to fall far outside their daily concerns. They usually smell of some kind of grease, solvent, or other substance that's used on machines, and even their cleanest clothes are seldom free from stains. Even those Technicians that move among the higher echelons come off as rumpled and slouching; it's just not in their nature to put on a professional front. They let their work speak for itself.
+[P]В компетенцию техника входит практически все, что связано с технологиями и механическими устройствами. Он знает, как эксплуатировать, обслуживать, ремонтировать и модернизировать практически все, что имеет силу или шестеренки. Большинство техников предпочитают иметь дело с машинами и дроидами, а не с людьми: последние слишком непредсказуемы.
+[P]Техников можно встретить практически везде, на любом уровне общества или в любом месте, где есть хоть несколько машин. Формальность и даже чистота, как правило, не входят в круг их повседневных забот. От них обычно пахнет какой-то смазкой, растворителем или другим веществом, которое используется в машинах, и даже на самой чистой одежде редко остаются пятна. Даже те техники, которые занимают высокие посты, выглядят помятыми и сутулыми - просто не в их характере выставлять себя в профессиональном свете. Они позволяют своей работе говорить за себя.
 
-[P]Note that Technicians do have a sense of pride, and it resides in the work they perform. If a Technician brings someone a piece of tech that he's not only repaired but upgraded with some very useful modifications, the reaction of the recipient can make or break his entire day.
+[P]Обратите внимание, что у техников есть чувство гордости, и оно проявляется в работе, которую они выполняют. Если техник приносит кому-то технику, которую он не только отремонтировал, но и усовершенствовал, добавив несколько полезных модификаций, реакция получателя может сделать или испортить весь его день.
 
-[P]This is why Technicians tend to gravitate to one another socially, or bond with someone who has an appreciation for machinery. Gadgeteer-oriented Bounty Hunters and Smugglers are most likely to befriend a Technician in a group. This can be a mutually beneficial relationship, considering all of the wonderful things a technically proficient individual can do for someone's gear.
+[P]Именно поэтому техники обычно тяготеют друг к другу в социальном плане или объединяются с теми, кто ценит технику. Охотники за головами и контрабандисты, ориентированные на гаджеты, скорее всего, подружатся с техником в группе. Это могут быть взаимовыгодные отношения, учитывая все те замечательные вещи, которые технически грамотный человек может сделать для чьего-то снаряжения.
 
-[P]Like Pilots and Doctors, Technicians of almost any specialization will have a relatively easy time finding work in the Outer Rim. Every operation, from small farmsteads to large space stations, has need of those who can keep the tech running. Criminal overlords particularly enjoy having a Technician on their payroll, not only to take care of their many assets, but also to craft the occasional "toy" for them with which to surprise their enemies.</Description>
-  <Source Page="86">Edge of the Empire Core Rulebook</Source>
+[P]Как и пилотам и врачам, техникам практически любой специализации будет относительно легко найти работу во Внешнем кольце. Любые предприятия, от небольших фермерских хозяйств до крупных космических станций, нуждаются в тех, кто может поддерживать технику в рабочем состоянии. Преступным владыкам особенно нравится иметь в штате техников, которые не только заботятся об их многочисленных активах, но и делают для них случайные "игрушки", которыми они могут удивить своих врагов.</Description>
+  <Source Page="86">Книга правил: Край Империи</Source>
   <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>ASTRO</Key>
