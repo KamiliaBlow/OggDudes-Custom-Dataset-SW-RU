@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>EBBFLOW</Key>
-  <Name>Ebb/Flow</Name>
+  <Name>Прилив/Отлив</Name>
   <Description>
-  [H4]Force Power: Imbue[h4]
+  [H4]Способность силы: Прилив/Отлив[h4]
 
 
-[P]Some Force users have compared the Force to an ocean. Like an ocean, they say, the Force has its tides and currents, its tempests and calms. When Force users truly let the Force flow through them, governing their actions, they feel the Force in every move it makes. It revitalizes and empowers them, even as it saps and hinders their enemies. These Force users do not even need to think about it, the Force simply does what they need it to do, and they obey the will of the Force in turn.</Description>
-  <Source Page="39">Disciples of Harmony</Source>
+[P]Некоторые пользователи Силы сравнивают ее с океаном. Как и у океана, говорят они, у Силы есть свои приливы и отливы, свои бури и штили. Когда пользователи Силы действительно позволяют Силе течь через них, управляя их действиями, они чувствуют Силу в каждом своем движении. Она оживляет и придает им силы, даже когда ослабляет и мешает их врагам. Таким пользователям Силы даже не нужно думать об этом, Сила просто делает то, что нужно им, а они, в свою очередь, подчиняются ее воле.</Description>
+  <Source Page="39">Дополнение: Последователи гармонии</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

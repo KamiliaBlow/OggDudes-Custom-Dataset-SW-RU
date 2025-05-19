@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>JERINF</Key>
-  <Name>Jerserra's Influence</Name>
-  <Description>[H4]Force Power: Jerserre's Influence[h4]
-Jerserra combined her Inquisitor's strict training with her guidance from her shard of the Nardithi Cluster and found a way to project fear onto her foes. Other Force users, through encountering Jerserra and her power, can learn to do the same.
-[P]The user may spend [FP] to target one character within short range. That character must immediately make an [B]Average ([DI][DI]) fear check as an out of turn incidental. The user may not activate this multiple times.
+  <Name>Влияние Джерсерры</Name>
+  <Description>[H4]Способность силы: Влияние Джерсерры[h4]
+Джерсерра объединила строгую подготовку инквизитора с наставлениями осколка кластера Нардити и нашла способ проецировать страх на своих врагов. Другие пользователи Силы, столкнувшись с Джерсеррой и ее силой, могут научиться делать то же самое.
+[P]Пользователь может потратить [FP], чтобы выбрать одного персонажа в пределах короткой дистанции. Этот персонаж должен немедленно совершить среднюю([DI][DI]) проверку страха в качестве свободного действия. Пользователь не может активировать это действие несколько раз.
 </Description>
-  <Source Page="13">Ghosts of Dathomir</Source>
+  <Source Page="13">Модуль приключения: Призраки Датомира</Source>
   <Custom>AddedItem</Custom>
   <AbilityRows>
     <AbilityRow>

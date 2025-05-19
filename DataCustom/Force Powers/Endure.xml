@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>ENDURE</Key>
-  <Name>Endure</Name>
-  <Description>[H4]Force Power: Endure[h4]
-Those strong in the Force, and who learn to control that gift, can achieve great, even seemingly impossible feats of physical prowess. The Force flows through all living beings, and this connection to the physical allows some Force users to achieve miraculous control of their bodies. Masters of this ability can ignore otherwise-debilitating pain or even resist physical injury that would prove lethal to another being.</Description>
-  <Source Page="36">Knights of Fate</Source>
+  <Name>Выносливость</Name>
+  <Description>[H4]Способность силы: Выносливость[h4]
+Те, кто силен в Силе и научился управлять этим даром, могут совершать великие, даже, казалось бы, невозможные подвиги в физическом совершенствовании. Сила течет через все живые существа, и эта связь с физическим миром позволяет некоторым пользователям Силы достигать чудесного контроля над своим телом. Мастера этой способности могут игнорировать изнуряющую боль или даже противостоять физическим повреждениям, которые оказались бы смертельными для другого существа.</Description>
+  <Source Page="36">Дополнение: Рыцари судьбы</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

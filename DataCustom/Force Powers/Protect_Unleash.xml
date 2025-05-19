@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>PROTUNL</Key>
-  <Name>Protect/Unleash</Name>
+  <Name>Защита/Всплеск</Name>
   <Description>
-    [H4]Force Power: Protect/Unleash[h4]
+    [H4]Способность силы: Защита/Всплеск[h4]
 
-Force users can harness the innate abilities of the Force to protect themselves and others from harm. However, that same power can be turned to terrible ends when the user infuses himself with the dark side. Dark siders can shoot lightning from their fingertips
-or envelop their targets in withering, murderous cold.</Description>
-  <Source Page="300">Force and Destiny Core Rulebook</Source>
+Пользователи Силы могут использовать врожденные способности Силы, чтобы защитить себя и других от вреда. Однако эта же сила может быть обращена в ужасные цели, когда пользователь вливается в темную сторону. Темная сторона может создавать молнии из кончиков пальцев
+или окутывать свои цели иссушающим, убийственным холодом.</Description>
+  <Source Page="300">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

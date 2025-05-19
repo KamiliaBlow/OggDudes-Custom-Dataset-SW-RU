@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>HEALHARM</Key>
-  <Name>Heal/Harm</Name>
+  <Name>Лечение/Вред</Name>
   <Description>
-    [H4]Force Power: Heal/Harm[h4]
+    [H4]Способность силы: Лечение/Вред[h4]
 
-This power reflects a Force user's capacity to manipulate the living energy in things around him. It is the individual's choice, however, whether to use this gift to help others flourish, binding their injuries and making them whole, or to steal their vital essence, ripping the life from them to watch as they wither and die.</Description>
-  <Source Page="292">Force and Destiny Core Rulebook</Source>
+Эта сила отражает способность пользователя Силы манипулировать живой энергией окружающих его вещей. Однако человек сам решает, использовать ли ему этот дар, чтобы помочь другим воспрять, заживляя их раны и делая их целыми, или же украсть их жизненную сущность, вырвав из них жизнь, чтобы наблюдать, как они увядают и умирают.</Description>
+  <Source Page="292">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>CONJURE</Key>
-  <Name>Conjure</Name>
-  <Description>[H4]Force Power: Conjure[h4]
-Some of the more esoteric uses of the Force can seem like magic to the ignorant and uninformed. While most Force users can move objects with their mind and sense what's going on around them with otherworldly perception, some Force-sensitives can do far stranger and more wondrous things. These individuals often learn the ways of the Force as a part of one of the many minor Force traditions scattered around the galaxy. Organizations such as the now-destroyed Nightsisters of Dathomir or the secretive Dagoyan Order teach ways to use the Force that would seem strange to most of the ancient Jedi, or those who no struggle to inherit their mantle.
-[P] The Nightsisters were known to be able to use the Force to summon a glowing green ichor known as the "Waters of Life." With this, they could form tools, weapons, and even facsimiles of living creatures. While this power could not create complicated technological implements such as a blaster or a speeder bike, the most powerful Nightsisters were said to have been able to conjure blades that could withstand a Jedi's lightsaber, and even imbue the bodies of the dead with a ghastly parody of life.</Description>
-  <Source Page="39">Unlimited Power</Source>
+  <Name>Воплощение</Name>
+  <Description>[H4]Способность силы: Воплощение[h4]
+Некоторые из эзотерических способов использования Силы могут показаться невежественным и неосведомленным людям магией. В то время как большинство пользователей Силы могут перемещать предметы с помощью разума и ощущать происходящее вокруг с помощью потустороннего восприятия, некоторые чувствительне к Силе могут делать гораздо более странные и удивительные вещи. Такие люди часто обучаются Силе в рамках одной из множества мелких традиций Силы, разбросанных по всей галактике. Такие организации, как ныне уничтоженные «Сестры ночи Датомира» или тайный Дагоянский орден, обучают способам использования Силы, которые показались бы странными большинству древних джедаев или тем, кто не борется за право унаследовать их мантию.
+[P] Известно, что Сестры ночи могли использовать Силу для призыва светящегося зеленого ихора, известного как «Воды жизни». С его помощью они могли создавать инструменты, оружие и даже имитации живых существ. Хотя эта сила не позволяла создавать сложные технологические орудия, такие как бластер или спидербайк, самые могущественные Сестры ночи, по слухам, могли создавать клинки, способные выдержать световой меч джедая, и даже наделять тела мертвых призрачной имитацией жизни.</Description>
+  <Source Page="39">Дополнение: Абсолютная власть</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

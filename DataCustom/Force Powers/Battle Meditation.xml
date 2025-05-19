@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>BATMED</Key>
-  <Name>Battle Meditation</Name>
+  <Name>Боевая медитация</Name>
   <Description>
-    [H4]Force Power: Battle Meditation[h4]
+    [H4]Способность силы: Боевая медитация[h4]
 
-Some Force users can telepathically guide allies around them, helping them to coordinate and achieve amazing feats. This guidance can easily become domination, however, and Force users must strive to maintain a balance between gentle guidance and outright tyranny. Meanwhile, individuals less concerned with trifling matters like "morality" and "the basic dignity of all sentients" use Battle Meditation to guide their disposable pawns to ignoble ends for their own selfish betterment.</Description>
-  <Source Page="284">Force and Destiny Core Rulebook</Source>
+Некоторые пользователи Силы могут телепатически направлять окружающих их союзников, помогая им координировать свои действия и совершать удивительные подвиги. Однако такое руководство может легко превратиться в доминирование, поэтому пользователи Силы должны стремиться поддерживать баланс между мягким руководством и откровенной тиранией. В то же время люди, которых меньше волнуют такие пустяки, как «мораль» и «базовое достоинство всех существ», используют Боевую медитацию, чтобы направлять своих одноразовых пешек к неблагородным целям ради собственного эгоистичного благополучия.</Description>
+  <Source Page="284">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

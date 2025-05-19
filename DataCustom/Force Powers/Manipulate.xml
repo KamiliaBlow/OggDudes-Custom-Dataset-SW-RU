@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>MANIPULATE</Key>
-  <Name>Manipulate</Name>
-  <Description>[H4]Force Power: Manipulate[h4]
-The Force user shapes machine components on a molecular level, allowing better crafting and repairing of items.
-[P]The Force user may spend [FP] to cause one vehicle or ship he is engaged with to recover one system strain. The user may activate this multiple times, increasing the system strain recovered by one each time.
+  <Name>Манипулирование</Name>
+  <Description>[H4]Способность силы: Манипулирование[h4]
+Пользователь Силы формирует компоненты машин на молекулярном уровне, позволяя лучше создавать и ремонтировать предметы.
+[P]Пользователь Силы может потратить [FP], чтобы заставить одно транспортное средство или корабль, с которым он взаимодействует, восстановить одну перегрузку системы. Пользователь может активировать это несколько раз, каждый раз увеличивая восстановленную перегрузку системы на единицу.
 </Description>
-  <Source Page="37">Endless Vigil</Source>
+  <Source Page="37">Дополнение: Бесконечное бдение</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

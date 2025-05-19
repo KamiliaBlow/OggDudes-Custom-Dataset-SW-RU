@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>SEEK</Key>
-  <Name>Seek</Name>
+  <Name>Поиск</Name>
   <Description>
-    [H4]Force Power: Seek[h4]
+    [H4]Способность силы: Поиск[h4]
 
-The Force user casts out with his mind's eye, searching for something lost, concealed, or forgotten. While countless different Force traditions across the galaxy have attached different practices and techniques to this power, from tribal cultures that use it to hunt prey-beasts to orders of assassins who seek out any who defy their orthodoxy, the basic ability remains the same: those who follow pathways of the Force can track down anything or anyone, regardless of the distance or eons that separate them from their quarry.</Description>
-  <Source Page="302">Force and Destiny Core Rulebook</Source>
+Пользователь Силы изгоняет ее мысленным взором, отыскивая что-то потерянное, скрытое или забытое. Хотя бесчисленные традиции Силы по всей галактике приложили к этой силе различные практики и техники, от племенных культур, использующих ее для охоты на хищных зверей, до орденов убийц, которые ищут всех, кто бросает вызов их ортодоксальности, основная способность остается неизменной: те, кто следует путями Силы, могут выследить что угодно или кого угодно, независимо от расстояния или световых лет, которые отделяют их от их жертвы.</Description>
+  <Source Page="302">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

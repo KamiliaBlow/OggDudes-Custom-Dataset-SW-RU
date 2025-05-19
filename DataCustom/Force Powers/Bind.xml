@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>BIND</Key>
-  <Name>Bind</Name>
+  <Name>Сковывание</Name>
   <Description>
-    [H4]Force Power: Bind[h4]
+    [H4]Способность силы: Сковывание[h4]
 
-Force users skilled in telekinetic powers can seize others from afar, preventing them from moving or attacking. When used with a calm heart, this power can be an extremely useful defensive tool, letting the Force user stop an enemy in his tracks without hurting him.
-Of course, once a foe is in the Force user's grip, it can be extremely tempting to simply crush him.</Description>
+Пользователи Силы, владеющие телекинетическими способностями, могут захватывать других людей на расстоянии, не давая им двигаться или атаковать. Если использовать эту способность со спокойным сердцем, она может стать чрезвычайно полезным инструментом обороны, позволяя остановить врага на его пути, не причиняя ему вреда.
+Конечно, когда враг оказывается в руках пользователя Силы, может возникнуть огромное искушение просто раздавить его.</Description>
   <Sources>
-    <Source Page="286">Force and Destiny Core Rulebook</Source>
-    <Source Page="44">Rise of the Separatists</Source>
+    <Source Page="286">Книга правил: Сила и судьба</Source>
+    <Source Page="44">Дополнение: Восстание сепаратистов</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <AbilityRows>

@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>ENHANCE</Key>
-  <Name>Enhance</Name>
+  <Name>Усиление</Name>
   <Description>
-    [H4]Force Power: Enhance[h4]
+    [H4]Способность силы: Усиление[h4]
 
-One of the most straightforward ways in which Force users utilize the power of the Force is to imbue their own bodies with energy and strength. Making leaps that might otherwise be deemed impossible, moving at high speeds, and harnessing physical strength
-well beyond the capacity of most sentient beings are all equally viable. In this way, the Force becomes an almost literal fuel for feats of endurance and power. Most Force users find it a relatively simple thing to use the Force in order to overcome their own physical limitations and shrug off the effects of fatigue. With a little practice, most Force users are able to expand the arenas in which they can use the Force beyond that of mere brute strength. They are able to concentrate the Force into assisting them with acts of dexterity and acrobatics.</Description>
+Один из самых простых способов, с помощью которых пользователи Силы используют ее мощь, - это наделение собственного тела энергией и силой. Прыжки, которые иначе считались бы невозможными, перемещение на высоких скоростях и использование физической силы,
+намного превышающей возможности большинства разумных существ, - все эти способы одинаково эффективны. Таким образом, Сила становится почти буквальным топливом для подвигов на выносливость и мощь. Большинство пользователей Силы считают, что использовать Силу для преодоления собственных физических ограничений и снятия усталости - довольно простое занятие. Немного попрактиковавшись, большинство пользователей Силы могут расширить сферу применения Силы, выйдя за рамки простой грубой силы. Они могут сконцентрировать Силу, чтобы она помогала им в ловкости и акробатике.</Description>
   <Sources>
-    <Source Page="298">Age of Rebellion Core Rulebook</Source>
-    <Source Page="288">Force and Destiny Core Rulebook</Source>
-    <Source Page="46">Rise of the Separatists</Source>
+    <Source Page="298">Книга правил: Эпоха восстания</Source>
+    <Source Page="288">Книга правил: Сила и судьба</Source>
+    <Source Page="46">Дополнение: Восстание сепаратистов</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <MinForceRating>1</MinForceRating>

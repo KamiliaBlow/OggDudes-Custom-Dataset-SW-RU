@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>SUPPRESS</Key>
-  <Name>Suppress</Name>
+  <Name>Подавление</Name>
   <Description>
-  [H4]Force Power: Suppress[h4]
-[P]By feeling the flow of the Force and seizing hostile currents in a mental grip, a Force sensitive can directly grapple with supernatural attacks, preventing harm and shielding allies from their strikes. Masters of this ability can even negate Force-based attacks completely, shrugging off gouts of supernatural energy or shattering mental assaults with strength of will and the power of the Force.
-[P]Some Force users punctuate this mental defense with physical motions or even weave it into their fighting style, while others stand perfectly still amid the chaos, twisting invisible currents with their minds to keep those around them safe from malign powers. By projecting force of will outward, the Force user can diminish the effects of enemies' Force powers or even cause their Force-based attacks to sputter out entirely before they strike.
-[P]The basic power of Suppress can be used in one way: to create a protective bubble around the Force user that dampens the effects of other Force powers meant to harm the user and nearby allies. The basic power has one way to spend force points:
-[P]The user may spend [FP] to extend a dampening field around himself that shields him and all allies in short range. Until the end of the user's next turn, any hostile Force user who makes a skill check as part of a Force power check against the user or any affected ally adds automatic [FA] to the results. The user may not activate this multiple times.
+  [H4]Способность силы: Подавление[h4]
+[P]Чувствуя потоки Силы и захватывая враждебные потоки в ментальный захват, чувствительный к Силе может напрямую противостоять сверхъестественным атакам, предотвращая вред и защищая союзников от их ударов. Мастера этой способности могут даже полностью отражать атаки, основанные на Силе, отбиваясь от потоков сверхъестественной энергии или сокрушая ментальные атаки силой воли и мощью Силы.
+[P]Некоторые пользователи Силы подкрепляют эту ментальную защиту физическими движениями или даже вплетают ее в свой стиль боя, другие же стоят совершенно неподвижно среди хаоса, закручивая невидимые потоки своим сознанием, чтобы уберечь окружающих от вредоносных сил. Проецируя силу воли вовне, пользователь Силы может ослабить действие способностей Силы противника или даже заставить его атаки, основанные на Силе, полностью прекратиться, прежде чем он нанесет удар.
+[P]Базовая способность «Подавление» может быть использована одним способом: она создает вокруг пользователя Силы защитный пузырь, который гасит эффекты других способностей Силы, призванных нанести вред пользователю и находящимся рядом союзникам. Базовая способность имеет один способ расходования очков Силы:
+[P]Пользователь может потратить [FP], чтобы распространить вокруг себя подавляющее поле, которое защищает его и всех союзников на небольшом расстоянии. До конца следующего хода пользователя, любой враждебный пользователь Силы, делающий проверку навыка как часть проверки силы Силы против пользователя или любого затронутого союзника, автоматически добавляет [FP] к результатам. Пользователь не может активировать эту способность несколько раз.
 </Description>
-  <Source Page="38">Keeping the Peace</Source>
+  <Source Page="38">Дополнение: Поддержание мира</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

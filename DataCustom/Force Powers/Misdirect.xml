@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>MISDIRECT</Key>
-  <Name>Misdirect</Name>
+  <Name>Сбить с толку</Name>
   <Description>
-    [H4]Force Power: Misdirect[h4]
+    [H4]Способность силы: Сбить с толку[h4]
 
-Trickery is an important part of many Force users' arsenals, letting them tip the scales of battle in their favor or even avoid some conflicts entirely. Force users versed in shrouding techniques often walk unseen amidst their foes-a particularly useful ability for any Force-sensitive hiding from the Empire. Especially skilled crafters of illusions can even project visions onto those around them, baffling pursuers or terrifying enemies with horrific phantasms.</Description>
-  <Source Page="296">Force and Destiny Core Rulebook</Source>
+Хитрость - важная часть арсенала многих пользователей Силы, позволяющая им склонять чашу весов в битве в свою пользу или даже полностью избегать некоторых столкновений. Пользователи Силы, владеющие техниками сокрытия, часто проходят незамеченными среди своих врагов - особенно полезная способность для любого чувствительного к Силе, скрывающегося от Империи. Особо искусные мастера иллюзий могут даже проецировать видения на окружающих, сбивая с толку преследователей или пугая врагов ужасными фантомами.</Description>
+  <Source Page="296">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

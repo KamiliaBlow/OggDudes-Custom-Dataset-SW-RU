@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>FORSEE</Key>
-  <Name>Foresee</Name>
+  <Name>Предвидение</Name>
   <Description>
-    [H4]Force Power: Foresee[h4]
+    [H4]Способность силы: Предвидение[h4]
 
-Force users often have precognitive flashes, experiencing waking dreams or visions about people and situations through their abilities. These powers are rarely so clear and obvious as to provide unequivocal visions of the future, but they are certainly enough to give Force users pause for thought when they have a "bad feeling about something."
+У пользователей Силы часто бывают вспышки предчувствия, они видят сны или видения о людях и ситуациях благодаря своим способностям. Эти способности редко бывают настолько ясными и очевидными, чтобы обеспечить однозначное видение будущего, но их вполне достаточно, чтобы заставить пользователей Силы задуматься, когда у них появляется "плохое предчувствие".
 
-[P]The power of foresight has been used in countless different ways by countless different Force users throughout history. Some use it to gain vague images far into the future, while others use it to predict the movements of their foes or see an unexpected event soon to happen.</Description>
+[P]Сила предвидения использовалась бесчисленным множеством различных способов разными пользователями Силы на протяжении всей истории. Одни используют ее для получения смутных образов далекого будущего, другие - чтобы предсказать передвижения врагов или увидеть неожиданное событие, которое вскоре произойдет.</Description>
   <Sources>
-    <Source Page="300">Age of Rebellion Core Rulebook</Source>
-    <Source Page="290">Force and Destiny Core Rulebook</Source>
+    <Source Page="300">Книга правил: Эпоха восстания</Source>
+    <Source Page="290">Книга правил: Сила и судьба</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <MinForceRating>1</MinForceRating>

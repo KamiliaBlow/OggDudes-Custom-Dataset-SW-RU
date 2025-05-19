@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>SENSE</Key>
-  <Name>Sense</Name>
+  <Name>Ощущение чувств</Name>
   <Description>
-    [H4]Force Power: Sense[h4]
+    [H4]Способность силы: Ощущение чувств[h4]
 
-By opening his mind, a Force user can commune with the world around him . He senses the endless movement of the Living Force, seeing beyond what his eyes allow. The actions of those around him are laid bare, as if the Force user had a bird's eye view of his surroundings, allowing him to anticipate attacks and better strike blows of his own, or even spot ambushes and lurking foes. Alternatively, he can sense the thoughts of others. Even a Jedi cannot read someone's mind completely, but a Force-sensitive being can detect his target's feelings and emotions, and even sense surface thoughts.
+Открыв свой разум, пользователь Силы может общаться с окружающим миром. Он чувствует бесконечное движение Живой Силы, видя дальше, чем позволяют глаза. Действия окружающих становятся видны ему как бы с высоты птичьего полета, что позволяет ему предвидеть атаки и лучше наносить свои удары, а также замечать засады и затаившихся врагов. Кроме того, он может чувствовать мысли других людей. Даже джедай не может полностью прочитать чей-то разум, но чувствительное к Силе существо может определить чувства и эмоции своей цели и даже почувствовать ее мысли на поверхности.
 
-[P]Unlike many other Force powers, Sense has a basic power that can be used in two very different ways. Users can rely on Sense to augment their defensive (and eventually offensive) abilities, or they can invest in the ability to read the emotions and feelings of others. They can even read their surface thoughts, which can be particularly valuable in a wide variety of situations.</Description>
+[P]В отличие от многих других способностей Силы, Ощущение чувств - это базовая способность, которая может быть использована двумя разными способами. Пользователи могут использовать Ощущение чувств для усиления своих защитных (а в перспективе и наступательных) способностей, а могут инвестировать в способность читать эмоции и чувства других людей. Они могут даже читать их мысли, что может быть особенно ценно в самых разных ситуациях.</Description>
   <Sources>
-    <Source Page="279">Edge of the Empire Core Rulebook</Source>
-    <Source Page="304">Force and Destiny Core Rulebook</Source>
+    <Source Page="279">Книга правил: Край Империи</Source>
+    <Source Page="304">Книга правил: Сила и судьба</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <MinForceRating>1</MinForceRating>

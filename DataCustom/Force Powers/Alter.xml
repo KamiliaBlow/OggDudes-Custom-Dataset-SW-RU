@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>ALTER</Key>
-  <Name>Alter</Name>
-  <Description>[H4]Force Power: Alter[h4]
-Many Force users have the ability to sense the life force of the environment around them. Some Force users take this sense a bit further. By tapping into that living gestalt, the can manipulate the land around them. Intruders may find vines choking their path or mists rising up to block their sight. Meanwhile, allies find that trails and paths mysteriously open up before them, only to vanish once they have reached their destination.
+  <Name>Чувство</Name>
+  <Description>[H4]Способность силы: Чувство[h4]
+Многие пользователи Силы обладают способностью чувствовать жизненную силу окружающего мира. Некоторые пользователи Силы идут еще дальше. Подключаясь к этому живому гештальту, они могут манипулировать землей вокруг себя. Пользователи силы могут обнаружить лианы, преграждающие им путь, или туман, поднимающийся вверх и закрывающий им обзор. Тем временем союзники обнаруживают, что перед ними таинственным образом открываются тропы и пути, которые исчезают, как только они достигают цели.
 </Description>
-  <Source Page="42">Unlimited Power</Source>
+  <Source Page="42">Дополнение: Абсолютная власть</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
