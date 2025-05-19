@@ -1,4 +1,4 @@
-Dataset for OggDude's character generator 2.3.4.0.
+Dataset for OggDude's character generator 2.3.4.0. (КРАЙНЕ НЕ РЕКОМЕНДУЮ ИСПОЛЬЗОВАТЬ ЭТИ ДАННЫЕ ДЛЯ ОРИГИНАЛЬНОЙ ПРОГРАММЫ, ТАК КАК ОНА НЕ ПОДДЕРЖИВАЕТ КИРИЛЛИЦУ) Данные сделаны для системы в Foundry VTT
 
 ## Installation
 
