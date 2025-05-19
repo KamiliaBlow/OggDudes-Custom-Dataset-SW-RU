@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>SLICER</Key>
-  <Name>Slicer</Name>
-  <Description>[H4]Slicer - Making the Data Flow[h4]
+  <Name>Слайсер</Name>
+  <Description>[H4]Слайсер - создание потока данных[h4]
 
-[P]For the Slicer, a computer or datapad is just a puzzle to solve with prizes for doing so. "Slicing" is the term used for the invasive efforts to steal or alter data in a system. With practically the entire galaxy wired to computerized systems, Slicers are extremely valuable people to know, and dangerous to cross.
+[P]Для Слайсера компьютер или датапад - это просто головоломка, которую нужно решить, получив за это приз. "Слайсинг" - это термин, используемый для обозначения попыток кражи или изменения данных в системе. Поскольку практически вся галактика подключена к компьютерным системам, Слайсеры - очень ценные люди, которых нужно знать и с которыми опасно пересекаться.
 
-[P]Slicers naturally tend towards the underworld, yet they are also highly intelligent and knowledgeable. They add these skills to their career skills: [B]Computers, Knowledge (Education), Knowledge (Underworld),[b] and [B]Stealth[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Their talents mainly focus on making computerized and electronic systems dance to their tune.
+[P]Слайсеры от природы тяготеют к преступному миру, но при этом обладают высоким интеллектом и знаниями. Они добавляют эти навыки к своим карьерным навыкам: [B]Компьютеры, Знания (Образование), Знания (Преступный мир),[b] и [B]Скрытность[b]. Если это стартовая специализация персонажа, можно выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не потратив стартовый опыт. Их таланты в основном направлены на то, чтобы заставить компьютеризированные и электронные системы плясать под свою дудку.
 
-[P]Slicers are among the most valued professionals in the Outer Rim, especially to the criminal world. A Slicer's worth, however, is only as good as his reputation; success and loyalty will earn him top credits, while blowing key operations or double-crossing an employer will tend to make his prospects far less attractive.
+[P]Слайсеры - одни из самых ценных профессионалов во Внешнем кольце, особенно в криминальном мире. Однако ценность Слайсера зависит только от его репутации: успех и лояльность принесут ему высшие баллы, в то время как провал ключевых операций или двойное обманное давление на работодателя сделают его перспективы гораздо менее привлекательными.
 
-[P]A Player Character group without a Slicer will have something of a handicap, especially where acquiring data or handling computerized problems is concerned. A Slicer might join a group for a chance to get away from a bad deal, or simply because he's ready to see the next planet. Slicers tend to be a quirky bunch, so there might be any number of motivations at work.</Description>
+[P]Группа персонажей, в которой нет Слайсера, будет испытывать определенные трудности, особенно при сборе данных или решении компьютерных проблем. Слайсеру можно присоединиться к группе, чтобы получить шанс уйти от плохой сделки или просто потому, что он готов увидеть следующую планету. Слайсеры, как правило, причудливые натуры, так что мотивов может быть сколько угодно.</Description>
   <Sources>
-    <Source Page="91">Edge of the Empire Core Rulebook</Source>
-    <Source Page="99">Age of Rebellion Core Rulebook</Source>
+    <Source Page="91">Книга правил: Край Империи</Source>
+    <Source Page="99">Книга правил: Эпоха восстания</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <CareerSkills>

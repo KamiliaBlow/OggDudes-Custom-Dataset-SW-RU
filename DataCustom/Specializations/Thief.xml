@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>THIEF</Key>
-  <Name>Thief</Name>
-  <Description>[H4]Thief - A Galaxy of Treasures[h4]
-Where the Scoundrel is a bit flashier, and the Pilot focuses on mastering his ship, the Thief really is a covert operative. His ideal circumstance is to get into places blocked to others, grab things he's not supposed to have, and get out without anyone ever knowing he was there. If he can sell what he grabbed for a tidy sum, that makes for a perfect day.
+  <Name>Вор</Name>
+  <Description>[H4]Вор - Галактика сокровищ[h4]
+В то время как Негодяй немного более заметен, а Пилот сосредотачивается на управлении кораблем, Вор на самом деле является тайным оперативником. Его идеальное положение - проникать в места, закрытые для других, хватать вещи, которые ему не положены, и уходить так, чтобы никто не узнал о его присутствии. А если ему удастся продать награбленное за кругленькую сумму, то день будет удачным.
 
-[P]Thieves gain the additional career skills [B]Computers, Skulduggery, Stealth,[b] and [B]Vigilance[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Combined with his talents, a Thief is particularly adept at hiding, spotting the hidden, getting past locks and security, and getting the jump on opponents in combat. He also knows his way around the underworld and where to get what's needed.
+[P]Воры получают дополнительные карьерные навыки [B]Компьютеры, Жульничество, Скрытность[b] и [B]Бдительность[b]. Если это стартовая специализация персонажа, он может выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. В сочетании со своими талантами Вор особенно искусен в умении прятаться, замечать скрытое, обходить замки и защиту, а также настигать противников в бою. Он также знает толк в преступном мире и знает, где достать то, что нужно.
 
-[P]Generally, Thieves tend to either operate with a group that shares in their larcenous goals, or they work alone. The galaxy is full of treasures, many of which are guarded by locks and goons. A Thief will gladly handle the locks, though he'll probably appreciate having some backup to handle the goons if things go badly. Then again, if he's truly good at what he does, that shouldn't happen. Some Thieves gain a strong enough reputation that they are offered contract opportunities by powerful people or groups. seeking to accomplish something against an opponent that is far beyond the realms of legal action. Of course, Thieves must always be on the lookout for a double-cross.
+[P]Как правило, воры работают либо в группе, которая разделяет их воровские цели, либо в одиночку. Галактика полна сокровищ, многие из которых охраняются замками и головорезами. Вор с радостью справится с замками, хотя, вероятно, будет благодарен за то, что у него есть подкрепление, чтобы справиться с головорезами, если дела пойдут плохо. Впрочем, если он действительно хорош в своем деле, этого не должно случиться. Некоторые воры завоевывают достаточно прочную репутацию, чтобы влиятельные люди или группы предложили им контракт. Они хотят добиться от противника чего-то, что выходит далеко за рамки законных действий. Конечно, Воры всегда должны быть начеку, чтобы не подставиться.
 
-[P]As a part of a Player Character team, a Thief may not even identify himself by his specialization, preferring to display skills and abilities that are more generically appropriate to his career as a Smuggler. Frankly, most Smugglers have at least some skill in the areas that he is masterful with, so he might never have to reveal much more than that. Still, having a master Thief on a team may mean getting into—and out of—some seriously difficult places in the future.</Description>
-  <Source Page="85">Edge of the Empire Core Rulebook</Source>
+[P]В команде персонажей Вор может даже не указывать свою специализацию, предпочитая демонстрировать навыки и умения, которые в целом соответствуют его карьере контрабандиста. Откровенно говоря, большинство контрабандистов обладают хотя бы некоторыми навыками в тех областях, в которых он мастерски разбирается, так что ему, возможно, никогда не придется раскрывать больше, чем это. Тем не менее, наличие в команде мастера воровского дела может означать, что в будущем вы сможете попасть в очень сложные места и выбраться из них.</Description>
+  <Source Page="85">Книга правил: Край Империи</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COMP</Key>

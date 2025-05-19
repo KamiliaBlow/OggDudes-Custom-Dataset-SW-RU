@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>SORESU</Key>
-  <Name>Soresu Defender</Name>
-  <Description>[H4]Soresu Defender[h4]
+  <Name>Защитник Соресу</Name>
+  <Description>[H4]Защитник Соресу[h4]
 
-Guardians frequently and deliberately put themselves in harm's way in order to aid others. However, just as the Protector is unmatched at keeping others safe. the Soresu Defender has mastered the art of self defense. With lightsaber in hand, Soresu Defenders can fend off hordes of enemies or stand firm against hails of blaster fire. surviving the worst the enemy can throw at them.
+Защитники часто и сознательно подвергают себя опасности, чтобы помочь другим. Однако, как и Заступник, которому нет равных в обеспечении безопасности других, Защитник Соресу овладел искусством самообороны. Со световым мечом в руках Защитники Соресу могут отбиваться от полчищ врагов или стойко переносить град бластерного огня, выдерживая самое страшное, что может бросить в них враг.
 
-[P]A Soresu Defender earns additional career skill access to [B]Discipline, Knowledge (Lore), Lightsaber,[b] and [B]Vigilance[b]. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. With this combination of skills, the character can maintain constant vigilance, recognize threats, and remain resolute in the face of danger.
+[P]Защитник Соресу получает доступ к дополнительным карьерным навыкам [B]Выдержка, Знания (Легенды), Световой меч[b] и [B]Бдительность[b]. Если это стартовая специализация персонажа, он может выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. С помощью этой комбинации навыков персонаж может сохранять постоянную бдительность, распознавать угрозы и оставаться решительным перед лицом опасности.
 
-[P]Soresu Defenders depend on the Force to guide them through dangers. Their techniques rest almost entirely on knowing how best to use their weapons for defensive purposes. In many ways, this style approaches the level of precognition, as the Force guides its practitioners to use their weapons to deflect an incoming attack or to move out of the way of an assault. Individuals who are unaware of their Force potential can become accomplished martial artists using these techniques, but true Soresu Defenders must be sensitive to the Force.</Description>
-  <Source Page="77">Force and Destiny Core Rulebook</Source>
+[P]Защитники Соресу полагаются на Силу, которая помогает им преодолевать опасности. Их техники почти полностью основаны на знании того, как лучше использовать свое оружие для защиты. Во многих отношениях этот стиль приближается к уровню предвидения, поскольку Сила подсказывает его практикам, как использовать оружие, чтобы отразить надвигающуюся атаку или уйти с пути нападения. Люди, не знающие о своем потенциале Силы, могут стать искусными мастерами боевых искусств, используя эти техники, но истинные защитники Соресу должны быть чувствительны к Силе.</Description>
+  <Source Page="77">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>DISC</Key>

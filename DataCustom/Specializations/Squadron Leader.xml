@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>SQUADLEADER</Key>
-  <Name>Squadron Leader</Name>
+  <Name>Командир эскадрона</Name>
   <Description>
-    [H4]Squadron Leader - Ship-to-Ship[h4]
+    [H4]Командир эскадрона - корабль за кораблем[h4]
 
-Though perhaps the most important engagements involve capital ships, the daily struggle for survival and victory happens at a much smaller scale. Snubfighters, small gunships, combat airspeeders, and hovertanks go hammer-and-tongs against the massive Imperial war machine, and it's only the tactical genius and daring of those who lead these units keeping them alive. The best Squadron Leaders even manage to pull out more than their fair share of victories.
+Хотя, возможно, в самых важных сражениях участвуют капитальные корабли, ежедневная борьба за выживание и победу происходит в гораздо меньших масштабах. Истребители, малые артиллерийские корабли, боевые аэросани и ховертанки сражаются с огромной имперской военной машиной, и только тактический гений и смелость тех, кто возглавляет эти подразделения, помогают им выжить. Лучшим Командирам эскадронов даже удается одержать более чем заслуженную победу.
 
-[P]Squadron Leaders have access to [B]Gunnery, Mechanics, Piloting (Planetary),[b] and [B]Piloting (Space)[b] as their additional career skills. As the first specialization choices, two of these skills can begin with a free rank. Squadron Leaders tend to know their machines very well, and of course they need to be able to operate the same types of vehicles they are commanding.
+[P]Командирам эскадронов доступны [B]Артиллерия, Механика, Пилотирование (планетарное)[b] и [B]Пилотирование (космическое)[b] в качестве дополнительных карьерных навыков. В качестве первой специализации два из этих навыков могут начинаться с одного свободного ранга в них. Командиры эскадронов, как правило, хорошо знают свои машины, и, конечно, они должны уметь управлять теми же типами машин, которыми командуют.
 
-[P]Squadron Leaders rarely lead from the rear. More often than not, theirs are the first ships or vehicles to engage the enemy, and they're the last ones out of a combat zone Of they get out at all). Leading by example is a way of life for a Squadron Leader, and he won't ask anyone to do what he's not ready to do himself. He rides his team to keep their machines in top shape, and he trains them constantly. He wants both crew and machines back in the hangar when the mission is over, and he does whatever it takes to make it happen.
+[P]Командиры эскадронов редко руководят с тыла. Чаще всего их корабли или машины первыми вступают в бой с противником, и они же последними покидают зону боевых действий (если вообще покидают). Для Командира эскадрона подача примера - образ жизни, и он не попросит никого сделать то, что не готов сделать сам. Он заставляет свою команду поддерживать машины в отличной форме и постоянно тренирует их. Он хочет, чтобы по окончании миссии и экипаж, и машины вернулись в ангар, и он делает все, чтобы это произошло.
 
-[P]Alliance High Command knows every single battle is important, and most of them are won at the front line, by mechanized detachments and starfighter squadrons under the command of Squadron Leaders. The upper echelons are constantly on the lookout for anyone with the right qualities to inspire and lead pilots and vehicle crews into the worst kinds of hell and back again.</Description>
-  <Source Page="74">Age of Rebellion Core Rulebook</Source>
+[P]Высшее командование Альянса знает, что каждая битва важна, и большинство из них выигрывается на передовой, механизированными отрядами и эскадрильями звездолетов под командованием Командиров эскадр. Высшие эшелоны постоянно ищут тех, кто обладает нужными качествами, чтобы вдохновлять и вести за собой пилотов и экипажи машин в самые страшные преисподние и обратно.</Description>
+  <Source Page="74">Книга правил: Эпоха восстания</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>GUNN</Key>

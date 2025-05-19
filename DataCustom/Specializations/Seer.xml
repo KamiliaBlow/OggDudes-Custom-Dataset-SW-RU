@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>SEER</Key>
-  <Name>Seer</Name>
-  <Description>[H4]Seer[h4]
+  <Name>Провидец</Name>
+  <Description>[H4]Провидец[h4]
 
-Some individuals are able to remain constantly aware of the Force's presence, even as they go about their daily lives. They recognize its influence in the subtlest of ways. For them, minor ripples in the Force reveal deep meanings and forewarn of critical events far in the future. However, this quantity of information—particularly in environments filled with other sentients—can become overwhelming. Because of this, many who follow the path of the Seer choose to live lives of relative isolation, far from crowded towns and cities.
+Некоторые люди способны постоянно ощущать присутствие Силы, даже когда занимаются своими повседневными делами. Они распознают ее влияние в самых тонких проявлениях. Для них незначительные пульсации Силы открывают глубокие смыслы и предупреждают о критических событиях в далеком будущем. Однако такое количество информации - особенно в среде, наполненной другими существами, - может стать непосильным. Поэтому многие, кто следует по пути Провидца, предпочитают жить в относительной изоляции, вдали от многолюдных городов и поселков.
 
-[P]Seers acquire [B]Discipline, Knowledge (Lore), Survival,[b] and [B]Vigilance[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Successful Seers must be able to maintain focus on daily life even as they also observe the Force. They must learn to recognize a broad range of subtle signs. They must also be prepared to dwell in a potentially hostile environment, apart from civilization, so that they can be spared from information overload.
+[P]Провидцы получают [B]Дисциплину, Знание (Легенды), Выживание[b] и [B]Бдительность[b] в качестве дополнительных карьерных навыков. Если это стартовая специализация персонажа, можно выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не потратив стартовый опыт. Успешные Провидцы должны уметь сохранять концентрацию на повседневной жизни, даже если они наблюдают за Силой. Они должны научиться распознавать широкий спектр тонких знаков. Они также должны быть готовы жить в потенциально враждебной среде, вдали от цивилизации, чтобы не испытывать информационной перегрузки.
 
-[P]Among Force-sensitive individuals, Seers are arguably the ones who feel the strongest sense of guidance from the Force. Dwelling within the Force at all times, they can recognize even minor ripples and follow them to their source to stop a small problem from turning into a major crisis. Similarly, they may recognize an event that occurs far away and advise those nearby to take action so they can be prepared well in advance of an upcoming crisis. Seers' abilities often give them insights into the future, guiding them to places and people who most need their wisdom and advice. This sometimes enables Seers to be in just the right place at the right time to take action that proves to be pivotal.
+[P]Среди людей, чувствительных к Силе, провидцы, пожалуй, являются теми, кто ощущает самое сильное руководство Силы. Постоянно пребывая в Силе, они могут распознать даже незначительную рябь и проследить за ее источником, чтобы не дать маленькой проблеме перерасти в серьезный кризис. Точно так же можно распознать событие, происходящее вдалеке, и посоветовать тем, кто находится поблизости, принять меры, чтобы подготовиться к предстоящему кризису заранее. Способности провидцев часто позволяют им заглядывать в будущее, направляя их в места и к людям, которые больше всего нуждаются в их мудрости и советах. Иногда это позволяет провидцам оказаться в нужном месте в нужное время и предпринять действия, которые оказываются решающими.
 
-[P]The challenge for many Seers is to know the best time to move into a civilized area. As their sensitivity can become muddled, they may miss a sign of great import. Consequently, some prefer to remain apart from society for as long as possible, depending on allies to carry their missives. Seldom, however, are others capable of communicating a warning as effectively as the Seer who initially sensed the danger.</Description>
-  <Source Page="83">Force and Destiny Core Rulebook</Source>
+[P]Задача многих провидцев - определить лучшее время для переезда в цивилизованный район. Поскольку их чувствительность может помутиться, можно пропустить важный знак. Поэтому некоторые предпочитают оставаться в стороне от общества как можно дольше, полагаясь на союзников, которые будут разносить их послания. Однако редко кто способен передать предупреждение так же эффективно, как провидец, который изначально почувствовал опасность.</Description>
+  <Source Page="83">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>DISC</Key>

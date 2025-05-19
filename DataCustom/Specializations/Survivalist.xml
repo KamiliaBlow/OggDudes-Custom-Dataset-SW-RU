@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>SURV</Key>
-  <Name>Survivalist</Name>
-  <Description>[H4]Survivalist - Master of the Wild[h4]
+  <Name>Выживальщик</Name>
+  <Description>[H4]Выживальщик - мастер дикой природы[h4]
 
-[P]Beyond civilization, in the farthest reaches of the galaxy, there are places where few (if any) sentients have ever trodden the ground. Places like these are ideal hiding places for those fleeing the law or retribution for their actions. Places like these are where Bounty Hunters who specialize as Survivalists thrive.
+[P]За пределами цивилизации, в самых отдаленных уголках галактики, есть места, где мало кто (если вообще кто-либо) из разумных когда-либо ступал на землю. Такие места - идеальное убежище для тех, кто скрывается от закона или возмездия за свои действия. Именно в таких местах процветают охотники за головами, специализирующиеся на выживании.
 
-[P]Harkening back to the ancient practices of true wilderness hunters, the Survivalist gains [B]Knowledge (Xenology), Perception, Resilience,[b] and [B]Survival[b] as additional Career skills. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. With his talent array, he can keep himself and his companions alive, and he knows where and what to look for when searching for just about anything or anyone. He's also gifted at hunting any kind of target.
+[P]Откликаясь на древние обычаи настоящих охотников в дикой природе, выживальщик получает [B]Знания (ксенология), Внимание, Стойкость[b] и [B]Выживание[b] в качестве дополнительных карьерных навыков. Если это стартовая специализация персонажа, можно выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не потратив стартовый опыт. Благодаря своему набору талантов он может сохранить жизнь себе и своим спутникам, а также знает, где и что искать в поисках практически всего и всех. Он также умеет охотиться на любую цель.
 
-[P]Not everything that happens in the galaxy occurs in cities or out in space. In fact, most of the habitable places of the galaxy are rural or wilderness in nature. A specialization in Survivalist ensures a character has the necessary knowledge and training to make his way in such environments, and help the far more urban-minded folks he's likely traveling with.
+[P]Не все, что происходит в галактике, происходит в городах или в космосе. На самом деле большинство пригодных для жизни мест в галактике - это сельская или дикая местность. Специализация Выживальщик гарантирует, что персонаж обладает необходимыми знаниями и подготовкой, чтобы проложить себе путь в таких условиях и помочь людям с более урбанистическим мышлением, с которыми он, скорее всего, будет путешествовать.
 
-[P]Despite their capacity to live off the land, Survivalists enjoy credits and the things that can be purchased with them just like anyone else. They will often look to hire themselves out to customers who need their expertise in seeking out (or hunting) something beyond the duracrete and tapcafs.</Description>
-  <Source Page="61">Edge of the Empire Core Rulebook</Source>
+[P]Несмотря на то, что выживальщики живут за счет земли, они, как и все остальные, пользуются кредитами и вещами, которые можно на них купить. Они часто нанимаются на работу к тем, кому нужен их опыт в поисках (или охоте) чего-то, выходящего за рамки дюракрита и тапкафов.</Description>
+  <Source Page="61">Книга правил: Край Империи</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>XEN</Key>

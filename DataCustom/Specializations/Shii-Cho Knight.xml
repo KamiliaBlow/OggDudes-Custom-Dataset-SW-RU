@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>SHIICHO</Key>
-  <Name>Shii-Cho Knight</Name>
-  <Description>[H4]Shii-Cho Knight[h4]
+  <Name>Рыцарь Шии-Чо</Name>
+  <Description>[H4]Рыцарь Шии-Чо[h4]
 
-The ancient lightsaber fighting style of Shii-Cho is said to be the first lightsaber form taught to the Jedi and their predecessors. It focuses on the essentials of saber fighting and borrows heavily from other sword fighting techniques. Appropriately, the modern practitioners of this form focus on perfecting the core tenants of sword fighting, recognizing the strength of simplicity. Shii-Cho Knights eschew fancy maneuvers, preferring to focus on the fundamentals of block, parry. and strike.
+Древний стиль боя на световых мечах Шии-Чо считается первой формой боя на световых мечах, которой обучали джедаев и их предшественников. Он сосредоточен на основных принципах боя на мечах и в значительной степени заимствует другие техники боя на мечах. Соответственно, современные практикующие эту форму сосредоточены на совершенствовании основных принципов боя на мечах, признавая силу простоты. Рыцари Шии-Чо избегают вычурных маневров, предпочитая сосредоточиться на основах блокирования, парирования и удара.
 
-[P]Shii-Cho Knights acquire [B]Athletics, Coordination, Lightsaber,[b] and [B]Melee[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. These skills provide them with a solid grounding in the core techniques of any physical conflict. They are familiar with the weapon they wield, but they are also very comfortable exploiting their natural athleticism and flexibility. Because of this, they can not only avoid an enemy's attack, but also make certain that they are able to strike effectively when their target is at a disadvantage.
+[P]Рыцари Шии-Чо получают [B]Атлетику, Координацию, Световой меч[b] и [B]Ближний бой[b] в качестве дополнительных карьерных навыков. Если это стартовая специализация персонажа, он может выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. Эти навыки дают им прочную основу в основных приемах любого физического конфликта. Они хорошо знакомы с оружием, которым владеют, но также умеют использовать свой природный атлетизм и гибкость. Благодаря этому они могут не только уклониться от атаки противника, но и нанести эффективный удар, когда цель находится в невыгодном положении.
 
-[P]Followers of this path are seldom concerned with personal appearances or the style that they exhibit in a conflict. Instead, they are focused on precision and on achieving their ultimate goal of victory. For them, a solid grounding in the basics is something they can rely on in any situation. When lives are on the line, they devote their attention to executing their maneuvers in a traditional way, using them to counter an opponent while simultaneously restricting his options.</Description>
-  <Source Page="100">Force and Destiny Core Rulebook</Source>
+[P]Последователи этого пути редко заботятся о внешнем виде или стиле, который они демонстрируют в конфликте. Вместо этого они сосредоточены на точности и достижении конечной цели - победы. Для них прочное знание основ - это то, на что они могут положиться в любой ситуации. Когда на кону стоит жизнь, они уделяют внимание выполнению своих маневров в традиционной манере, используя их для противодействия противнику и одновременно ограничивая его возможности.</Description>
+  <Source Page="100">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ATHL</Key>

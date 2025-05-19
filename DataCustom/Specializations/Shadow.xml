@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>SHADOW</Key>
-  <Name>Shadow</Name>
-  <Description>[H4]Shadow[h4]
+  <Name>Тень</Name>
+  <Description>[H4]Тень[h4]
 
-In the ancient days of the Jedi Order, Sentinels worked tirelessly to police the galaxy's criminal underbelly. However, a small subset of these enforcers focused their attentions on a far greater and more dangerous threat. They trained tirelessly to find and eliminate those who had fallen to the dark side of the Force and willingly embraced corruption These Sentinels were called Shadows, and they hunted the Sith.
+В древние времена Ордена джедаев Стражи неустанно следили за преступным миром галактики. Однако небольшая часть этих стражей порядка сосредоточила свое внимание на гораздо более серьезной и опасной угрозе. Они неустанно тренировались, чтобы найти и уничтожить тех, кто перешел на темную сторону Силы и добровольно принял коррупцию. Этих Стражей называли Тенями, и они охотились на ситхов.
 
-[P]For many years, the Sith were thought destroyed, and the Jedi Shadows gave up their calling or pursued other dark side Force users. They never realized that the Sith had not been eliminated, and were hiding right under their noses.
+[P]Долгие годы ситхов считали уничтоженными, а джедаи-тени отказались от своего призвания или занялись другими пользователями Силы с темной стороны. Они так и не поняли, что ситхи не были уничтожены и скрывались прямо у них под носом.
 
-[P]Now, with the Jedi Order destroyed and a Dark Lord of the Sith ruling the Galactic Empire, those who would follow the path of the Shadow find their roles reversed. No longer the secret investigators of an established order who searched the shadows of civilization, they are now the ones who must stay hidden. However, within these dark corners. Shadows still work tirelessly to bring justice to untouchable criminals and dark side Force users alike.
+[P]Теперь, когда Орден джедаев уничтожен, а Галактической империей правит Темный лорд ситхов, те, кто пошел по пути Тени, оказались в противоположной роли. Теперь они не тайные сыщики, искавшие в тени цивилизации, а те, кто должен оставаться в тени. Однако в этих темных уголках. Тени по-прежнему неустанно вершат правосудие над неприкасаемыми преступниками и пользователями Силы темной стороны.
 
-[P]Shadows acquire [B]Knowledge (Underworld), Skulduggery, Stealth,[b] and [B]Streetwise[b] as additional career skills. If this is the character's starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. These characters recognize that stealth and deception are integral to finding the targets they hunt. Criminal organizations are often mired in secrecy. and uncovering these secrets requires underhanded methods. While their techniques are frequently of questionable moral character. Shadows firmly believe their ultimate accomplishments more than justify the tools that they must use.
+[P]Тени получают [B]Знание (преступный мир), Жульничество, Скрытность[b] и [B]Уличная интуиция[b] в качестве дополнительных карьерных навыков. Если это стартовая специализация персонажа, можно выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не потратив стартовый опыт. Эти персонажи понимают, что скрытность и обман являются неотъемлемой частью поиска целей, за которыми они охотятся. Преступные организации часто погрязли в тайне, и для раскрытия этих секретов требуются скрытные методы. Хотя их методы зачастую имеют сомнительный моральный облик. Тени твердо уверены, что их конечные достижения с лихвой оправдывают те средства, которые им приходится использовать.
 
-[P]Of course, an initiate who has turned to the dark side can prove a powerful opponent for a Shadow. Working against such an adversary can require all of an adept's mundane and Force talents. A Shadow's willingness to examine and utilize every tool and asset can play a major factor in overcoming such capable foes. </Description>
-  <Source Page="94">Force and Destiny Core Rulebook</Source>
+[P]Конечно, адепт, перешедший на темную сторону, может оказаться сильным противником для Тени. Для борьбы с таким противником могут потребоваться все мирские таланты адепта и таланты Силы. Готовность Тени изучить и использовать все инструменты и средства может сыграть важную роль в победе над такими способными противниками. </Description>
+  <Source Page="94">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>SKUL</Key>
