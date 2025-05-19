@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>PROTECT</Key>
-  <Name>Protector</Name>
-  <Description>[H4]Protector[h4]
+  <Name>Заступник</Name>
+  <Description>[H4]Заступник[h4]
 
-Guardians are often driven by their compassion for the plights of those who cannot protect themselves. Protectors ensure these innocents never come to harm. Few are tougher than a Protector, and even fewer can get through his guard to attack those he defends. Even if his charges do suffer harm, the Protector possesses basic medical knowledge to heal their wounds.
+Защитниками часто движет сострадание к судьбам тех, кто не может защитить себя сам. Заступники следят за тем, чтобы эти невинные люди никогда не пострадали. Мало кто может быть сильнее Заступника, и еще меньше тех, кто может пробиться сквозь его защиту и напасть на тех, кого он защищает. Даже если его подопечные пострадают, Заступник владеет базовыми медицинскими знаниями, чтобы залечить их раны.
 
-[P]Protectors gain the additional career skills of [B]Athletics, Medicine, Ranged (Light),[b] and [B]Resilience[b]. If this is the characters starting specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. This combination enables the character to assist those who are in need during a crisis. These skills complement many of the talent selections, so that the Protector remains capable of effectively shielding others from suffering harm without sacrificing his own capabilities.
+[P]Заступники получают дополнительные карьерные навыки [B]Атлетика, Медицина, Дальний бой (легкое оружие),[b] и [B]Стойкость[b]. Если это стартовая специализация персонажа, он может выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. Такая комбинация позволяет персонажу помогать нуждающимся во время кризиса. Эти навыки дополняют многие из выбранных талантов, так что Заступник по-прежнему способен эффективно защищать других от вреда, не жертвуя своими собственными возможностями.
 
-[P]Protectors could be considered bodyguards, but their efforts are seldom limited to protecting a single individual. Instead, Protectors are more likely to defend the needy on a larger scale. Often, they function as rescue workers, using their medical knowledge to stabilize injuries in the field and then providing additional protection. In other cases, Protectors may shelter refugees or other victims fleeing terrible situations. holding the line until the innocents can escape to safety. When a Protector does defend a single individual, It is likely because a great threat—even another Force user—pursues the person.
+[P]Заступников можно считать телохранителями, но их усилия редко ограничиваются защитой одного человека. Напротив, Заступники чаще всего защищают нуждающихся в более широком масштабе. Часто они выступают в роли спасателей, используя свои медицинские знания для стабилизации травм на месте, а затем обеспечивают дополнительную защиту. В других случаях Заступники могут укрывать беженцев или других жертв, спасающихся от ужасных ситуаций. Они держат оборону до тех пор, пока невинные не смогут спастись. Если Заступник защищает одного человека, то, скорее всего, потому, что его преследует большая угроза - даже другой пользователь Силы.
 
-[P]Some Protectors might come to master their abilities while working in a military or law enforcement role. Some Force techniques might manifest spontaneously as they instinctively act to keep companions safe. This could be particularly relevant for individuals who have not recognized their connection to the Force. Its presence might enable them to save an ally from danger in a seemingly inexplicable fashion. However, once these individuals realize the power they have, they must decide whether to continue their career and keep it a secret, or leave the life they've known and explore their new abilities.</Description>
-  <Source Page="76">Force and Destiny Core Rulebook</Source>
+[P]Некоторые Заступники могут овладеть своими способностями, работая в армии или правоохранительных органах. Некоторые техники Силы могут проявляться спонтанно, когда они инстинктивно действуют, чтобы обезопасить товарищей. Это может быть особенно актуально для тех, кто не осознал свою связь с Силой. Ее присутствие может позволить им спасти союзника от опасности необъяснимым на первый взгляд способом. Однако, осознав свою силу, эти люди должны решить, продолжать ли им карьеру и держать ее в секрете, или оставить привычную жизнь и исследовать свои новые способности.</Description>
+  <Source Page="76">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ATHL</Key>

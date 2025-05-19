@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>RECRUIT</Key>
-  <Name>Recruit</Name>
+  <Name>Рекрут</Name>
   <Description>
-    [H4]Recruit[h4]
+    [H4]Рекрут[h4]
 
-Due to [B]Age of Rebellion's[b] focus on the Galactic Civil War, most groups of PCs find themselves embroiled in conflict very quickly. Against a force like the Empire, any form of military training can mean the difference between life and death. While the Alliance isn't as organized or regimented as the Empire, they do try to give a decent number of their members some form of combat training. This training helps to enhance the Rebels' chance not only to survive in combat but to fight effectively to achieve their goals.
+Из-за того, что [B]Эпоха восстания[b] сфокусирована на галактической гражданской войне, большинство групп персонажей очень быстро оказываются втянутыми в конфликт. Против такой силы, как Империя, любая форма военной подготовки может означать разницу между жизнью и смертью. Хотя Альянс не так организован и регламентирован, как Империя, они стараются дать приличное количество своих членов в той или иной форме пройти боевую подготовку. Эта подготовка помогает повысить шансы повстанцев не только выжить в бою, но и эффективно сражаться для достижения своих целей.
 
-[P]The Recruit specialization is a universal specialization, and the experience cost to take it is ten times the total number of specializations that the character would have after adding the new specialization. While this means that the specialization costs the same as a career specialization, note that universal specializations are not career specializations.
+[P]Специализация "Рекрут" - это универсальная специализация, и затраты опыта на ее получение в десять раз превышают общее количество специализаций, которые были бы у персонажа после добавления новой специализации. Хотя это означает, что данная специализация стоит столько же, сколько и карьерная, обратите внимание, что универсальные специализации не являются карьерными.
 
-[P]The additional career skills a PC receives when taking this specialization are [B]Athletics, Discipline, Survival,[b] and [B]Vigilance[b]. Alliance operatives who go through this training enhance their physical fitness, awareness, and general competency at a wide variety of skills. Those who commit extra time and effort can also enhance their abilities with weapons and ground vehicles, as well as their general knowledge of the many worlds to which they may end up traveling.
+[P]Дополнительные карьерные навыки, которые получает персонаж при получении этой специализации, - [B]Атлетика, Выдержка, Выживание[b] и [B]Бдительность[b]. Оперативники Альянса, прошедшие эту подготовку, улучшают свою физическую форму, осведомленность и общую компетентность в широком спектре навыков. Те, кто уделяет этому дополнительное время, могут также улучшить свои навыки владения оружием и наземными транспортными средствами, а также общие знания о многочисленных мирах, в которые можно попасть.
 
-[P]Characters from almost any career can benefit from becoming a Recruit and gaining some basic military training. Small teams of specialists going up against the Empire's best will likely need to call upon every scrap of combat ability they collectively possess to survive dramatic fights for their very lives.
+[P]Персонажам практически любой профессии полезно стать рекрутом и получить базовую военную подготовку. Небольшим командам специалистов, выступающим против лучших войск Империи, скорее всего, придется задействовать все свои боевые качества, чтобы выжить в драматических схватках за свою жизнь.
 
-[P]The Alliance strongly recommends such training for any Rebels who are actively going into the field, regardless of their career, goals, or role in a team. Even Diplomats are actively encouraged to undergo military training; they do no good to anyone if they cannot come back alive from their latest efforts to negotiate a treaty or acquire supplies. Becoming a Recruit might not make a character a full-fledged special forces hero, but it certainly doesn't hurt.</Description>
-  <Source Page="100">Age of Rebellion Core Rulebook</Source>
+[P]Альянс настоятельно рекомендует проходить такую подготовку всем Повстанцам, которые собираются активно действовать в полевых условиях, независимо от их карьеры, целей или роли в команде. Даже дипломатам активно рекомендуют пройти военную подготовку: они никому не принесут пользы, если не смогут вернуться живыми из последних попыток договориться о договоре или достать припасы. Стать новобранцем можно и не сделав персонажа полноценным героем спецназа, но это точно не помешает.</Description>
+  <Source Page="100">Книга правил: Эпоха восстания</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ATHL</Key>

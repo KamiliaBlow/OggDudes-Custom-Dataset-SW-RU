@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>JEDIMASTER</Key>
-  <Name>Master</Name>
-  <Description>[H4]Master[h4]
-A Jedi cannot ignore the binding principle that connects the galaxy, especially at a time of war. While a civilian may not see any utility in silent contemplation of the Force, a Master understands that wisdom can come from anywhere and everywhere. Although the title of "Master" requires the approval of the Jedi Council, this  specialization covers overall wisdom, self-reflection, and mastery of the Force. A true Jedi Master requires no formal title. The Force recognizes their ability.
-[P]Masters gain the career skills [B]Charm, Knowledge (Core Worlds), Knowledge (Education), and Perception[b]. These skills reflect a Master's inner control and search for knowledge and self-understanding. They also represent a Master's responsibility to teach both Jedi and non-Jedi how to understand themselves and act in accordance with that knowledge. Masters meditate, instruct, formerly in classrooms or informally in conversation and seek out ancient texts.</Description>
-  <Source Page="27">Collapse of the Republic</Source>
+  <Name>Джедай: Мастер</Name>
+  <Description>[H4]Джедай: Мастер[h4]
+Джедай не может игнорировать связующий принцип, объединяющий галактику, особенно во время войны. В то время как гражданский может не видеть никакой пользы в молчаливом созерцании Силы, Мастер понимает, что мудрость может прийти отовсюду. Хотя звание «Мастер» требует одобрения Совета джедаев, эта специализация охватывает общую мудрость, самоанализ и владение Силой. Настоящему Мастеру-джедаю не требуется формальный титул. Сила признает их способности.
+[P]Мастера получают карьерные навыки [B]Обаяние, Знания (Центральные Миры), Знания (Образование), и Внимание[b]. Эти навыки отражают внутренний контроль Мастера и его стремление к знаниям и самопониманию. Они также представляют собой ответственность Мастера за обучение джедаев и неджедаев тому, как понимать себя и действовать в соответствии с этим знанием. Мастера медитируют, наставляют, раньше занимались в классах или неформально общались, искали древние тексты.</Description>
+  <Source Page="27">Дополнение: Падение Ресублики</Source>
   <Custom>AddedItem</Custom>
   <CareerSkills>
     <Key>CHARM</Key>

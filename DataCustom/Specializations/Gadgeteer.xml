@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>GADG</Key>
-  <Name>Gadgeteer</Name>
-  <Description>[H4]Gadgeteer - Connoisseur of Tech[h4]
+  <Name>Мастер гаджетов</Name>
+  <Description>[H4]Мастер гаджетов - Знаток технологий[h4]
 
-[P]Considering how often a single Bounty Hunter finds himself faced with terrible odds (more often than not, an acquisition has friends or employees who work hard to protect him), it's not surprising how many specialize in high-tech gear and weapons. The Gadgeteer excels at presenting himself as a one-person battle force, at least for a short time. Using both the latest tech and his own personally-modified gear, a Bounty Hunter with this specialization can be hard to stop.
-[P]Gadgeteers add the skills [B]Brawl, Coercion, Mechanics,[b] and [B]Ranged (Light)[b] to their repertoire of class skills, making them ranged combat experts, effective technicians, and masters of surveillance. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Gadgeteer talents lean heavily towards gear use, taking down targets, and adapting to tough situations.
+[P]Учитывая, как часто охотник за головами-одиночка сталкивается с ужасными трудностями (чаще всего у него есть друзья или сотрудники, которые стараются его защитить), неудивительно, что многие из них специализируются на высокотехнологичном снаряжении и оружии. Мастеру гаджетов удается представить себя в качестве боевой силы, состоящей из одного человека, по крайней мере на короткое время. Используя как новейшие технологии, так и свое собственное модифицированное снаряжение, охотника за головами с такой специализацией трудно остановить.
+[P]Гаджетеры добавляют в свой репертуар классовых умений навыки [B]Грубая сила, Запугивание, Механика[b] и [B]Дальний бой (легкое оружие)[b], делая их экспертами в дальнем бою, эффективными техниками и мастерами слежки. Если это стартовая специализация персонажа, он может выбрать два из этих умений и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. Таланты мастера гаджетов в значительной степени ориентированы на использование снаряжения, уничтожение целей и адаптацию к сложным ситуациям.
 
-[P]Gadgeteer-specialized Bounty Hunters are in many ways the ultimate hybrid of tech expert and combatant; for smaller groups, this may be a perfect choice. Gadgeteers—especially those that are operating as Independent Bounty Hunters—have little trouble signing on for nearly any job. After all, the credits they need for that next nifty piece of tech have to come from [I]somewhere[i].</Description>
-  <Source Page="60">Edge of the Empire Core Rulebook</Source>
+[P]Охотники за головами, специализирующиеся на гаджетах, во многом представляют собой гибрид эксперта по технике и бойца; для небольших групп это идеальный выбор. Мастер гаджетов - особенно те, что работают как независимые охотники за головами, - без труда соглашаются практически на любую работу. В конце концов, кредиты, которые им нужны для создания следующей замечательной техники, должны [I]откуда-то[i] взяться.</Description>
+  <Source Page="60">Книга правил: Край Империи</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>BRAWL</Key>

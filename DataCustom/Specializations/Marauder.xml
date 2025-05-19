@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>MARAUDER</Key>
-  <Name>Marauder</Name>
-  <Description>[H4]Marauder - Up Close and Personal[h4]
+  <Name>Мародер</Name>
+  <Description>[H4]Мародер - близко и лично[h4]
 
-[P]Marauders don't necessarily mind shooting their opponents, but they would much rather get mixed up in a melee, weapons in hand, smashing and slashing their way through. Marauders are tough—probably the toughest combatants in any conflict. They tend to take a great deal of punishment while dealing out far more to any who dare go against them.
+[P]Мародеры не против стрелять в своих противников, но им больше нравится участвовать в ближнем бою с оружием в руках, пробивая себе дорогу. Мародеры выносливы - возможно, это самые выносливые бойцы в любом конфликте. Они способны вынести огромное количество наказаний, но при этом нанести еще большее наказание любому, кто осмелится выступить против них.
 
-[P]A Marauder's list of additional Career skills is not at all surprising: [B]Coercion, Melee, Resilience,[b] and [B]Survival[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Marauders make excellent "leg-breakers," among other things, and they usually know quite a bit about how to survive in most situations. In combat, they are masters of dishing out and taking lots of damage.
+[P]Список дополнительных карьерных навыков Мародера ничуть не удивляет: [B]Запугивание, Ближний бой, Стойкость[b] и [B]Выживание[b]. Если это стартовая специализация персонажа, он может выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. Мародеры, помимо прочего, отлично умеют ломать ноги и, как правило, знают толк в выживании в большинстве ситуаций. В бою они мастера наносить и получать много урона.
 
-[P]Marauders may come from low-tech worlds, where advanced weaponry simply wasn't an option for them. Alternately, they might come from a culture where melee combat is considered far more honorable and worthy, and they keep to their traditions. Moreover, many pirates and raiders of starships favor melee weapons in order to avoid damaging vital systems aboard a ship they're in the middle of trying to take.
+[P]Мародеры могут быть выходцами из низкотехнологичных миров, где современное оружие для них просто недоступно. Или же они могут быть выходцами из культур, где рукопашный бой считается гораздо более почетным и достойным, и они придерживаются своих традиций. Более того, многие пираты и налетчики на звездолеты предпочитают оружие ближнего боя, чтобы не повредить жизненно важные системы корабля, который они пытаются захватить.
 
-[P]A character who chooses to be a Marauder might be an ex-pirate. Alternatively, he could be in the adventure to make money in the only way he can—with his fists. It could be that he's simply along for the ride, ready to bash his way through whatever adventure he encounters.</Description>
-  <Source Page="78">Edge of the Empire Core Rulebook</Source>
+[P]Персонаж, решивший стать Мародером, может быть бывшим пиратом. Или же он участвует в приключениях, чтобы заработать деньги единственным доступным ему способом - кулаками. А может быть, он просто едет с нами, готовый пробивать себе путь через любые приключения.</Description>
+  <Source Page="78">Книга правил: Край Империи</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COERC</Key>

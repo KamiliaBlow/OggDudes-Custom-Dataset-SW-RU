@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>REPNAVYOFF</Key>
-  <Name>Republic Navy Officer</Name>
-  <Description>[H4]Republic Navy Officer[h4]
-Waging war against the Confederacy or Independent Systems requires the coordination the brightest military minds within the Republic. The clone army is an effective fighting force on the ground, but it is only as effective as the tactical leadership that commands and supports it from orbit. Drawn from the experienced commanders of Republic worlds' various system defense fleets, the naval Officers of the Republic serve as the Grand Army's frontline strategic leadership amid the raging conflict. Even the Jedi rely on the judgment of the officers they fight beside, as they lack the experience necessary to conduct large-scale naval actions or organize troop deployments.
+  <Name>Офицер республиканского флота</Name>
+  <Description>[H4]Офицер республиканского флота[h4]
+Ведение войны против Конфедерации или Независимых систем требует координации самых ярких военных умов Республики. Армия клонов - эффективная боевая сила на земле, но она эффективна лишь настолько, насколько эффективно тактическое руководство, которое командует и поддерживает ее с орбиты. Флотоводцы Республики, набранные из опытных командиров флотов обороны различных систем миров Республики, служат передовым стратегическим руководством Великой армии в условиях бушующего конфликта. Даже джедаи полагаются на мнение офицеров, рядом с которыми они сражаются, поскольку у них нет опыта, необходимого для проведения крупномасштабных морских операций или организации переброски войск.
 
-[H4]MILITARY BRILLIANCE[h4]
+[H4]МИЛИТАРИЗИРОВАННЫЙ БРИЛИАНТ[h4]
 
-[P]Victory is a moving target, which makes the task of a Republic Navy Officer immensely difficult. While the Separatists have been building and training their commanders in secret for years, the Republic leadership was largely unprepared for the sudden onset of open conflict.
+[P]Победа - это движущаяся цель, что делает задачу офицера республиканского флота чрезвычайно сложной. В то время как сепаратисты годами тайно создавали и обучали своих командиров, руководство Республики оказалось практически не готово к внезапному началу открытого конфликта.
 
-[P]The Jedi and the Senate are not experienced at waging war, so they have been forced to draw their officers from the isolated defense fleets scattered throughout the Republic, resulting in a  diverse group of military commanders with wildly different skills, training, approaches, and experiences.
+[P]Джедаи и Сенат не имеют опыта ведения войны, поэтому им приходится черпать офицеров из разрозненных оборонительных флотов, разбросанных по всей Республике, что приводит к появлению разношерстной группы военных командиров с дико разными навыками, подготовкой, подходами и опытом.
 
-[P]Yet, one thing the officers of the Republic Navy share is an excellent tactical and strategic sense. They are as capable of outmaneuvering a single dangerous warship as they are organizing the defense fleet of an entire star system. Having had to outwit pirates often before the war, officers know the spacelanes of the galaxy and can operate amid dangerous obstacles that would slag less experienced navigators.
+[P]Однако офицеров республиканского флота объединяет одно - превосходное тактическое и стратегическое чутье. Они способны справиться как с одним опасным кораблем, так и организовать оборону целой звездной системы. До войны им не раз приходилось перехитрять пиратов, поэтому офицеры знают пространственные маршруты галактики и могут действовать в условиях опасных препятствий, которые могли бы сбить с толку менее опытных навигаторов.
 
-[P]To represent their training in tactical combat and command, a Republic Navy Officer receives [B]Astrogation, Discipline, Knowledge (Warfare),[b] and [B]Leadership[b] as additional career skills. Regardless of their unique background, a Republic Navy Officer understands war and knows what must be done to achieve victory.
+[P]Чтобы продемонстрировать свою подготовку в области тактического боя и командования, Офицер республиканского флота получает [B]Астрогацию, Выдержку, Знания (военное дело)[b] и [B]Лидерство[b] в качестве дополнительных карьерных навыков. Независимо от своего уникального происхождения офицер республиканского флота понимает, что такое война, и знает, что нужно делать для достижения победы.
 
-[P]Beyond their military expertise, a naval officer must be a capable leader. Even a brilliant strategy is useless if the spacers carrying it out don't have faith in their ship or fleet, and a talented officer inspires that faith. Whether captaining a single vessel or coordinating the assault of an entire armada, a Republic Navy Officer is a symbol to the crews they command. Clone troopers rely on the ships of the Navy to travel between worlds and reach the battlefield, and the best officers ensure not only victory in orbital battles, but pave the way for a successful ground strike.
+[P]Помимо военного опыта, морской офицер должен быть способным лидером. Даже блестящая стратегия бесполезна, если космодесантники, проводящие ее в жизнь, не верят в свой корабль или флот, а талантливый офицер вселяет эту веру. Будь то капитан одного судна или координатор нападения целой армады, офицер республиканского флота является символом для команд, которыми он командует. Клон-десантники полагаются на корабли флота, чтобы путешествовать между мирами и добираться до поля боя, а лучшие офицеры обеспечивают не только победу в орбитальных сражениях, но и прокладывают путь для успешного наземного удара.
 
-[P]In addition to inspiring the clones and other crew who serve under them, many Republic Navy Officers work closely with a Jedi general. Although a non-Jedi officer is officially outranked by their Jedi colleague, the officer's military experience often ensures they serve more as a mentor than a subordinate, and naval strategies are frequently developed by the two working in concert. The Jedi tend to be more at home directing ground engagements or leading starfighter dogfights, leaving the command of the orbital or interplanetary forces to their trusted naval commanders.</Description>
-  <Source Page="31">Rise of the Separatists</Source>
+[P]Помимо вдохновения клонов и других членов экипажа, которые служат под их началом, многие офицеры республиканского флота тесно сотрудничают с генералом-джедаем. Хотя офицер-неджедай официально стоит выше своего коллеги-джедая, военный опыт офицера часто позволяет ему выступать скорее в роли наставника, чем подчиненного, и военно-морские стратегии часто разрабатываются ими совместно. Джедаи, как правило, чаще руководят наземными операциями или ведут бои звездных истребителей, оставляя командование орбитальными или межпланетными силами своим доверенным флотоводцам.</Description>
+  <Source Page="31">Дополнение: Восстание сепаратистов</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ASTRO</Key>

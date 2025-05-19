@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>HUNTER</Key>
-  <Name>Hunter</Name>
-  <Description>[H4]Hunter[h4]
+  <Name>Охотник</Name>
+  <Description>[H4]Охотник[h4]
 
-Far from the civilized parts of the galaxy, there are many predators that can endanger sentient life. Some of these are animals that prey upon anything digestible. Others are malicious and twisted individuals who enjoy a savage and bloodthirsty existence. Hunters are Force adepts who are uniquely capable of tracking, confronting, and slaying these creatures, particularly those who hide in the wilds, far from civilization.
+Вдали от цивилизованных уголков галактики обитает множество хищников, которые могут угрожать разумной жизни. Некоторые из них - животные, которые охотятся на все, что можно переварить. Другие - злобные и извращенные личности, которым нравится дикое и кровожадное существование. Охотники - адепты Силы, обладающие уникальной способностью выслеживать, сталкивать и убивать этих существ, особенно тех, кто скрывается в диких местах, вдали от цивилизации.
 
-[P]Hunters acquire [B]Coordination, Ranged (Heavy), Stealth,[b] and [B]Vigilance[b] as additional career skills. If this is the PC's starting specialization, he chooses two of these skills and gains one free rank in each. These ranks do not cost experience. Hunters need to be able to sneak up on their targets, move through difficult terrain, and be constantly alert to their surroundings. Many hunters train with ranged weapons so that they can strike their targets from far away.
+[P]Охотники получают [B]Координацию, Дальний бой (тяжелое оружие), Скрытность[b] и [B]Бдительность[b] в качестве дополнительных карьерных навыков. Если это начальная специализация персонажа, он выбирает два из этих навыков и получает по одному бесплатному рангу в каждом. Эти ранги не стоят опыта. Охотникам необходимо уметь подкрадываться к цели, передвигаться по труднопроходимой местности и быть постоянно начеку. Многие охотники тренируются с дальнобойным оружием, чтобы поражать цели издалека.
 
-[P]Most Hunters initially embark upon their careers focused on animal prey. Few, however, engage in this practice out of a desire to prove their mettle or a thirst for blood. Rather, their connection to the Force often lets them differentiate between predators that hunt out of necessity from those that are actively malicious. A Hunter does not normally interfere in the natural cycle of life, but he's more than willing to restore balance by eliminating a predator that kills needlessly and destroys natural habitats. Sadly, these foul and twisted animalistic intelligences also have their parallels within sentient beings. All too often, a Hunter finds himself hunting intelligent quarry; this can prove to be the most dangerous game of all.</Description>
-  <Source Page="88">Force and Destiny Core Rulebook</Source>
+[P]Большинство охотников изначально начинают свою карьеру, ориентируясь на добычу животных. Однако лишь немногие из них занимаются этим из желания доказать свою силу или жажды крови. Скорее, связь с Силой позволяет им отличать хищников, охотящихся по необходимости, от тех, кто активно вредит. Обычно Охотник не вмешивается в естественный круговорот жизни, но он более чем готов восстановить баланс, уничтожив хищника, который убивает без необходимости и разрушает естественную среду обитания. К сожалению, это звериное поведение с извращенным характером имеют место быть и в разумных существах. Слишком часто Охотнику приходится охотиться на разумную добычу, и это может оказаться самой опасной игрой из всех.</Description>
+  <Source Page="88">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COORD</Key>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>OUTLAW</Key>
-  <Name>Outlaw Tech</Name>
-  <Description>[H4]Outlaw Tech - Making Things Better[h4]
+  <Name>Незаконный техник</Name>
+  <Description>[H4]Незаконный техник - делает вещи лучше[h4]
 
-[P]Outlaw Techs are the specialists others call on when they want something out of the ordinary. A blaster that works beyond factory tolerances? No problem. A transponder that identifies a smuggler's freighter as a religious pilgrimage craft? It'll cost a few credits, but sure. A protocol droid altered to carry out an assassination? Just how big is that credit line, anyway?
+[P]Незаконные техники - это специалисты, к которым обращаются, когда хотят получить что-то необычное. Нужен бластер, работающий с превышением заводских допусков? Нет проблем. Транспондер, идентифицирующий контрабандистский грузовой корабль как судно религиозного паломничества? Это обойдется в несколько кредитов, но зато точно. Протокольный дроид, измененный для совершения убийства? Насколько велика эта кредитная линия?
 
-[P]The Outlaw Tech adds the following to his available career skills: [B]Knowledge (Education), Knowledge (Underworld), Mechanics,[b] and [B]Streetwise[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. This gives him the opportunity to have two starting ranks in Mechanics, if he also chooses that as one of his free starting career skill ranks. With his talents, the Outlaw Tech is adept at doing fantastic things with technology that he probably shouldn't. He's also tough, clever, and adaptable.
+[P]Незаконный техник добавляет к своим карьерным навыкам следующие: [B]Знание (Образование), Знание (Преступный мир), Механика[b] и [B]Уличная интуиция[b]. Если это стартовая специализация персонажа, он может выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не потратив стартовый опыт. Это дает ему возможность получить два стартовых ранга в Механике, если он также выберет ее в качестве одного из бесплатных рангов стартового карьерного навыка. Благодаря своим талантам Незаконный техник умеет делать с технологиями фантастические вещи, которые ему, возможно, не следовало бы делать. Он также вынослив, умен и легко приспосабливается.
 
-[P]Outlaw Techs find the Outer Rim very comfortable. They're able to practice their unique style of work with far less chance of running afoul of Imperial agents or other repressive government restrictions. They also find it far easier to make the contacts and get the kinds of customers that really appreciate their services. Of course, it's a lot harder to get true state-of-the-art equipment, but making do with what's on hand is a specialty of the Outlaw Tech.
+[P]Незаконным техникам очень комфортно во Внешнем кольце. Они могут практиковать свой уникальный стиль работы с гораздо меньшей вероятностью нарваться на имперских агентов или другие репрессивные правительственные ограничения. Кроме того, им гораздо проще завязать контакты и найти тех клиентов, которые действительно ценят их услуги. Конечно, достать настоящее современное оборудование гораздо сложнее, но обходиться тем, что есть под рукой, - это специализация Незаконных техников.
 
-[P]Outlaw Techs in a Player Character group will be highly prized, especially for their ability to make all kinds of improvements on other characters' gear. They are also adept at keeping ships and vehicles operational, and in some situations, they're as handy at acquiring certain goods as some Explorers. Without a Smuggler in the group, an Outlaw Tech may be the best bet for dealing with the local black markets.</Description>
-  <Source Page="90">Edge of the Empire Core Rulebook</Source>
+[P]Незаконные техники в группе персонажей игрока будут высоко цениться, особенно за их способность вносить всевозможные улучшения в снаряжение других персонажей. Они также умеют поддерживать в рабочем состоянии корабли и транспортные средства, а в некоторых ситуациях могут добывать определенные товары не хуже некоторых исследователей. Если в группе нет контрабандиста, Незаконный техник можно считать лучшим вариантом для работы на местных черных рынках.</Description>
+  <Source Page="90">Книга правил: Край Империи</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>EDU</Key>

@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>SCOUT</Key>
-  <Name>Scout</Name>
-  <Description>[H4]Scout - Discovering New Planets[h4]
+  <Name>Скаут</Name>
+  <Description>[H4]Скаут - Открытие новых планет[h4]
 
-[P]There's finding a planet, and then there's going down to the planet and seeing what's what. The Scout is the professional for the task, trained to survey and survive, gathering all of the information he can while keeping his head attached to his body. While bravery in combat is one thing, there can be no denying the fearlessness of anyone willing to touch down on a completely unknown planet and trudge about with only scanners and his wits to discover its secrets.
-[P]A Scout knows his way around in any environment, and he's both tough and knowledgeable enough to make the most of his situation. His additional Career skills make his job much easier: [B]Athletics, Medicine, Piloting (Planetary),[b] and [B]Survival[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Most Scouts are skilled at: covering any ground (or lack thereof); how to find what to eat and where to sleep; and how to survey an area and gather all the needed data. Scouts are often excellent at driving or piloting atmospheric craft as well.
+[P]Можно найти планету, а можно спуститься на нее и посмотреть, что к чему. Скаут - профессионал, обученный исследовать и выживать, собирая всю возможную информацию, не отрывая головы от тела. Если храбрость в бою - это одно, то бесстрашие того, кто готов приземлиться на совершенно незнакомую планету и с помощью сканеров и своей смекалки выведать ее секреты, невозможно отрицать.
+[P]Скаут знает толк в любой обстановке, он вынослив и достаточно осведомлен, чтобы извлечь максимум пользы из ситуации. Дополнительные карьерные навыки значительно облегчают его работу: [B]Атлетика, Медицина, Пилотирование (планетарное),[b] и [B]Выживание[b]. Если это стартовая специализация персонажа, он может выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. Большинство Скаутов умеют: преодолевать любую местность (или отсутствие таковой); находить, что поесть и где переночевать; исследовать местность и собирать все необходимые данные. Скауты также часто отлично водят или пилотируют атмосферные корабли.
 
-[P]There are plenty of Scouts that work either for the Empire or for corporations that actively seek out and survey planets for possible exploitation. They normally work with survey teams with excellent support and resources. Independent Scouts—like the one a player is likely to play—operate with a great deal more autonomy. They will find smaller operations to work with, ones with looser rules and regulations that let them operate more as they choose. Living by his toughness and wits as he must, a Scout will be surprisingly effective in most situations. After all, adapting to the unknown is a trademark talent of any Scout.</Description>
+[P]Есть множество Скаутов, работающих на Империю или корпорации, которые активно ищут и исследуют планеты на предмет возможной эксплуатации. Обычно они работают в составе исследовательских групп, имеющих отличную поддержку и ресурсы. Независимые Скауты - такие, как тот, которым предстоит играть игроку, - действуют гораздо более автономно. Они находят для работы более мелкие операции с более слабыми правилами и нормами, которые позволяют им действовать по своему усмотрению. Живя за счет своей стойкости и смекалки, Скаут будет удивительно эффективен в большинстве ситуаций. В конце концов, адаптация к неизвестности - это фирменный талант любого Скаута.</Description>
   <Sources>
-    <Source Page="72">Edge of the Empire Core Rulebook</Source>
-    <Source Page="98">Age of Rebellion Core Rulebook</Source>
+    <Source Page="72">Книга правил: Край Империи</Source>
+    <Source Page="98">Книга правил: Эпоха восстания</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <CareerSkills>

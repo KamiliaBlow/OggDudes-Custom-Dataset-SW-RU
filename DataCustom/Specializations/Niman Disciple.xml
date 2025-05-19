@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>NIMAN</Key>
-  <Name>Niman Disciple</Name>
-  <Description>[H4]Niman Disciple[h4]
+  <Name>Последователь Ниман/Джар'Кай</Name>
+  <Description>[H4]Последователь Ниман[h4]
 
-Even the most accomplished of negotiators can see negotiations fail and come to violence. In the time of the Republic. many Jedi peacemakers trained with the lightsaber to prepare themselves for that eventuality. Today, Consulars who wish to do the same can focus on self-defense and gain a working knowledge of lightsaber combat by following the path of the Niman Disciple.
+Даже самые опытные переговорщики могут увидеть, как переговоры проваливаются и переходят в насилие. Во времена Республики многие джедаи-миротворцы обучались владению световым мечом, чтобы подготовиться к такому развитию событий. Сегодня консулы, желающие сделать то же самое, могут сосредоточиться на самообороне и получить рабочие знания боя на световых мечах, следуя по пути Последователя Ниман.
 
-[P]Niman Disciples gain the additional career skills of [B]Discipline, Leadership, Lightsaber,[b] and [B]Negotiation,[b] and if this is the PC's starting specialization, the PC gains one rank in each of two of these skills. They remain focused on working with groups of individuals to come to a peaceful accord, but they acknowledge that the road to that accord may be fraught with danger. These skills can make surviving in a treacherous environment much more possible.
-[P]Due to Consulars' naturally compassionate nature, this path centers on developing defensive measures in concert with negotiation techniques. In general, the associated combat techniques are focused on survival and defense instead of attack. Also, due to the Consular's emphasis on mental discipline and self control, the Niman Disciple puts more emphasis on integrating his Force abilities into his fighting style, using the Force as his ally to defeat dangerous foes.</Description>
-  <Source Page="70">Force and Destiny Core Rulebook</Source>
+[P]Последователь Ниман получает дополнительные карьерные навыки [B]Выдержка, Лидерство, Световой меч[b] и [B]Переговоры[b], а если это начальная специализация персонажа, то он получает по одному рангу в каждом из двух этих навыков. Они по-прежнему нацелены на работу с группами людей, чтобы прийти к мирному соглашению, но признают, что на пути к нему можно столкнуться с опасностями. Эти навыки могут сделать выживание в коварной обстановке гораздо более возможным.
+[P]Из-за того, что Консулы по природе своей сострадательны, этот путь сосредоточен на разработке защитных мер в сочетании с техниками ведения переговоров. В целом, связанные с этим боевые техники направлены на выживание и защиту, а не на нападение. Кроме того, из-за акцента Консула на ментальной дисциплине и самоконтроле Последователь Нимана уделяет больше внимания интеграции способностей Силы в свой боевой стиль, используя Силу как своего союзника для победы над опасными противниками.</Description>
+  <Source Page="70">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>DISC</Key>

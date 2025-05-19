@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>MERCENARY</Key>
-  <Name>Mercenary Soldier</Name>
-  <Description>[H4]Mercenary Soldier - Master of War[h4]
-If the Marauder is the melee master, and the Bodyguard is the all-around weapons and gear trooper, the Mercenary Soldier is the warfare expert. An adept of both ranged combat and military tactics, he is a leader of warriors in combat and a deadly combatant himself.
-[P]Mercenary Soldiers add the career skills of [B]Discipline, Gunnery, Leadership[b] and [B]Ranged (Heavy)[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. A Mercenary Soldier can be a true mental rock in critical situations. He is a deadly foe all on his own, and deadlier still if he has a force to lead in battle.
+  <Name>Наемный солдат</Name>
+  <Description>[H4]Наемный солдат - мастер войны[h4]
+Если мародер - мастер ближнего боя, а телохранитель - универсальный боец с оружием и снаряжением, то наемный солдат - эксперт по ведению войны. Адепт дальнего боя и военной тактики, он руководит воинами в бою и сам является смертоносным бойцом.
+[P]Наемные солдаты получают такие карьерные навыки, как [B]Выдержка, Артиллерия, Лидерство[b] и [B]Дальний бой (тяжелое оружие)[b]. Если это стартовая специализация персонажа, он может выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. Наемный солдат может стать настоящей скалой в критических ситуациях. Он смертельно опасен сам по себе, и еще более смертоносен, если у него есть сила, которую он ведет в бой.
 
-[P]Mercenary Soldiers are the most likely to have come from prior service with a larger organization, and they almost certainly had at least a non-commissioned officer role with that force. They have a keen grasp of both tactics and strategy, though they will tend to focus more on the former as a Matter of practicality and survival. Even in less formal situations, a Mercenary Soldier will tend to show a high degree of personal discipline and order.
+[P]Наемные солдаты, скорее всего, ранее служили в более крупной организации и почти наверняка занимали в ней хотя бы должность младшего офицера. Они прекрасно разбираются как в тактике, так и в стратегии, хотя в практических целях и для выживания предпочитают ориентироваться на первое. Даже в менее формальных ситуациях наемный солдат будет демонстрировать высокую степень личной дисциплины и порядка.
 
-[P]In a Player Character group, it will not be out of the question for a Mercenary Soldier to take charge, at least in situations where combat is likely. Though his leadership skills are not as comprehensive as other specializations, they are uniquely focused for combat.</Description>
-  <Source Page="79">Edge of the Empire Core Rulebook</Source>
+[P]В группе персонажей игрока не исключено, что наемный солдат возьмет на себя командование, по крайней мере, в ситуациях, где возможен бой. Хотя его лидерские навыки не столь обширны, как у других специализаций, они уникально ориентированы на бой.</Description>
+  <Source Page="79">Книга правил: Край Империи</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>DISC</Key>

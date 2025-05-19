@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>QUARTERMASTER</Key>
-  <Name>Quartermaster</Name>
+  <Name>Квартермейстер</Name>
   <Description>
-    [H4]Quartermaster - Managing the Resources[h4]
+    [H4]Квартермейстер - управление ресурсами[h4]
 
-An old military saying goes something like this—"Empty stomachs make for poor soldiers." The Quartermaster's job is to ensure this doesn't happen to the troops he supports. He also must ensure that weapons, ammunition, medical supplies, and everything else needed gets where it should be and into the right hands. Managing the flow of logistics is one of the most difficult tasks in any military organization, and the Quartermaster is the master of it.
-[P]Quartermasters gain [B]Computers, Negotiation, Skulduggery,[b] and [B]Vigilance[b] as additional career skills. If this is a PC's first specialization, two of these four skills begin with a free rank each. Searching and manipulating data to their unit's benefit is a trick many Quartermasters employ, as is finding (and stealing) necessary resources when the cupboards are otherwise bare. Anyone involved in supply is inherently enamored of preparedness at all times.
+Старая военная поговорка гласит: "Пустой желудок - плохой солдат". Задача квартирмейстера - не допустить этого в войсках, которые он поддерживает. Он также должен следить за тем, чтобы оружие, боеприпасы, медикаменты и все остальное необходимое попало туда, куда нужно, и в нужные руки. Управление логистическими потоками - одна из самых сложных задач в любой военной организации, и квартирмейстер - мастер в этом деле.
+[P]Квартетмейстеры получают [B]Компьютеры, Переговоры, Жульничество[b] и [B]Бдительность[b] в качестве дополнительных карьерных навыков. Если это первая специализация персонажа, два из этих четырех навыков начинаются с одного бесплатного ранга каждый. Поиск и манипулирование данными в интересах своего подразделения - трюк, к которому прибегают многие квотермейны, равно как и поиск (и кража) необходимых ресурсов, когда в шкафах пусто. Любой, кто связан со снабжением, по своей природе любит всегда быть наготове.
 
-[P]The greatest commanders in any military place extraordinary emphasis on supply, relying heavily on their Quartermasters to see to it that logistical needs are met at all times. An otherwise-successful campaign will come to a screeching halt, perhaps even degrading into a terrible rout, if supply lines are not maintained and the warriors engaged with the enemy lose access to food, ammunition, and other vital needs. The Quartermaster understands the unique and challenging puzzle of finding, securing, and moving assets, and he seeks to fulfill his unit's needs no matter what is required.
+[P]Величайшие полководцы в любой армии уделяют огромное внимание снабжению, во многом полагаясь на своих квартирмейстеров, следящих за тем, чтобы потребности в материально-технических средствах были удовлетворены в любое время. Иначе успешная кампания остановится, возможно, даже превратившись в ужасный разгром, если не будут налажены линии снабжения и воины, сражающиеся с врагом, потеряют доступ к продовольствию, боеприпасам и другим жизненно важным ресурсам. Квартирмейстер понимает уникальную и сложную головоломку, связанную с поиском, обеспечением и перемещением имущества, и стремится удовлетворить потребности своего подразделения, чего бы это ни стоило.
 
-One of the greatest challenges for the Alliance is that of supply; the best Quartermasters in service to the Rebellion are indispensable assets. As long as other Alliance units are not endangered by their actions, Quartermasters are given great leeway in their methods for acquiring needed resources and getting them to the front lines. Many of the best Quartermasters indulge in more than a little larceny, often targeting criminal organizations and even the Empire itself to get what they need.</Description>
-  <Source Page="81">Age of Rebellion Core Rulebook</Source>
+Одна из самых серьезных проблем для Альянса - снабжение; лучшие квартирмейстеры на службе у Повстанцев - незаменимые помощники. До тех пор пока их действия не угрожают другим подразделениям Альянса, квартирмейстерам предоставляется большая свобода действий в добыче необходимых ресурсов и их доставке на передовую. Многие из лучших квартирместеров занимаются не только хищениями, но и выслеживают преступные организации и даже саму Империю, чтобы получить то, что им нужно.</Description>
+  <Source Page="81">Книга правил: Эпоха восстания</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COMP</Key>

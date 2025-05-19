@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>SAGE</Key>
-  <Name>Sage</Name>
-  <Description>[H4]Sage[h4]
+  <Name>Мудрец</Name>
+  <Description>[H4]Мудрец[h4]
 
-Many Consulars know the universal truth: knowledge is power, and understanding a situation can give one a decisive advantage. This holds just as true when resolving disputes or negotiations as it does on the battlefield. A Sage focuses on studying the world around him, recognizing that information offers tremendous advantages to himself and his allies. He then uses that power to help change the hearts and minds of others to achieve his goals.
+Многие консулы знают универсальную истину: знание - сила, а понимание ситуации может дать решающее преимущество. Это справедливо как при разрешении споров или переговорах, так и на поле боя. Мудрец сосредоточен на изучении окружающего мира, понимая, что информация дает огромные преимущества ему самому и его союзникам. Затем он использует эту силу, чтобы изменить сердца и умы других людей для достижения своих целей.
 
-[P]Equal parts scholar and diplomat, Sages gain the additional career skills [B]Astrogation, Charm, Cool,[b] and [B]Knowledge (Lore)[b]. If this is a PC's first specialization, the PC gains one rank in each of two of these skills. Sages see knowledge and understanding as the basis for long-term peace and harmony. It is their belief that hatred often springs from ignorance. When a sentient comes to appreciate the backgrounds of another being's beliefs and practices, it becomes far easier not only accept that being but to feel compassion for him.
-[P]Some researchers may become lost in their academic pursuits, obsessing over dry facts while blind to the plight of the weak and helpless. Not so a Sage, who maintains connections to those around him via the Living Force. The Force provides a means of grounding Sages' studies so that they keep what they learn in perspective, always mindful of how they can use their knowledge to help others.</Description>
-  <Source Page="71">Force and Destiny Core Rulebook</Source>
+[P]В равной степени являясь ученым и дипломатом, мудрецы получают дополнительные карьерные навыки [B]Астрогация, Обаяние, Хладнокровие[b] и [B]Знание (Легенды)[b]. Если это первая специализация персонажа, он получает по одному рангу в каждом из двух этих навыков. Мудрецы считают знания и понимание основой для долгосрочного мира и гармонии. Они считают, что ненависть часто проистекает из невежества. Когда разумный человек начинает понимать истоки верований и практик другого существа, ему становится гораздо легче не только принять это существо, но и проникнуться к нему состраданием.
+[P]Некоторым исследователям можно заблудиться в своих научных изысканиях, зациклившись на сухих фактах и не обращая внимания на судьбы слабых и беспомощных. Но не таков Мудрец, который поддерживает связь с окружающими его людьми посредством Живой Силы. Сила служит основой для обучения Мудрецов, чтобы они не теряли перспективу, всегда помня о том, как можно использовать свои знания для помощи другим.</Description>
+  <Source Page="71">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>ASTRO</Key>

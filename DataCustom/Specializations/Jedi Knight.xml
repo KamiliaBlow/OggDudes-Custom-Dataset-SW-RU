@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>JEDIKNIGHT</Key>
-  <Name>Knight</Name>
-  <Description>[H4]Knight[h4]
-A Jedi Knight serves as warrior, diplomat, ambassador, and scholar, leading clone troopers to repel the droid army of the Confederacy of Independent Systems. In many ways, Knights act as the face and symbol of the Republic, more so than the clone troopers, and perhaps even more than the Senators and representatives in the Galactic Senate. While their numbers are few compared to the total population of the galaxy, the Jedi, as a whole, affect billions of lives.
+  <Name>Джедай: Рыцарь</Name>
+  <Description>[H4]Джедай: Рыцарь[h4]
+Рыцарь-джедай выступает в роли воина, дипломата, посла и ученого, возглавляя отряды клонов для отражения армии дроидов Конфедерации независимых систем. Во многих отношениях рыцари являются лицом и символом Республики, в большей степени, чем солдаты клоны, и, возможно, даже больше, чем сенаторы и представители в Галактическом Сенате. Хотя их численность невелика по сравнению с общим населением галактики, джедаи в целом влияют на миллиарды жизней.
 
-[P]Knights receive [B]Cool, Leadership, Lightsaber,[b] and [B]Negotiation[b] as additional career skills. Characters who select this as their starting specialization may choose two of these skills and gain one free rank in each without spending starting experience. The practical, hands-on nature of a Jedi Knight utilizes such skills as they move toward, into, and out of trouble. [B]A character must have a Force rating of 2 or higher in order to take the Knight specialization.[b]
+[P]Рыцари получают [B]Хладнокровие, Лидерство, Световой меч[b] и [B]Переговоры[b] в качестве дополнительных карьерных навыков. Персонажи, выбравшие эту специализацию в качестве стартовой, могут выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. Практический, характер рыцаря-джедая использует эти навыки, когда он движется к неприятностям, попадает в них и выходит из них. [B]Персонаж должен иметь рейтинг Силы 2 или выше, чтобы получить специализацию Рыцарь[b]
 
-[P]Jedi Knights are guardians of peace and justice. Through acts of chanty, assistance, teaching, and in some cases, fighting in another's defense, the Jedi Knights serve the people of the Republic. When Jedi render aid and express compassion, this motivates others to do the same. The Force exists in all living beings, and the suffering of those beings affects the Force. In addition, Knights serve as the general public’s primary guide to the Force and as living examples of what one can accomplish by accepting the Force.
+[P]Рыцари-джедаи - хранители мира и справедливости. Оказывая помощь, обучая, а в некоторых случаях и сражаясь, защищая других, рыцари-джедаи служат народу Республики. Когда джедаи оказывают помощь и проявляют сострадание, это побуждает других поступать так же. Сила существует во всех живых существах, и страдания этих существ влияют на Силу. Кроме того, рыцари служат для широкой публики главным проводником Силы и живым примером того, чего можно достичь, приняв Силу.
 
-[P]Knights must also serve with stoicism, to avoid letting their emotions overwhelm them. Even in times of peace, Knights regularly decide when Padawans, other Knights, and soldiers should risk their lives for a greater good. Fear of failure or death cannot cloud their judgment. Yet, Knights must take care not to fall into cold indifference, sacrificing lives as if they were mere numbers to be placed in a casualty report.
+[P]Рыцари также должны служить стоически, не позволяя эмоциям захлестнуть их. Даже в мирное время рыцари регулярно решают, когда падаванам, другим рыцарям и солдатам следует рисковать жизнью ради высшего блага. Страх перед неудачей или смертью не может повлиять на их решение. И все же рыцари должны быть осторожны, чтобы не впасть в холодное безразличие, жертвуя жизнями, как будто это просто цифры, которые нужно занести в отчет о потерях.
 
-[P]Taking on the role of a Jedi Knight means taking command of the troops, of the situation, and of one's self. With a whole galaxy in turmoil, a Knight must combat the hesitation and confusion in themself and in others. The people need leadership, and Knights who doubt themselves cannot serve the people.</Description>
-  <Source Page="26">Rise of the Separatists</Source>
+[P]Взять на себя роль рыцаря-джедая - значит взять на себя командование войсками, ситуацией и самим собой. В условиях, когда вся галактика находится в смятении, рыцарь должен бороться с нерешительностью и растерянностью в себе и в других. Людям нужно руководство, а рыцари, которые сомневаются в себе, не могут служить людям.</Description>
+  <Source Page="26">Дополнение: Восстание сепаратистов</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COOL</Key>

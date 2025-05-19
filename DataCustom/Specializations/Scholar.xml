@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>SCHOLAR</Key>
-  <Name>Scholar</Name>
-  <Description>[H4]Scholar - The Gift of Knowledge[h4]
+  <Name>Научный работник</Name>
+  <Description>[H4]Научный работник - Дар знаний[h4]
 
-[P]At first, the idea of a Scholar wandering with a bunch of ne'er-do-wells in the Outer Rim might seem a bit odd, if not downright ridiculous. However, with all of the dangers and wonders of "a thousand thousand worlds,' having someone around who actually knows something more than how to reload a heavy blaster could be exceedingly useful under any number of circumstances. This is especially true when a group is faced with something truly unknown, or needs to find something that simple tracking alone cannot locate.
+[P]Поначалу можно подумать, что научный работник бродит по Внешнему кольцу с кучкой отъявленных негодяев, и это покажется странным, а то и вовсе нелепым. Однако, учитывая все опасности и чудеса "тысячи тысяч миров", наличие рядом человека, который действительно знает нечто большее, чем умение перезаряжать тяжелый бластер, может оказаться крайне полезным при любых обстоятельствах. Это особенно верно, когда группа сталкивается с чем-то по-настоящему неизвестным или ей нужно найти что-то, что невозможно обнаружить с помощью простого слежения.
 
-[P][B]Knowledge (Outer Rim), Knowledge (Underworld), Knowledge (Xenology),[b] and [B]Perception[b] are the Scholar's bonus career skills from his specialization. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. These skills emphasize both his role as a font of information and his keen awareness of his surroundings.
+[P][B]Знания (Внешнее кольцо), Знания (Преступный мир), Знания (Ксенология)[b] и [B]Внимание[b] - бонусные карьерные навыки Научного работника из его специализации. Если это стартовая специализация персонажа, можно выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. Эти навыки подчеркивают как его роль источника информации, так и его чуткость к окружающему миру.
 
-[P]Even in the Outer Rim, there are those who have a keen respect for knowledge and learning. Even criminal overlords find having some "brains" around helps them when they want to expand their operations or exploit a new opportunity. Other Scholars, however, are far more interested in getting out into the galaxy, seeing for themselves the things they wish to study, and digging around in ancient places for the lost knowledge they want to uncover.
+[P]Даже во Внешнем кольце есть те, кто с большим уважением относится к знаниям и обучению. Даже криминальные авторитеты считают, что наличие "мозгов" помогает им, когда они хотят расширить свои операции или использовать новые возможности. Однако другие научные работники гораздо больше заинтересованы в том, чтобы выбраться в галактику, увидеть своими глазами то, что они хотят изучить, и покопаться в древних местах в поисках утраченных знаний, которые они хотят открыть.
 
-[P]A Scholar in a group is very likely of the field researcher variety; seeking allies with physical capabilities who can defend him is a matter of simple expediency. It may be that he's signed on with some kind of operation that actually has no direct impact on his research, but the group is likely to travel to places he wishes to go, which suits his desires well.</Description>
-  <Source Page="67">Edge of the Empire Core Rulebook</Source>
+[P]Научный работник в группе, скорее всего, является полевым исследователем; поиск союзников с физическими возможностями, способных защитить его, - вопрос простой целесообразности. Можно подписаться на какую-нибудь операцию, которая на самом деле не имеет прямого отношения к его исследованиям, но группа, скорее всего, будет путешествовать по тем местам, куда он захочет попасть, что вполне соответствует его желаниям.</Description>
+  <Source Page="67">Книга правил: Край Империи</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>OUT</Key>

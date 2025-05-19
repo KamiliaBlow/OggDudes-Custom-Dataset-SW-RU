@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>PILOT</Key>
-  <Name>Pilot</Name>
-  <Description>[H4]Pilot - A Galaxy of Destinations[h4]
+  <Name>Пилот</Name>
+  <Description>[H4]Пилот - Галактика направлений[h4]
 
-[P]Plenty of folks know how to fly a starship, but a Smuggler who specializes as a Pilot develops a relationship with his ship, and it becomes an extension of his wit and his will. He can make a plodding old transport run far above its performance ratings, and given time and some modifications, he can turn it into one of the fleetest and most maneuverable craft ever to take to the stars.
+[P]Многие умеют управлять звездолетами, но контрабандист, специализирующийся на пилотировании, устанавливает связь со своим кораблем, и он становится продолжением его ума и воли. Он может заставить старый неповоротливый транспорт работать намного лучше, чем его номинальные характеристики, а если учесть время и некоторые модификации, то превратить его в один из самых маневренных и быстроходных кораблей, когда-либо поднимавшихся к звездам.
 
-[P]A Pilot is naturally focused on mastering his craft, and his additional career skills show it: [B]Astrogation, Gunnery, Piloting (Planetary),[b] and [B]Piloting (Space)[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. A Pilot's talents further reinforce his dominance in the cockpit.
+[P]Пилот от природы нацелен на овладение своим ремеслом, и об этом свидетельствуют его дополнительные карьерные навыки: [B]Астрогация, Артиллерия, Пилотирование (планетарное)[b] и [B]Пилотирование (космическое)[b]. Если это стартовая специализация персонажа, он может выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. Таланты Пилота еще больше усиливают его доминирование в кабине.
 
-[P]Pilot is another specialization that rarely leads to unemployment. If a Pilot doesn't already have his own ship (and the inevitable Obligation that goes with it), he will likely be able to sign on with any number of groups, criminal or otherwise. Once he establishes his competency at the controls, he'll be able to get some fairly choice assignments. A Player Character Pilot will be considered indispensable to his group, especially after the first space battle or ship-related crisis.</Description>
+[P]Пилот - еще одна специализация, которая редко приводит к безработице. Если у пилота еще нет собственного корабля (и неизбежных обязательств, которые к нему прилагаются), он, скорее всего, сможет записаться в любую группу, криминальную или иную. Как только он подтвердит свою компетентность в управлении, он сможет получить несколько довольно выгодных заданий. Пилот игрового персонажа будет считаться незаменимым в своей группе, особенно после первого космического сражения или кризиса, связанного с кораблем.</Description>
   <Sources>
-    <Source Page="83">Edge of the Empire Core Rulebook</Source>
-    <Source Page="69">Age of Rebellion Core Rulebook</Source>
+    <Source Page="83">Книга правил: Край Империи</Source>
+    <Source Page="69">Книга правил: Эпоха восстания</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <CareerSkills>

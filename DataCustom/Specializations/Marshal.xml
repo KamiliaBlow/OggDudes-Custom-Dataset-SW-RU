@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>MARSHAL</Key>
-  <Name>Marshal</Name>
-  <Description>[H4]Marshal - The Burden of Peace[h4]
+  <Name>Маршал</Name>
+  <Description>[H4]Маршал - Бремя мира[h4]
 
-[P]Criminals might run and criminals might hide, but the Marshal won't rest until he drags them back to town in binders. The presence of a strong Marshal is often the only thing keeping a colony from plunging into chaos. The Marshal has a gift for extracting information from witnesses and confessions from criminals. and separating lies and irrelevant information from the truth. Should suspects turn violent, the Marshal is equally adept at talking criminals into a pair of binders or blasting them into oblivion.
+[P]Преступники могут бежать, преступники могут прятаться, но маршал не успокоится, пока не притащит их в город в наручниках. Присутствие сильного маршала - часто единственное, что удерживает колонию от погружения в хаос. У маршала есть дар вытягивать информацию из свидетелей и признания преступников, отделять ложь и не относящуюся к делу информацию от правды. Если подозреваемый проявляет агрессию, маршал одинаково хорошо умеет уговаривать преступников или взорвать их в небытие.
 
-[P]Marshals receive [B]Coercion, Knowledge (Underworld), Ranged (Light)[b] and [B]Vigilance[b] as additional career skills. If this is the character's starting specialization, he gains one free rank in each of two of these skills of his choice, without spending experience. Where most Colonists are forced to rely on talking their way out of trouble, the Marshal finds that his blaster speaks almost as well as he does. Most law officers know that holding the weight of the law over a potential witness is the quickest way to modify his attitude. Marshals can throw the weight of their authority around to get answers. There is little government oversight on the fringe, and often a Marshal's word is the law.
+[P]Маршалы получают [B]Запугивание, Знание (Преступный мир), Дальний бой (легкое оружие)[b] и [B]Бдительность[b] в качестве дополнительных карьерных навыков. Если это стартовая специализация персонажа, он получает по одному бесплатному рангу в каждом из двух этих навыков по выбору, не тратя опыт. Там, где большинство колонистов вынуждены полагаться на умение говорить, чтобы выпутаться из неприятностей, маршал обнаруживает, что его бластер говорит почти так же хорошо, как он сам. Большинство служителей закона знают, что наложение тяжести закона на потенциального свидетеля - самый быстрый способ изменить его отношение. Маршалы могут использовать всю силу своей власти, чтобы добиться ответов. На окраинах практически нет государственного надзора, и зачастую слово маршала - закон.
 
-[P]Equally as important is the Marshal's knowledge of crime and criminal elements, especially those operating within his jurisdiction. A Marshal who doesn't take the time to familiarize himself with the local malcontents isn't going to be very good at his job. And when it comes time to go toe to toe with those criminals, the Marshal is ready. Most Marshals know how to use the blasters at their hips.
+[P]Не менее важны знания маршала о преступности и криминальных элементах, особенно тех, что действуют в пределах его юрисдикции. Маршал, который не уделяет времени знакомству с местными злоумышленниками, не слишком хорошо справляется со своей работой. А когда придет время вступить в схватку с преступниками, маршал будет готов. Большинство маршалов умеют пользоваться бластерами на бедрах.
 
-The Marshal makes for a great leader in combat-oriented groups, or can provide some muscle to non-combat groups while still participating in social and investigative encounters. Marshals strike a great balance between social skills and combat, allowing them to speak on behalf of combat-oriented parties without being a liability when blaster bolts start flying. Their ability to sort fact from fiction makes them difficult to manipulate, and their gritty determination can carry an entire group that would have otherwise given up hope of success.</Description>
-  <Source Page="28">Far Horizons</Source>
+Маршал может быть отличным лидером в группах, ориентированных на боевые действия, а также может стать помощником в группах, не участвующих в боевых действиях, и при этом участвовать в социальных и следственных встречах. Маршалы отлично сочетают социальные и боевые навыки, что позволяет им выступать от имени боевых групп и не быть помехой, когда в них начинают лететь бластерные болты. Их способность отделять факты от вымысла делает их труднодоступными для манипулирования, а их решительность может увлечь за собой целую группу, которая в противном случае потеряла бы надежду на успех.</Description>
+  <Source Page="28">Дополнение: Далекие горизонты</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>COERC</Key>

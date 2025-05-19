@@ -1,23 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>SCAVENGER</Key>
-  <Name>Scavenger</Name>
-  <Description>[H4]Scavenger[h4]
-As the Clone Wars erupt across the galaxy, there are many beings who have no interest in which side wins or loses. Scavengers have always existed in the Outer Rim, but during wartime, any individual might find themself lurking among the wreckage of droids and vehicles, salvaging valuables. For this reason, sentients from all walks of life might become Scavengers and learn to turn damaged or forgotten technology into profit on the black market, whether dealing in individual scanners and blasters or salvaging entire starships.
+  <Name>Мусорщик</Name>
+  <Description>[H4]Мусорщик[h4]
+В то время как по всей галактике бушуют Войны клонов, есть множество существ, которых не интересует, кто из сторон победит, а кто проиграет. Мусорщики всегда существовали во Внешнем кольце, но в военное время можно обнаружить, что любой человек скрывается среди обломков дроидов и транспортных средств, собирая ценные вещи. По этой причине мусорщиками могут стать представители всех слоев общества, которые научатся превращать поврежденные или забытые технологии в прибыль на черном рынке, будь то торговля отдельными сканерами и бластерами или спасение целых звездолетов.
 
-[H4]SURVIVING ON DESTRUCTION[h4]
+[H4]ВЫЖИВАНИЕ ЗА СЧЕТ РАЗРУШЕНИЯ[h4]
 
-[P]To venture out into a ruinous battlefield requires great courage, and only the most daring survivalists succeed at deriving profit from the wreckage of warfare. The dangers of a former battleground—from shattered tanks and unstable munitions to not-quite-disabled battle droids—are enough of a deterrence that most Scavengers find themselves working alone. The isolation and danger give anyone who chooses such a life great tenacity. The pay is usually better than the rate for any other work they could find, and the freedom is liberating.
+[P]Чтобы выйти на разрушенное поле боя, требуется большая смелость, и только самым отважным выживальщикам удается извлечь выгоду из обломков войны. Опасности бывшего поля боя - от разбитых танков и нестабильных боеприпасов до не совсем исправных боевых дроидов - являются достаточно сильным сдерживающим фактором, поэтому большинство мусорщиков работают в одиночку. Изоляция и опасность придают любому, кто выбирает такую жизнь, огромную стойкость. Платят обычно лучше, чем за любую другую работу, которую они могут найти, а свобода освобождает.
 
-[P]Scavengers receive [B]Mechanics, Perception, Streetwise,[b] and [B]Survival[b] as additional career skills. These skills are honed by constant forays into burned out factories or the hulking wrecks of starships, where local predators or malfunctioning battle droids might at any time emerge with deadly intent.
+[P]Мусорщики получают [B]Механику, Внимание, Уличную интуицию[b] и [B]Выживание[b] в качестве дополнительных карьерных навыков. Эти навыки оттачиваются постоянными вылазками на сгоревшие фабрики или громадные обломки звездолетов, где в любой момент можно встретить местных хищников или неисправных боевых дроидов со смертельными намерениями.
 
-[P]It is the ability to find treasure within the detritus of the Republic and the Separatists that draws individuals to such dangerous endeavors. A Scavenger is a master of improvisation. They often refurbish The technology they find in new and innovative ways to either sell on the black market or use for their own purposes. They are as much inventors as they are survivors, creating handmade and unique equipment that only they know how to use.
+[P]Именно возможность найти сокровища среди обломков Республики и Сепаратистов привлекает людей к таким опасным начинаниям. Мусорщик - мастер импровизации. Они часто переделывают найденные технологии новыми и инновационными способами, чтобы продать их на черном рынке или использовать в своих целях. Они такие же изобретатели, как и выжившие, создавая вручную уникальное оборудование, которым умеют пользоваться только они.
 
- [P]Not all of a Scavenger's discoveries are from the wreckage of war, however. Occasionally a battle unearths ancient relics or technology from before even the Republic, or a tip or rumor puts a Scavenger's skills to the test as they venture into territory unseen for generations. Instead of recovering the wreckage of a Republic or Separatist war machine, they may find themselves in the possession of a device so old that it would be priceless to academics or religious leaders—a device that can do things that no other technology can replicate.
+[P]Однако не все находки мусорщика происходят на обломках войны. Иногда в ходе сражения обнаруживаются древние реликвии или технологии, появившиеся еще до Республики, или же по слухам или наводке мусорщикам приходится испытывать свои навыки, отправляясь на территорию, которую они не видели на протяжении многих поколений. Вместо того чтобы найти обломки военной машины Республики или Сепаратистов, можно обнаружить, что в их руках находится устройство, настолько древнее, что оно было бы бесценно для ученых или религиозных лидеров, - устройство, способное делать то, что не может повторить ни одна другая технология.
 
-[P]If a Scavenger doesn't find their own use for a broken hull or circuit board, an extensive network within the black market offers plenty of ways to turn a profit on it. For every innovator willing to venture into danger for their parts, there are a dozen smugglers and technicians who would rather trade credits for safety and buy whatever materials a Scavenger can recover. This means that every piece of tech or wreckage is potentially valuable to someone. A reliable Scavenger can build up relationships with experienced fences that lead to improved profits and information that wouldn't be available any other way.
-</Description>
-  <Source Page="35">Rise of the Separatists</Source>
+[P]Если мусорщик не находит собственного применения сломанному корпусу или плате, обширная сеть черного рынка предлагает множество способов заработать на этом. На каждого новатора, готового пойти на риск ради своих деталей, найдется дюжина контрабандистов и техников, которые предпочтут обменять кредиты на безопасность и купить все материалы, которые мусорщик сможет восстановить. Это значит, что каждая деталь техники или обломки корабля потенциально ценны для кого-то. Надежный мусорщик может наладить отношения с опытными скупщиками, что приведет к увеличению прибыли и получению информации, которую невозможно получить другим способом.</Description>
+  <Source Page="35">Дополнение: Восстание сепаратистов</Source>
   <Custom>DescOnly</Custom>
   <CareerSkills>
     <Key>MECH</Key>
