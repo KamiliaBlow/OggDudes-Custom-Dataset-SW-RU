@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>BIGGERTHEYARE</Key>
-  <Name>The Bigger They Are...</Name>
-  <Description>Once per game session as an action, the character may spend 2 Destiny Points, nominate one vehicle, starship, or living creature of silhouette 2 or smaller that he can see, and make a [B]Hard ([DI][DI][DI]) Knowledge (Warfare) check[b]. If he succeeds, for the next 3 rounds, he and each other friendly character within medium range of him ignore the target's armor (or soak, if it is a living creature) when inflicting damage on the target with non-vehicle/starship weapons.</Description>
-  <Source Page="38">Forged in Battle</Source>
+  <Name>Чем больше шкаф...</Name>
+  <Description>Один раз за игровую сессию в качестве действия персонаж может потратить 2 очка Судьбы, выбрать одно транспортное средство, звездолет или живое существо силуэта 2 или меньше, которое он может видеть, и сделать [B]Сложную ([DI][DI][DI]) проверку Знания (Военное дело)[b]. Если ему это удается, то в течение следующих 3 раундов он и все остальные дружественные персонажи в пределах средней дистанции игнорируют броню цели (или поглощение, если это живое существо) при нанесении ей урона незвездолетного/звездолетным оружием.</Description>
+  <Source Page="38">Дополнение: Закаленные в битве</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

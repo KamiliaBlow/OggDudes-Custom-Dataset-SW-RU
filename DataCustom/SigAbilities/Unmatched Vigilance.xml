@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>UNMATCHEDVIGILANCE</Key>
-  <Name>Unmatched Vigilance</Name>
-  <Description>Once per game session at the beginning of a structured encounter, the character may spend 2 Destiny Points. If he does so, he determines the Initiative order of the first round of the encounter. Characters still make checks to determine Initiative, but these results will only apply after Unmatched Vigiliance's effects end.</Description>
-  <Source Page="35">Endless Vigil</Source>
+  <Name>Непревзойденная бдительность</Name>
+  <Description>Один раз за игровую сессию в начале структурированного боя персонаж может потратить 2 очка Судьбы. Если он это делает, то определяет порядок инициативы в первом раунде поединка. Персонажи по-прежнему делают проверки для определения инициативы, но эти результаты будут применяться только после окончания действия эффектов "Непревзойденной бдительности".</Description>
+  <Source Page="35">Дополнение: Бесконечное бдение</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

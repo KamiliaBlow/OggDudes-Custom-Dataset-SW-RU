@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>UNMATCHEDFEROCITY</Key>
-  <Name>Unmatched Ferocity</Name>
-  <Description>All Warriors walk a fine line between ferocity and control. Some Warriors, particularly with the aid of the Force, can unleash a barrage of blows on a foe, overwhelming their defenses and ending a confrontation in one dramatic onslaught. Even when tempered with skill and control, such an assault draws on anger or other negative emotions, which might overtake the Warrior.</Description>
-  <Source Page="35">Knights of Fate</Source>
+  <Name>Непревзойденная жестокость</Name>
+  <Description>Все Воины проходят тонкую грань между свирепостью и контролем. Некоторые Воины, особенно с помощью Силы, могут обрушить на противника шквал ударов, подавляя его защиту и завершая противостояние одним драматическим натиском. Даже при наличии мастерства и контроля такое нападение влечет за собой гнев или другие негативные эмоции, которые могут взять верх над Воином.</Description>
+  <Source Page="35">Дополнение: Рыцари судьбы</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>UNPROT</Key>
-  <Name>Unmatched Protection</Name>
-  <Description>Some of the toughest sentients in the galaxy are Hired Guns. A lifetime of conflict leaves them covered in scars from countless wounds. However, this also leaves them as tough and resilient as durasteel.</Description>
-  <Source Page="37">Dangerous Covenants</Source>
+  <Name>Непревзойденная защита</Name>
+  <Description>Одни из самых жестоких существ в галактике - наемные убийцы. Вся жизнь в конфликтах, и покрыта шрамами от бесчисленных ран. Однако при этом они становятся прочными и стойкими, как дюрасталь.</Description>
+  <Source Page="37">Дополнение: Опасные союзы</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>MUCHTOLEARN</Key>
-  <Name>Much to Learn</Name>
-  <Description>In an era when the Jedi are all but extinct, passing on the scattered remnants of their teachings has become a vital task. At the same time, those who teach must also expect to be on the front lines against the forces that would snuff out the light of the Jedi forever. Some of these dedicated individuals see the chance to turn this struggle into a classroom. They adopt charges and apprentices, then carry on instruction even as both master and student continue the fight for survival. For such characters, every conflict is a lesson waiting to be taught.</Description>
-  <Source Page="34">Disciples of Harmony</Source>
+  <Name>Многое предстоит узнать</Name>
+  <Description>В эпоху, когда джедаи практически вымерли, передача разрозненных остатков их учений стала жизненно важной задачей. В то же время те, кто учит, должны рассчитывать на то, что им придется быть на передовой против сил, которые навсегда погасят свет джедаев. Некоторые из этих преданных своему делу людей видят возможность превратить эту борьбу в учебный процесс. Они берут себе подопечных и учеников, а затем продолжают обучение, даже когда мастер и ученик продолжают борьбу за выживание. Для таких героев каждый конфликт - это урок, который нужно преподать.</Description>
+  <Source Page="34">Дополнение: Последователи гармонии</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

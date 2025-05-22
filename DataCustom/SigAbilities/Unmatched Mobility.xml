@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>UNMOB</Key>
-  <Name>Unmatched Mobility</Name>
-  <Description>Agile and talented, Explorer characters often survive and thrive among the dangers of the galaxy through the use of speed and mobility. A seasoned Explorer can focus under pressure, using adrenaline and training to move around and complete tasks faster than those around him. Some use this ability to evade danger, keeping themselves out of harm's way. Others use it to gain an edge against their foes, outmaneuvering them in battle.</Description>
-  <Source Page="35">Enter the Unknown</Source>
+  <Name>Непревзойденная подвижность</Name>
+  <Description>Ловкие и талантливые, персонажи Исследователи часто выживают и процветают среди опасностей галактики благодаря скорости и мобильности. Опытный Исследователь может сосредоточиться под давлением, используя адреналин и тренировки, чтобы передвигаться и выполнять задания быстрее, чем окружающие его люди. Одни используют эту способность, чтобы уклоняться от опасности, оберегая себя. Другие используют ее, чтобы получить преимущество перед врагами, опережая их в бою.</Description>
+  <Source Page="35">Дополнение: Шаг в неизвестность</Source>
   <Custom>DescOnly</Custom>
   <Careers>
     <Key>EXPLORER</Key>

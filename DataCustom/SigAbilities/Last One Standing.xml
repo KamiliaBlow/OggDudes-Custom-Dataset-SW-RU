@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>LOS</Key>
-  <Name>Last One Standing</Name>
-  <Description>Sometimes, when he has no other choice a character must defy the odds and fight against overwhelming opposition. This action seems suicidal. However, the very best can walk through the fire of overwhelming odds, defeat their enemies, and emerge bloody but victorious.</Description>
-  <Source Page="36">Dangerous Covenants</Source>
+  <Name>Кто остался последним</Name>
+  <Description>Иногда, когда у персонажа нет другого выхода, он вынужден бросить вызов и сражаться с непреодолимой оппозицией. Такой поступок кажется самоубийственным. Однако самые лучшие могут пройти сквозь огонь непреодолимых препятствий, победить своих врагов и выйти из боя окровавленными, но победителями.</Description>
+  <Source Page="36">Дополнение: Опасные союзы</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

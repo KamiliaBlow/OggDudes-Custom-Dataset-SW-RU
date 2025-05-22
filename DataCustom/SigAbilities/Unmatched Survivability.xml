@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>UNMATCHEDSURV</Key>
-  <Name>Unmatched Survivability</Name>
+  <Name>Непревзойденная живучесть</Name>
   <Description>
-    [H4]Ace Signature Ability: Unmatched Survivability[h4]
+    [H4]Фирменная способность АСа: Непревзойденная живучесть[h4]
 
-Flying speeders and fighters into combat is a dangerous job. Amidst the chaos of a battle, one stray blast can knock an unsuspecting ship out of commission. Experienced Aces know this, and know every little trick to keep their vehicle going as long as possible.
+Полеты на спидерах и истребителях в бой - опасная работа. Среди хаоса сражения один шальной взрыв может вывести из строя ничего не подозревающий корабль. Опытные асы знают об этом и знают все маленькие хитрости, чтобы их транспортное средство продержалось как можно дольше.
 
-[P][H4]&lt;font size=1&gt;Please see page 37 of the Stay on Target Sourcebook for details.&lt;/font&gt;[h4]</Description>
-  <Source Page="37">Stay on Target</Source>
+[P][H4]&lt;font size=1&gt;Смотрите на странице 37 в Дополнение: Все по плану для деталей.&lt;/font&gt;[h4]</Description>
+  <Source Page="37">Дополнение: Все по плану</Source>
   <Sources />
   <Custom>DescOnly</Custom>
   <AbilityRows>

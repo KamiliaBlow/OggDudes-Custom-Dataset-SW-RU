@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>PROPHECY</Key>
-  <Name>Prophecy</Name>
-  <Description>The future is always in motion, and trying to predict it through the Force is a tricky and even dangerous endeavor. Even if one can sift through the shifting strands of fate and pick out the future most likely to occur, trying to bring about or stop that future may cause one to take actions that end up having the opposite effect. Nevertheless, many Force users delve into the dangerous art of prophecy, because if they succeed, the rewards can be great beyond measure.</Description>
-  <Source Page="37">Unlimited Power</Source>
+  <Name>Пророчество</Name>
+  <Description>Будущее всегда находится в движении, и пытаться предсказать его с помощью Силы - занятие непростое и даже опасное. Даже если удастся просеять изменчивые нити судьбы и выбрать наиболее вероятное будущее, попытка вызвать или остановить его может привести к действиям, которые в итоге окажутся противоположными. Тем не менее многие пользователи Силы погружаются в опасное искусство пророчества, потому что в случае успеха награда может быть безмерно велика.</Description>
+  <Source Page="37">Дополнение: Абсолютная власть</Source>
   <Sources />
   <Custom>DescOnly</Custom>
   <AbilityRows>

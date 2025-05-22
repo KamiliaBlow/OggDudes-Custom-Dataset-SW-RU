@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>UNMATCHEDDEVASTATION</Key>
-  <Name>Unmatched Devastation</Name>
-  <Description>Once per game session, after performing a combat check, the character may spend 2 Destiny POints to perform one additional combat check against the same target as an incidental.
+  <Name>Непревзойденное разрушение</Name>
+  <Description>Один раз за игровую сессию, выполнив боевую проверку, персонаж может потратить 2 очка Судьбы, чтобы выполнить одну дополнительную боевую проверку против той же цели в качестве свободного действия.
 [P]
-The difficulty of this combat check is increased by 1 for each successful combat check the character has performed this turn. This combat check must be made using a non-starship/vehicle weapon that the character has not already used this turn.</Description>
-  <Source Page="41">No Disintegrations</Source>
+Сложность этой боевой проверки увеличивается на 1 за каждую успешную боевую проверку, которую персонаж выполнил в этот ход. Эта боевая проверка должна быть выполнена с помощью незвездолетного/звездолетного оружия, которое персонаж еще не использовал в этот ход.</Description>
+  <Source Page="41">Дополнение: Без дезинтеграций</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

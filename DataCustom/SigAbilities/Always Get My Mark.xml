@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>ALWAYSGETMYMARK</Key>
-  <Name>Always Get My Mark</Name>
-  <Description>Once per game session, the character may choose a minion NPC to be her mark. She must know this NPC's identity and basic personal information (or have another lead of comparable quality, per the GM's discretion), and must know that the NPC is on the same planet. She spends 2 Destiny Points, and makes a [B]Hard ([DI][DI][DI]) Streetwise check[b]. If she succeeds, the character tracks down the chosen mark, and a new enounter begins as the character reaches the mark's location.
-[P]The exact nature of this encounter, as well as the circumstances under which it takes place, must be approved by the GM (see [B]Narrative Abilities[b] on page 40). When making the skill check to activate Always Get My Mark, the GM can add [BO] or [SE] for any situational effects that might affect the difficulty of the check.</Description>
-  <Source Page="39">No Disintegrations</Source>
+  <Name>Знаю где моя цель</Name>
+  <Description>Один раз за игровую сессию персонаж может выбрать НПЦ-миньона, который станет его целью. Он должен знать личность и основную личную информацию этого НПЦ (или иметь другую зацепку сопоставимого качества, на усмотрение ГМа), и должен знать, что НПЦ находится на той же планете. Персонаж тратит 2 очка Судьбы и делает проверку "уличной интуиции" со [B]сложностью ([DI][DI][DI][DI])[b]. Если ей это удается, персонаж выслеживает выбранную цель, и новая встреча начинается, когда персонаж достигает местоположения цели.
+[P]Точный характер этой встречи, а также обстоятельства, при которых она происходит, должны быть одобрены ГМом (см. раздел [B]Нарративные способности[b] на стр. 40). При проверке навыка для активации "Знаю где моя цель" ГМ может добавить [BO] или [SE] для любых ситуационных эффектов, которые могут повлиять на сложность проверки.</Description>
+  <Source Page="39">Дополнение: Без дезинтеграций</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

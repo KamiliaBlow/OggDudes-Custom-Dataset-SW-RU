@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>UNMATCHEDINGEN</Key>
-  <Name>Unmatched Ingenuity</Name>
-  <Description>There are few things Engineers love more than to tinker with their equipment Prior to going in to battle (or even in the midst of it, given the opportunity), any Engineers worth their hydrospanners will rebuild slugthrower feeds, reposition missile detonator sensors, or reroute power ducting in blasters. In the minds of Engineers. there is nothing that cannot be improved, and using weaponry as it arrived from the logistics supply sources is a sign of laziness or lack of skill. It is a point of pride for them to always add some ingenious improvement to not only their own weapons, but the weapons of their fellow Alliance soldiers.</Description>
-  <Source Page="35">Fully Operational</Source>
+  <Name>Непревзойденное мастерство</Name>
+  <Description>Перед боем (или даже в разгар боя, если представится такая возможность) Инженеры любят возиться со своим оборудованием. Любой Инженер, стоящий своих гидрошпангоутов, переделает подачу патронов в пулеметы, переставит датчики детонатора ракеты или переложит силовые каналы в бластерах. В сознании Инженеров нет ничего, что нельзя было бы улучшить, а использование оружия в том виде, в котором оно поступило из источников снабжения, - признак лени или недостатка мастерства. Они гордятся тем, что всегда добавляют какое-нибудь гениальное усовершенствование не только к своему оружию, но и к оружию своих товарищей по Альянсу.</Description>
+  <Source Page="35">Дополнение: Полная оперативность</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

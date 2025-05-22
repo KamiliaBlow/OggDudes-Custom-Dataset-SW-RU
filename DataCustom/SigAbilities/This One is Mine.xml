@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>THISONEISMINE</Key>
-  <Name>This One is Mine</Name>
-  <Description>Amidst the pandemonium of battles involving hundreds of starships and vehicles, pilots must ignore the chaos around them and focus on individual enemy targets to prioritize. Ace characters have become masters of this. When they focus on a target, all else seems to disappear around them as they stalk their prey. And in turn, as an Ace begins the attack, his target is forced to focus all its attention on staying alive. As the two combatants fight, they weave through the ongoing battle, ignored by all others as they duel for their lives.</Description>
-  <Source Page="36">Stay on Target</Source>
+  <Name>Этот мой</Name>
+  <Description>Среди столпотворения сражений с участием сотен звездолетов и машин пилоты должны не обращать внимания на окружающий хаос и сосредоточиться на отдельных вражеских целях, чтобы расставить приоритеты. Герои АСы стали мастерами в этом деле. Когда они сосредотачиваются на цели, все остальное словно исчезает вокруг них, пока они преследуют свою жертву. И в свою очередь, когда АС начинает атаку, его цель вынуждена сосредоточить все свое внимание на том, чтобы остаться в живых. Пока два бойца сражаются, они плетутся сквозь продолжающуюся битву, не обращая внимания на окружающих, поскольку сражаются за свою жизнь.</Description>
+  <Source Page="36">Дополнение: Все по плану</Source>
   <Sources />
   <Custom>DescOnly</Custom>
   <AbilityRows>

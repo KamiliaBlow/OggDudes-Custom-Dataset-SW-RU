@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>UNMATCHEXPERT</Key>
-  <Name>Unmatched Expertise</Name>
-  <Description>A combination of education and hard-earned life experiences can make Colonists far more capable individuals than they appear. When the time is right, they can put their vast experience to good use, making challenging tasks look easy, and the impossible merely difficult. </Description>
-  <Source Page="37">Far Horizons</Source>
+  <Name>Непревзойденная экспертиза</Name>
+  <Description>Сочетание образования и жизненного опыта, приобретенного тяжелым трудом, делает колонистов гораздо более способными людьми, чем кажется. Когда наступает подходящий момент, они могут использовать свой богатый опыт на практике, делая сложные задачи легкими, а невозможное - просто трудным. </Description>
+  <Source Page="37">Дополнение: Далекие горизонты</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

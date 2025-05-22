@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>UNMATCHEDFORTUNE</Key>
-  <Name>Unmatched Fortune</Name>
-  <Description>Smugglers learn early on to be self-reliant and sure of themselves. It isn't enough to hope things will work out or believe in some hokey religion—they have to take luck into their own hands if they want to keep flying, much less make a credit or two.</Description>
-  <Source Page="39">Fly Casual</Source>
+  <Name>Непревзойденная удача</Name>
+  <Description>Контрабандисты рано учатся быть самодостаточными и уверенными в себе. Недостаточно надеяться, что все получится, или верить в какую-нибудь заумную религию - нужно взять удачу в свои руки, если хочешь продолжать летать, а тем более заработать кредит или два.</Description>
+  <Source Page="39">Дополнение: Непринужденный полет</Source>
   <Sources />
   <Custom>DescOnly</Custom>
   <AbilityRows>

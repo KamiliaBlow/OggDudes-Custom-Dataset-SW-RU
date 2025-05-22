@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>ROUSOR</Key>
-  <Name>Rousing Oratory</Name>
-  <Description>Many in the Empire think that a commander is defined
-by the loyalty and service that the soldiers serving
-under them owe to the office. What they fail to realize
-is that the true definition of a commander comes from
-his responsibility to those soldiers. A true commander
-is responsible for seeing the mission through, but not
-at the callous disregard for his troops. A true commander
-is responsible for defeating the enemy, but
-not at the sacrifice of his army’s humanity. A true commander
-is responsible for winning the war, but more
-importantly, for winning the war for the right reasons.
-The commander that can live up to these ideals is an
-inspiration to his troops and can drive them to ever
-greater feats of heroism for the cause.</Description>
-  <Source Page="38">Lead by Example</Source>
+  <Name>Проникновенное ораторство</Name>
+  <Description>Многие в Империи считают, что командир определяется
+по преданности и службе, которую солдаты, служащие
+под их началом. Они не понимают.
+что истинное определение командира вытекает из
+его ответственности перед солдатами. Настоящий командир
+обязан довести миссию до конца, но не
+за бездушное пренебрежение к своим войскам. Настоящий командир
+отвечает за победу над врагом, но
+не жертвуя человечностью своей армии. Настоящий командир
+отвечает за победу в войне, но еще важнее
+важно, чтобы война была выиграна по правильным причинам.
+Командир, который может соответствовать этим идеалам, является
+вдохновляет свои войска и может побудить их к еще более
+на еще большие подвиги во имя дела.</Description>
+  <Source Page="38">Дополнение: Лидерство на примере</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>UNMATCHHERO</Key>
-  <Name>Unmatched Heroism</Name>
-  <Description>The act of sheltering allies is frequently a literal one for Guardians. This signature ability allows Guardians to intercept attacks meant for friends, taking mighty strikes in their allies' place. Since Guardians often have the means of mitigating incoming attacks, from deft sword skills to resilient armor to Force-enhanced toughness, they can often resist strikes that would incapacitate or even slay their comrades. Some Guardians can even capitalize on being hit, launching counterstrikes or otherwise smiting foes who strike at them. Armed with this signature ability, a Guardian can safeguard a whole party against numerous foes for several rounds.</Description>
-  <Source Page="37">Keeping the Peace</Source>
+  <Name>Непревзойденный героизм</Name>
+  <Description>Укрытие союзников часто становится для Защитников буквальным действием. Эта фирменная способность позволяет Хранителям перехватывать атаки, предназначенные для друзей, и принимать на себя могучие удары вместо своих союзников. Поскольку у Защитников часто есть средства для смягчения атак - от ловкого владения мечом до прочной брони и усиленной Силой прочности, - они часто могут противостоять ударам, которые могли бы вывести из строя или даже убить их товарищей. Некоторые Защитники даже умеют извлекать выгоду из ударов, нанося контрудары или иным образом поражая врагов, которые их атакуют. Вооруженный этой фирменной способностью, Защитник может защищать всю партию от многочисленных врагов в течение нескольких раундов.</Description>
+  <Source Page="37">Дополнение: Поддержание мира</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

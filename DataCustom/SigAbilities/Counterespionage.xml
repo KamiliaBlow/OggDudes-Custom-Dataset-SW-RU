@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>COUNTERESPIONAGE</Key>
-  <Name>Counterespionage</Name>
-  <Description>Spies know foiling the plots of enemy agents is always paramount, and devote much preparation to thwarting these schemes. This might be done via hiding weapons in a meeting place, ensuring "innocent bystanders" are in fact armed backup, or other cunning and clever ploys. The more agents are aware of their opposite numbers and enemy tactics, the better they can achieve their goals. Counterespionage ideally leads to the grand prize: turning an enemy into a valuable double agent.</Description>
-  <Source Page="34">Cyphers and Masks</Source>
+  <Name>Контршпионаж</Name>
+  <Description>Шпионы знают, что срыв заговоров вражеских агентов всегда имеет первостепенное значение, и посвящают много времени подготовке к срыву этих планов. Для этого можно спрятать оружие в месте встречи, убедиться, что "невинные прохожие" на самом деле являются вооруженным прикрытием, или прибегнуть к другим хитроумным уловкам. Чем больше агенты знают о своих противниках и тактике врага, тем лучше они могут достичь своих целей. В идеале контрразведка приводит к главному призу: превращению врага в ценного двойного агента.</Description>
+  <Source Page="34">Дополнение: Шифры и Маски</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

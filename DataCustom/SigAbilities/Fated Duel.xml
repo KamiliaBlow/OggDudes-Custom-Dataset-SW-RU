@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>FATDUEL</Key>
-  <Name>Fated Duel</Name>
-  <Description>Many of the most iconic scenes in stories of heroism and sacrifice begin with two combatants drawing (or igniting) their blades to fight a duel to the death. This signature ability allows a guardian to force a single foe into a duel, preventing both participants from attacking others for several rounds. Guardians can use this signature ability to give allies a chance to recover and regroup, and to distract a powerful foe while comrades clear out weaker enemies, or even to stave off a single deadly combatant while allies make their escape. [P]Characters who have  mastered this signature ability can provide substantial boons to their allies while they fight the duel, giving them the best chance to complete important tasks without interruption. Of course, any use of this signature ability represents a considerable risk on the part of the Guardian, for it means bearing the entire burden of fighting a particular foe, if only for a short time. Such duels have been the finest moments of many Guardians, but also their last.</Description>
-  <Source Page="35">Keeping the Peace</Source>
+  <Name>Судьбоносная дуэль</Name>
+  <Description>Многие из самых знаковых сцен в историях о героизме и самопожертвовании начинаются с того, что два бойца выхватывают (или зажигают) свои клинки, чтобы сразиться в смертельной дуэли. Эта фирменная способность позволяет хранителю вызвать на поединок одного противника, лишив обоих участников возможности атаковать других в течение нескольких раундов. Хранители могут использовать эту способность, чтобы дать союзникам возможность восстановиться и перегруппироваться, отвлечь сильного противника, пока товарищи зачищают более слабых врагов, или даже отвлечь одного смертоносного бойца, пока союзники совершают побег. [P]Персонажи, овладевшие этой способностью, могут давать существенные бонусы своим союзникам, пока те сражаются в поединке, давая им возможность завершить важные дела без перерыва. Конечно, любое использование этой способности связано со значительным риском для Хранителя, ведь это означает, что он берет на себя все бремя борьбы с конкретным противником, пусть и на короткое время. Такие поединки были лучшими моментами многих Хранителей, но и последними.</Description>
+  <Source Page="35">Дополнение: Поддержание мира</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

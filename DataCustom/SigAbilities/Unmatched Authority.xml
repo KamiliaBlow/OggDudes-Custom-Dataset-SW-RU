@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>UNMATCHEDAUTH</Key>
-  <Name>Unmatched Authority</Name>
-  <Description>Few realize the true strain of command. Balancing
-the lives of one’s troops against the necessity of victory
-is an impossible choice, but the best commanders
-know that even greater stakes rest on their ability
-to make hard decisions quickly. They must make
-complex and difficult decsisions and coordinate
-them on the battlefield efficiently and accurately.
-This requires the soldiers following their orders to
-trust in their commander with the utmost faith.
-Once a commander can guarantee that his troops
-respect his absolute authority on the field of battle,
-he has become a truly dangerous foe. Able to weave
-complex maneuvers and counter-operations with
-unquestioned authority, truly great commanders
-all but erase the fog of war and confusion that can
-bring about the downfall of even the most formidable
-military force.</Description>
-  <Source Page="40">Lead by Example</Source>
+  <Name>Непревзойденный авторитет</Name>
+  <Description>Лишь немногие осознают истинную усталость командования. Балансирование
+жизни своих солдат против необходимости победы
+это невозможный выбор, но лучшие командиры
+знают, что еще большие ставки зависят от их способности
+быстро принимать сложные решения. Они должны принимать
+принимать сложные и трудные решения и координировать
+эффективно и точно координировать их на поле боя.
+Это требует от солдат, выполняющих приказы.
+доверять своему командиру с максимальной верой.
+Как только командир сможет гарантировать, что его войска
+уважают его абсолютный авторитет на поле боя,
+он становится по-настоящему опасным противником. Умеет плести
+сложные маневры и контр-операции с
+непререкаемым авторитетом, по-настоящему великие командиры
+практически полностью стирают туман войны и неразбериху, которые могут
+привести к краху даже самую грозную
+военную силу.</Description>
+  <Source Page="40">Дополнение: Лидерство на примере</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

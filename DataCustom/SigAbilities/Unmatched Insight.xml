@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>UNINS</Key>
-  <Name>Unmatched Insight</Name>
-  <Description>People are a politician's business, so understanding other sentient beings is absolutely critical to a representative's job. Many veteran Diplomats develop an astounding ability to read others with only a moments glance, discerning precisely what to tell a constituent to win his support or which question to ask a fellow politician to undermine his authority.</Description>
-  <Source Page="40">Desperate Allies</Source>
+  <Name>Непревзойденная интуиция</Name>
+  <Description>Люди - это бизнес политика, поэтому понимание других разумных существ абсолютно необходимо для работы представителя. Многие ветераны-дипломаты развивают поразительную способность читать других с одного взгляда, точно определяя, что сказать избирателю, чтобы заручиться его поддержкой, или какой вопрос задать коллеге-политику, чтобы подорвать его авторитет.</Description>
+  <Source Page="40">Дополнение: Отчаянные союзники</Source>
   <Sources />
   <Custom>DescOnly</Custom>
   <AbilityRows>

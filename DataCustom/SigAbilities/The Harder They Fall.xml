@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>HARDERTHEYFALL</Key>
-  <Name>The Harder They Fall</Name>
-  <Description>While it might be loathsome or insulting to their professional pride, all Alliance Engineers realize they are fighting in a war, and that a great part of war involves destruction. This includes the destruction of buildings, fortifications, ships, and droids-the very things they work so hard to create and maintain. Their expertise in these areas, though, makes for excellent combat abilities. Drawing on their know ledge of technological vulnerabilities. Engineers can help ensure maximum efficiencies in attacks they and their comrades make.</Description>
-  <Source Page="34">Fully Operational</Source>
+  <Name>Тем громче падает</Name>
+  <Description>Хотя это может быть отвратительно или оскорблять их профессиональную гордость, все инженеры Альянса понимают, что они участвуют в войне, и что большая часть войны включает в себя разрушения. Это включает в себя разрушение зданий, укреплений, кораблей и дроидов - тех самых вещей, над созданием и поддержанием которых они так упорно работали. Однако их опыт в этих областях позволяет им проявлять отличные боевые качества. Опираясь на свои знания о технологических уязвимостях. Инженеры могут обеспечить максимальную эффективность атак, которые совершают они сами и их товарищи.</Description>
+  <Source Page="34">Дополнение: Полная оперативность</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <SigAbility>
   <Key>UNEXPECTEDDEMISE</Key>
-  <Name>Unexpected Demise</Name>
-  <Description>Once per session, as an action, the character may spend 2 Destiny Points and make a [B]Hard ([DI][DI][DI]) Perception check[b]. If successful, for the next two rounds the character may spend one maneuver to add on automatic [TR] to his next combat check made in that turn. In addition, for the next two rounds, when the character inflicts a Critical Injury on a rivel NPC, the target is immediately incapacitated in the same way as a minion NPC would be (see page 400 of the [B]Force and Destiny[b] Core Rulebook).</Description>
-  <Source Page="34">Savage Spirits</Source>
+  <Name>Неожиданная кончина</Name>
+  <Description>Один раз за сессию, в качестве действия, персонаж может потратить 2 очка Судьбы и сделать [B]Сложную ([DI][DI][DI]) проверку Внимания[b]. В случае успеха в течение следующих двух раундов персонаж может потратить один маневр, чтобы автоматически добавить [TR] к своей следующей проверке боя, сделанной в этот ход. Кроме того, в течение следующих двух раундов, когда персонаж наносит критическое ранение НПЦ, цель немедленно становится недееспособной так же, как и миньон-НПЦ (см. стр. 400 основной книри правил [B]Сила и судьба[b]).</Description>
+  <Source Page="34">Дополнение: Дикие духи</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
