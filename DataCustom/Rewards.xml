@@ -2,12 +2,12 @@
 <Rewards>
   <Reward>
     <Key>ALLY</Key>
-    <Name>Ally</Name>
-    <Description>[H3]Ally[h3]
-Allies are individuals who have benefited from the Warrior's actions. They can come from a variety of backgrounds, and each has a life and job separate from the Warrior. Most allies feel as though they owe the Warrior a favor, and they are willing to help as best they can in times of need. [P]
-Allies can serve as a combined knowledge base for a Warrior. Once per session, the Warrior can ask an ally, either in person or via a comlink or other method of long-distance communication, to make a single Knowledge, Skulduggery, or Streetwise check on the Warrior's behalf. Depending on the ally, the GM may permit any Knowledge skill or restrict the ally to one or more Knowledge skills. The time it takes for the Warrior to receive an answer depends on the method of communication, and generating [TH] on the check can delay the answer.
+    <Name>Союзник</Name>
+    <Description>[H3]Союзник[h3]
+Союзники - это люди, получившие выгоду от действий Воина. Они могут быть из разных слоев общества, и у каждого из них есть своя жизнь и работа, не связанная с Воином. Большинство союзников считают, что они в долгу перед Воином, и готовы помочь, чем могут, в трудную минуту. [P]
+Союзники могут служить объединенной базой знаний для Воина. Один раз за сессию воин может попросить союзника, лично или через комлинк или другой способ дальней связи, сделать одну проверку Знаний, Коварства или Уличной хитрости от имени воина. В зависимости от союзника ГМ может разрешить любой навык "Знания" или ограничить союзника одним или несколькими навыками "Знания". Время, необходимое воину для получения ответа, зависит от способа связи, а выпадение [TH] на проверке может задержать ответ.
 
-[P]Please see page 94 of the Knights of Fate Sourcebook for details.
+[P]Подробности смотрите на странице 94 дополнения "Рыцари судьбы".
     </Description>
     <Sources>
       <Source Page="94">Knights of Fate</Source>
@@ -21,24 +21,24 @@ Allies can serve as a combined knowledge base for a Warrior. Once per session, t
         <Options>
           <Option>
             <Key>ALLYAB1OP1</Key>
-            <Name>Grateful Ally</Name>
-            <Description>Once per session, ally may make one Knowledge, Skulduggery, or Streetwise check with [AB][AB][AB].</Description>
+            <Name>Благодарный союзник</Name>
+            <Description>Один раз за сессию союзник может сделать одну проверку "Знаний", "Жульничества" или "Уличной интуиции" с помощью [AB][AB][AB].</Description>
             <StartingAttributes>
               <Experience>5</Experience>
             </StartingAttributes>
           </Option>
           <Option>
             <Key>ALLYAB1OP2</Key>
-            <Name>Indebted Ally</Name>
-            <Description>Once per session, ally may make one Knowledge, Skulduggery, or Streetwise check with [AB][AB][PR].</Description>
+            <Name>Задолжавший союзник</Name>
+            <Description>Один раз за сессию союзник может сделать одну проверку "Знаний", "Жульничества" или "Уличной интуиции" с помощью [AB][AB][PR].</Description>
             <StartingAttributes>
               <Experience>10</Experience>
             </StartingAttributes>
           </Option>
           <Option>
             <Key>ALLYAB1OP3</Key>
-            <Name>Loyal Ally</Name>
-            <Description>Once per session, ally may make one Knowledge, Skulduggery, or Streetwise check with [AB][AB][PR][PR].</Description>
+            <Name>Верный союзник</Name>
+            <Description>Один раз за сессию союзник может сделать одну проверку "Знаний", "Жульничества" или "Уличной интуиции" с помощью [AB][AB][PR][PR].</Description>
             <StartingAttributes>
               <Experience>15</Experience>
             </StartingAttributes>
@@ -50,11 +50,11 @@ Allies can serve as a combined knowledge base for a Warrior. Once per session, t
 
   <Reward>
     <Key>APPRENTICE</Key>
-    <Name>Apprentice</Name>
-    <Description>[H3]Apprentice[h3]
-The Warrior might attract a particularly enthusiastic follower who becomes an apprentice. This NPC hopes to learn the Warrior's martial skills and help others as the Warrior helped them. Taking on an apprentice can provide a Warrior with great roleplaying moments, and the student's character arc might culminate in running a school for other students hoping to learn the Warrior's chosen form of combat. While some Warriors find annoyance with an apprentice's constant admiration and pestering, apprentices are also useful for invoking titles Warriors are too humble to bring up themselves.[P]
-Once per session, for an entire combat encounter. the apprentice can join the Warrior in combat. Rather than having an adversary profile and taking individual turns in combat, the apprentice fights in unison with the Warrior, augmenting the PC's combat checks or aiding the PC's defense. The GM can spend [TH] on any combat check the Warrior makes to have the apprentice incapacitated for the rest of the encounter or otherwise defeated, and the benefits of the apprentice end immediately. A Warrior can benefit from only one apprentice at a time.
-[P]Please see page 94 of the Knights of Fate Sourcebook for details.
+    <Name>Ученик</Name>
+    <Description>[H3]Ученик[h3]
+Воин может привлечь особенно увлеченного последователя, который станет его учеником. Этот NPC надеется научиться боевым навыкам Воина и помогать другим так же, как Воин помогал ему. Взяв ученика, воин может получить отличные ролевые моменты, а кульминацией его характера может стать управление школой для других учеников, желающих научиться выбранной воином форме боя. Хотя некоторых воинов раздражает постоянное восхищение и приставания ученика, ученики также полезны для того, чтобы вызывать титулы, которые воины слишком скромны, чтобы поднимать их самостоятельно.[P]
+Один раз за сессию, в течение всего боевого столкновения, ученик может присоединиться к воину в бою. Вместо того чтобы иметь профиль противника и вести бой по очереди, ученик сражается в унисон с воином, усиливая боевые проверки Персонажа или помогая ему в защите. ГМ может потратить [TH] на любую проверку боя, которую делает воин, чтобы ученик был недееспособен до конца встречи или побежден иным способом, и преимущества ученика немедленно заканчиваются. Воин может одновременно получать пользу только от одного ученика.
+[P]Подробности смотрите на странице 94 дополнения "Рыцари судьбы".
     </Description>
     <Sources>
       <Source Page="94">Knights of Fate</Source>
@@ -68,24 +68,24 @@ Once per session, for an entire combat encounter. the apprentice can join the Wa
         <Options>
           <Option>
             <Key>APPRAB1OP1</Key>
-            <Name>Novice Apprentice</Name>
-            <Description>Add [BO] to all combat checks.</Description>
+            <Name>Новичок Ученик</Name>
+            <Description>Добавьте [BO] ко всем боевым проверкам.</Description>
             <StartingAttributes>
               <Experience>5</Experience>
             </StartingAttributes>
           </Option>
           <Option>
             <Key>APPRAB1OP2</Key>
-            <Name>Trained Apprentice</Name>
-            <Description>Add automatic [AD] to all combat checks, or add +1 melee defense (PC's choice at start of turn).</Description>
+            <Name>Обученный ученик</Name>
+            <Description>Вы автоматически добавляете [AD] ко всем боевым проверкам или добавляете +1 защите в ближнем бою (на выбор персонажа в начале хода).</Description>
             <StartingAttributes>
               <Experience>10</Experience>
             </StartingAttributes>
           </Option>
           <Option>
             <Key>APPRAB1OP3</Key>
-            <Name>Experienced Apprentice</Name>
-            <Description>Add automatic [SU][AD] to all combat checks, or add +2 melee defense (PC's choice at start of turn).</Description>
+            <Name>Опытный ученик</Name>
+            <Description>Вы автоматически добавляете [SU][AD] ко всем боевым проверкам или добавляете +2 защите в ближнем бою (на выбор персонажа в начале хода).</Description>
             <StartingAttributes>
               <Experience>15</Experience>
             </StartingAttributes>
@@ -96,46 +96,46 @@ Once per session, for an entire combat encounter. the apprentice can join the Wa
   </Reward>
   <Reward>
     <Key>BS</Key>
-    <Name>Battle Scar</Name>
-    <Description>[H3]Battle Scar[h3]
-Each battle scar is as unique as the story behind it, and players and GMs should work together to craft the narrative for how a particular injury or scar manifests in the corresponding talent. Still, the majority of battle scars fit into certain categories. Each of the following types of battle scar includes a list of recommended Critical Injury results and talents. After the GM grants a character a battle scar, that PC's player should find the Critical Injury result his character suffered and select one of the corresponding talents, then work with the GM to devise an explanation for the mechanical benefit. These categories and lists are only recommendations, however, and players and GMs might decide that particularly unusual or interesting wounds lend themselves to talents not listed here. [BR][BR] The GM always has the final say on what talents are available for a given battle scar, regardless of the recommendations given below. As a general rule an individual PC should not be able to acquire more than three battle scars-though, at the GM's discretion, a PC might be able to replace an old battle scar with a new one, exchanging one talent for another, more potent selection.[BR][BR]
-[H4]Impressive Scar[h4][B]Suggested Critical Injuries:[b] Discouraging Wound, Fearsome Wound, Crippled, Gruesome Injury.[BR][B]Suggested Talents:[b] Commanding Presence, Confidence, Intimidating, Steely Nerves, Street Smarts.[BR][BR][H4]Head Trauma[h4][B]Suggested Critical Injuries:[b] Stunned, Head Ringer, Slightly Dazed, Scattered Senses, Blinded, Knocked Senseless, Gruesome Injury.[BR][B]Suggested Talents:[b] Grit, Hard Headed, Heightened Awareness, Resolve, Sixth Sense.[H4]What Doesn't Kill Me[h4][B]Suggested Critical Injuries:[b] Agonizing Wound, Hamstrung, Compromised, Horrific Injury, Bleeding Out.[BR][B]Suggested Talents:[b] Blooded, Confidence, Durable, Rapid Recovery, Second Wind, Toughened. [H4]Close Call[h4][B]Suggested Critical Injuries:[b] Bowled Over, Winded, Temporarily Lame, Bleeding Out.[BR][B]Suggested Talents:[b] Defensive Stance, Dodge, Jump Up, Rapid Reaction, Spare Clip, Time to Go.[P]
-Please see pages 95-96 of Forged in Battle for more information on Battle Scars.</Description>
+    <Name>Боевой шрам</Name>
+    <Description>[H3]Боевой шрам[h3]
+Каждый боевой шрам так же уникален, как и история, лежащая в его основе, и игроки и ГМы должны вместе продумать, как та или иная травма или шрам проявляются в соответствующем таланте. Тем не менее, большинство боевых шрамов подпадает под определенные категории. Каждый из следующих типов боевых шрамов включает в себя список рекомендуемых результатов критических повреждений и талантов. После того как ГМ наделит персонажа боевым шрамом, персонаж игрока должен найти результат "Критическая травма", полученный его персонажем, и выбрать один из соответствующих талантов, а затем вместе с ГМ придумать объяснение механической выгоды. Однако эти категории и списки - лишь рекомендации, и игроки и ГМы могут решить, что особенно необычные или интересные раны подходят для талантов, не перечисленных здесь. [BR][BR] Окончательное решение о том, какие таланты доступны для данного боевого шрама, всегда остается за ГМом, независимо от рекомендаций, приведенных ниже. Как правило, отдельный персонаж не может получить более трех боевых шрамов - хотя, на усмотрение ГМа, ПК может заменить старый боевой шрам на новый, обменяв один талант на другой, более мощный[BR][BR].
+[H4]Впечатляющий шрам[h4][B]Предполагаемые критические травмы:[b] Discouraging Wound, Fearsome Wound, Crippled, Gruesome Injury.[BR][B]Предлагаемые таланты:[b] Commanding Presence, Confidence, Intimidating, Steely Nerves, Street Smarts.[BR][BR][H4]Травма головы[h4][B]Предполагаемые критические травмы:[b] Stunned, Head Ringer, Slightly Dazed, Scattered Senses, Blinded, Knocked Senseless, Gruesome Injury.[BR][B]Предлагаемые таланты:[b] Grit, Hard Headed, Heightened Awareness, Resolve, Sixth Sense.[H4]What Doesn't Kill Me[h4][B]Предполагаемые критические травмы:[b] Agonizing Wound, Hamstrung, Compromised, Horrific Injury, Bleeding Out.[BR][B]Предлагаемые таланты:[b] Blooded, Confidence, Durable, Rapid Recovery, Second Wind, Toughened. [H4]Close Call[h4][B]Предполагаемые критические травмы:[b] Bowled Over, Winded, Temporarily Lame, Bleeding Out.[BR][B]Предлагаемые таланты:[b] Defensive Stance, Dodge, Jump Up, Rapid Reaction, Spare Clip, Time to Go.[P]
+Подробнее о боевых шрамах читайте на страницах 95-96 дополнения "Закаленные в битве".</Description>
     <Source Page="95">Forged in Battle</Source>
     <Custom>DescOnly</Custom>
     <OptionChoices>
       <OptionChoice>
         <Key>BSAB1</Key>
-        <Name>Critical Injury</Name>
+        <Name>Критическая травма</Name>
         <Options>
           <Option>
             <Key>BSAB1OP1</Key>
-            <Name>Easy Severity</Name>
-            <Description>Battle Scar received for an Easy-Severity Critical Injury</Description>
+            <Name>Легкая тяжесть</Name>
+            <Description>Боевой шрам, полученный при критической травме легкой степени тяжести</Description>
             <StartingAttributes>
               <Experience>20</Experience>
             </StartingAttributes>
           </Option>
           <Option>
             <Key>BSAB1OP2</Key>
-            <Name>Average Severity</Name>
-            <Description>Battle Scar received for an Average-Severity Critical Injury</Description>
+            <Name>Средняя тяжесть</Name>
+            <Description>Боевой шрам, полученный за критическое ранение средней тяжести</Description>
             <StartingAttributes>
               <Experience>15</Experience>
             </StartingAttributes>
           </Option>
           <Option>
             <Key>BSAB1OP3</Key>
-            <Name>Hard Severity</Name>
-            <Description>Battle Scar received for a Hard-Severity Critical Injury</Description>
+            <Name>Сильная тяжесть</Name>
+            <Description>Боевой шрам, полученный за критическое ранение тяжелой степени тяжести</Description>
             <StartingAttributes>
               <Experience>10</Experience>
             </StartingAttributes>
           </Option>
           <Option>
             <Key>BSAB1OP4</Key>
-            <Name>Daunting Severity</Name>
-            <Description>Battle Scar received for a Daunting-Severity Critical Injury</Description>
+            <Name>Ужасающая тяжесть</Name>
+            <Description>Боевой шрам, полученный за критическое ранение ужасающей тяжести</Description>
             <StartingAttributes>
               <Experience>5</Experience>
             </StartingAttributes>
