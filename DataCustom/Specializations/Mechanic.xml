@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
   <Key>MECHANIC</Key>
-  <Name>Mechanic</Name>
-  <Description>[H4]Mechanic - Making Stuff Work[h4]
-Depending on who is asked, Mechanics are either the glue that holds everything together or the grease that makes it all go. Most Mechanics would tell you they do both, and then get back to work.
-[P]The additional career skills of a Mechanic indicate his practical versatility: [B]Brawl, Mechanics[b] (of course, and this gives him the opportunity to have two starting ranks in the skill), [B]Piloting (Space),[b] and [B]Skulduggery[b]. If this is the character's starting Specialization, he may choose two of these skills and gain one free rank in each, without spending starting experience. Pragmatic and tough are two key traits that come out of a Mechanic's talent tree, as are the many ways he is capable of fixing what's broken and being prepared for any mechanical contingencies that arise.
+  <Name>Механик</Name>
+  <Description>[H4]Механик - заставляет вещи работать[h4]
+В зависимости от того, кого спрашивают, механики являются либо клеем, который держит все вместе, либо смазкой, которая заставляет все это работать. Большинство механиков скажут вам, что они делают и то, и другое, а затем вернутся к работе.
+[P]Дополнительные профессиональные навыки Механика указывают на его практическую универсальность: [B]Грубая сила, Механика[b] (конечно, и это дает ему возможность иметь два стартовых ранга в навыке), [B]Пилотирование (Космос)[b] и [B]Жульничество[b]. Если это стартовая специализация персонажа, он может выбрать два из этих навыков и получить по одному бесплатному рангу в каждом, не тратя стартовый опыт. Прагматичность и жесткость - две ключевые черты механика в его дереве талантов, а также множество способов починить сломанное и быть готовым к любым непредвиденным ситуациям, связанным с механикой.
 
-[P]While it is relatively easy to find a Mechanic almost anywhere in the galaxy, it's considerably more difficult to find a good one, and even harder to find one that can be trusted. Ship captains will literally travel across systems to get to a Mechanic they can trust to do a good job for them, which is why Mechanics tend to be in high demand.
+[P]Хотя найти механика в любой точке галактики относительно легко, гораздо сложнее найти хорошего механика, а еще сложнее найти такого, которому можно доверять. Капитаны кораблей будут буквально пересекать системы, чтобы добраться до механика, которому они могут доверять и который сделает для них хорошую работу, поэтому механики пользуются большим спросом.
 
-[P]A Mechanic that's hooked up with the typical Player Character group has likely decided he doesn't want to spend all of his time in a work pit or engineering hangar. He probably wants to see a bit of the galaxy and get some flight time in. Fortunately, Mechanics tend to pick up a few things about how to take care of themselves in tough situations, and given a few minutes and some random devices, they may well cobble together a rather explosive means of dealing with real problems.</Description>
+[P]Механик, попавший в типичную группу персонажей-игроков, скорее всего, решил, что не хочет проводить все время в рабочей яме или инженерном ангаре. Скорее всего, он хочет увидеть немного галактики и полетать. К счастью, механики, как правило, знают, как позаботиться о себе в сложных ситуациях, и если у них есть несколько минут и несколько случайных устройств, они могут собрать довольно взрывоопасное средство для решения реальных проблем.</Description>
   <Sources>
     <Source Page="89">Книга правил: Край Империи</Source>
     <Source Page="85">Книга правил: Эпоха восстания</Source>
