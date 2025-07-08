@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
-  <Key>ARCTROOP</Key>
+  <Key>CLONEARC</Key>
   <Name>ЭРК Штурмовик</Name>
   <Description>[H4]ЭРК Штурмовик[h4]
 Хотя основная часть Великой Армии Республики состоит из стандартных солдат клонов, военное руководство и инженеры Камино признали необходимость в специализированных солдатах. Отряды Элитных разведчиков-коммандос удовлетворяют потребность в небольших и гибких тактических отрядах, способных брать на себя решение нестандартных задач, несмотря на постоянно меняющуюся и неизвестную ситуацию и отсутствие доступа к командному руководству. Эти элитные солдаты действуют независимо и творчески, демонстрируя потенциал клонов таким образом, что их можно назвать только людьми.
@@ -98,7 +98,7 @@
         <Key>QUICKST</Key>
         <Key>GRIT</Key>
         <Key>CLANKILL</Key>
-        <Key>NATCOMMAN</Key>
+        <Key>NATCOMM</Key>
       </Talents>
       <Directions>
         <Direction>
@@ -123,10 +123,10 @@
     <TalentRow>
       <Cost>25</Cost>
       <Talents>
-        <Key>DETDROP</Key>
-        <Key>TACTEVAS</Key>
+        <Key>GETDROP</Key>
+        <Key>TACTEVA</Key>
         <Key>DEDI</Key>
-        <Key>RAPFIRE</Key>
+        <Key>RAPIDFIRE</Key>
       </Talents>
       <Directions>
         <Direction>
