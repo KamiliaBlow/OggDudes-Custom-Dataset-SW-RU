@@ -6,20 +6,17 @@
     <Description>Когда вы недееспособны, выполните действие "Вопреки всему", сделав проверку "Cтойкости" со сложностью ([DI][DI][DI]) с [FO], равным рейтингу "Силы". Исцеление ран равно [SU], потратьте [FP], чтобы добавить [SU].</Description>
     <Source Page="138">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
     <Key>ACKLAYSCST</Key>
     <Name>Колющий удар Аклая</Name>
-    <Description>Атаки через Cилу получают качество "Pierce", равную рейтингу "Силы".
-</Description>
+    <Description>Атаки через Cилу получают качество "Pierce", равную рейтингу "Силы".</Description>
     <Sources>
       <Source Page="30">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <ItemChanges>
@@ -47,7 +44,6 @@
       <Source Page="37">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -71,7 +67,6 @@
       <Source Page="28">Дополнение: Последователи гармонии</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -96,7 +91,6 @@
       <Source Page="34">Дополнение: Без дезинтеграций</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -106,12 +100,6 @@
     <Source Page="111">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Action</Activation>
   </Talent>
   <Talent>
     <Key>AMBUSH</Key>
@@ -119,7 +107,6 @@
     <Description>Один раз в раунд, находясь в укрытии, можно совершить маневр "Засада". Добавиви урон, равный рангу навыка "Скрытность", к одному попаданию следующей успешной проверки боя против цели в пределах короткой дистанции до конца хода.</Description>
     <Source Page="34">Дополнение: Закаленные в битве</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -130,7 +117,6 @@
       <Source Page="30">Дополнение: Шифры и Маски</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -142,7 +128,6 @@
       <Source Page="142">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -151,18 +136,15 @@
     <Description>Создайте долгосрочную связь с одним животным, силуэт которого не превышает вашего рейтинга "Силы", округленной в меньшую сторону. Один раз за раунд в бою, персонаж может потратить 1 маневр, чтобы направить свое животное на выполнение 1 действия и 1 маневра. Для этого животное должно находиться в пределах слышимости и видимости персонажа (как правило, среднего диапазона). В противном случае животное не услышит вас. Специфика его поведения зависит от игрока и ГМа.</Description>
     <Source Page="138">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
     <Key>ANIMALBONDIMP</Key>
     <Name>Связь с животными (Улучшенное)</Name>
-    <Description>Когда персонаж тратит маневр, чтобы направить связанное животное, он может получить 1 "усталость", чтобы добавить [BO] к следующей проверке животного.
-    </Description>
+    <Description>Когда персонаж тратит маневр, чтобы направить связанное животное, он может получить 1 "усталость", чтобы добавить [BO] к следующей проверке животного.</Description>
     <Source Page="30">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -172,7 +154,6 @@
     <Description>При выполнении проверок обращения с животными или их приручения добавьте к проверке [FO], не превышающее ваш рейтинг "Силы". Потратьте [FP], чтобы добавить [SU] или [AD] к проверке.</Description>
     <Source Page="139">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -184,7 +165,6 @@
       <Source Page="37">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -197,7 +177,6 @@
       <Source Page="37">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <Attributes>
       <SoakValue>1</SoakValue>
@@ -216,7 +195,6 @@
       <Source Page="37">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <Attributes>
       <DefenseRanged>1</DefenseRanged>
@@ -233,23 +211,15 @@
     <Description>Один раз в раунд, когда персонаж получает "критическое ранение", он может получить 3 "усталости", чтобы выполнить действие способности "Бронник". В этом случае результат "критической травмы" уменьшается на 10 за пункт "усталости", минимум до 1.</Description>
     <Source Page="30">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
     <Key>ASFORCEWILLS</Key>
     <Name>По воле Силы</Name>
-    <Description>Можно сделать проверку "Знаний (Легенды)" со сложностью ([DI]), чтобы исцелить "усталость" в конце боя. [TR] можно потратить на исцеление всех "усталостей".
-</Description>
+    <Description>Можно сделать проверку "Знаний (Легенды)" со сложностью ([DI]), чтобы исцелить "усталость" в конце боя. [TR] можно потратить на исцеление всех "усталостей".</Description>
     <Source Page="111">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>ASSAULTDR</Key>
@@ -259,7 +229,6 @@
       <Source Page="37">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -270,7 +239,6 @@
       <Source Page="30">Дополнение: Шифры и Маски</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -279,7 +247,6 @@
     <Description>При выполнении проверки с использованием навыка владения "световым мечом" персонаж может использовать "Ловкость" вместо "Силы (Brawl)".</Description>
     <Source Page="139">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <SkillChars>
@@ -290,17 +257,12 @@
     </SkillChars>
   </Talent>
   <Talent>
-    <Key>ATCOST</Key>
+    <Key>ATANYCOST</Key>
     <Name>Любой ценой</Name>
     <Description>Вы можете получить "критическое ранение", чтобы перебросить проверку "Mass Combat". По усмотрению ГМа вместо этого можно пожертвовать предметом или персоной, имеющей особое значение.</Description>
     <Source Page="37">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>BACKROOM</Key>
@@ -310,7 +272,6 @@
       <Source Page="37">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -336,7 +297,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>BADM</Key>
@@ -347,7 +307,6 @@
       <Source Page="143">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -356,7 +315,6 @@
     <Description>Один раз за сессию выберите организацию и сделайте проверку "обмана" со сложностью ([DI][DI][DI]). При успехе порог "ран" членов организации снижается на 1, плюс 1 за [SU][SU][SU], до конца сессии.</Description>
     <Source Page="32">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -368,7 +326,6 @@
       <Source Page="143">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -378,7 +335,6 @@
     <Description>При проверке боя со средней дистанции можно потратить 1 очко "Судьбы", чтобы повысить сложность проверки в несколько раз, равных рангам "Запугивания".</Description>
     <Source Page="30">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -403,7 +359,6 @@
       <Source Page="37">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -414,7 +369,6 @@
       <Source Page="37">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -425,7 +379,6 @@
       <Source Page="37">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -434,11 +387,8 @@
     <Description>Умения "Грубая сила" и "Дальний бой (легкое оружие)" становятся карьерными навыками.</Description>
     <Source Page="143">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <JuryRigged>false</JuryRigged>
     <ChooseCareerSkills>
-      <SkillCount>0</SkillCount>
       <NewSkills>
         <Key>BRAWL</Key>
         <Key>RANGLT</Key>
@@ -453,7 +403,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>BEGLUCK</Key>
@@ -463,7 +412,6 @@
       <Source Page="37">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -473,7 +421,6 @@
     <Description>Выполните действие "В следующий раз повезет"; сделав проверку "Хладнокровия" со сложностью ([DI][DI][DI]), чтобы заставить конкурента получить серьезную неисправность (крит. повреж. для транспорта).</Description>
     <Source Page="30">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -482,9 +429,7 @@
     <Description>Один раз за сессию можно выполнить действие "Самый большой фанат"; сделав проверку на "обаяние" со сложностью ([DI][DI][DI]), чтобы превратить одного NPC в "самого большого фаната" персонажа.</Description>
     <Source Page="32">Дополнение: Далекие горизонты</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>BLA</Key>
@@ -501,15 +446,14 @@
     <Description>Когда NPC превысит порог "усталости", можно потратить 1 очко Судьбы, чтобы убедить этого NPC выполнить одно задание по выбору.</Description>
     <Source Page="32">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
-    <Key>BLAT</Key>
+    <Key>BLATHER</Key>
     <Name>Балабол</Name>
     <Description>Персонаж может выполнить действие "Балабол", сделав [B]сложную ([DI][DI][DI][DI]) проверку Обаяния[b] или [B]проверку Обмана[b]. Если проверка пройдена, один противник на [SU] в пределах средней дистанции, дезориентирован на количество раундов, равное рейтингу присутствия персонажа. Персонаж может потратить [TR] от проверки, чтобы ошеломить одну пораженную цель на один раунд.</Description>
     <Source Page="37">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -521,7 +465,6 @@
       <Source Page="34">Дополнение: Закаленные в битве</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -545,7 +488,6 @@
       <Source Page="32">Дополнение: Абсолютная власть</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -570,20 +512,16 @@
       <Source Page="34">Дополнение: Закаленные в битве</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>BODSUP</Key>
     <Name>Телохранитель (Высшее)</Name>
-    <Description>Маневр "Телохранитель" может защитить несколько выбранных персонажей равных рангу "Стойкость".
-    </Description>
+    <Description>Маневр "Телохранитель" может защитить несколько выбранных персонажей равных рангу "Стойкость".</Description>
     <Sources>
       <Source Page="34">Дополнение: Закаленные в битве</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -612,15 +550,14 @@
       <Source Page="34">Дополнение: Без дезинтеграций</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
-    <Key>BOUNDTOG</Key>
+    <Key>BOUNDTO</Key>
     <Name>Связанные вместе</Name>
     <Description>Персонаж может выполнить маневр "Связанные вместе". До начала следующего хода персонажа, когда персонаж или союзник в пределах короткой дистанции непроизвольно испытывает "усталость", они уменьшают его на текущее количество очков Cудьбы светлой стороны в пуле Cудьбы.</Description>
     <Source Page="37">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -645,7 +582,6 @@
       <Source Page="38">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -656,7 +592,6 @@
       <Source Page="38">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -668,7 +603,6 @@
       <Source Page="144">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -677,7 +611,6 @@
     <Description>Один раз за атаку потратьте 1 очко Судьбы, чтобы добавить урон к одному удару, равный "Cиле (Brawl)" цели.</Description>
     <Source Page="30">Дополнение: Шаг в неизвестность</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -707,18 +640,11 @@
   <Talent>
     <Key>BYBOOK</Key>
     <Name>По уставу</Name>
-    <Description>Один раз за бой, прежде чем сделать проверку боя, персонаж может получить 2 "усталости", чтобы добавить [AD] к результатам, равным его рангам "По уставу".
-</Description>
+    <Description>Один раз за бой, прежде чем сделать проверку боя, персонаж может получить 2 "усталости", чтобы добавить [AD] к результатам, равным его рангам "По уставу".</Description>
     <Source Page="111">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Incidental</Activation>
   </Talent>
   <Talent>
     <Key>BYP</Key>
@@ -738,7 +664,6 @@
     <Description>Не добавляйте [SE] к проверкам боя при использовании маневра "Прицеливание".</Description>
     <Source Page="32">Дополнение: Непринужденный полет</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -747,7 +672,6 @@
     <Description>Когда противник применяет на персонажа способность "Силы", уменьшите [FP] на 1.</Description>
     <Source Page="140">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -757,7 +681,6 @@
     <Description>Потратьте маневр и получите 2 "усталости", вы можете распространить эффект "Успокаивающей ауры" на союзников в количестве равную рангу "Воли" на небольшом расстоянии до начала следующего хода.</Description>
     <Source Page="140">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -767,7 +690,6 @@
     <Description>Можно использовать ранги "Хладнокровия" для улучшения проверок Массового боя вместо рангов "Лидерства".</Description>
     <Source Page="33">Дополнение: Лидерство на примере</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -779,7 +701,6 @@
       <Source Page="38">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -798,16 +719,15 @@
     <Description>Получите 1 "усталость", чтобы выполнить маневр "Центр бытия" в качестве свободного действия.</Description>
     <Source Page="140">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
-    <Key>CENTERSUPR</Key>
+    <Key>CENTBEINGSUP</Key>
     <Name>Центр бытия (Высшее)</Name>
     <Description>Когда персонаж выполняет маневр "Центр бытия", до начала его следующего хода оружие дальнего боя также увеличивает свой "критический рейтинг" на 1 ранг выше за ранг "Центра бытия" при атаке персонажа.</Description>
     <Source Page="37">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -833,15 +753,13 @@
       <Source Page="38">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
     <Key>CLANKILL</Key>
     <Name>Убийца жестянок</Name>
-    <Description>Перед броском боевой проверки, направленной на дроида (включая транспортное средство дроида или транспортное средство, пилотируемое дроидом), персонаж может отнять [BO] до своего ранга в "Убийца жестянок" из пула и добавить равное количество [SU] или [AD] (в любой комбинации) к результатам.
-</Description>
+    <Description>Перед броском боевой проверки, направленной на дроида (включая транспортное средство дроида или транспортное средство, пилотируемое дроидом), персонаж может отнять [BO] до своего ранга в "Убийца жестянок" из пула и добавить равное количество [SU] или [AD] (в любой комбинации) к результатам.</Description>
     <Sources>
       <Source Page="38">Дополнение: Восстание сепаратистов</Source>
     </Sources>
@@ -850,17 +768,12 @@
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
-    <Key>CLANKILLIMP</Key>
+    <Key>CLANKKILLIMP</Key>
     <Name>Убийца жестянок (Улучшенное)</Name>
     <Description>Уменьшает "критический рейтинг" атак в бою и в ближнем бою, направленных против дроидов, на 1 за ранг "Убийца жестянок", до минимума 1.</Description>
     <Source Page="37">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>CLEVCOMM</Key>
@@ -868,7 +781,6 @@
     <Description>Для повышения массовых боевых проверок можно использовать ранги "Знаний (Военное дело)" вместо рангов "Лидерства".</Description>
     <Source Page="33">Дополнение: Лидерство на примере</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -881,7 +793,6 @@
       <Source Page="30">Дополнение: Бесконечное бдение</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -923,12 +834,6 @@
     <Source Page="111">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Action</Activation>
   </Talent>
   <Talent>
     <Key>COMBATPROG</Key>
@@ -938,7 +843,6 @@
       <Source Page="30">Дополнение: Полная оперативность</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -949,11 +853,6 @@
     <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <DieModifiers>
       <DieModifier>
         <SkillKey>BRAWL</SkillKey>
@@ -964,7 +863,6 @@
         <BoostCount>1</BoostCount>
       </DieModifier>
     </DieModifiers>
-    <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>COMMPRES</Key>
@@ -995,7 +893,6 @@
     <Description>Один раз за сессию можно выполнить действие "Властное присутствие"; сделав встречную проверку [B]"Хладнокровия" против "Выдержки"[b], чтобы заставить цель покинуть бой.</Description>
     <Source Page="33">Дополнение: Лидерство на примере</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -1004,20 +901,17 @@
     <Description>Используйте действие "Понять технологию"; сделайте проверку "Знания (Образование)" со сложностью ([DI][DI]), чтобы использовать рейтинг "Силы" как ранги в навыках для использования одного предмета.</Description>
     <Source Page="141">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
     <Key>CONCOPT</Key>
     <Name>Рассмотрим варианты</Name>
-    <Description>Персонаж может выполнить действие "Рассмотрим наши варианты", сделав проверку "переговоров" со сложностью ([DI][DI][DI]). Если проверка прошла успешно, до начала следующего хода персонажа любой противник, атакующий персонажа, получает 2 "усталости", плюс 1 "усталость" за каждое дополнительное [SU][SU] на проверке персонажа, прежде чем разрешить атаку. (Если из-за этой "усталости" противник становится недееспособным, ГМ может решить, что противник просто выходит из боя). Эффект заканчивается немедленно, если персонаж наносит урон противнику.
-</Description>
+    <Description>Персонаж может выполнить действие "Рассмотрим наши варианты", сделав проверку "переговоров" со сложностью ([DI][DI][DI]). Если проверка прошла успешно, до начала следующего хода персонажа любой противник, атакующий персонажа, получает 2 "усталости", плюс 1 "усталость" за каждое дополнительное [SU][SU] на проверке персонажа, прежде чем разрешить атаку. (Если из-за этой "усталости" противник становится недееспособным, ГМ может решить, что противник просто выходит из боя). Эффект заканчивается немедленно, если персонаж наносит урон противнику.</Description>
     <Sources>
       <Source Page="38">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -1028,7 +922,6 @@
       <Source Page="38">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1072,7 +965,6 @@
     <Description>Вы можете потратить [TR] на проверку страха, чтобы успокоить нервы других союзников, делающих ту же проверку страха. Если персонаж делает это, каждый союзник в радиусе короткой дистанции, выполняющий проверку страха, автоматически добавляет [SU], равное рангу таланта "Уверенности", к результатам проверки.</Description>
     <Source Page="33">Дополнение: Лидерство на примере</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1106,7 +998,6 @@
     <Description>Всегда можно сделать проверку "бдительности", чтобы определить инициативу.</Description>
     <Source Page="30">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1119,7 +1010,6 @@
       <Source Page="38">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -1131,7 +1021,6 @@
       <Source Page="141">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -1177,7 +1066,6 @@
       <Source Page="34">Дополнение: Без дезинтеграций</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1186,7 +1074,6 @@
     <Description>Используйте действие "Кореллианское прощание", направленное на два корабля или транспортных средства на близком расстоянии; сделав проверку "Хладнокровия" со сложностью ([DI][DI][DI]), чтобы вызвать небольшое столкновение целей.</Description>
     <Source Page="32">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -1195,7 +1082,6 @@
     <Description>При выполнении "Кореллианского прощания" цели вместо этого получают серьезное столкновение.</Description>
     <Source Page="32">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1204,16 +1090,15 @@
     <Description>Когда атака промахивается по вашему персонажу и генерирует [DE] или [TH][TH], можно повысить следующую проверку "светового меча" ("смекалка") против атакующего во время боя на 1.</Description>
     <Source Page="141">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
-    <Key>COVN</Key>
+    <Key>COVEN</Key>
     <Name>Ковен</Name>
     <Description>Персонаж может выполнить маневр "Ковен". При следующей проверке Силы он может перебросить один [FO] за каждого союзника в пределах ближнего радиуса действия, который также обладает талантом "Ковен".</Description>
     <Source Page="38">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -1234,7 +1119,6 @@
     <Description>Уменьшите "крит-рейтинг" импровизированного оружия на 2 (минимум до 1).</Description>
     <Source Page="145">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1247,7 +1131,6 @@
       <Source Page="141">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1270,30 +1153,6 @@
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
-    <Key>CUNNINGSTUNT</Key>
-    <Name>Коварный трюк</Name>
-    <Description>Используйте "Смекалку" вместо "Харизмы" при проверке "Хладнокровия".</Description>
-    <Source>User Data</Source>
-    <Custom>AddedItem</Custom>
-    <ActivationValue>taPassive</ActivationValue>
-    <SkillChoice>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </SkillChoice>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <SkillChars>
-      <SkillChar>
-        <SkillKey>COOL</SkillKey>
-        <CharKey>CUN</CharKey>
-      </SkillChar>
-    </SkillChars>
-    <Activation>Passive</Activation>
-  </Talent>
-  <Talent>
     <Key>CUNNPERSON</Key>
     <Name>Коварная личность</Name>
     <Description>Персонаж может получить 2 "усталости", чтобы выполнить проверку "очарования" с помощью "Смекалки" вместо "Харизмы".</Description>
@@ -1301,7 +1160,6 @@
       <Source Page="30">Дополнение: Шифры и Маски</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1310,7 +1168,6 @@
     <Description>Один раз за бой, в качестве действия можно создать ловушку. Любой другой персонаж, попавший в зону действия ловушки, должен сделать встречную проверку "Бдительности" против проверки "Выживания", чтобы избежать вреда и плохих эффектов.</Description>
     <Source Page="34">Дополнение: Закаленные в битве</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -1336,7 +1193,6 @@
     <Description>Можно добавить 2 дополнительных "очка прочности" к сигнатурному транспорту.</Description>
     <Source Page="34">Дополнение: Особые модификации</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <Rigger>
       <BaseMods>
@@ -1353,7 +1209,6 @@
     <Description>Один раз за бой, когда персонаж делает проверку навыка "запугивания", он может использовать вместо него навык "обмана".</Description>
     <Source Page="33">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1374,7 +1229,6 @@
       <Source Page="145">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1405,7 +1259,6 @@
       <Source Page="145">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1414,7 +1267,6 @@
     <Description>После успешной атаки незвездным/транспортным оружием персонаж может потратить 1 очко "Судьбы", чтобы добавить урон, равный его "Воле", к 1 удару успешной атаки.</Description>
     <Source Page="30">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1423,9 +1275,7 @@
     <Description>Один раз за сессию можно сделать действие "Обманчивая уловка". Выполните встречную проверку на "обман". В случае успеха один противник должен атаковать персонажа во время следующего хода противника. Если NPC не может этого сделать, он должен провести все последующие ходы, маневрируя на позиции до тех пор, пока не сможет совершить ближнюю или дальнюю атаку против персонажа.</Description>
     <Source Page="32">Дополнение: Далекие горизонты</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>DEDI</Key>
@@ -1451,7 +1301,6 @@
     <Description>Можно выполнить действие "Защитный круг", сделав проверку "светового меча" ("интеллект") со сложностью ([DI][DI][DI]). Персонаж, а также один союзник в пределах короткой дистанции за [SU], получают X защиты до начала следующего хода. X равно 1, плюс 1 за [AD][AD].</Description>
     <Source Page="141">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -1493,7 +1342,6 @@
       <Source Page="145">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1526,7 +1374,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
     <ItemChanges>
       <ItemChange>
         <ItemType>Weapon</ItemType>
@@ -1554,7 +1401,6 @@
       <Source Page="34">Дополнение: Без дезинтеграций</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1576,28 +1422,22 @@
       <Source Page="30">Дополнение: Полная оперативность</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
-    <Key>DETDROP</Key>
+    <Key>GETDROP</Key>
     <Name>Застать врасплох</Name>
     <Description>Один раз за сессию персонаж и любое количество союзников в бою могут добавить [SU], равное рангу персонажа в "Скрытности", к своим проверкам на определение инициативы.</Description>
     <Source Page="21">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
-    <Key>DIPIMM</Key>
+    <Key>DIPIMMUN</Key>
     <Name>Дипломатический иммунитет</Name>
     <Description>Один раз за встречу, персонаж может выполнить свободное действие "Дипломатический иммунитет". Персонаж тратит 1 очко Судьбы, и противники не могут выбрать персонажа в качестве цели боевой проверки до конца следующего хода персонажа. Этот эффект заканчивается, если персонаж делает боевую проверку.</Description>
     <Source Page="38">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -1617,7 +1457,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>DISBEHIMP</Key>
@@ -1625,9 +1464,7 @@
     <Description>Маневр "Отвлекающее поведение" добавляет [TH][TH] к проверкам NPC, когда NPC выбирают союзников персонажа.</Description>
     <Source Page="33">Дополнение: Далекие горизонты</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>DISCLORE</Key>
@@ -1637,12 +1474,6 @@
     <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Incidental</Activation>
   </Talent>
   <Talent>
     <Key>DISCREDIT</Key>
@@ -1650,23 +1481,15 @@
     <Description>Один раз за бой, используя действие "Обвинение", сделав проверку "обмана" со сложностью ([DI][DI][DI]), чтобы повысить сложность социальных проверок одного персонажа на 1, или плюс 1 раз за каждый [AD][AD], до конца боя.</Description>
     <Source Page="33">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
     <Key>DISCSOUL</Key>
     <Name>Дисциплинированная душа</Name>
-    <Description>Потратьте 1 очко "Судьбы" после проверки "Выдержки", чтобы потратить количество [TH], не превышающее ранги в "Знании (Легенды)", как [AD].
-</Description>
+    <Description>Потратьте 1 очко "Судьбы" после проверки "Выдержки", чтобы потратить количество [TH], не превышающее ранги в "Знании (Легенды)", как [AD].</Description>
     <Source Page="112">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Incidental</Activation>
   </Talent>
   <Talent>
     <Key>DISOR</Key>
@@ -1687,24 +1510,16 @@
     <Description>Выполните действие "Разрушительный удар"; сделайте боевую проверку "светового меча" ("смекалка"), добавив [FO], не превышающее ваш рейтинг "Силы". Потратьте [FP], чтобы добавить [FA] к следующей боевой проверке цели.</Description>
     <Source Page="142">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
     <Key>DISSTRIKE</Key>
     <Name>Дезориентирующий удар</Name>
-    <Description>После провала проверки боя на "световом мече" можно потратить [AD][AD] или [TR], чтобы дезориентировать противников на три раунда.
-</Description>
+    <Description>После провала проверки боя на "световом мече" можно потратить [AD][AD] или [TR], чтобы дезориентировать противников на три раунда.</Description>
     <Source Page="112">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>DJEMSODEFL</Key>
@@ -1712,7 +1527,6 @@
     <Description>После использования "Отражения" можно потратить 1 очко "Судьбы", чтобы выполнить маневр перемещение вне очереди, чтобы сблизиться с противником или вступить с ним в бой.</Description>
     <Source Page="142">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -1748,9 +1562,7 @@
       <Source Page="30">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>DONTSHOOT</Key>
@@ -1758,7 +1570,6 @@
     <Description>Один раз за сессию, в качестве действия, сделайте проверку "очарования" со сложностью ([DI][DI][DI]). При успехе игрок не может быть целью боевых проверок до конца боя или до выполнения первой боевой проверки.</Description>
     <Source Page="32">Дополнение: Непринужденный полет</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -1767,7 +1578,6 @@
     <Description>Получите 2 "усталости", чтобы выполнить свободное действие "Все или ничего" и увеличить сложность следующей проверки на 1. Затем, отменив противоположных юнитов, удвойте количество оставшихся [AD].</Description>
     <Source Page="32">Дополнение: Непринужденный полет</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1776,7 +1586,6 @@
     <Description>При использовании "Все или ничего" после отмены противоположных символов также удваивается количество оставшихся [SU].</Description>
     <Source Page="32">Дополнение: Непринужденный полет</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1785,23 +1594,15 @@
     <Description>При использовании "Все или ничего" также удвойте количество [TR] и [DE].</Description>
     <Source Page="32">Дополнение: Непринужденный полет</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
     <Key>DOUBLETALK</Key>
     <Name>Двусмысленный разговор</Name>
-    <Description>Персонаж может потратить [AD][AD] или [TR] от успешной проверки "Обаяния" или "Обмана", чтобы дезориентировать количество противников в пределах короткого расстояния, равное его "Харизме", на оставшуюся часть раунда и следующие два раунда.
-</Description>
+    <Description>Персонаж может потратить [AD][AD] или [TR] от успешной проверки "Обаяния" или "Обмана", чтобы дезориентировать количество противников в пределах короткого расстояния, равное его "Харизме", на оставшуюся часть раунда и следующие два раунда.</Description>
     <Source Page="112">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>DRAWCLOSER</Key>
@@ -1809,7 +1610,6 @@
     <Description>Выполните действие "Подойди ближе"; сделав проверку боя на "световом мече" ("воля") против одной цели с силуэтом 1, на средней дистанции, добавив к проверке [FO], не превышающее ваш рейтинг "Силы". Потратьте [FP], чтобы переместить цель на одну полосу дальности ближе или добавить [SU] к проверке.</Description>
     <Source Page="142">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -1819,7 +1619,6 @@
     <Description>Инквизитор может потратить [TR] или [AD][AD][AD] на неудачную проверку "грубой силы", "ближнего боя" или бою на "световых мечах", чтобы заставить цель совершить маневр перемещения в выбранном инквизитором направлении.</Description>
     <Source Page="419">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1831,12 +1630,20 @@
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
-    <Key>DTHFRABOVE</Key>
+    <Key>DEATHABOVE</Key>
     <Name>Смерть с высоты</Name>
     <Description>Один раз за встречу при использовании реактивного ранца персонаж может выполнить действие "Смерть с высоты", получив 1 "перегрузку системы" на свой реактивный ранец и сделав [B]сложную ([DI][DI][DI]) проверку "пилотирования (планетарного)"[b]. Если проверка успешна, за каждый [SU] один противник с силуэтом 0 или 1 в пределах короткой дистанции оказывается сбитым с ног. Персонаж может потратить [TR] от проверки, чтобы ошеломить одного пораженного противника до конца следующего хода противника.</Description>
     <Source Page="40">Дополнение: Падение Ресублики</Source>
     <Custom>AddedItem</Custom>
-    <ActivationValue>taAction</ActivationValue>
+	<ActivationValue>taAction</ActivationValue>
+  </Talent>
+  <Talent>
+    <Key>DROIDCOMMIMP</Key>
+    <Name>Droid Commander (Improved)</Name>
+    <Description>Droid Commander maneuver affects droid allies equal to double Presence, and may spend [TR] to allow allies to suffer 1 strain and perform 1 free action instead.</Description>
+    <Source Page="144">Collapse of the Republic</Source>
+    <Custom>AddedItem</Custom>
+    <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
     <Key>DUELTRAIN</Key>
@@ -1844,9 +1651,7 @@
     <Description>Добавляет [BO] к проверкам "ближнего боя" и "светового меча", когда в бой вступает только один противник.</Description>
     <Source Page="142">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>DURA</Key>
@@ -1867,7 +1672,6 @@
     <Description>При дальней атаке во время боя с противником вы можете получить 2 "усталости", чтобы уменьшить модификатор дистанции на 1.</Description>
     <Source Page="146">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -1880,7 +1684,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ForceTalent>false</ForceTalent>
     <Conflict>1</Conflict>
   </Talent>
   <Talent>
@@ -1891,7 +1694,6 @@
       <Source Page="28">Дополнение: Последователи гармонии</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -1901,7 +1703,6 @@
     <Description>Повышает сложность проверок на расшифровку закодированных сообщений этого персонажа без соответствующего шифра в несколько раз, равных рангу навыка "Компьютеры".</Description>
     <Source Page="33">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1913,21 +1714,15 @@
       <Source Page="28">Дополнение: Последователи гармонии</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
-    <Key>ENDPRES</Key>
+    <Key>ENDURPRES</Key>
     <Name>Постоянное присутствие</Name>
     <Description>Один раз за сессию персонаж может улучшить проверку Mass Combat, даже если он не присутствует или лишен возможности общаться со своими войсками.</Description>
     <Source Page="21">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>ENDUR</Key>
@@ -1948,21 +1743,17 @@
   <Talent>
     <Key>ENERGTRANS</Key>
     <Name>Передача энергии</Name>
-    <Description>Используйте маневр "Передача энергии", чтобы запитать неработающее устройство или пополнить израсходованные боеприпасы для энергетического оружия, за это вы получите 1 "усталость".
-</Description>
+    <Description>Используйте маневр "Передача энергии", чтобы запитать неработающее устройство или пополнить израсходованные боеприпасы для энергетического оружия, за это вы получите 1 "усталость".</Description>
     <Source Page="34">Дополнение: Особые модификации</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
     <Key>ENGREDUN</Key>
     <Name>Инженерные резервы</Name>
-    <Description>Вы получаете способность использовать патчи для экстренного ремонта, чтобы исцелиться. Кроме того, можно исцеляться с помощью проверок "механики".
-</Description>
+    <Description>Вы получаете способность использовать патчи для экстренного ремонта, чтобы исцелиться. Кроме того, можно исцеляться с помощью проверок "механики".</Description>
     <Source Page="34">Дополнение: Особые модификации</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -1971,7 +1762,6 @@
     <Description>При проверке "лидерства" добавьте [FO], не превышающее ваш рейтинг "Силы". Потратьте [FP], чтобы добавить [SU] или [AD] к результату.</Description>
     <Source Page="142">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <DieModifiers>
@@ -1987,44 +1777,37 @@
     <Description>При выполнении боевой проверки, не относящейся к "Артиллерии", персонаж может добавить к результату проверки [FO], не превышающее его рейтинг "Силы". Персонаж может потратить [FP], чтобы добавить [AD], или [FP][FP][FP], чтобы добавить [TR] (по выбору персонажа) к результату.</Description>
     <Source Page="30">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
     <Key>EXCEEDSPEC</Key>
     <Name>Превышение спецификаций</Name>
-    <Description>Перед тем как выполнить проверку с помощью предмета, персонажу можно выполнить свободное действие "Превышение спецификаций", добавив [BO] к проверке. ГМу можно потратить [TH][TH] на проверку, чтобы повредить предмет на 1 единицу, или [DE], чтобы повредить его до непригодности (см. [B]Таблица 5-4: Ремонт снаряжения[b] в любой книге правил). На усмотрение ГМа [TH] или [DE] могут иметь дополнительные последствия в зависимости от характера предмета.
-</Description>
+    <Description>Перед тем как выполнить проверку с помощью предмета, персонажу можно выполнить свободное действие "Превышение спецификаций", добавив [BO] к проверке. ГМу можно потратить [TH][TH] на проверку, чтобы повредить предмет на 1 единицу, или [DE], чтобы повредить его до непригодности (см. [B]Таблица 5-4: Ремонт снаряжения[b] в любой книге правил). На усмотрение ГМа [TH] или [DE] могут иметь дополнительные последствия в зависимости от характера предмета.</Description>
     <Sources>
       <Source Page="39">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
     <Key>EXCEEDSPECIMP</Key>
     <Name>Превышение спецификаций (Улучшенное)</Name>
-    <Description>Когда персонаж использует "Превышение спецификаций", повышайте способность проверки на 1, а не добавляйте [BO].
-</Description>
+    <Description>Когда персонаж использует "Превышение спецификаций", повышайте способность проверки на 1, а не добавляйте [BO].</Description>
     <Sources>
       <Source Page="39">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
     <Key>EXCEEDSPECSUP</Key>
     <Name>Превышение спецификаций (Высшее)</Name>
-    <Description>Если проверка персонажа, получающего выгоду от Превышения спецификация, генерирует [TR], можно повредить предмет на 1 единицу, чтобы бросить один дополнительный [PR] и добавить его к результатам проверки. Если проверка дает [DE], бросьте [CH] и добавьте его к результатам проверки.
-</Description>
+    <Description>Если проверка персонажа, получающего выгоду от Превышения спецификация, генерирует [TR], можно повредить предмет на 1 единицу, чтобы бросить один дополнительный [PR] и добавить его к результатам проверки. Если проверка дает [DE], бросьте [CH] и добавьте его к результатам проверки.</Description>
     <Sources>
       <Source Page="39">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2053,7 +1836,6 @@
       <Source Page="30">Дополнение: Шифры и Маски</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2065,7 +1847,6 @@
       <Source Page="142">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2084,23 +1865,15 @@
   <Talent>
     <Key>EXTREACH</Key>
     <Name>Расширенный охват</Name>
-    <Description>Если вы вооружены двуручным оружием ближнего боя, можно получить одну "усталость", чтобы выполнить проверку "ближнего боя" с этим оружием, нацелив его на противника, находящегося на близком расстоянии (а не на расстоянии боя).
-</Description>
+    <Description>Если вы вооружены двуручным оружием ближнего боя, можно получить одну "усталость", чтобы выполнить проверку "ближнего боя" с этим оружием, нацелив его на противника, находящегося на близком расстоянии (а не на расстоянии боя).</Description>
     <Source Page="112">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Incidental</Activation>
   </Talent>
   <Talent>
     <Key>EYEDET</Key>
     <Name>Внимание к деталям</Name>
-    <Description>Сделав проверку "механики" или "компьютеров", вы можете получить усталость в количестве ранга "Внимание к деталям", чтобы преобразовать это количество [SU] в [AD].
-</Description>
+    <Description>Сделав проверку "механики" или "компьютеров", вы можете получить усталость в количестве ранга "Внимание к деталям", чтобы преобразовать это количество [SU] в [AD].</Description>
     <Sources>
       <Source Page="34">Дополнение: Особые модификации</Source>
       <Source Page="30">Дополнение: Полная оперативность</Source>
@@ -2115,16 +1888,15 @@
     <Description>Получите 2 "усталости", чтобы добавить урон, равный "Силе", к следующей проверке боя на "световых мечах", сделанной в этот ход.</Description>
     <Source Page="142">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
-    <Key>FALLBAK</Key>
+    <Key>FALLBACK</Key>
     <Name>Отступаем!</Name>
     <Description>Вступая в бой с противником, персонаж может получить количество "усталости", равное его рангу в "Лидерстве", чтобы позволить равному количеству союзников немедленно отступить от этого противника в качестве свободного действия.</Description>
     <Source Page="39">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2136,7 +1908,6 @@
       <Source Page="146">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -2148,7 +1919,6 @@
       <Source Page="34">Дополнение: Особые модификации</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -2171,18 +1941,12 @@
     <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <DieModifiers>
       <DieModifier>
         <SkillKey>COERC</SkillKey>
         <AdvantageCount>1</AdvantageCount>
       </DieModifier>
     </DieModifiers>
-    <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>FEARSHAD</Key>
@@ -2190,7 +1954,6 @@
     <Description>Выполните действие "Бойтесь теней": сделав проверку на "обман" со сложностью ([DI][DI][DI]), чтобы заставить одну группу миньонов или соперника бежать из боя.</Description>
     <Source Page="30">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -2214,7 +1977,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>FERSTR</Key>
@@ -2247,11 +2009,6 @@
       <TypeValue>stGeneral</TypeValue>
       <Type>General</Type>
     </SkillChoice>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <SkillChars>
       <SkillChar>
         <SkillKey>MELEE</SkillKey>
@@ -2262,7 +2019,6 @@
         <CharKey>BR</CharKey>
       </SkillChar>
     </SkillChars>
-    <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>FINETUN</Key>
@@ -2283,7 +2039,6 @@
     <Description>Используя действие "Управление огнем"; все боевые проверки, сделанные с этого звездолёта или транспортного средства, учитывают силуэт цели на один больше, чем обычно, до начала следующего хода. Эффект не суммируется.</Description>
     <Source Page="147">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -2294,14 +2049,12 @@
       <Source Page="39">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
     <Key>FIRESUP</Key>
     <Name>Огневая поддержка</Name>
-    <Description>После того как персонаж успешно выполнил проверку боя с использованием транспортного оружия, следующий союзник, сделавший проверку, добавляет [BO], равное рангам "Огневой поддержки" персонажа.
-</Description>
+    <Description>После того как персонаж успешно выполнил проверку боя с использованием транспортного оружия, следующий союзник, сделавший проверку, добавляет [BO], равное рангам "Огневой поддержки" персонажа.</Description>
     <Sources>
       <Source Page="39">Дополнение: Восстание сепаратистов</Source>
     </Sources>
@@ -2312,8 +2065,7 @@
   <Talent>
     <Key>FIRSTBRO</Key>
     <Name>Первый среди братьев</Name>
-    <Description>Когда персонаж делает проверку, которая не приводит ни к одному не отмененному [TH], добавьте к результатам проверки [AD], равное рангам персонажа "Первый среди братьев". Персонаж может тратить эти дополнительные [AD] только на воздействие на союзных клонов.
-</Description>
+    <Description>Когда персонаж делает проверку, которая не приводит ни к одному не отмененному [TH], добавьте к результатам проверки [AD], равное рангам персонажа "Первый среди братьев". Персонаж может тратить эти дополнительные [AD] только на воздействие на союзных клонов.</Description>
     <Sources>
       <Source Page="39">Дополнение: Восстание сепаратистов</Source>
     </Sources>
@@ -2331,7 +2083,6 @@
       <Source Page="101">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -2344,15 +2095,14 @@
       <Source Page="143">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
-    <Key>FLOWTHINGS</Key>
+    <Key>FLOWALL</Key>
     <Name>Поток через все сущее</Name>
     <Description>Раз в раунд персонаж может выполнить маневр "Поток через все сущее", чтобы восстановить "усталость", равное его рейтингу "Силы".</Description>
     <Source Page="39">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2364,7 +2114,6 @@
       <Source Page="32">Дополнение: Абсолютная власть</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2378,7 +2127,6 @@
       <Source Page="147">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -2387,7 +2135,6 @@
     <Description>Один раз за сессию можно получить 2 "усталости", чтобы использовать "способность Силы" как маневр.</Description>
     <Source Page="153">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2397,7 +2144,6 @@
     <Description>Промахнувшись по противнику при боевой проверке "светового меча" ("воля"), персонаж может потратить [TR] или [AD][AD][AD], чтобы использовать "способность силы: Перемещение" в качестве маневра в этот ход (персонаж все еще должен быть способен выполнять маневры, и за ход можно выполнить не более двух маневров).</Description>
     <Source Page="143">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2407,7 +2153,6 @@
     <Description>Когда персонаж выполняет проверку навыка "Выживание" или "Знания (Ксенология)", он может бросить [FO], не превышающее рейтинг вашей "Силы". Персонаж может потратить [FP], чтобы добавить [SU] или [AD] (по выбору персонажа) к результату.</Description>
     <Source Page="30">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <DieModifiers>
@@ -2454,7 +2199,6 @@
     <Description>Один раз за сессию сделайте 1 проверку навыка, используя "Волю", а не характеристику, связанную с этим навыком.</Description>
     <Source Page="147">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2473,23 +2217,15 @@
     <Description>Союзники, с равными рангам "Лидерства", находясь на близком расстоянии, получают преимущества от действия "Получить преимущество" (см. стр 247 Эпохи восстания).</Description>
     <Source Page="147">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
-    <Key>FORMTAC</Key>
+    <Key>FORMTACT</Key>
     <Name>Тактика построения</Name>
-    <Description>Может выполнить действие "Тактика построения", сделав проверку "лидерства" со сложностью ([DI][DI][DI]). В случае успеха персонаж может выбрать количество союзников в пределах короткой дистанции, равное сгенерированных [SU]. Это действие повышает сложность атак против этих союзников на 1 до конца своего следующего хода.
-</Description>
+    <Description>Может выполнить действие "Тактика построения", сделав проверку "лидерства" со сложностью ([DI][DI][DI]). В случае успеха персонаж может выбрать количество союзников в пределах короткой дистанции, равное сгенерированных [SU]. Это действие повышает сложность атак против этих союзников на 1 до конца своего следующего хода.</Description>
     <Source Page="112">Дополнение: Рассвет восстания</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>CustomItem</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Action</Activation>
   </Talent>
   <Talent>
     <Key>FORREP</Key>
@@ -2499,7 +2235,6 @@
       <Source Page="39">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -2508,7 +2243,6 @@
     <Description>Один раз за сеанс в качестве свободного действия вы можете, получить 2 "усталости", и перебросить 1 очко "Судьбы" темной стороны на светлую сторону.</Description>
     <Source Page="32">Дополнение: Непринужденный полет</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2537,7 +2271,6 @@
       <Source Page="30">Дополнение: Шифры и Маски</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2546,7 +2279,6 @@
     <Description>Получите 4 "усталости", при совершении маневра "перемещение", чтобы переместиться в любое место в пределах средней дистанции.</Description>
     <Source Page="30">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2570,7 +2302,6 @@
       <Source Page="30">Дополнение: Шаг в неизвестность</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -2583,7 +2314,6 @@
       <Source Page="143">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -2596,7 +2326,6 @@
       <Source Page="30">Дополнение: Бесконечное бдение</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -2609,7 +2338,6 @@
       <Source Page="31">Дополнение: Бесконечное бдение</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -2662,7 +2390,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>GOWITHOUT</Key>
@@ -2672,7 +2399,6 @@
       <Source Page="28">Дополнение: Последователи гармонии</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2684,7 +2410,6 @@
       <Source Page="34">Дополнение: Без дезинтеграций</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -2720,7 +2445,6 @@
       <Source Page="39">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2730,7 +2454,6 @@
     <Description>В качестве свободного действия, получите 2 "усталости", чтобы не увеличивать сложность проверки "Дальний бой (Легкое оружие)", чтобы атаковать двумя оружиями.</Description>
     <Source Page="33">Дополнение: Непринужденный полет</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2739,7 +2462,6 @@
     <Description>Каждый раз, когда связанное животное персонажа успешно выполняет боевую проверку против цели, оно может отказаться от нанесения урона, чтобы повысить сложность следующей проверки цели на 1.</Description>
     <Source Page="30">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2775,7 +2497,6 @@
       <Source Page="30">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -2796,9 +2517,7 @@
       <Source Page="30">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>HEALTRANCE</Key>
@@ -2816,7 +2535,6 @@
     <Description>Когда вы исцеляете "раны" под действием "Целебного транса", сделайте проверку "Стойкости", чтобы исцелить "критическую травму". Трудность проверки равна тяжести критической травмы.</Description>
     <Source Page="144">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2829,7 +2547,6 @@
       <Source Page="35">Дополнение: Закаленные в битве</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2842,7 +2559,6 @@
       <Source Page="145">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -2855,7 +2571,6 @@
       <Source Page="145">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2867,7 +2582,6 @@
       <Source Page="35">Дополнение: Закаленные в битве</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2890,7 +2604,6 @@
       <Source Page="30">Дополнение: Шифры и Маски</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -2911,15 +2624,14 @@
     <Description>Увеличьте сложность следующей проверки "Артиллерии" на 1. Если проверка наносит урон, космический корабль или транспортное средство-цель испытывает "перегрузку системы", равную "скорости", при движении до конца боя.</Description>
     <Source Page="34">Дополнение: Без дезинтеграций</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
-    <Key>HITRUN</Key>
+    <Key>HITANDRUN</Key>
     <Name>Бей-Беги</Name>
     <Description>Если персонаж использует реактивный ранец, то после завершения атаки, направленной на противника, с которым он взаимодействует, он может немедленно отступить.</Description>
     <Source Page="40">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2931,7 +2643,6 @@
       <Source Page="149">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -2940,7 +2651,6 @@
     <Description>При проверке навыка "Астрогация" персонаж может потратить 1 очко "Судьбы", чтобы снять [DE] или снять [TH], равное его рангу "Внимания".</Description>
     <Source Page="30">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -2965,7 +2675,6 @@
       <Source Page="30">Дополнение: Дикие духи</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -2978,7 +2687,6 @@
       <Source Page="30">Дополнение: Дикие духи</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -2989,23 +2697,22 @@
       <Source Page="39">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
-    <Key>ICHBLADE</Key>
+    <Key>ICHORBLADE</Key>
     <Name>Лезвие Ихора</Name>
     <Description>Когда персонаж приобретает этот талант, выберите одно оружие для "ближнего боя" или боя "грубой силой", в котором нет электронных или других высокотехнологичных деталей. (Например, вы можете выбрать меч или посох, но не виброклинок или электропосох.) Оружие приобретает качества предметов Cortosis и Pierce 2 и снижает свой "критический рейтинг" на единицу до минимального значения 1. Кроме того, любой другой персонаж добавляет [SE] к проверкам, которые он делает, чтобы использовать это оружие. Если оружие будет потеряно или уничтожено, персонаж может применить "Лезвие Ихора" к новому оружию. Если оружие покидает владение персонажа дольше, чем на одну сцену или встречу, оно теряет все эффекты этого таланта, пока персонаж не получит его снова.</Description>
     <Source Page="40">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
-    <Key>ICHBLDIMP</Key>
+    <Key>ICHORBLADEIMP</Key>
     <Name>Лезвие Ихора (Улучшенное)</Name>
     <Description>Оружие, на которое действует талант "Лезвие Ихора", также приобретает качества предметов Sunder и Defensive 1 и увеличивает свой урон на 2.</Description>
     <Source Page="40">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -3013,7 +2720,7 @@
     <Name>Резерв Ихора</Name>
     <Description>Один раз за сессию персонаж может получить 2 "усталости", чтобы выполнить маневр "Резерв Ихора". Ваш рейтинг "Силы" увеличивается на 1 до конца сцены или встречи. По усмотрению ГМа персонажу может потребоваться время от времени возвращаться в Датомир, чтобы пополнить запасы магического ихора.</Description>
     <Source Page="40">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -3037,13 +2744,11 @@
   <Talent>
     <Key>IDING</Key>
     <Name>Определение состава</Name>
-    <Description>Подвергшись воздействию вещества, в качестве свободного действия, вы можете бросить [FO] не больше, чем рейтинг "Силы". Потратьте [FP][FP], чтобы немедленно определить его состав и эффекты.
-</Description>
+    <Description>Подвергшись воздействию вещества, в качестве свободного действия, вы можете бросить [FO] не больше, чем рейтинг "Силы". Потратьте [FP][FP], чтобы немедленно определить его состав и эффекты.</Description>
     <Sources>
       <Source Page="32">Дополнение: Абсолютная власть</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -3053,35 +2758,25 @@
     <Description>Персонаж может совершить маневр "Наделить предмет", получив 1 "усталость" и совершив [FO] . После этого он дает одному оружию или предмету в радиусе короткой дистанции временное улучшение, выбранное из следующих вариантов: 'Увеличить урон оружия на 1'; 'Снизить стоимость [AD] для его критического удара или любого другого одиночного эффекта на 1, минимум до 1'; 'Увеличить "защиту" брони для "дальнего" или "ближнего" боя на 1'; 'Также персонаж может снизить "нагрузку" предмета на 2, минимум до 1.'. Персонаж получает 1 "усталость" в начале каждого своего хода, пока способность активна.</Description>
     <Source Page="145">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
     <Key>IMPCOMARMS</Key>
     <Name>Товарищи по оружию (Улучшенное)</Name>
-    <Description>Потратьте [AD][AD][AD] или [TR] от проверки "Товарищи по оружию", чтобы также получить +1 "поглощение" или дать одному пострадавшему союзнику +1 "поглощение".
-</Description>
+    <Description>Потратьте [AD][AD][AD] или [TR] от проверки "Товарищи по оружию", чтобы также получить +1 "поглощение" или дать одному пострадавшему союзнику +1 "поглощение".</Description>
     <Source Page="111">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>IMPCONC</Key>
     <Name>Самодельная смесь</Name>
-    <Description>Один раз за сессию, в качестве действия, сделайте проверку "Знаний (Ксенология)" со сложностью ([DI][DI][DI]), добавив [FO] не больше, чем рейтинг вашей "Силы", чтобы создать 1 дозу яда или лекарства с редкостью "Интеллект" + [SU] + [FP], потраченной или ниже.
-</Description>
+    <Description>Один раз за сессию, в качестве действия, сделайте проверку "Знаний (Ксенология)" со сложностью ([DI][DI][DI]), добавив [FO] не больше, чем рейтинг вашей "Силы", чтобы создать 1 дозу яда или лекарства с редкостью "Интеллект" + [SU] + [FP], потраченной или ниже.</Description>
     <Sources>
       <Source Page="32">Дополнение: Абсолютная власть</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -3093,7 +2788,6 @@
       <Source Page="30">Дополнение: Полная оперативность</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -3105,7 +2799,6 @@
       <Source Page="30">Дополнение: Полная оперативность</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -3114,22 +2807,16 @@
     <Description>Понизьте сложность проверки "Самодельная взрывчатка" до ([DI][DI]) и увеличьте урон до двойного ранга в "Механике".</Description>
     <Source Page="32">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
-    <Key>IMPFORMTAC</Key>
+    <Key>FORMTACTIMP</Key>
     <Name>Тактика построения (Улучшенное)</Name>
     <Description>Сложность "Тактики построения" снижена до ([DI][DI]). Можно потратить [TR] или [AD][AD][AD][AD][AD][AD], чтобы эффект длился до конца боя.</Description>
     <Source Page="113">Дополнение: Рассвет восстания</Source>
-    <Custom>AddedItem</Custom>
+	<Source Page="40">Дополнение: Падение республики</Source>
+    <Custom>CustomItem</Custom>
     <ActivationValue>taManeuver</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Maneuver</Activation>
   </Talent>
   <Talent>
     <Key>IMPOSFALL</Key>
@@ -3137,7 +2824,6 @@
     <Description>Один раз за сессию при падении выполните "Невозможное падение": сделав проверку вашей "Силы" и потратьте [FP][FP], чтобы уменьшить падение на одну полосу дальности и приземлиться в безопасном месте. Потратьте [FP], чтобы уменьшить расстояние на одну дополнительную полосу дальности.</Description>
     <Source Page="31">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -3149,23 +2835,15 @@
       <Source Page="31">Дополнение: Полная оперативность</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
     <Key>IMPPRIDEJOY</Key>
     <Name>Гордость и радость (Улучшенное)</Name>
-    <Description>Находясь в своем транспорте с параметром "Гордость и радость";  восстанавливайте 1 дополнительную "усталость" при восстановлении "усталости" и тратьте [AD] при проверках на восстановления "усталости", чтобы позволить союзнику, находящемуся в сосуде, восстановить одну "усталость".
-</Description>
+    <Description>Находясь в своем транспорте с параметром "Гордость и радость";  восстанавливайте 1 дополнительную "усталость" при восстановлении "усталости" и тратьте [AD] при проверках на восстановления "усталости", чтобы позволить союзнику, находящемуся в сосуде, восстановить одну "усталость".</Description>
     <Source Page="115">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>IMPSECRETJEDI</Key>
@@ -3178,9 +2856,7 @@
       <NewSkills>
         <Key>DISC</Key>
       </NewSkills>
-      <Type />
     </ChooseCareerSkills>
-    <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>INCITE</Key>
@@ -3188,7 +2864,6 @@
     <Description>Один раз за сессию вы можете совершить действие "Подстрекательство"; сделав проверку "запугивания" со сложностью ([DI][DI][DI]), чтобы вызвать восстание нескольких существ до ранга "запугивания" до конца встречи.</Description>
     <Source Page="149">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -3199,7 +2874,6 @@
       <Source Page="30">Дополнение: Шифры и Маски</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -3223,7 +2897,6 @@
       <Source Page="30">Дополнение: Шифры и Маски</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -3234,7 +2907,6 @@
       <Source Page="30">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -3247,21 +2919,15 @@
       <Source Page="34">Дополнение: Без дезинтеграций</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
-    <Key>INGLOY</Key>
+    <Key>INGRAINLOY</Key>
     <Name>Укоренившаяся лояльность</Name>
     <Description>Когда персонаж делает проверку "Лидерства", направленную на одного или нескольких клонов, он может изменить результат на одно [CH] на любое непустое лицо.</Description>
     <Source Page="21">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>INKNOW</Key>
@@ -3278,7 +2944,6 @@
     <Description>Один раз за сессию проведите встречную проверку [B]"Обмана" против "Бдительности"[b] с понижением сложности на 1 за каждый ранг "Знания изнутри", чтобы заставить целевого NPC поверить в конкретные ложные сведения.</Description>
     <Source Page="33">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -3291,7 +2956,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>INSIDEKNOW</Key>
@@ -3301,7 +2965,6 @@
       <Source Page="30">Дополнение: Шифры и Маски</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -3312,7 +2975,6 @@
       <Source Page="31">Дополнение: Шифры и Маски</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3324,7 +2986,6 @@
       <Source Page="149">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <ChooseCareerSkills>
@@ -3335,11 +2996,11 @@
     </ChooseCareerSkills>
   </Talent>
   <Talent>
-    <Key>INSPKILL</Key>
+    <Key>INSPIRKILL</Key>
     <Name>Вдохновляющее убийство</Name>
     <Description>Персонаж может потратить 1 очко "Судьбы", чтобы выполнить маневр "Вдохновляющее убийство" сразу после проведения успешной атаки, в результате которой цель оказывается недееспособной или получает "критическую травму". Персонаж делает бросок [FO], не превышающий его рейтинг "Силы", и может потратить [FP] на исцеление 2 "ран" у союзников в пределах средней дистанции (и может сделать это несколько раз). Если используются правила морали из [B]Силы и Судьбы[b], персонаж, купивший этот талант, получает 1 "Конфликт" в начале каждой игровой сессии.</Description>
     <Source Page="40">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -3350,12 +3011,6 @@
     <Source Page="113">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Action</Activation>
   </Talent>
   <Talent>
     <Key>INSPRHET</Key>
@@ -3367,7 +3022,6 @@
       <Source Page="32">Дополнение: Абсолютная власть</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -3380,7 +3034,6 @@
       <Source Page="32">Дополнение: Абсолютная власть</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -3392,7 +3045,6 @@
       <Source Page="149">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3405,7 +3057,6 @@
       <Source Page="28">Дополнение: Последователи гармонии</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -3418,7 +3069,6 @@
       <Source Page="145">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -3427,7 +3077,6 @@
     <Description>После того, как другой персонаж сделает социальную проверку, получите 3 "усталости", чтобы использовать "междометие", сделав проверку "бдительности" со сложностью ([DI][DI]), чтобы добавить: [SU] или [FA], равные [SU], к проверке. [AD] или [TH], равные [AD], к проверке.</Description>
     <Source Page="34">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -3459,7 +3108,6 @@
     <Description>При проверке изготовления или ремонта предмета вы можете добавить к проверке [FO], не превышающее ваш рейтинг "Силы". Потратьте [FP][FP], чтобы увеличить очки здоровья на 1, максимум до +2.</Description>
     <Source Page="145">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <HPPerItem>2</HPPerItem>
@@ -3470,7 +3118,6 @@
     <Description>При выполнении проверки навыка "Астрогация" или "Знания (Внешнее кольцо)" персонаж может бросить [FO], не превышающее его рейтинг "Силы". Персонаж может потратить [FP], чтобы прибавить к результату [SU] или [AD] (по выбору персонажа).</Description>
     <Source Page="30">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <DieModifiers>
@@ -3490,7 +3137,6 @@
     <Description>При выполнении боевой проверки на "дальний бой (тяжелое оружие)" или "дальний бой (легкое оружие)" добавьте к проверке [FO], не превышающее ваш рейтинг "Силы". Можно потратить [FP], чтобы добавить [SU] или [AD].</Description>
     <Source Page="145">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <DieModifiers>
@@ -3510,7 +3156,6 @@
     <Description>Когда вы делаете проверку боя с оружием планетарного масштаба, добавьте к проверке [FO], не превышающее рейтинг "Силы". Потратьте [FP][FP], чтобы добавить [SU] или [AD].</Description>
     <Source Page="145">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -3533,7 +3178,6 @@
     <Description>Один раз за бой можно добавить [FO] к проверке на "Силу (Brawl)" или" Ловкость", сделанной союзником на короткой дистанции [LI] добавляет [SU] и [DA] добавляет [TH].</Description>
     <Source Page="150">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -3573,7 +3217,6 @@
       <Source Page="28">Дополнение: Последователи гармонии</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -3582,15 +3225,14 @@
     <Description>Один раз за сессию, когда союзник получил критическую травму, персонаж может совершить действие "Все не так уж плохо"; сделав проверку "медицины " со сложностью ([DI][DI][DI]), чтобы остановить союзника от получения "критической травмы".</Description>
     <Source Page="150">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
-    <Key>JETEXP</Key>
+    <Key>JETPEXP</Key>
     <Name>Экспертиза джетпаков</Name>
     <Description>Персонаж может потратить [AD] от сделанных им проверок, чтобы снять 1 "перегрузку системы" с джетпака, которым он экипирован. (Персонаж может выбрать этот эффект несколько раз, тратя [AD]).</Description>
     <Source Page="41">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3603,7 +3245,6 @@
       <Source Page="146">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3626,7 +3267,6 @@
     <Description>Один раз за раунд в качестве свободного действия потратьте 1 очко "Судьбы", чтобы игнорировать [DE], полученное при проверке социального навыка персонажа или любого союзника в ближнем радиусе действия.</Description>
     <Source Page="33">Дополнение: Непринужденный полет</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3637,7 +3277,6 @@
       <Source Page="31">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -3650,7 +3289,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
     <DieModifiers>
       <DieModifier>
         <SkillKey>PERC</SkillKey>
@@ -3694,7 +3332,6 @@
       <Source Page="150">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -3703,7 +3340,6 @@
     <Description>Один раз за сессию вы можете прекрасно вспомнить важный факт, который был ранее выучен, как будто было потрачено очко "Судьбы".</Description>
     <Source Page="34">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3713,12 +3349,6 @@
     <Source Page="113">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>KNOWHEAL</Key>
@@ -3726,9 +3356,7 @@
     <Description>Исцеляя союзника, потратьте 1 очко "Судьбы", чтобы исцелить дополнительные раны, равные рангам в "Знании (Ксенология)".</Description>
     <Source Page="146">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>KNOWNPROG</Key>
@@ -3737,11 +3365,6 @@
     <Source Page="21">Дополнение: Падение Ресублики</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>KNOWNPROGIMP</Key>
@@ -3750,11 +3373,6 @@
     <Source Page="21">Дополнение: Падение Ресублики</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>KNOWPOW</Key>
@@ -3762,7 +3380,6 @@
     <Description>Один раз за сессию при выполнении проверки считайте рейтинг "Силы" равным рангам "Знания (легенды)".</Description>
     <Source Page="103">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -3773,12 +3390,6 @@
     <Source Page="113">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>KNOWSCH</Key>
@@ -3790,7 +3401,6 @@
       <Source Page="40">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -3851,7 +3461,6 @@
       <Source Page="31">Дополнение: Шифры и Маски</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -3860,7 +3469,6 @@
     <Description>Если противник получил преимущество на пилотируемом звездолете или транспортном средстве, персонаж может выполнить маневр "Койогранский ход", чтобы снять эффект.</Description>
     <Source Page="32">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -3886,7 +3494,6 @@
       <Source Page="40">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -3908,13 +3515,11 @@
   <Talent>
     <Key>LEARNOPP</Key>
     <Name>Возможность обучения</Name>
-    <Description>Раз за раунд персонаж может потратить [AD][AD][AD] от проваленной проверки, чтобы повысить способность следующей проверки на 1.
-</Description>
+    <Description>Раз за раунд персонаж может потратить [AD][AD][AD] от проваленной проверки, чтобы повысить способность следующей проверки на 1.</Description>
     <Sources>
       <Source Page="40">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -3941,14 +3546,12 @@
       <Source Page="40">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
     <Key>LEVER</Key>
     <Name>Рычаг давления</Name>
-    <Description>Персонаж снимает [SE] за каждый ранг "рычага давления" от своих проверок "хладнокровия" и умения вести "переговоры".
-</Description>
+    <Description>Персонаж снимает [SE] за каждый ранг "рычага давления" от своих проверок "хладнокровия" и умения вести "переговоры".</Description>
     <Sources>
       <Source Page="40">Дополнение: Восстание сепаратистов</Source>
     </Sources>
@@ -3972,7 +3575,6 @@
     <Description>Когда союзник, взаимодействующий с персонажем, делает успешную проверку на "обаяние", "обман" или "переговоры", персонаж добавляет [AD] за ранг в "Запугивании" к проверке союзника.</Description>
     <Source Page="32">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -3983,14 +3585,12 @@
       <Source Page="31">Дополнение: Шифры и Маски</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
     <Key>MACHMEND</Key>
     <Name>Машиностроитель</Name>
-    <Description>Когда вы делаете проверку "механики", чтобы помочь персонажу залечить "раны", цель залечивает 1 дополнительную рану за ранг "Машиностроитель".
-</Description>
+    <Description>Когда вы делаете проверку "механики", чтобы помочь персонажу залечить "раны", цель залечивает 1 дополнительную рану за ранг "Машиностроитель".</Description>
     <Sources>
       <Source Page="34">Дополнение: Особые модификации</Source>
       <Source Page="31">Дополнение: Полная оперативность</Source>
@@ -4007,7 +3607,6 @@
       <Source Page="31">Дополнение: Шифры и Маски</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -4016,7 +3615,6 @@
     <Description>Используйте действие "Завершение Макаши"; выполнив проверку боя на "световом мече (харизма)" против цели, добавив [FO] не больше, чем ваш рейтинг "Силы". Потратьте [FP], чтобы добавить +10 к любым полученным броскам на "критическое ранение".</Description>
     <Source Page="146">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4026,7 +3624,6 @@
     <Description>Один раз за бой выполните действие "Размах Макаши". Сделайте проверку "светового меча (харизма)" со сложностью ([DI][DI]). 1 привлеченный противник получает "усталость", равное [SU], и исцеляет равное количество "усталости".</Description>
     <Source Page="146">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4036,7 +3633,6 @@
     <Description>При проверке навыка "Световой меч" персонаж может использовать "Харизму" вместо "Силы (Brawl)".</Description>
     <Source Page="146">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <SkillChars>
@@ -4052,7 +3648,6 @@
     <Description>Используйте маневр "Отмеченный смертью"; совершите бросок [FO]. Добавьте [AD][AD] к боевым проверкам против цели, пока [FO] остается задействованным, талант нельзя использовать снова, пока первоначальная цель не будет выведена из строя или пока не закончится сессия.</Description>
     <Source Page="30">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4065,7 +3660,6 @@
     <Source Page="35">Дополнение: Без дезинтеграций</Source>
     <Source Page="31">Дополнение: Рыцари судьбы</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4077,7 +3671,6 @@
       <Source Page="151">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4086,7 +3679,6 @@
     <Description>Раз за раунд, когда вы управляете транспортным средством, вы можете получить 2 "усталости", чтобы выполнить любое действие в качестве маневра.</Description>
     <Source Page="151">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4098,7 +3690,6 @@
       <Source Page="32">Дополнение: Опасные союзы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -4110,7 +3701,6 @@
       <Source Page="29">Дополнение: Последователи гармонии</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -4119,20 +3709,17 @@
     <Description>Один раз за раунд, получив 2 "усталости", уменьшите сложность следующей проверки "Лидерства" на один, до минимума сложности ([DI]).</Description>
     <Source Page="151">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
     <Key>MASMERC</Key>
     <Name>Мастер торговец</Name>
-    <Description>Перед тем как сделать проверку при покупке или продаже предметов, взятии или погашении "Обязательства", персонаж может получить 2 "усталости". Если проверка прошла успешно, он продает предмет на 25 % дороже базовой стоимости, покупает его на 25 % дешевле, выплачивает дополнительно 1 очко "Обязательства" или берет на себя на 1 очко меньше "Обязательства".
-</Description>
+    <Description>Перед тем как сделать проверку при покупке или продаже предметов, взятии или погашении "Обязательства", персонаж может получить 2 "усталости". Если проверка прошла успешно, он продает предмет на 25 % дороже базовой стоимости, покупает его на 25 % дешевле, выплачивает дополнительно 1 очко "Обязательства" или берет на себя на 1 очко меньше "Обязательства".</Description>
     <Sources>
       <Source Page="138">Книга правил: Край Империи</Source>
       <Source Page="151">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4145,7 +3732,6 @@
       <Source Page="40">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4158,7 +3744,6 @@
       <Source Page="146">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4170,7 +3755,6 @@
       <Source Page="151">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4183,7 +3767,6 @@
       <Source Page="31">Дополнение: Дикие духи</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4192,7 +3775,6 @@
     <Description>Один раз за фазу во время массового боя можно получить 2 "усталости", чтобы снизить сложность проверки массового боя на 1.</Description>
     <Source Page="33">Дополнение: Лидерство на примере</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -4204,9 +3786,7 @@
       <Source Page="31">Дополнение: Полная оперативность</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>MASTDEMO</Key>
@@ -4216,11 +3796,10 @@
       <Source Page="31">Дополнение: Полная оперативность</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
-    <Key>MASTERORDER</Key>
+    <Key>MASTORDER</Key>
     <Name>Магистр ордена</Name>
     <Description>Персонаж может потратить 2 очка "Судьбы" во время одного действия.</Description>
     <Source Page="41">Дополнение: Падение Ресублики</Source>
@@ -4236,7 +3815,6 @@
       <Source Page="29">Дополнение: Последователи гармонии</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4246,7 +3824,6 @@
     <Description>Противник, находящийся на небольшом расстоянии от связанного животного персонажа, добавляет [SE] к следующей проверке боя, сделанной против персонажа.</Description>
     <Source Page="31">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4256,7 +3833,6 @@
     <Description>Можно выполнить действие "Ментальные узы". Сделав бросок [FO]. Во время действия можно общаться с привязанным животным на большом расстоянии, видеть и слышать его чувствами. (см. талант "Связь с животными" для понятии того, как работает управление).</Description>
     <Source Page="147">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4270,7 +3846,6 @@
       <Source Page="147">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4279,7 +3854,6 @@
     <Description>При выполнении проверки "механики" всегда учитывайте, что у вас есть необходимые инструменты для работы.</Description>
     <Source Page="147">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4291,7 +3865,6 @@
       <Source Page="29">Дополнение: Последователи гармонии</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -4306,35 +3879,30 @@
       <Source Page="32">Дополнение: Абсолютная власть</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>MISSCRIT</Key>
     <Name>Критическая задача</Name>
-    <Description>Один раз за сессию после броска проверки "пилотирования (планетарного)" или "пилотирования (космического)", но до ее решения, персонаж может потратить очко "Судьбы", чтобы добавить [SU] или [AD] к результатам, равным его рангам в этом навыке. (Персонаж может разделить результаты между [SU] и [AD] в любой комбинации).
-</Description>
+    <Description>Один раз за сессию после броска проверки "пилотирования (планетарного)" или "пилотирования (космического)", но до ее решения, персонаж может потратить очко "Судьбы", чтобы добавить [SU] или [AD] к результатам, равным его рангам в этом навыке. (Персонаж может разделить результаты между [SU] и [AD] в любой комбинации).</Description>
     <Sources>
       <Source Page="40">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
-    <Key>MOMTUM</Key>
+    <Key>MOMENTUM</Key>
     <Name>Моментум</Name>
     <Description>При атаке в ближнем бою персонаж наносит дополнительный урон, равный количеству рангов дальности, на которые он переместился за текущий раунд.</Description>
     <Source Page="41">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
     <Key>MOREMACH</Key>
     <Name>Больше машина, чем человек</Name>
-    <Description>Увеличьте максимальное количество кибернетических имплантов на 1 за каждый ранг "Больше машина, чем человек".
-</Description>
+    <Description>Увеличьте максимальное количество кибернетических имплантов на 1 за каждый ранг "Больше машина, чем человек".</Description>
     <Source Page="34">Дополнение: Особые модификации</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
@@ -4344,17 +3912,10 @@
   <Talent>
     <Key>MOSTIMP</Key>
     <Name>Самый впечатляющий</Name>
-    <Description>Потратьте [TR] от любой проверки умения, чтобы позволить нескольким союзникам, не превышающим рейтинг "Харизмы" персонажа в пределах короткой дистанции, автоматически добавить [AD] к их следующей проверке.
-</Description>
+    <Description>Потратьте [TR] от любой проверки умения, чтобы позволить нескольким союзникам, не превышающим рейтинг "Харизмы" персонажа в пределах короткой дистанции, автоматически добавить [AD] к их следующей проверке.</Description>
     <Source Page="113">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Incidental</Activation>
   </Talent>
   <Talent>
     <Key>MOUNTBURDEN</Key>
@@ -4380,7 +3941,6 @@
     <Description>Трудность обучения этого зверя не повышается.</Description>
     <Source Page="85">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -4389,7 +3949,6 @@
     <Description>Этот маунт может летать. Когда он находится на земле, его скорость снижается до 1.</Description>
     <Source Page="85">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -4425,9 +3984,7 @@
     <Description>Добавляет [BO] к проверкам "светового меча", "грубой силы" и "ближнего боя" при столкновении с несколькими противниками.</Description>
     <Source Page="147">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>MUSEUMWORTHY</Key>
@@ -4435,7 +3992,6 @@
     <Description>Один раз за сессию, выполнив действие "Достойно музея", сделайте проверку "Знания (Образование)" со сложностью ([DI][DI][DI]), чтобы получить информацию о реликвии, руинах или фрагменте истории.</Description>
     <Source Page="30">Дополнение: Шаг в неизвестность</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -4447,9 +4003,7 @@
       <Source Page="31">Дополнение: Шифры и Маски</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>NATBLADE</Key>
@@ -4457,9 +4011,7 @@
     <Description>Один раз за сессию можно перебросить 1 любую проверку "светового меча" или "ближнего боя".</Description>
     <Source Page="147">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>NATBRAW</Key>
@@ -4490,21 +4042,15 @@
       <Source Page="147">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
-    <Key>NATCOMMAN</Key>
+    <Key>NATCOMM</Key>
     <Name>Прирожденный коммандос</Name>
     <Description>Один раз за сессию, персонаж может перебросить одну проверку на "Дальний бой (легкое оружие)" или "Скрытность".</Description>
     <Source Page="21">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>NATDOC</Key>
@@ -4516,7 +4062,6 @@
       <Source Page="148">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4525,7 +4070,6 @@
     <Description>Один раз за сессию можно перебросить 1 проверку "пилотирования (планетарного)" или "артиллерии".</Description>
     <Source Page="153">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4537,7 +4081,6 @@
       <Source Page="153">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4550,7 +4093,6 @@
       <Source Page="105">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4559,7 +4101,6 @@
     <Description>Один раз за сессию можно перебросить 1 проверку "Выдержки" или "Лидерства".</Description>
     <Source Page="33">Дополнение: Лидерство на примере</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4572,7 +4113,6 @@
       <Source Page="40">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4584,7 +4124,6 @@
       <Source Page="153">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4593,9 +4132,7 @@
     <Description>Один раз за сессию можно перебросить 1 проверку на "Уличную интуицию" или "Переговоры".</Description>
     <Source Page="33">Дополнение: Далекие горизонты</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>NATMYSTIC</Key>
@@ -4603,7 +4140,6 @@
     <Description>Один раз за сессию можно перебросить любую проверку "Силы" на 1.</Description>
     <Source Page="148">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4617,19 +4153,16 @@
       <Source Page="148">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
     <Key>NATOP</Key>
     <Name>Прирожденный оператор</Name>
-    <Description>Один раз за игровую сессию персонаж может перевернуть одну проверку "пилотирования (планетарного)" или "пилотирования (космического)".
-</Description>
+    <Description>Один раз за игровую сессию персонаж может перевернуть одну проверку "пилотирования (планетарного)" или "пилотирования (космического)".</Description>
     <Sources>
       <Source Page="40">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4642,7 +4175,6 @@
       <Source Page="148">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4654,7 +4186,6 @@
       <Source Page="153">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4666,7 +4197,6 @@
       <Source Page="153">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4678,7 +4208,6 @@
       <Source Page="153">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4690,7 +4219,6 @@
       <Source Page="153">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4703,7 +4231,6 @@
       <Source Page="148">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4714,7 +4241,6 @@
       <Source Page="40">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4723,7 +4249,6 @@
     <Description>Когда персонаж проверяет навык владения "световым мечом", можно использовать "Волю" вместо "Силы (Brawl)".</Description>
     <Source Page="148">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <SkillChars>
@@ -4760,7 +4285,6 @@
     <Description>Можно потратить [AD][AD] от проверки "запугивания" или [TH][TH] от проверки "выдержки" противника; цель не может совершить свободный маневр в следующий ход.</Description>
     <Source Page="30">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4770,7 +4294,6 @@
     <Description>Один раз за сессию потратьте 1 очко "Судьбы", чтобы спасти "сигнатурный транспорт" от уничтожения.</Description>
     <Source Page="33">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -4781,7 +4304,6 @@
       <Source Page="29">Дополнение: Последователи гармонии</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ForceTalent>true</ForceTalent>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
@@ -4791,7 +4313,6 @@
     <Description>Один раз за сессию выполните действие "Теперь ты меня видишь". Сделав проверку на "обман" со сложностью ([DI][DI][DI]), чтобы заставить некоторое количество NPC, равное "Смекалки" в пределах средней дистанции, забыть о персонаже.</Description>
     <Source Page="148">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4801,7 +4322,6 @@
     <Description>В качестве маневра вы можете получить перегрузку системы равную защите транспорта, чтобы повысить сложность следующей проверки пилотирования цели на столько же единиц.</Description>
     <Source Page="35">Дополнение: Без дезинтеграций</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -4812,7 +4332,6 @@
       <Source Page="29">Дополнение: Последователи гармонии</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4825,9 +4344,7 @@
       <Source Page="35">Дополнение: Закаленные в битве</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>ONETRASH</Key>
@@ -4837,7 +4354,6 @@
       <Source Page="40">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -4846,7 +4362,6 @@
     <Description>Один раз за сессию проведите медиацию, затем выполните действие "Одно целое со Вселенной"; сделайте проверку "астрогации" со сложностью ([DI][DI]). Если проверка пройдена успешно, добавьте [LI] ко всем проверкам способности "Силы" в следующей встрече. В случае успеха с [TH] вместо этого добавьте [DA].</Description>
     <Source Page="149">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -4858,7 +4373,6 @@
       <Source Page="40">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -4869,7 +4383,6 @@
       <Source Page="41">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -4893,7 +4406,6 @@
       <Source Page="41">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -4923,7 +4435,6 @@
       <Source Page="35">Дополнение: Без дезинтеграций</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -4932,7 +4443,6 @@
     <Description>Один раз за бой можно использовать действие "Перегрузка". Сделав проверку "механики" со сложностью ([DI][DI][DI]). При успехе одна установленная кибернетика получает дополнительные преимущества: +1 к характеристике (максимум 7); +1 к рангу навыка (максимум 5); +1 к рангу выбранного таланта; Эффект не суммируется и остается с персонажем до конца боя. ГМ может провести проверку "Механики" со сложностью ([DI]), чтобы перегруженная кибернетика игрока отключилась, при условии, что игроку выпал [DE] во время проверки.</Description>
     <Source Page="35">Дополнение: Особые модификации</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -4941,7 +4451,6 @@
     <Description>Можно потратить [AD][AD] или [TR] от действия "Перегрузка", чтобы немедленно совершить еще одно действие.</Description>
     <Source Page="35">Дополнение: Особые модификации</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -4950,7 +4459,6 @@
     <Description>Можно выполнить действие "Перегрузка" для любого количества установленных кибернетических устройств. При выпадении [DE], ГМ может сделать бросок (см. "Перегрузка"), чтобы одна перегруженная кибернетика отключилась.</Description>
     <Source Page="35">Дополнение: Особые модификации</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -4971,7 +4479,6 @@
     <Description>Когда персонаж выполняет проверку "Обаяния", "Запугивания" или "Обмана", он может добавить [FO], равные его рейтингу "Силы". Каждый [DA] добавляет [FO] к проверкам "Обаяния". Каждый [LI] добавляет [SU] к проверкам "Запугивания" или "Обмана". Однако каждое [LI][LI] добавляет [FA] к проверкам "Запугивания" или "Обмана", а каждое [DA][DA] добавляет [FA] к проверкам "Обаяния". Это не относится к целям, невосприимчивым к "Силе".</Description>
     <Source Page="141">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <DieModifiers>
@@ -5009,7 +4516,6 @@
       <Source Page="33">Дополнение: Абсолютная власть</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -5026,7 +4532,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>PARRYIMP</Key>
@@ -5037,9 +4542,7 @@
       <Source Page="41">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>PARRYSUP</Key>
@@ -5047,7 +4550,6 @@
     <Description>Если пользователь не сделал проверку боя во время своего предыдущего хода, он может получить 1 "усталость" вместо 3, чтобы использовать "парирование".</Description>
     <Source Page="149">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5058,12 +4560,6 @@
     <Source Page="114">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>PHYSICIAN</Key>
@@ -5073,7 +4569,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>PHYSTRAIN</Key>
@@ -5106,10 +4601,8 @@
       <Source Page="31">Дополнение: Шифры и Маски</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
-      <SkillCount>0</SkillCount>
       <NewSkills>
         <Key>PILOTPL</Key>
         <Key>PILOTSP</Key>
@@ -5122,7 +4615,6 @@
     <Description>Используйте действие "Захват"; сделав [B]встречную проверку атлетики[b], чтобы обездвижить противника до конца следующего хода персонажа. Потратьте [TR], чтобы продлить время действия на один раунд.</Description>
     <Source Page="30">Дополнение: Шаг в неизвестность</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -5136,7 +4628,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>PLAUSDEN</Key>
@@ -5167,7 +4658,6 @@
     <Description>Используя действие "Правдоподобное отрицание (Улучшенное)" сделайте проверку "запугивания" со сложностью ([DI][DI][DI]), чтобы убедить одного прохожего за каждый ранг "Правдоподобное отрицание" пройти мимо.</Description>
     <Source Page="34">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -5197,7 +4687,6 @@
     <Description>Один раз за сессию, если ни один Долг персонажа не сработал, сделайте проверку "обаяния" со сложностью ([DI][DI][DI][DI]), уменьшенной на 1 за каждый ранг "Позитивного восприятия", чтобы сработал один "Долг" персонажа.</Description>
     <Source Page="34">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -5208,17 +4697,16 @@
       <Source Page="33">Дополнение: Абсолютная власть</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
   </Talent>
   <Talent>
-    <Key>POWERALLY</Key>
+    <Key>POWALLY</Key>
     <Name>Могущественный союзник</Name>
     <Description>Персонаж может потратить очко "Судьбы", чтобы использовать базовую версию некупленной им "Силы" или применить эффект одного некупленного улучшения контроля к купленной им "Силе".</Description>
     <Source Page="42">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5230,23 +4718,17 @@
       <Source Page="31">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
   </Talent>
   <Talent>
-    <Key>PRACTSTRAT</Key>
+    <Key>PRACSTRAT</Key>
     <Name>Практичный стратег</Name>
     <Description>Один раз за сессию сделайте [B]встречную проверку "Знаний (Военное дело)"[b] против лидера вражеских войск, чтобы получить преимущество в повествовании.</Description>
     <Source Page="21">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>PRECAIM</Key>
@@ -5270,7 +4752,6 @@
       <Source Page="31">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -5282,7 +4763,6 @@
       <Source Page="31">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -5293,7 +4773,6 @@
       <Source Page="36">Дополнение: Без дезинтеграций</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -5306,11 +4785,11 @@
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
-    <Key>PREINTER</Key>
+    <Key>PREEMPTINTER</Key>
     <Name>Упреждающее вмешательство</Name>
     <Description>Сразу же после того, как противник делает ход, чтобы сразиться с союзником, находящимся в пределах ближней дистанции от персонажа, персонаж может потратить 1 очко "Судьбы", чтобы вступить в бой с этим противником в качестве свободного действия.</Description>
     <Source Page="42">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5321,12 +4800,6 @@
     <Source Page="115">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Action</Activation>
   </Talent>
   <Talent>
     <Key>PRESPNT</Key>
@@ -5337,7 +4810,6 @@
       <Source Page="31">Дополнение: Шифры и Маски</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -5346,7 +4818,6 @@
     <Description>Добавляет [BO] ко всем проверкам "дальний бой (легкое оружие)", если цель не имеет иммунитета к "Силе".</Description>
     <Source Page="31">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5362,7 +4833,6 @@
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>PRIDEJOY</Key>
@@ -5371,12 +4841,6 @@
     <Source Page="115">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>PRIMEPOS</Key>
@@ -5397,7 +4861,6 @@
     <Description>Во время использования маневра "Прицеливание", [DE] от проверок "Дальний бой (тяжелое оружие)" и "Дальний бой (легкое оружие)" не может привести к тому, что атаки будут направлены на союзников, находящихся в непосредственной близости от цели.</Description>
     <Source Page="31">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5408,12 +4871,6 @@
     <Source Page="115">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Incidental</Activation>
   </Talent>
   <Talent>
     <Key>PUSHSPEC</Key>
@@ -5423,7 +4880,6 @@
       <Source Page="31">Дополнение: Полная оперативность</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -5463,7 +4919,6 @@
       <Source Page="149">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -5472,7 +4927,6 @@
     <Description>Можно использовать "Быстрая рука" дважды за раунд.</Description>
     <Source Page="33">Дополнение: Непринужденный полет</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -5481,7 +4935,6 @@
     <Description>Один раз за сессию сделайте одну проверку навыка, используя "Ловкость", а не характеристику, связанную с этим навыком.</Description>
     <Source Page="154">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -5490,7 +4943,6 @@
     <Description>Чтобы выполнить свободное действие "Быстрое перемещение", можно получить 2 "усталости"; добавьте к следующей проверке [FO], не превышающее ваш рейтинг "Силы". Можно потратить [FP][FP], чтобы выполнить один дополнительный маневр "Перемещения" после действия.</Description>
     <Source Page="150">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5516,21 +4968,15 @@
       <Source Page="35">Дополнение: Закаленные в битве</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
-    <Key>RAPFIRE</Key>
+    <Key>RAPIDFIRE</Key>
     <Name>Беглый огонь</Name>
     <Description>Можно добавить качество предмета "Auto-fire" к проверке боя "Дальний бой (легкое оружие)". После проведения атаки у оружия заканчиваются патроны.</Description>
     <Source Page="21">Дополнение: Падение Ресублики</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>RAPREA</Key>
@@ -5566,7 +5012,6 @@
       <Source Page="41">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -5586,7 +5031,6 @@
     <Description>Когда вы делаете проверки "Хладнокровия" или "Бдительности", чтобы определить порядок инициативы, можно потратить [TR], чтобы добавить [SU], равное рангам "Готовности ко всему".</Description>
     <Source Page="34">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -5598,9 +5042,7 @@
       <Source Page="36">Дополнение: Без дезинтеграций</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>REDUNSYS</Key>
@@ -5611,7 +5053,6 @@
       <Source Page="154">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -5636,7 +5077,6 @@
       <Source Page="42">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5646,7 +5086,6 @@
     <Description>Если пользователь не сделал проверку боя во время предыдущего хода, можно получить 1 "усталость", чтобы использовать "Отражение".</Description>
     <Source Page="150">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5656,7 +5095,6 @@
     <Description>Сигнатурный транспорт получает модификацию "Massive" 1: при атаке, направленной на корабль или транспортное средство, "критический рейтинг" любого используемого оружия считается на 1 больше.</Description>
     <Source Page="33">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <Rigger>
       <BaseMods>
@@ -5673,7 +5111,6 @@
     <Description>Используйте маневр "Усилить предмет": потратив [LI][LI], чтобы придать одному оружию или предмету брони качество "Кортозис", пока [LI][LI] не используются на что-либо еще. Каждый раунд, пока [LI][LI] остаются задействованными, персонаж получает 3 "усталости".</Description>
     <Source Page="31">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5685,7 +5122,6 @@
       <Source Page="42">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -5719,7 +5155,7 @@
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
-    <Key>RESALLO</Key>
+    <Key>RESALLOC</Key>
     <Name>Распределение ресурсов</Name>
     <Description>В начале массового боя персонаж может сделать [B]Сложную ([DI][DI][DI]) проверку "Обаяния"[b] или [B]проверку "Переговоров"[b], чтобы увеличить свою "Силу" на 1 на время боя. Персонаж может потратить [TR] от этой проверки на повышение способности первой проверки массового боя своей "Силы" один раз.</Description>
     <Source Page="43">Дополнение: Падение Ресублики</Source>
@@ -5732,9 +5168,7 @@
     <Description>Получите 2 "усталости", чтобы не быть обезоруженным или чтобы оружие не было повреждено или уничтожено.</Description>
     <Source Page="151">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>RESEARCH</Key>
@@ -5761,7 +5195,6 @@
     <Description>При успешной проверке "знаний" персонаж и его союзники получают автоматическое [AD] за каждый ранг "Исследователя" при проверке действий на основе этих фактов до конца своего следующего хода.</Description>
     <Source Page="34">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -5772,7 +5205,6 @@
       <Source Page="31">Дополнение: Шифры и Маски</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -5783,7 +5215,6 @@
       <Source Page="31">Дополнение: Шифры и Маски</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -5806,7 +5237,6 @@
     <Description>Можно сделать действие "Изобретательный ремонт", выполнив проверку "механики" со сложностью ([DI][DI]), чтобы разобрать старое приспособление и построить новое, уменьшив его стоимость на стоимость разобранного приспособления.</Description>
     <Source Page="35">Дополнение: Особые модификации</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -5838,7 +5268,6 @@
     <Description>Выполните маневр "Сабельный рой"; получите 1 "усталость", чтобы сделать следующую проверку боя "световым мечом (Ловкость)" в этот ход и получить качество "Linked item", равную рейтингу "Силы" во время проверки.</Description>
     <Source Page="151">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5851,7 +5280,6 @@
       <Source Page="42">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5861,7 +5289,6 @@
     <Description>При выполнении действия "Бросок сабли" можно увеличить дальность до дальней дистанции. При атаке цели на дальнем расстоянии потратьте [FP][FP], чтобы оружие вернулось в руку.</Description>
     <Source Page="31">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5873,7 +5300,6 @@
       <Source Page="31">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5883,7 +5309,6 @@
     <Description>Повысьте сложность проверки "светового меча" на 1, чтобы выполнить действие "Размах Сарлакка". Можно потратить [AD][AD], чтобы поразить дополнительные цели.</Description>
     <Source Page="151">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -5916,15 +5341,14 @@
       <Source Page="30">Дополнение: Последователи гармонии</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
-    <Key>SAVY</Key>
+    <Key>SAVVY</Key>
     <Name>Сообразительный</Name>
     <Description>Персонаж добавляет [BO] к проверкам "Обаяния" и "Переговоров" за каждый ранг "Сообразительный".</Description>
     <Source Page="43">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <DieModifiers>
@@ -5948,7 +5372,6 @@
       <Source Page="33">Дополнение: Абсолютная власть</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -5960,7 +5383,6 @@
       <Source Page="155">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -5972,7 +5394,6 @@
       <Source Page="155">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -5983,7 +5404,6 @@
       <Source Page="42">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -5994,7 +5414,6 @@
       <Source Page="42">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6017,7 +5436,6 @@
       <Source Page="42">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <NewSkills>
@@ -6037,11 +5455,7 @@
       <NewSkills>
         <Key>LTSABER</Key>
       </NewSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
     </ChooseCareerSkills>
-    <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>SECRETLORE</Key>
@@ -6085,12 +5499,6 @@
     <Source Page="115">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>SEIZEINIT</Key>
@@ -6098,7 +5506,6 @@
     <Description>Один раз за сессию, в качестве маневра, вы можете сделать проверку "атлетики" со сложностью ([DI][DI][DI]). При успехе другие игроки могут немедленно начать свой ход.</Description>
     <Source Page="35">Дополнение: Закаленные в битве</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -6120,7 +5527,6 @@
       <Source Page="151">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -6134,7 +5540,6 @@
       <Source Page="42">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ForceTalent>true</ForceTalent>
     <ActivationValue>taPassive</ActivationValue>
     <DieModifiers>
@@ -6158,7 +5563,6 @@
     <Description>Один раз за сессию можно добавить [SE][SE] к проверке навыков одного NPC.</Description>
     <Source Page="151">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -6168,7 +5572,6 @@
     <Description>Выполните действие "Чувство событий"; сделав проверку "Внимания" со сложностью ([DI][DI][DI]) и добавьте [FO] не больше, чем ваш рейтинг "Силы". В случае успеха потратьте [FP], чтобы определить эмоциональные характеристики одного человека, вовлеченного в преступление.</Description>
     <Source Page="31">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -6178,7 +5581,6 @@
     <Description>Можно выполнить свободное действие "Разделить боль", когда связанное животное получает "раны". Уменьшите количество полученных "ран" до половины, тогда персонаж получит "раны", равные уменьшенному числу.</Description>
     <Source Page="151">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -6188,7 +5590,6 @@
     <Description>При проверке навыка владения "световым мечом" можно сделать проверку через "Смекалку", а не "Силу (Brawl)".</Description>
     <Source Page="151">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <SkillChars>
@@ -6222,9 +5623,7 @@
       <Source Page="36">Дополнение: Без дезинтеграций</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>SHOWBOAT</Key>
@@ -6232,7 +5631,6 @@
     <Description>При выполнении проверки на звездолете или транспортном средстве вы можете получить 2 "усталости", чтобы получить [TR] при успехе или [DE] при неудаче.</Description>
     <Source Page="33">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6241,7 +5639,6 @@
     <Description>Персонаж может потратить 1 очко "Судьбы", чтобы сделать себя необнаруживаемым с помощью способности "Силы" и сделать свои собственные способности незаметными до конца боя.</Description>
     <Source Page="151">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -6253,7 +5650,6 @@
       <Source Page="42">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -6271,11 +5667,11 @@
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
-    <Key>SIDESTIMP</Key>
+    <Key>SIDESTEPIMP</Key>
     <Name>Боковой шаг (Улучшенное)</Name>
     <Description>Когда персонаж выполняет маневр "Боковой шаг", до начала своего следующего хода он может потратить [TH][TH][TH][TH] или [DE] от проверки боя, направленной на него, чтобы нанести этому атакующему одно попадание из оружия "Дальнего боя (тяжелое оружие)" или "Дальнего боя (легкое оружие)" боя, которым персонаж владеет в данный момент. Попадание наносит базовый урон плюс урон от применимых талантов или способностей. Этот талант не может быть использован, если первоначальная атака вывела персонажа из строя.</Description>
     <Source Page="43">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -6287,7 +5683,6 @@
       <Source Page="35">Дополнение: Особые модификации</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <Rigger>
       <ChooseVehicle>true</ChooseVehicle>
@@ -6308,7 +5703,6 @@
       <Source Page="42">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6317,7 +5711,6 @@
     <Description>Союзники, находящиеся на небольшом расстоянии от транспортного средства, добавляют [BO] к своим проверкам "Внимания" и "Бдительности". Союзники, находящиеся на близком расстоянии, добавляют [BO][BO] вместо этого.</Description>
     <Source Page="156">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6330,7 +5723,6 @@
       <Source Page="152">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <Attributes>
       <DefenseRanged>1</DefenseRanged>
@@ -6379,7 +5771,6 @@
       <Source Page="156">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6407,7 +5798,6 @@
     <Description>Если вы находитесь под действием способности силы, выполните действие "Скользкий разум"; сделав проверку на "обман" со сложностью ([DI][DI][DI]), чтобы немедленно прекратить действие способности силы.</Description>
     <Source Page="152">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -6419,7 +5809,6 @@
       <Source Page="31">Дополнение: Полная оперативность</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -6466,7 +5855,6 @@
       <Source Page="152">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6490,7 +5878,6 @@
       <Source Page="42">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6502,7 +5889,6 @@
       <Source Page="31">Дополнение: Дикие духи</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -6511,7 +5897,6 @@
     <Description>При проверке навыка владения "Световым мечом" персонаж может использовать "Интеллект" вместо "Силы (Brawl)".</Description>
     <Source Page="152">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <SkillChars>
@@ -6530,7 +5915,6 @@
       <Source Page="43">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6551,7 +5935,6 @@
       <Source Page="157">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6560,7 +5943,6 @@
     <Description>После успешной комбинированной проверки с двумя видами оружия "дальнего боя (легкое оружие)" дополнительные попадания могут быть распределены на другие цели в пределах досягаемости оружия.</Description>
     <Source Page="33">Дополнение: Непринужденный полет</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6582,7 +5964,6 @@
     <Description>Управляя дроидом NPC, эти дроиды получают дополнительные [BO] в дополнение к другим преимуществам.</Description>
     <Source Page="35">Дополнение: Особые модификации</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6591,7 +5972,6 @@
     <Description>Один раз за бой можно выполнить маневр "Двоичный код". Несколько NPC дроидов до ранга "Двоичный код" могут использовать ранги персонажа для 1 навыка по выбору персонажа.</Description>
     <Source Page="35">Дополнение: Особые модификации</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -6600,7 +5980,6 @@
     <Description>Используйте действие "Шпора"; сделав проверку на "выживание" со сложностью ([DI][DI][DI]) увеличивая максимальную скорость зверя на 1. Зверь испытывает 2 усталости за каждый раунд, в течение которого он остается под эффектом "Шпоры".</Description>
     <Source Page="33">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -6609,7 +5988,6 @@
     <Description>Получите 1 "усталость" при попытке использовать "Шпору" как маневр и уменьшите его сложность до ([DI][DI]).</Description>
     <Source Page="33">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -6618,7 +5996,6 @@
     <Description>Когда на зверя активируют и поддерживают состояние "Шпоры", он получает только 1 "усталость" вместо 2.</Description>
     <Source Page="33">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6644,19 +6021,19 @@
     </DieModifiers>
   </Talent>
   <Talent>
-    <Key>STANDFRM</Key>
+    <Key>STANDFIRM</Key>
     <Name>Стоять твердо!</Name>
     <Description>Один раз за встречу персонаж может выполнить действие "Стоять твердо!", сделав [B]([DI][DI][DI]) проверку "Лидерства"[b]. Если проверка успешна, персонаж выбирает одного союзника в пределах средней дистанции за каждое [SU], полученное при проверке. До конца встречи выбранные союзники увеличивают свой порог "ран" на величину, равную рангу "Харизмы" персонажа. (Многократное использование этого таланта не суммируется).</Description>
     <Source Page="44">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
-    <Key>STANFIRMIMP</Key>
+    <Key>STANDFIRMIMP</Key>
     <Name>Стоять твердо! (Улучшенное)</Name>
     <Description>Союзники, на которых действует "Стоять твердо!", также увеличивают свой порог "усталости" на величину, равную рангу "Харизмы" персонажа. (Многократное использование этого таланта не суммируется).</Description>
     <Source Page="44">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6666,11 +6043,6 @@
     <Source Page="116">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>STEADYNERVES</Key>
@@ -6701,7 +6073,6 @@
       <Source Page="33">Дополнение: Абсолютная власть</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -6714,7 +6085,6 @@
       <Source Page="33">Дополнение: Абсолютная власть</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6726,7 +6096,6 @@
       <Source Page="157">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6751,7 +6120,6 @@
       <Source Page="152">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6760,7 +6128,6 @@
     <Description>Можно выполнить действие "Стратегическая форма", сделав проверку "светового меча" со сложностью ([DI][DI][DI]) и с броском [FO], не превышающим ваш рейтинг "Силы". В случае успеха 1 цель в пределах короткой дистанции может атаковать персонажа только в течение 1 раунда. Потратьте [FP], чтобы продлить эффект для 1 цели на 1 раунд.</Description>
     <Source Page="152">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -6773,7 +6140,6 @@
       <Source Page="157">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6785,7 +6151,6 @@
       <Source Page="157">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6820,7 +6185,6 @@
       <Source Page="36">Дополнение: Без дезинтеграций</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -6829,9 +6193,7 @@
     <Description>Когда персонаж делает проверку навыка "Уличная интуиция" или "Выживание", чтобы ориентироваться в мире, он может использовать "Интеллект" вместо "Смекалки".</Description>
     <Source Page="31">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>STUNBL</Key>
@@ -6842,7 +6204,6 @@
       <Source Page="157">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6854,7 +6215,6 @@
       <Source Page="157">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -6863,16 +6223,15 @@
     <Description>Можно потратить [TR] или [AD][AD] при успешной проверке "светового меча", чтобы обезоружить противника.</Description>
     <Source Page="152">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
-    <Key>SUMMITEM</Key>
+    <Key>SUMMONITEM</Key>
     <Name>Призыв предмета</Name>
     <Description>Когда персонаж приобретает этот талант, выберите один принадлежащий ему предмет с "нагрузкой" 4 или меньше. В качестве маневра персонаж может призвать этот предмет в свою руку или сбросить его с руки обратно в глубины Датомира, независимо от местоположения персонажа. Один раз за сессию персонаж может потратить один час на церемониальную подготовку другого предмета для вызова. За один раз персонаж может подготовить только один предмет.</Description>
     <Source Page="44">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -6883,7 +6242,6 @@
       <Source Page="30">Дополнение: Последователи гармонии</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -6892,7 +6250,6 @@
     <Description>Один раз за сессию, после получения [DE] при проверке "пилотирования", отмените [DE] и добавьте [SU], равное рангу "Хладнокровия".</Description>
     <Source Page="31">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -6925,12 +6282,6 @@
     <Source Page="115">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Incidental</Activation>
   </Talent>
   <Talent>
     <Key>SUPREF</Key>
@@ -6941,7 +6292,6 @@
       <Source Page="157">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <Attributes>
       <DefenseMelee>1</DefenseMelee>
@@ -6966,22 +6316,16 @@
     <Description>Один раз за сессию при выполнении одной проверки персонаж может считать свой рейтинг "Силы" равным рангу "Выживания".</Description>
     <Source Page="31">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
   <Talent>
-    <Key>SURVINS</Key>
+    <Key>SURVINST</Key>
     <Name>Инстинкты выживания</Name>
     <Description>Один раз за сессию, когда персонаж получает "критическую травму", потратьте 1 очко "Судьбы". Затем атакующий должен бросить два результата для "критической травмы", а игрок выбирает, какой из них будет применен к его персонажу.</Description>
     <Source Page="21">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>SWIFT</Key>
@@ -6993,7 +6337,6 @@
       <Source Page="153">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -7004,7 +6347,6 @@
       <Source Page="43">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -7015,21 +6357,15 @@
       <Source Page="43">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
-    <Key>TACTEVAS</Key>
+    <Key>TACTEVA</Key>
     <Name>Тактическое уклонение</Name>
     <Description>Повышает сложность проверок "дальнего боя", направленных на персонажа, в несколько раз, равных количеству маневров, которые он совершил для перемещения в течение этого раунда.</Description>
     <Source Page="21">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>TACTPLAN</Key>
@@ -7038,11 +6374,6 @@
     <Source Page="21">Дополнение: Падение Ресублики</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
   </Talent>
   <Talent>
     <Key>TACTTRAIN</Key>
@@ -7050,10 +6381,8 @@
     <Description>Навыки "ближнего боя" и "дальнего боя (тяжелое оружие)" становятся карьерными навыками.</Description>
     <Source Page="158">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
-      <SkillCount>0</SkillCount>
       <NewSkills>
         <Key>MELEE</Key>
         <Key>RANGHVY</Key>
@@ -7069,7 +6398,6 @@
       <Source Page="31">Дополнение: Бесконечное бдение</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -7081,7 +6409,6 @@
       <Source Page="158">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -7091,12 +6418,6 @@
     <Source Page="116">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Action</Activation>
   </Talent>
   <Talent>
     <Key>TECHAPT</Key>
@@ -7118,7 +6439,6 @@
       <Source Page="43">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -7129,28 +6449,7 @@
     <Source Page="116">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidental</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
     <ForceTalent>true</ForceTalent>
-    <Activation>Incidental</Activation>
-  </Talent>
-  <Talent>
-    <Key>TENACIOUS</Key>
-    <Name>Упорный</Name>
-    <Description>Увеличьте количество преимуществ, необходимых для критического попадания в цель, в несколько раз, равных рангам "Упорный". Также уменьшите результат критического ранения на 10 за ранг "Упорный".</Description>
-    <Source>User Data</Source>
-    <Custom>AddedItem</Custom>
-    <Ranked>true</Ranked>
-    <ActivationValue>taPassive</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Passive</Activation>
   </Talent>
   <Talent>
     <Key>TERRIFY</Key>
@@ -7158,7 +6457,6 @@
     <Description>Используйте действие "Ужас" сделав проверку "Запугивания" со сложностью ([DI][DI][DI]), добавив [FO] не больше, чем ваш рейтинг "Силы". Дезориентируйте одну цель на средней дистанции за [SU]. Потратьте [AD][AD], чтобы увеличить продолжительность действия, и потратьте [FP], чтобы обездвижить пораженную цель.</Description>
     <Source Page="153">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -7169,7 +6467,6 @@
     <Description>Уменьшите сложность проверки "Ужас" до ([DI][DI]), и вы можете потратить [TR], чтобы ошеломить пораженную цель.</Description>
     <Source Page="153">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -7179,7 +6476,6 @@
     <Description>Персонаж может потратить 1 очко "Судьбы" на выполнение маневра "Ужасающее убийство" сразу после проведения успешной атаки, когда цель выведена из строя или получает "критическую травму" (персонаж все еще должен быть в состоянии выполнять маневры и не может выполнить более двух маневров за ход). Персонаж делает бросок [FO], не превышающее его рейтинг "Силы", и может потратить [FP], чтобы добавить 1 "усталость" любому другому персонажу в пределах короткой дистанции, это можно сделать несколько раз. Персонаж, получивший этот талант, автоматически получает 1 "конфликт" в начале игровой сессии.</Description>
     <Source Page="31">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <Conflict>1</Conflict>
@@ -7194,11 +6490,11 @@
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
-    <Key>THERETRY</Key>
+    <Key>NOTRY</Key>
     <Name>Попытка не пытка</Name>
     <Description>Один раз за сессию перед тем, как союзник бросит кубики для проверки, персонаж может потратить очко "Судьбы", чтобы позволить союзнику автоматически преуспеть в проверке с одним [SU] и никакими другими результатами.</Description>
     <Source Page="44">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -7208,7 +6504,6 @@
     <Description>Один раз за сессию выполните действие "Тщательная оценка": сделав проверку знаний со сложностью ([DI][DI][DI]), чтобы получить кубики преимущества, равные [SU], которые можно распределить во время боя.</Description>
     <Source Page="34">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -7217,9 +6512,7 @@
     <Description>В начале сессии потратьте 100 кредитов, чтобы игнорировать штраф к порогу "усталости" из-за сработавшего "Обязательства".</Description>
     <Source Page="33">Дополнение: Далекие горизонты</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>TIME2GO</Key>
@@ -7227,7 +6520,6 @@
     <Description>Персонаж может потратить 1 очко "Судьбы" на выполнение маневра "Перемещение", чтобы попытаться переместиться в укрытие или выйти из зоны поражения оружия или взрыва.</Description>
     <Source Page="158">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -7236,7 +6528,6 @@
     <Description>Используя маневр "Пора валить", позвольте 1 союзнику выполнить маневр "Перемещение" вне очереди, чтобы попытаться переместиться в укрытие или выйти из зоны поражения оружия или взрыва.</Description>
     <Source Page="158">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -7254,11 +6545,11 @@
     <AddlHP>1</AddlHP>
   </Talent>
   <Talent>
-    <Key>TOTHEDTH</Key>
+    <Key>TOTHEDEATH</Key>
     <Name>На смерть!</Name>
     <Description>Один раз за сессию персонаж может совершить маневр "На смерть!", получив "Усталость", не превышающую его рейтинг "Воли". За каждую полученную таким образом "Усталость" добавьте +10 к броскам "критических повреждений", которые персонаж наносит и получает до конца встречи.</Description>
     <Source Page="44">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
   <Talent>
@@ -7271,7 +6562,6 @@
       <Source Page="153">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -7299,9 +6589,7 @@
       <Source Page="31">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>TRANSERR</Key>
@@ -7311,7 +6599,6 @@
       <Source Page="43">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -7322,7 +6609,6 @@
       <Source Page="33">Дополнение: Абсолютная власть</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
     <DieModifiers>
@@ -7347,7 +6633,6 @@
       <Source Page="153">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -7369,12 +6654,6 @@
     <Source Page="116">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taAction</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>Action</Activation>
   </Talent>
   <Talent>
     <Key>TRUSTNO</Key>
@@ -7383,12 +6662,6 @@
     <Source Page="116">Дополнение: Рассвет восстания</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
-    <ChooseCareerSkills>
-      <ChooseByType>true</ChooseByType>
-      <TypeValue>stGeneral</TypeValue>
-      <Type>General</Type>
-    </ChooseCareerSkills>
-    <Activation>OOT Incidental</Activation>
   </Talent>
   <Talent>
     <Key>TUNEDTHRUST</Key>
@@ -7416,7 +6689,6 @@
       <Source Page="33">Дополнение: Абсолютная власть</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
   <Talent>
@@ -7428,7 +6700,6 @@
       <Source Page="31">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -7477,7 +6748,6 @@
     <Description>Если проваленная проверка боя приносит [TR] или [AD][AD][AD], вы можете потратить это на способность "Силы", направленную на союзников.</Description>
     <Source Page="153">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -7490,7 +6760,6 @@
       <Source Page="31">Дополнение: Бесконечное бдение</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -7499,9 +6768,7 @@
     <Description>Если проверка на "Обман" провалилась, вы можете потратить 1 очко "Судьбы", чтобы добавить [DE] к результату.</Description>
     <Source Page="33">Дополнение: Далекие горизонты</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
-    <JuryRigged>false</JuryRigged>
   </Talent>
   <Talent>
     <Key>UNSTOP</Key>
@@ -7512,7 +6779,6 @@
       <Source Page="31">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -7534,7 +6800,6 @@
       <Source Page="43">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -7545,7 +6810,6 @@
       <Source Page="43">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
   <Talent>
@@ -7568,7 +6832,6 @@
       <Source Page="31">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -7582,9 +6845,7 @@
       <Source Page="43">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
-    <ForceTalent>false</ForceTalent>
   </Talent>
   <Talent>
     <Key>VEHTRAIN</Key>
@@ -7592,10 +6853,8 @@
     <Description>"Артиллерия" и "пилотирование (планетарное)" становятся карьерными навыками.</Description>
     <Source Page="159">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
-      <SkillCount>0</SkillCount>
       <NewSkills>
         <Key>GUNN</Key>
         <Key>PILOTPL</Key>
@@ -7608,7 +6867,6 @@
     <Description>Персонаж может потратить 1 очко "Судьбы", чтобы добавить урон, равный его рангу в "Уличной интуиции", к одному удару успешной проверки "Грубой силы".</Description>
     <Source Page="33">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -7619,7 +6877,6 @@
       <Source Page="31">Дополнение: Полная оперативность</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
   <Talent>
@@ -7628,7 +6885,6 @@
     <Description>Выберите любые 3 навыка "Знания". Они навсегда становятся карьерными навыками.</Description>
     <Source Page="34">Дополнение: Лидерство на примере</Source>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
       <SkillCount>3</SkillCount>
@@ -7662,10 +6918,8 @@
       <Source Page="30">Дополнение: Последователи гармонии</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <ChooseCareerSkills>
-      <SkillCount>0</SkillCount>
       <NewSkills>
         <Key>CORE</Key>
         <Key>OUT</Key>
@@ -7692,7 +6946,6 @@
       <Source Page="43">Дополнение: Восстание сепаратистов</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
   </Talent>
@@ -7704,7 +6957,6 @@
       <Source Page="30">Дополнение: Последователи гармонии</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
@@ -7715,15 +6967,14 @@
       <Source Page="30">Дополнение: Последователи гармонии</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
   <Talent>
-    <Key>WITCHCRFT</Key>
+    <Key>WITCHCRAFT</Key>
     <Name>Ведьмовство</Name>
     <Description>Персонаж получает рейтинг "Силы", равный 1. Если у персонажа уже есть рейтинг "Силы", равный 1 или выше, эффекта не будет.</Description>
     <Source Page="44">Дополнение: Падение Ресублики</Source>
-    <Custom>AddedItem</Custom>
+    <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <Attributes>
       <ForceRating>1</ForceRating>
@@ -7738,7 +6989,6 @@
       <Source Page="33">Дополнение: Непринужденный полет</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Ranked>false</Ranked>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
 </Talents>

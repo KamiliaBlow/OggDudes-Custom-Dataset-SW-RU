@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
-  <Key>NIGHTSIS</Key>
+  <Key>NIGHTSISTER</Key>
   <Name>Сестра ночи</Name>
   <Description>[H4]Сестра ночи[h4]
 Секта, известная как Сестры ночи, изучает Силу совсем не так, как джедаи или даже ситхи. Уникальный магический ихор на Датомире наделяет силой и мудростью тех, кто достаточно силен - или же жесток - чтобы овладеть им. В целом, Сестры ночи укрепляют и накапливают силу как с помощью алхимии и магии, так и благодаря уверенности в себе и личной силе.
@@ -10,7 +10,7 @@
 [P]У клана Матери Талзин есть разновидность подвесных гробов. Мертвых запечатывают и зашивают в большие кожаные капсулы, свисающие с деревьев, что означает возрождение, постоянное присутствие смерти и интеграцию в экосистему. С практикой Сестра ночи может общаться с мертвыми, обретая мудрость и даже вызывая их в материальный мир. В этом и во всем остальном Сестры ночи интегрируют свои Магические способности в свои культурные обычаи и используют их для обеспечения своего выживания.
 [P]Отражая свой индивидуализм и принятие борьбы как необходимой части жизни и смерти, Сестры ночи получают профессиональные навыки [B]Выдержка, Знания (Легенды), Скрытность[b], и [B]Выживание[b].</Description>
   <Source Page="30">Дополнение: Падение Ресублики</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>DISC</Key>
     <Key>LORE</Key>
@@ -21,8 +21,8 @@
     <TalentRow>
       <Cost>5</Cost>
       <Talents>
-        <Key>WITCHCRFT</Key>
-        <Key>SUMMITEM</Key>
+        <Key>WITCHCRAFT</Key>
+        <Key>SUMMONITEM</Key>
         <Key>GRIT</Key>
         <Key>EXTRACK</Key>
       </Talents>
@@ -45,7 +45,7 @@
       <Cost>10</Cost>
       <Talents>
         <Key>SENSEADV</Key>
-        <Key>ICHBLADE</Key>
+        <Key>ICHORBLADE</Key>
         <Key>INTIM</Key>
         <Key>TOUGH</Key>
       </Talents>
@@ -72,7 +72,7 @@
       <Cost>15</Cost>
       <Talents>
         <Key>BAL</Key>
-        <Key>ICHBLDIMP</Key>
+        <Key>ICHORBLADEIMP</Key>
         <Key>GRIT</Key>
         <Key>SIXSENSE</Key>
       </Talents>
@@ -100,9 +100,9 @@
     <TalentRow>
       <Cost>20</Cost>
       <Talents>
-        <Key>COVN</Key>
-        <Key>ICHTRANS</Key>
-        <Key>SURVINS</Key>
+        <Key>COVEN</Key>
+        <Key>ICHORTRANS</Key>
+        <Key>SURVINST</Key>
         <Key>INTIM</Key>
       </Talents>
       <Directions>

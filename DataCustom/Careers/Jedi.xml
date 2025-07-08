@@ -24,8 +24,8 @@
   <Specializations>
     <Key>JEDIKNIGHT</Key>
     <Key>PADAWAN</Key>
-    <Key>JEDIGEN</Key>
-    <Key>JEDIMASTER</Key>
+    <Key>GENERAL</Key>
+    <Key>MASTER</Key>
   </Specializations>
   <Attributes>
     <ForceRating>1</ForceRating>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Specialization>
-  <Key>JEDIMASTER</Key>
+  <Key>MASTER</Key>
   <Name>Джедай: Мастер</Name>
   <Description>[H4]Джедай: Мастер[h4]
 Джедай не может игнорировать связующий принцип, объединяющий галактику, особенно во время войны. В то время как гражданский может не видеть никакой пользы в молчаливом созерцании Силы, Мастер понимает, что мудрость может прийти отовсюду. Хотя звание «Мастер» требует одобрения Совета джедаев, эта специализация охватывает общую мудрость, самоанализ и владение Силой. Настоящему Мастеру-джедаю не требуется формальный титул. Сила признает их способности.
 [P]Мастера получают карьерные навыки [B]Обаяние, Знания (Центральные Миры), Знания (Образование), и Внимание[b]. Эти навыки отражают внутренний контроль Мастера и его стремление к знаниям и самопониманию. Они также представляют собой ответственность Мастера за обучение джедаев и неджедаев тому, как понимать себя и действовать в соответствии с этим знанием. Мастера медитируют, наставляют, раньше занимались в классах или неформально общались, искали древние тексты.</Description>
   <Source Page="27">Дополнение: Падение Ресублики</Source>
-  <Custom>AddedItem</Custom>
+  <Custom>CustomItem</Custom>
   <CareerSkills>
     <Key>CHARM</Key>
     <Key>CORE</Key>
@@ -73,7 +73,7 @@
     <TalentRow>
       <Cost>15</Cost>
       <Talents>
-        <Key>FLOWTHINGS</Key>
+        <Key>FLOWALL</Key>
         <Key>FORCEALLY</Key>
         <Key>SUMDJEM</Key>
         <Key>CENTBEINGIMP</Key>
@@ -103,8 +103,8 @@
     <TalentRow>
       <Cost>20</Cost>
       <Talents>
-        <Key>BOUNDTOG</Key>
-        <Key>POWERALLY</Key>
+        <Key>BOUNDTO</Key>
+        <Key>POWALLY</Key>
         <Key>DEDI</Key>
         <Key>FOREWARN</Key>
       </Talents>
@@ -129,10 +129,10 @@
     <TalentRow>
       <Cost>25</Cost>
       <Talents>
-        <Key>MASTERORDER</Key>
-        <Key>THERETRY</Key>
+        <Key>MASTORDER</Key>
+        <Key>NOTRY</Key>
         <Key>FORCERAT</Key>
-        <Key>CENTERSUPR</Key>
+        <Key>CENTBEINGSUP</Key>
       </Talents>
       <Directions>
         <Direction>
