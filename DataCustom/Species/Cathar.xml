@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>CATHAR</Key>
-  <Name>Cathar</Name>
+  <Name>Катар</Name>
   <Description>
-    [H4]Cathar[h4]
+    [H4]Катар[h4]
 
-The Cathar are a species of feline, bipedal humanoids native to Cathar, a planet of savannas and rough uplands. They are known for their loyalty, passion, and temper. Quick and powerful, they are considered great warriors and dedicated, efficient predators. Cathar have high moral values, learned from both family and society. Their females are prized as slaves, whereas the males are generally regarded as too uncontrollable for slavery.
+Катары - вид кошачьих, двуногих гуманоидов, обитающих на планете Катар, планете саванн и суровых возвышенностей. Они известны своей преданностью, страстью и вспыльчивостью. Быстрые и сильные, они считаются отличными воинами и преданными, эффективными хищниками. У катаров высокие моральные ценности, усвоенные как в семье, так и в обществе. Их самки ценятся как рабыни, в то время как самцы обычно считаются слишком неуправляемыми для рабства.
 
-[P][B]Physiology:[b]The baseline Cathar has fur-covered bodies with thick manes. They have prominent, retractable claws that can deliver powerful killing attacks on foes and prey. Their bodies also possess rapid healing abilities. On average, Cathar are 1.5 to 1.9 meters tall. These traits make them the perfect hand-to-hand specialists.
+[P][B]Физиология:[b]У обычных катаров покрытое мехом тело с густой гривой. У них ярко выраженные втягивающиеся когти, способные наносить мощные удары по врагам и добыче. Их тела также обладают способностью к быстрому исцелению. В среднем рост катаров составляет от 1,5 до 1,9 метра. Эти черты делают их идеальными специалистами по рукопашному бою.
 
-[P]The Cathar species also had two additional subspecies, known as the Juhani and the Myr Rho. Both of these are notably less catlike than mainline Cathar. Cathar are born into a litter.
+[P]В расе катаров есть еще два подвида, известные как Юхани и Мир'Ро. Оба они заметно менее похожи на кошек, чем обычные катары. Катары рождаются в помете.
 
-[P][B]Society:[b] On their homeworld, Cathar live in cities built into giant trees, and are organized into clans governed by "Elders." Stories of their great heroes are often carved into the trunks of these tree-homes for following generations to see. The Cathar mate for life, to the extent that when one mate dies, the survivor never has a relationship with another. Cathar clan society includes great pageants and celebrations, especially for their heroes. Their religion includes a ritual known as the "Blood Hunt," in which Cathar warriors individually engage in combat against entire nests of Kiltik in order to gain honor and purge themselves of inner darkness.
+[P][B]Общество:[b] На своей родной планете катары живут в городах, построенных в гигантских деревьях, и объединены в кланы, которыми управляют "старейшины". Истории их великих героев часто вырезаются на стволах этих деревьев-домов для последующих поколений. Катары однолюбы, и если один из них умирает, то оставшийся в живых никогда не вступает в отношения с другим. Общество клана катаров включает в себя грандиозные представления и празднования, особенно в честь своих героев. Их религия включает ритуал, известный как "Кровавая охота", в котором воины-катары в одиночку вступают в бой с целыми гнездами Килтиков, чтобы обрести честь и очистить себя от внутренней тьмы.
 
-[P][B]Homeworld:[b] Cathar is the homeworld of the Cathar species, filled with many ecological niches and huge insect predators. The natives live in city-trees, while wide areas of the planet are made barren by kiltik beetles. The Giant horned hopper are often killed  by the Cathar species in blood hunts.
+[P][B]Родной мир:[b] Катар - родная планета расы Катаров, заполненная множеством экологических ниш и огромными хищными насекомыми. Туземцы живут в городах-деревьях, в то время как обширные территории планеты бесплодны из-за жуков-килтиков. Гигантские рогатые попрыгунчики часто убиваются представителями рода Катаров во время кровавых охот.
 
-[P][B]Language:[b] The native language of the Cathar was Catharese, which included the emphasis of some spoken words with a growl.</Description>
-  <Source>Unofficial Species Menagerie</Source>
+[P][B]Язык:[b] Родной язык катаров - катарский, на котором некоторые слова произносятся с рычанием.</Description>
+  <Source>Неофициальный зверинец видов</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -45,12 +45,12 @@ The Cathar are a species of feline, bipedal humanoids native to Cathar, a planet
   <OptionChoices>
     <OptionChoice>
       <Key>CATHABSK</Key>
-      <Name>Skills</Name>
+      <Name>Навыки</Name>
       <Options>
         <Option>
           <Key>CATHSKCH</Key>
-          <Name>One Rank in Athletics</Name>
-          <Description>Cathar may begin the game with one rank in Athletics.</Description>
+          <Name>Ранг в Атлетике</Name>
+          <Description>Катар начинает игру с одним рангом "Атлетики".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>ATHL</Key>
@@ -60,8 +60,8 @@ The Cathar are a species of feline, bipedal humanoids native to Cathar, a planet
         </Option>
         <Option>
           <Key>CATHSKDEC</Key>
-          <Name>One Rank in Stealth</Name>
-          <Description>Cathar may begin the game with one rank in Stealth.</Description>
+          <Name>Ранг в Скрытности</Name>
+          <Description>Катар начинает игру с одним рангом "Скрытности".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>STEAL</Key>
@@ -73,17 +73,12 @@ The Cathar are a species of feline, bipedal humanoids native to Cathar, a planet
     </OptionChoice>
     <OptionChoice>
       <Key>CATHAB1</Key>
-      <Name>Claws</Name>
+      <Name>Когти</Name>
       <Options>
         <Option>
           <Key>CATHAB1CLAW</Key>
-          <Name>May use claws when brawling</Name>
-          <Description>
-            When a Cathar makes a
-            Brawl check to deal damage to an opponent,
-            their attack deals +1 point of damage and has
-            a Crit Rating of 3.
-          </Description>
+          <Name>Может использовать когти в бою</Name>
+          <Description>Когда Катар делает проверку "Грубой силы", чтобы нанести урон противнику, его атака наносит +1 очко урона и имеет крит. рейтинг 3.</Description>
         </Option>
       </Options>
     </OptionChoice>  </OptionChoices>

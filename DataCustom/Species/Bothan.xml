@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>BOTH</Key>
-  <Name>Bothan</Name>
+  <Name>Ботан</Name>
   <Description>
-    [H4]Bothans[h4]
+    [H4]Ботан[h4]
 
-Bothans are the galaxy's information brokers. Adept at picking up on secrets or seeing things other species ignore, Bothans can be valuable assets in any endeavor—or untrustworthy partners.
+Ботаны - информационные брокеры галактики. Способные выведать секреты или увидеть то, на что другие виды не обращают внимания, ботаны могут стать ценными помощниками в любом деле или ненадежными партнерами.
 
-[P][B]Physiology:[b] Bothans have highly attuned senses which aid in gathering and relaying information. The noses at the end of their tapered snouts can distinguish many smells, and their eyes have an extended range of focus. They possess ears double the size of most species and can rotate and bend them to pick up directional sounds. Standing on average 1.6 meters, their small size allows Bothans to often go unnoticed and slip through cracks that would never fit a human. Their greatest asset is their fur. They can communicate with other Bothans by rippling their fur, demonstrating changes in mood and conveying more specific intimations in a code.
+[P][B]Физиология:[b] У ботанов очень развиты органы чувств, которые помогают им собирать и передавать информацию. Носы, расположенные на конце конической морды, способны различать множество запахов, а их глаза имеют расширенный диапазон фокусировки. Уши у них вдвое больше, чем у большинства видов, и они могут поворачивать и изгибать их, чтобы улавливать направленные звуки. При среднем росте в 1,6 метра ботаны часто остаются незамеченными и проскальзывают в такие щели, в которые человек никогда бы не пролез. Их главное достоинство - мех. Они могут общаться с другими ботанами с помощью пульсации меха, демонстрируя изменения в настроении и передавая более конкретные намеки в виде кода.
 
-[P][B]Society:[b] Every layer of Bothan society is based on the acquisition, manipulation, and utilization of knowledge. Sometimes likened to the Hutts and Twi'leks, Bothans take such comparisons as an insult. Prestige, not wealth, motivates them. A Bothan's reputation is, at the end of the day, all he has. The Bothan Council governs the Bothan worlds. The major clans all have one representative in the Council, which then elects the Council Chief. Bothans shun outright confrontation. Information is their weapon, and Bothans play secrets like a Corellian plays sabacc: the truth is the ace up their sleeve.
+[P][B]Общество:[b] Каждый слой ботанского общества основан на приобретении, манипулировании и использовании знаний. Ботанцев иногда сравнивают с хаттами и тви'леками, но они воспринимают такие сравнения как оскорбление. Ими движет не богатство, а престиж. Репутация ботана - это, в конце концов, все, что у него есть. Ботанский совет управляет ботанскими мирами. Все основные кланы имеют по одному представителю в Совете, который затем избирает Главу Совета. Ботаны избегают открытой конфронтации. Информация - их оружие, и ботанцы играют в секреты, как кореллиане в сабакк: правда - это туз в их рукаве.
 
-[P]The Bothans operate the most elaborate and extensive intelligence network across the galaxy. This "spynet" works through moles, provocateurs, sleepers, and drop-offs which transfer information down a clandestine web to the Bothan spymasters. Though the spynet hubs on Bothawui are Bothan-run, the majority of its "placed" agents are foreign species.
+[P]Ботаны управляют самой сложной и обширной разведывательной сетью во всей галактике. Эта &laquo;шпионская сеть&raquo; работает через кротов, провокаторов, спящих и подставных лиц, которые передают информацию по тайной паутине ботанским шпикам. Несмотря на то, что узлы &laquo;шпионской сети&raquo; на Ботавуи управляются ботанцами, большинство внедренных агентов - инопланетяне.
 
-[P][B]Homeworld:[b] Bothans hail from Bothawui, a temperate world in the Mid Rim. They have also established major colonies on Kothlis and Torolis.
+[P][B]Родной мир:[b] Ботаны родом из Ботавуи, мира с умеренным климатом в Срединном кольце. Они также основали крупные колонии на Котлисе и Торолисе.
 
-[P][B]Language:[b] Bothese is the native tongue of the Bothans and Botha is its written form. Almost all Bothans are fully fluent in Basic. Wrendui, which in Bothese means the nonverbal cues and emotions a Bothan can communicate through his fur, has many coded forms that a spectator can translate into explicit information if the cipher is known. Well-trained Bothan spies can switch between different forms of wrendui in a single ripple of their fur.</Description>
+[P][B]Язык:[b] Ботезе - родной язык ботанцев, а Бота - его письменная форма. Почти все ботаны в совершенстве владеют базовым языком. Врендуй, что на ботезе означает невербальные сигналы и эмоции, которые ботан может передавать через свой мех, имеет множество закодированных форм, которые зритель может перевести в явную информацию, если знает шифр. Хорошо обученные ботанские шпионы могут переключаться между различными формами врендуя одним взмахом своего меха.</Description>
   <Sources>
-    <Source Page="43">Edge of the Empire Core Rulebook</Source>
-    <Source Page="51">Age of Rebellion Core Rulebook</Source>
+    <Source Page="43">Книга правил: Край Империи</Source>
+    <Source Page="51">Книга правил: Эпоха восстания</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <StartingChars>

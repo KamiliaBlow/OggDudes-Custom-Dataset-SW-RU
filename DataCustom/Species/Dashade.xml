@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>DASHADE</Key>
-  <Name>Dashade</Name>
+  <Name>Дашад</Name>
   <Description>
-    [H4]Dashade[h4]
+    [H4]Дашад[h4]
 
-The Dashade are tall, reptilian humanoids notable for their resistance to the powers of the Force.
+Дашады - высокие гуманоиды-рептилии, отличающиеся невосприимчивостью к Силе.
 
-[P][B]Physiology:[b] Dashade are tall reptilians with dark skin, lamprey-like mouths, and powerful claws. In addition to their partial Force-resistance, they are resistant to radiation. They also have an ability to dissipate heat which made them hard to detect using standard life-form sensors.
+[P][B]Физиология:[b] Дашады - высокие рептилии с темной кожей, пастью, похожей на миногу, и мощными когтями. Помимо частичной устойчивости к Силе, они устойчивы к радиации. Они также обладают способностью рассеивать тепло, благодаря чему их трудно обнаружить с помощью стандартных датчиков жизненных форм.
 
-[P][B]Society:[b] Thanks to their Force-immunity, Dashade warriors easily found employment as combat instructors for the Jedi and assassins for the Sith. They also use their natural abilities to their advantage as elite assassins, mercenaries, and among similar professions.
+[P][B]Общество:[b] Благодаря невосприимчивости к Силе воины Дашады легко находят работу в качестве боевых инструкторов у джедаев и наемных убийц у ситхов. Они также используют свои природные способности в качестве элитных убийц, наемников и представителей других подобных профессий.
 
-[P][B]Homeworld:[b] Urkupp was a planet located within the Urkupp system of the Outer Rim Territories. The homeworld of the Dashade race, Urkupp was destroyed in 3,996 BBY by the creation of the Cron Drift during the Great Sith War. However the Dashade survived by having offworld colonies.
+[P][B]Родной мир:[b] Уркупп - планета, расположенная в системе Уркупп Территорий Внешнего кольца. Родной мир расы Дашад, Уркупп был уничтожен в 3996 ДБЯ нашей эры в результате создания Крон Дрифта во время Великой войны ситхов. Однако Дашады выжили, имея колонии за пределами планеты.
 
-[P][B]Language:[b] Dashadi was the official language of Urkupp. It was used by the planet's native species, the Dashades.  As Dashadi has never been a widely-used language beyond Urkupp, its speakers have increasingly seen  the advantages of using Basic to communicate with other species.</Description>
-  <Source>Unofficial Species Menagerie</Source>
+[P][B]Язык:[b] Дашади был официальным языком Уркуппа. Его использовали представители коренного населения планеты - дашады. Поскольку дашади никогда не был широко распространенным языком за пределами Уркуппа, его носители все больше убеждались в преимуществах использования бейсика для общения с другими видами.</Description>
+  <Source>Неофициальный зверинец видов</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -40,12 +40,12 @@ The Dashade are tall, reptilian humanoids notable for their resistance to the po
   <OptionChoices>
     <OptionChoice>
       <Key>DASHABSK</Key>
-      <Name>Skills</Name>
+      <Name>Навыки</Name>
       <Options>
         <Option>
           <Key>DASHSKCO</Key>
-          <Name>One Rank in Coercion</Name>
-          <Description>Dashade may begin the game with one rank in Coercion.</Description>
+          <Name>Ранг в Запугивании</Name>
+          <Description>Дашад начинает игру с одним рангом в "Запугивании".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>COERC</Key>
@@ -55,8 +55,8 @@ The Dashade are tall, reptilian humanoids notable for their resistance to the po
         </Option>
         <Option>
           <Key>DASHSKVI</Key>
-          <Name>One Rank in Vigilance</Name>
-          <Description>Dashade may begin the game with one rank in Vigilance.</Description>
+          <Name>Ранг в Бдительность</Name>
+          <Description>Дашад начинает игру с одним рангом в "Бдительности".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>VIGIL</Key>
@@ -68,16 +68,12 @@ The Dashade are tall, reptilian humanoids notable for their resistance to the po
     </OptionChoice>
     <OptionChoice>
       <Key>DASHAB2</Key>
-      <Name>Resistance</Name>
+      <Name>Сопротивление</Name>
       <Options>
         <Option>
           <Key>DASHAB2RES</Key>
-          <Name>Force Resistance</Name>
-          <Description>
-            Upgrade the difficulty of
-            Discipline checks to affect a Dashade with a
-            Force power or talent by one.
-          </Description>
+          <Name>Сопротивление силе</Name>
+          <Description>Повышает сложность входящих проверок "Выдержки", чтобы повлиять на Дашада с помощью "Силы" или таланта, на 1.</Description>
         </Option>
       </Options>
     </OptionChoice>
