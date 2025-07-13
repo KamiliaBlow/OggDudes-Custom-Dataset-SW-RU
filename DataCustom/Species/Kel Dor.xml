@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>KELDOR</Key>
-  <Name>Kel Dor</Name>
+  <Name>Кел-дор</Name>
   <Description>
-    [H4]Kel Dor[h4]
+    [H4]Кел-дор[h4]
 
-Best known as a kindly and soft-spoken species, Kel Dors are most easily identified by the protective eye-wear and rebreather masks that they must wear when outside of their native environment. In spite of Kel Dors' gentle natures, they are renowned for their sense of justice and willingness to enforce it with great prejudice.
+Кел-доров легко узнать по защитным очкам и респираторным маскам, которые они надевают, находясь вне родной среды. Несмотря на мягкость натуры Кел-доров, они славятся своим чувством справедливости и готовностью исполнять его с особой жестокостью.
 
-[P][B]Physiology:[b] Near-hairless humanoid mammals, Kel Dors average 1.7 meters in height. Their respiratory systems are well adapted to Dorin's unusual atmosphere of helium and unique gas compounds, so that they must make use of filtration masks in order to survive in other environments. This, combined with innate toughness. does allow them to survive hard vacuum for a short time, an extraordinarily useful ability.
+[P][B]Физиология:[b] Почти безволосые человекоподобные млекопитающие, Кел-доры в среднем достигают 1,7 метра в высоту. Их дыхательная система хорошо приспособлена к необычной атмосфере Дорина, состоящей из гелия и уникальных газовых соединений, поэтому для выживания в других средах им приходится пользоваться фильтрующими масками. Это, в сочетании с врожденной выносливостью, позволяет им на короткое время выживать в жестком вакууме, что является чрезвычайно полезной способностью.
 
-[P]Similarly, they wear protective and enhancing goggles because their black eyes are sensitized to the dim light and unusual atmospheric conditions of Dorin. A highly developed extrasensory organ is located at the back of the Kel Dor skull. tightly linked to the brain. Kel Dor skin tone ranges from a pale orange to a dark red.
+[P]Кроме того, они носят защитные и улучшающие очки, потому что их черные глаза чувствительны к тусклому свету и необычным атмосферным условиям Дорина. В задней части черепа Кел-дора расположен высокоразвитый экстрасенсорный орган, тесно связанный с мозгом. Цвет кожи Кел-дора варьируется от бледно-оранжевого до темно-красного.
 
-[P][B]Society:[b] Kel Dors are tightly linked into their extended families. Several generations of a family often live together by choice. This offers an opportunity to share responsibility for the extended family's younglings and ease in consulting the family's elders for advice. Often, entire families share a common career, which can lead to family-owned businesses that span successive generations.
+[P][B]Общество:[b] Кел-доры тесно связаны со своими расширенными семьями. Несколько поколений одной семьи часто живут вместе по собственному желанию. Это дает возможность разделить ответственность за малышей и легко обращаться за советом к старшим. Часто все семьи делают общую карьеру, что может привести к созданию семейного бизнеса, которым владеют несколько поколений.
 
-[P]Technological advancement drives Kel Dor society strongly. Due to its own specialized needs, the species has become particularly adept at designing environmental systems. These include individual and large-scale systems suited to a wide variety of environments.
+[P]Технологический прогресс движет обществом Кел-дора. Благодаря своим специализированным потребностям вид стал особенно искусен в создании экологических систем. Среди них есть индивидуальные и масштабные системы, подходящие для самых разных условий.
 
-[P]Justice is certain and swift on Donn. Security workers are quick to offer assistance to those in need, but they are also unwilling to wait long to see justice delivered. Instead, they interpret legal and moral issues in stark black-and-white terms, ignoring any potentially mitigating factors.
+[P]Правосудие на Донне вершится непременно и быстро. Работники службы безопасности быстро предлагают помощь тем, кто в ней нуждается, но они также не желают долго ждать, пока восторжествует справедливость. Вместо этого они трактуют юридические и моральные вопросы в суровых черно-белых терминах, игнорируя любые потенциально смягчающие обстоятельства.
 
-[P][B]Homeworld:[b] Dorin is located in the Expansion Region. Due to its location between two black holes, it remained isolated from the rest of the galaxy until only a few centuries before the start of the Galactic Civil War. Dorin's atmosphere is composed largely of helium and a second unidentifiable gas that is unique to the system. Dorin's oxygen levels are low enough that most non-natives require technological assistance to venture there.
+[P][B]Родной мир:[b] Дорин находится в Регионе Экспансии. Из-за своего расположения между двумя черными дырами он оставался изолированным от остальной галактики всего несколько столетий до начала Галактической гражданской войны. Атмосфера Дорина состоит в основном из гелия и второго неидентифицируемого газа, характерного только для этой системы. Уровень кислорода в атмосфере Дорина настолько низок, что большинству неместных жителей требуется технологическая помощь, чтобы проникнуть туда.
 
-[P][B]Language:[b] Kel Dors learn both Kel Dorian and Basic from childhood. They speak Basic as well as any native speaker and seldom speak Kel Dorian off-world. Their native language is easier to speak and understand when they are breathing Dorin's native atmosphere.</Description>
-  <Source Page="57">Force and Destiny Core Rulebook</Source>
+[P][B]Язык:[b] Кел-доры с детства изучают кел-дорский и Бейсик. Они говорят на бейсике не хуже любого носителя языка и редко говорят на кел-дорианском за пределами планеты. Их родной язык легче говорить и понимать, когда они дышат родной атмосферой Дорина.</Description>
+  <Source Page="57">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>1</Brawn>
@@ -47,27 +47,23 @@ Best known as a kindly and soft-spoken species, Kel Dors are most easily identif
   <OptionChoices>
     <OptionChoice>
       <Key>KELDOROC1</Key>
-      <Name>Sight</Name>
+      <Name>Зрение</Name>
       <Options>
         <Option>
           <Key>KELDOROC1OP1</Key>
-          <Name>Dark Vision</Name>
-          <Description>
-            Kel Dors remove up to [SETBACK][SETBACK] imposed due to darkness from any skill checks.
-          </Description>
+          <Name>Темное зрение</Name>
+          <Description>Кел-дор снимает до [SETBACK][SETBACK], наложенных из-за темноты, с любых проверок умений.</Description>
         </Option>
       </Options>
     </OptionChoice>
     <OptionChoice>
       <Key>KELDOROC2</Key>
-      <Name>Mask</Name>
+      <Name>Маска</Name>
       <Options>
         <Option>
           <Key>KELDOROC2OP1</Key>
-          <Name>Atmospheric Requirement</Name>
-          <Description>
-            Kel Dors must wear a specialized mask to breath and see outside of their native atmosphere.  However, Kel Dor may survive in vacuum for up to five minues before suffering its effects.
-          </Description>
+          <Name>Требование атмосферы</Name>
+          <Description>Кел-доры должны носить специальную маску, чтобы дышать и видеть вне родной атмосферы. Однако Кел-дору можно прожить в вакууме до пяти минут, прежде чем он начнет испытывать его воздействие.</Description>
         </Option>
       </Options>
     </OptionChoice>

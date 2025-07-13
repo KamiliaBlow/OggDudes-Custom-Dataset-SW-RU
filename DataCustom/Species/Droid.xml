@@ -1,29 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>DROID</Key>
-  <Name>Droid</Name>
+  <Name>Дроид</Name>
   <Description>
-    [H4]Droid[h4]
+    [H4]Дроид[h4]
 
-A typical fringer may ridicule his droid to no end, yet without it, he is usually lost. Droids serve a variety of roles on the fringe, including security and conflict resolution, surgery and medicine, mechanical repairs, construction, astrogation and piloting, and mechanical labor. While many of these droids have only rudimentary intelligence, some are capable of independent thought.
+Обычный Фрингер может без конца высмеивать своего дроида, но без этого он обычно теряется. Дроиды выполняют различные функции на периферии, включая охрану и разрешение конфликтов, хирургию и медицину, ремонт механизмов, строительство, астронавигацию и пилотирование, а также механический труд. Хотя многие из этих дроидов обладают лишь зачаточным интеллектом, некоторые из них способны к независимому мышлению.
 
-[H3]PLAYING A DROID[h3]
+[H3]ИГРА ЗА ДРОИДА[h3]
 
-[P]Creating droid characters in [B]Edge of the Empire[b] is easy. Treat them as a separate species, with bonuses and abilities that reinforce their robotic natures. Players should be creative when coming up with their description, and also with how the droid uses its equipment. Instead of a droid wearing Laminate Armor, for example, it could have reinforced metal plates attached directly to its chassis, and instead of carrying a blaster pistol, it could have one built into its arm.
+[P]Создавать персонажей-дроидов в [B]Край Империи[b] очень просто. Рассматривайте их как отдельный вид, с бонусами и способностями, которые усиливают их роботизированную природу. Игроки должны творчески подойти к их описанию, а также к тому, как дроид использует свое снаряжение. Например, вместо ламинатной брони у дроида могут быть усиленные металлические пластины, прикрепленные прямо к шасси, а вместо бластерного пистолета - встроенный в руку.
 
-[P]The personality of a droid is a more delicate matter. The very fact that the droid is a Player Character means that it is self-aware and independent-minded (unless the player wants to play a character who is completely subservient to the surrounding biologicals, of course). Players who want to make a droid character should remember the droid's origins and try to incorporate elements of their original function into their personality, even if their droid character has taken on roles far beyond what he was originally pro
-grammed for. A traffic control droid, for example, may take up the career of a mechanic, but still grumble endlessly whenever his pilot colleague breaks local flight and traffic laws.
+[P]Личность дроида - более тонкий вопрос. Сам факт того, что дроид является персонажем игрока, означает, что он обладает самосознанием и независимым мышлением (если, конечно, игрок не хочет играть персонажа, полностью подчиненного окружающим биологическим существам). Игроки, которые хотят создать персонажа-дроида, должны помнить о его происхождении и постараться включить в его личность элементы его первоначальной функции, даже если его персонаж-дроид взял на себя функции, выходящие далеко за рамки того, для чего он был изначально предназначен. Например, дроид-диспетчер может стать механиком, но при этом бесконечно ворчать, когда его коллега-пилот нарушает местные правила полетов и дорожного движения.
 
-[P][B]Physical Description:[b] Droids are assembled in many different body types, from chassis that follow bipedal standards, to those of various animals, to completely utilitarian boxes or cylinders.
+[P][B]Физическое описание:[b] Дроиды собираются во множестве различных типов тел - от шасси, соответствующих стандартам двуногих, до шасси различных животных и совершенно утилитарных коробок или цилиндров.
 
-[P][B]Society:[b] Smugglers have long traded rumors of "droid worlds," where automatons and cyborgs govern a society of their own. Aside from such tall tales, droids do not have their own society, instead laboring within the society of their human and non-human masters. Unless a droid's personality has reprogrammed its cogni-tive faculties, droids are built to obey, and they do.
+[P][B]Общество:[b] Контрабандисты давно распространяют слухи о "мирах дроидов", где автоматоны и киборги управляют собственным обществом. Если не считать этих небылиц, у дроидов нет собственного общества, они трудятся в обществе своих человеческих и нечеловеческих хозяев. Если только личность дроида не перепрограммировала его когнитивные способности, дроиды созданы, чтобы подчиняться, и они подчиняются.
 
-[P]However, the droids played by PCs present a special case. Over the millennia there have been countless examples of droids that have transcended their original programming to become self-aware and self operating. Some of these automata last for hundreds of years, repairing and upgrading themselves to remain at peak efficiency.
+[P]Однако дроиды, за которых играют игроки - это особый случай. На протяжении тысячелетий существовало бесчисленное множество примеров дроидов, которые выходили за рамки своего первоначального программирования и становились самосознательными и самодействующими. Некоторые из этих автоматонов живут сотни лет, ремонтируясь и модернизируясь, чтобы оставаться на пике эффективности.
 
-[P]Some of these droids take pride and satisfaction in continuing to do the jobs they were designed for as well as possible, such as an R2 unit that constantly works to become a better pilot and astrogator. Others break with their programming entirely and choose new enterprises to pursue. The infamous 4-LOM started out life as a protocol droid, before becoming a jewel thief and eventually one of the galaxy's most well-known bounty hunters.</Description>
+[P]Некоторые из этих дроидов гордятся тем, что продолжают выполнять работу, для которой они были созданы, как можно лучше, например, R2, который постоянно работает над тем, чтобы стать лучшим пилотом и астрогатором. Другие же полностью отказываются от своей программы и выбирают новые занятия. Печально известный 4-LOM начинал свою жизнь как протокольный дроид, затем стал похитителем драгоценностей и, в конце концов, одним из самых известных охотников за головами в галактике.</Description>
   <Sources>
-    <Source Page="45">Edge of the Empire Core Rulebook</Source>
-    <Source Page="53">Age of Rebellion Core Rulebook</Source>
+    <Source Page="45">Книга правил: Край Империи</Source>
+    <Source Page="53">Книга правил: Эпоха восстания</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <StartingChars>
@@ -48,12 +47,12 @@ grammed for. A traffic control droid, for example, may take up the career of a m
   <OptionChoices>
     <OptionChoice>
       <Key>DROIDAB</Key>
-      <Name>Skills</Name>
+      <Name>Навыки</Name>
       <Options>
         <Option>
           <Key>DROIDABSK</Key>
-          <Name>Additional Career Skills</Name>
-          <Description>May train in two additional career skills and one additional specialization skills</Description>
+          <Name>Дополнительные карьерные навыки</Name>
+          <Description>можно обучиться двум дополнительным карьерным навыкам и одному дополнительному навыку специализации</Description>
           <StartingSkillTraining>
             <SkillTraining>
               <SkillCount>2</SkillCount>
@@ -73,45 +72,45 @@ grammed for. A traffic control droid, for example, may take up the career of a m
     </OptionChoice>
     <OptionChoice>
       <Key>DROIDAB2</Key>
-      <Name>Droid</Name>
+      <Name>Дроид</Name>
       <Options>
         <Option>
           <Key>DROIDAB2OP1</Key>
-          <Name>Feature</Name>
-          <Description>Droids do not need to eat, sleep, or breath, and are unaffected by vacuum, toxins, and poisons.</Description>
+          <Name>Фича</Name>
+          <Description>Дроидам не нужно есть, спать или дышать, на них не действуют вакуум, токсины и яды.</Description>
         </Option>
       </Options>
     </OptionChoice>
     <OptionChoice>
       <Key>DROIDAB3</Key>
-      <Name>Droid</Name>
+      <Name>Дроид</Name>
       <Options>
         <Option>
           <Key>DROIDAB3OP1</Key>
-          <Name>Inorganic</Name>
-          <Description>Droids do not gain benefits from bacta, stimpacks, or Medicine checks.  They must be repaired with repair patches and Mechanics checks.</Description>
+          <Name>Неорганические</Name>
+          <Description>Дроиды не получают преимуществ от бакты, стимпаков и проверок "Медицины". Они должны быть отремонтированы с помощью ремонтных патчей и проверок "Механики".</Description>
         </Option>
       </Options>
     </OptionChoice>
     <OptionChoice>
       <Key>DROIDAB4</Key>
-      <Name>Droid</Name>
+      <Name>Дроид</Name>
       <Options>
         <Option>
           <Key>DROIDAB4OP1</Key>
-          <Name>Mechanical Being</Name>
-          <Description>Droids cannot become Force sensitive, cannot acquire a Force Rating or Force powers, and are not affected by mind-altering Force powers.</Description>
+          <Name>Механическое существо</Name>
+          <Description>Дроиды не могут стать чувствительными к Силе, не могут получить рейтинг "Силы" или способности Силы, и на них не действуют изменяющие сознание способности Силы.</Description>
         </Option>
       </Options>
     </OptionChoice>
     <OptionChoice>
       <Key>DROIDAB5</Key>
-      <Name>Droid</Name>
+      <Name>Дроид</Name>
       <Options>
         <Option>
           <Key>DROIDAB5OP1</Key>
-          <Name>Cybernetics</Name>
-          <Description>Droids have a cybernetics implant cap of 6.</Description>
+          <Name>Кибернетика</Name>
+          <Description>Дроиды имеют 6 имплантов кибернетики.</Description>
         </Option>
       </Options>
     </OptionChoice>
@@ -119,33 +118,33 @@ grammed for. A traffic control droid, for example, may take up the career of a m
   <SubSpeciesList>
     <SubSpecies>
       <Key>DROIDSUB1</Key>
-      <Name>2-1B Surgical</Name>
-      <Description> The 2-18 Surgical Droid is a highly intelligent and flexible thinker; as one would expect of a droid whose decisions involve life and death. Its rather ugly chassis hides a remarkably complex and flexible behavioral circuitry matrix, and the droids are intelligent and capable in equal measure.</Description>
+      <Name>2-1B Хирург</Name>
+      <Description> Хирургический дроид 2-18 - высокоинтеллектуальный и гибкий мыслитель, чего и следовало ожидать от дроида, чьи решения связаны с жизнью и смертью. Его довольно уродливое шасси скрывает удивительно сложную и гибкую матрицу поведенческих схем, и дроиды в равной степени умны и способны.</Description>
     </SubSpecies>
     <SubSpecies>
       <Key>DROIDSUB2</Key>
-      <Name>3P0 Protocol</Name>
-      <Description>The 3P0 series of protocol droids are some of the most human-like automata ever developed—perfect for their assigned tasks as ambassadors, political aids, translators, and personal attaches. However, their advanced SyntheTech AA-1 verbobrains can some-times develop neuroses or other "quirks."</Description>
+      <Name>3P0 Протокольный</Name>
+      <Description>Протокольные дроиды серии 3P0 - одни из самых человекоподобных автоматов, когда-либо созданных. Они идеально подходят для выполнения своих задач в качестве послов, политических помощников, переводчиков и личных атташе. Однако их усовершенствованные вербомозги SyntheTech AA-1 могут иногда вызывать неврозы или другие «причуды».</Description>
     </SubSpecies>
     <SubSpecies>
       <Key>DROIDSUB3</Key>
-      <Name>IG Assassin</Name>
-      <Description>Culminating with the feared and deadly IG-88 model, the IG series is infamous as one of the most lethal assassin droids in the galaxy. IG droids rarely meet an opponent they cannot eliminate, and true to their humorless nature, they follow the instructions for a particular bounty to the letter.</Description>
+      <Name>IG Убийца</Name>
+      <Description>Кульминацией серии IG-88 стала модель IG-88, ставшая одним из самых смертоносных дроидов-убийц в галактике. Дроиды IG редко встречают противника, которого они не могут уничтожить, и, как и положено дроидам без юмора, они досконально следуют инструкциям для конкретного вознаграждения.</Description>
     </SubSpecies>
     <SubSpecies>
       <Key>DROIDSUB4</Key>
-      <Name>LE-V0 Law Enforcement</Name>
-      <Description>The success of LE-VOs in deterring crime in the Rseikharhl sector has led to their adoption galaxy-wide as appropriate models for police assistance and private security. Their programming requires them to follow Imperial codes to the letter and only use force when absolutely necessary. Though they are hardly ever equipped with lethal weaponry, they know how to target a stun weapon for maximum effect.</Description>
+      <Name>LE-V0 Законник</Name>
+      <Description>Успех LE-VO в сдерживании преступности в секторе Рсейхархл привел к тому, что их стали использовать по всей галактике как подходящие модели для помощи полиции и частной охраны. Их программа требует, чтобы они следовали Имперским кодексам до мелочей и применяли силу только в случае крайней необходимости. Хотя они почти никогда не оснащены смертоносным оружием, они знают, как нацелить электрошокер на максимальный эффект.</Description>
     </SubSpecies>
     <SubSpecies>
       <Key>DROIDSUB5</Key>
-      <Name>LOM Protocol</Name>
-      <Description>The LOM series was Industrial Automaton's attempt to upset a market dominated by Cybot Galactica. IA attempted to make a protocol droid very similar to the 3P0 units but with an insectoid head to appeal to niche markets. However, bad PR from at least one unit's career as a jewel thief caused IA to scrap the line. Some of the remain-ing LOM droids do have a habit of developing interesting and unexpected personalities.</Description>
+      <Name>LOM Протокольный</Name>
+      <Description>Серия LOM - это попытка компании Industrial Automaton переломить ситуацию на рынке, где доминировала Cybot Galactica. IA попыталась создать протокольного дроида, очень похожего на 3P0, но с инсектоидной головой, чтобы привлечь нишевые рынки. Однако плохой пиар, связанный с карьерой одного из них в качестве похитителя драгоценностей, заставил IA отказаться от этой линии. Некоторые из оставшихся дроидов LOM имеют привычку развивать интересные и неожиданные характеры.</Description>
     </SubSpecies>
     <SubSpecies>
       <Key>DROIDSUB6</Key>
-      <Name>R-Series Astromech</Name>
-      <Description>The wildly successful R-series ranges from the original and cumbersome RI to the famous R2 unit and all the way to the soon-to-be-released R6. Aside from the RI (which is more than two meters tall and works aboard capital ships), all of the R-series astromechs are roughly a meter or so tall, and designed to ride in sockets aboard snubfighters to perform astrogation calculations and allow hyperspace jumps. A wide variety of tools also make them decent repair droids.</Description>
+      <Name>R-Series Астромеханик</Name>
+      <Description>Дико успешная серия R варьируется от оригинального и громоздкого RI до знаменитого R2 и вплоть до скорого выхода R6. За исключением RI (который имеет рост более двух метров и работает на борту капитальных кораблей), все астромехи серии R имеют рост около метра и предназначены для размещения в гнездах на борту истребителей, чтобы выполнять астрогационные расчеты и совершать гиперпространственные прыжки. Широкий набор инструментов также делает их достойными ремонтными дроидами.</Description>
       <WeaponModifiers>
         <WeaponModifier>
           <Unarmed>false</Unarmed>
@@ -173,8 +172,8 @@ grammed for. A traffic control droid, for example, may take up the career of a m
     </SubSpecies>
     <SubSpecies>
       <Key>DROIDSUB7</Key>
-      <Name>Other Model</Name>
-      <Description>Please see "Notable Features" for a description of this type of droid</Description>
+      <Name>Другая модель</Name>
+      <Description>Описание этого типа дроидов смотрите в разделе «Примечательные особенности».</Description>
     </SubSpecies>
   </SubSpeciesList>
   <NoForceAbilities>true</NoForceAbilities>

@@ -1,111 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>KYUZO</Key>
-  <Name>Kyuzo</Name>
-  <Description>[H4]Kyuzo[h4]
-Kyuzo are lanky, bipedal humanoids who hail from the
-world of Phatrong. Their frequently slender physique
-belies their form idable strength and surprising agility.
-Kyuzo are not a prominent species in the galaxy at
-large, but some travel extensively for business, trade,
-and exploration.
-[P]There are many social and political organizations on
-their homeworld Phatrong, but one particularly noteworthy cultural phenomenon is that of clovocs, groups
-that maintain law and order in specific regions. The
-members of the most elite clovocs on Phatrong are
-renowned for their skill and honor, and are thus valued by military recruiters, underworld organizations,
-and other groups that require skilled fighters.
-[P][B]Physiology:[b] Kyuzo are green-skinned, and display
-hues ranging from lighter olive shades to deep bluegreen colors. They are bipedal, with thin arms and
-legs that conceal their considerable strength. Their
-hands have four digits. Due to the uncommon makeup
-of their homeworld’s atmosphere, Kyuzo frequently
-wear filter masks when in a galactic standard habitable environment. Though going without these masks
-isn’t fatal, doing so makes Kyuzo ill in a short time,
-interferes with their ability to concentrate, and slows
-them down considerably. Like many species, Kyuzo
-span a broad range in term s of height and build, with
-some members of the species towering over most
-humans and others considerably smaller in stature.
-[P]Interestingly, there are two primary phenotypes
-within the Kyuzo population; some have compound
-eyes, while others have eyes with pupils akin to those of humans. The exact genetic history behind this divergence is known to few non-Kyuzo scholers, but the two groups are genetically compatible, with offspring inheriting one trait or the other from a parent.
-[P][B]Society:[b] The Kyuzo are a highly political species.
-Starting with early city-states, the Kyuzo developed
-societies that spanned considerable geographic
-areas. Most Kyuzo identify as members of a particular
-country or region. Separate from these governments
-are the clovocs, which are organizations of warriors
-and o ther combatants that have their own traditions
-and rules outside of the political regions they inhabit.
-[P]At their best, the clovocs comprise noble fighters
-standing for what is right or just. At their worst, they
-are bands of vile mercenaries or criminals who are as
-formidable as they are greedy. Clovocs range in size
-from a few dozen members to thousands of individuals. All forms of Kyuzo government make deals with
-the clovocs to provide security and military forces.
-The politics behind the successful hiring of a clovoc
-are complex and sometimes outright corrupt. Many
-a government has been toppled when a clovoc abandoned it for better pay elsewhere or as an extreme
-form of protest over that government’s actions,
-though few clovocs would abandon a battlefield for
-such reasons when actual fighting is underway.
-[P]Some clovocs encourage their members or even
-entire branches to work offworld as mercenaries,
-while others forbid this practice. While most Kyuzo
-are not actually members of a clovoc, these organizations nonetheless hold an important place in Kyuzo
-culture, and are often romanticized in works of song,
-literature, and other art. Though the clovocs are not
-monolithic on Phatrong—some regions have more traditional governance structures with integrated
-militaries—they are common in several of the largest
-nations. Further, because many Kyuzo who travel offworld are members of a clovoc, these warrior orders
-are one of the most widely recognized elements of
-Kyuzo culture in the galaxy at large.
-[P][B]Homeworld:[b] Phatrong is an Outer Rim world, in the
-galactic vicinity of Yavin and the Gordian Reach. It is
-terrestrial, with vast oceans divided by thin, mountainous, roughly linear continents that stretch between the
-planet's poles. Some mountain ranges are bordered
-by wide plains and low hills. Others rise steeply out
-of the water, forming fjords and long inland canyons.
-[P]Kyuzo cities are scattered throughout the continents. Most continents and major islands are their
-own political units, though they do form a loose confederation that once elected the planet’s Republic
-and Imperial Senators—before the dissolution of the
-Senate, at least. The office of the local Imperial governor has since replaced that function, and oversees
-the world directly. The Imperials naturally rely on their
-own forces to maintain control, and only deal with the
-clovocs if they absolutely must. The reputation of the
-clovocs has made the Empire cautious on Phatrong,
-and as long as taxes are paid on time, it generally
-exerts little direct influence over the world.
-[P]Phatrong is a technologically developed world with
-all of the expected amenities and technologies available to most worlds of the Galactic Empire. The Kyuzo
-have a local style they apply to many of their products and services. For those in the know, imported
-goods usually stand out.
-[P][B]Language:[b] The Kyuzo have their own language, made
-up of quickly spoken short words and phrases. They
-can learn to understand Basic without difficulty, and
-most pick up the skill at a young age, though speaking it is another matter. Some Kyuzo learn to make
-themselves understood in Basic while others use
-translation devices to smooth their interactions with
-outsiders. Most clovocs laud action over words, and
-so some Kyuzo warriors who leave Phatrong simply let
-their deeds speak for themselves.
-[P][B]Life in the Alliance:[b]  Kyuzo fighters who share the
-Alliance’s goals are quickly welcomed. Their combat
-prowess is highly respected and provides a much-needed boost to units or resistance groups lacking
-fighting ability. Those fighters looking for payment
-might find limited work with the rebels, but only if they
-are desperate for hired help, and if the clovoc involved
-has a decent reputation.
-[P]Kyuzo rebel sympathizers on Phatrong work tirelessly to recruit like-minded individuals in hopes that
-they can bolster both the Alliance at large, and form
-the core of a major resistance force on their homeworld. Many Kyuzo who join the Rebel Alliance are
-not members of a clovoc at all. Though the clovocs
-dominate the military culture of Phatrong, some fighters still make a living working as lone freelancers.
-Other recruits are not combatants at all, and support
-the Rebel Alliance with diplomatic guidance, scientific
-breakthroughs, or entirely unique expertise developed on, or off, Phatrong.</Description>
-  <Source Page="22">Forged in Battle</Source>
+  <Name>Кюдзо</Name>
+  <Description>[H4]Кюдзо[h4]
+Кюдзо - долговязые двуногие гуманоиды, родом из мира Фатронг. Их стройное телосложение скрывает невероятную силу и удивительную ловкость. Кюдзо не являются выдающимся видом в галактике в целом, но некоторые из них много путешествуют, занимаясь бизнесом, торговлей и исследованиями.
+[P]На их родной планете Фатронг существует множество социальных и политических организаций, но особенно примечательным культурным феноменом являются кловоки - группы, поддерживающие закон и порядок в определенных регионах. Члены самых элитных кловоков на Фатронге славятся своим мастерством и честью, поэтому их ценят военные вербовщики, организации преступного мира и другие группы, которым требуются опытные бойцы.
+[P][B]Физиология:[b] Кюдзо - зеленокожие, их цвет варьируется от светло-оливковых оттенков до глубокого сине-зеленого. Они двуногие, с тонкими руками и ногами, скрывающими их немалую силу. На руках у них четыре пальца. Из-за необычного состава атмосферы их родной планеты кюдзо часто носят фильтрующие маски, когда находятся в пригодной для жизни галактической среде. Хотя пребывание без масок не смертельно, кюдзо быстро заболевают, теряют способность концентрироваться и значительно замедляются. Как и многие другие виды, кюдзо имеют широкий диапазон роста и телосложения: некоторые представители вида возвышаются над большинством людей, а другие значительно меньше по росту.
+[P]Интересно, что в популяции кюдзо есть два основных фенотипа: у одних - комбинированные глаза, у других - глаза со зрачками, похожими на человеческие. Точная генетическая история этого расхождения известна немногим людям, не принадлежащим кюдзо, но обе группы генетически совместимы, и потомство наследует от одного из родителей тот или иной признак.
+[P][B]Общество:[b] Кюдзо - очень политизированный вид. Начиная с ранних городов-государств, кюдзо создали общества, охватывающие значительные географические территории. Большинство кюдзо относят себя к определенной стране или региону. Отдельно от этих правительств существуют кловоки - организации воинов и других бойцов, которые имеют свои собственные традиции и правила за пределами политических регионов, в которых они проживают.
+[P]В лучшие свои времена Кловоки - это благородные бойцы, отстаивающие правоту и справедливость. В худшем случае это банды мерзких наемников или преступников, которые столь же грозны, сколь и жадны. Численность Кловоков варьируется от нескольких десятков членов до тысяч человек. Все формы правления Кюдзо заключают с кловоками сделки на предоставление охраны и вооруженных сил. Политика, стоящая за успешным наймом кловока, сложна и порой откровенно коррумпирована. Многие правительства были свергнуты, когда кловок покидал их в поисках лучшей зарплаты в другом месте или в качестве крайней формы протеста против действий этого правительства, хотя мало кто из кловоков покинет поле боя по таким причинам, когда там идут настоящие боевые действия.
+[P]Некоторые кловоки поощряют своих членов или даже целые отделения работать за пределами мира в качестве наемников, в то время как другие запрещают такую практику. Хотя большинство кюдзо не являются членами кловока, эти организации, тем не менее, занимают важное место в культуре кюдзо и часто романтизируются в песнях, литературе и других произведениях искусства. Хотя кловоки не являются монолитными на Фатронге - в некоторых регионах существуют более традиционные структуры управления с интегрированной армией, - они распространены в нескольких крупнейших государствах. Кроме того, поскольку многие кюдзо, путешествующие за пределами планеты, являются членами кловока, эти воинские ордена - один из наиболее широко признанных элементов культуры кюдзо в галактике в целом.
+[P][B]Родной мир:[b] Фатронг - мир Внешнего кольца, расположенный в галактической близости от Явина и Гордианского пролива. Это земной мир с обширными океанами, разделенными тонкими, гористыми, примерно линейными континентами, которые тянутся между полюсами планеты. Некоторые горные хребты окаймлены широкими равнинами и невысокими холмами. Другие круто поднимаются из воды, образуя фьорды и длинные внутренние каньоны.
+[P]Города Кюдзо разбросаны по всем континентам. Большинство континентов и крупных островов являются самостоятельными политическими единицами, хотя и образуют свободную конфедерацию, которая когда-то избирала республиканских и имперских сенаторов планеты - по крайней мере, до роспуска Сената. С тех пор эту функцию заменила должность местного имперского губернатора, который осуществляет непосредственный контроль над миром. Имперцы, естественно, полагаются на свои собственные силы для поддержания контроля и имеют дело с кловоками только в случае крайней необходимости. Репутация кловоков сделала Империю осторожной на Фатронге, и пока налоги платятся вовремя, она не оказывает прямого влияния на мир.
+[P]Фатронг - технологически развитый мир со всеми ожидаемыми удобствами и технологиями, доступными для большинства миров Галактической империи. У кюдзо есть местный стиль, который они применяют ко многим своим товарам и услугам. Для тех, кто в курсе, импортные товары обычно выделяются.
+[P][B]Язык:[b] У кюдзо есть свой собственный язык, состоящий из быстро произносимых коротких слов и фраз. Они без труда понимают бейсик, и большинство овладевает им в раннем возрасте, хотя говорить на нем - совсем другое дело. Некоторые кюдзо учатся изъясняться на бейсике, а другие используют переводчики, чтобы упростить взаимодействие с чужаками. Большинство кловоков превозносят действия над словами, поэтому некоторые воины Кюдзо, покинувшие Фатронг, просто позволяют своим поступкам говорить за себя.
+[P][B]Жизнь в Альянсе:[b] Бойцов Кюдзо, разделяющих цели Альянса, быстро принимают в свои ряды. Их боевое мастерство пользуется большим уважением и дает столь необходимый толчок подразделениям или группам сопротивления, не обладающим боевыми качествами. Тем бойцам, которые ищут плату, можно найти ограниченную работу у повстанцев, но только если они отчаянно нуждаются в наемной помощи и если у кьюзо достойная репутация.
+[P]Сочувствующие повстанцам кюдзо на Фатронге неустанно работают над вербовкой единомышленников в надежде, что они смогут укрепить Альянс в целом и сформировать ядро основных сил сопротивления на своей родной планете. Многие кюдзо, присоединившиеся к Повстанческому альянсу, вовсе не являются членами кловока. Хотя кловоки доминируют в военной культуре Фатронга, некоторые бойцы все еще зарабатывают на жизнь, работая как одинокие фрилансеры. Другие новобранцы вообще не являются бойцами и поддерживают Повстанческий альянс дипломатическими рекомендациями, научными открытиями или совершенно уникальными знаниями, полученными на Фатронге или за его пределами.</Description>
+  <Source Page="22">Дополнение: Закаленные в битве</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -133,14 +44,12 @@ breakthroughs, or entirely unique expertise developed on, or off, Phatrong.</Des
   <OptionChoices>
     <OptionChoice>
       <Key>KYUZOOC1</Key>
-      <Name>Physiology</Name>
+      <Name>Физиология</Name>
       <Options>
         <Option>
           <Key>KYUZOOC1OP1</Key>
-          <Name>Dense Musculature</Name>
-          <Description>
-            Once per round as a maneuver, may suffer 3 strain to leap horizontally or vertically to any location within medium range.
-          </Description>
+          <Name>Плотная мускулатура</Name>
+          <Description>Раз за раунд, как маневр, можно получить 3 "усталости", чтобы прыгнуть горизонтально или вертикально в любое место в пределах средней дистанции.</Description>
           <DieModifiers>
           </DieModifiers>
         </Option>

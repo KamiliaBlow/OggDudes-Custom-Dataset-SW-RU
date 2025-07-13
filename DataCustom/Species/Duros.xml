@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>DUROS</Key>
-  <Name>Duros</Name>
+  <Name>Дурос</Name>
   <Description>
-    [H4]Duros[h4]
+    [H4]Дурос[h4]
 
-The species most often celebrated as granting the gift of hyperspace travel to the rest of the galaxy, Duros are revered as pilots, explorers, and storytellers. They are also widely sought after as ships engineers and mechanics.
+Дуросы - вид, который чаще всего прославляется тем, что подарил остальной галактике гиперпространственные путешествия. Их почитают как пилотов, исследователей и рассказчиков. Они также широко востребованы в качестве корабельных инженеров и механиков.
 
-[P][B]Physiology:[b] Descended from reptiles, Duros are bipedal humanoids with large red eyes; smooth blue-green skin; long fingers; bald, bulbous heads; and tiny slits below the eyes that provide their olfactory sense. Their young hatch as larvae from eggs laid by the females, but they are raised in a recognizable family unit. Duros aren't particularly brawny, but they possess sharp minds and keen intellects. Both males and females are bald, but other characteristics distinguish the sexes.
+[P][B]Физиология:[b] Потомки рептилий, дуросы - двуногие гуманоиды с большими красными глазами, гладкой сине-зеленой кожей, длинными пальцами, лысой, луковицеобразной головой и крошечными щелями под глазами, которые обеспечивают обоняние. Молодняк вылупляется в виде личинок из яиц, отложенных самками, но воспитывается в узнаваемой семейной группе. Дуросы не отличаются особой мускулистостью, но обладают острым умом и проницательным интеллектом. И самцы, и самки лысые, но по другим признакам различают полы.
 
-[P][B]Society:[b] Most scholars believe the Duros actually invented the first hyperdrive craft, and their contributions to interstellar navigation are impossible to overstate. They are inquisitive and adventurous, taking great pride in their extensive travels throughout the galaxy. It is considered polite to refer to any Duros by the honorific "Traveler," such is their passion for astrogation and exploration of the galaxy.
+[P][B]Общество:[b] Большинство ученых считают, что Дуросы изобрели первый гипердвигатель, а их вклад в межзвездную навигацию невозможно переоценить. Они любознательны и склонны к приключениям, гордятся своими обширными путешествиями по галактике. Считается вежливым обращаться к любому дуросу с почетным титулом "путешественник", настолько велика их страсть к астрогации и исследованию галактики.
 
-[P]With a history of enslavement by beings of great technological prowess and the capacity for terrible destruction in the name of advancing their empire, the Duros developed a profound thirst for knowledge of the very science being used to subdue them. When the time came, they employed all they learned to not only throw off the shackles of their oppressors but to reach out to the stars and never look back. Shortly thereafter, the course of Duros society was charted by a highly regarded monarchy, but as that once-great dynasty fell to corruption, enduring Duros pragmatism led to a corporatocracy that focused on asset management and development.
+[P]История порабощения существами, обладающими огромным технологическим мастерством и способными на ужасные разрушения во имя развития своей империи, привела к тому, что у дуросов появилась глубокая жажда познания той самой науки, которая использовалась для их покорения. Когда пришло время, они использовали все, что узнали, чтобы не только сбросить оковы своих угнетателей, но и устремиться к звездам и никогда не оглядываться назад. Вскоре после этого в обществе Дуросов появилась высокочтимая монархия, но когда эта некогда великая династия пала от коррупции, стойкий прагматизм Дуросов привел к созданию корпоратократии, которая сосредоточилась на управлении активами и развитии.
 
-[P]In the era of the Empire, the Duros have not fared well. Their home—long devastated by unchecked pollution from rampant industrialization—has become an occupied territory, their resources managed by the Imperial bureaucracy. Many Duros have chosen to scatter to the Outer Rim rather than be enslaved by the Emperor's war machine, where there are still those who value the gifts and knowledge they bring.
+[P]В эпоху Империи дела у Дуросов идут не лучшим образом. Их родина, давно опустошенная бесконтрольным загрязнением в результате безудержной индустриализации, стала оккупированной территорией, а ее ресурсами распоряжается имперская бюрократия. Многие дуросы предпочли рассеяться во Внешнем кольце, чтобы не быть порабощенными военной машиной Императора, где все еще есть те, кто ценит дары и знания, которые они приносят.
 
-[P][B]Homeworld:[b] Duro was once a lush, green world. Due to ecological disasters on an extinction scale, it is now completely uninhabitable without extensive biohazard protections. Hungry to reach out far and wide to the galaxy, the Duros allowed manufacturing, mining, and production to go unchecked and unregulated. The resultant pollutants and hazardous wastes ultimately drove them from their homeworld to live in massive orbital cities and space stations all around the planet.
+[P][B]Родной мир:[b] Когда-то Дуро был пышным, зеленым миром. Из-за экологических катастроф масштаба вымирания он теперь совершенно непригоден для жизни без серьезной защиты от биологической опасности. Стремясь охватить всю галактику, дуросы допустили, чтобы производство, добыча и добыча полезных ископаемых не контролировались и не регулировались. В результате загрязняющие вещества и опасные отходы вытеснили их с родной планеты и поселили в огромных орбитальных городах и космических станциях по всей планете.
 
-[P][B]Language:[b] Using a syllable-driven written component, Durese (also called Durosian) is a well-known and widely spoken language throughout the Corellian Sector and many other Core Worlds. It is one of the foundation languages for the construction of Basic.</Description>
+[P][B]Язык:[b] Используя письменный компонент, основанный на слогах, дурезе (также называемый дуросианским) является известным и широко распространенным языком в Кореллианском секторе и многих других центральных мирах. Он является одним из базовых языков для создания Бейсика</Description>
   <Sources>
-    <Source Page="55">Age of Rebellion Core Rulebook</Source>
-    <Source Page="21">Enter the Unknown</Source>
+    <Source Page="55">Книга правил: Эпоха восстания</Source>
+    <Source Page="21">Дополнение: Шаг в неизвестность</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <StartingChars>
@@ -49,13 +49,13 @@ The species most often celebrated as granting the gift of hyperspace travel to t
   <OptionChoices>
     <OptionChoice>
       <Key>DUROSCH1</Key>
-      <Name>Navigator</Name>
+      <Name>Навигатор</Name>
       <Description />
       <Options>
         <Option>
           <Key>DUROSCH1OP1</Key>
-          <Name>Intuitive Navigation</Name>
-          <Description>Add [ADVANTAGE] to all Astrogation checks.</Description>
+          <Name>Интуитивная навигация</Name>
+          <Description>Добавляйте [ADVANTAGE] ко всем проверкам "Астрогации".</Description>
           <DieModifiers>
             <DieModifier>
               <SkillKey>ASTRO</SkillKey>

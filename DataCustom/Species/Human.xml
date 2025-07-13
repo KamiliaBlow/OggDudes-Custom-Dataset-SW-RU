@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>HUMAN</Key>
-  <Name>Human</Name>
+  <Name>Человек</Name>
   <Description>
-    [H4]Humans[h4]
+    [H4]Человек[h4]
 
-Humans are the most populous and gregarious of the galaxy's sapient species. They seem to be present on almost every open planet that harbors life while traveling the spacelanes looking for more.
+Люди - самый многочисленный и стадный вид сапиентных существ в галактике. Кажется, что они присутствуют почти на каждой открытой планете, где есть жизнь, и путешествуют по космическим просторам в поисках новых.
 
-[P][B]Physiology:[b] Humans are mammalian bipeds with mostly hairless skin. Their skin tones encompass a gamut of colors, from peachy tones to dark brown and black. Males average 1.8 meters tall, while females stand shorter and are generally not as stocky. They process oxygen for respiration and can digest a variety of animal and vegetable matter. Their biology is well-suited to many environments in the galaxy, which perhaps explains their dominance and ubiquity.
+[P][B]Физиология:[b] Люди - двуногие млекопитающие с преимущественно безволосой кожей. Оттенки их кожи варьируются от персиковых до темно-коричневых и черных. Рост самцов составляет в среднем 1,8 метра, а самки ниже и, как правило, не такие коренастые. Они перерабатывают кислород для дыхания и могут переваривать различные животные и растительные вещества. Их биология хорошо приспособлена ко многим средам обитания в галактике, что, возможно, объясняет их доминирующее положение и повсеместное распространение.
 
-[P][B]Society:[b] Human ambition and competition have split their species into many different societies. Across the galaxy, humans live under every political system ever devised, from feudalism and theocracy to democracy and autocracy, with human technology encompassing a similarly wide variation.
+[P][B]Общество:[b] Человеческие амбиции и конкуренция разделили их вид на множество различных обществ. По всей галактике люди живут при всех когда-либо созданных политических системах - от феодализма и теократии до демократии и автократии, а человеческие технологии имеют столь же широкое разнообразие.
 
-[P][B]Homeworld:[b] Humans are thought to have arisen somewhere in the Core Worlds, perhaps on Coruscant itself. However, humans took to the stars so long ago (perhaps even before the invention of faster-than-light travel) that now, humans claim countless planets as their homes.
+[P][B]Родной мир:[b] Считается, что люди возникли где-то в Центральных мирах, возможно, на самом Корусанте. Однако люди отправились к звездам так давно (возможно, еще до изобретения сверхсветовых путешествий), что теперь их домом считается бесчисленное множество планет.
 
-[P][B]Language:[b] The main language that connects "baseline" humans is Basic, though each society has its own dialect and sometimes even sub-language.</Description>
+[P][B]Язык:[b] Основной язык, на котором общаются люди, - Бейсик, хотя в каждом обществе есть свой диалект, а иногда и подъязык.</Description>
   <Sources>
-    <Source Page="48">Edge of the Empire Core Rulebook</Source>
-    <Source Page="57">Age of Rebellion Core Rulebook</Source>
-    <Source Page="55">Force and Destiny Core Rulebook</Source>
+    <Source Page="48">Книга правил: Край Империи</Source>
+    <Source Page="57">Книга правил: Эпоха восстания</Source>
+    <Source Page="55">Книга правил: Сила и судьба</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <StartingChars>
@@ -36,13 +36,12 @@ Humans are the most populous and gregarious of the galaxy's sapient species. The
   <OptionChoices>
     <OptionChoice>
       <Key>HUMANAB</Key>
-      <Name>Skills</Name>
+      <Name>Навыки</Name>
       <Options>
         <Option>
           <Key>HUMANABSK</Key>
-          <Name>Additional Non-Career Skills</Name>
-          <Description>Humans start the game with one rank in two different non-career
-          skills of their choice.</Description>
+          <Name>Дополнительные некарьерные навыки</Name>
+          <Description>Люди начинают игру с одним рангом в двух различных некарьерных навыках по своему выбору.</Description>
           <StartingSkillTraining>
             <SkillTraining>
               <SkillCount>2</SkillCount>

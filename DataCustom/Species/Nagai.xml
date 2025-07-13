@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>NAGAI</Key>
-  <Name>Nagai</Name>
-  <Description>[H4]Nagai[h4]
+  <Name>Нагаи</Name>
+  <Description>[H4]Нагаи[h4]
 
-The Nagai, also called the N'Gai and the Knives, are a species from the satellite galaxy Firefist who invaded the wider galaxy in 4 ABY.
+Нагаи, также называемые Н'гай и Ножи, - это вид из карликовой галактики Огненный кулак, который вторгся в широкую галактику в 4 ДБЯ.
 
-[P][B]Physiology:[b] The Nagai are near-Humans with pale skin, jet-black hair, gray eyes, and angular features. Their appearance gives the impression that they are dead rather than alive. They believe strongly in honor and battle and craft small, short-bladed weapons called Tehk'la blades. They live on the planet Nagi, beyond the borders of both the Galactic Republic and the Galactic Empire in the satellite galaxy known as Firefist. Despite their isolation, a number of Nagai ventured into the wider galaxy, with some becoming Jedi Padawans in the days of the Republic.
+[P][B]Физиология:[b] Нагаи - почти люди с бледной кожей, иссиня-черными волосами, серыми глазами и угловатыми чертами лица. Их внешний вид создает впечатление, что они скорее мертвы, чем живы. Они свято верят в честь и битву и изготавливают небольшое короткоклинковое оружие, называемое клинками Техк'ла. Они живут на планете Наги, за пределами границ Галактической Республики и Галактической Империи, в галактике-спутнике, известной как Файерфист. Несмотря на свою изолированность, многие нагайцы выходят в широкую галактику, а некоторые становятся падаванами джедаев во времена Республики.
 
-[P][B]Society:[b] Nagai are driven by a strong sense of personal honor, tempered by their own individualities. They fear nothing aside from losing their freedom and have little concerns for individuals outside of their own families, only aiding others when bound by honor or seeking personal gain.
+[P][B]Общество:[b] Нагаи движимы сильным чувством личной чести, сдерживаемым их собственной индивидуальностью. Они не боятся ничего, кроме потери свободы, и мало заботятся о людях за пределами своей семьи, помогая другим лишь по долгу чести или в поисках личной выгоды.
 
-[P][B]Homeworld:[b] Nagi is a planet in the Unknown Regions, located in the dwarf galaxy known as Firefist that orbits the known galaxy. Even by 130 ABY, few non-Nagai knew the world's location. It is one of five planets in its solar system.
+[P][B]Родной мир:[b] Наги - планета в Неизведанных Регионах, расположенная в карликовой галактике, известной как Огненный Кулак, которая вращается вокруг известной галактики. Даже к 130 году нашей эры мало кто из не-нагайцев знал о ее местонахождении. Это одна из пяти планет в его солнечной системе.
 
-[P]Nagi is an arid world, and quite mountainous, characterized by very high mountain peaks separated by deep, wide valleys. The thin upper atmosphere is relatively ineffective at blocking solar radiation, and the high peaks of the world are bathed in it. As a result, the deep valleys, which are often cast in shadow by the towering mountains, are the site of the Nagai's cities. At the height of their civilization just prior to the Tof invasion, Nagai cities were composed of wire and crystal, and were perceived as beautiful.
+[P]Наги - засушливый и довольно гористый мир, для которого характерны очень высокие горные вершины, разделенные глубокими и широкими долинами. Тонкие верхние слои атмосферы относительно неэффективно блокируют солнечную радиацию, и высокие пики мира купаются в ней. В результате в глубоких долинах, на которые часто падает тень от возвышающихся гор, расположены города Нагаи. В период расцвета своей цивилизации, незадолго до вторжения тофов, города Нагаи состояли из проволоки и хрусталя и считались прекрасными.
 
-[P][B]Language:[b] Nagaian is the native language of the Nagai species from Nagi. It is a language characterized by slight variations of tone and pitch, resulting in what some regarded as a musical, lilting quality.
+[P][B]Язык:[b] Нагаян - родной язык нагаев из Наги. Этот язык характеризуется небольшими изменениями тона и высоты тона, в результате чего он приобретает музыкальный, лилейный характер.
 
-[P]Most Nagai are fluent in both Nagaian and Basic, although they are only literate in their own language. While other species are capable of learning the language, few are able to master it.</Description>
-  <Source>Unofficial Species Menagerie</Source>
+[P]Большинство нагаев свободно владеют нагаианским и бейсиком, хотя грамотны они только на своем языке. Хотя другие виды способны выучить этот язык, лишь немногие могут овладеть им.</Description>
+  <Source>Неофициальный зверинец видов</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>1</Brawn>
@@ -42,13 +42,13 @@ The Nagai, also called the N'Gai and the Knives, are a species from the satellit
   <OptionChoices>
     <OptionChoice>
       <Key>NAGAICH1</Key>
-      <Name>Skills</Name>
+      <Name>Навыки</Name>
       <Description />
       <Options>
         <Option>
           <Key>NAGAICH1OP1</Key>
-          <Name>Charm</Name>
-          <Description>Nagai may begin the game with one free rank in Charm.</Description>
+          <Name>Обаяние</Name>
+          <Description>Нагаи может начать игру с одним свободным рангом в "Обаянии".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>CHARM</Key>
@@ -59,8 +59,8 @@ The Nagai, also called the N'Gai and the Knives, are a species from the satellit
         </Option>
         <Option>
           <Key>NAGAICH1OP2</Key>
-          <Name>Coordination</Name>
-          <Description>Nagai may begin the game with one free rank in Coordination</Description>
+          <Name>Координация</Name>
+          <Description>Нагаи может начать игру с одним свободным рангом в "Координации".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>COORD</Key>

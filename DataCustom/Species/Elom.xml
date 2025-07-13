@@ -1,96 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>ELOM</Key>
-  <Name>Elom</Name>
-  <Description>[H4]Elom[h4]
-The Eloms and Elomin share similar names and the
-same homeworld, but are physically and culturally
-very different species. The Elomin are tall and exclusively bipedal, with physical traits similar to those of
-other humanoid species in the galaxy. The Eloms are
-shorter, stockier, and covered in fur, and have a large
-head with widespread eyes. The Elomin were known
-first to the rest of the galaxy, after Republic scouts first
-made contact with the world. In fact, the surface dwelling Elomin were themselves ignorant of the Eloms'
-existence until the former pursued extensive mining efforts and inadvertently crashed into the Eloms'
-underground territories. The Elomin were not keen to
-share their cold, dry world, but eventually yielded to
-Republic pressure. The two species pursue a separate
-existence from each other whenever possible.
-[P][B]Physiology:[b] The Eloms evolved for life
-underground. They are short and have a solid, stocky
-build, with large hands and feet that end in large
-curved claws. They are adept at digging underground
-using their clawed hands and prehensile clawed toes
-They have wide heads with short, stubby eye stalks
-on either side. Their dependence on centuries of
-phosphorescent light underground enables them to
-see very well in dim light, but this makes them very
-sensitive to the bright light of the surface world. The
-Eloms have a pair of closely set tusks low on their
-face, with nasal features set high between their eyes
-The Eloms regulate their body temperature and moisture retention through a combination of rough, oily
-fur and layers of fat. They are herbivores and are
-particularly adapted to eating the unusual plants and
-fungi that can be found or cultivated underground on
-their home planet, also named Elom.
-[P]Despite their laid-back manner, Eloms are intelligent and can be very ambitious. They are also highly isolated from other sepcies, so Eloms unleashed on the wider galaxy tend to be a bit naive, at least initially. This makes them susceptible to suggestions, manipulation, and deception to convince them to do things against their own interests. Those Eloms who do travel the galaxy usually adapt gradually to a more cosmopolitan lifestyle.
-[P][B]Society:[b] The Eloms reside almost exclusively
-underground on their homeworld. Prior to discovery
-by the Elomin during the days of the form er Republic,
-they were not technologically advanced. In fact, their
-mannerisms and unique societal structures prom pted
-the Elomin to regard them initially as non-sentient,
-and so they once frequently enslaved Eloms in their
-mines. The Republic's representatives found otherwise and forced the Elomin to form ally recognize the
-Eloms as a species with rights that they must respect.
-[P]The Eloms are largely pacifists and usually easy
-to get along with. Despite the difficulties during the
-many years after the Elomin discovered them, the
-Eloms were willing to put aside past Elomin behavior
-and move forward in peaceful coexistence. The Elomin were initially wary, and reluctant to accept responsibility for the oppression of the Eloms. However, after the
-Republic's intervention, the Eloms never sought retribution against the Elomin, and eventually tensions
-eased between the two societies, though they largely
-ignored each other. Most Eloms preferred their underground society to what waited beyond the surface or
-among the stars. Years of Imperial rule have altered
-that position, especially among the younger Eloms.
-[P][B]Homeworld:[b] Elom is a frigidly cold desert world.
-Elomin settlements and cities dot the surface. Their
-cities are as technologically advanced as those found
-on most Imperial worlds. The planet is best known
-as a source of lommite, which is used in the manufacture of transparisteel windows for starships and
-other craft. Originally an industry contracted out to
-offworld mining operators, it is now controlled by the
-Empire. Whereas the original agreements tried to
-preserve and respect the planet’s environment, the
-Imperials place efficiency and production well above
-local concerns. The steady, continued destruction
-of vast areas of their world trouble and anger both
-the Elomin and Eloms. Both have been powerless to
-slow it down, let alone bring it to a halt.
-[P]Elomin cities and towns are clustered in the more
-hospitable environments around the harsher deserts. Mining operations are farther afield, given that
-mines close to the oldest cities were depleted long
-ago. Imperial interests and operations focus on the
-mines. Imperials in the cities have no qualms about
-forcing Elomin into service as miners. Banishment
-to the mines is a common and cruel form of punishment for anyone who opposes the Empire or offends
-the wrong Imperial official. However, reasons for
-hauling someone away are just a formality, and the
-Elomin understand that anyone could be next.
-[P]The Empire has largely ignored the Eloms’ deep
-cities, located far below the planet’s surface. The
-cities have varying levels of technology, depending
-on the location and even the neighborhood within a
-settlement. Most advanced technology is imported
-from the Elomin and sometimes beyond. Many cities, remote caverns, and dwellings are connected
-by natural and Elom-constructed tunnels. The tunnels range in size from those requiring single file passage, to more sophisticated varieties with pavd floors and reinforced roofs. Some are large enought to allow forspeeder traffic. Many of the cities and tunnels are so far underground that the Imperials have difficulty detecting them, let alone setting up surveillance. The cities are largely home to just the Eloms. However, some Elomin resued from Imperial mining efforts have been allowed to live among the Eloms indefinitely.
-[P][B]Language:[b] The Eloms and Elomin have separate languages. The Eloms speak and read Elom,
-which non-Eloms can understand but typically have
-great difficulty speaking. Likewise, the Eloms can
-learn to speak Basic, but it isn’t easy given their
-physiology. It is rare to find much in the way of Basic
-spoken or displayed in the isolated Elom underground cities. M ost Eloms who speak Basic live offworld, or have some connection to those who do.</Description>
-  <Source Page="18">Forged in Battle</Source>
+  <Name>Элом</Name>
+  <Description>[H4]Элом[h4]
+Элом и Эломин имеют схожие названия и одну и ту же родную планету, но физически и культурно являются совершенно разными видами. Эломины - высокие и исключительно двуногие, их физические черты схожи с чертами других гуманоидных видов в галактике. Эломы ниже ростом, коренастее, покрыты мехом и имеют большую голову с широко расставленными глазами. Эломины стали известны остальным жителям галактики после того, как разведчики Республики впервые установили контакт с этим миром. Эломины, живущие на поверхности, сами не знали о существовании Эломов, пока первые не занялись добычей полезных ископаемых и случайно не наткнулись на подземные территории Эломов. Эломины не хотели делиться своим холодным и сухим миром, но в конце концов уступили давлению Республики. Эти два вида по возможности живут отдельно друг от друга.
+[P][B]Физиология:[b] Эломы эволюционировали для жизни под землей. Они невысокого роста, крепкого коренастого телосложения, с большими руками и ногами, заканчивающимися крупными изогнутыми когтями. Они умеют копать под землей, используя свои когтистые руки и когтистые пальцы. У них широкие головы с короткими, укороченными глазными стеблями по обеим сторонам. Зависимость от векового фосфоресцирующего света под землей позволяет им хорошо видеть при тусклом освещении, но это делает их очень чувствительными к яркому свету на поверхности. Эломы имеют пару близко расположенных клыков на лице, а нос расположен высоко между глазами. Эломы регулируют температуру своего тела и удерживают влагу с помощью грубого, жирного меха и слоев жира. Они травоядны и особенно приспособлены к поеданию необычных растений и грибов, которые можно найти или вырастить под землей на их родной планете, также называемой Элом.
+[P]Несмотря на свой спокойный нрав, Эломы умны и могут быть очень амбициозны. Они также очень изолированы от других сепсисов, поэтому Эломы, выпущенные в широкую галактику, обычно немного наивны, по крайней мере, поначалу. Это делает их восприимчивыми к внушениям, манипуляциям и обману, чтобы убедить их действовать вопреки собственным интересам. Те Эломы, которые путешествуют по галактике, обычно постепенно адаптируются к более космополитичному образу жизни.
+[P][B]Общество:[b] Эломы живут почти исключительно под землей на своей родной планете. До того как эломины открыли их во времена становления Республики, они не были технологически развитыми. Более того, их манеры поведения и уникальная структура общества заставили эломинов поначалу считать их неразумными, поэтому они часто порабощали эломов в своих шахтах. Представители Республики убедились в обратном и заставили эломинов признать эломов как вид, обладающий правами, которые они должны уважать.
+[P]Эломы в большинстве своем пацифисты, и с ними обычно легко найти общий язык. Несмотря на трудности, возникшие в течение многих лет после того, как Эломин обнаружили их, Эломы были готовы забыть о прошлом поведении Эломинов и двигаться вперед в мирном сосуществовании. Поначалу эломины были настороже и не хотели брать на себя ответственность за угнетение эломов. Однако после вмешательства Республики эломины перестали искать возмездия против эломинов, и в конце концов напряженность между двумя обществами ослабла, хотя они в основном игнорировали друг друга. Большинство эломов предпочитали свое подземное общество тому, что ждало их за пределами поверхности или среди звезд. Годы имперского правления изменили эту позицию, особенно среди молодых эломов.
+[P][B]Родной мир:[b] Элом - это холодный пустынный мир. Поселения и города эломинов усеяли поверхность. Их города по технологическому уровню не уступают большинству имперских миров. Планета наиболее известна как источник ломмита, который используется в производстве транспаристиловых окон для звездолетов и других кораблей. Изначально эта отрасль была отдана на откуп операторам, ведущим добычу за пределами планеты, но теперь она контролируется Империей. В то время как первоначальные соглашения предусматривали сохранение и уважение окружающей среды планеты, имперцы ставят эффективность и производство гораздо выше местных забот. Постоянное уничтожение огромных территорий своего мира беспокоит и злит как Эломин, так и Эломов. И те, и другие бессильны замедлить процесс, не говоря уже о том, чтобы остановить его.
+[P]Города и поселки Эломина сосредоточены в более благоприятной среде вокруг суровых пустынь. Горнодобывающие предприятия находятся дальше, поскольку шахты вблизи самых старых городов давно истощились. Имперские интересы и операции сосредоточены на рудниках. Имперцы в городах без стеснения заставляют эломинов служить шахтерами. Изгнание на рудники - распространенная и жестокая форма наказания для тех, кто выступает против Империи или оскорбляет не того имперского чиновника. Однако причины для изгнания - всего лишь формальность, и эломины понимают, что следующим может стать любой.
+[P]Империя практически игнорирует глубинные города Элома, расположенные далеко под поверхностью планеты. Города имеют разный уровень развития технологий, в зависимости от местоположения и даже района внутри поселения. Большинство передовых технологий импортируется с Эломина, а иногда и из-за его пределов. Многие города, отдаленные пещеры и жилища соединены естественными и построенными Эломом туннелями. Туннели различаются по размеру: от тех, что требуют одиночного прохождения, до более сложных, с мощеными полами и укрепленными крышами. Некоторые из них достаточно велики, чтобы по ним можно было передвигаться на спидерах. Многие города и туннели находятся так далеко под землей, что имперцам трудно их обнаружить, не говоря уже о том, чтобы установить наблюдение. В городах живут в основном одни Эломы. Однако некоторым эломинам, спасенным от имперских горных работ, было разрешено жить среди эломов неограниченное время.
+[P][B]Язык:[b] У Эломов и Эломинов разные языки. Эломы говорят и читают на эломском, который неэломины могут понимать, но обычно с большим трудом. Эломы также могут научиться говорить на бейсике, но это нелегко, учитывая их физиологию. В изолированных подземных городах Элома редко можно встретить, чтобы на Бейсике говорили или показывали. Большинство эломов, говорящих на бейсике, живут за пределами мира или имеют какие-то связи с теми, кто говорит на нем.</Description>
+  <Source Page="18">Дополнение: Закаленные в битве</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>3</Brawn>
@@ -118,14 +40,12 @@ spoken or displayed in the isolated Elom underground cities. M ost Eloms who spe
   <OptionChoices>
     <OptionChoice>
       <Key>ELOMOC1</Key>
-      <Name>Ability</Name>
+      <Name>Способность</Name>
       <Options>
         <Option>
           <Key>ELOMOC1OP1</Key>
-          <Name>Digging Claws</Name>
-          <Description>
-            Elom may use a move maneuver to travel through loose soil or similar terrain.  Can result in low, narrow tunnel that others can use, at GM's discretion.
-          </Description>
+          <Name>Когти для рытья</Name>
+          <Description>Элому можно использовать маневр перемещения, чтобы пройти по рыхлой почве или похожей местности. На усмотрение ГМа может получиться низкий, узкий туннель, которым могут воспользоваться другие.</Description>
           <DieModifiers>
           </DieModifiers>
         </Option>

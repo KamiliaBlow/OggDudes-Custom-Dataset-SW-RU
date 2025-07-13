@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>GAND</Key>
-  <Name>Gand</Name>
-  <Description>[H4]Gand[h4]
-Gands are a mysterious insectoid species whose "findsmen" treat tracking quarry as a religious duty. They are exceptionally good at divining the location of individuals through ritualistic methods that off-worlders might consider backward and barbaric.
+  <Name>Ганд</Name>
+  <Description>[H4]Ганд[h4]
+Ганды - загадочный инсектоидный вид, чьи "находчики" относятся к поиску добычи как к религиозному долгу. Они исключительно хорошо умеют определять местонахождение людей с помощью ритуальных методов, которые жителям других миров можно счесть отсталыми и варварскими.
 
-[P][B]Physiology:[b] Though prevalent in the fringes of the Outer Rim, Gands remain a puzzle to xenobiologists. Over a dozen distinct subspecies of the Gands have been reported. All are covered in a dense chitinous exoskeleton and reach a height at adulthood of about 1.6 meters. They have three fingers on each hand, which are as dextrous as those of other humanoids, allowing them to manipulate equipment designed for five-fingered individuals.
+[P][B]Физиология:[b] Хотя ганды распространены на окраинах Внешнего кольца, они остаются загадкой для ксенобиологов. Известно более десятка отдельных подвидов гандов. Все они покрыты плотным хитиновым экзоскелетом и достигают в зрелом возрасте роста около 1,6 метра. У них по три пальца на каждой руке, которые по ловкости не уступают пальцам других гуманоидов, что позволяет им манипулировать оборудованием, предназначенным для пятипалых особей.
 
-[P]Where Gands subspecies differ from one another is in their respiratory biology. Most Gands who travel the spacelanes do not seem to need to breathe at all. The digestion of food in their stomachs produces the ammo-nia necessary for their biochemistry. Wasteful byproducts and extraneous ammonia are expelled through their exo-skeletons. These Gands often emanate an unpleasant methane musk. Other Gand subspecies possess actual lungs and cannot produce ammonia through digestion, instead requiring a special breathing apparatus.
+[P]Подвиды гандов отличаются друг от друга биологией дыхания. Большинству гандов, путешествующих по космическим просторам, кажется, вообще не нужно дышать. При переваривании пищи в желудке образуется аммо-ния, необходимая для биохимии. Отработанные побочные продукты и посторонний аммиак выводятся через их экзоскелет. От этих гандов часто исходит неприятный метановый мускус. Другие подвиды гандов обладают настоящими легкими и не могут вырабатывать аммиак в процессе пищеварения, поэтому им требуется специальный дыхательный аппарат.
 
-[P]Questions about Gand biology continue to go unanswered, since the Gand refuse to permit other species to study them. Some xenobiologists conjecture that Gand religious rituals dictate genetic manipulation, which has produced many different varieties of Gands.
+[P]Вопросы о биологии гандов по-прежнему остаются без ответа, поскольку ганды не разрешают другим видам изучать их. Некоторые ксенобиологи предполагают, что религиозные ритуалы Гандов диктуют генетические манипуляции, в результате которых появилось множество различных разновидностей Гандов.
 
-[P][B]Society:[b] Gands have a closed culture. What is known about them is that religion and life are closely entwined. A gathering of elders called the Ruetsavii observes the various religious sects that represent the virtues of Gand life. Off-worlders are most familiar with the religious sect known as the "findsmen." These are the Gand who leave their home planet on ritualistic hunts to catch prey and bring divine blessings to their people. Many other sects are rumored to exist, particularly in the fields of genetics, medicine, and engineering, but their exact natures are unknown.
+[P][B]Общество:[b] У гандов закрытая культура. О них известно лишь то, что религия и жизнь тесно переплетены. Собрание старейшин под названием "Руцавии" наблюдает за различными религиозными сектами, которые представляют добродетели жизни Гандов. Жители других миров лучше всего знакомы с религиозной сектой, известной как "находники". Это Ганды, которые покидают родную планету на ритуальные охоты, чтобы поймать добычу и принести божественное благословение своему народу. По слухам, существует множество других сект, особенно в области генетики, медицины и инженерии, но их точная природа неизвестна.
 
-[P][B]Homeworld:[b] Sharing the same name as its species, Gand is an Outer Rim world clouded in ammonia and methane. Trade is handled through orbiting stations as foreigners are rarely allowed on the planet's surface. Those non-Gand who land on the world must stay in the specially equipped Alien Quarters.
+[P][B]Родной мир:[b] Ганд, получивший такое же название, как и его вид, - это мир Внешнего кольца, окутанный аммиаком и метаном. Торговля ведется через орбитальные станции, поскольку чужаков редко пускают на поверхность планеты. Те, кто высаживается на планету не с Ганда, должны оставаться в специально оборудованных помещениях для инопланетян.
 
-[P][B]Language:[b] Droids fare much better than well-trained humanoid linguists in reproducing the clicks and chirrups of the Gand spoken language. Without the need to intake breathable gases, most Gand lack the vocal cords to make the sounds of Basic and other languages. They must use droids or translation devices to converse in groups that do not understand their language.
+[P][B]Язык:[b] Дроиды гораздо лучше, чем хорошо обученные гуманоиды-лингвисты, воспроизводят щелчки и щебетание разговорного языка гандов. Без необходимости вдыхать газы у большинства гандов нет голосовых связок, чтобы издавать звуки основного и других языков. Для общения в группах, не понимающих их язык, они вынуждены использовать дроидов или устройства перевода.
 
-[P]The grammar that Gand use reflects their place in society. Before a Gand earns his identity and is accepted among his peers, he refers to himself in the third person, calling himself "Gand." Once he has done a deed of distinction, a Gand may take his family name. Gand cannot use their first names until they have become "persons of greatness"—janwuine in their own tongue—and received commendations from their peers. This causes many off-worlders to view the Gand as a people of extreme humility. </Description>
+[P]Грамматика, которую используют Ганды, отражает их место в обществе. Пока Ганд не заработал свою личность и не был принят среди своих сверстников, он обращается к себе в третьем лице, называя себя "Ганд". После совершения выдающегося поступка Ганду можно говорить свою фамилию. Ганд не может использовать свое имя до тех пор, пока не станет "великим человеком" - джанвуином на своем языке - и не получит похвалу от своих сверстников. Из-за этого многие жители других миров считают гандов людьми крайне скромными.</Description>
   <Sources>
-    <Source Page="47">Edge of the Empire Core Rulebook</Source>
-    <Source Page="18">Endless Vigil</Source>
+    <Source Page="47">Книга правил: Край Империи</Source>
+    <Source Page="18">Дополнение: Бесконечное бдение</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <StartingChars>
@@ -46,20 +46,20 @@ Gands are a mysterious insectoid species whose "findsmen" treat tracking quarry 
   <OptionChoices>
     <OptionChoice>
       <Key>GANDAB</Key>
-      <Name>Breathing</Name>
+      <Name>Дыхание</Name>
       <Options>
         <Option>
           <Key>GANDABLUNG</Key>
-          <Name>Has Lungs</Name>
-          <Description>Requires ammonia respirator</Description>
+          <Name>Аммиачные легкие</Name>
+          <Description>Требуется респиратор с аммиаком.</Description>
           <StartingAttributes>
             <Experience>10</Experience>
           </StartingAttributes>
         </Option>
         <Option>
           <Key>GANDABNOLUNG</Key>
-          <Name>Lungless</Name>
-          <Description>Immune to suffocation</Description>
+          <Name>Без легких</Name>
+          <Description>Невосприимчивость к удушью.</Description>
         </Option>
       </Options>
     </OptionChoice>

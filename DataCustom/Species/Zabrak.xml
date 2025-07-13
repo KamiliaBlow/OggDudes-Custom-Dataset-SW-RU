@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>ZABRAK</Key>
-  <Name>Zabrak</Name>
-  <Description>[H4]Zabrak[h4]
+  <Name>Забрак</Name>
+  <Description>[H4]Забрак[h4]
 
-Zabrak resemble humans in skin tone and physique. but they are easily distinguished by their vestigial horns. They are renowned for both their inherent confidence and their martial prowess.
+Забраки похожи на людей цветом кожи и телосложением, но их легко отличить по рудиментарным рогам. Они известны как своей врожденной уверенностью, так и боевым мастерством.
 
-[P][B]Physiology:[b] Zabrak physiology is similar to human, with several notable differences, including the presence of a second heart and a heightened resistance to physical pain. Zabrak vestigial horns emerge at puberty; they are a sign that an individual is reaching maturation and nearing the age of the traditional rite of passage. Zabrak skin colors range from near-ivory through browns to near-black, in a broad range of tones. Some have hair, but many are completely bald. Eye colors include the common human range, but can also include yellow, red, and orange.
+[P][B]Физиология:[b] Физиология забраков схожа с человеческой, с несколькими заметными отличиями, включая наличие второго сердца и повышенную устойчивость к физической боли. В период полового созревания у забраков появляются рудиментарные рога; они являются признаком того, что человек достигает зрелости и приближается к возрасту традиционного обряда перехода. Цвет кожи сабраков варьируется от почти цвета слоновой кости через коричневый до почти черного, в широком диапазоне оттенков. У некоторых есть волосы, но многие полностью лысые. Цвет глаз - обычный человеческий, но также может включать желтый, красный и оранжевый.
 
-[P][B]Society:[b] Upon completing the rite of passage, Zabrak adopt a pattern of facial tattoos. These are generally made up of a pattern of thin lines and elegant designs. They are often based on family tradition, but can also incorporate personal designs or representations associated with significant events.
+[P][B]Общество:[b] Пройдя обряд посвящения, забраки делают татуировки на лице. Обычно они состоят из тонких линий и изящных узоров. Часто они основаны на семейных традициях, но могут включать и личные рисунки или изображения, связанные с важными событиями.
 
-[P]Zabrak are renowned for their self-assurance and independent natures. The harsh conditions of their homeworld, Iridonia, led to a particularly competitive and warlike nature in Its inhabitants. Thus, study in martial arts is common throughout Zabrak cultures. The bladed quarterstaff—known as a zhaboka—is a culturally significant weapon to Zabrak; historically, Zabrak would wield zhabokas while riding reeks, their war mounts. The combination of determination and military prowess has made Zabrak culture extremely resistant to Imperial domination.
+[P]Забраки известны своей самоуверенностью и независимым характером. Суровые условия их родной планеты, Иридонии, привели к тому, что ее жители стали особенно конкурентоспособными и воинственными. Поэтому изучение боевых искусств распространено во всех культурах Забраков. Клинковый посох с четвертью, известный как жабока, является культурно значимым оружием для забраков; исторически забраки орудовали жабоками, сидя верхом на рексах, своих боевых конях. Сочетание решительности и воинской доблести сделало культуру забраков чрезвычайно устойчивой к имперскому господству.
 
-[P]In concert with their militaristic tendencies, Zabrak have established a reputation as exceptional weaponsmiths. They craft both traditional melee weapons and reliable blasters. While none of these armaments are mass-produced, they can still be found throughout the galaxy (sometimes when Zabrak surreptitious-ly arm other oppressed species).
+[P]В соответствии со своими милитаристскими наклонностями, забраки завоевали репутацию выдающихся оружейников. Они изготавливают как традиционное оружие ближнего боя, так и надежные бластеры. Хотя ни одно из этих вооружений не выпускается массово, их можно найти по всей галактике (иногда, когда забраки тайком вооружают другие угнетенные виды).
 
-[P][B]Homeworld:[b] Zabrak are native to Iridonia, a world located in the Mid Rim. Because its environment is so hostile to life—conditions include brutal weather. acidic seas, and a host of predatory wildlife—many Zabrak were quick to embrace spacefaring and migrate to other worlds. Consequently, many Zabrak identify themselves with their colony world rather than the homeworld of their species. Zabrak colonies can now be found spread across the galaxy. from established colonies on major metropolitan worlds to enclaves in entirely unexpected locations, such as the mountain colonies found on Dathomir. The Dathomirian Zabrak emphasize their culture's warlike tendencies to the exclusion of all else, and tend to be even more violent and dangerous than their off-world kin.
+[P][B]Родной мир:[b] Забраки - уроженцы Иридонии, мира, расположенного в Среднем кольце. Поскольку окружающая среда здесь настолько неблагоприятна для жизни - жестокие погодные условия, кислотные моря и множество хищных диких животных, - многие забраки быстро освоили космическое пространство и переселились в другие миры. Поэтому многие забраки отождествляют себя с миром-колонией, а не с родной планетой своего вида. Сейчас колонии забраков можно найти по всей галактике: от основанных колоний в крупных мегаполисах до анклавов в совершенно неожиданных местах, таких как горные колонии на Датомире. Датомирские забраки подчеркивают воинственные наклонности своей культуры, исключая все остальное, и, как правило, еще более жестоки и опасны, чем их сородичи за пределами планеты.
 
-[P][B]Language:[b] The native language of Zabrak from Iridonia is Zabraki. However, because of their long association with broader galactic civilization, almost all Zabrak also speak Basic.</Description>
-  <Source Page="62">Force and Destiny Core Rulebook</Source>
+[P][B]Язык:[b] Родной язык забраков с Иридонии - забрак. Однако из-за долгой связи с более широкой галактической цивилизацией почти все забраки также говорят на бейсике.</Description>
+  <Source Page="62">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -43,16 +43,13 @@ Zabrak resemble humans in skin tone and physique. but they are easily distinguis
   <OptionChoices>
     <OptionChoice>
       <Key>ZABRAKOC1</Key>
-      <Name>Fear</Name>
+      <Name>Страх</Name>
       <Description />
       <Options>
         <Option>
           <Key>ZABRAKOC1OP1</Key>
-          <Name>Fearsome Countenance</Name>
-          <Description>
-            A Zabrak
-            adds automatic [ADVANTAGE] to all Coercion checks he makes.
-          </Description>
+          <Name>Страшный облик</Name>
+          <Description>Забрак добавляет автоматическое [ADVANTAGE] ко всем проверкам "запугивания", которые он делает.</Description>
           <DieModifiers>
             <DieModifier>
               <SkillKey>COERC</SkillKey>

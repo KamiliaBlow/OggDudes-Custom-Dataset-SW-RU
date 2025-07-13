@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>NAUTOLAN</Key>
-  <Name>Nautolan</Name>
-  <Description>[H4]Nautolan[h4]
+  <Name>Наутолан</Name>
+  <Description>[H4]Наутолан[h4]
 
-Nautolans are an amphibious species native to Glee Anselm. They are renowned for empathetic and cheerful natures and for enjoying everyday activities. Though generally peaceful, they are also tough and strong.
+Наутоланы - земноводный вид, обитающий в Хоре Ансельм. Они известны своим сочувствием и жизнерадостностью, а также тем, что любят заниматься повседневными делами. Хотя в целом они миролюбивы, они также выносливы и сильны.
 
-[P][B]Physiology:[b] Nautolans are a natively aquatic humanoid species capable of breathing underwater. Webbed toes and fingers aid them in swimming through the depths. A dense cartilaginous support network combines with a bony endoskeleton to make them exceptionally tough. Lengthy green tendrils emerge from their heads, serving as sensory organs that detect the pheromones of nearby sentients. Their large black eyes are adapted to pierce the murkiest underwater environments. However, Nautolans are capable of surviving for extended periods on dry land.
+[P][B]Физиология:[b] Наутоланы - исконно водный гуманоидный вид, способный дышать под водой. Перепончатые пальцы рук и ног помогают им плавать на глубине. Плотная хрящевая опорная сеть в сочетании с костным эндоскелетом делает их необычайно выносливыми. Из их голов выходят длинные зеленые усики, служащие органами чувств, которые улавливают феромоны ближайших разумных. Их большие черные глаза приспособлены для того, чтобы проникать в самую мутную подводную среду. Однако наутоланы способны выживать в течение длительного времени на суше.
 
-[P]Nautolans are an egg-laying species. When hatching, they emerge from the eggs as tadpoles. Arms, legs, and head-tails begin to emerge during the second year of life, at which point they are roughly the same size as a human infant. Initially, these limbs are not strong enough to support their weight on land, so most spend their early years in aquatic environments.
+[P]Наутоланы - яйцекладущий вид. При вылуплении они выходят из яиц в виде головастиков. Руки, ноги и голова-хвост начинают появляться на втором году жизни, и в этот момент они примерно соответствуют размерам человеческого младенца. Поначалу эти конечности недостаточно сильны, чтобы выдерживать вес на суше, поэтому большинство из них проводят первые годы жизни в водной среде.
 
-[P][B]Society:[b] An elected Council of Elders forms the centralized government for Nautolan settlements. On Glee Anselm, representatives from each settlement cooperate to form an overarching centralized government. Notably, ''elder" is a title of respect, as representatives are elected based upon merit rather than age.
+[P][B]Общество:[b] Избранный Совет старейшин формирует централизованное правительство наутоланских поселений. На Гли Ансельм представители каждого поселения сотрудничают, чтобы сформировать всеобъемлющее централизованное правительство. Примечательно, что "старейшина" - это титул уважения, поскольку представители избираются на основе заслуг, а не возраста.
 
-[P]Nautolans mate for life and are extremely loyal to their families. Both parents contribute equally to raising their young. Historically, Nautolan parents arranged marriages for their children, but in modern times this has become much less common.
+[P]Наутоланы спариваются на всю жизнь и очень верны своим семьям. Оба родителя вносят равный вклад в воспитание своих детей. Исторически сложилось так, что родители наутоланов устраивали браки для своих детей, но в наше время это стало гораздо менее распространенным явлением.
 
-[P]Nautolan moods often reflect those of nearby sentients due to the pheromone sensitivity of their tendrils. As a broad generalization. Nautolans are happy and free-spirited, particularly when given an opportunity to pursue their interests. However, when confronted with anger or despair, members of this empathetic species are prone to respond in kind.
+[P]Благодаря чувствительности усиков к феромонам настроение наутоланов часто отражает настроение находящихся поблизости разумных. В целом. Наутоланы счастливы и свободолюбивы, особенно когда им предоставляется возможность реализовать свои интересы. Однако, столкнувшись с гневом или отчаянием, представители этого сочувствующего вида склонны отвечать добром на добро.
 
-[P][B]Homeworld:[b] Glee Anselm is a Mid Rim world filled with a broad range of aquatic environments. Its few landmasses are largely archipelagos. While Nautolans evolved in Glee Anselm's oceans, another unrelated species—the Anselmi—arose to dwell upon its landmasses. Constant fighting over the land turned the Anselmi into a warlike people. This has led to many conflicts throughout the world's history.
+[P][B]Родной мир:[b] Гли Ансельм - это мир Срединного кольца с широким спектром водной среды. Его немногочисленные суши в основном представляют собой архипелаги. В то время как наутоланы развивались в океанах Хора Ансельма, на его суше поселился другой неродственный вид - ансельми. Постоянные стычки за землю превратили ансельми в воинственный народ. Это привело к многочисленным конфликтам на протяжении всей истории мира.
 
-[P][B]Language:[b] Nautolans' native language is Nautila, which was originally created for underwater use. In atmosphere, the language is largely unpronounceable, as it is dependent upon pheromones that are dispersed through the water in conjunction with spoken sounds. Consequently, Nautolans invariably learn to speak another language, most commonly Basic or Anselmian.</Description>
-  <Source Page="59">Force and Destiny Core Rulebook</Source>
+[P][B]Язык:[b] Родной язык наутоланов - наутила, который изначально был создан для использования под водой. В атмосфере этот язык практически невозможно произнести, поскольку он зависит от феромонов, которые распространяются через воду вместе с разговорными звуками. Поэтому наутолийцы неизбежно учатся говорить на другом языке, чаще всего бейсике или ансельмианском.</Description>
+  <Source Page="59">Книга правил: Сила и судьба</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>3</Brawn>
@@ -44,16 +44,13 @@ Nautolans are an amphibious species native to Glee Anselm. They are renowned for
   <OptionChoices>
     <OptionChoice>
       <Key>NAUTOLANCH1</Key>
-      <Name>Breathe</Name>
+      <Name>Дыхание</Name>
       <Description />
       <Options>
         <Option>
           <Key>NAUTOLANCH1OP1</Key>
-          <Name>Amphibious</Name>
-          <Description>Nautolans may breathe
-underwater without penalty and never suffer
-movement penalties for traveling through
-water.</Description>
+          <Name>Амфибии</Name>
+          <Description>Наутоланам можно дышать под водой без штрафа, и они никогда не получают штрафов за передвижение по воде.</Description>
         </Option>
       </Options>
     </OptionChoice>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>DRABATAN</Key>
-  <Name>Drabatan</Name>
-  <Description>[H4]Drabatan[h4]
-Music-obsessed amphibious humanoids, Drabatans come from the freshwater swamps of Pipada. Drabatans are renowned performers, often touring the galaxy on the strength of their skills. Their passionate nature includes a penchant for protest, which resulted in disaster when criticism of the Emporer went too far. Imperial reprisals since have been harsh.
-[P][B]Physiology:[b] Drabatans are amphibious humanoids with grey-green skin, small dark eyes, and a massive mouth. They stand slightly shorter than humans. They are excellent swimmers (though they strongly dislike salt water) and dine on a variety of insects, fish, and algae. To reproduce, Drabatans lay eggs that hatch tadpoles in silty pond soil. Over the course of a year, the tadpoles grow and assume bipedal features before emerging as child-sized Drabatans. They also develop large lungs and strong diaphragms, which enable them to achieve powerful vocals while singing or shouting.
-[P][B]Society:[b] Drabatans are a passionate species dedicated to the performing arts, especially song. Critics describe their music as hauntingly beautiful and insist that Drabatan music requires no translation for anyone to appreciate the ethereal, melancholy tones. Performance troupes throughout the galaxy, particularly Rodian Theater and Mon Cala Opera troupes, count Drabatans, who often play the heel, among their number. Drabatan voices are pitch-perfect, and many beings consider seeing a live performace of the Pipada Symphony Chamber Chorus to be life changing.
-[P]Song is firmly entrenched throughout everyday Drabatan life, in areas ranging from entertainment to education. Drabatan families have unique songs that detail their lineage and history, often performed at gatherings by the family's best vocalist and rearranged for the occasion. School curriculums teach everything through song, and students use jingles as mnemonic devices to help with memorization.
-[P]Drabatan culture values free artistic expression and opposes censorship. It is said that the only thing a Drabatan likes more than a song is a cause. Drabatans can be found at protest marches across the galaxy, often leading chants. Their political views have aligned them ideologically with Alderaan and Chandrila, which has created tension under Imperial rule.
-[P][B]Homeworld:[b] Swamps, bogs, and marshes cover Pipada, making it a warm and humid paradise for acclimated species like the Hutts, Shawda Ubbs, and native Drabatans. Most denizens of Pipada live in single-family homes built in trees, perched on stilts, or floating in ponds. The largest lakes host cities featuring massive towers with fountains plunging deep into the lake bed. Some of the towers support luxurious skyhooks. Anchored to downtown towers are endless strings of bobbing buoy-buildings housing a variety of shops. The are beneath the lake surface is just as busy as that above, and most buildings have entrances both above and below the water.
-[P][B]Language:[b] Satirists and artists love Drabatese for its clever ability to combine small words and syllables to form large unwieldy words with multilayered ideas and very specific meanings. The language itself is difficult to write, as sonic volume determines much of subtext and grammar. When necessary, Drabatans have a simpler, quieter language that utilizes their vocal pouches to emit croaks of varying pitch. Drabatans can also speak Basic and other languages commonly used in the performing arts.
-[P][B]Life under the Empire:[b] Most Drabatans are musicians or actors, or in related fields. Many also pursue careers in politics or advertising, leaning on their gift for strong oration. Since the Empire's crackdown on Pipada, though, many Drabatans have joined resistance groups, using their loud voices to croak battle orders instead of sing.</Description>
-  <Source Page="93">Dawn of Rebellion</Source>
+  <Name>Драбатан</Name>
+  <Description>[H4]Драбатан[h4]
+Одержимые музыкой земноводные гуманоиды Драбатанцы родом из пресноводных болот Пипады. Драбатанцы - известные исполнители, часто гастролирующие по галактике благодаря своему мастерству. Их страстная натура включает в себя склонность к протестам, что привело к катастрофе, когда критика Императора зашла слишком далеко. С тех пор императорские репрессии были суровыми.
+[P][B]Физиология:[b] Драбатанцы - земноводные гуманоиды с серо-зеленой кожей, маленькими темными глазами и огромным ртом. Ростом они чуть ниже людей. Они прекрасно плавают (хотя им очень не нравится соленая вода) и питаются разнообразными насекомыми, рыбой и водорослями. Для размножения драбатанцы откладывают яйца, из которых вылупляются головастики в заиленную почву пруда. В течение года головастики растут и приобретают двуногие черты, а затем превращаются в Драбатанца размером с ребенка. У них также развиваются большие легкие и сильная диафрагма, что позволяет им достигать мощного вокала при пении или крике.
+[P][B]Общество:[b] Драбатанцы - страстный народ, преданный исполнительскому искусству, особенно песне. Критики описывают их музыку как призрачно прекрасную и утверждают, что драбатанцы не нуждаются в переводе, чтобы каждый мог оценить их неземные, меланхоличные тона. Труппы по всей галактике, в частности труппы Родианского театра и Оперы Мон Кала, считают драбатанцев, которые часто играют на каблуках, одними из своих членов. Голоса драбатанцев совершенны, и многие существа считают, что живое выступление камерного хора "Пипада Симфони" изменит их жизнь.
+[P]Песня прочно вошла в повседневную жизнь драбатанцев, начиная от развлечений и заканчивая образованием. У семей Драбатанцев есть уникальные песни, в которых подробно описывается их родословная и история, часто исполняемые на собраниях лучшим вокалистом семьи и аранжированные по случаю. В школьных программах все преподается с помощью песен, а ученики используют джинглы в качестве мнемонических устройств, помогающих запоминанию.
+[P]Культура Драбатанцев ценит свободу художественного самовыражения и выступает против цензуры. Говорят, что единственное, что драбатанец любит больше, чем песню, - это дело. Драбатанцев можно встретить на маршах протеста по всей галактике, они часто возглавляют песнопения. Их политические взгляды идеологически объединяют их с Альдерааном и Чандрилой, что создает напряженность в условиях имперского правления.
+[P][B]Родной мир:[b] Болота, трясины и топи покрывают Пипаду, превращая ее в теплый и влажный рай для акклиматизированных видов, таких как хатты, шауда-уббы и местные драбатанцы. Большинство жителей Пипады живут в односемейных домах, построенных на деревьях, на сваях или плавающих в прудах. На самых больших озерах расположены города с массивными башнями и фонтанами, погружающимися глубоко в дно озера. Некоторые башни поддерживают роскошные небесные крюки. К башням в центре города прикреплены бесконечные вереницы плавучих буйков, в которых размещаются разнообразные магазины. Под поверхностью озера так же оживленно, как и над ним, и большинство зданий имеют входы как над, так и под водой.
+[P][B]Язык:[b] Сатирики и художники любят драбатеси за его умную способность сочетать маленькие слова и слоги, образуя большие громоздкие слова с многослойными идеями и очень конкретными значениями. Сам язык трудно поддается написанию, поскольку звуковой объем во многом определяет подтекст и грамматику. При необходимости драбатанцы пользуются более простым и тихим языком, который использует их голосовые мешочки для издавания кваканья разной высоты. Драбатанцы также могут говорить на базовом и других языках, используемых в исполнительском искусстве.
+[P][B]Жизнь под властью империи:[b] Большинство Драбатанцев - музыканты, актеры или представители смежных профессий. Многие также делают карьеру в политике или рекламе, опираясь на свой дар сильного ораторского искусства. Однако после того, как Империя подавила Пипаду, многие Драбатанцы присоединились к группам сопротивления, используя свои громкие голоса, чтобы выкрикивать боевые приказы вместо пения.</Description>
+  <Source Page="93">Дополнение: Рассвет восстания</Source>
   <Custom>AddedItem</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -29,12 +29,12 @@ Music-obsessed amphibious humanoids, Drabatans come from the freshwater swamps o
   <OptionChoices>
     <OptionChoice>
       <Key>DRABATANCH1</Key>
-      <Name>Skill</Name>
+      <Name>Навык</Name>
       <Options>
         <Option>
           <Key>DRABATANCH1OP1</Key>
-          <Name>Charm</Name>
-          <Description>Drabatan may start the game with one rank in Charm.</Description>
+          <Name>Обаяние</Name>
+          <Description>Драбатанцу можно начать игру с одним рангом "Обаяния".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>CHARM</Key>
@@ -44,8 +44,8 @@ Music-obsessed amphibious humanoids, Drabatans come from the freshwater swamps o
         </Option>
         <Option>
           <Key>DRABATANCH1OP2</Key>
-          <Name>Leadership</Name>
-          <Description>Drabatan may start the game with one rank in Leadership.</Description>
+          <Name>Лидерство</Name>
+          <Description>Драбатанцу можно начать игру с одним рангом "Лидерства".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>LEAD</Key>
@@ -57,12 +57,12 @@ Music-obsessed amphibious humanoids, Drabatans come from the freshwater swamps o
     </OptionChoice>
     <OptionChoice>
       <Key>DRABATANCH2</Key>
-      <Name>Physiology</Name>
+      <Name>Физиология</Name>
       <Options>
         <Option>
           <Key>DRABATANCH2OP1</Key>
-          <Name>Big Noise</Name>
-          <Description>When making a Leadership or Coercion check, Drabatans can spend [AD][AD] to affect one additional character not originally targeted by the check or affect targets at one range band further than normal.</Description>
+          <Name>Большой шум</Name>
+          <Description>при проверке "Лидерства" или "Запугивания" Драбатанец может потратить [AD][AD], чтобы повлиять на одного дополнительного персонажа, не являющегося первоначальной целью проверки, или повлиять на цели, находящиеся на один диапазон дальности дальше, чем обычно.</Description>
         </Option>
       </Options>
     </OptionChoice>
