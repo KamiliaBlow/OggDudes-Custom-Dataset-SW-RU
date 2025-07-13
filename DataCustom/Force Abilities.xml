@@ -2,256 +2,244 @@
 <ForceAbilities>
   <ForceAbility>
     <Key>ALTERBASIC</Key>
-    <Name>Alter Basic Power</Name>
-    <Description>The Force user can tap into the Living Force of their surroundings, manipulating the nearby environs.
-[P]The Force user may spend [FP] to make all terrain currently within short range difficult terrain until the end of their next turn.
-[P]The Force user may spend [FP] to make all terrain currently within short range normal terrain until the end of their next turn.</Description>
-    <Source Page="42">Unlimited Power</Source>
+    <Name>Чувство (Способность)</Name>
+    <Description>Пользователь Силы может подключаться к Живой Силе своего окружения, манипулируя ближайшим окружением. 
+[P]Пользователь Силы может потратить [FP], чтобы сделать всю местность в пределах короткой дистанции труднопроходимой до конца своего следующего хода. 
+[P]Пользователь Силы может потратить [FP], чтобы сделать всю местность в пределах короткой дистанции нормальной местностью до конца своего следующего хода.</Description>
+    <Source Page="42">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Alter</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ALTERCONTROL1</Key>
-    <Name>Control: Survival</Name>
-    <Description>Spend [FP] and make an [B]Average ([DI][DI]) Survival check[b] to instantly discover food, water, or other critical supplies within extreme range.
-</Description>
-    <Source Page="42">Unlimited Power</Source>
+    <Name>Контроль: Выживание</Name>
+    <Description>Потратьте [FP] и сделайте проверку "Выживания" со сложностью [B]Средняя ([DI][DI])[b], чтобы мгновенно обнаружить еду, воду или другие важные запасы в пределах экстремальной дальности.</Description>
+    <Source Page="42">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Alter</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ALTERCONTROL2</Key>
-    <Name>Control: Concealment</Name>
-    <Description>The Force user may spend [FP] to give all characters within short range of the user concealment.
-</Description>
-    <Source Page="42">Unlimited Power</Source>
+    <Name>Контроль: Сокрытие</Name>
+    <Description>Пользователь Силы может потратить [FP], чтобы дать всем персонажам в пределах короткой дистанции "Скрытность".</Description>
+    <Source Page="42">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Alter</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ALTERCONTROL3</Key>
-    <Name>Control: Animal Senses</Name>
-    <Description>Spend [FP] to share the senses of animals within range of this power, adding [BO] to Perception and Vigilance checks, and gaining other benefits.
-</Description>
-    <Source Page="42">Unlimited Power</Source>
+    <Name>Контроль: Чувства животных</Name>
+    <Description>Потратьте [FP], чтобы узнать чувства животных в радиусе действия этой силы, добавив [BO] к проверкам "Внимания" и "Бдительности", а также получив другие преимущества.</Description>
+    <Source Page="42">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Alter</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ALTERCONTROL4</Key>
-    <Name>Control: Firm Terrain</Name>
-    <Description>The power can affect firm terrain, such as packed earth, stone, or ice.
-</Description>
-    <Source Page="42">Unlimited Power</Source>
+    <Name>Контроль: Твердый рельеф</Name>
+    <Description>Сила может воздействовать на твердую местность, такую как земля, камень или лед.</Description>
+    <Source Page="42">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Alter</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ALTERCONTROL5</Key>
-    <Name>Control: Impassible Terrain</Name>
-    <Description>Spend [FP][FP] to make a small patch of terrain within the affected area impassible.
-</Description>
-    <Source Page="42">Unlimited Power</Source>
+    <Name>Контроль: Непроходимая местность</Name>
+    <Description>Потратьте [FP][FP], чтобы сделать небольшой участок местности в зоне поражения непроходимым.</Description>
+    <Source Page="42">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Alter</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ALTERCONTROL6</Key>
-    <Name>Control: Corrosive Atmosphere</Name>
-    <Description>Spend [FP][FP] to create a corrosive atmosphere in a small area within the effected area.</Description>
-    <Source Page="42">Unlimited Power</Source>
+    <Name>Контроль: Едкая атмосфера</Name>
+    <Description>Потратьте [FP][FP], чтобы создать коррозийную (едкую) атмосферу на небольшом участке в зоне поражения.</Description>
+    <Source Page="42">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Alter</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ALTERCONTROL7</Key>
-    <Name>Control: Upgrade Difficulty</Name>
-    <Description>Spend [FP][FP] to upgrade to difficulty of all checks made by opponents while in the power's area of effect once.
-</Description>
-    <Source Page="42">Unlimited Power</Source>
+    <Name>Контроль: Повышение сложности</Name>
+    <Description>Потратьте [FP][FP], чтобы повысить сложность всех проверок на 1, сделанных противниками, находящимися в зоне действия "Силы".</Description>
+    <Source Page="42">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Alter</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ALTERDURATION</Key>
-    <Name>Duration</Name>
-    <Description>Commit [FO] after successfully activating the power to sustain its effects while the user remains within range of the affected area.
-</Description>
-    <Source Page="42">Unlimited Power</Source>
+    <Name>Длительность</Name>
+    <Description>Совершите бросок [FO] после успешной активации "Силы", чтобы поддерживать ее эффект, пока персонаж находится в зоне поражения.</Description>
+    <Source Page="42">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Alter</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ALTERMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>When the user activates this power without spending [FP] generated from [DA] results, add [LI] to all other Force power checks made within this power's area of effect.
-[P]When the user activates this power without spending [FP] generated from [LI] results, add [DA] to all other Force power checks made within this power's area of effect.</Description>
-    <Source Page="42">Unlimited Power</Source>
+    <Name>Мастерство</Name>
+    <Description>Когда пользователь активирует эту силу, не тратя [FP], полученное в результате [DA], добавьте [LI] ко всем другим проверкам "Силы", сделанным в области действия этой силы. [P]Когда пользователь активирует эту силу, не тратя [FP], полученное в результате [LI], добавьте [DA] ко всем другим проверкам "Силы", сделанным в области действия этой силы.</Description>
+    <Source Page="42">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Alter</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ALTERRANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP][FP] to increase power's range by a number of range bands equal to Range upgrades purchased.
-</Description>
-    <Source Page="42">Unlimited Power</Source>
+    <Name>Дальность</Name>
+    <Description>Потратьте [FP][FP], чтобы увеличить дальность действия "Силы" на количество полос дальности, равное количеству приобретенных рангов "Дальности".</Description>
+    <Source Page="42">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Alter</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ALTERSTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>Spend [FP] to allow a number of targets equal to the number of Strength upgrades to ignore this power's effects.
-</Description>
-    <Source Page="42">Unlimited Power</Source>
+    <Name>Усиление</Name>
+    <Description>Потратьте [FP], чтобы позволить нескольким целям, равным количеству рангов "Усиления", игнорировать эффекты этой "Силы".</Description>
+    <Source Page="42">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Alter</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>BATMEDBASIC</Key>
-    <Name>Battle Meditation Basic Power</Name>
-    <Description>[P]The Force user directs allies in battle, making them more effective as a coordinated unit.
-
-[P]The use may spend [FP] to add one automatic [SU] to all checks made by a number of engaged friendly targets to up his Presence before the end of his next turn. If the user used any [DA] to generate [FP], reduce each target's Willpower by 1 (to a minimum of 1) until the end of the encounter.</Description>
-    <Source Page="284">Force and Destiny Core Rulebook</Source>
+    <Name>Боевая медитация (Способность)</Name>
+    <Description>[P]Пользователь Силы направляет союзников в бою, делая их более эффективными как слаженную боевую единицу. 
+	
+[P]Пользователь может потратить [FP], чтобы добавить одно автоматическое [SU] ко всем проверкам, сделанным рядом дружественных целей, чтобы увеличить свою "Харизму" до конца своего следующего хода. Если пользователь использовал [DA] для получения [FP], уменьшите "Волю" каждой цели на 1 (минимум на 1) до конца боя.</Description>
+    <Source Page="284">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power />
   </ForceAbility>
   <ForceAbility>
     <Key>BATMEDCONTROL1</Key>
-    <Name>Control: Orders</Name>
-    <Description>When making a [B]Battle Meditation power check[b], the user may make an [B]Easy ([DI]) Leadership check[b] as part of the pool. If the user is able to activate the power and succeeds on the check, he may send simple orders as part of his power.</Description>
-    <Source Page="284">Force and Destiny Core Rulebook</Source>
+    <Name>Контроль: Приказы</Name>
+    <Description>При проверке силы [B]Боевой медитации[b] пользователь может сделать проверку "Лидерства" со сложностью ([DI]) как часть пула. Если пользователь сможет активировать силу и преуспеет в проверке, он может отправлять простые приказы как часть своей "Силы".</Description>
+    <Source Page="284">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Battle Meditation</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>BATMEDCONTROL2</Key>
-    <Name>Control: Planetary Scale</Name>
-    <Description>May suffer 4 strain to change the range of the power and range upgrades to planetary scale.</Description>
-    <Source Page="284">Force and Destiny Core Rulebook</Source>
+    <Name>Контроль: Планетарный масштаб</Name>
+    <Description>Можно получить 4 "Усталости", чтобы изменить диапазон силы и дальности до планетарного масштаба.</Description>
+    <Source Page="284">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Battle Meditation</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>BATMEDDURATION</Key>
-    <Name>Duration</Name>
-    <Description>Commit [FO][FO][FO] to sustain the ongoing effects of the power on each affected target while it remains in range.</Description>
-    <Source Page="284">Force and Destiny Core Rulebook</Source>
+    <Name>Длительность</Name>
+    <Description>Задействуйте [FO][FO][FO], чтобы поддерживать постоянный эффект "Силы" на каждой пораженной цели, пока она остается в зоне действия.</Description>
+    <Source Page="284">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Battle Meditation</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>BATMEDMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>Spend [FP] to affect a number of additional targets equal to Presence per rank of Magnitude purchased.</Description>
-    <Source Page="284">Force and Destiny Core Rulebook</Source>
+    <Name>Величина</Name>
+    <Description>Потратьте [FP], чтобы воздействовать на количество дополнительных целей, равное "Харизме" за ранг приобретенной "Величины".</Description>
+    <Source Page="284">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Battle Meditation</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>BATMEDMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>If no [DA] were used to generate [FP], choose one skill. While affected by the power, each affected character counts as having the same number of ranks in the chosen skill as the affected character with the most ranks in the skill. If the user used any [DA] to generate [FP], each affected character must make an [B]Easy (DI) Discipline check[b] if he wishes to resist obeying orders.</Description>
-    <Source Page="284">Force and Destiny Core Rulebook</Source>
+    <Name>Мастерство</Name>
+    <Description>Если для создания [FP] не использовались [DA], выберите один >навык. Во время действия силы каждый затронутый персонаж имеет столько же рангов в выбранном навыке, сколько и затронутый персонаж с наибольшим количеством рангов в этом навыке. Если пользователь использовал какие-либо [DA] для создания [FP], каждый затронутый персонаж должен сделать проверку "Выдержки" со сложностью ([DI]), если он хочет сопротивляться повиновению приказам.</Description>
+    <Source Page="284">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Battle Meditation</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>BATMEDRANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
-    <Source Page="284">Force and Destiny Core Rulebook</Source>
+    <Name>Дальность</Name>
+    <Description>Потратьте [FP], чтобы увеличить дальность действия "Силы" на количество полос дальности, равное количеству рангов "Дальности".</Description>
+    <Source Page="284">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Battle Meditation</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>BATMEDSTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>Spend [FP][FP] to add one additional automatic [SU] to affected characters' checks.</Description>
-    <Source Page="284">Force and Destiny Core Rulebook</Source>
+    <Name>Усиление</Name>
+    <Description>Потратьте [FP][FP], чтобы добавить один дополнительный автоматический [SU] к проверкам затронутых персонажей.</Description>
+    <Source Page="284">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Battle Meditation</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>BINDBASIC</Key>
-    <Name>Bind Basic Power</Name>
-    <Description>[P]The Force user restrains an enemy, preventing the target from acting.
-[P]The user may spend [FP] to immobilize a target within short range until the end of the user's next turn. If the user used any [DA] to generate [FP], the target also suffers 1 wound per [FP] spend on the check (ignoring soak).</Description>
-    <Source Page="286">Force and Destiny Core Rulebook</Source>
+    <Name>Сковывание (Способность)</Name>
+    <Description>[P]Пользователь Силы сдерживает врага, не давая ему действовать. 
+[P]Пользователь может потратить [FP], чтобы обездвижить цель в пределах короткой дистанции до конца следующего хода персонажа. Если персонажа использовал [DA] для получения [FP], цель также получает 1 "рану" за [FP], потраченные на проверку (без учета "поглощения").</Description>
+    <Source Page="286">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power />
   </ForceAbility>
   <ForceAbility>
     <Key>BINDCONTROL1</Key>
-    <Name>Control: Strain</Name>
-    <Description>Spend [DP], whenever a target affected by Bind takes an action, that target suffers strain equal to Willpower.</Description>
-    <Source Page="286">Force and Destiny Core Rulebook</Source>
+    <Name>Контроль: Усталость</Name>
+    <Description>Тратьте каждое очко "Судьбы", каждый раз, когда цель, находящаяся под действием "Сковывание", совершает действие, эта цель получает "усталость", равную "Воле".</Description>
+    <Source Page="286">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Bind</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>BINDCONTROL2</Key>
-    <Name>Control: Move</Name>
-    <Description>Spend [FP] to move the target one range band closer or farther away.</Description>
-    <Source Page="286">Force and Destiny Core Rulebook</Source>
+    <Name>Контроль: Движение</Name>
+    <Description>Потратьте [FP], чтобы переместить цель на одну полосу дальности ближе или дальше.</Description>
+    <Source Page="286">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Bind</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>BINDDURATION</Key>
-    <Name>Duration</Name>
-    <Description>Commit [FO][FO][FO] to sustain the ongoing effects of the power on each affected target.</Description>
-    <Source Page="286">Force and Destiny Core Rulebook</Source>
+    <Name>Длительность</Name>
+    <Description>Совершите [FO][FO][FO] чтобы поддерживать постоянный эффект "Силы" на каждой затронутой цели.</Description>
+    <Source Page="286">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Bind</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>BINDMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>Spend [FP][FP] to affect 1 additional target within range per rank of Magnitude purchased.</Description>
-    <Source Page="286">Force and Destiny Core Rulebook</Source>
+    <Name>Величина</Name>
+    <Description>Потратьте [FP][FP], чтобы воздействовать на 1 дополнительную цель в радиусе действия за каждый приобретенный ранг "Величины".</Description>
+    <Source Page="286">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Bind</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>BINDMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>When the user is making a [B]Bind power check[b], if the check was not already opposed, the user may roll an opposed [B]Discipline vs. Discipline check[b] against one target of the power. If no [DA] were used to generate [FP] and the user succeeds on the check, he may immediately stagger the target until the end of his next turn. If any [DA] were used to generate [FP] and the check succeeds, the target suffers a Critical Injury, adding +10 to the roll per [FP] spent on the check.</Description>
-    <Source Page="286">Force and Destiny Core Rulebook</Source>
-    <Source Page="286">Force and Destiny Core Rulebook</Source>
+    <Name>Мастерство</Name>
+    <Description>Когда пользователь делает проверку [B]Сковывания[b], если проверка еще не была встречной, он может бросить встречную проверку [B]Выдержки против Выдержки[b] против одной цели силы. Если для создания [FP] не было использовано [DA] и пользователь преуспел в проверке, он может немедленно ошеломить цель до конца своего следующего хода. Если для создания [FP] были использованы какие-либо [DA] и проверка прошла успешно, цель получает "критическую травму", добавляя +10 к броску за каждый [FP], потраченный на проверку.</Description>
+    <Source Page="286">Книга правил: Сила и судьба</Source>
+    <Source Page="286">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
   </ForceAbility>
   <ForceAbility>
     <Key>BINDRANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
-    <Source Page="286">Force and Destiny Core Rulebook</Source>
+    <Name>Дальность</Name>
+    <Description>Потратьте [FP], чтобы увеличить дальность действия силы на количество полос дальности, равное количеству приобретенных рангов "Дальности".</Description>
+    <Source Page="286">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Bind</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>BINDSTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>Spend [FP] to disorient the target for a number of rounds equal to Strength upgrades purchased.</Description>
-    <Source Page="286">Force and Destiny Core Rulebook</Source>
+    <Name>Усиление</Name>
+    <Description>Потратьте [FP], чтобы дезориентировать цель на количество раундов, равное приобретенным рангам "Усиления".</Description>
+    <Source Page="286">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Bind</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>CONJUREBASIC</Key>
-    <Name>Conjure Basic Power</Name>
-    <Description>The Force user calls forth a spectral object to their hand, which lasts for a short time.
-[P]The user may spend [FP] to create a facsimile of a Brawl or Melee weapon anywhere within engaged range. At the end of the user's next turn, this item dissipates. At the GM's discretion, the user can instead conjure a simple tool and other useful low-tech item with an encumbrance no greater than 1.
-</Description>
-    <Source Page="40">Unlimited Power</Source>
+    <Name>Воплощение (Способность)</Name>
+    <Description>Пользователь Силы призывает в свою руку призрачный объект, который существует в течение короткого времени. [P]Пользователь может потратить [FP], чтобы создать копию оружия "грубой силы" или "ближнего боя" в любом месте в радиусе действия. В конце следующего хода пользователя этот предмет рассеивается. По усмотрению ГМа, вместо этого пользователь может наколдовать простой инструмент или другой полезный низкотехнологичный предмет с нагрузкой не более 1.</Description>
+    <Source Page="40">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Conjure</Power>
     <WeaponModifiers>
       <WeaponModifier>
         <Unarmed>false</Unarmed>
-        <UnarmedName>Basic Conjured Melee Weapon</UnarmedName>
+        <UnarmedName>Оружие ближнего боя (простое)</UnarmedName>
         <SkillKey>MELEE</SkillKey>
         <DamageAdd>3</DamageAdd>
         <Crit>3</Crit>
@@ -263,13 +251,13 @@
         </Qualities>
         <BaseMods>
           <Mod>
-            <MiscDesc>This conjured weapon dissipates at the end of the Force user's next turn</MiscDesc>
+            <MiscDesc>Это созданное оружие рассеивается в конце следующего хода пользователя Силы.</MiscDesc>
           </Mod>
         </BaseMods>
       </WeaponModifier>
       <WeaponModifier>
         <Unarmed>false</Unarmed>
-        <UnarmedName>Basic Conjured Brawl Weapon</UnarmedName>
+        <UnarmedName>Оружие грубой силы (простое)</UnarmedName>
         <SkillKey>BRAWL</SkillKey>
         <DamageAdd>3</DamageAdd>
         <Crit>3</Crit>
@@ -281,7 +269,7 @@
         </Qualities>
         <BaseMods>
           <Mod>
-            <MiscDesc>This conjured weapon disipates at the end of the Force user's next turn</MiscDesc>
+            <MiscDesc>Это созданное оружие рассеивается в конце следующего хода пользователя Силы.</MiscDesc>
           </Mod>
         </BaseMods>
       </WeaponModifier>
@@ -289,205 +277,199 @@
   </ForceAbility>
   <ForceAbility>
     <Key>CONJURECONTROL1</Key>
-    <Name>Control: Defense Qualities</Name>
-    <Description>Spend [FP] to add 1 of the following weapon qualities to the conjuration: Defensive 1, Deflection 1, Stun 4.</Description>
-    <Source Page="40">Unlimited Power</Source>
+    <Name>Контроль: Качества обороны</Name>
+    <Description>Потратьте [FP], чтобы добавить к способности одно из следующих качеств оружия: Defensive 1, Deflection 1, Stun 4.</Description>
+    <Source Page="40">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Conjure</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>CONJURECONTROL2</Key>
-    <Name>Control: Offense Qualities</Name>
-    <Description>Spend [FP] to add 1 of the following weapon qualities to the conjuration: Burn 3, Pierce 3, Vicious 3.</Description>
-    <Source Page="40">Unlimited Power</Source>
+    <Name>Контроль: Качества нападения</Name>
+    <Description>Потратьте [FP], чтобы добавить к способности одно из следующих качеств оружия: Burn 3, Pierce 3, Vicious 3.</Description>
+    <Source Page="40">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Conjure</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>CONJUREDURATION</Key>
-    <Name>Duration</Name>
-    <Description>Commit [FO] to sustain 1 conjuration per Duration upgrade purchased while it remains at medium range.</Description>
-    <Source Page="40">Unlimited Power</Source>
+    <Name>Длительность</Name>
+    <Description>Применяет [FO], чтобы поддерживать 1 способность за каждый купленный ранг "Длительности", пока оно находится на средней дистанции.</Description>
+    <Source Page="40">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Conjure</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>CONJUREMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>Spend [FP] to increase the maximum encumbrance of the facsimile that can be conjured by 2 per Magnitude upgrade purchased.
-</Description>
-    <Source Page="40">Unlimited Power</Source>
+    <Name>Величина</Name>
+    <Description>Потратьте [FP], чтобы увеличить максимальную "нагрузку" копии, которое можно создать, на 2 за каждый купленный ранг "Величины".</Description>
+    <Source Page="40">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Conjure</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>CONJUREMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>Spend [FP][FP][FP] to summon the facsimile of a creature of silhouette 1 or smaller instead of an object. This creature is bound to the user's will, and mindlessly follows that character's commands until the end of the Force user's next turn. If the user has the corpse of the creature being conjured to imbue with false life, this facsimile lasts until the end of the encounter instead, but the user gains 7 conflict for doing so.</Description>
-    <Source Page="40">Unlimited Power</Source>
+    <Name>Мастерство</Name>
+    <Description>Потратьте [FP][FP][FP], чтобы призвать вместо объекта, копию существа силуэта 1 или меньше. Это существо связано с волей пользователя и бездумно выполняет его команды до конца следующего хода пользователя Силы. Если у пользователя есть труп колдуемого существа, чтобы напитать его ложной жизнью, то вместо этого копия действует до конца боя, но пользователь получает за это 7 "конфликта".</Description>
+    <Source Page="40">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Conjure</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>CONJURENUMBER</Key>
-    <Name>Number</Name>
-    <Description>Spend [FP][FP] to create additional, identical conjurations equal to ranks in Number upgrade purchased.
-</Description>
-    <Source Page="40">Unlimited Power</Source>
+    <Name>Количество</Name>
+    <Description>Потратьте [FP][FP], чтобы создать дополнительные, копии "воплощения", равные рангам "Количество".</Description>
+    <Source Page="40">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Conjure</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>CONJURERANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP] to increase the range at which the facsimile can be conjured and sustained by 1 (to a maximum of extreme).
-</Description>
-    <Source Page="40">Unlimited Power</Source>
+    <Name>Дальность</Name>
+    <Description>Потратьте [FP], чтобы увеличить дальность, на которой копия может быть создана и существовать, на 1 (до максимального значения).</Description>
+    <Source Page="40">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Power>Conjure</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>EBBFLOWBASIC</Key>
-    <Name>Ebb/Flow Basic Power</Name>
-    <Description>The Force user's action empower himself or sap strength from his foes.
-[P][B]Ebb:[b] When the Force user makes a skill check, he may roll an [B]Ebb power check[b] as part of the roll. The user may spend [FP] to suffer 1 strain, then inflict 1 strain on all other engaged characters. The Force user may not activate this multiple times.
-[P][B]Flow:[b] When the Force user makes a skill check, he may roll an [B]Flow power check[b] as part of the roll. The user may spend [FP] to heal 1 strain. The Force user may not activate this multiple times.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
+    <Name>Прилив/Отлив (Способность)</Name>
+    <Description>Действия пользователя Силы усиливают его самого или лишают силы его врагов. 
+[P][B]Прилив:[b] Когда пользователь Силы делает проверку навыка, он может бросить [B]проверку Прилива[b] как часть броска. Пользователь может потратить [FP], чтобы получить 1 "усталость", а затем наложить 1 "усталость" на всех остальных задействованных персонажей. Пользователь Силы не может активировать это действие несколько раз. 
+[P][B]Отлив:[b] Когда пользователь Силы делает проверку навыка, он может бросить [B]проверку Отлива[b] как часть броска. Пользователь может потратить [FP] на исцеление 1 "усталости". Пользователь Силы не может активировать это действие несколько раз.</Description>
+    <Source Page="39">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Power>Ebb/Flow</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>EBBFLOWCONTROL1</Key>
-    <Name>Control: Question</Name>
-    <Description>Spend [FP][FP][FP] once per encounter to ask the GM a single "yes or no" question.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
+    <Name>Контроль: Вопрос</Name>
+    <Description>Потратьте [FP][FP][FP] один раз за бой, чтобы задать ГМ один вопрос по типу "да или нет".</Description>
+    <Source Page="39">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Power>Ebb/Flow</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>EBBFLOWCONTROL2</Key>
-    <Name>Control: Threat/Advantage</Name>
-    <Description>[B]Ebb:[b] When making a [B]combined Ebb power check[b], may spend [FP] to add [TH] to any checks made by engaged opponents until the end of next turn.
-[P][B]Flow:[b] When making a [B]combined Flow power check[b], may spend [FP] to add [AD] to any checks using the same skill until the end of next turn.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
+    <Name>Контроль: Осложнение/Преимущество</Name>
+    <Description>[B]Прилив:[b] Когда вы делаете [B]комбинированную проверку Прилива[b], вы можете потратить [FP], чтобы добавить [TH] к любым проверкам, сделанным привлеченными противниками, до конца следующего хода. 
+[P][B]Отлив:[b] Когда вы делаете [B]комбинированную проверку Отлива[b], вы можете потратить [FP], чтобы добавить [AD] к любым проверкам, использующим тот же навык, до конца следующего хода.</Description>
+    <Source Page="39">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Power>Ebb/Flow</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>EBBFLOWCONTROL3</Key>
-    <Name>Control: Failure/Success</Name>
-    <Description>[B]Ebb:[b] When making a [B]combined Ebb power check[b], may spend [FP] to add [FA] to any checks made by engaged opponents until the end of next turn.
-[P][B]Flow:[b] When making a [B]combined Flow power check[b], may spend [FP] to add [SU] to any checks using the same skill until the end of next turn.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
+    <Name>Контроль: Провал/Успех</Name>
+    <Description>[B]Прилив:[b] Когда вы делаете [B]комбинированную проверку Прилива[b], вы можете потратить [FP], чтобы добавить [FA] к любым проверкам, сделанным привлеченными противниками, до конца следующего хода. 
+[P][B]Отлив:[b] Когда вы делаете [B]комбинированную проверку Отлива[b], вы можете потратить [FP], чтобы добавить [SU] к любым проверкам, использующим тот же навык, до конца следующего хода.</Description>
+    <Source Page="39">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Power>Ebb/Flow</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>EBBFLOWCONTROL4</Key>
-    <Name>Control: Skill Checks</Name>
-    <Description>Commit [FO] until the end of the current encounter. For the remainder of the current encounter, add [FO] to all skill checks. Each [LI] and [DA] adds either [SU] or [AD] to the check; each [DA] causes the user to suffer 1 strain and gain 1 Conflict.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
+    <Name>Контроль: Проверки навыков</Name>
+    <Description>Используйте [FO] до конца текущего боя. До конца текущего боя добавляйте [FO] ко всем проверкам умений. Каждое [LI] и [DA] добавляет к проверке либо [SU], либо [AD]; каждое [DA] заставляет пользователя испытывать 1 "усталость" и получать 1 "Конфликт".</Description>
+    <Source Page="39">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Power>Ebb/Flow</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>EBBFLOWCONTROL5</Key>
-    <Name>Mastery</Name>
-    <Description>[B]Ebb:[b] Once per session, if  a target suffered at least 5 strain from this power, add [DE] to the target's next check.
-
-[P][B]Flow:[b] Once per session, if the user healed at least 5 strain from this power, add [TR] to user's next check.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
+    <Name>Мастерство</Name>
+    <Description>[B]Прилив:[b] Один раз за сессию, если цель получила не менее 5 единиц "усталости" от этой силы, добавьте [DE] к следующей проверке цели. 
+	
+[P][B]Отлив:[b] Один раз за сессию, если пользователь исцелился от этой силы хотя бы на 5 "усталости", добавьте [TR] к следующей проверке пользователя.</Description>
+    <Source Page="39">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Power>Ebb/Flow</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>EBBFLOWMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>Spend [FP] to exclude number of targets equal to Magnitude upgrades purchased from being affected.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
+    <Name>Величина</Name>
+    <Description>Потратьте [FP], чтобы исключить из зоны поражения количество целей, равное приобретенным рангам "Величины".</Description>
+    <Source Page="39">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Power>Ebb/Flow</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>EBBFLOWRANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP][FP] to affect all other characters at short range.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
+    <Name>Дальность</Name>
+    <Description>Потратьте [FP][FP], чтобы воздействовать на всех других персонажей на небольшом (short) расстоянии.</Description>
+    <Source Page="39">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Power>Ebb/Flow</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>EBBFLOWSTRENGTH</Key>
-    <Name>Strength: Strain</Name>
-    <Description>The Force user may spend [FP] to increase the strain healed or inflicted by 1.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
+    <Name>Усиление: Усталость</Name>
+    <Description>Пользователь Силы может потратить [FP], чтобы увеличить исцеляемую или наносимую "усталость" на 1.</Description>
+    <Source Page="39">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Power>Ebb/Flow</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>EBBFLOWSTRENGTH2</Key>
-    <Name>Strength: Threat/Advantage</Name>
-    <Description>The Force user may spend [FP] to increase the [TH] or [AD] added by 1.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
+    <Name>Усиление: Осложнение/Преимущество</Name>
+    <Description>Пользователь Силы может потратить [FP], чтобы увеличить [TH] или [AD] на 1.</Description>
+    <Source Page="39">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Power>Ebb/Flow</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>EBBFLOWSTRENGTH3</Key>
-    <Name>Strength: Failure/Success</Name>
-    <Description>The Force user may spend [FP] to increase the [FA] or [SU] added by 1.</Description>
-    <Source Page="39">Disciples of Harmony</Source>
+    <Name>Усиление: Провал/Успех</Name>
+    <Description>Пользователь Силы может потратить [FP], чтобы увеличить [FA] или [SU] на 1.</Description>
+    <Source Page="39">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Power>Ebb/Flow</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ENDUREBASIC</Key>
-    <Name>Endure Basic Power</Name>
-    <Description>When the character suffers a Critical Injury with a severity rating no greater than [B]Easy ([DI])[b], the character may activate Endure as an out-of-turn incidental and commit [FO] to temporarily ignore the effects of that injury. The character does not apply results from the Critical Injury or add +10 to further rolls on the Critical Injury Result table while [FO] remains committed. When this ongoing effect ends, the character suffers all effects of the Critical Injury (unless it has been treated).
-</Description>
-    <Source Page="36">Knights of Fate</Source>
+    <Name>Выносливость (Способность)</Name>
+    <Description>Когда персонаж получает "критическую травму" с рейтингом тяжести не выше легкой ([DI]), он может активировать "Выносливость" как свободное действие и совершить [FO], чтобы временно игнорировать эффекты этой травмы. Персонаж не применяет результаты "критической травмы" и не добавляет +10 к дальнейшим броскам по таблице результатов "критической травмы", пока [FO] остается активированным. Когда этот эффект заканчивается, персонаж получает все эффекты "критической травмы" (если она не была вылечена).</Description>
+    <Source Page="36">Дополнение: Рыцари судьбы</Source>
     <Custom>DescOnly</Custom>
     <Power>Endure</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ENDURECONTROL</Key>
-    <Name>Control - Additional Injuries</Name>
-    <Description>The character can commit one additional [FO] to temporarily ignore one additional Critical Injury per Control upgrade purchased.
-</Description>
-    <Source Page="36">Knights of Fate</Source>
+    <Name>Усиление - увеличение Серьезности</Name>
+    <Description>Увеличивает тяжесть "критических повреждений", которые могут быть нанесены (сложность), на 1 за каждый приобретенный ранг "Усиления".</Description>
+    <Source Page="36">Дополнение: Рыцари судьбы</Source>
     <Custom>DescOnly</Custom>
     <Power>Endure</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ENDUREDURATION</Key>
-    <Name>Duration</Name>
-    <Description>As an incidental, the character can activate Endure to temporarily ignore a Critical Injury the character is already suffering, and which is of a severity that Endure could affect normally.</Description>
-    <Source Page="36">Knights of Fate</Source>
+    <Name>Длительность</Name>
+    <Description>В качестве свободного действия персонаж может активировать "Выносливость", чтобы временно проигнорировать "критическое ранение", которое он уже получил и которое имеет такую тяжесть, что "Выносливость" могла бы повлиять на него обычным образом.</Description>
+    <Source Page="36">Дополнение: Рыцари судьбы</Source>
     <Custom>DescOnly</Custom>
     <Power>Endure</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ENDUREMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>The character can use Endure to affect allies at short range. The ongoing effect ends if the distance between the characters increases beyond short for any reason.</Description>
-    <Source Page="36">Knights of Fate</Source>
+    <Name>Величина</Name>
+    <Description>Персонаж может использовать "Выносливость", чтобы воздействовать на союзников на небольшом расстоянии. Действие эффекта заканчивается, если расстояние между персонажами по какой-либо причине становится дальше короткой.</Description>
+    <Source Page="36">Дополнение: Рыцари судьбы</Source>
     <Custom>DescOnly</Custom>
     <Power>Endure</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ENDUREMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>When activating Endure, the character may make an Endure power check, making a Discipline check with a difficulty equal to the severity of the Critical Injury and adding [FO] up to the character's Force rating. If the character succeeds on the check and generates [FP] equal to the Severity of the Critical Injury, the Critical Injury is not suffered.
-</Description>
-    <Source Page="36">Knights of Fate</Source>
+    <Name>Мастерство</Name>
+    <Description>При активации "Выносливости" персонаж может сделать проверку способности силы "Выносливость", выполнив проверку "Выдержки" со сложностью, равной тяжести "критической травмы", и добавив [FO] к рейтингу "Силы" персонажа. Если персонаж преуспевает в проверке и получает [FP], равное тяжести "критической травмы", критическая травма не наносится.</Description>
+    <Source Page="36">Дополнение: Рыцари судьбы</Source>
     <Custom>DescOnly</Custom>
     <Power>Endure</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ENDURERANGE</Key>
-    <Name>Range</Name>
-    <Description>The character can use Endure to affect allies within medium range. The ongoing effect ends if the distance between the characters increases beyond medium for any reason.</Description>
-    <Source Page="36">Knights of Fate</Source>
+    <Name>Дальность</Name>
+    <Description>Персонаж может использовать "Выносливость", чтобы воздействовать на союзников в пределах средней дистанции. Действие эффекта заканчивается, если расстояние между персонажами по какой-либо причине увеличивается дальше средней.</Description>
+    <Source Page="36">Дополнение: Рыцари судьбы</Source>
     <Custom>DescOnly</Custom>
     <Power>Endure</Power>
   </ForceAbility>
@@ -496,28 +478,27 @@
     <Name>Strength - Increase Severity</Name>
     <Description>Increase the severity of Critical Injury that can be affected by one per Strength upgrade purchased.
 </Description>
-    <Source Page="36">Knights of Fate</Source>
+    <Source Page="36">Дополнение: Рыцари судьбы</Source>
     <Custom>DescOnly</Custom>
     <Power>Endure</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ENDURESTRENGTH2</Key>
-    <Name>Strength - Ignore Death</Name>
-    <Description>The character can use Endure to temporarily ignore a Critical Injury result of Dead.
-</Description>
-    <Source Page="36">Knights of Fate</Source>
+    <Name>Усиление - игнорирование Смерти</Name>
+    <Description>Персонаж может использовать "Выносливость", чтобы временно игнорировать результат "Критической травмы", равный СМЕРТЬ.</Description>
+    <Source Page="36">Дополнение: Рыцари судьбы</Source>
     <Custom>DescOnly</Custom>
     <Power>Endure</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ENHANCEBASIC</Key>
-    <Name>Enhance Basic Power</Name>
-    <Description>When making an Athletics check, the Force user may roll an [B] Enhance power check[b] as part of the pool.
-
-[P]The user may spend [FP] to gain [SU] or [AD] (user's choice) on the check.</Description>
+    <Name>Усиление (Способность)</Name>
+    <Description>Когда пользователь Силы делает проверку "Атлетики", он может использовать способность силы [B]Усиление[b] как часть пула. 
+	
+[P]На проверку можно потратить [FP], чтобы получить [SU] или [AD] (по выбору пользователя).</Description>
     <Sources>
-      <Source Page="298">Age of Rebellion Core Rulebook</Source>
-      <Source Page="288">Force and Destiny Core Rulebook</Source>
+      <Source Page="298">Книга правил: Эпоха восстания</Source>
+      <Source Page="288">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Enhance</Power>
@@ -530,22 +511,22 @@
   </ForceAbility>
   <ForceAbility>
     <Key>ENHANCECONT0</Key>
-    <Name>Control: Force Leap (Maneuver)</Name>
-    <Description>The user can perform Force Leap as a maneuver instead of an action.</Description>
+    <Name>Контроль: Прыжок силы (Маневр)</Name>
+    <Description>Пользователь может выполнить "Прыжок силы" как маневр, а не как действие.</Description>
     <Sources>
-      <Source Page="298">Age of Rebellion Core Rulebook</Source>
-      <Source Page="288">Force and Destiny Core Rulebook</Source>
+      <Source Page="298">Книга правил: Эпоха восстания</Source>
+      <Source Page="288">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Enhance</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ENHANCECONT1</Key>
-    <Name>Control: Coordination</Name>
-    <Description>Enhance can be used with the Coordination skill.</Description>
+    <Name>Контроль: Координация</Name>
+    <Description>"Усиление" можно использовать через навык "Координация".</Description>
     <Sources>
-      <Source Page="298">Age of Rebellion Core Rulebook</Source>
-      <Source Page="288">Force and Destiny Core Rulebook</Source>
+      <Source Page="298">Книга правил: Эпоха восстания</Source>
+      <Source Page="288">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Enhance</Power>
@@ -558,11 +539,11 @@
   </ForceAbility>
   <ForceAbility>
     <Key>ENHANCECONT2</Key>
-    <Name>Control: Resilience</Name>
-    <Description>Enhance can be used with the Resilience skill.</Description>
+    <Name>Контроль: Стойкость</Name>
+    <Description>"Усиление" можно использовать через навык "Стойкость".</Description>
     <Sources>
-      <Source Page="298">Age of Rebellion Core Rulebook</Source>
-      <Source Page="288">Force and Destiny Core Rulebook</Source>
+      <Source Page="298">Книга правил: Эпоха восстания</Source>
+      <Source Page="288">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Enhance</Power>
@@ -575,22 +556,22 @@
   </ForceAbility>
   <ForceAbility>
     <Key>ENHANCECONT3</Key>
-    <Name>Control: Force Leap (Horizontal)</Name>
-    <Description>Take a Force Leap action: Make an [B]Enhanced power check[b]. The user may spend [FP] to jump horizontally to any location in short range.</Description>
+    <Name>Контроль: Прыжок силы (Гориз.)</Name>
+    <Description>Выполните действие "Прыжок силы": Выполните проверку силы [B]Усиление[b]. Можно потратить [FP], чтобы совершить горизонтальный прыжок в любое место в пределах короткой дистанции.</Description>
     <Sources>
-      <Source Page="298">Age of Rebellion Core Rulebook</Source>
-      <Source Page="288">Force and Destiny Core Rulebook</Source>
+      <Source Page="298">Книга правил: Эпоха восстания</Source>
+      <Source Page="288">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Enhance</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ENHANCECONT4</Key>
-    <Name>Control: Piloting - Planetary</Name>
-    <Description>Enhance can be used with the Piloting (Planetary) skill.</Description>
+    <Name>Контроль: Пилотирование - Планетарное</Name>
+    <Description>Усиление можно использовать через навык "Пилотирование (планетарное)".</Description>
     <Sources>
-      <Source Page="298">Age of Rebellion Core Rulebook</Source>
-      <Source Page="288">Force and Destiny Core Rulebook</Source>
+      <Source Page="298">Книга правил: Эпоха восстания</Source>
+      <Source Page="288">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Enhance</Power>
@@ -603,11 +584,11 @@
   </ForceAbility>
   <ForceAbility>
     <Key>ENHANCECONT5</Key>
-    <Name>Control: Brawl</Name>
-    <Description>Enhance can be used with the Brawl skill.</Description>
+    <Name>Контроль: Грубая сила</Name>
+    <Description>Усиление можно использовать через навык "Грубая сила".</Description>
     <Sources>
-      <Source Page="298">Age of Rebellion Core Rulebook</Source>
-      <Source Page="288">Force and Destiny Core Rulebook</Source>
+      <Source Page="298">Книга правил: Эпоха восстания</Source>
+      <Source Page="288">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Enhance</Power>
@@ -620,22 +601,22 @@
   </ForceAbility>
   <ForceAbility>
     <Key>ENHANCECONT6</Key>
-    <Name>Control: Force Leap (Vertical)</Name>
-    <Description>When performing a Force Leap, the user can jump vertically in addition to jumping horizontally.</Description>
+    <Name>Контроль: Прыжок силы (Верт.)</Name>
+    <Description>При выполнении "Прыжка силы" пользователь может прыгать вертикально в дополнение к горизонтальному прыжку.</Description>
     <Sources>
-      <Source Page="298">Age of Rebellion Core Rulebook</Source>
-      <Source Page="288">Force and Destiny Core Rulebook</Source>
+      <Source Page="298">Книга правил: Эпоха восстания</Source>
+      <Source Page="288">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Enhance</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ENHANCECONT7</Key>
-    <Name>Control: Piloting - Space</Name>
-    <Description>Enhance can be used with the Piloting (Space) skill.</Description>
+    <Name>Контроль: Пилотирование - Космос</Name>
+    <Description>Усиление можно использовать через навык "Пилотирование (космос)".</Description>
     <Sources>
-      <Source Page="298">Age of Rebellion Core Rulebook</Source>
-      <Source Page="288">Force and Destiny Core Rulebook</Source>
+      <Source Page="298">Книга правил: Эпоха восстания</Source>
+      <Source Page="288">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Enhance</Power>
@@ -648,67 +629,67 @@
   </ForceAbility>
   <ForceAbility>
     <Key>ENHANCECONT8</Key>
-    <Name>Control: Brawn</Name>
-    <Description>Ongoing Effect: Commit [FO]. The user increases his Brawn characteristic by 1 (to maximum of 6).</Description>
+    <Name>Контроль: Сила</Name>
+    <Description>Продолжающийся эффект: Удерживая [FO]. Пользователь увеличивает свою характеристику "Сила (Brawl)" на 1 (максимум до 6).</Description>
     <Sources>
-      <Source Page="298">Age of Rebellion Core Rulebook</Source>
-      <Source Page="288">Force and Destiny Core Rulebook</Source>
+      <Source Page="298">Книга правил: Эпоха восстания</Source>
+      <Source Page="288">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Enhance</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ENHANCECONT9</Key>
-    <Name>Control: Agility</Name>
-    <Description>Ongoing Effect: Commit [FO]. The user increases his Agility characteristic by 1 (to a maximum of 6).</Description>
+    <Name>Контроль: Ловкость</Name>
+    <Description>Продолжающийся эффект: Удерживая [FO]. Пользователь увеличивает свою характеристику "Ловкости" на 1 (максимум до 6).</Description>
     <Sources>
-      <Source Page="298">Age of Rebellion Core Rulebook</Source>
-      <Source Page="288">Force and Destiny Core Rulebook</Source>
+      <Source Page="298">Книга правил: Эпоха восстания</Source>
+      <Source Page="288">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Enhance</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>ENHANCERANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
+    <Name>Дальность</Name>
+    <Description>Потратьте [FP], чтобы увеличить дальность действия силы на количество полос дальности, равное количеству купленных рангов дальности.</Description>
     <Sources>
-      <Source Page="298">Age of Rebellion Core Rulebook</Source>
-      <Source Page="288">Force and Destiny Core Rulebook</Source>
+      <Source Page="298">Книга правил: Эпоха восстания</Source>
+      <Source Page="288">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Enhance</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FARSIGHTBASIC</Key>
-    <Name>Farsight Basic Power</Name>
-    <Description>The Force user expands normal visual senses through a connection to the Force.
-[BR]The user may spend [FP] to ignore the effects of darkness or blindness and see normally at up to medium range for the remainder of the round (or for one minute).  This allows the user to view everything most sentients could normally be able to see on a well lit day.</Description>
-    <Source Page="36">Savage Spirits</Source>
+    <Name>Дальновидность (Способность)</Name>
+    <Description>Пользователь Силы расширяет обычные зрительные ощущения благодаря связи с Силой. 
+[BR]Можно потратить [FP], чтобы игнорировать эффекты темноты или слепоты и нормально видеть на среднем расстоянии до конца раунда (или в течение одной минуты). Это позволяет пользователю видеть все, что большинство разумных могли бы увидеть в хорошо освещенный день.</Description>
+    <Source Page="36">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Power>Farsight</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FARSIGHTCONTROL1</Key>
-    <Name>Control: Microscopic Details</Name>
-    <Description>Spend [FP] to see microscopic details of a single object within engaged range.</Description>
-    <Source Page="36">Savage Spirits</Source>
+    <Name>Контроль: Микроскопические детали</Name>
+    <Description>Потратьте [FP], чтобы увидеть микроскопические детали одного объекта в радиусе действия.</Description>
+    <Source Page="36">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Power>Farsight</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FARSIGHTCONTROL2</Key>
-    <Name>Control: Transparent</Name>
-    <Description>Spend [FP] to see through a single object at medium range as though it were transparent.</Description>
-    <Source Page="36">Savage Spirits</Source>
+    <Name>Контроль: Прозрачность</Name>
+    <Description>Потратьте [FP], чтобы видеть сквозь один предмет на среднем расстоянии, как будто он прозрачный.</Description>
+    <Source Page="36">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Power>Farsight</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FARSIGHTCONTROL3</Key>
-    <Name>Control: Vigilance</Name>
-    <Description>When making a Vigilance or Perception check, make a Farsight power check as part of the pool and spend [FP] to gain [SU] or [AD] on the check.</Description>
-    <Source Page="36">Savage Spirits</Source>
+    <Name>Контроль: Бдительность</Name>
+    <Description>Когда вы делаете проверку "Бдительности" или "Внимания", сделайте проверку силы дальновидности как часть пула и потратьте [FP], чтобы получить [SU] или [AD] при проверке.</Description>
+    <Source Page="36">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Power>Farsight</Power>
     <DieModifiers>
@@ -724,321 +705,322 @@
   </ForceAbility>
   <ForceAbility>
     <Key>FARSIGHTCONTROL4</Key>
-    <Name>Control: Perception</Name>
-    <Description>This power gains the ongoing effect: Commit [FO] after successfully activating the Farsight power to increase ranks in Perception by 1.</Description>
-    <Source Page="36">Savage Spirits</Source>
+    <Name>Контроль: Внимание</Name>
+    <Description>Эта сила приобретает продолжительный эффект: [FO] после успешной активации силы дальновидности, чтобы увеличить ранг "Внимания" на 1.</Description>
+    <Source Page="36">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Power>Farsight</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FARSIGHTCONTROL5</Key>
-    <Name>Control: Panoramic Vision</Name>
-    <Description>Spend [FP][FP] to see in every direction simultaneously, noticing and observing things in a full 360 degree arc.</Description>
-    <Source Page="36">Savage Spirits</Source>
+    <Name>Контроль: Панорамное зрение</Name>
+    <Description>Потратьте [FP][FP], чтобы видеть во всех направлениях одновременно, замечая и наблюдая вещи на все 360 градусов.</Description>
+    <Source Page="36">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Power>Farsight</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FARSIGHTCONTROL6</Key>
-    <Name>Control: Fine Details</Name>
-    <Description>Spend [FP] to make out fine details on a single object within medium range.</Description>
-    <Source Page="36">Savage Spirits</Source>
+    <Name>Контроль: Мелкие детали</Name>
+    <Description>Потратьте [FP], чтобы разглядеть мелкие детали на одном объекте в пределах средней дистанции.</Description>
+    <Source Page="36">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Power>Farsight</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FARSIGHTDURATION</Key>
-    <Name>Duration</Name>
-    <Description>Spend [FP] to increase duration by number of rounds for minutes equal to Duration upgrades purchased.</Description>
-    <Source Page="36">Savage Spirits</Source>
+    <Name>Длительность</Name>
+    <Description>Потратьте [FP], чтобы увеличить длительность на количество раундов в течение минуты, равное приобретенным рангам "Длительности".</Description>
+    <Source Page="36">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Power>Farsight</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FARSIGHTMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>Spend [FP][FP]. The user now can see as though from a spot within  close range (planetary scale) of the user's body.</Description>
-    <Source Page="36">Savage Spirits</Source>
+    <Name>Мастерство</Name>
+    <Description>Потратьте [FP][FP]. Теперь пользователь может видеть как бы из точки, находящейся на близком расстоянии (планетарного масштаба) от его тела.</Description>
+    <Source Page="36">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Power>Farsight</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FARSIGHTRANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP] to increase power's range by one range band equal to Range upgrades purchased.</Description>
-    <Source Page="36">Savage Spirits</Source>
+    <Name>Дальность</Name>
+    <Description>Потратьте [FP], чтобы увеличить дальность действия силы на одну полосу дальности, равную количеству купленных рангов "Дальности".</Description>
+    <Source Page="36">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Power>Farsight</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FORSEEBASIC</Key>
-    <Name>Foresee Basic Power</Name>
-    <Description>The Force user can feel the Force flowing around everything, seeing what is and what will be.
+    <Name>Предвидение (Способность)</Name>
+    <Description>Пользователь Силы может чувствовать "Силу", текущую вокруг всего, видеть то, что есть, и то, что будет. 
 
-[P] The user may spend [FP] to gain vague hints of events to come, up to a day into his own, personal future.</Description>
+[P] Можно потратить [FP], чтобы получить смутные намеки на грядущие события, вплоть до дня в своем собственном, личном будущем.</Description>
     <Sources>
-      <Source Page="300">Age of Rebellion Core Rulebook</Source>
-      <Source Page="290">Force and Destiny Core Rulebook</Source>
+      <Source Page="300">Книга правил: Эпоха восстания</Source>
+      <Source Page="290">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Foresee</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FORSEECONTROL1</Key>
-    <Name>Control: Initiative (Success)</Name>
-    <Description>When making a skill check to determine Initiative, the user may roll a [B] Foresee power check[b] as part of the pool. He may spend [FP] to gain [SU] on the check.</Description>
+    <Name>Контроль: Инициатива (Успех)</Name>
+    <Description>При проверке навыка, определяющего инициативу, можно использовать способность силы [B]Предвидение[b] как часть пула. Можно потратить [FP], чтобы получить [SU] при проверке.</Description>
     <Sources>
-      <Source Page="300">Age of Rebellion Core Rulebook</Source>
-      <Source Page="290">Force and Destiny Core Rulebook</Source>
+      <Source Page="300">Книга правил: Эпоха восстания</Source>
+      <Source Page="290">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Foresee</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FORSEECONTROL2</Key>
-    <Name>Control: Defense</Name>
-    <Description>Affected targets increase their ranged and melee defense by 2 for the first round of combat.</Description>
+    <Name>Контроль: Защита</Name>
+    <Description>Пораженные цели увеличивают свою "защиту" от атак "дальнего" и "ближнего" боя на 2 в течение первого раунда боя.</Description>
     <Sources>
-      <Source Page="300">Age of Rebellion Core Rulebook</Source>
-      <Source Page="290">Force and Destiny Core Rulebook</Source>
+      <Source Page="300">Книга правил: Эпоха восстания</Source>
+      <Source Page="290">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Foresee</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FORSEECONTROL3</Key>
-    <Name>Control: Initiative (Maneuver)</Name>
-    <Description>When performing a [B]Foresee power check[b] as part of an Initiative check, the user may spend [FP] to allow all affected targets to take one free maneuver before the first round of combat begins.</Description>
+    <Name>Контроль: Инициатива (маневр)</Name>
+    <Description>При выполнении способности силы [B]Предвидения[b] в рамках проверки инициативы, можно потратить [FP], чтобы позволить всем затронутым целям совершить один свободный маневр до начала первого раунда боя.</Description>
     <Sources>
-      <Source Page="300">Age of Rebellion Core Rulebook</Source>
-      <Source Page="290">Force and Destiny Core Rulebook</Source>
+      <Source Page="300">Книга правил: Эпоха восстания</Source>
+      <Source Page="290">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Foresee</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FORSEEDURATION</Key>
-    <Name>Duration</Name>
-    <Description>Spend [FP] to increase the days into the future the user can see equal to Duration upgrades purchased.</Description>
+    <Name>Длительность</Name>
+    <Description>Потратьте [FP], чтобы увеличить количество дней в будущем, которые пользователь может увидеть, равное приобретенным рангам "Длительности".</Description>
     <Sources>
-      <Source Page="300">Age of Rebellion Core Rulebook</Source>
-      <Source Page="290">Force and Destiny Core Rulebook</Source>
+      <Source Page="300">Книга правил: Эпоха восстания</Source>
+      <Source Page="290">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Foresee</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FORSEEMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>Spend [FP] to increase targets affected equal to Magnitude upgrades purchased.</Description>
+    <Name>Величина</Name>
+    <Description>Потратьте [FP], чтобы увеличить количество пораженных целей на число, равное приобретенным рангам "Величины".</Description>
     <Sources>
-      <Source Page="300">Age of Rebellion Core Rulebook</Source>
-      <Source Page="290">Force and Destiny Core Rulebook</Source>
+      <Source Page="300">Книга правил: Эпоха восстания</Source>
+      <Source Page="290">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Foresee</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FORSEERANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
+    <Name>Дальность</Name>
+    <Description>Потратьте [FP], чтобы увеличить дальность действия силы на количество полос дальности, равное количеству купленных рангов "Дальности".</Description>
     <Sources>
-      <Source Page="300">Age of Rebellion Core Rulebook</Source>
-      <Source Page="290">Force and Destiny Core Rulebook</Source>
+      <Source Page="300">Книга правил: Эпоха восстания</Source>
+      <Source Page="290">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Foresee</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>FORSEESTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>Spend [FP] to pick out specific details equal to Strength upgrades purchased.</Description>
+    <Name>Усиление</Name>
+    <Description>Потратьте [FP], чтобы выбрать конкретные детали, равные приобретенным рангам "Усиления".</Description>
     <Sources>
-      <Source Page="300">Age of Rebellion Core Rulebook</Source>
-      <Source Page="290">Force and Destiny Core Rulebook</Source>
+      <Source Page="300">Книга правил: Эпоха восстания</Source>
+      <Source Page="290">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Foresee</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>HEALHARMBASIC</Key>
-    <Name>Heal/Harm Basic Power</Name>
-    <Description>The Force user bolsters his ally with renewed vigor or saps his foe of vital energy.
+    <Name>Лечение/Вред (Способность)</Name>
+    <Description>Пользователь Силы придает своему союзнику новые силы или лишает противника жизненной энергии.
 
-[P][B]Heal (light side Force user only)[b]: Spend [FP] to heal a number of wounds equal to Intellect from an engaged living creature (including user).
+[P][B]Лечение (только для пользователя светлой стороны Силы)[b]: Потратьте [FP], чтобы исцелить количество "ран", равное "Интеллекту", у задействованного живого существа (включая персонажа). 
 
-[P][B]Harm[b]: Spend [FP] to inflict a number of wounds equal to Intellect (ignoring soak) on an engaged living target. The user gains 1 Conflict.</Description>
-    <Source Page="292">Force and Destiny Core Rulebook</Source>
+[P][B]Вред[b]: Потратьте [FP], чтобы нанести количество "ран", равное "Интеллекту" (игнорируя "поглощение"), живой цели. Персонаж получает 1 "Конфликт".</Description>
+    <Source Page="292">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Heal/Harm</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>HEALHARMCONTROL1</Key>
-    <Name>Control: Medicine</Name>
-    <Description>[B]Heal[b]: Heal additional wounds equal to ranks in Medicine.
+    <Name>Контроль: Медицина</Name>
+    <Description>[B]Лечение[b]: Исцеляет дополнительные "раны", равные рангам в "Медицине". 
 
-[P][B]Harm[b]: Inflict additional wounds equal to ranks in Medicine.</Description>
-    <Source Page="292">Force and Destiny Core Rulebook</Source>
+[P][B]Вред[b]: Наносит дополнительные "раны", равные рангам в "медицине".</Description>
+    <Source Page="292">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Heal/Harm</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>HEALHARMCONTROL2</Key>
-    <Name>Control: Strain</Name>
-    <Description>[B]Heal[b]: If no [DA] generated [FP], target heals strain equal to wounds healed.
+    <Name>Контроль: Усталость</Name>
+    <Description>[B]Лечение[b]: Если нет [DA], созданного [FP], цель исцеляет "усталость", равную исцеленным "ранам". 
 
-[P][B]Harm[b]: If any [DA] were used to generated [FP], user heals strain equal to wounds inflicted.</Description>
-    <Source Page="292">Force and Destiny Core Rulebook</Source>
+[P][B]Вред[b]: Если для создания [FP] были использованы [DA], пользователь исцеляет "усталость", равную нанесенным "ранам".</Description>
+    <Source Page="292">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Heal/Harm</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>HEALHARMCONTROL3</Key>
-    <Name>Control: Status</Name>
-    <Description>[B]Heal[b]: Spend [FP] to remove one status effect from target.
+    <Name>Контроль: Статус</Name>
+    <Description>[B]Лечение[b]: Потратьте [FP], чтобы снять с цели один статусный эффект. 
 
-[P][B]Harm[b]: The user may spend [FP] to heal wounds equal to wounds inflicted on target. Healed character gains 1 Conflict.</Description>
-    <Source Page="292">Force and Destiny Core Rulebook</Source>
+[P][B]Вред[b]: Пользователь может потратить [FP] на исцеление "ран", равных ранам, нанесенным цели. Исцеленный персонаж получает 1 "Конфликт".</Description>
+    <Source Page="292">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Heal/Harm</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>HEALHARMCONTROL4</Key>
-    <Name>Control: Critical</Name>
-    <Description>[B]Heal[b]: May make a [B]Heal power check[b] combined with a [B]Hard ([DI][DI][DI]) Medicine check[b]. If the check succeeds, one target who heals wounds also heal one Critical Injury.
+    <Name>Контроль: Критический</Name>
+    <Description>[B]Лечение[b]: Может сделать проверку силы [B]Лечения[b] в сочетании с проверкой "Медицины" со сложностью ([DI][DI][DI][DI]). Если проверка прошла успешно, одна цель, исцеляющая "раны", также исцеляет одну "критическую травму". 
 
-[P][B]Harm[b]: May make a [B]Harm power check[b] combined with a [B]opposed Medicine vs. Resilience check[b]. If check succeeds, one target who suffers wounds also suffers one Critical Injury (adding +10 to the roll per [AD][AD]).</Description>
-    <Source Page="292">Force and Destiny Core Rulebook</Source>
+[P][B]Вред[b]: Может сделать проверку [B]Вреда[b] в сочетании с [B]встречной проверкой "Медицина против Стойкости"[b]. При успешной проверке одна цель, получившая "рану", также получает одну "критическую травму" (добавляя +10 к броску за [AD][AD]).</Description>
+    <Source Page="292">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Heal/Harm</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>HEALHARMMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>Spend [FP][FP] to affect 1 additional target within range per rank of Magnitude purchased.</Description>
-    <Source Page="292">Force and Destiny Core Rulebook</Source>
+    <Name>Величина</Name>
+    <Description>Потратьте [FP][FP], чтобы воздействовать на 1 дополнительную цель в радиусе действия за каждый приобретенный ранг "Величины".</Description>
+    <Source Page="292">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Heal/Harm</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>HEALHARMMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>[B]Heal[b]: Once per session, spend [FP][FP][FP][FP] to restore 1 target who died after the end of user's last turn to life.
+    <Name>Мастерство</Name>
+    <Description>[B]Лечение[b]: Один раз за сессию потратьте [FP][FP][FP][FP], чтобы вернуть к жизни 1 цель, умершую после окончания последнего хода пользователя. 
 
-[P][B]Harm[b]: Once per session, when this power kills a target, may restore one engaged character who died this encounter to life. Each character gains 7 Conflict.</Description>
-    <Source Page="292">Force and Destiny Core Rulebook</Source>
+[P][B]Вред[b]: Один раз за сессию, когда эта сила убивает цель, она может вернуть к жизни 1 персонажа, погибшего в этом бою. Каждый персонаж получает 7 "Конфликта".</Description>
+    <Source Page="292">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Heal/Harm</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>HEALHARMRANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
-    <Source Page="292">Force and Destiny Core Rulebook</Source>
+    <Name>Дальность</Name>
+    <Description>Потратьте [FP], чтобы увеличить дальность действия "Силы" на количество полос дальности, равное количеству приобретенных рангов "Дальности".</Description>
+    <Source Page="292">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Heal/Harm</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>HEALHARMSTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>[B]Heal[b]: Spend [FP] to increase wounds healed by 1 per rank of Strength upgrades purchased.
+    <Name>Усиление</Name>
+    <Description>[B]Лечение[b]: Потратьте [FP], чтобы увеличить количество исцеленных "ран" на 1 за каждый ранг "Усиления".
 
-[P][B]Harm[b]: Spend [FP] to increase wounds inflicted by 1 per rank of Strength upgrades purchased.</Description>
-    <Source Page="292">Force and Destiny Core Rulebook</Source>
+[P][B]Вред[b]: Потратьте [FP], чтобы увеличить количество наносимых "ран" на 1 за каждый ранг "Усиления".</Description>
+    <Source Page="292">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Heal/Harm</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>IMBUEBASIC</Key>
-    <Name>Imbue Basic Power</Name>
-    <Description>The Force user lends strength to allies, making them more potent, resourceful, or resilient for a time.
-[P]The user may spend [FP][FP] to increase one of another engaged character's characteristics by 1 (to a maximum of 6) until the end of the Force user's next turn.
-[P]This can only be used once per character per encounter. If the user uses [DA] to generate [FP], the target increases a second characteristic by 1 (to a maximum of 6) until the end of the user's next turn, but both the Force user and target suffer 3 strain.</Description>
-    <Source Page="37">Disciples of Harmony</Source>
+    <Name>Наделение (Способность)</Name>
+    <Description>Пользователь Силы наделяет союзников силой, делая их на некоторое время более мощными, находчивыми или выносливыми. 
+
+[P]Можно потратить [FP][FP], чтобы увеличить одну из характеристик другого задействованного персонажа на 1 (максимум 6) до конца следующего хода пользователя Силы. 
+[P]Это можно использовать только один раз на персонажа за встречу. Если пользователь использует [DA] для генерации [FP], цель увеличивает вторую характеристику на 1 (максимум до 6) до конца следующего хода пользователя, но и пользователь Силы, и цель получают 3 "усталости".</Description>
+    <Source Page="37">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Power>Imbue</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>IMBUECONTROL1</Key>
-    <Name>Control: Skill Ranks</Name>
-    <Description>Spend [FP] to allow the target to count as having ranks in a skill equal to user's ranks in the skill.</Description>
-    <Source Page="37">Disciples of Harmony</Source>
+    <Name>Контроль: Ранги навыков</Name>
+    <Description>Потратьте [FP], чтобы позволить цели считать, что у нее есть ранги в навыке, равные рангам пользователя в этом навыке.</Description>
+    <Source Page="37">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Power>Imbue</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>IMBUEDURATION</Key>
-    <Name>Duration</Name>
-    <Description>Commit [FO][FO] to sustain the effects of this power as long as the target remains in range.</Description>
-    <Source Page="37">Disciples of Harmony</Source>
+    <Name>Длительность</Name>
+    <Description>Потратьте [FO][FO] на поддержание эффектов этой силы, пока цель остается в зоне действия.</Description>
+    <Source Page="37">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Power>Imbue</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>IMBUEDURATION2</Key>
-    <Name>Duration</Name>
-    <Description>Commit [FO] to sustain the effects of this power as long as the target remains in range.</Description>
-    <Source Page="37">Disciples of Harmony</Source>
+    <Name>Длительность</Name>
+    <Description>Потратьте [FO] на поддержание эффектов этой силы, пока цель остается в зоне действия.</Description>
+    <Source Page="37">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Power>Imbue</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>IMBUEMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>Increase characteristics boosted by this power by 2 (to a maximum of 7) instead of 1 (to a maximum of 6).</Description>
-    <Source Page="37">Disciples of Harmony</Source>
+    <Name>Мастерство</Name>
+    <Description>Увеличивает характеристики, повышаемые этой способностью, не на 1 (до 6), а на 2 (до максимума 7).</Description>
+    <Source Page="37">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Power>Imbue</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>IMBUERANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP][FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
-    <Source Page="37">Disciples of Harmony</Source>
+    <Name>Дальность</Name>
+    <Description>Потратьте [FP][FP], чтобы увеличить дальность действия силы на количество полос дальности, равное количеству купленных рангов "дальности".</Description>
+    <Source Page="37">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Power>Imbue</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>IMBUESTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>If no [DA] were used to generate [FP], decrease all Critical Injuries suffered and inflicted by the target by 10 per Strength upgrade purchased. If no [LI] were used to generate [FP], increase all Critical Injuries suffered and inflicted by 10 per Strength upgrade purchased.</Description>
-    <Source Page="37">Disciples of Harmony</Source>
+    <Name>Усиление</Name>
+    <Description>Если для создания [FP] не было использовано [DA], уменьшите все "критические повреждения", полученные и наносимые целью, на 10 за каждый приобретенный ранг "Усиления". Если для создания [FP] не было использовано [LI], увеличьте все "критические ранения", полученные и нанесенные целью, на 10 за каждый приобретенный ранг "усиления".</Description>
+    <Source Page="37">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Power>Imbue</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>INFLUENCEBASIC</Key>
-    <Name>Influence Basic Power</Name>
-    <Description>The character may attempt to guide, shape, and even twist the thoughts and feelings of other.
+    <Name>Влияние (Способность)</Name>
+    <Description>Персонажа можно пытаться направлять, влиять и даже искажать мысли и чувства других людей. 
 
-[P][B]Special Rule ([LI]/[DA] use)[b]: When guiding and shaping thoughts, only [FP] generated from [DA] may be used to generate negative emotions such as rage, fear, and hatred. Only [FP] generated from[LI] may be used to generate positive emotions such as peace, tranquility, and friendliness. Other emotions such as confusion can be created from [FP] generated from either [LI] or [DA].
+[P][B]Специальное правило (использование [LI]/[DA])[b]: Направляя и влияя на мысли, можно использовать только [FP], порожденный [DA], для порождения негативных эмоций, таких как ярость, страх и ненависть. Только [FP], сгенерированный из [LI], можно использовать для порождения положительных эмоций, таких как мир, спокойствие и дружелюбие. Другие эмоции, такие как замешательство, могут быть созданы с помощью [FP], сгенерированного либо из [LI], либо из [DA]. 
 
-[P]The character may spend [FP] to stress the mind of one living target he is engaged with, inflicting 1 strain.</Description>
+[P]Персонаж может потратить [FP], чтобы напрячь разум одной живой цели, с которой он взаимодействует, нанеся ей 1 "усталость".</Description>
     <Sources>
-      <Source Page="282">Edge of the Empire Core Rulebook</Source>
-      <Source Page="294">Force and Destiny Core Rulebook</Source>
+      <Source Page="282">Книга правил: Край Империи</Source>
+      <Source Page="294">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Influence</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>INFLUENCECONTROL1</Key>
-    <Name>Control: Emotion/Belief</Name>
-    <Description>The Force user may make an [B]opposed Discipline vs. Discipline check[b] combined with an [B]Influence power check[b]. If the user spends [FP] and succeeds on the check, he can force the target to adopt an emotional state or believe something untrue, lasting for 1 round or 5 minutes.</Description>
+    <Name>Контроль: Эмоции/Вера</Name>
+    <Description>Пользователю Силы можно сделать проверку [B]Противодействие Выдержки против Выдержки[b] в сочетании с проверкой [B]Силы Влияния[b]. Если пользователь потратит [FP] и преуспеет в проверке, он может заставить цель принять эмоциональное состояние или поверить во что-то неправдивое, что продлится 1 раунд или 5 минут.</Description>
     <Sources>
-      <Source Page="282">Edge of the Empire Core Rulebook</Source>
-      <Source Page="294">Force and Destiny Core Rulebook</Source>
+      <Source Page="282">Книга правил: Край Империи</Source>
+      <Source Page="294">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Influence</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>INFLUENCECONTROL2</Key>
-    <Name>Control: Skills</Name>
-    <Description>When making a Coercion, Charm, Deception, Leadership, or Negotiation check, the Force user may roll an [B]Influence power check[b] as part of his dice pool. He may spend [FP] to gain [SU] or [AD] (user's choice) on the check.</Description>
+    <Name>Контроль: Навыки</Name>
+    <Description>Когда пользователь Силы делает проверку на "Запугивание", "Обаяние", "Обман", "Лидерство" или "Переговоры", он может бросить проверку способности силы "Влияния" как часть своего набора кубиков. При этом можно потратить [FP], чтобы получить [SU] или [AD] (по выбору пользователя) при проверке.</Description>
     <Sources>
-      <Source Page="282">Edge of the Empire Core Rulebook</Source>
-      <Source Page="294">Force and Destiny Core Rulebook</Source>
+      <Source Page="282">Книга правил: Край Империи</Source>
+      <Source Page="294">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Influence</Power>
@@ -1067,156 +1049,151 @@
   </ForceAbility>
   <ForceAbility>
     <Key>INFLUENCEDURATION</Key>
-    <Name>Duration</Name>
-    <Description>Spend [FP] to increase duration by number of rounds (or minutes) equal to Duration upgrades purchased.</Description>
+    <Name>Длительность</Name>
+    <Description>Потратьте [FP], чтобы увеличить продолжительность на количество раундов (или минут), равное количеству приобретенных рангов "Длительности".</Description>
     <Sources>
-      <Source Page="282">Edge of the Empire Core Rulebook</Source>
-      <Source Page="294">Force and Destiny Core Rulebook</Source>
+      <Source Page="282">Книга правил: Край Империи</Source>
+      <Source Page="294">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Influence</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>INFLUENCEMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>Spend [FP] to increase targets affected equal to Magnitude upgrades purchased.</Description>
+    <Name>Величина</Name>
+    <Description>Потратьте [FP], чтобы увеличить количество пораженных целей на "Величину", равную приобретенным рангам.</Description>
     <Sources>
-      <Source Page="282">Edge of the Empire Core Rulebook</Source>
-      <Source Page="294">Force and Destiny Core Rulebook</Source>
+      <Source Page="282">Книга правил: Край Империи</Source>
+      <Source Page="294">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Influence</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>INFLUENCERANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
+    <Name>Дальность</Name>
+    <Description>Потратьте [FP], чтобы увеличить дальность действия силы на количество полос дальности, равное количеству купленных рангов "Дальности".</Description>
     <Sources>
-      <Source Page="282">Edge of the Empire Core Rulebook</Source>
-      <Source Page="294">Force and Destiny Core Rulebook</Source>
+      <Source Page="282">Книга правил: Край Империи</Source>
+      <Source Page="294">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Influence</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>INFLUENCESTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>When stressing the mind of a target, the character inflicts 2 strain.</Description>
+    <Name>Усиление</Name>
+    <Description>Напрягая разум цели, персонаж наносит ей 2 "усталости".</Description>
     <Sources>
-      <Source Page="282">Edge of the Empire Core Rulebook</Source>
-      <Source Page="294">Force and Destiny Core Rulebook</Source>
+      <Source Page="282">Книга правил: Край Империи</Source>
+      <Source Page="294">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Influence</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>JERINFBASIC</Key>
-    <Name>Jerserra's Influence Basic Power</Name>
-    <Description>The Force use can project terrifying visions onto foes, forcing them to face their greatest fears.
-[P]The user may spend [FP] to target one character within short range. That character must immediately make an [B]Average ([DI][DI]) fear check[b] as an out of turn incidental.
-</Description>
-    <Source Page="13">Ghosts of Dathomir</Source>
+    <Name>Влияние Джерсерры (Способность)</Name>
+    <Description>Используя "Силу", персонаж может проецировать на врагов ужасающие видения, заставляя их встретиться лицом к лицу со своими самыми большими страхами. 
+[P]Пользователю можно потратить [FP], чтобы выбрать одного персонажа в пределах короткой дистанции. Этот персонаж должен немедленно сделать проверку "Страха" со сложностью ([DI][DI]) в качестве свободного действия.</Description>
+    <Source Page="13">Модуль приключения: Призраки Датомира</Source>
     <Custom>AddedItem</Custom>
     <Power>Jerserra's Influence</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>JERINFCONTROL1</Key>
-    <Name>Control: Strain</Name>
-    <Description>If target suffers strain as a result of Jerserra's Influence, the Force user recovers an equal amount of strain.
-</Description>
-    <Source Page="13">Ghosts of Dathomir</Source>
+    <Name>Контроль: Усталость</Name>
+    <Description>Если цель получает "усталость" в результате "Влияния Джерсерры", пользователь Силы восстанавливает равное количество "усталости".</Description>
+    <Source Page="13">Модуль приключения: Призраки Датомира</Source>
     <Custom>AddedItem</Custom>
     <Power>Jerserra's Influence</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>JERINFCONTROL2</Key>
-    <Name>Control: Fear</Name>
-    <Description>When making a fear check, the Force user can roll a [B]Jerserra's Influence power check[b] as part of the pool. The user may spend [FP] to gain [SU] or [AD] (user's choice) on the check.</Description>
-    <Source Page="13">Ghosts of Dathomir</Source>
+    <Name>Контроль: Страх</Name>
+    <Description>При проверке страха пользователь Силы может бросить проверку способности силы "Влияния Джерсерры" как часть пула. При этом можно потратить [FP], чтобы получить [SU] или [AD] (по выбору пользователя) при проверке.</Description>
+    <Source Page="13">Модуль приключения: Призраки Датомира</Source>
     <Custom>AddedItem</Custom>
     <Power>Jerserra's Influence</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>JERINFCONTROL3</Key>
-    <Name>Control: Willpower</Name>
-    <Description>Ongoing effect. Commit [FO]. The user increases his Willpower characteristic by 1 (to a maximum of 6).
-</Description>
-    <Source Page="13">Ghosts of Dathomir</Source>
+    <Name>Контроль: Воля</Name>
+    <Description>Постоянный эффект. Совершив [FO]. Пользователь увеличивает свою характеристику "Воли" на 1 (максимум до 6).</Description>
+    <Source Page="13">Модуль приключения: Призраки Датомира</Source>
     <Custom>AddedItem</Custom>
     <Power>Jerserra's Influence</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>JERINFMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>Spend [FP] to increase the number of targets affected by a number equal to Magnitude upgrades purchased.</Description>
-    <Source Page="13">Ghosts of Dathomir</Source>
+    <Name>Величина</Name>
+    <Description>Потратьте [FP], чтобы увеличить количество целей, пораженных заклинанием, на число, равное количеству приобретенных рангов "Величины".</Description>
+    <Source Page="13">Модуль приключения: Призраки Датомира</Source>
     <Custom>AddedItem</Custom>
     <Power>Jerserra's Influence</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>JERINFMASTERY1</Key>
-    <Name>Mastery</Name>
-    <Description>The Force user may target one character within short range and make an [B]opposed Discipline vs. Discipline check[b] combined with a [B]Jerserra's Influence power check[b]. If the user spends [FP] and succeeds on the check, he may commit [FO] and force the target to also commit [FO]. Both dice remain committed until the Force user uncommits that [FO] or the encounter ends.
-</Description>
-    <Source Page="13">Ghosts of Dathomir</Source>
+    <Name>Мастерство</Name>
+    <Description>Пользователю Силы можно выбрать одного персонажа в пределах короткой дистанции и сделать [B]проверку Выдержки против Выдержки[b] в сочетании с проверкой силы [B]Влияния Джерсерры[b]. Если пользователь потратит [FP] и преуспеет в проверке, можно потратить [FO] и заставить цель также потратить [FO]. Оба кубика остаются зафиксированными до тех пор, пока пользователь Силы не снимет [FO] или встреча не закончится.</Description>
+    <Source Page="13">Модуль приключения: Призраки Датомира</Source>
     <Custom>AddedItem</Custom>
     <Power>Jerserra's Influence</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>JERINFMASTERY2</Key>
-    <Name>Mastery</Name>
-    <Description>Once per session, after a target fails a fear check caused by this power, the Force user may have the target perform one action as an out of turn incidental. The Force user gains 3 Conflict.</Description>
-    <Source Page="13">Ghosts of Dathomir</Source>
+    <Name>Мастерство</Name>
+    <Description>Один раз за сессию, после того как цель провалила проверку на "Страх", вызванную этой силой, пользователю Силы можно заставить цель выполнить одно действие вне очереди. Пользователь Силы получает 3 "Конфликта".</Description>
+    <Source Page="13">Модуль приключения: Призраки Датомира</Source>
     <Custom>AddedItem</Custom>
     <Power>Jerserra's Influence</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>JERINFRANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP] to increase the power's range by a number of range bands equal to Range upgrades purchased.</Description>
-    <Source Page="13">Ghosts of Dathomir</Source>
+    <Name>Дальность</Name>
+    <Description>Потратьте [FP], чтобы увеличить дальность действия силы на количество полос дальности, равное количеству купленных рангов "Дальности".</Description>
+    <Source Page="13">Модуль приключения: Призраки Датомира</Source>
     <Custom>AddedItem</Custom>
     <Power>Jerserra's Influence</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>JERINFSTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>The Force user may spend [FP] to increase the difficulty of the fear check by a number of times equal to Strength upgrades purchased.
-</Description>
-    <Source Page="13">Ghosts of Dathomir</Source>
+    <Name>Усиление</Name>
+    <Description>Пользователю Силы можно потратить [FP], чтобы увеличить сложность проверки страха в несколько раз, равное количеству приобретенных рангов "Усиления".</Description>
+    <Source Page="13">Модуль приключения: Призраки Датомира</Source>
     <Custom>AddedItem</Custom>
     <Power>Jerserra's Influence</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MANIPULATEBASIC</Key>
-    <Name>Manipulate Basic Power</Name>
-    <Description>The Force user shapes machine components on a molecular level, allowing him to mend damaged mechanical systems.
-[BR]The Force user may spend [FP] to cause one vehicle or starship he is engaged with to recover one system strain. The user may activate this multiple times.</Description>
-    <Source Page="37">Endless Vigil</Source>
+    <Name>Манипулирование (Способность)</Name>
+    <Description>Пользователь Силы создает компоненты механизмов на молекулярном уровне, что позволяет ему чинить поврежденные механические системы.
+[BR]Пользователю Силы можно потратить [FP], чтобы заставить одно транспортное средство или звездолет, с которым он взаимодействует, восстановить одну "перегрузку системы". Это можно активировать несколько раз.</Description>
+    <Source Page="37">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MANIPULATECONTROL1</Key>
-    <Name>Control: Item Damage</Name>
-    <Description>Ongoing effect: Commit [FO] One damaged weapon or item counts as being undamaged.</Description>
-    <Source Page="37">Endless Vigil</Source>
+    <Name>Контроль: Поврежденный предмет</Name>
+    <Description>Постоянный эффект: Сделать [FO] одно поврежденное оружие или предмет считается неповрежденным.</Description>
+    <Source Page="37">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MANIPULATECONTROL2</Key>
-    <Name>Control: Increase System Strain</Name>
-    <Description>Ongoing effect: Commit [FO] Increase the system strain threshold of 1 vehicle or starship at engaged range by 3 per [FO] committed.</Description>
-    <Source Page="37">Endless Vigil</Source>
+    <Name>Контроль: Увеличение перегрузки системы</Name>
+    <Description>Постоянный эффект: Сделать [FO] чтобы увеличить порог "системной перегрузки" 1 транспортного средства или звездолета в зоне поражения на 3 за каждый задействованный [FO].</Description>
+    <Source Page="37">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MANIPULATECONTROL3</Key>
-    <Name>Control: Mechanics</Name>
-    <Description>When making a Mechanics skill check, the user may roll a Manipulate power check as part of the pool and may spend [FP] to gain [SU] or [AD] (user's choice) on the check.</Description>
-    <Source Page="37">Endless Vigil</Source>
+    <Name>Контроль: Механика</Name>
+    <Description>Когда пользователь делает проверку навыка "Механики", он может бросить проверку способности силы "манипуляция" как часть пула и может потратить [FP], чтобы получить [SU] или [AD] (на выбор пользователя) при проверке.</Description>
+    <Source Page="37">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
     <DieModifiers>
@@ -1228,607 +1205,606 @@
   </ForceAbility>
   <ForceAbility>
     <Key>MANIPULATECONTROL4</Key>
-    <Name>Control: Heal Droid</Name>
-    <Description>The user may spend [FP] to heal a number of wounds equal to his Intellect in an engaged droid.</Description>
-    <Source Page="37">Endless Vigil</Source>
+    <Name>Контроль: Исцеление дроида</Name>
+    <Description>Можно потратить [FP], чтобы исцелить количество "ран", равное "Интеллекту", у задействованного дроида.</Description>
+    <Source Page="37">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MANIPULATECONTROL5</Key>
-    <Name>Control: Inflict Strain</Name>
-    <Description>When performing a combat check against a droid, ship, vehicle or other mechanical construct within engaged ranged, the user may spend [FP] to inflict 1 additional strain or system strain on the target.</Description>
-    <Source Page="37">Endless Vigil</Source>
+    <Name>Контроль: Нанесение усталости</Name>
+    <Description>При выполнении боевой проверки против дроида, корабля, транспортного средства или другой механической конструкции в радиусе действия можно потратить [FP], чтобы наложить на цель 1 дополнительную "усталость" или "перегрузку системы".</Description>
+    <Source Page="37">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MANIPULATECONTROL6</Key>
-    <Name>Control: Increase Hull Trauma</Name>
-    <Description>Ongoing effect: Commit [FO]. Increase the hull trauma threshold of 1 vehicle or starship at engaged range by 3 per [FO] committed.</Description>
-    <Source Page="37">Endless Vigil</Source>
+    <Name>Контроль: Увеличить прочность корпуса</Name>
+    <Description>Постоянный эффект: Совершить [FO]. Увеличивает порог "повреждения корпуса" 1 транспорта или звездолета в зоне поражения на 3 за каждый совершенный [FO].</Description>
+    <Source Page="37">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MANIPULATECONTROL7</Key>
-    <Name>Control: Upgrade Computers and Mechanics</Name>
-    <Description>Ongoing effect: Commit [FO]. Upgrade the ability of Computers and Mechanics check once.</Description>
-    <Source Page="37">Endless Vigil</Source>
+    <Name>Контроль: Модернизация компьютеров и механики</Name>
+    <Description>Постоянный эффект: Совершить [FO]. Повысьте способность проверки "Компьютеров" и "Механики" на 1.</Description>
+    <Source Page="37">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MANIPULATEMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>When performing Manipulate power check as part of a Mechanics skill check, the user may spend [FP][FP] to gain [TR] on the check.</Description>
-    <Source Page="37">Endless Vigil</Source>
+    <Name>Мастерство</Name>
+    <Description>При проверке способности силы "Манипулирование" в рамках проверки навыка "Механика" можно потратить [FP][FP], чтобы получить [TR] для проверки.</Description>
+    <Source Page="37">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MANIPULATERANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP] to increase the power's range by a number of range bands equal to Range upgrades purchased.</Description>
-    <Source Page="37">Endless Vigil</Source>
+    <Name>Дальность</Name>
+    <Description>Потратьте [FP], чтобы увеличить дальность действия силы на количество полос дальности, равное количеству купленных рангов "Дальности".</Description>
+    <Source Page="37">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MANIPULATESTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>When using this power spend [FP] to cause targets to recover 1 additional strain or system strain or heal 1 additional wound for every Strength upgrade purchased.</Description>
-    <Source Page="37">Endless Vigil</Source>
+    <Name>Усиление</Name>
+    <Description>При использовании этой силы потратьте [FP], чтобы вызвать у цели 1 дополнительную "усталость" или "системную перегрузку" или исцелить 1 дополнительную "рану" за каждое приобретенный ранг "Усиления".</Description>
+    <Source Page="37">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MISDIRBASIC</Key>
-    <Name>Misdirect Basic Power</Name>
-    <Description>The Force user creates illusions to fool those around him.
+    <Name>Сбить с толку (Способность)</Name>
+    <Description>Пользователь Силы создает иллюзии, чтобы обмануть окружающих. 
 
-[P]The user may spend [FP] to make a target at up to short range unable to perceive a chosen person or object of silhouette 1 or smaller. Until the beginning of the user's next turn, the target cannot see or sense the hidden person or object.</Description>
-    <Source Page="296">Force and Destiny Core Rulebook</Source>
+[P]Можно потратить [FP], чтобы сделать цель на близком расстоянии неспособной воспринимать выбранного человека или предмет силуэта 1 или меньше. До начала следующего хода пользователя цель не может видеть или чувствовать скрытого человека или предмет.</Description>
+    <Source Page="296">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Misdirect</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MISDIRCONTROL1</Key>
-    <Name>Control: Appearance</Name>
-    <Description>The user may alter the perceived appearance of the chosen person or object instead of hiding it.</Description>
-    <Source Page="296">Force and Destiny Core Rulebook</Source>
+    <Name>Контроль: Внешность</Name>
+    <Description>Вместо того чтобы скрывать выбранного человека или предмет, можно изменить его внешний вид.</Description>
+    <Source Page="296">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Misdirect</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MISDIRCONTROL2</Key>
-    <Name>Control: Illusion</Name>
-    <Description>May use this power to force the target to perceive a single illusory person of object.</Description>
-    <Source Page="296">Force and Destiny Core Rulebook</Source>
+    <Name>Контроль: Иллюзия</Name>
+    <Description>Можно использовать эту силу, чтобы заставить цель воспринимать одного человека или предмет как иллюзию.</Description>
+    <Source Page="296">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Misdirect</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MISDIRCONTROL3</Key>
-    <Name>Control: Combat</Name>
-    <Description>Commit one or more [FO]. Add [TH] per [FO] to all combat checks targeting Force user.</Description>
-    <Source Page="296">Force and Destiny Core Rulebook</Source>
+    <Name>Контроль: Бой</Name>
+    <Description>Совершите одно или несколько [FO]. Добавьте [TH] за [FO] ко всем боевым проверкам, направленным на пользователя Силы.</Description>
+    <Source Page="296">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Misdirect</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MISDIRDURATION</Key>
-    <Name>Duration</Name>
-    <Description>Commit [FO][FO] to sustain this power while the beguiled target remains in range.</Description>
-    <Source Page="296">Force and Destiny Core Rulebook</Source>
+    <Name>Длительность</Name>
+    <Description>Совершите [FO][FO], чтобы поддерживать эту силу, пока выбранная цель остается в зоне действия.</Description>
+    <Source Page="296">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Misdirect</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MISDIRMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>Spend [FP] to affect additional targets equal to Presence per rank of Magnitude purchased.</Description>
-    <Source Page="296">Force and Destiny Core Rulebook</Source>
+    <Name>Величина</Name>
+    <Description>Потратьте [FP], чтобы воздействовать на дополнительные цели, равные уровню "Харизмы" за каждый приобретенный ранг "Величины".</Description>
+    <Source Page="296">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Misdirect</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MISDIRMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>Spend [FP][FP] to obscure additional objects or create illusions equal to Cunning plus Deception.</Description>
-    <Source Page="296">Force and Destiny Core Rulebook</Source>
+    <Name>Мастерство</Name>
+    <Description>Потратьте [FP][FP], чтобы скрыть дополнительные объекты или создать иллюзию, равную "Смекалке" + "Обман".</Description>
+    <Source Page="296">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Misdirect</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MISDIRRANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
-    <Source Page="296">Force and Destiny Core Rulebook</Source>
+    <Name>Дальность</Name>
+    <Description>Потратьте [FP], чтобы увеличить дальность действия силы на количество полос дальности, равное количеству купленных рангов "Дальности".</Description>
+    <Source Page="296">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Misdirect</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MISDIRSTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>Spend [FP][FP] to increase the silhouette of the object obscured or illusion created by 1 per Strength upgrade purchased.</Description>
-    <Source Page="296">Force and Destiny Core Rulebook</Source>
+    <Name>Усиление</Name>
+    <Description>Потратьте [FP][FP], чтобы увеличить силуэт скрываемого объекта или создаваемой иллюзии на 1 за каждое приобретенный ранг "Усиления".</Description>
+    <Source Page="296">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Misdirect</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MOVEBASIC</Key>
-    <Name>Move Basic Power</Name>
-    <Description>The Force user can move small objects via the power of the Force.
+    <Name>Движение (Способность)</Name>
+    <Description>Пользователь Силы может перемещать небольшие предметы с помощью "Силы". 
 
-[P]The user may spend [FP] to move one object of silhouette 0 that is within short range up to his maximum range. The default maximum range is short range.</Description>
+[P]Можно потратить [FP], чтобы переместить один объект силуэта 0, находящийся в пределах короткой дистанции, на максимальную дистанцию. По умолчанию максимальная дальность - ближняя.</Description>
     <Sources>
-      <Source Page="284">Edge of the Empire Core Rulebook</Source>
-      <Source Page="296">Age of Rebellion Core Rulebook</Source>
-      <Source Page="298">Force and Destiny Core Rulebook</Source>
+      <Source Page="284">Книга правил: Край Империи</Source>
+      <Source Page="296">Книга правил: Эпоха восстания</Source>
+      <Source Page="298">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Move</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MOVECONTROL1</Key>
-    <Name>Control: Hurl</Name>
-    <Description>The Force user can hurl objects to damage targets by making a [B]ranged combat check[b] combined with a [B]Move power check[b], dealing damage equal to 10 times silhouette.</Description>
+    <Name>Контроль: Бросок</Name>
+    <Description>Пользователь Силы может бросать предметы, чтобы нанести урон цели, сделав проверку [B]дальнего боя[b] в сочетании с проверкой способности силы [B]перемещения[b], нанося урон, равный 10-кратному силуэту.</Description>
     <Sources>
-      <Source Page="284">Edge of the Empire Core Rulebook</Source>
-      <Source Page="296">Age of Rebellion Core Rulebook</Source>
-      <Source Page="298">Force and Destiny Core Rulebook</Source>
+      <Source Page="284">Книга правил: Край Империи</Source>
+      <Source Page="296">Книга правил: Эпоха восстания</Source>
+      <Source Page="298">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Move</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MOVECONTROL2</Key>
-    <Name>Control: Pull</Name>
-    <Description>The Force user can pull objects out of secure mountings or out of an opponent's grasp.</Description>
+    <Name>Контроль: Притягивание</Name>
+    <Description>Пользователь Силы может вырывать предметы из надежных креплений или из захвата противника.</Description>
     <Sources>
-      <Source Page="284">Edge of the Empire Core Rulebook</Source>
-      <Source Page="296">Age of Rebellion Core Rulebook</Source>
-      <Source Page="298">Force and Destiny Core Rulebook</Source>
+      <Source Page="284">Книга правил: Край Империи</Source>
+      <Source Page="296">Книга правил: Эпоха восстания</Source>
+      <Source Page="298">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Move</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MOVECONTROL3</Key>
-    <Name>Control: Manipulate</Name>
-    <Description>The character can perform fine manipulation of items, allowing him to do whatever he could normally do with his hands via this power at this power's range.</Description>
+    <Name>Контроль: Манипулирование</Name>
+    <Description>Персонаж может выполнять тонкие манипуляции с предметами, позволяя ему делать все, что он обычно мог бы делать руками, используя эту силу на расстоянии действия этой "Силы".</Description>
     <Sources>
-      <Source Page="284">Edge of the Empire Core Rulebook</Source>
-      <Source Page="296">Age of Rebellion Core Rulebook</Source>
-      <Source Page="298">Force and Destiny Core Rulebook</Source>
+      <Source Page="284">Книга правил: Край Империи</Source>
+      <Source Page="296">Книга правил: Эпоха восстания</Source>
+      <Source Page="298">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Move</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MOVEMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>Spend [FP] to increase targets affected equal to Magnitude upgrades purchased.</Description>
+    <Name>Величина</Name>
+    <Description>Потратьте [FP], чтобы увеличить количество пораженных целей на "Величину", равную приобретенным рангам.</Description>
     <Sources>
-      <Source Page="284">Edge of the Empire Core Rulebook</Source>
-      <Source Page="296">Age of Rebellion Core Rulebook</Source>
-      <Source Page="298">Force and Destiny Core Rulebook</Source>
+      <Source Page="284">Книга правил: Край Империи</Source>
+      <Source Page="296">Книга правил: Эпоха восстания</Source>
+      <Source Page="298">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Move</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MOVERANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
+    <Name>Дальность</Name>
+    <Description>Потратьте [FP], чтобы увеличить дальность действия силы на количество полос дальности, равное количеству купленных рангов "Дальности".</Description>
     <Sources>
-      <Source Page="284">Edge of the Empire Core Rulebook</Source>
-      <Source Page="296">Age of Rebellion Core Rulebook</Source>
-      <Source Page="298">Force and Destiny Core Rulebook</Source>
+      <Source Page="284">Книга правил: Край Империи</Source>
+      <Source Page="296">Книга правил: Эпоха восстания</Source>
+      <Source Page="298">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Move</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>MOVESTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>Spend [FP] to increase silhouette able to be targeted equal to Strength upgrades purchased.</Description>
+    <Name>Усиление</Name>
+    <Description>Потратьте [FP], чтобы увеличить силуэт, на который можно нацелиться, на число, равное приобретенным рангам "Усиления".</Description>
     <Sources>
-      <Source Page="284">Edge of the Empire Core Rulebook</Source>
-      <Source Page="296">Age of Rebellion Core Rulebook</Source>
-      <Source Page="298">Force and Destiny Core Rulebook</Source>
+      <Source Page="284">Книга правил: Край Империи</Source>
+      <Source Page="296">Книга правил: Эпоха восстания</Source>
+      <Source Page="298">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Move</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>PROTUNLBASICPOWER</Key>
-    <Name>Protect/Unleash Basic Power</Name>
-    <Description>The Force user guides the flow of energy, protecting himself and others or unleashing blasts of power upon his foes.
+    <Name>Защита/Всплеск (Способность)</Name>
+    <Description>Пользователь Силы направляет потоки энергии, защищая себя и других или обрушивая на врагов всплески силы. 
 
-[P][B]Protect[b]: The user makes a [B]Protect power check[b] and rolls an [B]Average ([DI][DI]) Discipline check[b] as part of the pool. Spend [FP][FP] to reduce damage from an energy-based weapon that hits himself or an engaged character by amount equal to Willpower plus 1 per [SU]. Dark Side Force users may only protect themselves.
+[P][B]Защита[b]: Пользователь делает проверку [B]Защиты силы[b] и бросает проверку "Выдержки" со сложностью ([DI][DI]) как часть пула. Потратьте [FP][FP], чтобы уменьшить урон от энергетического оружия, которое попадает в него или в задействованного персонажа, на величину, равную "Воле" плюс 1 за [SU]. Пользователям Силы Темной стороны можно защищать только себя. 
 
-[P][B]Unleash[b]: The user makes an [B]Unleash power check[b] as ranged attack and rolls an [B]Average ([DI][DI]) Discipline check[b] for difficulty. If check succeeds and spend [FP][FP], the attack hits. It has a range of short, a base damage equal to Willpower, and a critical rating of 4. The user gains 1 Conflict.</Description>
-    <Source Page="300">Force and Destiny Core Rulebook</Source>
+[P][B]Всплеск[b]: Пользователь делает проверку [B]силы Всплеска[b] как дальнюю атаку и бросает проверку "Выдержки" со сложностью ([DI][DI]). Если проверка успешна и потрачено [FP][FP], атака попадает. Дальность атаки - короткая, базовый урон равен "Воле", критический рейтинг - 4. Пользователь получает 1 "Конфликт".</Description>
+    <Source Page="300">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Protect/Unleash</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>PROTUNLCONTROL1</Key>
-    <Name>Control: Defense/Strain</Name>
-    <Description>[B]Protect[b]: Spend [AD] to gain defense equal to [AD] spent.
+    <Name>Контроль: Защита/Усталость</Name>
+    <Description>[B]Защита[b]: Потратьте [AD], чтобы получить "защиту", равную потраченному [AD]. 
 
-[P][B]Unleash[b]: Spend [AD] to inflict 1 strain on target.</Description>
-    <Source Page="300">Force and Destiny Core Rulebook</Source>
+[P][B]Всплеск[b]: Потратьте [AD], чтобы наложить на цель 1 "усталость".</Description>
+    <Source Page="300">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Protect/Unleash</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>PROTUNLCONTROL2</Key>
-    <Name>Control: All Attacks/Ensnare</Name>
-    <Description>[B]Protect[b]: Spend [FP] to allow power to protect against all types of attack.
+    <Name>Контроль: Любая атака/Захват</Name>
+    <Description>[B]Защита[b]: Потратьте [FP], чтобы позволить силе защищать от всех типов атак. 
 
-[P][B]Unleash[b]: Spend [FP] to give the attack Ensnare 2.</Description>
-    <Source Page="300">Force and Destiny Core Rulebook</Source>
+[P][B]Всплеск[b]: Потратьте [FP], чтобы дать атаке качество Ensnare 2.</Description>
+    <Source Page="300">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Protect/Unleash</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>PROTUNLCONTROL3</Key>
-    <Name>Control: Incidental/Maneuver</Name>
-    <Description>[B]Protect[b]: Light side Force users may spend 1 Destiny Point to use Protect as an out-of-turn incidental once per session.
+    <Name>Контроль: Свобода/Маневр</Name>
+    <Description>[B]Защита[b]: Пользователям Силы светлой стороны можно потратить 1 очко "Судьбы", чтобы использовать "Защиту" как свободное действие один раз за сессию. 
 
-[P][B]Unleash[b]: Dark side Force users may spend 1 Destiny Point to use Unleash as a maneuver once per session.</Description>
-    <Source Page="300">Force and Destiny Core Rulebook</Source>
+[P][B]Всплеск[b]: Пользователям Силы Темной стороны можно потратить 1 очко "Судьбы", чтобы использовать "Всплеск" в качестве маневра один раз за сессию.</Description>
+    <Source Page="300">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Protect/Unleash</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>PROTUNLDURATION</Key>
-    <Name>Duration</Name>
-    <Description>[B]Protect[b]: If no [DA] generated [FP] the power reduces damage of all attacks hitting the target.
+    <Name>Длительность</Name>
+    <Description>[B]Защита[b]: Если нет [DA], созданного [FP], "Сила" уменьшает урон всех атак, попадающих в цель.
 
-[P][B]Unleash[b]: Spend [FP] to give the attack Burn 2.</Description>
-    <Source Page="300">Force and Destiny Core Rulebook</Source>
+[P][B]Всплеск[b]: Потратьте [FP], чтобы придать атаке качество Burn 2.</Description>
+    <Source Page="300">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Protect/Unleash</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>PROTUNLMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>Spend [FP] to affect 1 additional target within range per rank of Magnitude purchased.</Description>
-    <Source Page="300">Force and Destiny Core Rulebook</Source>
+    <Name>Величина</Name>
+    <Description>Потратьте [FP], чтобы воздействовать на 1 дополнительную цель в радиусе действия за каждый приобретенный ранг "Величины".</Description>
+    <Source Page="300">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Protect/Unleash</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>PROTUNLMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>[B]Protect[b]: Light side Force users may spend [FP][FP] to reflect attacks they reduce to 0 damage, dealing damage equal to initial attack to attacker.
+    <Name>Мастерство</Name>
+    <Description>[B]Защита[b]: Пользователям Силы Светлой стороны можно потратить [FP][FP] на отражение атак, которые они снижают до 0 урона, нанося атакующему урон, равный начальной атаке. 
 
-[P][B]Unleash[b]: Dark side Force users may spend [FP] to reduce critical rating of attacks to 1.</Description>
-    <Source Page="300">Force and Destiny Core Rulebook</Source>
+[P][B]Всплеск[b]: Пользователям Силы Темной стороны можно потратить [FP], чтобы снизить "критический рейтинг" атак до 1.</Description>
+    <Source Page="300">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Protect/Unleash</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>PROTUNLRANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP][FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
-    <Source Page="300">Force and Destiny Core Rulebook</Source>
+    <Name>Дальность</Name>
+    <Description>Потратьте [FP][FP], чтобы увеличить дальность действия силы на количество полос дальности, равное количеству купленных рангов "Дальности".</Description>
+    <Source Page="300">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Protect/Unleash</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>PROTUNLSTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>Spend [FP] to decrease damage or add damage equal to ranks of Strength purchased.</Description>
-    <Source Page="300">Force and Destiny Core Rulebook</Source>
+    <Name>Усиление</Name>
+    <Description>Потратьте [FP], чтобы уменьшить урон или добавить урон, равный рангам "Усиления".</Description>
+    <Source Page="300">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Protect/Unleash</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SEEKBASICPOWER</Key>
-    <Name>Seek Basic Power</Name>
-    <Description>The Force user allows the will of the Force to lead the way to something lost or forgotten.
+    <Name>Поиск (Способность)</Name>
+    <Description>Пользователь Силы позволяет воле Силы указать путь к чему-то потерянному или забытому. 
 
-[P]The user may spend [FP][FP] to gain insight into the general location or direction of a person or object that he knows about, regardless of current distance.
+[P]Пользователю можно потратить [FP][FP], чтобы узнать общее местоположение или направление движения человека или объекта, о котором он знает, независимо от текущего расстояния. 
 
-[P]The user may spend [FP] and succeed at an [B]Average ([DI][DI]) Vigilance check[b] (or [B]opposed Vigilance vs. Discipline check[b]) to see through illusions.</Description>
-    <Source Page="302">Force and Destiny Core Rulebook</Source>
+[P]Чтобы видеть сквозь иллюзии, можно потратить [FP] и успешно пройти проверку "Бдительности" со сложностью ([DI][DI]) (или [B]Встречную проверку Бдительности против Выдержки[b]).</Description>
+    <Source Page="302">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Seek</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SEEKCONTROL1</Key>
-    <Name>Control: Skills</Name>
-    <Description>Ongoing effect: Commit [FO]. Upgrade the ability of Vigilance and Perception checks once.</Description>
-    <Source Page="302">Force and Destiny Core Rulebook</Source>
+    <Name>Контроль: Навыки</Name>
+    <Description>Постоянный эффект: Совершите [FO]. Однократно повышает способность проверок "Бдительности" и "Внимания".</Description>
+    <Source Page="302">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Seek</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SEEKCONTROL2</Key>
-    <Name>Control: Target</Name>
-    <Description>Spend [FP] to track one additional target.</Description>
-    <Source Page="302">Force and Destiny Core Rulebook</Source>
+    <Name>Контроль: Цель</Name>
+    <Description>Потратьте [FP], чтобы отследить еще одну цель.</Description>
+    <Source Page="302">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Seek</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SEEKCONTROL3</Key>
-    <Name>Control: Pierce</Name>
-    <Description>Ongoing effect: Commit [FO][FO][FO]. The user's attacks gain Pierce with rating equal to Cunning plus ranks in Perception.</Description>
-    <Source Page="302">Force and Destiny Core Rulebook</Source>
+    <Name>Контроль: Пронзание</Name>
+    <Description>Постоянный эффект: [FO][FO][FO][FO]. Атаки пользователя получают качество Pierce с рейтингом, равным "Смекалки" плюс ранги в "Внимания".</Description>
+    <Source Page="302">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Seek</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SEEKDURATION</Key>
-    <Name>Duration</Name>
-    <Description>Commit [FO] to continue tracking target even when it moves.</Description>
-    <Source Page="302">Force and Destiny Core Rulebook</Source>
+    <Name>Длительность</Name>
+    <Description>Совершите [FO], чтобы продолжить слежение за целью, даже если она движется.</Description>
+    <Source Page="302">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Seek</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SEEKMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>Spend [FP] to gain one additional detail per Magnitude upgrade purchased.</Description>
-    <Source Page="302">Force and Destiny Core Rulebook</Source>
+    <Name>Величина</Name>
+    <Description>Потратьте [FP], чтобы получить одну дополнительную деталь за каждый приобретенный ранг "Величины".</Description>
+    <Source Page="302">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Seek</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SEEKMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>Make [B]Seek power check[b] and spend [FP][FP][FP] to add [TR] to combat checks against one target for remainder of encounter.</Description>
-    <Source Page="302">Force and Destiny Core Rulebook</Source>
+    <Name>Мастерство</Name>
+    <Description>Сделайте проверку способности силы [B]Поиск[b] и потратьте [FP][FP][FP], чтобы добавить [TR] к проверкам боя против одной цели до конца боя.</Description>
+    <Source Page="302">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Seek</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SEEKSTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>Spend [FP] to eliminate 1 Force-based illusion per Strength upgrade purchased.</Description>
-    <Source Page="302">Force and Destiny Core Rulebook</Source>
+    <Name>Усиление</Name>
+    <Description>Потратьте [FP], чтобы устранить 1 иллюзию, основанную на "Силе", за каждый приобретенный ранг "Усиления".</Description>
+    <Source Page="302">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Power>Seek</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SENSEBASIC</Key>
-    <Name>Sense Basic Power</Name>
-    <Description>[P]The Force user can sense the Force interacting with the world around him.
+    <Name>Ощущение чувств (Способность)</Name>
+    <Description>[P]Пользователь Силы может чувствовать, как Сила взаимодействует с окружающим миром. 
 
-[P]The user may spend [FP] to sense all living things within short range (including sentient and non-sentient beings).
+[P]Можно потратить [FP], чтобы почувствовать всех живых существ в пределах короткой дистанции (включая разумных и неразумных). 
 
-[P]The user may spend [FP] to sense the current emotional state of one living target with whom he is engaged.</Description>
+[P]Пользователю можно потратить [FP], чтобы почувствовать текущее эмоциональное состояние одного живого объекта, с которым он взаимодействует.</Description>
     <Sources>
-      <Source Page="280">Edge of the Empire Core Rulebook</Source>
-      <Source Page="304">Force and Destiny Core Rulebook</Source>
+      <Source Page="280">Книга правил: Край Империи</Source>
+      <Source Page="304">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Sense</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SENSECONTROL1</Key>
-    <Name>Control: Upgrade Difficulty</Name>
-    <Description>Ongoing Effect: Commit [FO]. Once per round, when an attack targets the Force user, he upgrades the difficulty of the pool once.</Description>
+    <Name>Контроль: Повышение сложности</Name>
+    <Description>Постоянный эффект: Совершите [FO]. Раз за раунд, когда атака направлена на пользователя Силы, он повышает "сложность" пула на 1.</Description>
     <Sources>
-      <Source Page="280">Edge of the Empire Core Rulebook</Source>
-      <Source Page="304">Force and Destiny Core Rulebook</Source>
+      <Source Page="280">Книга правил: Край Империи</Source>
+      <Source Page="304">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Sense</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SENSECONTROL2</Key>
-    <Name>Control: Sense Thoughts</Name>
-    <Description>Effect: Spend [FP]. The Force user senses the current thoughts of one living target with whom he is engaged.</Description>
+    <Name>Контроль: Чувство мыслей</Name>
+    <Description>Эффект: Потратьте [FP]. Пользователь Силы чувствует текущие мысли одной живой цели, с которой он взаимодействует.</Description>
     <Sources>
-      <Source Page="280">Edge of the Empire Core Rulebook</Source>
-      <Source Page="304">Force and Destiny Core Rulebook</Source>
+      <Source Page="280">Книга правил: Край Империи</Source>
+      <Source Page="304">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Sense</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SENSECONTROL3</Key>
-    <Name>Control: Upgrade Ability</Name>
-    <Description>Ongoing Effect: Commit [FO]. Once per round, when the Force user makes a combat check, he upgrades the ability of that check once.</Description>
+    <Name>Контроль: Повышение способности</Name>
+    <Description>Постоянный эффект: Совершите [FO]. Раз за раунд, когда пользователь Силы делает боевую проверку, он повышает способность этой проверки на 1.</Description>
     <Sources>
-      <Source Page="280">Edge of the Empire Core Rulebook</Source>
-      <Source Page="304">Force and Destiny Core Rulebook</Source>
+      <Source Page="280">Книга правил: Край Империи</Source>
+      <Source Page="304">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </ForceAbility>
   <ForceAbility>
     <Key>SENSEDURATION</Key>
-    <Name>Duration</Name>
-    <Description>Sense's ongoing effect may be triggered one additional time per round.</Description>
+    <Name>Длительность</Name>
+    <Description>Постоянный эффект "Чувства" может быть активирован еще один раз за раунд.</Description>
     <Sources>
-      <Source Page="280">Edge of the Empire Core Rulebook</Source>
-      <Source Page="304">Force and Destiny Core Rulebook</Source>
+      <Source Page="280">Книга правил: Край Империи</Source>
+      <Source Page="304">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Sense</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SENSEMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>Spend [FP] to increase number of targets affected by power equal to magnitude upgrades purchased.</Description>
+    <Name>Величина</Name>
+    <Description>Потратьте [FP], чтобы увеличить количество целей, на которые действует "Сила", на "Величину" приобретенных рангов.</Description>
     <Sources>
-      <Source Page="280">Edge of the Empire Core Rulebook</Source>
-      <Source Page="304">Force and Destiny Core Rulebook</Source>
+      <Source Page="280">Книга правил: Край Империи</Source>
+      <Source Page="304">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Sense</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SENSERANGE</Key>
-    <Name>Range</Name>
-    <Description>Spend [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
+    <Name>Дальность</Name>
+    <Description>Потратьте [FP], чтобы увеличить дальность действия силы на количество полос дальности, равное количеству купленных рангов "Дальности".</Description>
     <Sources>
-      <Source Page="280">Edge of the Empire Core Rulebook</Source>
-      <Source Page="304">Force and Destiny Core Rulebook</Source>
+      <Source Page="280">Книга правил: Край Империи</Source>
+      <Source Page="304">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Sense</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SENSESTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>When using Sense's ongoing effects, upgrade the pool twice, instead of once.</Description>
+    <Name>Усиление</Name>
+    <Description>При использовании текущих эффектов "Чувства" обновляйте пул дважды, а не один раз.</Description>
     <Sources>
-      <Source Page="280">Edge of the Empire Core Rulebook</Source>
-      <Source Page="304">Force and Destiny Core Rulebook</Source>
+      <Source Page="280">Книга правил: Край Империи</Source>
+      <Source Page="304">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Power>Sense</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SUPPRESSBASIC</Key>
-    <Name>Suppress Basic Power</Name>
-    <Description>[P]The Force user can dampen the effect of incoming force powers, dramatically diminishing their effects on himself and his allies.
-[P]The user may spend [FP] to add automatic [FA] to force power checks made against him or any ally within short range until the end of his next turn.</Description>
-    <Source Page="38">Keeping the Peace</Source>
+    <Name>Подавление (Способность)</Name>
+    <Description>[P]Пользователь Силы может подавлять эффект входящей силы, значительно уменьшая ее воздействие на себя и своих союзников. 
+[P]Пользователь может потратить [FP], чтобы автоматически добавить [FA] к проверкам силы, сделанным против него или любого союзника в пределах короткой дистанции, до конца своего следующего хода.</Description>
+    <Source Page="38">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
     <Power>Suppress</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SUPPRESSCONTROL1</Key>
-    <Name>Control: Commit</Name>
-    <Description>[P]Commit one or more [FO]. When an opponent targets the user with a Force power, after the opponent generates [FP], reduce the total [FP] generated by 1 per [FO] committed, to a minimum of 0.</Description>
-    <Source Page="38">Keeping the Peace</Source>
+    <Name>Контроль: Совершение</Name>
+    <Description>[P]Совершите одно или несколько [FO]. Когда противник нацеливает на пользователя силы, свою силу, после того, как противник сгенерирует [FP], уменьшите общее количество сгенерированных [FP] на 1 за каждый совершенный [FP], до минимального значения 0.</Description>
+    <Source Page="38">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
     <Power>Suppress</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SUPPRESSCONTROL2</Key>
-    <Name>Control: Destiny</Name>
-    <Description>[P]Spend 1 Destiny Point to use Suppress as an out of turn incidental once per session.</Description>
-    <Source Page="38">Keeping the Peace</Source>
+    <Name>Контроль: Судьба</Name>
+    <Description>[P]Потратьте 1 очко "Судьбы", чтобы использовать "Подавление" вне очереди один раз за сессию.</Description>
+    <Source Page="38">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
     <Power>Suppress</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SUPPRESSCONTROL3</Key>
-    <Name>Control: Strain</Name>
-    <Description>[P]Whenever a Force user targets a character affected by Suppress with a hostile Force power, if that opponent used [DA] to generate [FP] on the check, he suffers strain equal to the user's ranks in Discipline.</Description>
-    <Source Page="38">Keeping the Peace</Source>
+    <Name>Контроль: Усталость</Name>
+    <Description>[P]Каждый раз, когда пользователь Силы выбирает персонажа, находящегося под действием "Подавления", с помощью враждебной Силы, если противник использовал [DA] для получения [FP] при проверке, он получает "усталость", равную рангам пользователя в "Выдержке".</Description>
+    <Source Page="38">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
     <Power>Suppress</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SUPPRESSDURATION</Key>
-    <Name>Duration</Name>
-    <Description>[P]Ongoing effect: Commit [FO] to sustain ongoing effects of the power on each affected target within range.</Description>
-    <Source Page="38">Keeping the Peace</Source>
+    <Name>Длительность</Name>
+    <Description>[P]Постоянный эффект: Совершите [FO], чтобы поддерживать постоянный эффект Cилы на каждой пораженной цели в радиусе действия.</Description>
+    <Source Page="38">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
     <Power>Suppress</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SUPPRESSMASTERY</Key>
-    <Name>Mastery</Name>
-    <Description>[P]The user may make a Suppress power check along with an opposed Discipline vs. Discipline check targeting another Force user within short range. If the user spends [FP][FP] and succeeds on the check, the target Force user immediately uncommits all [FO] and ends all ongoing effects of Force powers and Force talents that required committed [FO].</Description>
-    <Source Page="38">Keeping the Peace</Source>
+    <Name>Мастерство</Name>
+    <Description>[P]Пользователю можно сделать проверку силы "подавления" вместе с противоположной проверкой "Выдержки" против "Выдержки", направленной на другого пользователя Силы в пределах короткой дистанции. Если пользователь тратит [FP][FP] и добивается успеха в проверке, целевой пользователь Силы немедленно снимает все [FO] и прекращает все текущие эффекты способностей Силы и талантов Силы, которые требовали [FO].</Description>
+    <Source Page="38">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
     <Power>Suppress</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SUPPRESSRANGE</Key>
-    <Name>Range</Name>
-    <Description>[P]Spend [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
-    <Source Page="38">Keeping the Peace</Source>
+    <Name>Дальность</Name>
+    <Description>[P]Потратьте [FP], чтобы увеличить дальность действия силы на количество полос дальности, равное количеству купленных рангов "Дальности".</Description>
+    <Source Page="38">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
     <Power>Suppress</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>SUPPRESSSTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>[P]Spend [FP] to add additional [FA] equal to Strength upgrades purchased to hostile Force power checks.</Description>
-    <Source Page="38">Keeping the Peace</Source>
+    <Name>Усиление</Name>
+    <Description>[P]Потратьте [FP], чтобы добавить дополнительные [FA], равные приобретенным рангам "Усиления", к проверкам враждебной "Силы".</Description>
+    <Source Page="38">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
     <Power>Suppress</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>WARFORBASIC</Key>
-    <Name>Warde's Foresight Basic Power</Name>
-    <Description>[P]The Force user can feel the Force flowing around another specific individual to gain insight into what that person might do. The user may spend [FP] to gain hints about what another individual within short range is likely to do in the near future.</Description>
-    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Name>Предвидение Варда (Способность)</Name>
+    <Description>[P]Пользователь Силы может почувствовать "Силу", текущую вокруг другого человека, чтобы получить представление о том, что можно сделать. Можно потратить [FP], чтобы получить подсказки о том, что другой человек, находящийся на небольшом расстоянии, может сделать в ближайшем будущем.</Description>
+    <Source Page="10">Модуль приключения: Хроники привратника</Source>
     <Custom>DescOnly</Custom>
     <Power>Warde's Foresight</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>WARFORCONTROL1</Key>
-    <Name>Control: Successes</Name>
-    <Description>[P]When performing a Warde’s Foresight power check as part of an Initiative check, if the user did not use [DA] to generate [FP] each ally adds automatic [DA] to the results of his Initiative check. If the user used % to generate [FP] the user may immediately perform an action before the encounter begins, but each enemy in the encounter adds automatic [SU] to the results of his Initiative check.
-</Description>
-    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Name>Контроль: Успехи</Name>
+    <Description>[P]При выполнении проверки силы "предвидение Варда" как части проверки инициативы, если пользователь не использовал [DA] для генерации [FP], каждый союзник автоматически добавляет [DA] к результатам проверки инициативы. Если пользователь использовал [FO] для генерации [FP], можно немедленно выполнить действие до начала встречи, но каждый враг в этой встрече добавляет автоматическое [SU] к результатам проверки Инициативы.</Description>
+    <Source Page="10">Модуль приключения: Хроники привратника</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <Power>Warde's Foresight</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>WARFORCONTROL2</Key>
-    <Name>Control: Maneuver</Name>
-    <Description>[P]Once per encounter, use the basic power as a maneuver.</Description>
-    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Name>Контроль: Маневр</Name>
+    <Description>[P]Один раз за бой используйте "базовую силу" как маневр.</Description>
+    <Source Page="10">Модуль приключения: Хроники привратника</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <Power>Warde's Foresight</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>WARFORCONTROL3</Key>
-    <Name>Control:  Initiative</Name>
-    <Description>[P]When performing a Warde’s Foresight power check as part of an Initiative check, spend [FP] to add [AD] on user’s first check this encounter.</Description>
-    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Name>Контроль: Инициатива</Name>
+    <Description>[P]При выполнении проверки силы "предвидение Варда" как части проверки инициативы, потратьте [FP], чтобы добавить [AD] к первой проверке пользователя в этой встрече.</Description>
+    <Source Page="10">Модуль приключения: Хроники привратника</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <Power>Warde's Foresight</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>WARFORCONTROL4</Key>
-    <Name>Control: Ally Initiative</Name>
-    <Description>[P]When performing a Warde’s Foresight power check as part of an Initiative check, if the user did not use [DA] to generate [FP] each ally adds automatic [SU] to the results of his Initiative check. If the user used [DA] to generate [FP] the user may immediately perform an action before the encounter begins, but each enemy in the encounter adds automatic [SU] to the results of his Initiative check.</Description>
-    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Name>Контроль: Инициатива союзника</Name>
+    <Description>[P]При выполнении проверки силы "предвидение Варда" как части проверки инициативы, если пользователь не использовал [DA] для генерации [FP], каждый союзник автоматически добавляет [SU] к результатам проверки инициативы. Если пользователь использовал [DA] для создания [FP], можно немедленно выполнить действие до начала встречи, но каждый противник в этой встрече добавляет автоматическое [SU] к результатам проверки Инициативы.</Description>
+    <Source Page="10">Модуль приключения: Хроники привратника</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <Power>Warde's Foresight</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>WARFORDURATION</Key>
-    <Name>Duration</Name>
-    <Description>[P]Spend [FP][FP] to have the bonuses the power grants apply to all checks for rounds equal to Duration upgrades purchased.</Description>
-    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Name>Длительность</Name>
+    <Description>[P]Потратьте [FP][FP], чтобы бонусы, которые дает сила, применялись ко всем проверкам в течение раундов, равных приобретенным рангам "Длительности".</Description>
+    <Source Page="10">Модуль приключения: Хроники привратника</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <Power>Warde's Foresight</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>WARFORMAGNITUDE</Key>
-    <Name>Magnitude</Name>
-    <Description>[P]When performing a Warde’s Foresight power check as part of an Initiative check, spend [FP] to add [SU] or [AD] to ally's first check this encounter.</Description>
-    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Name>Величина</Name>
+    <Description>[P]При выполнении проверки силы "предвидение Варда" как части проверки инициативы, потратьте [FP], чтобы добавить [SU] или [AD] к первой проверке союзника в этой встрече.</Description>
+    <Source Page="10">Модуль приключения: Хроники привратника</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <Power>Warde's Foresight</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>WARFORRANGE</Key>
-    <Name>Range</Name>
-    <Description>[P]Spend [FP] to increase power's range by a number of range bands equal to Range upgrades purchased.</Description>
-    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Name>Дальность</Name>
+    <Description>[P]Потратьте [FP], чтобы увеличить дальность действия силы на количество полос дальности, равное количеству купленных рангов "Дальности".</Description>
+    <Source Page="10">Модуль приключения: Хроники привратника</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <Power>Warde's Foresight</Power>
   </ForceAbility>
   <ForceAbility>
     <Key>WARFORSTRENGTH</Key>
-    <Name>Strength</Name>
-    <Description>[P]Spend [FP][FP] to add [BO] equal to Strength upgrades purchased to user's next check against the target.</Description>
-    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Name>Усиление</Name>
+    <Description>[P]Потратьте [FP][FP], чтобы добавить [BO], равное приобретенным рангам "Усиления", к следующей проверке против цели.</Description>
+    <Source Page="10">Модуль приключения: Хроники привратника</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <Power>Warde's Foresight</Power>
