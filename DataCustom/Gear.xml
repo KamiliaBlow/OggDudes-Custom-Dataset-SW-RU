@@ -894,7 +894,7 @@ Avabush spice is a drug that induces relaxation and lethargy, and some use it as
 [P]A character who has consumed avabush spice feels lethargic, and can only upgrade a single [AB] to a [PR] on any given check because of this mental torpor. Further, whenever this character intentionally tries to lie or conceal the truth, the GM upgrades any one [DI] in the dice pool into a [CH] Avabush spice's effects last for one scene or combat encounter.
 
 [P][B]Restrictions:[b] Avabush spice is banned or controlled on most worlds with a strong Imperial presence.</Description>
-    <Source Page="183">Edge of the Empire Core Rulebook</Source>
+    <Source Page="183">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>2000</Price>
     <Restricted>true</Restricted>
@@ -913,7 +913,7 @@ Avabush spice is a drug that induces relaxation and lethargy, and some use it as
 [P]A character who has consumed avabush spice feels lethargic, and can only upgrade a single [AB] to a [PR] on any given check because of this mental torpor. Further, whenever this character intentionally tries to lie or conceal the truth, the GM upgrades any one [DI] in the dice pool into a [CH] Avabush spice's effects last for one scene or combat encounter.
 
 [P][B]Restrictions:[b] Avabush spice is banned or controlled on most worlds with a strong Imperial presence.</Description>
-    <Source Page="183">Edge of the Empire Core Rulebook</Source>
+    <Source Page="183">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>25</Price>
     <Restricted>true</Restricted>
@@ -967,18 +967,18 @@ The Holo V A/V Translator is a small, handheld translating device produced by Tr
   </Gear>
   <Gear>
     <Key>BACKPACK</Key>
-    <Name>Backpack</Name>
+    <Name>Рюкзак</Name>
     <Description>
-      [H3]Backpack[h3]
+      [H3]Рюкзак[h3]
 
-A backpack can serve many important functions: it can be used for carrying survival gear or even smaller allies and droids. Most are simple affairs of fabric and straps, with better styles including internal bracing and back support so that heavier weights can be carried far longer.
+Рюкзак может выполнять множество важных функций: его можно использовать для переноски снаряжения для выживания или даже небольших союзников и дроидов. Большинство рюкзаков состоят из ткани и ремней, но в лучших моделях предусмотрены внутренние крепления и поддержка спины, чтобы тяжелые грузы можно было носить дольше.
 
-[P]Backpacks increase the character's encumbrance threshold by 4.
-[P][B]Models Include:[b] Numerous Variants.</Description>
+[P]Рюкзаки увеличивают порог "нагрузки" персонажа на 4.
+[P][B]Модели включают:[b] Многочисленные варианты.</Description>
     <Sources>
-      <Source Page="180">Edge of the Empire Core Rulebook</Source>
-      <Source Page="198">Age of Rebellion Core Rulebook</Source>
-      <Source Page="188">Force and Destiny Core Rulebook</Source>
+      <Source Page="180">Книга правил: Край Империи</Source>
+      <Source Page="198">Книга правил: Эпоха восстания</Source>
+      <Source Page="188">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>50</Price>
@@ -1004,9 +1004,9 @@ Bacta is a liquid used for healing, made of an artificially grown bacteria devel
 
 [P][B]Models Include:[b] None.</Description>
     <Sources>
-      <Source Page="176">Edge of the Empire Core Rulebook</Source>
-      <Source Page="192">Age of Rebellion Core Rulebook</Source>
-      <Source Page="185">Force and Destiny Core Rulebook</Source>
+      <Source Page="176">Книга правил: Край Империи</Source>
+      <Source Page="192">Книга правил: Эпоха восстания</Source>
+      <Source Page="185">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>20</Price>
@@ -1026,9 +1026,9 @@ Bacta is a liquid used for healing, made of an artificially grown bacteria devel
 
 [P][B]Models Include:[b] None.</Description>
     <Sources>
-      <Source Page="176">Edge of the Empire Core Rulebook</Source>
-      <Source Page="192">Age of Rebellion Core Rulebook</Source>
-      <Source Page="185">Force and Destiny Core Rulebook</Source>
+      <Source Page="176">Книга правил: Край Империи</Source>
+      <Source Page="192">Книга правил: Эпоха восстания</Source>
+      <Source Page="185">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>4000</Price>
@@ -1669,9 +1669,9 @@ Restraints come in many forms, but all are designed to keep a conscious prisoner
 
 [P][B]Models Include:[b] Locris Syndicated Securities Bind-1.</Description>
     <Sources>
-      <Source Page="178">Edge of the Empire Core Rulebook</Source>
-      <Source Page="193">Age of Rebellion Core Rulebook</Source>
-      <Source Page="187">Force and Destiny Core Rulebook</Source>
+      <Source Page="178">Книга правил: Край Империи</Source>
+      <Source Page="193">Книга правил: Эпоха восстания</Source>
+      <Source Page="187">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>25</Price>
@@ -1814,7 +1814,7 @@ Derived from an industrial dye used in large-scale construction operations such 
 [P]A character under the effects of booster blue may upgrade the ability of any Agility, Intellect, or Cunning related check he undertakes once, reflecting his improved concentration and mental acuity. However, this artificial focus takes a toll on the mind. A character under the effects of booster blue may not remove strain at the end of any scenes or encounters for the remainder of the session. Booster blue's beneficial effects last for one scene or combat encounter.
 
 [P][B]Restrictions:[b] Booster blue is illegal on most worlds.</Description>
-    <Source Page="184">Edge of the Empire Core Rulebook</Source>
+    <Source Page="184">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>750</Price>
     <Restricted>true</Restricted>
@@ -1833,7 +1833,7 @@ Derived from an industrial dye used in large-scale construction operations such 
 [P]A character under the effects of booster blue may upgrade the ability of any Agility, Intellect, or Cunning-related check he undertakes once, reflecting his improved concentration and mental acuity. However, this artificial focus takes a toll on the mind. A character under the effects of booster blue may not remove strain at the end of any scenes or encounters for the remainder of the session. Booster blue's beneficial effects last for one scene or combat encounter.
 
 [P][B]Restrictions:[b] Booster blue is illegal on most worlds.</Description>
-    <Source Page="184">Edge of the Empire Core Rulebook</Source>
+    <Source Page="184">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>10</Price>
     <Restricted>true</Restricted>
@@ -1910,9 +1910,9 @@ Not all planets or environments are hospitable to all species, and thus many spe
 
 [P][B]Models Include:[b] Gandorthral Atmospherics Roamer-6.</Description>
     <Sources>
-      <Source Page="179">Edge of the Empire Core Rulebook</Source>
-      <Source Page="195">Age of Rebellion Core Rulebook</Source>
-      <Source Page="188">Force and Destiny Core Rulebook</Source>
+      <Source Page="179">Книга правил: Край Империи</Source>
+      <Source Page="195">Книга правил: Эпоха восстания</Source>
+      <Source Page="188">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>25</Price>
@@ -2170,7 +2170,7 @@ These lifesaving but nightmarish devices, known as "brain cages," are designed t
       [H3]Chance Cube[h3]
 
 Chance cubes are six-sided dice cubes with red and blue sides. They allow for simple gambling in which players bet on the potential results. Their simplicity makes them popular on frontier worlds or long expeditions, where more complicated entertainment would be more likely to malfunction.</Description>
-    <Source Page="182">Edge of the Empire Core Rulebook</Source>
+    <Source Page="182">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Short>
     </Short>
@@ -2238,9 +2238,9 @@ Though climbing gear is usually used in wilderness areas away from artificial tu
 
 [P][B]Models Include:[b] Pretormin Environmental Basic Climbing Gear.</Description>
     <Sources>
-      <Source Page="180">Edge of the Empire Core Rulebook</Source>
-      <Source Page="196">Age of Rebellion Core Rulebook</Source>
-      <Source Page="188">Force and Destiny Core Rulebook</Source>
+      <Source Page="180">Книга правил: Край Империи</Source>
+      <Source Page="196">Книга правил: Эпоха восстания</Source>
+      <Source Page="188">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>50</Price>
@@ -2317,9 +2317,9 @@ Earbud comlinks are tiny, unobtrusive communications devices that fit snugly int
 
 A common device found across the galaxy, comlinks come in a variety of forms depending on their function and user. Each allows for audio messaging between two parties though advanced models can transmit multiple users or network groups together. Personal comlinks are often small, hand-held cylinders capable of communicating over distances into low orbit. Some models are built into helmets and armor segments. Longer-range versions are usually carried as large satchels or in backpacks, and can reach across a planet and to ships in high orbit (or even elsewhere in the same star system). Most operate on a standard net of frequencies that can be adjusted as desired to elude detection.</Description>
     <Sources>
-      <Source Page="171">Edge of the Empire Core Rulebook</Source>
-      <Source Page="186">Age of Rebellion Core Rulebook</Source>
-      <Source Page="180">Force and Destiny Core Rulebook</Source>
+      <Source Page="171">Книга правил: Край Империи</Source>
+      <Source Page="186">Книга правил: Эпоха восстания</Source>
+      <Source Page="180">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Short>A small handheld communications device</Short>
@@ -2364,9 +2364,9 @@ This hardened comlink is one of the more popular forms of military-grade communi
 
 A common device found across the galaxy, comlinks come in a variety of forms depending on their function and user. Each allows for audio messaging between two parties though advanced models can transmit multiple users or network groups together. Personal comlinks are often small, hand-held cylinders capable of communicating over distances into low orbit. Some models are built into helmets and armor segments. Longer-range versions are usually carried as large satchels or in backpacks, and can reach across a planet and to ships in high orbit (or even elsewhere in the same star system). Most operate on a standard net of frequencies that can be adjusted as desired to elude detection.</Description>
     <Sources>
-      <Source Page="171">Edge of the Empire Core Rulebook</Source>
-      <Source Page="186">Age of Rebellion Core Rulebook</Source>
-      <Source Page="180">Force and Destiny Core Rulebook</Source>
+      <Source Page="171">Книга правил: Край Империи</Source>
+      <Source Page="186">Книга правил: Эпоха восстания</Source>
+      <Source Page="180">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Encumbrance>2</Encumbrance>
@@ -2386,8 +2386,8 @@ Where there are people wishing to communicate, there are people wishing to preve
 
 [P][B]Models Include:[b] Miradyne 1 x-Hail Comm Jammer.</Description>
     <Sources>
-      <Source Page="178">Edge of the Empire Core Rulebook</Source>
-      <Source Page="194">Age of Rebellion Core Rulebook</Source>
+      <Source Page="178">Книга правил: Край Империи</Source>
+      <Source Page="194">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>400</Price>
@@ -2431,8 +2431,8 @@ Scramblers are devices used to encrypt communications for privacy or security (o
 
 [P][B]Models Include:[b] Chedak Mark 5 Comm Scrambler. </Description>
     <Sources>
-      <Source Page="178">Edge of the Empire Core Rulebook</Source>
-      <Source Page="194">Age of Rebellion Core Rulebook</Source>
+      <Source Page="178">Книга правил: Край Империи</Source>
+      <Source Page="194">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Short>
@@ -2650,8 +2650,8 @@ While life is usually controlled and comfortable, there are many times when phys
 
 [P][B]Models Include:[b] Pretormin Environmental Crash Survival Kit.</Description>
     <Sources>
-      <Source Page="180">Edge of the Empire Core Rulebook</Source>
-      <Source Page="195">Age of Rebellion Core Rulebook</Source>
+      <Source Page="180">Книга правил: Край Империи</Source>
+      <Source Page="195">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>300</Price>
@@ -2872,9 +2872,9 @@ BioTech Industries is a leading supplier of cybernetic devices across the galaxy
 
 [P][B]Models Include:[b] BioTech Industries Cyberarm Mod V and Mod VI.</Description>
     <Sources>
-      <Source Page="173">Edge of the Empire Core Rulebook</Source>
-      <Source Page="189">Age of Rebellion Core Rulebook</Source>
-      <Source Page="182">Force and Destiny Core Rulebook</Source>
+      <Source Page="173">Книга правил: Край Империи</Source>
+      <Source Page="189">Книга правил: Эпоха восстания</Source>
+      <Source Page="182">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>10000</Price>
@@ -2900,9 +2900,9 @@ BioTech Industries is a leading supplier of cybernetic devices across the galaxy
 
 [P][B]Models Include:[b] BioTech Industries Cyberarm Mod V and Mod VI.</Description>
     <Sources>
-      <Source Page="173">Edge of the Empire Core Rulebook</Source>
-      <Source Page="189">Age of Rebellion Core Rulebook</Source>
-      <Source Page="182">Force and Destiny Core Rulebook</Source>
+      <Source Page="173">Книга правил: Край Империи</Source>
+      <Source Page="189">Книга правил: Эпоха восстания</Source>
+      <Source Page="182">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>10000</Price>
@@ -3014,9 +3014,9 @@ One fascinating invention in the field of cybernetics is the cybernetic implant,
 
 [P][B]Models Include:[b] BioTech Borg Construct Aj^6 Cybernetic Implant.</Description>
     <Sources>
-      <Source Page="174">Edge of the Empire Core Rulebook</Source>
-      <Source Page="189">Age of Rebellion Core Rulebook</Source>
-      <Source Page="183">Force and Destiny Core Rulebook</Source>
+      <Source Page="174">Книга правил: Край Империи</Source>
+      <Source Page="189">Книга правил: Эпоха восстания</Source>
+      <Source Page="183">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>10000</Price>
@@ -3098,9 +3098,9 @@ Perhaps one of the most difficult cybernetic enhancement is replacement eyes, fo
 
 [P][B]Models Include:[b] Athakam MedTech Cybernetic Eyes Mod III.</Description>
     <Sources>
-      <Source Page="174">Edge of the Empire Core Rulebook</Source>
-      <Source Page="189">Age of Rebellion Core Rulebook</Source>
-      <Source Page="183">Force and Destiny Core Rulebook</Source>
+      <Source Page="174">Книга правил: Край Империи</Source>
+      <Source Page="189">Книга правил: Эпоха восстания</Source>
+      <Source Page="183">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>7500</Price>
@@ -3153,8 +3153,8 @@ Another product from the ubiquitous Tagge Company and other corporations, implan
 
 [BR][B]Models Include:[b] TaggeCo Implant Armor Mod V, BioTech "Duraskin" Implant.</Description>
     <Sources>
-      <Source Page="174">Edge of the Empire Core Rulebook</Source>
-      <Source Page="190">Age of Rebellion Core Rulebook</Source>
+      <Source Page="174">Книга правил: Край Империи</Source>
+      <Source Page="190">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Short>
@@ -3181,8 +3181,8 @@ Given the wide variety of life forms and the frequency with which many travel th
 
 [BR][B]Models Include:[b] Athakam MedTech Immune Implant Mod I.</Description>
     <Sources>
-      <Source Page="174">Edge of the Empire Core Rulebook</Source>
-      <Source Page="190">Age of Rebellion Core Rulebook</Source>
+      <Source Page="174">Книга правил: Край Империи</Source>
+      <Source Page="190">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Short>
@@ -3210,9 +3210,9 @@ BioTech's expertise with replacing natural limbs into superior cybernetics also 
 
 [P][B]Models Include:[b] BioTech Industries Cyberlegs Mod II and Mod III. </Description>
     <Sources>
-      <Source Page="173">Edge of the Empire Core Rulebook</Source>
-      <Source Page="189">Age of Rebellion Core Rulebook</Source>
-      <Source Page="183">Force and Destiny Core Rulebook</Source>
+      <Source Page="173">Книга правил: Край Империи</Source>
+      <Source Page="189">Книга правил: Эпоха восстания</Source>
+      <Source Page="183">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>10000</Price>
@@ -3238,9 +3238,9 @@ BioTech's expertise with replacing natural limbs into superior cybernetics also 
 
 [P][B]Models Include:[b] BioTech Industries Cyberlegs Mod II and Mod III. </Description>
     <Sources>
-      <Source Page="173">Edge of the Empire Core Rulebook</Source>
-      <Source Page="189">Age of Rebellion Core Rulebook</Source>
-      <Source Page="183">Force and Destiny Core Rulebook</Source>
+      <Source Page="173">Книга правил: Край Империи</Source>
+      <Source Page="189">Книга правил: Эпоха восстания</Source>
+      <Source Page="183">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>10000</Price>
@@ -3324,9 +3324,9 @@ Given the often violent nature of the galaxy and the dangerous weapons used to s
 
 [P][B]Models Include:[b] BioTech Industries Repli-Limb Prosthetic Replacements.</Description>
     <Sources>
-      <Source Page="174">Edge of the Empire Core Rulebook</Source>
-      <Source Page="190">Age of Rebellion Core Rulebook</Source>
-      <Source Page="184">Force and Destiny Core Rulebook</Source>
+      <Source Page="174">Книга правил: Край Империи</Source>
+      <Source Page="190">Книга правил: Эпоха восстания</Source>
+      <Source Page="184">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>2000</Price>
@@ -3350,9 +3350,9 @@ Given the often violent nature of the galaxy and the dangerous weapons used to s
 
 [P][B]Models Include:[b] BioTech Industries Repli-Limb Prosthetic Replacements.</Description>
     <Sources>
-      <Source Page="174">Edge of the Empire Core Rulebook</Source>
-      <Source Page="190">Age of Rebellion Core Rulebook</Source>
-      <Source Page="184">Force and Destiny Core Rulebook</Source>
+      <Source Page="174">Книга правил: Край Империи</Source>
+      <Source Page="190">Книга правил: Эпоха восстания</Source>
+      <Source Page="184">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>1000</Price>
@@ -3497,9 +3497,9 @@ This cybernetic arm does far more than simply replace a limb; it also includes a
 
 [P][B]Models Include:[b] Neuro-Saav Technologies CyberScanner Limb, NeuroFabritech ScanMaster Arm.</Description>
     <Sources>
-      <Source Page="174">Edge of the Empire Core Rulebook</Source>
-      <Source Page="190">Age of Rebellion Core Rulebook</Source>
-      <Source Page="184">Force and Destiny Core Rulebook</Source>
+      <Source Page="174">Книга правил: Край Империи</Source>
+      <Source Page="190">Книга правил: Эпоха восстания</Source>
+      <Source Page="184">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>4000</Price>
@@ -3521,8 +3521,8 @@ It took six designs before the weaponsmiths at BlasTech achieved success, but th
 
 [P][B]Models Include:[b] BlasTech Industries Arms Cybernetic Weapon Enhancement Mod VII, Athakam MedTech Synthlimb Blaster.</Description>
     <Sources>
-      <Source Page="174">Edge of the Empire Core Rulebook</Source>
-      <Source Page="190">Age of Rebellion Core Rulebook</Source>
+      <Source Page="174">Книга правил: Край Империи</Source>
+      <Source Page="190">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Cybernetics</Type>
@@ -3610,7 +3610,7 @@ First attributed to the precursors of the Jedi, these objects remain a mystery. 
 Data breakers are basic tools of the trade for many slicers. While droid slicers are programmed to crack complex sequences, organics usually lack this innate option, and therefore rely on a data breaker to do the grunt work of opening systems to them so that their true skills can shine once they are inside. Most data breakers are also recording devices, and can pull vast amounts of information from ill-guarded systems in seconds. Droid slicers can choose to have a data breaker (or equivalent systems) installed internally at the same cost. Data breakers add [BO][BO] to any Computers check made to slice computers (as opposed to the usual one for having the right tools for the job).
 
 [P][B]Restrictions:[b] The Empire and many planetary governments restrict possession of data-breaking technology. Military and law-enforcement organizations make legal use of these devices, but typically civilian use of such technology is prohibited.</Description>
-    <Source Page="186">Edge of the Empire Core Rulebook</Source>
+    <Source Page="186">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>1000</Price>
     <Restricted>true</Restricted>
@@ -3632,7 +3632,7 @@ Data breakers are basic tools of the trade for many slicers. While droid slicers
 
 Data breakers are common tools used by slicers to force their way into secure systems. Essentially a data battering ram, they are unsubtle tools used for expedience instead of finesse and stealth. Many are also data harvesting devices, recording everything encountered in a system while the slicer roots around for nuggets of information. Most organic Slicers carry one or two of these devices, but droid Slicer Player Characters can have them installed in their internal computer systems as well. Data breakers add [BO][BO] to any Computers check made to slice computers, but they also add [BO] to any attempts to locate use of a data breaker in a computer system due to the "noise" these devices make. Data breakers are highly illegal, and possession or use of one can land a Rebel operative in a maximum security Imperial prison for a very long stay.
 [P][B]Models Include:[b] Numerous variants.</Description>
-    <Source Page="193">Age of Rebellion Core Rulebook</Source>
+    <Source Page="193">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
     <Price>1000</Price>
     <Restricted>true</Restricted>
@@ -3706,9 +3706,9 @@ Datapads are common on most technologically civilized planets, and are used to r
 
 [P][B]Models Include:[b] Numerous Variants.</Description>
     <Sources>
-      <Source Page="181">Edge of the Empire Core Rulebook</Source>
-      <Source Page="196">Age of Rebellion Core Rulebook</Source>
-      <Source Page="189">Force and Destiny Core Rulebook</Source>
+      <Source Page="181">Книга правил: Край Империи</Source>
+      <Source Page="196">Книга правил: Эпоха восстания</Source>
+      <Source Page="189">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>75</Price>
@@ -3772,7 +3772,7 @@ Death sticks are an unpleasant creation derived from the balo mushroom of the pl
 [P]Death sticks have a nasty result in the long run, but unless one's campaign runs over the course of decades or a character has had a death stick addiction for some years already, characters are unlikely to experience the truly miserable death these drugs bring about. A life-long addiction to death sticks typically halves the lifespan of most species, though various species are more or less susceptible to the effects of Ixetal Cilona. The short-term effects of a single dose last for one scene or combat encounter and adds [SE] to any task the character attempts, and may reduce the character's connection to the Force in certain ways at the GM's discretion.
 
 [P][B]Restrictions:[b] Death sticks are controlled substances on most worlds, and at the very least those under the age of majority cannot purchase them. Death sticks are completely illegal on many other worlds, especially those with high health standards.</Description>
-    <Source Page="185">Edge of the Empire Core Rulebook</Source>
+    <Source Page="185">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>250</Price>
     <Restricted>true</Restricted>
@@ -3791,7 +3791,7 @@ Death sticks are an unpleasant creation derived from the balo mushroom of the pl
 [P]Death sticks have a nasty result in the long run, but unless one's campaign runs over the course of decades or a character has had a death stick addiction for some years already, characters are unlikely to experience the truly miserable death these drugs bring about. A life-long addiction to death sticks typically halves the lifespan of most species, though various species are more or less susceptible to the effects of Ixetal Cilona. The short-term effects of a single dose last for one scene or combat encounter and adds [SE] to any task the character attempts, and may reduce the character's connection to the Force in certain ways at the GM's discretion.
 
 [P][B]Restrictions:[b] Death sticks are controlled substances on most worlds, and at the very least those under the age of majority cannot purchase them. Death sticks are completely illegal on many other worlds, especially those with high health standards.</Description>
-    <Source Page="185">Edge of the Empire Core Rulebook</Source>
+    <Source Page="185">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>5</Price>
     <Restricted>true</Restricted>
@@ -3806,7 +3806,7 @@ Death sticks are an unpleasant creation derived from the balo mushroom of the pl
       [H3]Dejarik Table[h3]
 
 Dejarik, which uses a holographic display table to project playing pieces of real and mythical monsters, is a popular game of skill between two players. The holographic display allows the pieces to "do battle" as a part of the game, and many bystanders enjoy the holographic carnage as much as the actual skill the real players employ.</Description>
-    <Source Page="182">Edge of the Empire Core Rulebook</Source>
+    <Source Page="182">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Short>
     </Short>
@@ -3824,9 +3824,9 @@ Dejarik, which uses a holographic display table to project playing pieces of rea
 Every species and culture has scary stories of monsters with supernatural powers. While the stories are—usually—only stories, disciples of the dark side throughout history have found value in adopting the imagery of the mythical demons to spread fear in their enemies and fearlessness among their followers. Having been worn by these adepts for generations, some demon masks have become imbued with the dark side of the Force, and grant their wearers certain powers.
 
 [P]A Force-sensitive character wearing a demon mask increases his wound threshold by 2 while he is a dark side Force user. Furthermore, characters making Discipline checks to resist fear caused by a character wearing a demon mask add [SE] equal to that character's Force rating.</Description>
-    <Source Page="190">Force and Destiny Core Rulebook</Source>
+    <Source Page="190">Книга правил: Сила и судьба</Source>
     <Sources>
-      <Source Page="190">Force and Destiny Core Rulebook</Source>
+      <Source Page="190">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>4000</Price>
@@ -4103,9 +4103,9 @@ Despite what are undoubtedly stunning features (or because of them), there are m
 
 [P][B]Models Include:[b] Numerous Variants.</Description>
     <Sources>
-      <Source Page="178">Edge of the Empire Core Rulebook</Source>
-      <Source Page="194">Age of Rebellion Core Rulebook</Source>
-      <Source Page="187">Force and Destiny Core Rulebook</Source>
+      <Source Page="178">Книга правил: Край Империи</Source>
+      <Source Page="194">Книга правил: Эпоха восстания</Source>
+      <Source Page="187">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>100</Price>
@@ -4234,7 +4234,7 @@ The Rim Securities AC Law Enforcement Droids are a relatively new entry to the f
       [H3]Analysis Droid (Various Models)[h3]
 
 Almost always found working in groups, analysis droids have served governments, corporations, wealthy private individuals, and even the defunct order of Jedi Knights. Most manufacturers make analysis droids, but the enduring popularity of Cybot Galactica's SP-4 and JN-66 models make them the category leaders. All analysis droids come equipped with a sophisticated sensory suite and a set of onboard analysis protocols that make them invaluable in aiding research, analyzing data, and performing experiments. </Description>
-    <Source Page="409">Force and Destiny Core Rulebook</Source>
+    <Source Page="409">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Price>7500</Price>
     <Rarity>5</Rarity>
@@ -4249,7 +4249,7 @@ Almost always found working in groups, analysis droids have served governments, 
       [H3]Antiquated Battle Droid (Various Models)[h3]
 
 The most frequently encountered droid of this type is the Bl battle droid produced by Baktoid Combat Automata. A generation ago, these frail-looking droids were the terror of the galaxy. Legions of them formed the Separatist armies during the Clone Wars but the intervening years have not been kind to their design, which was inexpensive to begin with. Although no reputable military still employs these droids in number, they can be found in limited quantities in the forces of crime lords, mercenaries, and various other ne'er-do-wells throughout the underbelly of the galaxy.</Description>
-    <Source Page="409">Edge of the Empire Core Rulebook</Source>
+    <Source Page="409">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>6500</Price>
     <Rarity>5</Rarity>
@@ -4279,7 +4279,7 @@ Industrial Automaton's ASP-19 was a popular sparring droid among Jedi during the
       [H3]IG-Series Assassin Droid[h3]
 
  Illegal virtually everywhere in the known galaxy, assassin droids are sophisticated killing machines that combine physical acumen with the mental faculties to apply it in a variety of different circumstances. Most importantly, however, these droids are designed without the universal restrictions that prevent droids from taking action against organic life. While they are incredibly deadly to those whom they are set to hunt, assassin droids are equally dangerous to those who create or employ them. These droids simply have no recognition of the value of life, and will destroy anyone or anything in their path if doing so benefits them in some way.</Description>
-    <Source Page="409">Edge of the Empire Core Rulebook</Source>
+    <Source Page="409">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>65000</Price>
     <Rarity>8</Rarity>
@@ -4294,7 +4294,7 @@ Industrial Automaton's ASP-19 was a popular sparring droid among Jedi during the
       [H3]Astromech Droid (Various Models)[h3]
 
 A common sight throughout the galaxy, astromech droids such as the famous R2 series are relatively small, utilitarian droids designed to interface with and maintain machinery of varying complexities depending upon the model of the droid. Many technologies are designed with these sorts of droids in mind, and have sockets to allow a direct interface with the droid. Some ships are even designed with the intent of offloading certain computing functions to an interfaced droid (for example, some starfighters rely on interfaced astromech droids to serve as a navicomputers for hyperspace travel).</Description>
-    <Source Page="409">Edge of the Empire Core Rulebook</Source>
+    <Source Page="409">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>8250</Price>
     <Rarity>3</Rarity>
@@ -4613,7 +4613,7 @@ A relatively common sight aboard colony ships and in the streets and alleys of c
       [H3]IG-100 Magnaguard Droid[h3]
 
 Thankfully rare, IG-100 MagnaGuard droids are relics of the Clone Wars, during which they served as elite bodyguards and shock troops for Separatist leaders. Though most were destroyed during the wars, some examples of the type are still active in the galaxy. Most such survivors are bound to the service of criminal overlords. Imperial Moffs, or other power brokers. More terrifying are those few who have been manumitted haunting the hyperlanes alone or in pairs, following unknowable agendas. MagnaGuards are fearless combatants and reject ranged weapons out of hand, preferring to swiftly close with their opponents and engage them with their deadly electrostaves, which emit tendrils of energy designed to incapacitate and disorient foes.</Description>
-    <Source Page="409">Force and Destiny Core Rulebook</Source>
+    <Source Page="409">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Price>90000</Price>
     <Rarity>10</Rarity>
@@ -4628,7 +4628,7 @@ Thankfully rare, IG-100 MagnaGuard droids are relics of the Clone Wars, during w
       [H3]Interrogation Droid[h3]
 
 The interrogation droids designed by the Imperial Department of Military Research are among the most feared weapons in the Emperor's vast arsenal. These floating black spheres bristle with instruments of torture. Just the sight of them has been known to elicit confessions and coax out carefully guarded secrets from even the most steadfast of prisoners.</Description>
-    <Source Page="410">Force and Destiny Core Rulebook</Source>
+    <Source Page="410">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Price>9600</Price>
     <Rarity>8</Rarity>
@@ -4746,7 +4746,7 @@ Another of Cybot Galactica's popular and well-liked entries into the droid marke
       [H3]Maintenance Droid (Various Models)[h3]
 
 Taking a multitude of forms, maintenance droids can appear in literally any shape imaginable, from spider-like machines to small, box-like automatons and even to large, vehicle-sized behemoths that repair bridges and the like. They can be found anywhere in the galaxy that has the proper technology level to support droids and starports in particular are typically crawling with the things. Maintenance droids generally have a low level of intelligence and are not a threat to organic beings, but malfunctions or malicious reprogramming have been known to turn them against their masters, sometimes with terribly effective results.</Description>
-    <Source Page="409">Edge of the Empire Core Rulebook</Source>
+    <Source Page="409">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>7500</Price>
     <Rarity>3</Rarity>
@@ -4762,8 +4762,8 @@ Taking a multitude of forms, maintenance droids can appear in literally any shap
 
 Medical droids take a variety of forms, from simple attendant droids capable of dressing flesh wounds or diagnosing basic illnesses up to the elaborate and incredibly advanced surgical droids that can be found on military starships and major urban centers throughout the galaxy.</Description>
     <Sources>
-      <Source Page="409">Edge of the Empire Core Rulebook</Source>
-      <Source Page="410">Force and Destiny Core Rulebook</Source>
+      <Source Page="409">Книга правил: Край Империи</Source>
+      <Source Page="410">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>12000</Price>
@@ -4832,7 +4832,7 @@ Holowan MEchanicals' imposing MI-series security droids are some of the most eff
       [H3]Viper Probe Droid[h3]
 
 When searching the most remote regions in the galaxy, Imperial authorities often make use of probe droids to scout out remote planets and scour distant locations for signs of whatever, or whomever, is being sought. Probe droids travel to their destinations inside one-way hyperspace pods and communicate with their programmers via encrypted holo-channels. When the quarry may be on any of a thousand worlds, the best solution is often to disperse a thousand probe droids.</Description>
-    <Source Page="410">Force and Destiny Core Rulebook</Source>
+    <Source Page="410">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Price>13700</Price>
     <Rarity>7</Rarity>
@@ -4848,8 +4848,8 @@ When searching the most remote regions in the galaxy, Imperial authorities often
 
 With hundreds or thousands of intelligent races scattered across millions of planets throughout the galaxy, communication can be a significant problem when diplomacy is required. Protocol droids are designed to solve this problem, with the advanced computer brains of these automatons retaining literally millions of languages at a time. As the name indicates, the droids are not only translators but also serve to prevent misunderstandings by ensuring cultural problems do not arise. It is for this reason that, if these droids are left without a memory wipe and begin to develop a personality, they tend to be highly anxious and nervous.</Description>
     <Sources>
-      <Source Page="409">Edge of the Empire Core Rulebook</Source>
-      <Source Page="410">Force and Destiny Core Rulebook</Source>
+      <Source Page="409">Книга правил: Край Империи</Source>
+      <Source Page="410">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>8000</Price>
@@ -5130,7 +5130,7 @@ The SDMN "Side Man" series entertainment droids were designed by Cybot Galactica
       [H3]Security Droid[h3]
 
 A more civilized and restricted version of assassin droids, security droids are not illegal but are carefully regulated because of the potential for abuse. Security droids are typically programmed with significant knowledge of law enforcement protocols and often update using local databases when traveling to ensure that their actions are in accordance with planetary, system, and sector law. Typically, security droids are assigned to protect specific locations or individuals and will respond to any threat against their charge with appropriate, sometimes lethal, force.</Description>
-    <Source Page="409">Edge of the Empire Core Rulebook</Source>
+    <Source Page="409">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>9600</Price>
     <Rarity>5</Rarity>
@@ -5351,9 +5351,9 @@ Electrobinoculars come in many shapes and sizes, depending on their role and the
 
 [P][B]Models Include:[b] Neuro-Saav Model TD2.3 Electrobinoculars, Fabritech "Longsight," TaggeCo. Model 3 Imperial Army.</Description>
     <Sources>
-      <Source Page="175">Edge of the Empire Core Rulebook</Source>
-      <Source Page="190">Age of Rebellion Core Rulebook</Source>
-      <Source Page="184">Force and Destiny Core Rulebook</Source>
+      <Source Page="175">Книга правил: Край Империи</Source>
+      <Source Page="190">Книга правил: Эпоха восстания</Source>
+      <Source Page="184">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>250</Price>
@@ -5383,9 +5383,9 @@ through most standard electronic locks. There are also much more advanced models
 
 [P][B]Models Include:[b] OutlawTech Electronic Lock Breaker.</Description>
     <Sources>
-      <Source Page="178">Edge of the Empire Core Rulebook</Source>
-      <Source Page="194">Age of Rebellion Core Rulebook</Source>
-      <Source Page="187">Force and Destiny Core Rulebook</Source>
+      <Source Page="178">Книга правил: Край Империи</Source>
+      <Source Page="194">Книга правил: Эпоха восстания</Source>
+      <Source Page="187">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>1000</Price>
@@ -5449,9 +5449,9 @@ Medpacs are common even on those ships that do not engage in activities of dubio
 
 [P][B]Models Include:[b] Athakam MedTech Survival Medpac, Chiewab GLiS Emergency Medpac.</Description>
     <Sources>
-      <Source Page="176">Edge of the Empire Core Rulebook</Source>
-      <Source Page="192">Age of Rebellion Core Rulebook</Source>
-      <Source Page="185">Force and Destiny Core Rulebook</Source>
+      <Source Page="176">Книга правил: Край Империи</Source>
+      <Source Page="192">Книга правил: Эпоха восстания</Source>
+      <Source Page="185">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>100</Price>
@@ -5603,8 +5603,8 @@ Emergency repair patches, like the SoroSuub Pocket Tech, are designed to be both
 
 [P][B]Models Include:[b] SoroSuub Pocket Tech. </Description>
     <Sources>
-      <Source Page="182">Edge of the Empire Core Rulebook</Source>
-      <Source Page="197">Age of Rebellion Core Rulebook</Source>
+      <Source Page="182">Книга правил: Край Империи</Source>
+      <Source Page="197">Книга правил: Эпоха восстания</Source>
       <Source Page="50">Endless Vigil</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -6016,8 +6016,8 @@ A flesh camouflage set is essentially a comprehensive disguise kit, allowing the
 
 [P][B]Restrictions:[b] Many elements within the kit are perfectly legal on their own, but most planetary and Imperial authorities take a dim view of anyone actually carrying a set of items that allows the user to mask himself down to a genetic level.</Description>
     <Sources>
-      <Source Page="186">Edge of the Empire Core Rulebook</Source>
-      <Source Page="193">Age of Rebellion Core Rulebook</Source>
+      <Source Page="186">Книга правил: Край Империи</Source>
+      <Source Page="193">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>2500</Price>
@@ -6310,9 +6310,9 @@ These small, squat devices provide both light and heat for the surrounding area.
 
 [P][B]Models Include:[b] SoroSuub Powermax Fusion Lantern.</Description>
     <Sources>
-      <Source Page="181">Edge of the Empire Core Rulebook</Source>
-      <Source Page="197">Age of Rebellion Core Rulebook</Source>
-      <Source Page="189">Force and Destiny Core Rulebook</Source>
+      <Source Page="181">Книга правил: Край Империи</Source>
+      <Source Page="197">Книга правил: Эпоха восстания</Source>
+      <Source Page="189">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>150</Price>
@@ -6513,7 +6513,7 @@ Glitterstim is a vanishingly rare variety of spice, refined from the webs spun b
 [P]Glitterstim is a highly addictive drug with hallucinogenic properties. Using it adds three [BO] to all Perception and Vigilance checks for the remainder of a scene. Additionally, some users report gaining temporary telepathic abilities, which the GM may choose to grant to any user at his discretion.
 
 [P][B]Restrictions:[b] Glitterstim is illegal on most worlds, and its trade is aggressively monitored and controlled by Imperial authorities.</Description>
-    <Source Page="184">Edge of the Empire Core Rulebook</Source>
+    <Source Page="184">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>5000</Price>
     <Restricted>true</Restricted>
@@ -6533,7 +6533,7 @@ Glitterstim is a vanishingly rare variety of spice, refined from the webs spun b
 [P]Glitterstim is a highly addictive drug with hallucinogenic properties. Using it adds three [BO] to all Perception and Vigilance checks for the remainder of a scene. Additionally, some users report gaining temporary telepathic abilities, which the GM may choose to grant to any user at his discretion.
 
 [P][B]Restrictions:[b] Glitterstim is illegal on most worlds, and its trade is aggressively monitored and controlled by Imperial authorities.</Description>
-    <Source Page="184">Edge of the Empire Core Rulebook</Source>
+    <Source Page="184">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>100</Price>
     <Restricted>true</Restricted>
@@ -6551,9 +6551,9 @@ A glow rod is a hand-held light source that illuminates an area in a directional
 
 [P][B]Models Include:[b] Numerous Variants.</Description>
     <Sources>
-      <Source Page="181">Edge of the Empire Core Rulebook</Source>
-      <Source Page="197">Age of Rebellion Core Rulebook</Source>
-      <Source Page="189">Force and Destiny Core Rulebook</Source>
+      <Source Page="181">Книга правил: Край Империи</Source>
+      <Source Page="197">Книга правил: Эпоха восстания</Source>
+      <Source Page="189">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>10</Price>
@@ -6571,9 +6571,9 @@ Most scanners are small, hand-held gear, designed to be simple and durable for f
 
 [P][B]Models Include:[b] Cryoncorp EnhanceScan General Purpose Scanner, Crozo Industrial Mineral Scanner, CUE GenScan.</Description>
     <Sources>
-      <Source Page="175">Edge of the Empire Core Rulebook</Source>
-      <Source Page="191">Age of Rebellion Core Rulebook</Source>
-      <Source Page="185">Force and Destiny Core Rulebook</Source>
+      <Source Page="175">Книга правил: Край Империи</Source>
+      <Source Page="191">Книга правил: Эпоха восстания</Source>
+      <Source Page="185">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>500</Price>
@@ -6808,9 +6808,9 @@ Produced by a number of well-known manufacturers of sensors and scanners, huntin
 
 Usually reserved for formal affairs or the dealings of the wealthy, these small, disk-like devices create holographic recordings or transmissions that may be played back as a small projection. The user can easily hold a holo-messenger in one hand. Though uncommon, they have played an integral part in many revenge or entrapment schemes.</Description>
     <Sources>
-      <Source Page="171">Edge of the Empire Core Rulebook</Source>
-      <Source Page="186">Age of Rebellion Core Rulebook</Source>
-      <Source Page="181">Force and Destiny Core Rulebook</Source>
+      <Source Page="171">Книга правил: Край Империи</Source>
+      <Source Page="186">Книга правил: Эпоха восстания</Source>
+      <Source Page="181">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Encumbrance>0</Encumbrance>
@@ -6852,7 +6852,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses.
 
 [P]All holocrons, unless noted otherwise, grant an ongoing benefit to the user. [B]Two skills, determined by the holocron, become career skills for the holocron's user as long as it remains in the user's possession.[b] What these skills are depends on the holocron in question (see [B]Table 2-7: Holocron Skills[b], on page 109, for some examples of skill pairs). Further, some holocrons grant additional bonuses. Some bonuses are ongoing, but others take effect only once. In the latter case, the user may continue to consult the gatekeeper and even to search through the holocron for information, but the bonuses granted are not granted a second time.</Description>
-    <Source Page="109">Force and Destiny Core Rulebook</Source>
+    <Source Page="109">Книга правил: Сила и судьба</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <Type>Holocrons/Ancient Lore</Type>
@@ -6890,7 +6890,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses.
 
 [P]All holocrons, unless noted otherwise, grant an ongoing benefit to the user. [B]Two skills, determined by the holocron, become career skills for the holocron's user as long as it remains in the user's possession.[b] What these skills are depends on the holocron in question (see [B]Table 2-7: Holocron Skills[b], on page 109, for some examples of skill pairs). Further, some holocrons grant additional bonuses. Some bonuses are ongoing, but others take effect only once. In the latter case, the user may continue to consult the gatekeeper and even to search through the holocron for information, but the bonuses granted are not granted a second time.</Description>
-    <Source Page="109">Force and Destiny Core Rulebook</Source>
+    <Source Page="109">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Type>Holocrons/Ancient Lore</Type>
     <Categories />
@@ -6927,7 +6927,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses.
 
 [P]All holocrons, unless noted otherwise, grant an ongoing benefit to the user. [B]Two skills, determined by the holocron, become career skills for the holocron's user as long as it remains in the user's possession.[b] What these skills are depends on the holocron in question (see [B]Table 2-7: Holocron Skills[b], on page 109, for some examples of skill pairs). Further, some holocrons grant additional bonuses. Some bonuses are ongoing, but others take effect only once. In the latter case, the user may continue to consult the gatekeeper and even to search through the holocron for information, but the bonuses granted are not granted a second time.</Description>
-    <Source Page="109">Force and Destiny Core Rulebook</Source>
+    <Source Page="109">Книга правил: Сила и судьба</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <Type>Holocrons/Ancient Lore</Type>
@@ -6965,7 +6965,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses.
 
 [P]All holocrons, unless noted otherwise, grant an ongoing benefit to the user. [B]Two skills, determined by the holocron, become career skills for the holocron's user as long as it remains in the user's possession.[b] What these skills are depends on the holocron in question (see [B]Table 2-7: Holocron Skills[b], on page 109, for some examples of skill pairs). Further, some holocrons grant additional bonuses. Some bonuses are ongoing, but others take effect only once. In the latter case, the user may continue to consult the gatekeeper and even to search through the holocron for information, but the bonuses granted are not granted a second time.</Description>
-    <Source Page="109">Force and Destiny Core Rulebook</Source>
+    <Source Page="109">Книга правил: Сила и судьба</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <Type>Holocrons/Ancient Lore</Type>
@@ -7003,7 +7003,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses.
 
 [P]All holocrons, unless noted otherwise, grant an ongoing benefit to the user. [B]Two skills, determined by the holocron, become career skills for the holocron's user as long as it remains in the user's possession.[b] What these skills are depends on the holocron in question (see [B]Table 2-7: Holocron Skills[b], on page 109, for some examples of skill pairs). Further, some holocrons grant additional bonuses. Some bonuses are ongoing, but others take effect only once. In the latter case, the user may continue to consult the gatekeeper and even to search through the holocron for information, but the bonuses granted are not granted a second time.</Description>
-    <Source Page="109">Force and Destiny Core Rulebook</Source>
+    <Source Page="109">Книга правил: Сила и судьба</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <Type>Holocrons/Ancient Lore</Type>
@@ -7041,7 +7041,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses.
 
 [P]All holocrons, unless noted otherwise, grant an ongoing benefit to the user. [B]Two skills, determined by the holocron, become career skills for the holocron's user as long as it remains in the user's possession.[b] What these skills are depends on the holocron in question (see [B]Table 2-7: Holocron Skills[b], on page 109, for some examples of skill pairs). Further, some holocrons grant additional bonuses. Some bonuses are ongoing, but others take effect only once. In the latter case, the user may continue to consult the gatekeeper and even to search through the holocron for information, but the bonuses granted are not granted a second time.</Description>
-    <Source Page="109">Force and Destiny Core Rulebook</Source>
+    <Source Page="109">Книга правил: Сила и судьба</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <Type>Holocrons/Ancient Lore</Type>
@@ -7079,7 +7079,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses.
 
 [P]All holocrons, unless noted otherwise, grant an ongoing benefit to the user. [B]Two skills, determined by the holocron, become career skills for the holocron's user as long as it remains in the user's possession.[b] What these skills are depends on the holocron in question (see [B]Table 2-7: Holocron Skills[b], on page 109, for some examples of skill pairs). Further, some holocrons grant additional bonuses. Some bonuses are ongoing, but others take effect only once. In the latter case, the user may continue to consult the gatekeeper and even to search through the holocron for information, but the bonuses granted are not granted a second time.</Description>
-    <Source Page="109">Force and Destiny Core Rulebook</Source>
+    <Source Page="109">Книга правил: Сила и судьба</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <Type>Holocrons/Ancient Lore</Type>
@@ -7117,7 +7117,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses.
 
 [P]All holocrons, unless noted otherwise, grant an ongoing benefit to the user. [B]Two skills, determined by the holocron, become career skills for the holocron's user as long as it remains in the user's possession.[b] What these skills are depends on the holocron in question (see [B]Table 2-7: Holocron Skills[b], on page 109, for some examples of skill pairs). Further, some holocrons grant additional bonuses. Some bonuses are ongoing, but others take effect only once. In the latter case, the user may continue to consult the gatekeeper and even to search through the holocron for information, but the bonuses granted are not granted a second time.</Description>
-    <Source Page="109">Force and Destiny Core Rulebook</Source>
+    <Source Page="109">Книга правил: Сила и судьба</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <Type>Holocrons/Ancient Lore</Type>
@@ -7150,7 +7150,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
       &lt;li&gt;Grants 2 ranks in the Sleight of Mind talent&lt;/li&gt;
       &lt;/ul&gt;</Description>
     <Sources>
-      <Source Page="190">Force and Destiny Core Rulebook</Source>
+      <Source Page="190">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>100000</Price>
@@ -7188,7 +7188,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 [P]The holocon of the [I]Sanctuary[i] is intended to be a tool the PCs can use to learn about the ancient Jedi Order. It is not an unlimited fount of information, of course, and its knowledge is several thousand years old (so it knows nothing of current events). However it contains a great deal of basic Jedi instruction, which allows the GM and players to explain how the PCs are able to learn Jedi Force practices and train with lightsabers, for example.
 [P]Each PC may count Discipline and Medicine as career skills as long as the group possesses the holocron.
 [P]When making a Knowledge (Lore) check to learn about the Jedi, the PC's may use the holocron to make an assisted check. The holocron counts as having three ranks in Knowledge (Lore).</Description>
-    <Source Page="439">Force and Destiny Core Rulebook</Source>
+    <Source Page="439">Книга правил: Сила и судьба</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <Type>Holocrons/Ancient Lore</Type>
@@ -7229,7 +7229,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses.
 
 [P]All holocrons, unless noted otherwise, grant an ongoing benefit to the user. [B]Two skills, determined by the holocron, become career skills for the holocron's user as long as it remains in the user's possession.[b] What these skills are depends on the holocron in question (see [B]Table 2-7: Holocron Skills[b], on page 109, for some examples of skill pairs). Further, some holocrons grant additional bonuses. Some bonuses are ongoing, but others take effect only once. In the latter case, the user may continue to consult the gatekeeper and even to search through the holocron for information, but the bonuses granted are not granted a second time.</Description>
-    <Source Page="109">Force and Destiny Core Rulebook</Source>
+    <Source Page="109">Книга правил: Сила и судьба</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <Type>Holocrons/Ancient Lore</Type>
@@ -7294,7 +7294,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 [P]Depending on its nature, a holocron can grant new Force powers, increase the damage of a specific kind of attack (Melee, Ranged, Gunnery, Lightsaber, etc.), grant basic or advanced talents, grant or increase a skill, or anything else a Game Master can imagine. On his first attempt to use a holocron, a character must make a [B]Hard ([DI][DI][DI]) Knowledge (Lore) check[b] to activate the device and summon the gatekeeper. Once the holocron is activated, the character who activated it must spend an amount of time dictated by the Came Master studying the holocron and conversing with the gatekeeper before benefiting from whatever bonuses the holocron provides. The character does not have to make the check to activate the Holocron on subsequent uses.
 
 [P]All holocrons, unless noted otherwise, grant an ongoing benefit to the user. [B]Two skills, determined by the holocron, become career skills for the holocron's user as long as it remains in the user's possession.[b] What these skills are depends on the holocron in question (see [B]Table 2-7: Holocron Skills[b], on page 109, for some examples of skill pairs). Further, some holocrons grant additional bonuses. Some bonuses are ongoing, but others take effect only once. In the latter case, the user may continue to consult the gatekeeper and even to search through the holocron for information, but the bonuses granted are not granted a second time.</Description>
-    <Source Page="109">Force and Destiny Core Rulebook</Source>
+    <Source Page="109">Книга правил: Сила и судьба</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <Type>Holocrons/Ancient Lore</Type>
@@ -8094,9 +8094,9 @@ These compact holsters built for small, light handguns are designed to fit the c
 
 [P][B]Models Include:[b] RFX/K Medisensor.</Description>
     <Sources>
-      <Source Page="176">Edge of the Empire Core Rulebook</Source>
-      <Source Page="191">Age of Rebellion Core Rulebook</Source>
-      <Source Page="185">Force and Destiny Core Rulebook</Source>
+      <Source Page="176">Книга правил: Край Империи</Source>
+      <Source Page="191">Книга правил: Эпоха восстания</Source>
+      <Source Page="185">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>100</Price>
@@ -8372,9 +8372,9 @@ Developed as a civilian alternative to the Merr-Sonn VX Hands-Free Weapon System
 There have been many warrior traditions that have used the Force throughout the history of the galaxy, of which the Jedi are the most famous. Rather than the lightsabers of the Jedi and the Sith, some Force warrior traditions focus on turning the practitioner's body into a weapon. This talisman is from one such order, and it channels the Force into the wearer's body, making It hard as steel.
 
 [B]If the wearer of the Talisman of Iron Fists is Force-sensitive, he gains the Cortosis quality, which means that any armor he wears gains the Cortosis quality and his Brawl attacks gain the Cortosis quality. Furthermore, his Brawl attacks gain Pierce X, where X is his current Force rating.</Description>
-    <Source Page="190">Force and Destiny Core Rulebook</Source>
+    <Source Page="190">Книга правил: Сила и судьба</Source>
     <Sources>
-      <Source Page="190">Force and Destiny Core Rulebook</Source>
+      <Source Page="190">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>8000</Price>
@@ -8456,7 +8456,7 @@ A jet pack is ideal for fast maneuverability and surprise attacks. Most use smal
 [P]A jet pack allows a person to function as a Silhouette 1, Speed 2, Handling 0, System Strain Threshold 3 vehicle that can only operate in atmosphere, and requires Piloting (Planetary) to operate.
 
 [P][B]Models Include:[b] Mitrinomon Z-6 Jet Pack.</Description>
-    <Source Page="181">Edge of the Empire Core Rulebook</Source>
+    <Source Page="181">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>4500</Price>
     <Encumbrance>2</Encumbrance>
@@ -8637,7 +8637,7 @@ Lesai is a variety of spice that is not mined, but grown in a fungus found only 
 [P]A character who partakes in lesai at least once every twenty-four hours does not need to sleep, and suffers no penalties or strain for lack of sleep. The character may remove strain as if he had slept a full night after any period of eight or more hours in which he did not engage in any stressful activities (such as combat, intense mental effort, or emotionally charged discussion). Lesai's only noticeable side-effect is that it leaves odd purple stains where applied. If a character under the effects of lesai ever goes twenty-four full hours without a dose of the drug, he finds it increasingly difficult to stay awake until he receives more lesai or sleeps. Some Imperial officials claim that lesai turns users into amoral monsters without feelings or compassion. Whether this is true or not is entirely up to the GM, and he should feel free to keep his decision secret from any players whose characters use lesai.
 
 [P][B]Restrictions:[b] Lesai is illegal on most worlds with a strong Imperial presence.</Description>
-    <Source Page="184">Edge of the Empire Core Rulebook</Source>
+    <Source Page="184">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>7500</Price>
     <Restricted>true</Restricted>
@@ -8656,7 +8656,7 @@ Lesai is a variety of spice that is not mined, but grown in a fungus found only 
 [P]A character who partakes in lesai at least once every twenty-four hours does not need to sleep, and suffers no penalties or strain for lack of sleep. The character may remove strain as if he had slept a full night after any period of eight or more hours in which he did not engage in any stressful activities (such as combat, intense mental effort, or emotionally charged discussion). Lesai's only noticeable side-effect is that it leaves odd purple stains where applied. If a character under the effects of lesai ever goes twenty-four full hours without a dose of the drug, he finds it increasingly difficult to stay awake until he receives more lesai or sleeps. Some Imperial officials claim that lesai turns users into amoral monsters without feelings or compassion. Whether this is true or not is entirely up to the GM, and he should feel free to keep his decision secret from any players whose characters use lesai.
 
 [P][B]Restrictions:[b] Lesai is illegal on most worlds with a strong Imperial presence.</Description>
-    <Source Page="184">Edge of the Empire Core Rulebook</Source>
+    <Source Page="184">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>500</Price>
     <Restricted>true</Restricted>
@@ -8720,7 +8720,7 @@ Load-bearing gear, or combat webbing, is a system used by soldiers to carry nece
 [P]Load-bearing gear increases a wearer's encumbrance threshold by 3.
 
 [P][B]Models Include:[b] Imperial Armory M-4 Army Combat Webbing, AHH "Striker" Tactical Vest.</Description>
-    <Source Page="198">Age of Rebellion Core Rulebook</Source>
+    <Source Page="198">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
     <Type>Carrying/Storage</Type>
     <Categories />
@@ -8993,9 +8993,9 @@ A far simpler version of the more complicated electrobinoculars, macrobinoculars
 
 [P][B]Models Include:[b] Numerous Variants.</Description>
     <Sources>
-      <Source Page="175">Edge of the Empire Core Rulebook</Source>
-      <Source Page="191">Age of Rebellion Core Rulebook</Source>
-      <Source Page="185">Force and Destiny Core Rulebook</Source>
+      <Source Page="175">Книга правил: Край Империи</Source>
+      <Source Page="191">Книга правил: Эпоха восстания</Source>
+      <Source Page="185">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>75</Price>
@@ -9094,9 +9094,9 @@ Produced by Chiewab Amalgamated Pharmaceuticals Company for use by military forc
 Many of the Force and religious traditions throughout the galaxy develop some form of meditation focus, whether it be the prayer beads of the Solaran Hermetic Order, the Cosmic Wheel of the Voss Mystics, or Dagoyan incense. Although varied in form, these foci are allied in function, and aiding the user in finding inner peace and enlightenment.
 
 [P]A Force-sensitive character who has a meditation focus increases his strain threshold by 2 while he is a light side paragon.</Description>
-    <Source Page="190">Force and Destiny Core Rulebook</Source>
+    <Source Page="190">Книга правил: Сила и судьба</Source>
     <Sources>
-      <Source Page="190">Force and Destiny Core Rulebook</Source>
+      <Source Page="190">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>4000</Price>
@@ -9122,8 +9122,8 @@ Slightly larger and infinitely more advanced than a standard emergency medpac, t
 
 [P][B]Models Include:[b] Athakam MedTech First Responder, BioTech FastFlesh Medpac.</Description>
     <Sources>
-      <Source Page="177">Edge of the Empire Core Rulebook</Source>
-      <Source Page="192">Age of Rebellion Core Rulebook</Source>
+      <Source Page="177">Книга правил: Край Империи</Source>
+      <Source Page="192">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Short>
@@ -9244,7 +9244,7 @@ These tiny spiderlike automata are little more than mobile audio bugs, barely wo
 Field manuals are print or digital publications, issued to Imperial troopers and Rebel agents alike that focus on a variety of important topics. From comprehensive manuals issued to members of the Imperial Navy to the underground publications used to instruct Rebels in guerrilla combat, field manuals can be found wherever troopers are common. Those used by the Empire are written by instructors at the Anaxes War College and other important military thinkers in the Empire's employ, while those used by the Alliance are either stolen from Imperial forces or written by experienced Rebels. Depending on the manual, once per scene a character may use the information found within to gain [BO] to any task at the Game Master's discretion.
 
 [P][B]Models Include:[b] Imperial Army Field Manual FM-5-31 (Booby Traps), General Airen Cracken's Rebel Handbook. </Description>
-    <Source Page="197">Age of Rebellion Core Rulebook</Source>
+    <Source Page="197">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
     <Categories />
@@ -9898,7 +9898,7 @@ Carried by doctors and healers on backwater worlds, physician's kits are bigger 
 
 [P]A physician's kit allows a user to perform relatively complex medical procedures in the field. Like emergency medpacs, physician's kits allow a character to use the Medicine skill without penalty, as per the rules on page 226, and in addition grant [BO] to all Medicine skill checks. Also, thanks to their stock of stimulants and other unguents, these kits add an automatic [AD] to successful Medicine checks made while using the kit.
 [P][B]Models Include:[b] Numerous variants. </Description>
-    <Source Page="186">Force and Destiny Core Rulebook</Source>
+    <Source Page="186">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <Price>400</Price>
     <Encumbrance>2</Encumbrance>
@@ -10137,8 +10137,8 @@ Personal stealth fields, as the name suggests, are miniaturized stealth fields t
 
 [P][B]Restrictions:[b] Personalized stealth fields are vanishingly rare, and so few governments bother to place restrictions on their use. Some are legitimate artifacts of ages past, while others are stolen military technology, and the particulars of their creation dictate their legality. Of course, law enforcement officers tend not to see these fine distinctions when apprehending people using them to commit crimes.</Description>
     <Sources>
-      <Source Page="186">Edge of the Empire Core Rulebook</Source>
-      <Source Page="195">Age of Rebellion Core Rulebook</Source>
+      <Source Page="186">Книга правил: Край Империи</Source>
+      <Source Page="195">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>20000</Price>
@@ -10318,9 +10318,9 @@ As bland and flavorless as the life of an Imperial stormtrooper, ration packs ar
 
 [P][B]Models Include:[b] Imperial Army Ration Packs.</Description>
     <Sources>
-      <Source Page="179">Edge of the Empire Core Rulebook</Source>
-      <Source Page="196">Age of Rebellion Core Rulebook</Source>
-      <Source Page="188">Force and Destiny Core Rulebook</Source>
+      <Source Page="179">Книга правил: Край Империи</Source>
+      <Source Page="196">Книга правил: Эпоха восстания</Source>
+      <Source Page="188">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>5</Price>
@@ -10358,9 +10358,9 @@ Technology runs on power, and while most devices have internal power sources, th
 
 [P][B]Models Include:[b] Numerous Variants.</Description>
     <Sources>
-      <Source Page="181">Edge of the Empire Core Rulebook</Source>
-      <Source Page="197">Age of Rebellion Core Rulebook</Source>
-      <Source Page="189">Force and Destiny Core Rulebook</Source>
+      <Source Page="181">Книга правил: Край Империи</Source>
+      <Source Page="197">Книга правил: Эпоха восстания</Source>
+      <Source Page="189">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>25</Price>
@@ -10613,9 +10613,9 @@ Restraining bolts serve the same function on droids as restraints do on other se
 
 [P][B]Models Include:[b] Numerous Variants.</Description>
     <Sources>
-      <Source Page="178">Edge of the Empire Core Rulebook</Source>
-      <Source Page="194">Age of Rebellion Core Rulebook</Source>
-      <Source Page="187">Force and Destiny Core Rulebook</Source>
+      <Source Page="178">Книга правил: Край Империи</Source>
+      <Source Page="194">Книга правил: Эпоха восстания</Source>
+      <Source Page="187">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>35</Price>
@@ -10847,7 +10847,7 @@ A sweet, cake-like pastry, ryshcate is eaten by Corellians to mark holidays and 
       [H3]Sabacc Deck[h3]
 
 A favorite gambling game across the galaxy, sabacc utilizes a deck of cards. Players attempt to reach some combination of 23 or -23 (or more esoteric combinations, such as a natural “2” and “3”) to win. However, the cards are electronic, and randomly shift and swap to different cards during play. This means sabacc is a game of bluffing and brinksmanship as much as it is one of skill and logic, an tricks such as counting cards are almost impossible.</Description>
-    <Source Page="182">Edge of the Empire Core Rulebook</Source>
+    <Source Page="182">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Short>
     </Short>
@@ -10976,9 +10976,9 @@ Simpler than electrobinoculars, scanner goggles enhance vision through a blend o
 
 [P][B]Models Include:[b] Fabritech X-2000 Scanner Goggles, Torjeka B3, TaggeCo. Luminator.</Description>
     <Sources>
-      <Source Page="175">Edge of the Empire Core Rulebook</Source>
-      <Source Page="191">Age of Rebellion Core Rulebook</Source>
-      <Source Page="185">Force and Destiny Core Rulebook</Source>
+      <Source Page="175">Книга правил: Край Империи</Source>
+      <Source Page="191">Книга правил: Эпоха восстания</Source>
+      <Source Page="185">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>150</Price>
@@ -11565,8 +11565,8 @@ Slicers use their formidable talents to gain access and control of computers, an
 
 [P][B]Models Include:[b] Numerous Variants.</Description>
     <Sources>
-      <Source Page="179">Edge of the Empire Core Rulebook</Source>
-      <Source Page="195">Age of Rebellion Core Rulebook</Source>
+      <Source Page="179">Книга правил: Край Империи</Source>
+      <Source Page="195">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Short>
@@ -11611,9 +11611,9 @@ Space suits are vital for anyone who plans to travel in space. Space suits also 
 
 [P][B]Models Include:[b] TaggeCo. Standard X Space Suit.</Description>
     <Sources>
-      <Source Page="179">Edge of the Empire Core Rulebook</Source>
-      <Source Page="196">Age of Rebellion Core Rulebook</Source>
-      <Source Page="188">Force and Destiny Core Rulebook</Source>
+      <Source Page="179">Книга правил: Край Империи</Source>
+      <Source Page="196">Книга правил: Эпоха восстания</Source>
+      <Source Page="188">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>100</Price>
@@ -11809,9 +11809,9 @@ Sporting macrobinoculars incorporate typical macrobinocular functions with video
 This is a general anesthetic produced on many worlds for medical procedures, designed to render the user unconscious. Unsurprisingly, many criminals have found it valuable. This poison may be introduced into a target's body via aerosol deployment, food ingestion, or injection (via an applicator or dart). A single dose has an [B]Average ([DI][DI]) difficulty[b], while two or more doses combined into a single application have a [B]Hard ([DI][DI][DI]) difficulty[b]. The poison inflicts 5 strain if the target fails the check. If the check generates one to two [TH], the target must also give up his free maneuver during his next turn (he may still take two maneuvers, however); if it generates [TH][TH][TH] or more, he's staggered during his next turn. Finally, the GM can spend [DE] to make the target test against the poison again during the next round, as the poison remains in his system.</Description>
     <Encumbrance>0</Encumbrance>
     <Sources>
-      <Source Page="172">Edge of the Empire Core Rulebook</Source>
-      <Source Page="188">Age of Rebellion Core Rulebook</Source>
-      <Source Page="181">Force and Destiny Core Rulebook</Source>
+      <Source Page="172">Книга правил: Край Империи</Source>
+      <Source Page="188">Книга правил: Эпоха восстания</Source>
+      <Source Page="181">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>35</Price>
@@ -11832,9 +11832,9 @@ This is a general anesthetic produced on many worlds for medical procedures, des
 
 Poisons that paralyze a target but leave higher cognitive functions intact (and do not kill the target) are difficult to create and administer. However, certain types do exist. This poison may only be introduced into a target via injection. as in an applicator or dart. Any sized dose has a [B]Hard ([DI][DI][DI]) difficulty[b]. The poison Stuns the target for 3 Rounds if the target fails the check. In addition, each [TH] generated inflicts one strain on the target, and the GM can spend [DE] to make the target test against the poison again during the next round, as the poison remains in his system.</Description>
     <Sources>
-      <Source Page="172">Edge of the Empire Core Rulebook</Source>
-      <Source Page="188">Age of Rebellion Core Rulebook</Source>
-      <Source Page="181">Force and Destiny Core Rulebook</Source>
+      <Source Page="172">Книга правил: Край Империи</Source>
+      <Source Page="188">Книга правил: Эпоха восстания</Source>
+      <Source Page="181">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Encumbrance>0</Encumbrance>
@@ -11857,9 +11857,9 @@ Poisons that paralyze a target but leave higher cognitive functions intact (and 
 
 This is a general poison synthetically produced on hundreds of worlds (often illegally) that affects the biochemical reactions of most creatures, sometimes fatally. This poison may be introduced into the target's body via aerosol deployment, food ingestion, or injection (via an applicator or dart). Resisting a single dose has an [B]Average ([DI][DI]) difficulty[b], while two or more doses combined into a single application have a [B]Hard ([DI][DI][DI]) difficulty[b]. The poison inflicts 5 wounds if the target fails the check. Each [TH] generated inflicts one strain on the target as the effort of fighting the poison overwhelms him. Finally, the GM can spend [DE] to make the target test against the poison again during the next round, as the poison remains in his system.</Description>
     <Sources>
-      <Source Page="172">Edge of the Empire Core Rulebook</Source>
-      <Source Page="188">Age of Rebellion Core Rulebook</Source>
-      <Source Page="181">Force and Destiny Core Rulebook</Source>
+      <Source Page="172">Книга правил: Край Империи</Source>
+      <Source Page="188">Книга правил: Эпоха восстания</Source>
+      <Source Page="181">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Encumbrance>0</Encumbrance>
@@ -11884,8 +11884,8 @@ These small (less than three centimeters across) beacons are commonly placed on 
 
 [P][B]Models Include:[b] Rhinsome Tracking Corp SureSnoop, Astroserver Industries Rover and Trailmaster, MechBlaze Observer.</Description>
     <Sources>
-      <Source Page="176">Edge of the Empire Core Rulebook</Source>
-      <Source Page="191">Age of Rebellion Core Rulebook</Source>
+      <Source Page="176">Книга правил: Край Империи</Source>
+      <Source Page="191">Книга правил: Эпоха восстания</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Short>
@@ -11913,19 +11913,19 @@ A common spacer joke runs that caf, not credits, is what keeps the galaxy moving
   </Gear>
   <Gear>
     <Key>STIMPACK</Key>
-    <Name>Stimpack</Name>
+    <Name>Стимулятор</Name>
     <Description>
-      [H3]Stimpack[h3]
+      [H3]Стимулятор[h3]
 
-Stimpacks are auto-injection tubes filled with medicine, bacta, and painkillers. They are field-ready emergency health recovery products, and useful for quick healing in the field. There are countless makers of stimpacks, from Chiewab Amalgamated Pharmaceuticals to Athakam MedTech.
+Стимуляторы - это автоинъекционные трубки, наполненные лекарствами, бактой и обезболивающими. Это готовые к использованию продукты для восстановления здоровья в чрезвычайных ситуациях, которые пригодятся для быстрого лечения в полевых условиях. Существует множество производителей стимпаков, от Chiewab Amalgamated Pharmaceuticals до Athakam MedTech.
 
-[P]It takes a maneuver for a character to inject a stimpack in himself or another..Stimpacks are one-use items, and automatically heal 5 wounds. Characters can use stimpacks more than once, but each use heals one less wound (so the second use heals four, the third use heals three, and so on). The sixth stimpack heals no wounds—the character is already oversaturated with the medicine for it to have any effect. It takes a day for the character's body to process the stimpacks and for him to be able to use them at full effectiveness. See page 220 for more information.
+[P]Для того чтобы ввести стимулятор в себя или другого персонажа, требуется маневр. Стимуляторы - одноразовые предметы, они автоматически исцеляют 5 "ран". Персонажи могут использовать стимуляторы более одного раза, но каждое использование исцеляет на одну "рану" меньше (так, второе использование исцеляет четыре, третье - три и так далее). Шестой стимулятор не исцеляет ни одной "раны" - персонаж уже перенасыщен лекарством, и оно не оказывает никакого эффекта. Организму персонажа требуется день, чтобы переработать стимуляторы и использовать их с полной эффективностью. Дополнительную информацию см. на стр. 220.
 
-[P][B]Models Include:[b] Numerous Variants.</Description>
+[P][B]Модели включают:[b] Многочисленные варианты.</Description>
     <Sources>
-      <Source Page="177">Edge of the Empire Core Rulebook</Source>
-      <Source Page="193">Age of Rebellion Core Rulebook</Source>
-      <Source Page="186">Force and Destiny Core Rulebook</Source>
+      <Source Page="177">Книга правил: Край Империи</Source>
+      <Source Page="193">Книга правил: Эпоха восстания</Source>
+      <Source Page="186">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>25</Price>
@@ -11934,7 +11934,7 @@ Stimpacks are auto-injection tubes filled with medicine, bacta, and painkillers.
     <Type>Medical</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Heals 5 wounds.</MiscDesc>
+        <MiscDesc>Исцеляет 5 "ран".</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
@@ -12249,9 +12249,9 @@ These artificial flesh coatings are used both to treat injuries and to coat cybe
 
 [P][B]Models Include:[b] Numerous Variants.[P]</Description>
     <Sources>
-      <Source Page="177">Edge of the Empire Core Rulebook</Source>
-      <Source Page="193">Age of Rebellion Core Rulebook</Source>
-      <Source Page="186">Force and Destiny Core Rulebook</Source>
+      <Source Page="177">Книга правил: Край Империи</Source>
+      <Source Page="193">Книга правил: Эпоха восстания</Source>
+      <Source Page="186">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>10</Price>
@@ -12551,9 +12551,9 @@ Tents can be found in larger survival kits, and can provide protection from the 
 
 [P][B]Models Include:[b] Numerous Variants. </Description>
     <Sources>
-      <Source Page="180">Edge of the Empire Core Rulebook</Source>
-      <Source Page="196">Age of Rebellion Core Rulebook</Source>
-      <Source Page="188">Force and Destiny Core Rulebook</Source>
+      <Source Page="180">Книга правил: Край Империи</Source>
+      <Source Page="196">Книга правил: Эпоха восстания</Source>
+      <Source Page="188">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>100</Price>
@@ -12591,9 +12591,9 @@ For those not used to extremes of heat or cold, thermal protection is a must. Th
 
 [P][B]Models Include:[b] Numerous Variants.</Description>
     <Sources>
-      <Source Page="180">Edge of the Empire Core Rulebook</Source>
-      <Source Page="196">Age of Rebellion Core Rulebook</Source>
-      <Source Page="188">Force and Destiny Core Rulebook</Source>
+      <Source Page="180">Книга правил: Край Империи</Source>
+      <Source Page="196">Книга правил: Эпоха восстания</Source>
+      <Source Page="188">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>200</Price>
@@ -12698,9 +12698,9 @@ In a technological galaxy, a tool kit is almost essential. Every vessel, no matt
 
 [P][B]Models Include:[b] Numerous Variants.</Description>
     <Sources>
-      <Source Page="181">Edge of the Empire Core Rulebook</Source>
-      <Source Page="198">Age of Rebellion Core Rulebook</Source>
-      <Source Page="189">Force and Destiny Core Rulebook</Source>
+      <Source Page="181">Книга правил: Край Империи</Source>
+      <Source Page="198">Книга правил: Эпоха восстания</Source>
+      <Source Page="189">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>350</Price>
@@ -12887,19 +12887,19 @@ While constructed around common datapads, urban compasses are more specialized t
   </Gear>
   <Gear>
     <Key>UTILBELT</Key>
-    <Name>Utility Belt</Name>
+    <Name>Универсальный пояс</Name>
     <Description>
-      [H3]Utility Belt[h3]
+      [H3]Универсальный пояс[h3]
 
-A utility belt is a common item for those on active missions where quick access to tools and gear is a necessity; even Imperial stormtroopers use them. Their contents will vary with their user and their planned actions; sabotage missions might have belts with explosives and security slicer chips, while a ship mechanic might have his stuffed with his favorite tools. Some belts also have weapon holsters or clips.
+Пояс - обычная вещь для тех, кто участвует в активных миссиях, где необходим быстрый доступ к инструментам и снаряжению; их используют даже имперские штурмовики. Их содержимое зависит от пользователя и планируемых действий: для диверсионных миссий подойдут пояса со взрывчаткой и чипами для слайса защиты, а для корабельных механиков - с любимыми инструментами. На некоторых поясах также есть кобуры или обоймы для оружия.
 
-[P]Utility belts increase the character's encumbrance threshold by 1.
+[P]Универсальные пояса увеличивают порог "нагрузки" персонажа на 1.
 
-[P][B]Models Include:[b] Numerous Variants.</Description>
+[P][B]Модели включают:[b] Многочисленные варианты.</Description>
     <Sources>
-      <Source Page="183">Edge of the Empire Core Rulebook</Source>
-      <Source Page="198">Age of Rebellion Core Rulebook</Source>
-      <Source Page="189">Force and Destiny Core Rulebook</Source>
+      <Source Page="183">Книга правил: Край Империи</Source>
+      <Source Page="198">Книга правил: Эпоха восстания</Source>
+      <Source Page="189">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>25</Price>
@@ -13317,8 +13317,8 @@ Wilderness survival kits are a necessary precaution for those who regularly trav
 
 [P][B]Models Include:[b] Pretormin Environmental WanderKit.</Description>
     <Sources>
-      <Source Page="196">Age of Rebellion Core Rulebook</Source>
-      <Source Page="188">Force and Destiny Core Rulebook</Source>
+      <Source Page="196">Книга правил: Эпоха восстания</Source>
+      <Source Page="188">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Short>
@@ -13563,7 +13563,7 @@ For untold ages, the spice called yarrock has been produced on Iridonia, created
 [P]Yarrock lasts for one scene. A character under the effects of yarrock is not required to make any Fear checks; he counts as succeeding automatically. However, once he has used yarrock, he must also add [SE] to any Willpower or Presence-related checks for the remainder of the session.
 
 [P][B]Restrictions:[b] Yarrock is quite rare, and thus few planets explicitly regulate its use, as the only shipments go through black market traders.</Description>
-    <Source Page="185">Edge of the Empire Core Rulebook</Source>
+    <Source Page="185">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>20000</Price>
     <Restricted>true</Restricted>
@@ -13582,7 +13582,7 @@ For untold ages, the spice called yarrock has been produced on Iridonia, created
 [P]Yarrock lasts for one scene. A character under the effects of yarrock is not required to make any Fear checks; he counts as succeeding automatically. However, once he has used yarrock, he must also add [SE] to any Willpower or Presence-related checks for the remainder of the session.
 
 [P][B]Restrictions:[b] Yarrock is quite rare, and thus few planets explicitly regulate its use, as the only shipments go through black market traders.</Description>
-    <Source Page="185">Edge of the Empire Core Rulebook</Source>
+    <Source Page="185">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>350</Price>
     <Restricted>true</Restricted>
