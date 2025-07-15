@@ -2,6 +2,22 @@ Dataset for OggDude's character generator 2.3.4.0. (КРАЙНЕ НЕ РЕКОМ
 
 Так же вот сборник книжек для игры: (На русском, только названия) https://disk.yandex.ru/d/PSS9i3MeRvvOnA
 
+(не могу точно посчитать, тк файл единый с кучей данных)
+
+Что переведено:
+Карьеры: 20/20
+Архетип: 120/120
+Специализации: 129/129
+Приемы силы: 21/21
+Знаковая способность: 37/37
+Таланты: 100% *
+Броня: 0% *
+Снаряжение: 0% *
+Оружие: 0% *
+Модификации: 0% *
+Аттачменты: 0% *
+Транспорт и все с ним связанное (наверное): 0/430
+
 ## Installation
 
 Create a folder where you will put both the Character Generator and the dataset. Create two subfolders, one called `character_generator` and the other called `custom_dataset`.
