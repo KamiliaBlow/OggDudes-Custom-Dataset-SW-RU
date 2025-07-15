@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>UGNAUGHTS</Key>
-  <Name>Ugnaught</Name>
-  <Description>[H4]Ugnaught[h4]
+  <Name>Угнот</Name>
+  <Description>[H4]Угнот[h4]
 
-The Ugnaughts are porcine humanoids with slightly upturned noses from the planet Gentes. Compared to baseline humans, their height would be considered short or dwarfed.
+Угноты - свиноподобные гуманоиды со слегка вздернутыми носами с планеты Гентес. По сравнению с обычными людьми их рост считается низким или карликовым.
 
-[P]Ugnaughts are industrious and loyal workers and also have a rich oral tradition. They are quite hardy, able to withstand long periods of discomfort, and live to around two hundred years of age.
+[P]Угноты - трудолюбивые и преданные работники, а также обладают богатой устной традицией. Они довольно выносливы, способны выдерживать длительные периоды дискомфорта и живут примерно до двухсот лет.
 
-[P][B]Physiology:[b] The Ugnaught are a race of small, pig like creatures known for their mechanical abilities. The Ugnaughts are native to the planet Gentes. There, they have grown to become strong, efficient creatures, able to withstand a great deal of discomfort.
+[P][B]Физиология:[b] Угноты - раса маленьких, похожих на свиней существ, известных своими механическими способностями. Угноты родом с планеты Гентес. Там они превратились в сильных, эффективных существ, способных выдерживать большой дискомфорт.
 
-[P][B]Society:[b] Ugnaughts are ruled by elected terend councils, which are led by elected ufflor officers. They were also represented in the Cloud City's Parliament of Guilds. Ugnaughts live their lives in accordance to their "blood profession", with Ugnaught parents teaching their children their trade. Infant Ugnaughts are known as Ugletts. If the number of new Ugnaughts in a given profession exceeded the needed, a blood duel was called. When the Ugnaughts reached their twentieth year of age, these fights were held to the death, with the victor winning the right to inherit their blood profession. Despite this outdated and violent custom, the Ugnaughts are generally a peaceful people with a rich culture.
+[P][B]Общество:[b] Угноты управляются выборными советами терендов, которые возглавляют выборные офицеры уфлора. Они также представлены в Парламенте гильдий Облачного города. Угноты живут в соответствии со своей «кровной профессией», а родители-угноты обучают детей своему ремеслу. Младенцев Угноты называют Углетами. Если число новых Угнотов в той или иной профессии превышало необходимое, объявлялся кровавый поединок. Когда Угноты достигали двадцатилетнего возраста, эти поединки проводились до смерти, а победитель получал право наследовать свою кровную профессию. Несмотря на этот устаревший и жестокий обычай, Угноты - в целом мирный народ с богатой культурой.
 
-[P][B]Homeworld:[b] Gentes is known to most only as the home world to the Ugnaughts, industrious pig like creatures common on Bespin and other planets in the sector. Once a swampy paradise, sadly the planet has suffered from environmental damage from slave traders. In attempts to make the Ugnaught population more willing to be transported off their home planet, the slave traders poured toxins into the rivers and oceans, killing off many of the basic food species the Ugnaughts relied on, and though it is still a life supporting planet, the life it has is a shadow of the rich diversity that blossomed there before.
+[P][B]Родной мир:[b] Гентес известен многим только как родной мир Угнотов, трудолюбивых свиноподобных существ, распространенных на Беспине и других планетах сектора. Когда-то это был райский болотистый уголок, но, к сожалению, планета пострадала от экологического ущерба, нанесенного работорговцами. Пытаясь заставить население Угнотов охотнее покинуть родную планету, работорговцы выливали токсины в реки и океаны, уничтожая многие из основных видов пищи, на которые полагались Угноты. И хотя эта планета все еще поддерживает жизнь, та жизнь, что на ней есть, - лишь тень того богатого разнообразия, которое расцветало здесь раньше.
 
-[P][B]Language:[b] Ugnaught is the native language of the Ugnaught species from Gentes. It is mainly composed of grunts, squeals and chatters. It is considered a difficult language to learn, requiring as much time and effort as Cheunh.
+[P][B]Язык:[b] Угнот - родной язык угнотов с острова Гентес. Он состоит в основном из ворчания, визга и болтовни. Он считается сложным для изучения языком, требующим столько же времени и усилий, как и чонх.
 
-[P]Few Ugnaughts learn Basic, because they are not fond of prolonged contact with Humans or other species. Those who do, however, are quickly fluent in both Ugnaught language and Basic, being literate in both languages.</Description>
-  <Source>Unofficial Species Menagerie</Source>
+[P]Немногие Угноты изучают бейсик, поскольку не любят длительных контактов с людьми и другими видами. Однако те, кто учит, быстро овладевают как языком Угнотов, так и бейсиком, становясь грамотными на обоих языках.</Description>
+  <Source>Неофициальный зверинец видов</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -35,12 +35,12 @@ The Ugnaughts are porcine humanoids with slightly upturned noses from the planet
   <OptionChoices>
     <OptionChoice>
       <Key>UGNAUGHTSCH1</Key>
-      <Name>Skills</Name>
+      <Name>Навыки</Name>
       <Options>
         <Option>
           <Key>UGNAUGHTSCH1OP1</Key>
-          <Name>Mechanics</Name>
-          <Description>Ugnaughts may begin the game with one free rank in Mechanics.</Description>
+          <Name>Механика</Name>
+          <Description>Угноты могут начать игру с одним бесплатным рангом "Механики".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>MECH</Key>
@@ -52,8 +52,8 @@ The Ugnaughts are porcine humanoids with slightly upturned noses from the planet
         </Option>
         <Option>
           <Key>UGNAUGHTSCH1OP2</Key>
-          <Name>Negotiation</Name>
-          <Description>Ugnaughts may begin the game with one free rank in Negotiation.</Description>
+          <Name>Переговоры</Name>
+          <Description>Угноты могут начать игру с одним бесплатным рангом "Переговоров".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>NEG</Key>
@@ -67,12 +67,12 @@ The Ugnaughts are porcine humanoids with slightly upturned noses from the planet
     </OptionChoice>
     <OptionChoice>
       <Key>UGNAUGHTSCH2</Key>
-      <Name>Resilience</Name>
+      <Name>Стойкость</Name>
       <Options>
         <Option>
           <Key>UGNAUGHTSCH2OP1</Key>
-          <Name>Exceptionally Hardy</Name>
-          <Description>Ugnaughts add [ADVANTAGE] to Resilience checks.</Description>
+          <Name>Исключительно выносливый</Name>
+          <Description>Угноты добавляют [ADVANTAGE] к проверкам "Стойкости".</Description>
           <DieModifiers>
             <DieModifier>
               <SkillKey>RESIL</SkillKey>
@@ -84,12 +84,12 @@ The Ugnaughts are porcine humanoids with slightly upturned noses from the planet
     </OptionChoice>
     <OptionChoice>
       <Key>UGNAUGHTSCH3</Key>
-      <Name>Size</Name>
+      <Name>Размер</Name>
       <Options>
         <Option>
           <Key>UGNAUGHTSCH3OP1</Key>
-          <Name>Silhouette</Name>
-          <Description>Ugnaughts have a Silhouette of 0.</Description>
+          <Name>Силуэт</Name>
+          <Description>Угноты имеют силуэт 0.</Description>
         </Option>
       </Options>
     </OptionChoice>

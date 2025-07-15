@@ -1,22 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>UMBARAN</Key>
-  <Name>Umbaran</Name>
-  <Description>[H4]Umbaran[h4]
-The Umbaran people have had a contentious history with the Galactic Republic. Members of the Republic since its founding, they have a long tradition of participating in galactic politics. Never afraid to break away from the majority, however, they have always prioritized Umbara over the Republic. Umbarans' political history has caused many other species to consider them mysterious, deceitful, conniving, and untrustworthy, and to call them “the Shadow People" behind their back. Some believe Umbarans have powers to control others’ minds, and beings of most species admit to feeling unsettled in their presence.
-[P][B]Physiology:[b] Umbarans are near-humans with pale skin that has a faint tint of blue or purple to it. They naturally have pale hair, but Umbaran custom is to shave the head bald. Their eyes tend to have white or pale irises, again with a faint tint of color, usually gray or blue. Umbarans can see into the ultraviolet end of the spectrum and have adapted to low-light conditions, yet they are not greatly uncomfortable in bright artificial light.
-[P]Prolonged exposure to sunlight, however, causes Umbarans to suffer irritability and short-term memory loss, similar to sleep deprivation in humans. Several hours in complete darkness usually resets their physiology. Bioluminescent lights do not affect Umbarans this way, and sunlight screened through transparisteel doesn't affect them as harshly as raw sunlight.
-[P][B]Society:[b] The Umbaran caste system is often believed to be rigid and complicated by outsiders, but their society actually allows a remarkable amount of social mobility. Still, Umbarans can fall more easily than they can rise. This system has more than a hundred tiers and titles, and families can shift their social status with enough popular support, political maneuvering, wealth, influence, or even through marriage. Of Course, more nefarious methods, such as blackmail, assassination, and bribery, have been known to occur. Some Umbaran sociologists and historians believe that this porousness in the social structure means that in a few hundred years, references to the caste system will disappear altogether. Although caste titles and names still appear in legal documents, no one truly follows or enforces them. However, an ambitious Umbaran might not be above using a caste title as an insult or in sycophantic praise.
-[P]This kind of culture might explain the Umbarans’ attitude toward galactic politics. A change in position isn't a betrayal, but merely a decision to better one's status. A fall in power isn't a disaster, but a setback to recover from. And a political victory isn't the time to celebrate, but rather serves as an incentive to keep pushing, for one never knows when one's fortunes are about to turn.
-[P][B]Homeworld:[b] Umbara lies in the Ghost Nebula of the Expansion Region. Shrouded in clouds and perpetual night, the planet's surface receives no light from its sun, and the nebula’s gases and dust envelop the entire system.
-[P]Nevertheless, Umbara teems with countless types of flora and fauna—including plenty of the large and hostile variety. Quite a few of the world's plants and animals possess a form of chemical luminescence, a common evolutionary adaptation to either attract the attention of prey or scare off predators. For some species, this luminescence produces enough light for a creature to see its surroundings.
-[P][B]Language.[b] Umbaran, also called Umbarese, is the spoken and written language of the Umbarans. In the written language, each number and letter is inscribed within a closed circle, and punctuation within half-circles. Most Umbarans also learn Basic as a matter of course.
-[P]In a remnant of the baroque caste system, various social groups give certain common words slightly different pronunciations. Even the written language has minor variations that add serifs or tiny line strokes, or rotate letters a few degrees. Offworlders generally don't perceive these differences, but astute Umbarans and those obsessed with lineage can identify the speaker's or writer's caste relatively quickly.
-[P][B]Life under the Republic:[b] Umbara has been a staunchly loyalist world from the beginning of the Clone Wars. Senator Mee Deechi aggressively advocated for increased military spending in the face of the Separatist threat, and is harshly critical of Senators in the pacifist faction, who seek a peaceful resolution to the conflict. According to him, a stance that supports any form of acquiescence to the Separatists' demands is unpatriotic at best.
-[P]Umbara's commitment to the Republic may stem from the similarities between the Umbaran culture of political subterfuge and unchecked ambition and what many others consider to be the worst aspects of corruption in the Republic. Umbara's government has mastered the necessary bribery, blackmail, and other soft, negotiation tactics that have become increasingly common in galactic politics. Umbara's advanced technological base has given the world great influence in the Republic and fostered a strong economy.
-[P]Umbarans who have offworld face some discrimination. The Umbaran reputation for deceit predisposes many beings toward having a negative view of them. Many species find the appearance and mannerisms of Umbarans to be somewhat sinister, further strengthening such sentiments. By and large, however, most Umbarans who travel off world are more than savvy enough to overcome such preconceptions and succeed in matters both business and political—even if that does require some liberties with the truth.
-</Description>
-  <Source Page="15">Rise of the Separatists</Source>
+  <Name>Умбаран</Name>
+  <Description>[H4]Умбаран[h4]
+Народ умбаранов имеет спорную историю с Галактической Республикой. Члены Республики с момента ее основания, они имеют давние традиции участия в галактической политике. Однако, никогда не боясь отделиться от большинства, они всегда отдавали предпочтение Умбаре, а не Республике. Политическая история умбарцев привела к тому, что многие другие виды считают их загадочными, лживыми, коварными и не заслуживающими доверия, а за глаза называют «народом теней». Некоторые считают, что умбаранцы обладают способностью контролировать чужой разум, а представители большинства видов признаются, что в их присутствии чувствуют себя неспокойно.
+[P][B]Физиология:[b] Умбараны - почти люди с бледной кожей, имеющей слабый оттенок синего или фиолетового. У них от природы бледные волосы, но по умбаранскому обычаю голову принято брить налысо. Глаза, как правило, имеют белую или бледную радужку, опять же со слабым оттенком цвета, обычно серого или голубого. Умбараны могут видеть в ультрафиолетовой части спектра и приспособились к условиям низкой освещенности, но при этом не испытывают особого дискомфорта при ярком искусственном свете.
+[P]Однако длительное воздействие солнечного света вызывает у умбаранцев раздражительность и кратковременную потерю памяти, подобно лишению сна у людей. Несколько часов в полной темноте обычно восстанавливают их физиологию. Биолюминесцентные лампы не влияют на умбаранов таким образом, а солнечный свет, пропущенный через транспаристил, воздействует на них не так сильно, как сырой солнечный свет.
+[P][B]Общество:[b] Посторонние люди часто считают кастовую систему умбаранов жесткой и сложной, но на самом деле их общество допускает удивительную социальную мобильность. Тем не менее, умбаранцам легче упасть, чем подняться. Эта система насчитывает более сотни уровней и титулов, и семьи могут изменить свой социальный статус при достаточной поддержке населения, политическом маневрировании, богатстве, влиянии или даже через брак. Конечно, известны и более гнусные методы, такие как шантаж, убийства и подкуп. Некоторые умбаранские социологи и историки полагают, что такая непроницаемость социальной структуры означает, что через несколько сотен лет упоминания о кастовой системе исчезнут вовсе. Хотя кастовые титулы и имена все еще фигурируют в юридических документах, никто по-настоящему не следует им и не принуждает к их соблюдению. Однако амбициозный умбаранец не прочь использовать кастовый титул в качестве оскорбления или подхалимской похвалы.
+[P]Подобная культура может объяснить отношение умбаранцев к галактической политике. Смена позиции - это не предательство, а просто решение улучшить свой статус. Падение власти - это не катастрофа, а неудача, от которой нужно оправиться. А политическая победа - не повод для празднования, а скорее стимул для дальнейших усилий, ведь никогда не знаешь, когда удача повернется к тебе лицом.
+[P][B]Родной мир:[b] Умбара находится в Туманности Призрака в Регионе Экспансии. Окутанная облаками и вечной ночью, поверхность планеты не получает света от солнца, а газы и пыль туманности окутывают всю систему.
+[P]Тем не менее Умбара изобилует бесчисленными видами флоры и фауны, включая множество крупных и враждебных. Довольно многие растения и животные обладают химическим свечением - распространенной эволюционной адаптацией, позволяющей привлечь внимание добычи или отпугнуть хищников. У некоторых видов люминесценция дает достаточно света, чтобы существо могло видеть свое окружение.
+[P][B]Язык:[b] Умбаран, также называемый умбаренским, - это разговорный и письменный язык умбаранцев. В письменном языке каждая цифра и буква вписаны в замкнутый круг, а знаки препинания - в полукруги. Большинство умбаранцев также изучают бейсик как нечто само собой разумеющееся.
+[P]Как пережиток барочной кастовой системы, различные социальные группы придают некоторым общим словам несколько иное произношение. Даже письменный язык имеет незначительные вариации, добавляющие засечки или крошечные штрихи, или поворачивающие буквы на несколько градусов. Жители Внеземелья обычно не замечают этих различий, но проницательные умбаранцы и те, кто одержим родословной, могут сравнительно быстро определить касту говорящего или пишущего.
+[P][B]Жизнь под властью Республики:[b] С самого начала Войн клонов Умбара придерживалась лояльных взглядов. Сенатор Ми Дичи активно выступал за увеличение военных расходов перед лицом сепаратистской угрозы и резко критиковал сенаторов из фракции пацифистов, которые стремились к мирному разрешению конфликта. По его словам, позиция, поддерживающая любую форму попустительства требованиям сепаратистов, в лучшем случае непатриотична.
+[P]Приверженность Умбары Республике может быть обусловлена сходством между умбарской культурой политических уловок и бесконтрольных амбиций и тем, что многие считают худшими проявлениями коррупции в Республике. Правительство Умбары овладело необходимыми приемами подкупа, шантажа и других мягких тактик ведения переговоров, которые становятся все более распространенными в галактической политике. Развитая технологическая база Умбары обеспечила миру большое влияние на Республику и способствовала развитию сильной экономики.
+[P]Умбаранцы, живущие за пределами мира, подвергаются некоторой дискриминации. Репутация умбаранцев как лжецов предрасполагает многих существ к негативному отношению к ним. Многие виды находят внешность и манеры умбаранцев несколько зловещими, что еще больше усиливает подобные настроения. Однако в целом большинство умбаранцев, путешествующих за пределы мира, более чем достаточно умны, чтобы преодолеть подобные предубеждения и преуспеть в делах как деловых, так и политических - даже если для этого придется пойти на некоторые вольности с правдой.</Description>
+  <Source Page="15">Дополнение: Восстание сепаратистов</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -43,12 +42,12 @@ The Umbaran people have had a contentious history with the Galactic Republic. Me
   <OptionChoices>
     <OptionChoice>
       <Key>UMBARANAB1</Key>
-      <Name>Skills</Name>
+      <Name>Навыки</Name>
       <Options>
         <Option>
           <Key>UMBARANAB1OP1</Key>
-          <Name>Entrancing Gaze</Name>
-          <Description>Umbarans add [BO] to all Charm, Deception, and Negotiation checks.</Description>
+          <Name>Притягательный взгляд</Name>
+          <Description>Умбараны добавляют [BO] ко всем проверкам "Обаяния", "Обмана" и "Переговоров".</Description>
           <DieModifiers>
             <DieModifier>
               <SkillKey>CHARM</SkillKey>
@@ -68,12 +67,12 @@ The Umbaran people have had a contentious history with the Galactic Republic. Me
     </OptionChoice>
     <OptionChoice>
       <Key>UMBARANAB2</Key>
-      <Name>Skills</Name>
+      <Name>Навыки</Name>
       <Options>
         <Option>
           <Key>UMBARANAB2OP1</Key>
-          <Name>Shadow Dweller</Name>
-          <Description>When making skill checks, Umbarans remove up to [SE][SE] due to darkness, and add [SE] to checks made in bright natural light.</Description>
+          <Name>Обитатель теней</Name>
+          <Description>При проверке умений Умбаранцы убирают до [SE][SE] из-за темноты и добавляют [SE] к проверкам, сделанным при ярком естественном освещении.</Description>
         </Option>
       </Options>
     </OptionChoice>
