@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>THAKWAASH</Key>
-  <Name>Thakwaash</Name>
-  <Description>[H4]Thakwaash[h4]
+  <Name>Таквааши</Name>
+  <Description>[H4]Таквааши[h4]
 
-Thakwaash are an equinoid biped species from Thakwaa.
+Таквааш - равноногий двуногий вид из рода Такваа.
 
-[P][B]Physiology:[b] Each Thakwaash has many different personalities, each performing some specialized function. This is their normal mental state and is not considered a psychosis, as it would be in a Human. As they grow older and develop, they usually discover more "minds," and gradually improve upon their skill in switching between them. These personalities have various abilities and skills, behaviors, and views on life. These could include an undisciplined yet skilled pilot, a calm and polite socializer, an arrogant, elitist mind, an insane one (which only caused slight problems, since they could still switch to other "minds"), and others. This ability also helps them figure out how others would think, increasing their ability to imitate their target's writings or thought processes.
+[P][B]Физиология:[b] У каждого Таквааша есть множество различных личностей, каждая из которых выполняет какую-то специализированную функцию. Это их нормальное психическое состояние, и оно не считается психозом, как это было бы у человека. По мере взросления и развития они обычно открывают в себе больше «разумов» и постепенно совершенствуют свое умение переключаться между ними. Эти личности обладают различными способностями и навыками, поведением и взглядами на жизнь. Это может быть недисциплинированный, но опытный пилот, спокойный и вежливый общительный человек, высокомерный, элитарный ум, безумный (что создает лишь небольшие проблемы, так как они все еще могут переключаться на другие «умы») и другие. Эта способность также помогает им понять, как думают другие, повышая их способность подражать написанному или мыслительному процессу своей цели.
 
-[P]They also possess, on average, three times the strength of an average human male.  They are also usually very tall at an average height of three meters.
+[P]Кроме того, они обладают в среднем в три раза большей силой, чем обычный человеческий мужчина.  Кроме того, они обычно очень высокие - их средний рост составляет три метра.
 
-[P][B]Homeworld:[b] Thakwaa is a planet located in the Thakwaa system of the Outer Rim Territories. The Galactic Empire gave up trying to take over this planet due to its its native species' unpredictable natures as well as their size and strength, not because the planet was useless.
+[P][B]Родной мир:[b] Такваа - планета, расположенная в системе Такваа на Территориях Внешнего кольца. Галактическая империя отказалась от попыток захватить эту планету из-за непредсказуемости ее местных видов, а также их размеров и силы, но не потому, что планета была бесполезна.
 
-[P][B]Language:[b] Thakwaese or Thakwaashi is the native language of the Thakwaash species. The verbal form consists of a variety of growls, snorts, and whinnies, while the written form is made up of intricate symbols.</Description>
-  <Source>Unofficial Species Menagerie</Source>
+[P][B]Язык:[b] Таквааш или Таквааши - это родной язык вида Таквааш. Устная форма состоит из разнообразных рычаний, фырканий и хныканий, а письменная - из замысловатых символов.</Description>
+  <Source>Неофициальный зверинец видов</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>3</Brawn>
@@ -33,12 +33,12 @@ Thakwaash are an equinoid biped species from Thakwaa.
   <OptionChoices>
     <OptionChoice>
       <Key>THAKWAASHCH1</Key>
-      <Name>Checks</Name>
+      <Name>Проверки</Name>
       <Options>
         <Option>
           <Key>THAKWAASHCH1OP1</Key>
-          <Name>Multiple Personalities</Name>
-          <Description>At the start of their turn, Thakwaash can choose to suffer 2 strain to upgrade the dice pool once for a specific skill until the start of their next turn.</Description>
+          <Name>Множество личностей</Name>
+          <Description>В начале своего хода Таквааш может выбрать, сколько раз он будет получать 2 "усталости", чтобы улучшить набор кубиков для определенного навыка до начала своего следующего хода.</Description>
         </Option>
       </Options>
     </OptionChoice>

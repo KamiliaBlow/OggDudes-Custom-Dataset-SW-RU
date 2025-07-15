@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>SELKATH</Key>
-  <Name>Selkath</Name>
-  <Description>[H4]Selkath[h4]
+  <Name>Селкат</Name>
+  <Description>[H4]Селкат[h4]
 
-Selkath are the native species of the planet Manaan. An amphibious species, they are excellent swimmers and have the ability to hold their breath for very long periods of time when under water. Though they resemble anthropomorphic catfish and have aqua-coloured skin, they do not have gills. All members of the Selkath race have venom-tipped, retractable claws. Similar to the Wookiees, the use of these claws in any form of combat is considered dishonourable and a sign of madness.
+Селкаты - коренные жители планеты Манаан. Земноводные, они отлично плавают и способны надолго задерживать дыхание под водой. Хотя они напоминают антропоморфных сомов и имеют кожу цвета воды, жабр у них нет. У всех представителей расы селкат есть втягивающиеся когти с ядовитыми наконечниками. Как и у вуки, использование этих когтей в любой форме боя считается позором и признаком безумия.
 
-[P][B]Physiology:[b] As an aquatic species, the Selkath are skilled swimmers. They resemble anthropomorphic sting rays and have blue-, pink- or green-colored skin, which is patterned for underwater camouflage, and their mouths are bracketed by cephalic lobes. They tend to stroke these during conversation, analogous to the Human habit of stroking facial hair, such as mustaches.
+[P][B]Физиология:[b] Как водный вид, селкаты - искусные пловцы. Они похожи на антропоморфных скатов и имеют кожу голубого, розового или зеленого цвета с рисунком для подводного камуфляжа, а их рты обрамлены цефалическими лопастями. Они склонны поглаживать их во время разговора, что аналогично человеческой привычке поглаживать волосы на лице, например усы.
 
-[P]All members of the Selkath race have retractable, venom-tipped claws. Similar to the Wookiees, the use of these claws in any form of combat or attack is considered dishonorable and a sign of madness; to do this is to give in to animal instincts unbecoming of a sentient species. The females Selkath differ from males by the presence of a number of tendrils at the back of their heads.
+[P]У всех представителей расы селкат есть втягивающиеся когти с ядовитым наконечником. Как и у вуки, использование этих когтей в любой форме боя или нападения считается бесчестным и признаком безумия; это означает, что вы поддаетесь животным инстинктам, не подобающим разумному виду. Самки селкатов отличаются от самцов наличием усиков на затылке.
 
-[P][B]Society:[b] With the formation of the Republic, the Selkath did not join, but adopted a policy of strict neutrality. Many millennia later, their planet was allowed to keep this neutrality intact due to the advantageous position granted to them by their monopoly on the supply of kolto. Kolto, produced solely on Manaan, is a liquid that contains unique healing properties. When the liquid is applied to wounds it increases the healing rate, and patients can even be immersed in it in special tanks for greater effect. During conflicts, the Selkath threaten to cut off the supply of kolto, unless both sides respect their neutrality.
+[P][B]Общество:[b] С образованием Республики Селкат не присоединился к ней, но принял политику строгого нейтралитета. Спустя много тысячелетий их планета смогла сохранить нейтралитет благодаря выгодному положению, которое обеспечила им монополия на поставку колто. Колто, производимое исключительно на Манаане, представляет собой жидкость, обладающую уникальными целебными свойствами. При нанесении жидкости на раны она увеличивает скорость заживления, а для большего эффекта пациентов можно даже погружать в нее в специальных резервуарах. Во время конфликтов селкаты угрожают прекратить поставки колто, если обе стороны не будут соблюдать нейтралитет.
 
-[P][B]Homeworld:[b] Manaan is an aquatic planet in the Pyrshak system. It is home to the Selkath, an amphibious species. The planet is completely covered in water and is the only known source of the healing liquid, kolto, in the galaxy. Controlled by the Rakata during pre-Republic history, it became independent following the collapse of their Infinite Empire. In the years leading up to and during the Jedi Civil War, kolto was so important to the galaxy that the Selkath were able to use their monopoly to enforce their policy of neutrality and autonomy.
+[P][B]Родной мир:[b] Манаан - водная планета в системе Пиршака. На ней обитают селкаты, земноводные. Планета полностью покрыта водой и является единственным известным источником целебной жидкости колто в галактике. В дореспубликанский период планета находилась под контролем Ракат, но после распада Бесконечной империи стала независимой. В годы, предшествовавшие Гражданской войне джедаев и во время нее, колто был настолько важен для галактики, что селкаты смогли использовать свою монополию для проведения политики нейтралитета и автономии.
 
-[P]The only above-surface settlement on Manaan is the floating Ahto City. During the Jedi Civil War, both the Sith Empire and the Galactic Republic attempted to get an upper hand in the war by creating secret deals that would give them more kolto. Ultimately, however, the Selkath banned the Sith from Manaan for trying to overthrow the government.
+[P]Единственное наземное поселение на Манаане - плавучий город Ахто. Во время Гражданской войны джедаев, Империя ситхов и Галактическая Республика пытались одержать верх в войне, заключая тайные сделки, которые позволили бы им получить больше колто. Однако в конце концов Селкат запретил ситхам покидать Манаан за попытку свергнуть правительство.
 
-[P][B]Language:[b] Selkath is the language of the Selkath.</Description>
-  <Source>Unofficial Species Menagerie</Source>
+[P][B]Язык:[b] Селкат - язык селкатов.</Description>
+  <Source>Неофициальный зверинец видов</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -41,14 +41,13 @@ Selkath are the native species of the planet Manaan. An amphibious species, they
   <OptionChoices>
     <OptionChoice>
       <Key>SELKATHCH1</Key>
-      <Name>Skills</Name>
+      <Name>Навыки</Name>
       <Description />
       <Options>
         <Option>
           <Key>SELKATHCH1OP1</Key>
-          <Name>Medicine</Name>
-          <Description>Selkaths may begin the game with
-one free rank in Medicine.</Description>
+          <Name>Медицина</Name>
+          <Description>Селкаты могут начать игру с одним бесплатным рангом "Медицины".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>MED</Key>
@@ -59,9 +58,8 @@ one free rank in Medicine.</Description>
         </Option>
         <Option>
           <Key>SELKATHCH1OP2</Key>
-          <Name>Negotiation</Name>
-          <Description>Selkaths begin the game with
-one free rank in Negotiation.</Description>
+          <Name>Переговоры</Name>
+          <Description>Селкаты могут начать игру с одним бесплатным рангом "Переговоров".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>NEG</Key>
@@ -74,15 +72,13 @@ one free rank in Negotiation.</Description>
     </OptionChoice>
     <OptionChoice>
       <Key>SELKATHCH2</Key>
-      <Name>Swim</Name>
+      <Name>Плаванье</Name>
       <Description />
       <Options>
         <Option>
           <Key>SELKATHCH2OP1</Key>
-          <Name>Amphibious:</Name>
-          <Description>Selkaths may breathe underwater
-without penalty and never suffer movement
-penalties for traveling through water.</Description>
+          <Name>Амфибии</Name>
+          <Description>Селкаты могут дышать под водой без штрафа и никогда не получают штрафов за передвижение по воде.</Description>
         </Option>
       </Options>
     </OptionChoice>

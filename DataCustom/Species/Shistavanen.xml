@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>SHIST</Key>
-  <Name>Shistavanen</Name>
-  <Description>[H4]Shistavanen[h4]
+  <Name>Шиставанен</Name>
+  <Description>[H4]Шиставанен[h4]
 
-The Shistavanens, colloquially nicknamed wolfmen for their lupine appearance, are a biped species from the planets of the Uvena system, such as Uvena Prime and Uvena III.
+Шиставанены, которых в народе прозвали волкодлаками за их люпиновый облик, - двуногие жители планет системы Увена, таких как Увена Прайм и Увена III.
 
-[P][B]Physiology:[b] Like most canine-based species, Shistavanens have pronounced muzzles, sharp claws, long pointed teeth, and pointed ears set on top of their heads. Shistavanens also possess large glowing eyes, and can also run at high speed for long periods without getting tired, alternately using two or four legs. As expected for a species of hunters, they have a keen sense of hearing, keen sense of smell, and excellent night vision.
+[P][B]Физиология:[b] Как и у большинства собачьих видов, у шиставаненов ярко выраженная морда, острые когти, длинные острые зубы и заостренные уши, расположенные на макушке головы. Шиставанены обладают большими светящимися глазами, а также могут бегать на высокой скорости в течение длительного времени, не уставая, попеременно то на двух, то на четырех лапах. Как и полагается охотникам, они обладают острым слухом, острым обонянием и отличным ночным зрением.
 
-[P][B]Society:[b] As a species, the Shistavanens are isolationists. This is evident by the species colonizing all the unpopulated worlds in the Uvena system to prevent them from being settled by non-Shistavanen settlers, their restrictive trade laws (which were unapologetic in how they favored their own kind over off-world traders), and from the fact that they do not mix with non-Shistavanens much. Most of their society uses technology similar to the rest of the galaxy, though some parts of Uvena Prime use slightly less sophisticated technology.
+[P][B]Общество:[b] Как вид, Шиставанены - изоляционисты. Об этом свидетельствуют колонизация всех незаселенных миров в системе Увена с целью предотвращения их заселения нешиставаненскими поселенцами, ограничительные торговые законы (в которых недвусмысленно выражается предпочтение их собственного вида перед торговцами из других миров), а также тот факт, что они мало общаются с нешиставаненцами. Большая часть их общества использует технологии, схожие с остальной галактикой, хотя некоторые части Увена Прайм используют чуть менее сложные технологии.
 
-[P]A minority of Shistavanens are more outgoing, and travel the galaxy's hyperlanes. Even these Shistavanens usually remain by themselves or with other Shistavanens. Due to their natural predatory instincts, keen sense of hearing, excellent eyesight and sharp sense of smell, Shistavanens find common employment as scouts, mercenaries and bounty hunters. Many non-Shistavanens react badly to Shistavanens, since their isolationist culture makes them an unfamiliar sight, and their predatory appearance puts many other species on edge.
+[P]Меньшинство шиставанцев более общительны и путешествуют по гиперпланам галактики. Но даже такие шиставанены обычно держатся поодиночке или с другими шиставаненами. Благодаря своим природным хищническим инстинктам, острому слуху, отличному зрению и острому обонянию, шиставанены часто работают разведчиками, наемниками и охотниками за головами. Многие нешиставанены плохо реагируют на шиставаненов, поскольку их изоляционистская культура делает их нелюдимыми, а их хищный вид заставляет многих представителей других видов насторожиться.
 
-[P][B]Homeworld:[b] Uvena Prime, or Uvena I, is the home planet of the Shistavanens in the Uvena system. The species, capable of hyperspace-level technology, emigrated to other uninhabited worlds of the system, including Uvena III, to prevent strangers from outlying systems from arriving and settling them.
+[P][B]Родной мир:[b] Увена Прайм, или Увена I, - родная планета шиставаненов в системе Увена. Представители этого вида, обладающие технологиями гиперпространственного уровня, эмигрировали на другие необитаемые миры системы, в том числе на Увену III, чтобы предотвратить прибытие и заселение чужаков из дальних систем.
 
-[P][B]Language:[b] Shistavanen is the native language of the Shistavanen species from Uvena Prime. This language is mainly formed by growls and barks.
+[P][B]Язык:[b] Шиставанен - родной язык шиставаненов с Увены Прайм. Этот язык состоит в основном из рычания и лая.
 
-[P]Since the time of the Galactic Empire, most Shistavanen have been fluent in both Shistavanen and Basic, although they are only literate in their own language.</Description>
-  <Source Page="24">Forged in Battle</Source>
+[P]Со времен Галактической империи большинство шиставаненов свободно владеют как шиставаненским, так и бейсиком, хотя грамотны они только на своем родном языке.</Description>
+  <Source Page="24">Дополнение: Закаленные в битве</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -37,24 +37,24 @@ The Shistavanens, colloquially nicknamed wolfmen for their lupine appearance, ar
   <OptionChoices>
     <OptionChoice>
       <Key>SHISTCH1</Key>
-      <Name>Initiative</Name>
+      <Name>Инициатива</Name>
       <Description />
       <Options>
         <Option>
           <Key>SHISTCH1OP1</Key>
-          <Name>Hunter's Instincts</Name>
-          <Description>When making an Initiative check, a Shistavanens may use Survival instead of Vigilance or Cool.</Description>
+          <Name>Охотничьи инстинкты</Name>
+          <Description>При проверке инициативы шиставанен может использовать "Выживание" вместо "Бдительности" или "Хладнокровия".</Description>
         </Option>
       </Options>
     </OptionChoice>
     <OptionChoice>
       <Key>SHISTCH2</Key>
-      <Name>Skills</Name>
+      <Name>Навыки</Name>
       <Options>
         <Option>
           <Key>SHISTCH2OP1</Key>
-          <Name>Brawl</Name>
-          <Description>Shistavanens may begin the game with one rank in Brawl.</Description>
+          <Name>Грубая сила</Name>
+          <Description>Шиставанены могут начать игру с одним рангом "Грубой силы".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>BRAWL</Key>
@@ -64,8 +64,8 @@ The Shistavanens, colloquially nicknamed wolfmen for their lupine appearance, ar
         </Option>
         <Option>
           <Key>SHISTCH2OP2</Key>
-          <Name>Survival</Name>
-          <Description>Shistavanens may begin the game with one rank in Survival.</Description>
+          <Name>Выживание</Name>
+          <Description>Шиставанены могут начать игру с одним рангом "Выживания".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>SURV</Key>

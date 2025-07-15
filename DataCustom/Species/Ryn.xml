@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>RYN</Key>
-  <Name>Ryn</Name>
-  <Description>[H4]Ryn[h4]
+  <Name>Рин</Name>
+  <Description>[H4]Рин[h4]
 
-Their home-world long lost from memory and time, the Ryn are a humanoid race of musicians, vagabonds and travelers.
+Их родной мир давно потерян в памяти и времени, Рин - гуманоидная раса музыкантов, бродяг и путешественников.
 
-[P][B]Physiology:[b] The Ryn's bodies are covered in soft, short fur, with a head of white hair which is matched by a tuft of hair at the end of their long dexterous tails. Very uniquely Ryn in nature, are their beak-like noses that contain fluted holes. These holes allow the Ryn to play their 'beaks' like flutes. This talent has been used to communicated between Ryn and has uniquely been observed in communication with droids.
+[P][B]Физиология:[b] Тело Рина покрыто мягким коротким мехом, а голова - белыми волосами, к которым добавляется хохолок на конце длинного ловкого хвоста. Очень уникальными для Рин являются их клювообразные носы с рифлеными отверстиями. Благодаря этим отверстиям Рины могут играть на своих «клювах», как на флейтах. Этот талант был использован для общения между Ринами, а также был замечен в общении с дроидами.
 
-[P][B]Society:[b] Due to their homelessness, musical talent, natural secrecy, and avoidance of written records, Ryn developed a nomadic culture and a reputation for confidence games, leaving many species prejudiced against them. In some sectors it is legal to enslave or hunt Ryn. Their language is outlawed in many locations, and a large number of Ryn women are used as slave breeding stock.
+[P][B]Общество:[b] Благодаря своей беспризорности, музыкальному таланту, природной скрытности и нежеланию вести письменные записи, Рин создали кочевую культуру и репутацию игр на доверии, из-за чего многие виды относятся к ним с предубеждением. В некоторых секторах порабощение или охота на Ринов является законной. Их язык запрещен во многих местах, а большое количество женщин-ринов используется в качестве племенного скота.
 
-[P]The largest concentration of Ryn is located in the Corporate Sector due to the fact that it is far from those who would persecute them.  The Ryn claim to have invented sabacc, originally as a means of divination. They are a very musical people, being able to play their beaks like flutes. They can even call droids with them, by being able to play pitches very precisely.
+[P]Наибольшая концентрация Рин находится в Корпоративном секторе, так как там они находятся вдали от тех, кто мог бы их преследовать. Рины утверждают, что изобрели сабакк, первоначально как средство гадания. Это очень музыкальный народ, способный играть на своих «клювах» как на флейтах. Они даже могут вызывать дроидов с помощью этих клювов, поскольку способны очень точно воспроизводить тональность.
 
-[P][B]Homeworld:[b] The Ryn homeworld has been lost in time and space.  Not even the Ryn remember where they came from, and most are vagabonds, living throughout the Core Worlds without a home of their own.
+[P][B]Родной мир:[b] Родная планета Рин была потеряна во времени и пространстве. Даже сами рины не помнят, откуда они родом, и большинство из них - бродяги, живущие по всем основным мирам без собственного дома.
 
-[P][B]Language:[b] The Ryn language is the native language of the Ryn species. It uses tones and inflections and is easily described as melodious by anyone who hear it. Since childhood, Ryns are taught both the Ryn language and Basic, to get more easily integrated into the galactic society, although they are usually only literate in their own language.</Description>
-  <Source>Unofficial Species Menagerie</Source>
+[P][B]Язык:[b] Язык Рин - родной язык вида Рин. В нем используются тона и переходы, и все, кто его слышат, легко назовут его мелодичным. С самого детства ринов обучают как ринскому языку, так и бейсику, чтобы легче интегрироваться в галактическое общество, хотя обычно они грамотны только на своем языке.</Description>
+  <Source>Неофициальный зверинец видов</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
@@ -39,14 +39,13 @@ Their home-world long lost from memory and time, the Ryn are a humanoid race of 
   <OptionChoices>
     <OptionChoice>
       <Key>RYNCH1</Key>
-      <Name>Skills</Name>
+      <Name>Навыки</Name>
       <Description />
       <Options>
         <Option>
           <Key>USERSPECIES6CH1OP1</Key>
-          <Name>Deception</Name>
-          <Description>Ryn may begin the game with one
-free rank in Deception.</Description>
+          <Name>Обман</Name>
+          <Description>Рин может начать игру с одним бесплатным рангом "Обмана".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>DECEP</Key>
@@ -56,9 +55,8 @@ free rank in Deception.</Description>
         </Option>
         <Option>
           <Key>RYNCH1OP2</Key>
-          <Name>Streetwise</Name>
-          <Description>Ryn may begin the game with one
-free rank in Streetwise.</Description>
+          <Name>Уличная интуиция</Name>
+          <Description>Рин может начать игру с одним бесплатным рангом "Уличной интуиции".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>SW</Key>
@@ -70,15 +68,13 @@ free rank in Streetwise.</Description>
     </OptionChoice>
     <OptionChoice>
       <Key>RYN6CH2</Key>
-      <Name>Tail</Name>
+      <Name>Хвост</Name>
       <Description />
       <Options>
         <Option>
           <Key>RYNCH2OP1</Key>
-          <Name>Prehensile Tail</Name>
-          <Description>Ryn can use their tails to hold
-and manipulate small items, but cannot use
-that item to make an attack.</Description>
+          <Name>Хищный хвост</Name>
+          <Description>Рин может использовать свой хвост для удержания и манипулирования небольшими предметами, но не может использовать этот предмет для атаки.</Description>
         </Option>
       </Options>
     </OptionChoice>

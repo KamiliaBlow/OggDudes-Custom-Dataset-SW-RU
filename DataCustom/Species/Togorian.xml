@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>TOGORIAN</Key>
-  <Name>Togorian</Name>
-  <Description>[H4]Togorian[h4]
+  <Name>Тогорианцы</Name>
+  <Description>[H4]Тогорианцы[h4]
 
-The Togorian people are a feline warrior species native to the planet Togoria. They are known for their association with the Mandalorians, and the unique cultural divisions between their sexes. Both male and female Togorians are also noted for their strong sense of honor.
+Тогорианцы - кошачий воинственный народ, родом с планеты Тогория. Они известны своей связью с мандалорианцами и уникальными культурными различиями между полами. И мужчины, и женщины тогорианцев также отличаются сильным чувством чести.
 
-[P][B]Physiology:[b] As a species, they are large bipeds, with retractable claws on their hands and feet. Female Togorians are up to 2.2 meters tall, while adult males ranged up to 3.0 meters. They are covered in gray-white to black fur, often with more colorful spots or stripes. They have extremely dense bone tissue, allowing them to endure greater physical trauma than beings with similar physiques.
+[P][B]Физиология:[b] Как вид, это крупные двуногие, с втягивающимися когтями на руках и ногах. Самки тогорианцев достигают 2,2 метра в высоту, а взрослые самцы - 3,0 метра. Они покрыты серо-белым или черным мехом, часто с более яркими пятнами или полосами. У них чрезвычайно плотная костная ткань, что позволяет им переносить более сильные физические травмы, чем существа с аналогичным телосложением.
 
-[P][B]Society:[b] Togorians evolved as nomadic hunters of creatures like the bist and etelo. In turn, flying reptiles called liphons preyed upon the Togorians. Primitive Togorians noticed that slightly smaller flying reptiles, mosgoths, were also targeted by liphons who attacked their nests and stole their eggs. Togorians began camping near the mosgoths for mutual protection, eventually domesticating them as mounts. Soon, a rift in their society developed—while males wanted to continue their lifestyle as nomads, females wanted the comfort and safety of permanent camps. In other species, the conflict would have led to one lifestyle winning over the other, but both male and female Togorians are too stubborn.
+[P][B]Общество:[b] Тогорианцы развивались как кочевые охотники на таких существ, как бист и этело. В свою очередь, летающие рептилии, называемые липхонами, охотились на тогорианцев. Примитивные тогорийцы заметили, что летающие рептилии чуть меньшего размера, мосготы, также подвергались нападению лифонов, которые нападали на их гнезда и похищали яйца. Тогорианцы стали разбивать лагеря рядом с мосготами для взаимной защиты и в конце концов приручили их в качестве маунтов. Вскоре в их обществе произошел раскол: в то время как самцы хотели продолжать кочевой образ жизни, самки стремились к комфорту и безопасности постоянных лагерей. У других видов этот конфликт привел бы к победе одного образа жизни над другим, но тогорийцы - и мужчины, и женщины - слишком упрямы.
 
-[P]Eventually, the males continued their nomadic ways, riding their mosgoths and hunting, and competing in contests of prowess. Meanwhile, the females stayed in villages with pre-pubescent children, with those communes eventually growing into cities. While the males continued to hunt in the wilderness, the females tended domesticated herds and developed technology. Males would visit their mates for about a month each year, but the sexes lived completely separate lives otherwise. Whether in spite of the separation of the sexes, or because of it, Togorians are monogamous, and devoted to their chosen mates.
+[P]В конце концов самцы продолжили кочевой образ жизни, ездили на своих мосготах, охотились и участвовали в состязаниях в мастерстве. Тем временем самки оставались в деревнях с детьми, которые со временем превратились в города. В то время как самцы продолжали охотиться в дикой местности, самки ухаживали за одомашненными стадами и развивали технологии. Самцы навещали своих товарищей примерно на месяц каждый год, но в остальном представители обоих полов вели совершенно раздельную жизнь. Несмотря на разделение полов или благодаря ему, тогорианцы моногамны и преданы своим избранникам.
 
-[P][B]Homeworld:[b] Togoria is a planet in the Mid Rim and the homeworld of the Togorians.
+[P][B]Родной мир:[b] Тогория - это планета в Срединном Регионе и родной мир тогорианцев.
 
-[P][B]Language:[b] Togorian is the native language of the Togorian species from Togoria. It is a harsh-sounding language. Most Togorians are fluent in both Togorian language and Basic, although they are only literate in their own language.</Description>
-  <Source>Unofficial Species Menagerie</Source>
+[P][B]Язык:[b] Тогорианский - родной язык тогорианцев с Тогории. Это язык с резким звучанием. Большинство тогорианцев свободно владеют как тойгорианским языком, так и основным, хотя грамотны только на своем языке.</Description>
+  <Source>Неофициальный зверинец видов</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>3</Brawn>
@@ -43,16 +43,13 @@ The Togorian people are a feline warrior species native to the planet Togoria. T
   <OptionChoices>
     <OptionChoice>
       <Key>TOGORIANCH1</Key>
-      <Name>Claws</Name>
+      <Name>Когти</Name>
       <Description />
       <Options>
         <Option>
           <Key>TOGORIANCH1OP1</Key>
-          <Name>May use claws when brawling</Name>
-          <Description>When a Togorian makes a Brawl check
-to deal damage to an opponent, their attack
-deals +1 point of damage and has a Crit Rating
-of 3.</Description>
+          <Name>Может использовать когти в драке</Name>
+          <Description>Когда Тогорианец делает проверку на "Грубую силу", чтобы нанести урон противнику, его атака наносит +1 очко урона и имеет крит-рейтинг 3.</Description>
         </Option>
       </Options>
     </OptionChoice>

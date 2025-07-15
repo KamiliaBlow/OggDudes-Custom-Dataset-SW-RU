@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>TWI</Key>
-  <Name>Twi'lek</Name>
+  <Name>Тви'лек</Name>
   <Description>
-    [H4]Twi'leks[h4]
+    [H4]Тви'леки[h4]
 
-The Twi'leks are among the most prominent non-human species in the galaxy. They are expert bargainers, sly at reading other species and using cunning to get what they want.
+Тви'леки - один из самых выдающихся нечеловеческих видов в галактике. Они - искусные торговцы, умеющие читать других людей и использовать хитрость, чтобы получить желаемое.
 
-[P][B]Physiology:[b] Twi'leks possess two prehensile tentacles, their tchun-tchin, or lekku, that project from the back of their heads. These "head-tails" serve as a second tongue by which they can communicate through signs and gestures. The rainbow of flesh tones found among the Twi'leks are indicators of clan and region of ancestry.
+[P][B]Физиология:[b] У тви'леков есть два вытянутых щупальца - тчун-тчин, или лекку, которые выступают из затылка. Эти «хвосты» служат вторым языком, с помощью которого они могут общаться с помощью знаков и жестов. Радуга телесных оттенков, встречающихся среди тви'леков, является индикатором клана и региона происхождения.
 
-[P][B]Society:[b] Family is everything in Twi'lek society. The government on Ryloth is an alliance of "head clans," each of which control a small town or larger districts in the city. A family's five most important Twileks lead their respected head-clans, with the power of influence radiating down the bloodline. According to tradition, when one leader of the head clan dies, the four remaining members must take exile in the sun-baked Bright Lands where the vicious lyleks roam. In practice, however, clan leaders find new and cunning ways to subvert exile.
+[P][B]Общество:[b] Семья - это все в обществе тви'леков. Правительство на Рилоте представляет собой союз «главных кланов», каждый из которых контролирует небольшой город или более крупные районы в городе. Пять самых значимых тви'леков возглавляют свои уважаемые кланы, а сила влияния передается по наследству. По традиции, когда один из лидеров клана умирает, четверо оставшихся членов должны отправиться в изгнание в выжженные солнцем Светлые земли, где бродят злобные лайлеки. Однако на практике лидеры кланов находят все новые и новые хитроумные способы избежать изгнания.
 
-[P]The clan system has stratified Twi'lek society into castes. Twi'leks at the bottom of a bloodline are considered of the low birth caste and used as chattel in the slave trade. Twi'lek leaders exhibit disgust at any accusation of slavery and deny that they would ever put their own people in bondage, shifting the blame to other clans. Nonetheless, nearly every clan engages in "contracted indenturehood ."
+[P]Клановая система расслоила общество тви'леков на касты. Тви'леки, находящиеся в нижней части кровной линии, считаются низшей родовой кастой и используются в работорговле как рабский скот. Лидеры тви'леков с отвращением относятся к любым обвинениям в рабстве и отрицают, что когда-либо отдавали свой народ в рабство, перекладывая вину на другие кланы. Тем не менее, почти каждый клан занимается «контрактным рабством».
 
-[P][B]Homeworld:[b] Though their home planet of Ryloth is located in the Outer Rim, Twi'leks can be found on many worlds throughout the galaxy, due to their enterprising nature and the effects of slavery.
+[P][B]Родной мир:[b] Хотя их родная планета Рилот находится во Внешнем кольце, тви'леков можно встретить во многих мирах галактики благодаря их предприимчивой натуре и последствиям рабства.
 
-[P][B]Language:[b] Ryl is the native tongue of Ryloth, yet there are few Twi'leks who cannot speak Basic fluently. What separates Twi'leks from other species is their second, nonverbal language called Lekku, or "Twi'leki." In everyday conversation, Twi'leks add texture and emphasis to their speech by moving and twitching their head-tails. If privacy is necessary, Twi'leks can converse in complete silence, using only the gestures of their head-tails to pass on complicated information. </Description>
+[P][B]Язык:[b] Родной язык Рилота - рил, но мало кто из тви'леков не может свободно говорить на бейсике. От других видов тви'леков отличает их второй, невербальный язык, называемый лекку, или «тви'леки». В повседневном разговоре тви'леки придают своей речи текстуру и акцент, двигая и подергивая хвостом. Если необходимо уединиться, тви'леки могут разговаривать в полной тишине, используя только жесты хвостов для передачи сложной информации.</Description>
   <Sources>
-    <Source Page="51">Edge of the Empire Core Rulebook</Source>
-    <Source Page="61">Force and Destiny Core Rulebook</Source>
+    <Source Page="51">Книга правил: Край Империи</Source>
+    <Source Page="61">Книга правил: Сила и судьба</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <StartingChars>
@@ -37,12 +37,12 @@ The Twi'leks are among the most prominent non-human species in the galaxy. They 
   <OptionChoices>
     <OptionChoice>
       <Key>TWIABSK</Key>
-      <Name>Skills</Name>
+      <Name>Навыки</Name>
       <Options>
         <Option>
           <Key>TWISKCH</Key>
-          <Name>Charm</Name>
-          <Description>Twi'leks may begin the game with one rank in Charm.</Description>
+          <Name>Обаяние</Name>
+          <Description>Тви'леки могут начать игру с одним рангом "Обаяния".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>CHARM</Key>
@@ -52,8 +52,8 @@ The Twi'leks are among the most prominent non-human species in the galaxy. They 
         </Option>
         <Option>
           <Key>TWISKDEC</Key>
-          <Name>Deception</Name>
-          <Description>Twi'leks may begin the game with one rank in Deception.</Description>
+          <Name>Обман</Name>
+          <Description>Тви'леки могут начать игру с одним рангом "Обмана".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>DECEP</Key>
@@ -65,14 +65,12 @@ The Twi'leks are among the most prominent non-human species in the galaxy. They 
     </OptionChoice>
     <OptionChoice>
       <Key>TWIENV</Key>
-      <Name>Environmental</Name>
+      <Name>Окр. Среда</Name>
       <Options>
         <Option>
           <Key>TWIENVHOT</Key>
-          <Name>Arid/Hot Environments</Name>
-          <Description>
-            When making skill checks, Twi'leks may remove [SETBACK] imposed due to arid or hot environmental conditions.
-          </Description>
+          <Name>Засушливая/жаркая среда</Name>
+          <Description>При проверке навыков Тви'леки могут убрать [SETBACK], наложенный из-за засушливых или жарких условий окружающей среды.</Description>
         </Option>
       </Options>
     </OptionChoice>

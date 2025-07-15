@@ -1,19 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>POLISMASSAN</Key>
-  <Name>Polis Massan</Name>
-  <Description>[H4]Polis Massan[h4]
-Originally hailing from the Outer Rim world of Kal-lidah, the Kallidahin are more often referred to as Polis Massans. They are best known for their vast and intricate archaeological digs in the asteroid field that shares their adopted name. The Polis Massan people have searched for centuries, looking for a link between themselves and an enigmatic species—now extinct—called the Eellayin. Peaceful and isolationist, Polis Massans are experts in the fields of archaeology, medicine, and xenobiology.
-[P][B]Physiology:[b] Polis Massans are a small-bodied species standing an average of 1.4 meters tall. They are descended from a cetacean ancestor, as evidenced by smooth, gray skin covering a thin layer of insulating blubber. With the exception of a pair of expressionless black eyes, Polis Massans possess no facial features at all. Despite this, they are incredibly communicative in their use of gestures, signs, and body language. Though the majority of Polis Massans lack vocal chords, they are able to communicate with others using a simple form of telepathy.
-[P][B]Society:[b] Polis Massan society is based on community, the desire for fulfilling work, and a deep hunger for knowledge. Though they lack a shared consciousness, Polis Massans see their species as a collective in which everyone is supportive of one another and each
-member serves an important role. As such, every Polis Massan views his fellows as siblings. Though there are invariably differences of opinion between individuals, they attempt to bridge these gaps by using their shared ancestry as common ground.
-[P]Polis Massans are kind and pacifistic to a fault. While fully capable of defending themselves, they seldom take up arms due to their belief that all life is sacred. Aggression is not in their nature, and anger and hatred are foreign concepts to them. This often leads to their being taken advantage of, since they rarely, if ever, put up any sort of struggle when their interests are threatened.
-[P]The overwhelming focus of the Polis Massan people is their attempt to find some link between themselves and the Eellayin. They view the Eellayin as kin, however distant, who were lost to some unknowable apocalypse. They seek to keep the memory and works of this mysterious species alive through their own research, even going so far as to attempt to clone them from Eellayin genetic material discovered in their explorations of the asteroids’ depths.
-[P][B]Homeworld:[b] The Polis Massans are originally from Kallidah, a moist and temperate world in the Subterrel sector. Soon after establishing a base on Polis Massa in an attempt to research the Eellayin people, the entire species relocated to the barren asteroid in order to support the excavations there. Though Kallidah is relatively close to Polis Massa, the Polis Massans have found no reason to return to their original homeworld.
-[P]Polis Massa is the largest asteroid in the Polis Massa Asteroid Field. The field is composed of countless fragments of the Eellayin homeworld, which was destroyed by some kind of cataclysm long ago. Though the asteroid is airless and incapable of supporting life, the Polis Massans have established a number of outposts where they can live and perform their research in peace.
-[P][B]Language:[b] The native language of the Polis Massan species is known as Massan. Because few Polis Massans possess vocal chords, the language is a combination of elaborate signs, body language, and telepathy. Though they are able to learn the languages of other species, the average Polis Massan lacks the organs required to actually speak them. A rare few Polis Massans do possess vocal chords, however, and many such individuals have proven to be skilled linguists.
-[P][B]Life in the Rebellion:[b] While Polis Massans have long supported the Rebel Alliance indirectly, it is a rare individual who actively seeks to fight against the Empire in a more direct capacity. When a Polis Massan does join the Rebellion, it is often in the role of a doctor, medic, or other healer. Polis Massan scholars have also been known to join the Alliance for a chance to see other parts of the galaxy for themselves and to meet members of other alien species first hand.</Description>
-  <Source Page="98">Strongholds of Resistance</Source>
+  <Name>Каллидахинцы</Name>
+  <Description>[H4]Каллидахинцы[h4]
+Родом из мира Внешнего кольца Каллида, каллидахинцы чаще всего называются полис-массанами. Они наиболее известны своими обширными и сложными археологическими раскопками в астероидном поле, носящем их имя. Народ Полис-Массан веками искал связь между собой и загадочным видом - ныне вымершим - под названием Иллайин. Миролюбивые и изоляционистские, Полис-Массанцы являются экспертами в области археологии, медицины и ксенобиологии.
+[P][B]Физиология:[b] Полис-Массан - это малорослый вид, рост которой составляет в среднем 1,4 метра. Они произошли от китообразного предка, о чем свидетельствует гладкая серая кожа, покрытая тонким слоем изоляционной подкожной жижи. За исключением пары невыразительных черных глаз, Полис-Массаны вообще не имеют черт лица. Несмотря на это, они невероятно коммуникабельны, используя жесты, знаки и язык тела. Хотя у большинства Полис-Массанов отсутствуют голосовые связки, они способны общаться с другими, используя простую форму телепатии.
+[P][B]Общество:[b] Общество Полис-Массанцев основано на общине, стремлении к полноценной работе и глубокой жажде знаний. Хотя у них нет общего сознания, Полис-Массанцы воспринимают свой вид как коллектив, в котором все поддерживают друг друга и каждый член которого играет важную роль. Поэтому каждый Полис-Массанец воспринимает своих собратьев как братьев и сестер. Хотя между людьми неизменно возникают разногласия, они пытаются преодолеть их, используя общее происхождение.
+[P]Жители Полис-Массана добры и пацифисты до мозга костей. Хотя они вполне способны защитить себя, они редко берут в руки оружие из-за своей веры в то, что вся жизнь священна. Агрессия не в их характере, а гнев и ненависть - чуждые им понятия. Это часто приводит к тому, что ими пользуются, поскольку они редко, если вообще когда-либо, оказывают сопротивление, когда их интересы оказываются под угрозой.
+[P]В центре внимания жителей Полис-Массана - попытка найти хоть какую-то связь между собой и Иллайин. Они рассматривают Иллайинов как родственников, пусть и далеких, которые были потеряны в результате какого-то непостижимого апокалипсиса. Они стремятся сохранить память и труды этого загадочного вида, проводя собственные исследования и даже пытаясь клонировать их из генетического материала Иллайинов, обнаруженного во время исследований глубин астероидов.
+[P][B]Родной мир:[b] Полис-Массаны родом с Каллиды, влажного и умеренного мира в секторе Субтеррел. Вскоре после основания базы на Полис-Масса в попытке исследовать народ Иллайин, весь вид переселился на бесплодный астероид, чтобы поддерживать проводимые там раскопки. Хотя Каллида находится сравнительно недалеко от Полис-Масса, Полис-Массанцы не нашли причин возвращаться на свою родную планету.
+[P]Полис-Масса - самый крупный астероид в астероидном поле Полис-Масса. Поле состоит из бесчисленных осколков родной планеты Иллайин, которая давным-давно была уничтожена каким-то катаклизмом. Хотя астероид безвоздушен и не способен поддерживать жизнь, Полис-Массанцы создали здесь несколько аванпостов, где они могут спокойно жить и проводить исследования.
+[P][B]Язык:[b] Родной язык вида Полис-Массан известен как Массан. Поскольку лишь немногие Полис-Массанцы обладают голосовыми связками, их язык представляет собой сочетание сложных знаков, языка тела и телепатии. Хотя они способны изучать языки других видов, средний Полис-Массанец не имеет органов, необходимых для того, чтобы говорить на них. Однако редкие Полис-Массанцы обладают голосовыми связками, и многие из них проявили себя как искусные лингвисты.
+[P][B]Жизнь в Альянсе:[b] Хотя Полис-Массанцы уже давно поддерживают Альянс повстанцев, косвенно, редко кто активно стремится сражаться против Империи в более прямом столкновении. Если Полис-Массанец и присоединяется к Восстанию, то чаще всего в роли врача, медика или другого целителя. Известны случаи, когда ученые Полис-Массана присоединялись к Альянсу ради возможности увидеть другие части галактики своими глазами и познакомиться с представителями других инопланетных видов.</Description>
+  <Source Page="98">Дополнение: Оплоты сопротивления</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>1</Brawn>
@@ -66,7 +65,7 @@ member serves an important role. As such, every Polis Massan views his fellows a
   <OptionChoices>
     <OptionChoice>
       <Key>POLISMASSANCH1</Key>
-      <Name>Vocal Chords</Name>
+      <Name>Голосовые связки</Name>
       <Description />
       <Source />
       <Sources />
@@ -74,17 +73,13 @@ member serves an important role. As such, every Polis Massan views his fellows a
       <Options>
         <Option>
           <Key>POLISMASSANCH1OP1</Key>
-          <Name>No Vocal Chords</Name>
-          <Description>
-            A vast majority of Polis Massans are born without vocal chords.
-          </Description>
+          <Name>Нет связок</Name>
+          <Description>Подавляющее большинство Полис-Массанцев рождаются без голосовых связок.</Description>
         </Option>
         <Option>
           <Key>POLISMASSANCH1OP2</Key>
-          <Name>Posesses Vocal Chords</Name>
-          <Description>
-            A small minority of Polis Massans do possess vocal chords.  Referred to as "speakers" by their people, these rare individuals can physically speak languages, though their voices are soft and strangely resonant.
-          </Description>
+          <Name>Поющие связки</Name>
+          <Description>У небольшого меньшинства жителей Полис-Массана есть голосовые связки. Эти редкие представители, которых в народе называют «говорящими», физически могут говорить на языках, хотя их голоса мягкие и странно резонирующие.</Description>
           <StartingAttributes>
             <Experience>-10</Experience>
           </StartingAttributes>
@@ -93,12 +88,12 @@ member serves an important role. As such, every Polis Massan views his fellows a
     </OptionChoice>
     <OptionChoice>
       <Key>POLISMASSANCH2</Key>
-      <Name>Communication</Name>
+      <Name>Коммуникация</Name>
       <Options>
         <Option>
           <Key>POLISMASSANCH2OP1</Key>
-          <Name>Telepathy</Name>
-          <Description>Polis Massans can communicate with other beings using a simple form of telepathy.  At short range, this is akin to a broadcast, and any being will "hear" what the Polis Massan says.  They can "whisper" to individuals at engaged range.</Description>
+          <Name>Телепатия</Name>
+          <Description>Полис-Масаны могут общаться с другими существами, используя простую форму телепатии. На небольшом расстоянии это похоже на радиопередачу, и любое существо «услышит», что говорит Полис-Массан. На дальних расстояниях они могут говорить «шепотом».</Description>
         </Option>
       </Options>
     </OptionChoice>

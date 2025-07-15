@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>ROD</Key>
-  <Name>Rodian</Name>
+  <Name>Родианец</Name>
   <Description>
-    [H4]Rodians[h4]
+    [H4]Родианцы[h4]
 
-Rodians are born to hunt, coming from a hostile world that breeds killer instincts. For those with a price on their heads, a glimpse of a tapered green snout or an unmistakably putrid odor means a Rodian bounty hunter is on their tail.
+Родианцы рождены для охоты, они родом из враждебного мира, который воспитывает в них инстинкты убийц. Для тех, кто готов заплатить за свою голову, один лишь взгляд на коническое зеленое рыло или безошибочный запах гнили означает, что родианский охотник за головами у них на хвосте.
 
-[P][B]Physiology:[b] Rodians evolved from climbing lizards and retain some of their ancestor's characteristics, particularly the large eyes and climbing suction cups on their fingers and toes. Nowadays, these physical features cannot hold an adult Rodian of 1.6 meters to a rock or tree for very long, but they have saved many Rodians from falls that would kill most other species.
+[P][B]Физиология:[b] Родианцы произошли от лазающих ящериц и сохранили некоторые черты своих предков, в частности большие глаза и лазательные присоски на пальцах рук и ног. Сегодня эти физические особенности не могут долго удерживать взрослого родианца ростом 1,6 метра на скале или дереве, но они спасли многих родианцев от падений, которые убили бы большинство других видов.
 
-[P][B]Society:[b] The history of Rodia is a history of violence. Long ago, the tropical world teemed with vicious predators, necessitating that the Rodians' defenseless ancestors either adapt or die. Adapt they did, hiding in the boughs of trees or climbing high into mountain caves, where they fashioned tools and formulated plans to hunt down the predators. Their skills in the hunt grew quickly, and soon became the central focus of their society.
+[P][B]Общество:[b] История Родии - это история насилия. Давным-давно тропический мир кишил злобными хищниками, и беззащитным предкам родианцев пришлось либо приспосабливаться, либо умирать. Они приспосабливались, прячась в ветвях деревьев или забираясь высоко в горные пещеры, где изготавливали орудия труда и разрабатывали планы охоты на хищников. Их мастерство в охоте быстро росло и вскоре стало центральным элементом их общества.
 
-[P]Rodians became so proficient at hunting that they gradually forced most of Rodia's other predators into extinction. With nothing much left to hunt, they turned on each other. Gladiatorial hunts between champions morphed into skirmishes and eventually tribal wars.
+[P]Родианцы стали настолько искусны в охоте, что постепенно вытеснили большинство других хищников Родии. Когда охотиться стало не на кого, они ополчились друг на друга. Гладиаторские охоты между чемпионами переросли в стычки и, в конце концов, в племенные войны.
 
-[P]Rodia was almost blockaded when first discovered by Old Republic scouts due to the warlike Rodian culture. However, Rodian leadership was able to suppress their culture's violent tendencies long enough to make contact with the rest of the galaxy. Now, millennia later, Rodian culture has moved beyond the worst of its violent impulses; although, hunting is still a venerated tradition.
+[P]Родия была почти блокирована, когда ее впервые обнаружили разведчики Старой Республики, из-за воинственной культуры родианцев. Однако руководство Родии смогло подавить агрессивные наклонности своей культуры достаточно долго, чтобы установить контакт с остальной частью галактики. Сейчас, спустя тысячелетия, культура родианцев преодолела худшие из своих жестоких порывов, хотя охота по-прежнему остается почитаемой традицией.
 
-[P][B]Homeworld:[b] The world of Rodia in the Mid Rim is the Rodians' planet of origin. It merges urban and industrial development with tracts of untouched rainforest, providing brave Rodian youths with environments in which to test their hunting skills.
+[P][B]Родной мир:[b] Мир Родия, расположенный в Среднем кольце, - родная планета родианцев. Здесь сочетаются городское и промышленное развитие с нетронутыми тропическими лесами, что позволяет отважным родианским юношам проверить свои охотничьи навыки.
 
-[P][B]Language:[b] Because of the structure of their mouths, Rodians have a difficult time speaking Basic and some choose not to even try, relying exclusively on their native tongue, Rodese.</Description>
-  <Source Page="49">Edge of the Empire Core Rulebook</Source>
+[P][B]Язык:[b] Из-за строения рта родианцам трудно говорить на бейсике, а некоторые предпочитают даже не пытаться, полагаясь исключительно на свой родной язык, Родезе.</Description>
+  <Source Page="49">Книга правил: Край Империи</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>2</Brawn>
