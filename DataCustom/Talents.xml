@@ -5348,7 +5348,7 @@
     <Name>Сообразительный</Name>
     <Description>Персонаж добавляет [BO] к проверкам "Обаяния" и "Переговоров" за каждый ранг "Сообразительный".</Description>
     <Source Page="43">Дополнение: Падение Ресублики</Source>
-    <Custom>DescOnly</Custom>
+    <Custom>AddedItem</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
     <DieModifiers>
