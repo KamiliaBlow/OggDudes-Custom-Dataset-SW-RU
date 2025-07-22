@@ -122,7 +122,7 @@
   <Talent>
     <Key>ANAT</Key>
     <Name>Знание анатомии</Name>
-    <Description>После успешной атаки можно потратить 1 очко Судьбы, чтобы добавить урон, равный "Интеллекту", к одному попаданию.</Description>
+    <Description>После успешной атаки можно потратить 1 очко "Судьбы", чтобы добавить урон, равный "Интеллекту", к одному попаданию.</Description>
     <Sources>
       <Source Page="132">Книга правил: Край Империи</Source>
       <Source Page="142">Книга правил: Эпоха восстания</Source>
@@ -244,7 +244,7 @@
   <Talent>
     <Key>ATARU</Key>
     <Name>Техника Атару</Name>
-    <Description>При выполнении проверки с использованием навыка владения "световым мечом" персонаж может использовать "Ловкость" вместо "Силы (Brawn)".</Description>
+    <Description>При выполнении проверки с использованием навыка владения "световым мечом" персонаж может использовать "Ловкость" вместо "Телосложения".</Description>
     <Source Page="139">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -407,7 +407,7 @@
   <Talent>
     <Key>BEGLUCK</Key>
     <Name>Удача новичка</Name>
-    <Description>Один раз за сессию, когда персонаж делает проверку, он может добавить к результату [SU], равное количеству очков Судьбы светлой стороны в пуле Судьбы.</Description>
+    <Description>Один раз за сессию, когда персонаж делает проверку, он может добавить к результату [SU], равное количеству очков "Судьбы" светлой стороны в пуле Судьбы.</Description>
     <Sources>
       <Source Page="37">Дополнение: Восстание сепаратистов</Source>
     </Sources>
@@ -443,7 +443,7 @@
   <Talent>
     <Key>BLACKMAIL</Key>
     <Name>Шантаж</Name>
-    <Description>Когда NPC превысит порог "усталости", можно потратить 1 очко Судьбы, чтобы убедить этого NPC выполнить одно задание по выбору.</Description>
+    <Description>Когда NPC превысит порог "усталости", можно потратить 1 очко "Судьбы", чтобы убедить этого NPC выполнить одно задание по выбору.</Description>
     <Source Page="32">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
@@ -608,7 +608,7 @@
   <Talent>
     <Key>BRNGITDWN</Key>
     <Name>Сравнять силу</Name>
-    <Description>Один раз за атаку потратьте 1 очко Судьбы, чтобы добавить урон к одному удару, равный "Cиле (Brawn)" цели.</Description>
+    <Description>Один раз за атаку потратьте 1 очко "Судьбы", чтобы добавить урон к одному удару, равный "Телосложению" цели.</Description>
     <Source Page="30">Дополнение: Шаг в неизвестность</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
@@ -695,7 +695,7 @@
   <Talent>
     <Key>CAREPLAN</Key>
     <Name>Тщательное планирование</Name>
-    <Description>Один раз за сессию можно ввести в повествование "факт", как если бы было потрачено очко Судьбы.</Description>
+    <Description>Один раз за сессию можно ввести в повествование "факт", как если бы было потрачено очко "Судьбы".</Description>
     <Sources>
       <Source Page="144">Книга правил: Эпоха восстания</Source>
       <Source Page="38">Дополнение: Восстание сепаратистов</Source>
@@ -2564,7 +2564,7 @@
   <Talent>
     <Key>HERO</Key>
     <Name>Героическая стойкость</Name>
-    <Description>Можно потратить 1 очко "Судьбы", чтобы игнорировать эффекты критических травм при проверке "Силы (Brawn)" или "Ловкости" до конца боя.</Description>
+    <Description>Можно потратить 1 очко "Судьбы", чтобы игнорировать эффекты критических травм при проверке "Телосложения" или "Ловкости" до конца боя.</Description>
     <Sources>
       <Source Page="137">Книга правил: Край Империи</Source>
       <Source Page="148">Книга правил: Эпоха восстания</Source>
@@ -3175,7 +3175,7 @@
   <Talent>
     <Key>INVIG</Key>
     <Name>Взбодрить</Name>
-    <Description>Один раз за бой можно добавить [FO] к проверке на "Силу (Brawn)" или" Ловкость", сделанной союзником на короткой дистанции [LI] добавляет [SU] и [DA] добавляет [TH].</Description>
+    <Description>Один раз за бой можно добавить [FO] к проверке на "Телосложение" или" Ловкость", сделанной союзником на короткой дистанции [LI] добавляет [SU] и [DA] добавляет [TH].</Description>
     <Source Page="150">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
@@ -3630,7 +3630,7 @@
   <Talent>
     <Key>MAKTECH</Key>
     <Name>Техника Макаши</Name>
-    <Description>При проверке навыка "Световой меч" персонаж может использовать "Харизму" вместо "Силы (Brawn)".</Description>
+    <Description>При проверке навыка "Световой меч" персонаж может использовать "Харизму" вместо "Телосложения".</Description>
     <Source Page="146">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -4246,7 +4246,7 @@
   <Talent>
     <Key>NIMTECH</Key>
     <Name>Техника Ниман</Name>
-    <Description>Когда персонаж проверяет навык владения "световым мечом", можно использовать "Волю" вместо "Силы (Brawn)".</Description>
+    <Description>Когда персонаж проверяет навык владения "световым мечом", можно использовать "Волю" вместо "Телосложения".</Description>
     <Source Page="148">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -5587,7 +5587,7 @@
   <Talent>
     <Key>SHIENTECH</Key>
     <Name>Техника Шиен</Name>
-    <Description>При проверке навыка владения "световым мечом" можно сделать проверку через "Смекалку", а не "Силу (Brawn)".</Description>
+    <Description>При проверке навыка владения "световым мечом" можно сделать проверку через "Смекалку", а не "Телосложение".</Description>
     <Source Page="151">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -5894,7 +5894,7 @@
   <Talent>
     <Key>SORESUTECH</Key>
     <Name>Техника Соресу</Name>
-    <Description>При проверке навыка владения "Световым мечом" персонаж может использовать "Интеллект" вместо "Силы (Brawn)".</Description>
+    <Description>При проверке навыка владения "Световым мечом" персонаж может использовать "Интеллект" вместо "Телосложения".</Description>
     <Source Page="152">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>

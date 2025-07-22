@@ -615,7 +615,7 @@
   <SigAbilityNode>
     <Key>INVENTIVECREATIONDESTINY</Key>
     <Name>Судьба</Name>
-    <Description>"Изобретательное творчество" стоит 1 очко Судьбы вместо 2.</Description>
+    <Description>"Изобретательное творчество" стоит 1 очко "Судьбы" вместо 2.</Description>
     <Source Page="39">Дополнение: Особые модификации</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Inventive Creation</SigAbility>
