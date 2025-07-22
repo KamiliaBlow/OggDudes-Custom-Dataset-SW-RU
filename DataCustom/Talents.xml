@@ -244,7 +244,7 @@
   <Talent>
     <Key>ATARU</Key>
     <Name>Техника Атару</Name>
-    <Description>При выполнении проверки с использованием навыка владения "световым мечом" персонаж может использовать "Ловкость" вместо "Силы (Brawl)".</Description>
+    <Description>При выполнении проверки с использованием навыка владения "световым мечом" персонаж может использовать "Ловкость" вместо "Силы (Brawn)".</Description>
     <Source Page="139">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -608,7 +608,7 @@
   <Talent>
     <Key>BRNGITDWN</Key>
     <Name>Сравнять силу</Name>
-    <Description>Один раз за атаку потратьте 1 очко Судьбы, чтобы добавить урон к одному удару, равный "Cиле (Brawl)" цели.</Description>
+    <Description>Один раз за атаку потратьте 1 очко Судьбы, чтобы добавить урон к одному удару, равный "Cиле (Brawn)" цели.</Description>
     <Source Page="30">Дополнение: Шаг в неизвестность</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
@@ -2564,7 +2564,7 @@
   <Talent>
     <Key>HERO</Key>
     <Name>Героическая стойкость</Name>
-    <Description>Можно потратить 1 очко "Судьбы", чтобы игнорировать эффекты критических травм при проверке "Силы (Brawl)" или "Ловкости" до конца боя.</Description>
+    <Description>Можно потратить 1 очко "Судьбы", чтобы игнорировать эффекты критических травм при проверке "Силы (Brawn)" или "Ловкости" до конца боя.</Description>
     <Sources>
       <Source Page="137">Книга правил: Край Империи</Source>
       <Source Page="148">Книга правил: Эпоха восстания</Source>
@@ -3175,7 +3175,7 @@
   <Talent>
     <Key>INVIG</Key>
     <Name>Взбодрить</Name>
-    <Description>Один раз за бой можно добавить [FO] к проверке на "Силу (Brawl)" или" Ловкость", сделанной союзником на короткой дистанции [LI] добавляет [SU] и [DA] добавляет [TH].</Description>
+    <Description>Один раз за бой можно добавить [FO] к проверке на "Силу (Brawn)" или" Ловкость", сделанной союзником на короткой дистанции [LI] добавляет [SU] и [DA] добавляет [TH].</Description>
     <Source Page="150">Книга правил: Эпоха восстания</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
@@ -3630,7 +3630,7 @@
   <Talent>
     <Key>MAKTECH</Key>
     <Name>Техника Макаши</Name>
-    <Description>При проверке навыка "Световой меч" персонаж может использовать "Харизму" вместо "Силы (Brawl)".</Description>
+    <Description>При проверке навыка "Световой меч" персонаж может использовать "Харизму" вместо "Силы (Brawn)".</Description>
     <Source Page="146">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -4246,7 +4246,7 @@
   <Talent>
     <Key>NIMTECH</Key>
     <Name>Техника Ниман</Name>
-    <Description>Когда персонаж проверяет навык владения "световым мечом", можно использовать "Волю" вместо "Силы (Brawl)".</Description>
+    <Description>Когда персонаж проверяет навык владения "световым мечом", можно использовать "Волю" вместо "Силы (Brawn)".</Description>
     <Source Page="148">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -5587,7 +5587,7 @@
   <Talent>
     <Key>SHIENTECH</Key>
     <Name>Техника Шиен</Name>
-    <Description>При проверке навыка владения "световым мечом" можно сделать проверку через "Смекалку", а не "Силу (Brawl)".</Description>
+    <Description>При проверке навыка владения "световым мечом" можно сделать проверку через "Смекалку", а не "Силу (Brawn)".</Description>
     <Source Page="151">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -5894,7 +5894,7 @@
   <Talent>
     <Key>SORESUTECH</Key>
     <Name>Техника Соресу</Name>
-    <Description>При проверке навыка владения "Световым мечом" персонаж может использовать "Интеллект" вместо "Силы (Brawl)".</Description>
+    <Description>При проверке навыка владения "Световым мечом" персонаж может использовать "Интеллект" вместо "Силы (Brawn)".</Description>
     <Source Page="152">Книга правил: Сила и судьба</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>

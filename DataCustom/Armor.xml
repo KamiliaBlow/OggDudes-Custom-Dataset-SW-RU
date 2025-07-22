@@ -348,7 +348,7 @@
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Добавьте [SE] к любым проверкам умений, основанных на "Силе (Brawl)" или "Ловкости".</MiscDesc>
+        <MiscDesc>Добавьте [SE] к любым проверкам умений, основанных на "Силе (Brawn)" или "Ловкости".</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillChar>BR</SkillChar>
@@ -926,11 +926,11 @@
   </Armor>
   <Armor>
     <Key>EODMKII</Key>
-    <Name>EOD-Mk II Armor</Name>
+    <Name>Броня EOD-Mk II</Name>
     <Description>
-      [H3]Creshaldyne EOD-Mk II Armor[h3]
-EOD-Mk II armor by Creshaldyne is one of the most popular explosives disposal suits in the galaxy. Made to Creshaldyne's exacting standards, the EOD-Mk II is a heavy, bulky, awkward suit of armor designed to protect an Engineer from blast, shock, and shrapnel while working with explosive compounds and devices. These suits are constructed of thick overlapping plates covered with reinforced polycarb mesh. They also include extra integrated hard plates backed by ballistic gel pads at the knees, groin, chest, and elbows. A tall, stiff collar of gel-backed hard plates covered by poly mesh protects the neck, and the head is protected by a sealed, full-face helmet. Like most bomb-disposal suits, the EOD-Mk II does not come with gloves in order to maximize an explosive ordnance disposal (EOD) trooper's dexterity and precision. While this gives the wearer maximum hand mobility, it leaves the hands and forearms unprotected from accidental blasts.
-[P]Due to its extremely thick padding and ponderous form, characters wearing EOD-Mk II armor lose their free movement.</Description>
+      [H3]Броня Creshaldyne EOD-Mk II[h3]
+Броня EOD-Mk II от Creshaldyne - один из самых популярных костюмов для обезвреживания взрывчатки в галактике. Изготовленный по строгим стандартам Creshaldyne, EOD-Mk II - это тяжелый, громоздкий, неудобный бронекостюм, предназначенный для защиты сапера от взрывов, ударов и осколков при работе с взрывчатыми веществами и устройствами. Эти костюмы состоят из толстых перекрывающихся пластин, покрытых армированной поликарбоновой сеткой. Они также включают дополнительные интегрированные жесткие пластины с баллистическими гелевыми накладками на коленях, паху, груди и локтях. Высокий жесткий воротник из гелевых пластин, покрытых полимерной сеткой, защищает шею, а голову - герметичный полнолицевой шлем. Как и большинство саперных костюмов, EOD-Mk II не комплектуется перчатками, чтобы максимально повысить ловкость и точность действий саперов. Хотя это обеспечивает максимальную подвижность рук, кисти и предплечья остаются незащищенными от случайных взрывов.
+[P]Из-за чрезвычайно толстой подкладки и громоздкой формы персонажи в броне EOD-Mk II теряют свободу движений.</Description>
     <Source Page="42">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -947,17 +947,17 @@ EOD-Mk II armor by Creshaldyne is one of the most popular explosives disposal su
     <Rarity>6</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>Characters wearing this armor lose their free movement.</MiscDesc>
+        <MiscDesc>Персонажи, носящие эту броню, теряют свободу передвижения.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>FABPROT</Key>
-    <Name>Fabricator's Protective Gear</Name>
+    <Name>Защитное снаряжение фабриканта</Name>
     <Description>
-      [H3]Fabricator's Protective Gear[h3]
-Worn by welders, machinists, tinkerers, and mechanics throughout the galaxy, fabricators' protective gear is a catchall term for a varied collection of heavy padded clothing. These outfits are designed to offer protection from industrial mishaps as well as combat explosions. Most come complete with a full coverall , heavy gloves, dark-tinted goggles or face mask, and a reinforced apron. While not as effective as real combat armor, they can still protect an individual from the blast effects from splinters and shrapnel.
-[P]This armor allows the wearer to ignore the effects of fires or acids of rating 1 or 2. It has a soak value of 3 against damage from weapons with the Blast quality, but only when that quality is activated and used to inflict damage on the wearer. It provides only 1 point of soak against all other damage that was not inflicted through that quality.</Description>
+      [H3]Защитное снаряжение фабриканта[h3]
+Защитное снаряжение фабрикантов, которое носят сварщики, машинисты, мастера и механики по всей галактике, - это общий термин, обозначающий разнообразную коллекцию тяжелой одежды с мягкими накладками. Эти костюмы предназначены для защиты от несчастных случаев на производстве, а также от взрывов в боевых условиях. В комплект большинства из них входят комбинезон, плотные перчатки, темные очки или маска для лица, а также усиленный фартук. Хотя они не так эффективны, как настоящая боевая броня, но все же могут защитить человека от взрывного воздействия осколков и шрапнели.
+[P]Эта броня позволяет владельцу игнорировать эффекты огня или кислоты с рейтингом 1 или 2. У него есть 3 очка "поглощения" от урона, наносимого оружием с качеством Blast, но только когда это качество активировано и используется для нанесения урона владельцу. Против всех остальных повреждений, нанесенных не этим качеством, он дает только 1 очко "поглощения".</Description>
     <Source Page="43">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -971,23 +971,22 @@ Worn by welders, machinists, tinkerers, and mechanics throughout the galaxy, fab
     <Rarity>1</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>Wearer ignores effects of fires or acids of rating 1 or 2.</MiscDesc>
+        <MiscDesc>Носитель игнорирует эффекты огня или кислоты с рейтингом 1 или 2.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>Has soak 3 against damage from Blast quality.</MiscDesc>
+        <MiscDesc>Вы имеете "поглощения" 3 против урона от качества Blast.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>FLAKVEST</Key>
-    <Name>Mk. III Flak Vest</Name>
+    <Name>Бронежилет Mk. III</Name>
     <Description>
-      [H3]Mk. III Flak Vest[h3]
+      [H3]Бронежилет Mk. III[h3]
 
-The Mk. III flak vest from Pacnorval Defense Systems is a basic jacket consisting of light durasteel plates under layered ballistic fabric. Flak vests are designed to protect against shrapnel and heat such as that created by frag grenades, and offer only limited protection against
-direct hits. Flak vests are almost useless against blasters, and as such are seldom seen outside of security forces expecting little resistance and backwater worlds.
+Бронежилет Mk. III от Pacnorval Defense Systems - это базовый жилет, состоящий из легких пластин из дюрастила под многослойной баллистической тканью. Бронежилеты предназначены для защиты от осколков и тепла, создаваемого осколочными гранатами, и обеспечивают лишь ограниченную защиту от прямых попаданий. Бронежилеты практически бесполезны против бластеров, и поэтому их редко можно увидеть за пределами сил безопасности, ожидающих незначительного сопротивления, и захолустных миров.
 
-[P]This armor gains +1 soak when the wearer suffers damage from the Blast quality.</Description>
+[P]Эта броня получает +1 к "поглощению", когда ее владелец получает урон от качества Blast.</Description>
     <Source Page="49">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -1004,20 +1003,20 @@ direct hits. Flak vests are almost useless against blasters, and as such are sel
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add +1 Soak against damage from the Blast quality.</MiscDesc>
+        <MiscDesc>Добавляет +1 "поглощения" против урона от качества Blast.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>FLAREJACK</Key>
-    <Name>Flare Jacket</Name>
+    <Name>Жилет со вспышкой</Name>
     <Description>
-      [H3]Flare Jacket[h3]
+      [H3]Жилет со вспышкой[h3]
 
-Originally designed by a high-end clothes manufacturer for making literally flashy entrances, some organizations saw potential military use and contracted Ayelixe/Krongbing Textiles to produce a more intense version of their Personal Defense coat. Concealing several small charges in seams throughout the design, the jacket can release a blinding and stunning flash of light, allowing the wearer a few seconds to make an escape. The internal power source is small, and thus can take several minutes to recharge after each use.
+Изначально жилетка была разработана производителем элитной одежды для создания ярких выходов в свет, но некоторые организации увидели в ней потенциал военного применения и заключили контракт с Ayelixe/Krongbing Textiles на производство более интенсивной версии куртки Personal Defense. Скрывая несколько небольших зарядов в швах по всей конструкции, жилетка может выпустить ослепительную и оглушительную вспышку света, позволяя владельцу на несколько секунд скрыться. Внутренний источник энергии невелик, поэтому на его перезарядку после каждого использования может уйти несколько минут.
 
-[P]Once per encounter, a character wearing a flare jacket can trigger the charges as a maneuver. Each character within short range (besides the wearer) must make a [B]Hard ([DI][DI][DI]) Vigilance check[b]. Each character who fails is staggered for 1 round, plus 1 additional round per [TH][TH][TH].
-[BR][B]Models include:[b] Ayelixe/Krongbing Personal Defense Coat, Brennkeyes Syndicate flare jacket.</Description>
+[P]Один раз за встречу персонаж, носящий жилет со вспышкой, может запустить заряды в качестве маневра. Каждый персонаж в пределах короткой дистанции (кроме носящего) должен сделать [B]Сложную ([DI][DI][DI]) проверку "Бдительности"[b]. Каждый персонаж, проваливший проверку, ошеломлен на 1 раунд, +1 дополнительный раунд за [TH][TH][TH].
+[BR][B]Модели включают:[b] Плащ личной защиты Ayelixe/Krongbing, жилет со вспышкой Brennkeyes Syndicate.</Description>
     <Source Page="48">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -1034,20 +1033,19 @@ Originally designed by a high-end clothes manufacturer for making literally flas
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Once per encounter, can trigger flare charge. Everyone in short range makes [B]Hard ([DI][DI][DI]) Vigilance check[b]. Fail means staggered for 1 round, plus 1 round per [TH][TH][TH].</MiscDesc>
+        <MiscDesc>Один раз за встречу может вызвать вспышку заряда. Все в пределах короткой дистанции делают [B]Сложную ([DI][DI][DI]) проверку "Бдительности"[b]. Провал означает ошеломление на 1 раунд, +1 раунд за [TH][TH][TH].</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>FLIGHTCF9</Key>
-    <Name>CF-9 Naval Flight Suit</Name>
-    <Description>[H3]CF-9 Republic Naval Flight Suit[h3]
-Clones assigned to operate starfighters, combat airspeeders, and similar vehicles are not typically issued full bodysuits of armor like their brethren in the infantry. Instead, the Republic Navy has developed new flight suits appropriate for combat missions. The CF-9 model flight suit was an attempt to offer everything a pilot needed for missions without exacerbating the already substantial cost of supplying fighter wings. The project has been a mixed success in both regards, but it serves well enough to satisfy the Senate.
+    <Name>Флотский летный костюм CF-9</Name>
+    <Description>[H3]Флотский летный костюм CF-9[h3]
+Клоны, которым поручено управлять звездными истребителями, боевыми аэроспидерами и другими подобными машинами, обычно не получают полные бронекостюмы, как их собратья в пехоте. Вместо этого Флот Республики разработали новые летные костюмы, подходящие для выполнения боевых задач. Модель летного костюма CF-9 была попыткой предложить пилоту все необходимое для полетов, не увеличивая и без того значительные расходы на поставку крыльев для истребителей. Проект имел переменный успех в обоих отношениях, но он достаточно хорошо служит, чтобы удовлетворить Сенат.
 
-[P]The CF-9 is lightly armored—just enough to provide basic protection in case the wearer is separated from their craft and to improve survival chances in the case of a crash or ejection. It lacks many of the features of full armor, relying instead on basic subsystems, an environmental seal, and the communication systems of the piloted craft rather than having such features built in. The suit's design instead focuses on regulating a clone's physiology during combat maneuvers, through its specialised respirator and other systems.
+[P]CF-9 легко бронирован - но достаточно, чтобы обеспечить базовую защиту в случае отделения от корабля и повысить шансы на выживание в случае аварии или катапультирования. В нем нет многих функций полной брони, вместо этого он полагается на основные подсистемы, экологическую защиту и системы связи пилотируемого корабля, а не на встроенные в него функции. Вместо этого конструкция костюма направлена на регулирование физиологии клона во время боевых маневров с помощью специализированного респиратора и других систем.
 
-[P]CF-9 flight suits include a built-in respirator. Characters wearing CF-9 Republic naval flight suits remove up to [SE] from Piloting (Space) and Piloting (Planetary) checks added due to the danger or physical stress of the action.
-</Description>
+[P]В летные костюмы CF-9 встроен респиратор. Персонажи в республиканских флотских летных костюмах CF-9 убирают до [SE] с проверок "Пилотирования (космического)" и "Пилотирования (планетарного)", добавленных из-за опасности или физического напряжения, вызванного действием.</Description>
     <Source Page="56">Дополнение: Восстание сепаратистов</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -1063,20 +1061,20 @@ Clones assigned to operate starfighters, combat airspeeders, and similar vehicle
     <Rarity>6</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>Includes a built-in respirator.</MiscDesc>
+        <MiscDesc>В комплект входит встроенный респиратор.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>Remove up to [SE] from Piloting checks added due to physical stress.</MiscDesc>
+        <MiscDesc>Убирает до [SE] с проверок "пилотирования", добавленных из-за физического стресса.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>FLIGHTTX3</Key>
-    <Name>TX-3 Combat Flight Suit</Name>
+    <Name>Боевой летный костюм TX-3</Name>
     <Description>
-      [H3]TX-3 Combat Flight Suit[h3]
+      [H3]Боевой летный костюм TX-3[h3]
 
-An armored flight suit manufactured by Corellian Technologies primarily for starfighter pilots, the TX-3 is used by the CDF and several other system defense forces, and is also popular with pirates, mercenaries, and bounty hunters. Similar to the combat flight suits worn by Imperial pilots, the TX-3 provides slightly better protection from the vacuum of space, as well as moderate defense from concussive and energy attacks. The fibers in the suit provide decent protection from the extreme cold and radiation a pilot is likely to experience in deep space. Without an external oxygen source, a person wearing a TX-3 flight suit can survive for up to 24 hours in hard vacuum.</Description>
+Бронированный летный костюм, производимый компанией Corellian Technologies в первую очередь для пилотов звездолетов, TX-3 используется CDF и другими силами обороны системы, а также популярен среди пиратов, наемников и охотников за головами. Подобно боевым летным костюмам, которые носят имперские пилоты, TX-3 обеспечивает чуть лучшую защиту от вакуума космоса, а также умеренную защиту от сотрясений и энергетических атак. Волокна скафандра обеспечивают достойную защиту от экстремального холода и радиации, с которыми пилот может столкнуться в глубоком космосе. Без внешнего источника кислорода человек в летном костюме TX-3 может прожить до 24 часов в полном вакууме.</Description>
     <Source Page="99">Дополнение: Солнце Фортуны</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -1093,18 +1091,18 @@ An armored flight suit manufactured by Corellian Technologies primarily for star
     <Rarity>6</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>May survive up to 24 hours in a vacuum</MiscDesc>
+        <MiscDesc>Можно выжить до 24 часов в вакууме</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>FORMCOUNARM</Key>
-    <Name>Formal Council Armor</Name>
+    <Name>Формальная броня консула</Name>
     <Description>
-      [H3]Formal Council Armor[h3]
-In rare circumstances, Jedi were called in to treat with societies for which status and associated symbols played a significant factor in negotiations. Some cultures maintain intricate systems of etiquette or strictly enforce caste systems. Other cultures engage in ostentatious demonstrations of wealth among their ruling classes. These societies expected any negotiator from the Republic to conform to their standards. In these circumstances a Jedi might don a suit of formal Council armor to aid in the critical first impression.
-[P]Never common, these ornate suits of armor are now almost unknown. While they were comparable in function to far more common armored robes, they incorporated a variety of inlays and artistic flourishes-as well as a range of semiprecious metals and gemstones. Each suit was custom crafted, integration different designs.
-[P]A character wearing former Council armor adds automatic [AD][AD] to Negotiation checks when interacting with individuals who hold Jedi in high regard. At the GM's discretion, the character may add automatic [AD][AD] to Coercion checks when interacting with individuals who hate or fear the Jedi (such as representatives of the Galactic Empire).</Description>
+      [H3]Формальная броня консула[h3]
+В редких случаях джедаев привлекали для общения с обществами, для которых статус и связанные с ним символы играли важную роль в переговорах. Некоторые культуры поддерживают сложные системы этикета или строго придерживаются кастовой системы. В других культурах правящие классы демонстративно демонстрируют свое богатство. Такие общества ожидали, что любой переговорщик от Республики будет соответствовать их стандартам. В таких обстоятельствах джедай может облачиться в официальные доспехи консула, чтобы помочь произвести решающее первое впечатление.
+[P]Эти богато украшенные доспехи, которые никогда не были распространены, сегодня практически неизвестны. Хотя по функциям они были сопоставимы с более распространенными бронекостюмами, в них использовались разнообразные инкрустации и художественные изыски, а также полудрагоценные металлы и драгоценные камни. Каждый костюм изготавливался на заказ, интегрируя в себя различные варианты дизайна.
+[P]Персонаж, носящий броню бывшего Совета, автоматически добавляет [AD][AD] к проверкам "Переговоров" при взаимодействии с людьми, которые высоко ценят джедаев. По усмотрению ГМ персонаж может добавить автоматическое [AD][AD] к проверкам "Запугивания" при взаимодействии с людьми, которые ненавидят или боятся джедаев (например, с представителями Галактической Империи). </Description>
     <Source Page="45">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -1119,22 +1117,21 @@ In rare circumstances, Jedi were called in to treat with societies for which sta
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>When wearing, add [AD][AD] to negotiation checks against people who hold Jedi in high regard.</MiscDesc>
+        <MiscDesc>При ношении добавляет [AD][AD] к проверкам на "Переговоры" с людьми, которые высоко ценят джедаев.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Optionally, when wearing, add [AD][AD] to Coercion checks against people who hate or fear the Jedi.</MiscDesc>
+        <MiscDesc>По желанию, при ношении добавляет [AD][AD] к проверкам "Запугивания" против людей, которые ненавидят или боятся джедаев.</MiscDesc>
       </Mod>
     </BaseMods>
     <Soak>2</Soak>
   </Armor>
   <Armor>
     <Key>GSUIT</Key>
-    <Name>G-Suit</Name>
+    <Name>Грави-костюм</Name>
     <Description>
-      [H3]G-Suit[h3]
-G-suits, or gravity suits, are special garments worn under flight suits by pilots and racers who are regularly exposed to high g-forces, such as those experienced while racing or performing, aggressive aerobatics. G-suits use inflatable bladders, pressurized gel pockets, and compression garments to keep pilots' blood from pooling in their lower extremities, causing a dangerous condition known as g-LOC (g-induced loss of consciousness) which occurs when the brain is deprived of blood. G-suits pilots to  push their ships or vehicles further and operate them more aggressively without fear of blacking out. A character wearing a g-suit reduces the strain cost to perform a second Pilot Only maneuver during a turn by 1.
-    </Description>
+      [H3]Грави-костюм[h3]
+Грави-костюмы, или гравитационные костюмы, - это специальная одежда, надеваемая под летные костюмы пилотами и гонщиками, которые регулярно подвергаются воздействию высокой силы гравитации, например, во время гонок или выполнения агрессивных фигур высшего пилотажа. В грави-костюмах используются надувные пузыри, гелевые карманы под давлением и компрессионная одежда, чтобы кровь пилотов не скапливалась в нижних конечностях, вызывая опасное состояние, известное как g-ИПС (g-индуцированная потеря сознания), которое возникает, когда мозг лишается крови. Грави-костюмы позволяют пилотам продвигать свои корабли или транспортные средства дальше и управлять ими более агрессивно, не боясь потерять сознание. Персонаж, носящий грави-костюм, уменьшает на 1 цену "Усталости" для выполнения второго маневра «только для пилота» в течение хода.</Description>
     <Source Page="44">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -1149,7 +1146,7 @@ G-suits, or gravity suits, are special garments worn under flight suits by pilot
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Wearer reduces strain cost to perform a second Pilot Only maneuver by 1.</MiscDesc>
+        <MiscDesc>Носитель уменьшает стоимость "Усталости" на 1 для выполнения второго маневра «Только для пилота».</MiscDesc>
       </Mod>
     </BaseMods>
     <Soak>1</Soak>
@@ -1157,12 +1154,11 @@ G-suits, or gravity suits, are special garments worn under flight suits by pilot
   </Armor>
   <Armor>
     <Key>GUNDSCAV</Key>
-    <Name>"Gundark" Scav-Suit</Name>
-    <Description>[H3]"Gundark" Scav-Suit[h3]
-The peculiar brainchild of an exiled Arkanian engineer, the “Gundark” scav-suit is becoming an increasingly common sight across the galactic underworld. Designed to assist salvagers and collectors in uncovering and assessing lost technology, the suit includes an advanced sensor package that can analyze energy readings and material compositions quickly to help the wearer sift valuable salvage from a scrap heap-or from the detritus of a battlefield. The suits are so-named because the arrangement of the sensor package is reminiscent of huge ears at the side of the wearer's head, similar to those of a wild gundark. Bounty hunters and other figures sent to deal with scavengers sometimes take advantage of this design by targeting the sensor array to blind the wearer with a feedback loop from their damaged equipment.
+    <Name>Костюм мусорщика "Гандарк"</Name>
+    <Description>[H3]Костюм мусорщика "Гандарк"[h3]
+Своеобразное детище изгнанного арканианского инженера, костюм мусорщика «Гандарк» становится все более распространенным явлением в галактическом преступном мире. Созданный для помощи спасателям и коллекционерам в обнаружении и оценке утраченных технологий, костюм оснащен передовым комплектом датчиков, способных быстро анализировать показатели энергии и состав материалов, чтобы помочь владельцу отделить ценное имущество от груды металлолома - или от мусора на поле боя. Костюмы названы так потому, что расположение пакета датчиков напоминает огромные уши по бокам головы владельца, похожие на уши дикого гандарка. Охотники за головами и другие фигуры, отправленные на борьбу с падальщиками, иногда используют эту конструкцию в своих интересах, нацеливая сенсорный набор на ослепление владельца с помощью обратной связи от поврежденного оборудования.
 
-[P]The inbuilt sensor array on a “Gundark” scav-suit adds [BO] to the wearer's Perception checks, and an additional [BO] to all checks to detect or analyze technological parts and items. However, if the suits systems become damaged due to a Critical Injury, aimed shot, or other circumstance, the wearer instead suffers [SE] due to sensor feedback on all Perception checks instead until the suit is repaired.
-</Description>
+[P]Встроенный массив датчиков на костюме мусорщика «Гандарк» добавляет [BO] к проверкам на "Внимания" и дополнительно [BO] ко всем проверкам на обнаружение или анализ технологических деталей и предметов. Однако если системы скафандра повреждаются в результате "критического ранения", прицельного выстрела или других обстоятельств, владелец вместо этого получает [SE] из-за обратной связи с сенсорами на все проверки "Внимания", пока скафандр не будет отремонтирован.</Description>
     <Source Page="56">Дополнение: Восстание сепаратистов</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -1178,7 +1174,7 @@ The peculiar brainchild of an exiled Arkanian engineer, the “Gundark” scav-s
     <Rarity>6</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>Adds [BO] to Perception checks.</MiscDesc>
+        <MiscDesc>Добавляет [BO] к проверкам "Внимания".</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillKey>PERC</SkillKey>
@@ -1187,24 +1183,24 @@ The peculiar brainchild of an exiled Arkanian engineer, the “Gundark” scav-s
         </DieModifiers>
       </Mod>
       <Mod>
-        <MiscDesc>Adds [BO][BO] to checks to avoid adverse effects of cold temperatures.</MiscDesc>
+        <MiscDesc>Добавляет [BO][BO] к проверкам, чтобы избежать негативного влияния низких температур.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>Removes [SE] imposed by cold-weather conditions on Perception checks.</MiscDesc>
+        <MiscDesc>Убирает [SE], накладываемое условиями холодной погоды на проверки "Внимания".</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>HAULHARN</Key>
-    <Name>Hauling Harness</Name>
+    <Name>Грузовая упряжь</Name>
     <Description>
-      [H3]Hauling Harness[h3]
+      [H3]Грузовая упряжь[h3]
 
-Beloved by harried quartermasters across the galaxy, hauling harnesses offer convenient means to lift and move heavy loads. Essentially a light cyber-exoskeleton, the hauling harness greatly magnifies the user's ability to lift and move heavy objects, albeit with limited speed. Although not as practical as a dedicated piece of heavy machinery, the harness incorporates a folding design, enabling easy storage when not in use.
+Полюбившиеся всем галактическим начальникам грузовые упряжи - удобное средство для подъема и перемещения тяжелых грузов. По сути, это легкий киберэкзоскелет, который значительно увеличивает способность пользователя поднимать и перемещать тяжелые предметы, хотя и с ограниченной скоростью. Хотя они не так практичны, как специализированные тяжелые машины, в них предусмотрена складная конструкция, позволяющая легко хранить их, когда они не используются.
 
-[P]A character wearing a hauling harness increases his encumbrance capacity by 6, but also upgrades the difficulty of any combat check he makes twice.
+[P]Персонаж, носящий упряжь, увеличивает свою "нагрузку" на 6, а также повышает сложность любой боевой проверки в 2 раза.
 
-[BR][B]Models include:[b] TaggeCo. Mobile Lifting Gear.</Description>
+[BR][B]Модели включают:[b] TaggeCo. Мобильные подъемные механизмы.</Description>
     <Source Page="48">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -1225,7 +1221,7 @@ Beloved by harried quartermasters across the galaxy, hauling harnesses offer con
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Upgrade difficulty of combat checks twice.</MiscDesc>
+        <MiscDesc>Повышает сложность боевых проверок в 2 раза.</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillType>Combat</SkillType>
@@ -1237,14 +1233,14 @@ Beloved by harried quartermasters across the galaxy, hauling harnesses offer con
   </Armor>
   <Armor>
     <Key>HBA</Key>
-    <Name>Heavy Battle Armor</Name>
+    <Name>Тяжелая боевая броня</Name>
     <Description>
-      [H3]Heavy Battle Armor[h3]
+      [H3]Тяжелая боевая броня[h3]
 
-Certain heavy stormtroopers, bounty hunters, and even droids are fitted with heavy armor. Ostensibly, heavy armor protects against most normal blaster shots, but in the arms race of offense versus defense, the offensive power of a good blaster is still far ahead of most anything a humanoid can wear.
+Некоторые тяжелые штурмовики, охотники за головами и даже дроиды, оснащены тяжелой броней. Утверждается, что тяжелая броня защищает от большинства обычных бластерных выстрелов, но в гонке вооружений между нападением и защитой наступательная мощь хорошего бластера все равно намного превосходит почти все, что может носить гуманоид.
 
-[P]Heavy battle armor can be sealed and provide the same benefits as full-body laminate armor as above, or it can take the form of a heavy vest and blast helmet.
-[BR][B]Models Include:[b] Mandalorian Shock Trooper Armor. </Description>
+[P]Тяжелая боевая броня может быть герметичной и обеспечивать те же преимущества, что и ламинатная броня на все тело, как описано выше, или же она может иметь форму тяжелого бронежилета и шлема от взрыва.
+[BR][B]Модели включают:[b] Мандалорианская броня ударного десанта.</Description>
     <Sources>
       <Source Page="170">Книга правил: Край Империи</Source>
       <Source Page="184">Книга правил: Эпоха восстания</Source>
@@ -1269,11 +1265,11 @@ Certain heavy stormtroopers, bounty hunters, and even droids are fitted with hea
   </Armor>
   <Armor>
     <Key>HC</Key>
-    <Name>Heavy Clothing</Name>
+    <Name>Тяжелая одежда</Name>
     <Description>
-      [H3]Heavy Clothing[h3]
+      [H3]Тяжелая одежда[h3]
 
-A good leather jacket, technician's jumpsuit, or thick woolen cloak won't stop much damage, but it's certainly better than nothing. Most characters living on the edge of the Empire favor heavy clothing for everyday wear.</Description>
+Хорошая кожаная куртка, комбинезон техника или толстый шерстяной плащ не смогут остановить большой урон, но это, конечно, лучше, чем ничего. Большинство персонажей, живущих на окраине Империи, предпочитают тяжелую одежду для повседневного ношения.</Description>
     <Sources>
       <Source Page="169">Книга правил: Край Империи</Source>
       <Source Page="185">Книга правил: Эпоха восстания</Source>
@@ -1293,15 +1289,15 @@ A good leather jacket, technician's jumpsuit, or thick woolen cloak won't stop m
   </Armor>
   <Armor>
     <Key>HOLOCOST</Key>
-    <Name>Holographic Costume</Name>
+    <Name>Голографический костюм</Name>
     <Description>
-      [H3]Holographic Costume[h3]
+      [H3]Голографический костюм[h3]
 
-When unpowered, the holographic suit is a slightly glossy, unremarkable, form-fitting suit. A small control panel on the inside left sleeve activates numerous miniaturized holoprojectors, sheathing the wearer in a convincing facsimile of one of several preselected outfits. The holographic costume does not hide or alter the appearance of the wearer, but it does enable the wearer to switch between any of ten preloaded outfits with a simple flick of the controls. The recorder built into the suit enables a user to overwrite preloaded outfits with new designs, a process that takes roughly ten minutes.
+Без питания голографический костюм представляет собой слегка блестящий, ничем не примечательный, облегающий костюм. Небольшая панель управления на внутренней стороне левого рукава активирует многочисленные миниатюрные голопроекторы, облачая владельца в убедительную факсимиле одного из нескольких заранее выбранных нарядов. Голографический костюм не скрывает и не изменяет внешность владельца, но позволяет ему переключаться между любыми из десяти предустановленных нарядов простым нажатием кнопки управления. Встроенный в костюм рекордер позволяет перезаписывать готовые наряды на новые, что занимает около десяти минут.
 
-[P]To record a new outfit, a character must make an [B]Easy ([DI]) Computers check[b] while in possession of a garment to be recorded, or a [B]Daunting ([DI][DI][DI][DI]) Computers check[b] to create a facsimile of a garment that is not on hand.
+[P]Чтобы записать новый наряд, персонаж должен сделать [B]Легкую ([DI]) проверку "Компьютеров"[b], пока у него есть одежда, которую нужно записать, или [B]Непростая ([DI][DI][DI][DI]) проверку "Компьютеров"[b], чтобы создать факсимиле одежды, которой нет под рукой.
 
-[BR][B]Models include:[b] A/KT "Versatility" Outfit, Plescinia Micro Holo Suit.</Description>
+[BR][B]Модели включают:[b] Экипировка A/KT "Многогранность", Костюм Plescinia Micro Holo.</Description>
     <Source Page="48">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -1320,18 +1316,17 @@ When unpowered, the holographic suit is a slightly glossy, unremarkable, form-fi
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>[B]Easy ([DI]) Computers check to record new garment, [B]Daunting ([DI][DI][DI][DI]) Computers check[b] to record facsimile of garment.</MiscDesc>
+        <MiscDesc>[B]Легкая ([DI]) проверка "Компьютеров", чтобы записать новый наряд, [B]Непростая ([DI][DI][DI][DI]) проверка "Компьютеров"[b] чтобы записать факсимиле одежды.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>HT77COLDARM</Key>
-    <Name>HT-77 Cold Assault Armor</Name>
-    <Description>[H3]HT-77 Cold Assault Armor[h3]
-The HT-77 pattern of clone armor is a specialized suit designed for operation in cold environments, such as polar regions or planets far from the light of their local sun. Although all clones are trained in its use, it is primarily issued to divisions specialized in tactics and operations for such environments. Featuring additional thermal seals and insulating flaps, cold assault armor greatly enhances the basic temperature-regulating functions of a standard clone bodysuit. Furthermore, the sensory apparatuses installed in HT-77 helmets are designed to deal with issues arising from cold-weather conditions. The visor lenses are treated to resist reflected glare from snow and to avoid frosting over when exposed to moisture, and the audio feedback and comlink systems dampen the sound of high winds and other interference.
+    <Name>Арктическая штурмовая броня HT-77</Name>
+    <Description>[H3]Арктическая штурмовая броня HT-77[h3]
+Броня клона HT-77 - это специализированный костюм, предназначенный для работы в холодных условиях, например, в полярных регионах или на планетах, удаленных от света местного солнца. Хотя все клоны обучаются его использованию, в первую очередь он выдается подразделениям, специализирующимся на тактике и операциях в таких условиях. Благодаря дополнительным термоуплотнениям и изолирующим заслонкам, броня для арктического штурма значительно усиливает основные терморегулирующие функции стандартного клонского бронекостюма. Кроме того, сенсорные аппараты, установленные в шлемах HT-77, разработаны с учетом проблем, возникающих в холодную погоду. Линзы визора обработаны таким образом, чтобы противостоять отраженным бликам от снега и не замерзать под воздействием влаги, а системы аудиосвязи и комлинка гасят звуки сильного ветра и другие помехи.
 
-[P]HT-77 cold assault armor comes with a built-in comlink, and it adds [BO][BO] to the wearer's checks to avoid adverse effects from exposure to cold temperatures and weather. Additionally, the wearer removes [SE] imposed by cold-weather conditions on their Perception checks.
-</Description>
+[P]Арктическая штурмовая броня HT-77 поставляется со встроенным комлинком и добавляет [BO][BO] к проверкам владельца, чтобы избежать негативных эффектов от воздействия низких температур и погоды. Кроме того, броня убирает [SE], накладываемое условиями холодной погоды на проверки "Внимания".</Description>
     <Source Page="57">Дополнение: Восстание сепаратистов</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -1351,28 +1346,25 @@ The HT-77 pattern of clone armor is a specialized suit designed for operation in
     <Rarity>7</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>Comes with built-in comlink.</MiscDesc>
+        <MiscDesc>Поставляется со встроенным комлинком.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>Adds [BO][BO] to checks to avoid adverse effects of cold temperatures.</MiscDesc>
+        <MiscDesc>Добавьте [BO][BO] к проверкам, чтобы избежать негативного влияния низких температур.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>Removes [SE] imposed by cold-weather conditions on Perception checks.</MiscDesc>
+        <MiscDesc>Уберите [SE], накладываемое условиями холодной погоды на проверки "Внимания".</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>HUNTTROPHARM</Key>
-    <Name>Hunter's Trophy Armor</Name>
+    <Name>Трофейная броня охотника</Name>
     <Description>
-      [H3]Hunter's Trophy Armor[h3]
-Bounty hunters who specialize in wild mammals and
-dangerous beasts sometimes make a habit of collecting trophies to show off their accomplishments. These trophies, from horns and teeth to hides and pelts, may end up on display in the bounty hunter's homes or ships, or these hunters might put them to more practical use. These hunters sometimes commission gear
-made from the trophies they have collected, gathering the toughened hides of whatever nigh-unstoppable creatures they have defeated so that their prey's resilience passes on to them.
-[P]A character wearing trophy armor suffers [SE] to Charm checks, but gains [BO][BO] to Coercion checks due to the armor's intimidating appearance. At the GM's discretion, Charm checks made to impress or persuade other character of the wearer's prowess may receive [BO][BO] instead of [SE].
-[P]Trophy armor has two Prices and Availabilities on [B]Table 2-4: Armor[b]. Use the first price listed ([R] 2,000/9) if a character is attempting to purchase an existing suit of trophy armor outright, and the second price listed ([R] 1,000/6) if a character has already procured a suitable hide and wishes to have it fashioned into trophy armor by an artisan.
-      [P][I]Note:  If making your own suit from owned hides, price/rarity drops to 1000/6.[i]
-    </Description>
+      [H3]Трофейная броня охотника[h3]
+Охотники за головами, специализирующиеся на диких млекопитающих и опасных зверях, иногда берут за правило собирать трофеи, чтобы похвастаться своими достижениями. Эти трофеи, от рогов и зубов до шкур и шкурок, могут быть выставлены в домах или на кораблях охотников за головами, а могут найти и более практическое применение. Иногда охотники заказывают снаряжение, сделанное из собранных ими трофеев, собирая закаленные шкуры неудержимых существ, которых они победили, чтобы стойкость добычи передалась и им.
+[P]Персонаж, носящий трофейную броню, получает [SE] к проверкам "Обаяния", но получает [BO][BO] к проверкам "Запугивания" из-за устрашающего вида брони. По усмотрению ГМа, проверки "Обаяния", сделанные, чтобы впечатлить или убедить других персонажей в доблести владельца, могут получить [BO][BO] вместо [SE].
+[P]Трофейная броня имеет две цены и доступность в [B]Таблице 2-4: Броня[b]. Используйте первую цену ([R] 2,000/9), если персонаж пытается купить существующий костюм трофейной брони, и вторую цену ([R] 1,000/6), если персонаж уже раздобыл подходящую шкуру и хочет, чтобы ремесленник сделал из нее трофейную броню.
+[P][I]Примечание: Если вы сами делаете костюм из шкур, цена/редкость снижается до 1000/6.[i]</Description>
     <Source Page="49">Дополнение: Без дезинтеграций</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -1386,7 +1378,7 @@ made from the trophies they have collected, gathering the toughened hides of wha
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Wearer suffers [SE] to Charm checks.</MiscDesc>
+        <MiscDesc>Носитель получает [SE] к проверкам "Обаяния".</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillKey>CHARM</SkillKey>
@@ -1396,7 +1388,7 @@ made from the trophies they have collected, gathering the toughened hides of wha
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Wearer gains [BO][BO] to Coercion checks due to armor's intimidating appearance.</MiscDesc>
+        <MiscDesc>Носитель получает [BO][BO] к проверкам "Запугивания" из-за устрашающего вида брони.</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillKey>COERC</SkillKey>
@@ -1409,14 +1401,14 @@ made from the trophies they have collected, gathering the toughened hides of wha
   </Armor>
   <Armor>
     <Key>HUTTSHELLARMOR</Key>
-    <Name>Hutt Shell Armor</Name>
+    <Name>Панцирная броня хаттов</Name>
     <Description>
-      [H3]Hutt Shell Armor[h3]
+      [H3]Панцирная броня хаттов[h3]
 
-Crafted especially for the Shell Hutts of Circumtore, these massive exoskeletons are fashioned from segmented cylinders of durasteel. Freed from the need for any sort of physical exertion by the repulsorlifts and powerful servomechanisms built into their armored suits, the gluttonous Shell Hutts grow to be tremendously corpulent, even by Hutt standards, necessitating ever-larger suits of armor. Shell armor allows its wearer to hover up to five meters above the ground.
+Созданные специально для панцирных хаттов Циркумтора, эти массивные экзоскелеты сделаны из сегментированных цилиндров дюрастали. Освобожденные от необходимости любых физических нагрузок с помощью репульсорных лифтов и мощных сервомеханизмов, встроенных в их бронекостюмы, прожорливые панцирные хатты становятся невероятно толстыми даже по меркам хаттов, что требует все более крупных доспехов. Панцирная броня позволяет своему владельцу парить над землей на высоте до пяти метров.
 
-[P]Hutt Shell Armor allows a Hutt to ignore the effects of the Awkward and Ponderous abilities (if he possesses either or both of these). Further, the wearer does not have to spend additional maneuvers when navigating difficult terrain.</Description>
-    <Source Page="104">Lords of Nal Hutta</Source>
+[P]Панцирная броня хатта позволяет хатту игнорировать эффекты расовых способностей Awkward и "Неповоротливый" (если он обладает одной из них или обеими). Кроме того, носителю не нужно тратить дополнительные маневры при перемещении по труднопроходимой местности.</Description>
+    <Source Page="104">Дополнение: Лорды Нал-Хатта</Source>
     <Custom>DescOnly</Custom>
     <Type />
     <Categories>
@@ -1438,27 +1430,27 @@ Crafted especially for the Shell Hutts of Circumtore, these massive exoskeletons
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>May only be worn by a Hutt.</MiscDesc>
+        <MiscDesc>Может носить только хатт.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Allows wearer to hover up to five meters above the ground.</MiscDesc>
+        <MiscDesc>Позволяет владельцу парить на высоте до пяти метров над землей.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Allows wearer to ignore the affects of Awkward and Ponderous abilities.</MiscDesc>
+        <MiscDesc>Позволяет владельцу игнорировать эффекты расовых способностей Awkward и "Неповоротливый".</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Does not have to spend additional maneuvers when navigating difficult terrain.</MiscDesc>
+        <MiscDesc>Не нужно тратить дополнительные маневры при прохождении труднопроходимой местности.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>HVYROBES</Key>
-    <Name>Heavy Robes</Name>
-    <Description>[H3]Heavy Robes[h3]
-Many Jedi wear thick robes, sometimes with ceremonial significance, and sometimes simply to protect themselves against the elements in the course of their work. These robes are little more than layers of reinforced fabrics, largely incapable of stopping incoming attacks, but the voluminous profile they provide can offer limited protection by obscuring vital areas or even a Jedi's general silhouette.</Description>
+    <Name>Тяжелая роба</Name>
+    <Description>[H3]Тяжелая роба[h3]
+Многие джедаи носят плотные робы, иногда с церемониальным значением, а иногда просто для защиты от стихий во время своей работы. Такие робы представляют собой не более чем слои армированной ткани, в основном неспособные остановить атаку, но объемный профиль, который они обеспечивают, может предложить ограниченную защиту, скрывая жизненно важные области или даже общий силуэт джедая.</Description>
     <Source Page="56">Дополнение: Восстание сепаратистов</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -1476,37 +1468,12 @@ Many Jedi wear thick robes, sometimes with ceremonial significance, and sometime
   </Armor>
   <Armor>
     <Key>IMPHAZARD</Key>
-    <Name>Imperial Hazard Trooper Armor</Name>
+    <Name>Имперская броня Риск-Штурмовика</Name>
     <Description>
-      [H3]Imperial Hazard Trooper Armor[h3]
-Imperial stormtroopers have specialized armor for
-nearly every situation, and the Imperial hazardous
-environment protective armor, or "hazard trooper
-armor,” is one of the most rugged armor suits in the
-corps. Using a powered armor frame similar to that
-of space troopers, hazard trooper armor augments
-the strength of the wearer and provides protection
-against radiation, acids and toxic chemicals, and
-extreme pressures or vacuums. Movement in the armor is sluggish due to its bulk, but a neural interface
-with the wearer's cybernetics reduces response time
-to a minimum, ensuring marksmanship is unimpeded
-by the armor. While manufactured by the Empire for
-its exclusive use, hazard trooper armor often finds its
-way into the hands of the Rebel Alliance.
-[P]Hazard troopers are known for their incredible
-strength, but this actually stems from the troopers
-standard cybernetic enhancements rather than any
-quality of the armor. More than a few rebel operatives have been disappointed to discover this fact
-after claiming a set of hazard trooper armor in battle.
-[P]Once active, the armor’s internal life support and
-power systems allow the wearer to survive in radiation zones, toxic environments, and total vacuums for
-up to twenty-four hours. The armor also incorporates
-a high-powered comlink able to communicate from
-the ground to low orbit. The helmet is equipped with
-a multi-frequency targeting and acquisition system
-which removes [SE][SE] due to darkness, smoke, or similar environmental factors that obscure vision from the
-wearer’s Perception, Vigilance, and combat checks.
-    </Description>
+      [H3]Имперская броня Риск-Штурмовика[h3]
+Имперские штурмовики имеют специализированную броню практически для любой ситуации, а имперская защитная броня для опасных условий, или «броня риск-штурмовика», является одним из самых прочных бронекостюмов в корпусе. Используя каркас брони с питанием, подобный тому, что используется в космодесанте, броня Риск-Штурмовика увеличивает силу владельца и обеспечивает защиту от радиации, кислот и токсичных химикатов, а также от экстремального давления или вакуума. Движения в броне медлительны из-за ее громоздкости, но нейронный интерфейс с кибернетикой владельца сокращает время реакции до минимума, а броня не мешает меткости. Несмотря на то, что броня Риск-Штурмовика производится исключительно для Империи, она часто попадает в руки Альянса повстанцев.
+[P]Риск-Штурмовики известны своей невероятной силой, но на самом деле она обусловлена не качеством брони, а стандартными кибернетическими улучшениями. Не один повстанец был разочарован, обнаружив этот факт после того, как получил в бою комплект брони Риск-Штурмовика.
+[P]В активном состоянии внутренние системы жизнеобеспечения и питания брони позволяют владельцу выживать в радиационных зонах, токсичных средах и полном вакууме в течение суток. Броня также оснащена мощным комлинком, способным поддерживать связь от земли до низкой орбиты. Шлем оснащен многочастотной системой прицеливания и захвата, которая снимает [SE][SE] из-за темноты, дыма или подобных факторов окружающей среды, которые затуманивают зрение, с проверки "Внимания", "Бдительности" и боя.</Description>
     <Source Page="49">Дополнение: Закаленные в битве</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -1526,28 +1493,19 @@ wearer’s Perception, Vigilance, and combat checks.
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Remove [SE][SE] due to darkness, smoke or similar environmental factors that obscure vision from the wearer's Perception, Vigilance, and combat checks.</MiscDesc>
+        <MiscDesc>Уберите [SE][SE] из-за темноты, дыма или подобных факторов окружающей среды, которые затуманивают зрение, из проверок "Внимания", "Бдительности" и боя владельца.</MiscDesc>
       </Mod>
     </BaseMods>
     <Soak>3</Soak>
   </Armor>
   <Armor>
     <Key>IMPSTORMCOMM</Key>
-    <Name>Imperial Storm Commando Armor</Name>
+    <Name>Имперская броня штурмового коммандос</Name>
     <Description>
-      [H3]Imperial Storm Commando Armor[h3]
-Storm commandos are among the Empire's most elite,
-with the most advanced equipment available. Their
-armor allows the same flexibility as scout trooper
-armor, but is reinforced to provide maximum protection against blaster fire and explosions. Both the
-bodysuit and laminate plates are coated in “reflec”
-polymer, which distorts light and absorbs sound,
-making the wearer incredibly difficult to detect.
-[P]The armor’s helmet is equipped with macrobinoculars and scanner goggles (see page 191 of the [B]Age of
-Rebellion[b] Core Rulebook) as well as a comlink.
-[P]While wearing storm commando armor, a character
-removes [SE] due to darkness, smoke, or similar environmental factors that obscure vision from all of her
-Perception, Vigilance, and combat checks. Additionally, storm commando armor adds [SE] to other characters’ Perception checks to detect the wearer.</Description>
+      [H3]Имперская броня штурмового коммандос[h3]
+Штурмовые коммандос - одна из самых элитных частей Империи, оснащенная самым современным оборудованием. Их броня обладает той же гибкостью, что и броня разведчика, но усилена, чтобы обеспечить максимальную защиту от бластерного огня и взрывов. Как бронекостюм, так и пластины покрыты полимером «рефлек», который искажает свет и поглощает звук, делая владельца невероятно трудно обнаруживаемым.
+[P]Шлем брони оснащен макробиноклем и очками-сканером (см. стр. 191 книги [B]Книга правил: Эпоха восстания[b]), а также комлинком.
+[P]Надев броню штурмового коммандос, персонаж убирает [SE] из-за темноты, дыма или подобных факторов окружающей среды, которые затуманивают зрение, со всех своих проверок "Внимания", "Бдительности" и боя. Кроме того, броня штурмового коммандос добавляет [SE] к проверкам "Внимания" других персонажей, чтобы обнаружить ее владельца.</Description>
     <Source Page="49">Дополнение: Закаленные в битве</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -1566,27 +1524,27 @@ Perception, Vigilance, and combat checks. Additionally, storm commando armor add
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Helmet is equipped with macrobinoculars, scanner goggles, and a comlink.</MiscDesc>
+        <MiscDesc>Шлем оснащен макробиноклем, очками-сканером и комлинком.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>While wearing storm commando armor, a character removes [SE] due to darkness, smoke, or similar environmental factors that obscure vision from all Perception, Vigilance, and combat checks.</MiscDesc>
+        <MiscDesc>Надев броню штурмового коммандос, персонаж убирает [SE] из-за темноты, дыма или подобных факторов окружающей среды, затуманивающих зрение, со всех проверок "Внимания", "Бдительности" и боя.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Adds [SE] to other characters' Perception checks to detect the wearer.</MiscDesc>
+        <MiscDesc>Добавляет [SE] к проверкам "Внимания" других персонажей, чтобы обнаружить владельца.</MiscDesc>
       </Mod>
     </BaseMods>
     <Soak>2</Soak>
   </Armor>
   <Armor>
     <Key>INDFLDDISR</Key>
-    <Name>Individual Field Disruptor</Name>
+    <Name>Индивидуальный разрушитель поля</Name>
     <Description>
-      [H3]Individual Field Disruptor[h3]
-A field disruptor is normally used to disable the shields and potentially the electronic systems on a vehicle or starship. An individual field disruptor takes this functionality and brings it to a much smaller scale, enabling it to be used against a foe wearing a personal energy field, as well as offering some protection to the wearer. Because of its small size-the device is less than ten centimeters in diameter and is typically clipped to a belt-the individual field disruptor is relatively discreet. When not activated, a casual observer might mistake it for a sensor or even a simple piece of ornamentation.
-[P]In  use, the field disruptor creates a shimmering field around the wearer, forming a two-meter in diameter sphere around the device and individual while obscuring visibility of the wearer. Whenever this field comes in contact with an energy shield, it immediately deactivates it.
-[P]If the field of a disruptor contacts another energy field, the other field ceases to offer any defense as long as the two fields intersect. If a character wearing an active field enters engaged range with a droid, the droid suffers 5 Stun damage. If the field enters engaged range with any other electronic device, the device shorts out and becomes inactive for the remainder of the encounter. If the wearer makes a melee attack while the field is active, the wearer counts as being armed with a Melee weapon with +2 damage and the Stun Damage item quality.</Description>
+      [H3]Индивидуальный разрушитель поля[h3]
+Разрушитель поля обычно используется для выведения из строя щитов и, возможно, электронных систем транспортного средства или звездолета. Индивидуальный разрушитель поля использует эту функцию в гораздо меньших масштабах, позволяя использовать его против противника, обладающего персональным энергетическим полем, а также обеспечивая некоторую защиту владельцу. Благодаря своим небольшим размерам - устройство имеет диаметр менее 10 сантиметров и обычно крепится к поясу - индивидуальный разрушитель поля относительно незаметен. Когда он не активирован, случайный наблюдатель может принять его за датчик или даже простое украшение.
+[P]При использовании разрушитель поля создает вокруг владельца мерцающее поле, образующее сферу диаметром 2 метра вокруг устройства и человека, скрывая при этом видимость владельца. При соприкосновении с энергетическим щитом это поле немедленно деактивирует его.
+[P]Если поле разрушителя соприкасается с другим энергетическим полем, оно перестает защищать, пока эти два поля пересекаются. Если персонаж с активным полем попадает в зону действия дроида, тот получает 5 Stun Damage. Если поле попадает в зону действия любого другого электронного устройства, оно отключается и становится неактивным до конца встречи. Если владелец совершает атаку в ближнем бою, когда поле активно, он считается вооруженным оружием ближнего боя с уроном +2 и качеством предмета Stun Damage.</Description>
     <Source Page="45">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Categories />
@@ -1596,15 +1554,15 @@ A field disruptor is normally used to disable the shields and potentially the el
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>When in contact with another energy field, the field ceases to offer any defense.</MiscDesc>
+        <MiscDesc>При контакте с другим энергетическим полем оно перестает защищать.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>When entering engaged range with a droid, the droid suffers 5 Stun damage.</MiscDesc>
+        <MiscDesc>Когда дроид входит в зону поражения, он получает 5 Stun Damage.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>When entering engaged range with an electronic device, the device becomes inactive for the rest of the encounter.</MiscDesc>
+        <MiscDesc>При входе в зону поражения с электронным устройством оно становится неактивным до конца встречи.</MiscDesc>
       </Mod>
     </BaseMods>
     <WeaponModifiers>
@@ -1624,11 +1582,11 @@ A field disruptor is normally used to disable the shields and potentially the el
   </Armor>
   <Armor>
     <Key>JEDIBA</Key>
-    <Name>Jedi Battle Armor</Name>
+    <Name>Боевая броня джедая</Name>
     <Description>
-      [H3]Jedi Battle Armor[h3]
-[P]When the Jedi battled Sith warriors in ancient days, many wore suits of armor to protect themselves from the weapons of their enemies.  Crafted by some of the best armorsmiths in the galaxy, these suits of battle armor were extremely resistant to cutting edges and baster fire alike. They were also quite cumbersome, and each one was custom forged for its wearer. Though hundreds of such suits were made, only a handful have survived to the present day in anything resembling usable condition, and all specimens are still fitted to their wearers of old.
-[P]A character wearing Jedi battle armor fitted for somebody else adds [SE][SE] to all Combat checks. A suit of Jedi battle armor can be fitted to a new wearer with a Hard ([DI][DI][DI]) Mechanics check that takes an hour to complete. Jedi battle armor is eligible to be sealed against the vacuum and other hazardous environments.</Description>
+      [H3]Боевая броня джедая[h3]
+[P]Когда в древние времена джедаи сражались с воинами ситхов, многие из них облачались в броню, чтобы защититься от оружия врагов. Изготовленные лучшими оружейниками галактики, эта боевая броня были чрезвычайно устойчивы как к режущим кромкам, так и к выстрелам из бастера. При этом они были довольно громоздкими, и каждый из них изготавливался по индивидуальному заказу. Хотя таких костюмов были изготовлены сотни, до наших дней в пригодном для использования состоянии дошли лишь несколько штук, и все они по-прежнему подогнаны под своих прежних владельцев.
+[P]Персонаж, носящий боевую броню джедая, подогнанную для кого-то другого, добавляет [SE][SE] ко всем проверкам Боя. Костюм боевой брони джедая может быть подогнан под нового владельца с помощью проверки "Механики" со сложностью ([DI][DI][DI]), которая занимает час. Боевая броня джедаев может быть изолирована от вакуума и других опасных сред.</Description>
     <Source Page="47">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -1648,11 +1606,11 @@ A field disruptor is normally used to disable the shields and potentially the el
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Wearing Jedi Battle Armor fitted for someone else adds [SE][SE] to all combat checks.</MiscDesc>
+        <MiscDesc>Ношение боевых доспехов джедая, подогнанных для кого-то другого, добавляет [SE][SE] ко всем боевым проверкам.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Fitting to new wearer requires a [B]Hard ([DI][DI][DI]) Mechanics check[b] and an hour to complete.</MiscDesc>
+        <MiscDesc>Подгонка под нового владельца требует [B]Сложной ([DI][DI][DI]) проверки "Механики"[b] и часа времени.</MiscDesc>
       </Mod>
     </BaseMods>
     <Defense>1</Defense>
@@ -1660,13 +1618,13 @@ A field disruptor is normally used to disable the shields and potentially the el
   </Armor>
   <Armor>
     <Key>JEDICOMM</Key>
-    <Name>Jedi Commander Armor</Name>
-    <Description>[H3]Jedi Commander Armor[h3]
-The traditional robes of the Jedi are appropriate for their work as mediators and peacekeepers, but when leading detachments of clone troopers, many Jedi have opted for additional protection to fit their new role. Although there is no standard-issue Jedi armor, Republic armorers working with the Jedi Temple have modified clone trooper suits to meet the needs of the Jedi generals on several occasions.
+    <Name>Броня командира джедая</Name>
+    <Description>[H3]Броня командира джедая[h3]
+Традиционные одеяния джедаев подходят для их работы в качестве посредников и миротворцев, но, возглавляя отряды клонов штурмовиков, многие джедаи предпочитают использовать дополнительную защиту, чтобы соответствовать своей новой роли. Хотя стандартных джедайских доспехов не существует, республиканские оружейники, сотрудничающие с Храмом джедаев, неоднократно модифицировали костюмы клонов штурмовиков в соответствии с потребностями генералов-джедаев.
 
-[P]The most important laminate plates of the armor are fitted over a loose robe to make a garment that offers vital protection in battle without compromising acrobatic lightsaber forms and Force-assisted maneuvers.
+[P]Самые важные пластины доспехов крепятся поверх свободной робы, чтобы создать одежду, обеспечивающую надежную защиту в бою без ущерба для акробатических движений со световым мечом и маневров с использованием Силы.
 
-[P]The silhouette and exact systems of the armor vary based on the Jedi commissioning the modifications, but the basic designs are similar enough that the so-called "Jedi commander armor" is a recognizable sight across the battlefields of the Clone Wars.</Description>
+[P]Силуэт и точные системы доспехов зависят от джедая, заказавшего модификацию, но основные конструкции достаточно схожи, чтобы так называемые «доспехи командира джедая» были узнаваемы на полях сражений Войн клонов.</Description>
     <Source Page="57">Дополнение: Восстание сепаратистов</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -1686,12 +1644,11 @@ The traditional robes of the Jedi are appropriate for their work as mediators an
   </Armor>
   <Armor>
     <Key>JEDITEMGUAARM</Key>
-    <Name>Jedi Temple Guard Armor</Name>
+    <Name>Броня стража храма джедаев</Name>
     <Description>
-      [H3]Jedi Temple Guard Armor[h3]
-[P]The Jedi Temple Guard were some of the best fighters the Jedi Order had to offer, sworn to protect the temple to the end. The armor they wore was as imposing as it was effective. Temple Guard armor consists of brown armored robes a helmet and an impassive, emotionless mask. Anonymity was as important to a Jedi Temple Guard as combat skill, and they were sworn to be completely impartial in the execution of their duty. Though the records state that all members of the Jedi Temple Guard were slain by Darth Vader and the 501st Legion troops he lead, some of their battlegear survives in private collections and lost corners of the galaxy.
-[P]The armored mask contains a helmet comlink and an in-helmet scanner.
-    </Description>
+      [H3]Броня стража храма джедаев[h3]
+[P]Храмовая стража джедаев - одни из лучших бойцов Ордена джедаев, поклявшиеся защищать храм до конца. Броня, которую они носили, были столь же внушительны, сколь и эффективны. Броня стража храма состояла из коричневой бронированной робы, шлема и бесстрастной, безэмоциональной маски. Анонимность была для Храмового стража джедаев не менее важна, чем боевое мастерство, и они поклялись быть абсолютно беспристрастными при исполнении своего долга. Хотя в записях говорится, что все члены Храмовой стражи джедаев были убиты Дартом Вейдером и возглавляемыми им войсками 501-го легиона, часть их боевого оружия сохранилась в частных коллекциях и затерянных уголках галактики.
+[P]Бронированная маска содержит нашлемный комлинк и внутришлемный сканер.</Description>
     <Source Page="48">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -1707,11 +1664,11 @@ The traditional robes of the Jedi are appropriate for their work as mediators an
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Contains helmet comlink.</MiscDesc>
+        <MiscDesc>Шлем содержит комлинк.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Contains integrated scanner.</MiscDesc>
+        <MiscDesc>Содержит встроенный сканер.</MiscDesc>
       </Mod>
     </BaseMods>
     <WeaponModifiers />
@@ -1720,13 +1677,12 @@ The traditional robes of the Jedi are appropriate for their work as mediators an
   </Armor>
   <Armor>
     <Key>JEDITRAINSUIT</Key>
-    <Name>Jedi Training Suit (Unweighted)</Name>
+    <Name>Тренировочный костюм джедая (без веса)</Name>
     <Description>
-      [H3]Jedi Training Suit (Unweighted)[h3]
-The armor utilized by Jedi Padawans in training was far from functional, but it still shows up occasionally, especially in the possession of lose students who have lost their masters. The typical training suit features bulky, heavily padded chest, leg and arm pieces designed to absorb the stunning blows of training lightsabers. Training suits also incorporate weights in their major components so that learners can get used to the effects armor has on their mobility.
-[P]Jedi training suits were a common sight in the Jedi temple, often accompanied by WJ-880 blinding helmets. Padawans in the early phases of their training were made to wear their suits on a daily basis. The constant weight of the suit helped physically strengthen the Jedi-to-be. Most training suits incorporated bright colors so their purpose as a training tool was obvious. These colors were also used to differentiate teams of Padawans during group training.
-[P]Unless the integrated weights are removed, a Jedi training suit has an encumbrance of 6. Removal of these weights, which requires which requires an Easy ([DI]) Mechanics check, reduces the suit's encumbrance to 4. At the GM's discretion, training while wearing the weights might help a character develop physical fitness or adapt to high-gravity environments.
-    </Description>
+      [H3]Тренировочный костюм джедая (без веса)[h3]
+Броня, в которой обучались падаваны-джедаи, была далеко не функциональной, но она до сих пор иногда встречается, особенно у тех учеников, которые потеряли своих мастеров. Типичный тренировочный костюм имеет громоздкие, сильно набитые нагрудные, ножные и нарукавные части, предназначенные для поглощения ошеломляющих ударов тренировочных световых мечей. Тренировочные костюмы также включают в себя утяжелители, чтобы ученики могли привыкнуть к тому, как броня влияет на их подвижность.
+[P]Тренировочные костюмы джедаев были обычным явлением в храме джедаев, часто сопровождаемые шлемами WJ-880. Падаванов на ранних стадиях обучения заставляли носить костюмы ежедневно. Постоянный вес костюма помогал физически укрепить будущего джедая. В большинстве тренировочных костюмов использовались яркие цвета, чтобы их назначение как тренировочного инструмента было очевидным. Эти цвета также использовались для различения команд падаванов во время групповых тренировок.
+[P]Если встроенные утяжелители не сняты, тренировочный костюм джедая имеет "нагрузку" 6. Снятие этих утяжелителей, для чего требуется проверка "Механики" cо сложностью ([DI]), снижает "нагрузку" костюма до 4. По усмотрению ГМа, тренировки в утяжелителях могут помочь персонажу развить физическую форму или адаптироваться к условиям высокой гравитации.</Description>
     <Source Page="48">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -1747,12 +1703,12 @@ The armor utilized by Jedi Padawans in training was far from functional, but it 
   </Armor>
   <Armor>
     <Key>JEDITRAINSUITW</Key>
-    <Name>Jedi Training Suit (Weighted)</Name>
+    <Name>Тренировочный костюм джедая (утяжеленный)</Name>
     <Description>
-      [H3]Jedi Training Suit (Weighted)[h3]
-The armor utilized by Jedi Padawans in training was far from functional, but it still shows up occasionally, especially in the possession of lose students who have lost their masters. The typical training suit features bulky, heavily padded chest, leg and arm pieces designed to absorb the stunning blows of training lightsabers. Training suits also incorporate weights in their major components so that learners can get used to the effects armor has on their mobility.
-[P]Jedi training suits were a common sight in the Jedi temple, often accompanied by WJ-880 blinding helmets. Padawans in the early phases of their training were made to wear their suits on a daily basis. The constant weight of the suit helped physically strengthen the Jedi-to-be. Most training suits incorporated bright colors so their purpose as a training tool was obvious. These colors were also used to differentiate teams of Padawans during group training.
-[P]Unless the integrated weights are removed, a Jedi training suit has an encumbrance of 6. Removal of these weights, which requires which requires an Easy ([DI]) Mechanics check, reduces the suit's encumbrance to 4. At the GM's discretion, training while wearing the weights might help a character develop physical fitness or adapt to high-gravity environments.      </Description>
+      [H3]Тренировочный костюм джедая (утяжеленный)[h3]
+Броня, в которой обучались падаваны-джедаи, была далеко не функциональной, но она до сих пор иногда встречается, особенно у тех учеников, которые потеряли своих мастеров. Типичный тренировочный костюм имеет громоздкие, сильно набитые нагрудные, ножные и нарукавные части, предназначенные для поглощения ошеломляющих ударов тренировочных световых мечей. Тренировочные костюмы также включают в себя утяжелители, чтобы ученики могли привыкнуть к тому, как доспехи влияют на их подвижность.
+[P]Тренировочные костюмы джедаев были обычным явлением в храме джедаев, часто сопровождаемые шлемами WJ-880. Падаванов на ранних этапах обучения заставляли носить костюмы ежедневно. Постоянный вес костюма помогал физически укрепить будущего джедая. В большинстве тренировочных костюмов использовались яркие цвета, чтобы их назначение как тренировочного инструмента было очевидным. Эти цвета также использовались для различения команд падаванов во время групповых тренировок.
+[P]Если встроенные утяжелители не сняты, тренировочный костюм джедая имеет "нагрузку" 6. Снятие этих утяжелителей, для чего требуется проверка "Механики" со сложностью ([DI]), снижает "нагрузку" костюма до 4. По усмотрению ГМа, тренировки в утяжелителях могут помочь персонажу развить физическую форму или адаптироваться к условиям высокой гравитации.</Description>
     <Source Page="48">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -1769,7 +1725,7 @@ The armor utilized by Jedi Padawans in training was far from functional, but it 
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Removing weights requires an [B]Easy ([DI]) Mechanics check[b].</MiscDesc>
+        <MiscDesc>Для снятия веса требуется [B]Легкая ([DI]) проверка "Механики"[b].</MiscDesc>
       </Mod>
     </BaseMods>
     <WeaponModifiers />
@@ -1778,13 +1734,13 @@ The armor utilized by Jedi Padawans in training was far from functional, but it 
   </Armor>
   <Armor>
     <Key>KAVDANNPA</Key>
-    <Name>Kav-Dann Power Armor</Name>
+    <Name>Силова броня Kav-Dann</Name>
     <Description>
-      [H3]Kav-Dann Power Armor[h3]
-[P]Developed by the various interests and groups in secret on Nubia following the Empire's rise to prominence. Kav-Dann series power armor is named after a reptilian predator native to the world. Though intended for sale to the Rebel Alliance, the Imperial presence on Nubia has prevented meaningful distribution of the experimental suit. Available at a premium price, especially considering its clandestine status. Kav-Dann power armor presents a highly customizable canvas for individuals involved in high-risk combat situations.
-[P]Bulky and intimidating, Kav-Dann power armor presents a fully sealed chassis that is impervious to most adverse environments, including open space. The suit comes equipped with few amenities by default. The Nubian engineers who created the Kav-Dann power armor intended for major modifications and upgrades to be made by the buyer, which both reduces the expense of the suit and decreases manufacturing time.
-[P]Like many other varieties of powered armor, a Kav-Dann suit is spaceworthy and includes a full life-support suite that can be modified for most alien physiologies. A wearer can survive for four hours in a vacuum or unbreathable atmosphere, and gains [BO] to checks to resist the effects of radiation. The helmet incorporates the long-range comlink and a basic visual package that allows for the wearer to remove [SE] caused by darkness, smoke or other environmental factors that might affect vision from all Perception, Vigilance, and Combat checks.
-[P]Kav-Dann power armor increases the wearer's Brawn by 1 so long as it remains powered, though this bonus does not increase the user's soak or wound threshold. The listed encumbrance of 4 reflects the bulk of the armor when powered. If the suit loses power for any reason, the encumbrance increases to 12, defense is reduced to -, and the bonus to Brawn is lost. Donning a suit of Kav-Dann power armor takes ten minutes, though this time can be halved if the wearer is assisted.</Description>
+      [H3]Силова броня Kav-Dann[h3]
+[P]Разработанная различными группами и интересами в тайне на Нубии после рассвета Империи. Силовая броня серии Kav-Dann названа в честь рептильного хищника, обитающего в этом мире. Хотя она предназначалась для продажи Альянсу повстанцев, присутствие Империи на Нубии не позволило распространить экспериментальный костюм. Он доступен по высокой цене, особенно учитывая его тайный статус. Силовая броня Kav-Dann - это возможность индивидуальной настройки для людей, участвующих в рискованных боевых ситуациях.
+[P]Громоздкая и устрашающая силовая броня Kav-Dann представляет собой полностью герметичное шасси, невосприимчивое к большинству неблагоприятных условий, включая открытый космос. По умолчанию костюм оснащен небольшим количеством удобств. Нубийские инженеры, создавшие силовую броню Kav-Dann, предусмотрели, что основные модификации и обновления будут производиться покупателем, что снижает стоимость костюма и сокращает время изготовления.
+[P]Как и многие другие разновидности силовой брони, костюм Kav-Dann пригоден для использования в космосе и включает в себя полный комплекс жизнеобеспечения, который может быть модифицирован для большинства инопланетных физиологий. Носитель может выжить в течение 4 часов в вакууме или безвоздушной атмосфере и получает [BO] к проверкам на сопротивление воздействию радиации. В шлем встроена связь дальнего действия и базовый визуальный пакет, позволяющий владельцу убрать [SE], вызванное темнотой, дымом или другими факторами окружающей среды, которые могут повлиять на зрение, со всех проверок "Внимания", "Бдительности" и Боя.
+[P]Силовая броня Kav-Dann увеличивает "Силу (Brawn)" владельца на 1, пока она работает, но этот бонус не увеличивает порог "поглощения" и "ран". Указанная в списке "нагрузка" в 4 единицы отражает массу доспеха при питании. Если костюм по какой-либо причине теряет энергию, то "нагрузка" увеличивается до 12, защита снижается до -, а бонус к "Силе (Brawn)" теряется. Надевание силовой брони Kav-Dann занимает десять минут, хотя это время может быть сокращено вдвое, если владельцу помогают.</Description>
     <Source Page="48">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -1809,12 +1765,12 @@ The armor utilized by Jedi Padawans in training was far from functional, but it 
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Remove [SE] caused by darkness, smoke, or other environmental factors that might affect vision from Perception, Vigilance, and Combat checks.</MiscDesc>
+        <MiscDesc>Уберите [SE], вызванное темнотой, дымом или другими факторами окружающей среды, которые могут повлиять на зрение, из проверок "Внимания", "Бдительности" и Боя.</MiscDesc>
       </Mod>
       <Mod>
         <Key />
         <Count>1</Count>
-        <MiscDesc>Gain [BO] to resist the effects of radiation.</MiscDesc>
+        <MiscDesc>Добавьте [BO], чтобы противостоять воздействию радиации.</MiscDesc>
       </Mod>
     </BaseMods>
     <WeaponModifiers />
@@ -1823,11 +1779,11 @@ The armor utilized by Jedi Padawans in training was far from functional, but it 
   </Armor>
   <Armor>
     <Key>KOROHALFVEST</Key>
-    <Name>Koromondian Half-Vest</Name>
+    <Name>Коромондианский полужилет</Name>
     <Description>
-      [H3]Koromondian Half-Vest[h3]
-[P]Referred to snidely as "bounty hunter insurance" by cynics across the galaxy, the Koromondian half-vest is a common variation of the Mk 45 protective vest produced by the Koromondian PDS, Inc. The vest is designed to protect the wearer from ambushes and sudden attacks from unexpected directions. However, its durability is sch that it quickly loses its  protective qualities as it absorbs damage. Despite this drawback, its low cost endears it to bounty hunters, paramilitary forces, security firms and anyone else short on credits.
-[P]Whenever a character wearing a Koromondian half-vest suffers a Critical Injury, the armor suffers minor damage (or becomes damaged by one additional step if it is already damaged, as described on page 166 of the Книга правил: Сила и судьба.)      </Description>
+      [H3]Коромондианский полужилет[h3]
+[P]Коромондианский полужилет, который циники по всей галактике ехидно называют «страховкой охотника за головами», - это распространенная разновидность защитного жилета Mk 45, выпускаемого коромондианской компанией PDS, Inc. Жилет предназначен для защиты владельца от засад и внезапных атак с неожиданных направлений. Однако его прочность такова, что он быстро теряет свои защитные свойства по мере поглощения урона. Несмотря на этот недостаток, его низкая стоимость привлекает охотников за головами, военизированные формирования, охранные фирмы и всех, кто испытывает нехватку кредитов.
+[P]Когда персонаж, носящий коромондианский полужилет, получает "критическое ранение", доспех получает незначительное повреждение (или становится поврежденным на одну дополнительную ступень, если он уже поврежден, как описано на странице 166 Книги правил: Сила и судьба).</Description>
     <Source Page="49">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -1842,7 +1798,7 @@ The armor utilized by Jedi Padawans in training was far from functional, but it 
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>When wearer suffers Critical Injury, armor suffers minor damage, or increases current damage by one step.</MiscDesc>
+        <MiscDesc>Когда носитель получает "критическое ранение", броня получает незначительный урон или увеличивает текущий урон на один шаг.</MiscDesc>
       </Mod>
     </BaseMods>
     <Defense>1</Defense>
@@ -1850,14 +1806,14 @@ The armor utilized by Jedi Padawans in training was far from functional, but it 
   </Armor>
   <Armor>
     <Key>LAM</Key>
-    <Name>Laminate</Name>
+    <Name>Ламинат</Name>
     <Description>
-      [H3]Laminate Armour[h3]
+      [H3]Ламинатная броня[h3]
 
-Imperial stormtroopers wear fully-enclosed plastoid armor that deflects and negates incoming damage. It won't stop a direct hit from a blaster, but is reasonably effective against indirect concussive damage and shrapnel. It typically includes vision magnification and integrated comlinks to others attuned to the same frequency. As the armor is designed to work with powered systems, it can be easily modified with after-market attachments.
+Имперские штурмовики носят полностью закрытую пластоидную броню, которая отражает и сводит на нет входящий урон. Она не остановит прямое попадание бластера, но достаточно эффективна против непрямых сотрясающих повреждений и осколков. Как правило, она включает в себя функцию увеличения зрения и встроенную связь с другими людьми, настроенными на ту же частоту. Поскольку броня предназначена для работы с энергосистемами, ее можно легко модифицировать с помощью дополнительного оборудования.
 
-[P]Laminate armor is worn over a tight-fitting body glove. This system offers significant insulation, making it easier to operate in all environments. For extended service in extreme environments, more specialized versions are made.
-[BR][B]Models Include:[b] Imperial Department of Military Research Stormtrooper Armor.</Description>
+[P]Ламинатная броня надевается поверх плотно прилегающих к телу перчаток. Эта система обеспечивает значительную изоляцию, что облегчает работу в любых условиях. Для длительной эксплуатации в экстремальных условиях выпускаются более специализированные версии.
+[BR][B]Модели включают:[b] Броня штурмовика имперского департамента военных исследований.</Description>
     <Sources>
       <Source Page="169">Книга правил: Край Империи</Source>
       <Source Page="185">Книга правил: Эпоха восстания</Source>
@@ -1880,14 +1836,14 @@ Imperial stormtroopers wear fully-enclosed plastoid armor that deflects and nega
   </Armor>
   <Armor>
     <Key>LECOUT</Key>
-    <Name>Lector's Outfit</Name>
+    <Name>Наряд лектора</Name>
     <Description>
-      [H3]Lector's Outfit[h3]
+      [H3]Наряд лектора[h3]
 
-For major addresses, politicians usually rely advanced, large-scale public address systems. However, most political agents have at one time or another found themselves pressed to make a grand speech with little preparation. Quick thinking usually carries such speeches, but an outfit equipped with technology to make one audible even above a roaring crowd helps. Several small, powerful speakers and a collar microphone make sure that the wearer's words reach even distant ears.
+При подготовке крупных выступлений политики обычно прибегают к помощи современных масштабных систем оповещения. Однако большинство политических агентов в то или иное время сталкивались с необходимостью произнести грандиозную речь без особой подготовки. Обычно такие речи произносятся на скорую руку, но в этом случае помогает экипировка, оснащенная технологиями, позволяющими сделать речь слышимой даже над ревущей толпой. Несколько маленьких, мощных динамиков и микрофон на воротнике позаботятся о том, чтобы слова владельца достигли даже отдаленных ушей.
 
-[P]A character wearing a lector's outfit adds [BO] to any social check involving a large group of listeners, and can be heard clearly even at considerable distances.
-[BR][B]Models include:[b] TaggeCo "Confidence" Outfit.</Description>
+[P]Персонаж в наряде лектора добавляет [BO] к любой социальной проверке, связанной с большой группой слушателей, и может быть хорошо слышен даже на значительных расстояниях.
+[BR][B]Модели включают:[b] Наряд TaggeCo «Уверенность».</Description>
     <Source Page="48">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -1904,25 +1860,23 @@ For major addresses, politicians usually rely advanced, large-scale public addre
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add [BO] to social checks involving large groups of listeners.</MiscDesc>
+        <MiscDesc>Добавляет [BO] при социальных проверках с участием больших групп слушателей.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Can be heard clearly at considerable range.</MiscDesc>
+        <MiscDesc>Хорошо слышно на значительном расстоянии.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>LEVPOWARM</Key>
-    <Name>Leviathan Power Armor</Name>
+    <Name>Силовая броня Leviathan</Name>
     <Description>
-      [H3]Leviathan Power Armor[h3]
-[P]Designed by the Mon Calamari for use in subaquatic military operations, Leviathan power armor has seen plenty of use within the Rebel Alliance. In particular, the Alliance employs Leviathan power armor during operations on aquatic Imperial facilities and targets. The armor not only provides protection from the pressure of deep-water operations, but acts as a stable weapons platform for its integrated flechette rifle and mini-torpedo launcher.
-[P]Though created for use by Mon Calamari, Leviathan suits can be modified to fit members of other species. More often than not, they are created for specific individuals by Mon Cal craftsmen. Much like Mon Calamari starships, each Leviathan suit is a unique work of art, and no two suits are identical in appearance.
-[P]Any character wearing a Leviathan suit that was not built for him upgrades the difficulty of Agility and Brawn-based checks once.
-[P]A Leviathan suit is fully sealed and has an integrated respirator (see page 195 of the Книга правил: Эпоха восстания). It automatically possesses the following attachments: a heating system, an enhanced optics suite, and a strength enhancement system (see page 187 of the Книга правил: Эпоха восстания). These attachments are already installed, and cannot be removed. Each suit is also equipped with one Mon Cal
-Defenses mini torpedo launcher and one Salus DF-D1 duo-flechette rifle.
-    </Description>
+      [H3]Силовая броня Leviathan[h3]
+[P]Разработанная мон-каламари для использования в подводных военных операциях, силовая броня «Leviathan» нашла широкое применение в рядах Альянса повстанцев. В частности, Альянс использует силовую броню «Leviathan» во время операций против водных имперских объектов и целей. Броня не только защищает от давления глубоководных операций, но и служит устойчивой оружейной платформой для встроенной винтовки флешетт и мини-торпедной установки.
+[P]Хотя костюмы Leviathan были созданы для мон-каламари, их можно модифицировать, чтобы они подходили представителям других видов. Чаще всего они создаются мастерами Мон Кала для конкретных людей. Как и звездолеты Мон-Каламари, каждый костюм Leviathan - это уникальное произведение искусства, и нет двух одинаковых костюмов по внешнему виду.
+[P]Любой персонаж, носящий костюм Leviathan, который был создан не для него, повышает сложность проверок на "Ловкость" и "Силу (Brawn)" один раз.
+[P]Костюм «Leviathan» полностью герметичен и оснащен встроенным респиратором (см. стр. 195 Книги правил: Эпоха восстания). На него автоматически устанавливаются следующие дополнения: система обогрева, улучшенная оптика и система повышения прочности (см. стр. 187 Книги правил: Эпоха восстания). Эти приспособления уже установлены и не могут быть удалены. Каждый костюм также оснащен одной мини-торпедной установкой Mon Cal Defenses и одной дуэльной винтовкой Salus DF-D1.</Description>
     <Source Page="109">Дополнение: Оплоты сопротивления</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -1944,39 +1898,23 @@ Defenses mini torpedo launcher and one Salus DF-D1 duo-flechette rifle.
     <Restricted>false</Restricted>
     <BaseMods>
       <Mod>
-        <MiscDesc>
-          Includes a built-in respirator
-        </MiscDesc>
+        <MiscDesc>Содержит встроенный респиратор.</MiscDesc>
         <Count>1</Count>
       </Mod>
       <Mod>
-        <MiscDesc>
-          Includes a built-in Mini-Torpedo Launcher
-        </MiscDesc>
+        <MiscDesc>В комплект входит встроенная мини-торпедная пусковая установка.</MiscDesc>
         <Count>1</Count>
       </Mod>
       <Mod>
-        <MiscDesc>
-          Includes a built-in DF-D1 Duo-Flechette Rifle
-        </MiscDesc>
+        <MiscDesc>В комплект входит встроенная винтовка DF-D1 Duo-Flechette.</MiscDesc>
         <Count>1</Count>
       </Mod>
       <Mod>
-        <MiscDesc>
-          Reduces the difficulty of Resilience checks made
-          to resist the effects extreme cold by one.
-          Removes up to [SETBACK][SETBACK] added to checks
-          due to extreme cold.
-        </MiscDesc>
+        <MiscDesc>Снижает сложность проверок "Стойкости", сделанных для сопротивления эффектам сильного холода, на 1. Убирает до [SETBACK][SETBACK], добавленных к проверкам из-за сильного холода.</MiscDesc>
         <Count>1</Count>
       </Mod>
       <Mod>
-        <MiscDesc>
-          Removes up to [SETBACK][SETBACK] added to all Perception,
-          Vigilance, and combat skill checks
-          due to darkness, smoke, or other environmental effects
-          that obscure vision.
-        </MiscDesc>
+        <MiscDesc>Убирает до [SETBACK][SETBACK], добавленных ко всем проверкам "Внимания", "Бдительности" и боевых навыков из-за темноты, дыма или других эффектов окружающей среды, которые затуманивают зрение.</MiscDesc>
         <Count>1</Count>
       </Mod>
       <Mod>
@@ -2012,7 +1950,7 @@ Defenses mini torpedo launcher and one Salus DF-D1 duo-flechette rifle.
         <BaseMods>
           <Mod>
             <Count>1</Count>
-            <MiscDesc>All combat checks to operate outside of water have their difficulty upgraded twice.</MiscDesc>
+            <MiscDesc>Сложность всех боевых проверок, позволяющих действовать вне воды, повышается в 2 раза.</MiscDesc>
           </Mod>
         </BaseMods>
       </WeaponModifier>
@@ -2049,14 +1987,13 @@ Defenses mini torpedo launcher and one Salus DF-D1 duo-flechette rifle.
   </Armor>
   <Armor>
     <Key>MANDOARM</Key>
-    <Name>Mandalorian Armor</Name>
+    <Name>Мандалорская броня</Name>
     <Description>
-      [H3]Mandalorian Armor[h3]
-Although the ancient warrior culture of the Mandalorians is long past its heyday, its presence can still be felt on many worlds. Among the most recognizable Mandalorian items are their meticulously crafted suits of battle armor. Suits of Mandalorian armor offer some of the best personal protection in the galaxy, and their owner typically take advantage of the superlative construction to install numerous additional sub-systems and weapons. While there are few armorers capable of crafting this armor, the prestige of owning it comes at a premium to many bounty hunters.
-[P]Some hunters feel a spiritual kinship with the legendary Mandalorian warriors, who are described in stories across the galaxy as deadly—if ruthless—warriors and hunters. Others revel in the fear the suits still inspire, and many more simply recognize the quality of the armor as better than many of the best modern designs.
-[P]A few warriors even claim lineal descent from the old Mandalorian clans, such as the Death Watch terrorist group from the Clone Wars, although not everyone takes such claims seriously. Whatever their reasons, hunters who acquire Mandalorian armor often value their suits above nearly any other possession, and customize them with carefully selected modifications. Such upgrades make the suits even more durable, provide new utility to the wearer, or conceal deadly tricks to help a bounty hunter get the edge in any situation.
-[P]PCs who wish to obtain Mandalorian armor may find the effort of getting a suit worthy of the name more challenging than buying other gear. See [B]Acquiring Mandalorian Armor[b] for suggestions on acquiring Mandalorian armor with upgrades installed.
-    </Description>
+      [H3]Мандалорская броня[h3]
+Хотя древняя воинская культура мандалорцев давно пережила свой расцвет, ее присутствие все еще ощущается во многих мирах. Среди самых узнаваемых предметов мандалорцев - их тщательно изготовленные боевые доспехи. Мандалорская броня - одна из лучших личных защит в галактике, а их владельцы обычно используют преимущества превосходной конструкции для установки многочисленных дополнительных подсистем и оружия. Хотя оружейников, способных изготовить такую броню, немного, престиж обладания ею дорогого стоит для многих охотников за головами.
+[P]Некоторые охотники чувствуют духовное родство с легендарными мандалорианскими воинами, которые описываются в историях по всей галактике как смертоносные, но безжалостные воины и охотники. Другие упиваются страхом, который до сих пор внушают костюмы, а многие просто признают, что качество доспехов лучше многих современных образцов.
+[P]Некоторые воины даже заявляют о своем прямом происхождении от старых мандалорских кланов, таких как террористическая группа «Дозор смерти» времен Войн клонов, хотя не все воспринимают такие заявления всерьез. Какими бы ни были причины, охотники, приобретающие мандалорскую броню, часто ценят свои костюмы превыше всего остального и настраивают их с помощью тщательно отобранных модификаций. Такие модификации делают костюмы еще более прочными, предоставляют владельцу новые возможности или скрывают смертоносные уловки, помогающие охотнику за головами получить преимущество в любой ситуации.
+[P]Игроки, желающие получить мандалорскую броню, могут столкнуться с тем, что получить костюм, достойный этого имени, сложнее, чем купить другое снаряжение. Рекомендации по приобретению мандалорской брони с установленными улучшениями см. в [B]Приобретение мандалорской брони[b].</Description>
     <Source Page="50">Дополнение: Без дезинтеграций</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -2076,11 +2013,11 @@ Although the ancient warrior culture of the Mandalorians is long past its heyday
   </Armor>
   <Armor>
     <Key>MECHUTILSUIT</Key>
-    <Name>Mechanic's Utility Suit</Name>
+    <Name>Универсальный костюм механика</Name>
     <Description>
-      [H3]Mechanic's Utility Suit[h3]
-Not so much armor as an adaptation applied to the rugged clothing common to Technicians on the go, a utility suit is bedecked with pockets, attachment hooks, and gear straps. The shape of the suit varies based on the creator, although retail models tend to resemble dusters or trenchcoats over a pocket-festooned apron.
-[P]The wearer counts as having a tool kit (see pages 181-182 of the [B]Книга правил: Край Империи[b]).</Description>
+      [H3]Универсальный костюм механика[h3]
+Не столько броня, сколько адаптация к грубой одежде, характерной для техников, которые находятся в пути, - универсальный костюм украшен карманами, крючками для крепления и ремнями для снаряжения. Форма костюма зависит от его создателя, но розничные модели обычно напоминают пыльники или плащи поверх фартука, украшенного карманами.
+[P]Носитель считается имеющим набор инструментов (см. страницы 181-182 [B]Книга правил: Край Империи[b]).</Description>
     <Source Page="48">Дополнение: Особые модификации</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -2097,7 +2034,7 @@ Not so much armor as an adaptation applied to the rugged clothing common to Tech
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Counts as having a tool kit.</MiscDesc>
+        <MiscDesc>Считается, что у вас есть набор инструментов.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
@@ -3088,7 +3025,7 @@ The Mk.IV Riot Armor is one of Creshaldyne Industries' most popular offerings. S
 Woven from the silk of the umbraspider, Sakiyan shadowsuits are used by assassins who wish to remain unseen. The silk has unusual properties, refracting and absorbing light in a way that makes the umbraspiders webs virtually invisible. The Sakiyans have put this extraordinary material to use in crafting body gloves that make the wearer almost impossible to see except in bright light. Chemists working for Ayelixe/Krongbing Textiles were able to synthesize shadowsilk by studying the properties of Defel fur, but Sakiyans contend that the silk of the umbraspider is superior.
 
 [P]A Sakiyan shadowsuit grants [BO][BO] to Stealth checks.</Description>
-    <Source Page="105">Lords of Nal Hutta</Source>
+    <Source Page="105">Дополнение: Лорды Нал-Хатта</Source>
     <Custom>DescOnly</Custom>
     <Type />
     <Categories>

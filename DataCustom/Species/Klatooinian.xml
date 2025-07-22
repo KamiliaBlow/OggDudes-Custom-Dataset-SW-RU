@@ -62,8 +62,8 @@
       <Options>
         <Option>
           <Key>KLATOC2OP1</Key>
-          <Name>Ранг в Силе (Brawl)</Name>
-          <Description>Клатуинцам можно начать игру с одним рангом "Силы (Brawl)".</Description>
+          <Name>Ранг в Силе (Brawn)</Name>
+          <Description>Клатуинцам можно начать игру с одним рангом "Силы (Brawn)".</Description>
           <SkillModifiers>
             <SkillModifier>
               <Key>BRAWL</Key>
