@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <SigAbility xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Key>UNMATCHEDTEAMWORK</Key>
-  <Name>Unmatched Teamwork</Name>
-  <Description>[H4]Unmatched Teamwork[h4]
-From the day of their decanting, Clone Soldiers learns to fight as a team with their brothers. This is reinforced through education and endless hours of exercises and training. Clones continue to hone those skills and bonds of brotherhood as they proceed from the training simulations of Kamino to the real battlefields they encounter across the galaxy. Working together is second nature for clones, and experienced Clone Soldiers demonstrate an uncanny ability to act in sync with their brothers.
+  <Name>Непревзойденная командная работа</Name>
+  <Description>[H4]Непревзойденная командная работа[h4]
+С самого первого дня своего появления солдаты клоны учатся сражаться в команде со своими братьями. Этому способствуют обучение и бесконечные часы упражнений и тренировок. Клоны продолжают оттачивать эти навыки и укреплять братские узы, переходя от учебных симуляций на Камино к реальным полям сражений, с которыми они сталкиваются по всей галактике. Совместная работа является второй натурой для клонов, и опытные клонированные солдаты демонстрируют удивительную способность действовать в синхроне со своими братьями.
 
-[BR][P]Once per session as an incidental, the character may spend 2 Destiny Points to activate Unmatched Teamwork. Until the end of the encounter, the character may assist another character as an incidental (instead of a maneuver) once per round.</Description>
-  <Source Page="46">Collapse of the Republic</Source>
+[BR][P]Один раз за сессию в качестве свободного действия персонаж может потратить 2 очка "Судьбы", чтобы активировать "Непревзойденную командную работу". До конца встречи персонаж может 1 раз за раунд помогать другому персонажу в качестве свободного действия (вместо маневра).</Description>
+  <Source Page="46">Дополнение: Падение республики</Source>
   <Custom>DescOnly</Custom>
   <AbilityRows>
     <AbilityRow>
