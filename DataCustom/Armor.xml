@@ -612,7 +612,7 @@
     <Description>[H3]Скалолазный костюм Ayelixe/Krongbing[h3]
 Скалолазный костюм от Ayelixe/Krongbing - это популярный комплект легкой брони, разработанный специально для скалолазания и раппелинга. Созданный из легкой, эластичной ткани с ударопоглощающим усилением в важных местах тела, Скалолазный костюм представляет собой полный костюм, включающий перчатки, ботинки и шлем со встроенным поляризованным козырьком. Чтобы помочь владельцу при подъеме или спуске, броня оснащена двумя системами помощи при подъеме: встроенной обвязкой для скалолазания и запатентованным покрытием FrictionGrip.
 [P]Интегрированная обвязка включает в себя несущие ремни, обхватывающие талию и ноги пользователя, пряжки для снаряжения и 300-метровую выдвижную катушку высокопрочной альпинистской веревки. Система FrictionGrip - это специальное покрытие на перчатках, ботинках, коленях, локтях и предплечьях костюма, которое использует тысячи микроскопических нитей для сцепления с поверхностью, подобно насекомым или арахнидам. Эти системы позволяют надежно удерживать пользователя на поверхности или помогают ему выжить в случае падения.
-[P]Ношение Скалолазного комбинезона повышает способность пользователя к проверкам подъема или спуска по поверхности на один раз. Костюм для скалолазания также снижает урон и "усталость" от падения на 5 и снижает результаты "критических повреждений" от падения на 10.</Description>
+[P]Ношение Скалолазного комбинезона повышает количество кубов (З) пользователя к проверкам подъема или спуска по поверхности на 1. Костюм для скалолазания также снижает урон и "усталость" от падения на 5 и снижает результаты "критических повреждений" от падения на 10.</Description>
     <Source Page="41">Дополнение: Шифры и Маски</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -628,7 +628,7 @@
     <Restricted>false</Restricted>
     <BaseMods>
       <Mod>
-        <MiscDesc>Однократно повышает способность проверок на подъем или спуск по поверхности.</MiscDesc>
+        <MiscDesc>Повышает количество кубов (З) проверок на подъем или спуск по поверхности, на 1.</MiscDesc>
       </Mod>
       <Mod>
         <MiscDesc>Уменьшает урон и "усталость" от падения на 5.</MiscDesc>
@@ -2040,15 +2040,15 @@
   </Armor>
   <Armor>
     <Key>MEGAFAUNA</Key>
-    <Name>H-Series Megafauna Carriage</Name>
+    <Name>Каретка для мегафауны серии H</Name>
     <Description>
-      [H3]H-Series Megafauna Carriage[h3]
+      [H3]Каретка для мегафауны серии H[h3]
 
-Piccatech's H-series megafauna carriage is an essential piece of kit for those working with oversized creatures. Known colloquially as a howdah, at its most basic the H-series megafauna carriage is little more than a broad platform that straps to the back of a large creature. They come in a range of sizes, can be built to fit nearly any large beast, and can be built to carry passengers, cargo, or a combination thereof. A variety of options are offered for the H-series, including different rails and safety features, canopies, environmentally sealed enclosures, or nearly anything else a customer might desire.
+Каретка для мегафауны серии H от Piccatech - незаменимая вещь для тех, кто работает с огромными существами. Известная в просторечии как «хауда», по своей сути повозка для мегафауны серии H - это не более чем широкая платформа, которая крепится к спине крупного существа. Они бывают разных размеров, могут быть изготовлены под любого крупного зверя и предназначены для перевозки пассажиров, грузов или их комбинации. Для серии H предлагается множество опций, включая различные рельсы и элементы безопасности, навесы, герметичные корпуса и почти все остальное, что может пожелать заказчик.
 
-[P]A beast must have a silhouette of at least 3 and a Brawn of at least 5 to be fitted with a howdah. Basic howdah configurations are readily available for beasts with a tetrapodal or quadrupedal stance, like the fambaa or dewback, at the listed price. Howdahs for creatures with more appendages, like the six-legged acklay, can be had for a small additional fee, generally 500 credits. Howdahs can be armored and fitted with one or two Gunnery or vehicle-scale weapons, following the usual restrictions for silhouette as outlined on page 287 of the [B]Age of Rebellion[b] Core Rulebook.
+[P]Для установки хаудаха зверь должен иметь силуэт не ниже 3 и "Телосложение" не ниже 5. Базовые конфигурации хаудахов для четвероногих или четырехногих зверей, таких как фамбаа или рососпинник, можно приобрести по указанной цене. Хаудахы для существ с большим количеством конечностей, таких как шестиногий аклай, можно приобрести за небольшую дополнительную плату, обычно 500 кредитов. Хаудахы могут быть бронированы и оснащены одним или двумя орудиями оружейного или транспортного масштаба, следуя обычным ограничениям для силуэта, как описано на странице 287 Книги правил [B]Эпоха восстания[b].
 
-[P]A megafauna carriage can only be equipped to bestial riding animals. In addition to its other effects, using it allows the character to ride the beast without suffering the bareback riding penalties discussed on page 81.</Description>
+[P]Каретку мегафауны можно экипировать только на звероподобных ездовых животных. В дополнение к другим эффектам, ее использование позволяет персонажу ездить на звере без штрафов за езду верхом, о которых говорилось на стр. 81.</Description>
     <Source Page="43">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -2065,27 +2065,27 @@ Piccatech's H-series megafauna carriage is an essential piece of kit for those w
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>May only be worn by a beast.</MiscDesc>
+        <MiscDesc>Может носить только животное.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Requires silhouette 3+ and Brawn 5+.</MiscDesc>
+        <MiscDesc>Требуется силуэт 3+ и "Телосложение" 5+.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>May ride a beast without suffering bareback penalty.</MiscDesc>
+        <MiscDesc>Можно ездить верхом на звере, не подвергаясь штрафу за езду верхом.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>MIMETICSUIT</Key>
-    <Name>Mimetic Suit</Name>
+    <Name>Миметический костюм</Name>
     <Description>
-      [H3]Mimetic Suit[h3]
+      [H3]Миметический костюм[h3]
 
-A combination of highly advanced materials and applied sciences, mimetic suits are the apex of personal cloaking technology. Able to bend light around the wearer to make him virtually invisible, the suit also contains sound dampeners, as well as electromagnetic and heat shielding, to make him even stealthier. While other stealth suits rely principally on special materials, mimetic suits must actually be energized in order to cloak the wearer, and they require a small power pack, generally affixed to the belt, to function properly. The power packs are usually only good for an hour of continuous use before they need to be switched out or recharged. Illegal to own and difficult to obtain, mimetic suits are much sought after by criminals, thieves, and assassins throughout the galaxy.
+Сочетание передовых материалов и прикладных наук делает миметические костюмы вершиной технологии персональной маскировки. Костюм способен излучать свет вокруг владельца, делая его практически невидимым, а также содержит гасители звука, электромагнитные и тепловые экраны, чтобы сделать его еще более незаметным. В то время как другие стелс-костюмы в основном полагаются на специальные материалы, миметические костюмы должны питаться энергией, чтобы замаскировать владельца, и для их правильной работы требуется небольшой блок питания, обычно прикрепленный к поясу. Как правило, блоков питания хватает лишь на час непрерывного использования, после чего их нужно менять или перезаряжать. Нелегальные и труднодоступные, миметические костюмы пользуются большим спросом у преступников, воров и убийц по всей галактике.
 
-[P]Upgrade the ability of Stealth checks the wearer makes while wearing a mimetic suit twice while it is active. The GM may spend [TH][TH][TH] or [DE] on any Stealth check the wearer makes while the suit is active to have the battery run out of energy, causing the suit to stop functioning until it is replaced.</Description>
+[P]Повышает количество кубов проверок "Скрытности", которые делает владелец миметического костюма, в 2 раза, пока он активен. ГМ может потратить [TH][TH][TH] или [DE] на любой проверке "Скрытности", которую делает владелец костюма, пока тот активен, чтобы батарея разрядилась, в результате чего костюм перестанет функционировать, пока ее не заменят.</Description>
     <Source Page="47">Дополнение: Непринужденный полет</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -2101,7 +2101,7 @@ A combination of highly advanced materials and applied sciences, mimetic suits a
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Upgrade the ability of Stealth checks twice while suit is active.</MiscDesc>
+        <MiscDesc>Повышает количество кубов проверки "Скрытности", в 2 раза, пока костюм активен.</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillKey>STEAL</SkillKey>
@@ -2115,12 +2115,12 @@ A combination of highly advanced materials and applied sciences, mimetic suits a
   </Armor>
   <Armor>
     <Key>MK1KATARN</Key>
-    <Name>Mk I Katarn-Class Commando Armor</Name>
-    <Description>[H3]Mk I Katarn-class Commando Armor[h3]
-Katarn-class armor was originally designed for use by clone commandos during the Clone Wars. Named for a dangerous predatory beast native to Kashyyyk, this is one of the most advanced suits of heavy combat armor ever produced.
-[P]Each set of armor consists of a fully enclosed, environmentally sealed duraplast suit worn over an insulated, breathable, ballistic-fiber bodysuit. The armor is effective against most portable infantry weapons, light ordnance, shrapnel, and even light vehicle-mounted weapons like autoblasters and light laser cannons. It is resistant to heat, cold, toxins, radiation, and other hazardous environments and features reinforcements at strategic points such as the neck, spine, and forearms to protect against blasts and impacts. The helmet is equipped with an integrated combat scanner, an encrypted communications suite, and an on-board combat computer that monitors the physical conditions of the wearer and any nearby allies wearing Katarn-class armor. It also has an integrated breath mask and an on-board oxygen supply good for six hours of heavy combat.
-[P]In addition to its numerous on-board systems, Katarn-class armor can be equipped with a modular backpack system that can be tailored to various battlefield roles. Special plug-in modules provide long-range comms, medpacs, extended oxygen supplies, and even power generation.
-[P]A full suit of Katarn-class armor provides a wearer with all the benefits of a combat scanner and a breath mask, and increases the wearer's encumbrance threshold by 3. In addition, the suit's systems remove [SE] from all Perception and Survival checks made by the wearer.</Description>
+    <Name>Броня командоса класса Katarn Mk I</Name>
+    <Description>[H3]Броня командоса класса Katarn Mk I[h3]
+Броня класса Katarn была изначально разработана для использования коммандос клонов во время Войн клонов. Названная в честь опасного хищного зверя, обитающего на Кашиике, она является одним из самых совершенных костюмов тяжелой боевой брони, когда-либо созданных.
+[P]Каждый комплект брони состоит из полностью закрытого, экологически герметичного костюма из дюрапласта, надеваемого поверх утепленного, дышащего, баллистического костюма. Броня эффективна против большинства портативных пехотных орудий, легких боеприпасов, шрапнели и даже легкого оружия, установленного на транспортных средствах, например автобластеров и легких лазерных пушек. Он устойчив к жаре, холоду, токсинам, радиации и другим опасным средам и имеет усиления в стратегических точках, таких как шея, позвоночник и предплечья, для защиты от взрывов и ударов. Шлем оснащен встроенным боевым сканером, комплектом шифрованной связи и бортовым боевым компьютером, который отслеживает физическое состояние владельца и находящихся рядом союзников, облаченных в броню класса Katarn. В шлем также встроена дыхательная маска, а бортового запаса кислорода хватит на 6 часов тяжелого боя.
+[P]В дополнение к многочисленным бортовым системам броня класса Katarn может быть оснащена модульным ранцем, который можно адаптировать под различные боевые задачи. Специальные подключаемые модули обеспечивают дальнюю связь, медпакеты, расширенный запас кислорода и даже генерацию энергии.
+[P]Полный костюм класса Katarn дает владельцу все преимущества боевого сканера и дыхательной маски, а также увеличивает порог "нагрузки" на 3. Кроме того, системы костюма убирают [SE] со всех проверок "Внимания" и "Выживания", сделанных владельцем.</Description>
     <Source Page="47">Дополнение: Рыцари судьбы</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -2138,11 +2138,11 @@ Katarn-class armor was originally designed for use by clone commandos during the
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Suit provides all benefits of a combat scanner</MiscDesc>
+        <MiscDesc>Костюм обладает всеми преимуществами боевого сканера.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Suit provides all benefits of a breath mask</MiscDesc>
+        <MiscDesc>Костюм обладает всеми преимуществами дыхательной маски.</MiscDesc>
       </Mod>
       <Mod>
         <Key>ENCTADD3</Key>
@@ -2150,7 +2150,7 @@ Katarn-class armor was originally designed for use by clone commandos during the
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Removes [SE] from Perception and Survival checks</MiscDesc>
+        <MiscDesc>Убирает [SE] с проверок "Внимания" и "Выживания".</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillKey>PERC</SkillKey>
@@ -2168,12 +2168,11 @@ Katarn-class armor was originally designed for use by clone commandos during the
   </Armor>
   <Armor>
     <Key>MKIIINSARM</Key>
-    <Name>Mk II "Hotspot" Insulated Armor</Name>
-    <Description>[H3]Mk II "Hotspot" Insulated Armor[h3]
-Flame troopers are among the more specialized units in the Grand Army of the Republic. They are equipped with flame projectors and protective gear designed to help them flush enemies from their defenses and clear areas of dangerous flora or contaminants in hostile environments. Their armor, specially designed to assist them in their role, features a heavily filtered respirator unit and significant thermal shielding to insulate them from the effects of their own weaponry. The current model of flame trooper armor is the Mk II “Hotspot” design of insulated armor, a substantial improvement over the initial Mk I design issued at the very outset of the war. The first designs for “Hotspot” armor lacked sufficient respirator filtration, risking the wearer through exposure to toxic smoke and air deprived of adequate oxygen due to the flames. The flawed design was an oversight due to the rushed production needs of both the Republic and the Kaminoans. The flaw was corrected as quickly as could be managed, and the newly issued Mk II suits have been a source of significantly improved morale among the flame trooper corps.
+    <Name>Изолированная броня Mk II «Hotspot»</Name>
+    <Description>[H3]Изолированная броня Mk II «Hotspot»[h3]
+Огнеметчики - одно из самых специализированных подразделений Великой Армии Республики. Они оснащены проекторами пламени и защитным снаряжением, призванным помочь им выбить врагов из оборонительных сооружений и очистить территории от опасной флоры или загрязнений во враждебном окружении. Их броня, специально разработанная для выполнения их роли, оснащена респиратором с сильной фильтрацией и значительной тепловой защитой, чтобы изолировать их от воздействия их собственного оружия. В настоящее время броня огнеметчиков представляет собой изолированную броню Mk II «Hotspot», значительно улучшенную по сравнению с первоначальной моделью Mk I, выпущенной в самом начале войны. Первые образцы брони «Hotspot» не имели достаточной фильтрации респиратора, что подвергало пользователя риску воздействия токсичного дыма и воздуха, лишенного достаточного количества кислорода из-за пламени. Недостатки конструкции были упущением, вызванным спешным производством как для Республики, так и для каминоанцев. Недостаток был исправлен в кратчайшие сроки, и вновь выпущенные костюмы Mk II значительно повысили боевой дух корпуса огневиков.
 
-[P]Mk II “Hotspot” insulated armor comes with a built-in comlink. It adds [BO][BO] to the wearer's checks to avoid adverse effects from exposure to extreme heat or toxic gases and reduces the damage the wearer takes from fire and hazardous environments by 1. Additionally, when targeting the wearer, attackers must spend one additional [AD] to activate the Burn item quality and treat the quality's rating as one lower.
-</Description>
+[P]Изолированная броня Mk II «Hotspot» поставляется со встроенным комлинком. Она добавляет [BO][BO] к проверкам владельца, чтобы избежать негативных эффектов от воздействия экстремальной жары или токсичных газов, и снижает урон от огня и опасных сред на 1. Кроме того, при атаке на владельца атакующие должны потратить одно дополнительное [AD], чтобы активировать качество предмета Burn и считать рейтинг качества на 1 меньше.</Description>
     <Source Page="57">Дополнение: Восстание сепаратистов</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -2193,22 +2192,22 @@ Flame troopers are among the more specialized units in the Grand Army of the Rep
     <Rarity>7</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>Comes with built-in comlink.</MiscDesc>
+        <MiscDesc>Поставляется со встроенным комлинком.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>Adds [BO][BO] to checks to avoid adverse effects of extreme heat or toxic gas.</MiscDesc>
+        <MiscDesc>Добавляет [BO][BO] к проверкам, позволяющим избежать негативного воздействия экстремальной жары или токсичного газа.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>Attackers must spend one additional [AD] to activate Burn quality and treat rating as one less.</MiscDesc>
+        <MiscDesc>Атакующие должны потратить один дополнительный [AD], чтобы активировать качество Burn, и считать рейтинг на 1 меньше.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>MKINIGHTSTALK</Key>
-    <Name>Mk I Nightstalker Suit</Name>
-    <Description>[H3]Bantin Corp Mk I NightStalker Infiltrator Suit[h3]
-The Mk I NightStalker is a lightweight, surprisingly durable suit of armor that Bantin Corp recently produced. Marketed toward law enforcement and intelligence agencies, the NightStalker combines light-absorbing materials, armorweave, gel-insert plates, and sound dampening fabric to produce a suit that provides both respectable protection and decent passive stealth capabilities. The NightStalker is a full-body suit that covers everything but the wearer's eyes. It is typically worn with scanner goggles or other wearable vision-enhancement systems.
-[P]When wearing a NightStalker suit, the wearer adds automatic [SU] to Stealth checks he makes and adds automatic [TH] to social skill checks he makes.</Description>
+    <Name>Костюм ночного охотника Mk I</Name>
+    <Description>[H3]Костюм ночного охотника для убийц Bantin Corp Mk I[h3]
+Mk I Ночной охотник - легкий, удивительно прочный бронекостюм, который недавно выпустила компания Bantin Corp. Предназначенный для правоохранительных и разведывательных органов, Ночной охотник сочетает в себе светопоглощающие материалы, бронеплетение, пластины с гелевыми вставками и звукопоглощающую ткань, чтобы создать костюм, обеспечивающий как достойную защиту, так и приличные возможности пассивной скрытности. Ночной охотник - это костюм, закрывающий все тело, кроме глаз. Обычно его носят вместе с очками-сканерами или другими носимыми системами улучшения зрения.
+[P]Когда вы носите костюм Ночного охотника, вы автоматически прибавляете [SU] к проверкам "Скрытности" и автоматически прибавляете [TH] к проверкам социальных навыков.</Description>
     <Source Page="41">Дополнение: Шифры и Маски</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -2223,7 +2222,7 @@ The Mk I NightStalker is a lightweight, surprisingly durable suit of armor that 
     <Restricted>true</Restricted>
     <BaseMods>
       <Mod>
-        <MiscDesc>Wearer adds automatic [SU] to Stealth checks.</MiscDesc>
+        <MiscDesc>Носитель добавляет автоматическое [SU] к проверкам "Скрытности".</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillKey>STEAL</SkillKey>
@@ -2232,7 +2231,7 @@ The Mk I NightStalker is a lightweight, surprisingly durable suit of armor that 
         </DieModifiers>
       </Mod>
       <Mod>
-        <MiscDesc>Wearer adds automatic [TH] to social skill checks.</MiscDesc>
+        <MiscDesc>Носитель автоматически добавляет [TH] к проверкам социальных навыков.</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillKey>COERC</SkillKey>
@@ -2260,10 +2259,10 @@ The Mk I NightStalker is a lightweight, surprisingly durable suit of armor that 
   </Armor>
   <Armor>
     <Key>MKIXMIM</Key>
-    <Name>Mk IX Personal Mimetic Concealment Suit</Name>
-    <Description>[H3]Cyricept Mk IX Mimetic Concealment Suit[h3]
-Cyricept's Mk IX Personal Mimetic Concealment Suits use active stealth technologies combined with advanced textiles to provide one of the best personal stealth suits available. When active, a mimetic suit uses an optical camouflage (OC) system that bends light around the wearer and reflects back images of the surrounding area. This OC system is combined with electromagnetic and heat shielding, sound bafflers, and other systems to render a wearer essentially invisible to both the naked eye and most common security sensors. To run these systems, mimetic suits require a small, high-output energy cell built into a belt or wristband. Mimetic suits consume energy at an extremely high rate, and a power pack is good for about an hour of constant use. Like all mimetic suits, the Mk IX is illegal to own and to sell to civilians. While they are primarily used by governmental intelligence and law enforcement agencies, many suits have found their way into the hands of dangerous criminals throughout the galaxy.
-[P]Wearing a Mk IX Personal Mimetic Concealment Suit upgrades the ability of all Stealth checks made by the wearer twice. In addition, the Game Master may spend [TH][TH][TH] or [DE] on any Stealth check made by the wearer while the suit is active to have the suit's power pack run dry. The suit cannot be used again until the power pack is replaced; replacing a power pack requires a maneuver.</Description>
+    <Name>Персональный миметический костюм маскировки Mk IX</Name>
+    <Description>[H3]Миметический маскировочный костюм Cyricept Mk IX[h3]
+Персональные миметические маскировочные костюмы Mk IX от Cyricept используют активные стелс-технологии в сочетании с передовым текстилем, чтобы обеспечить один из лучших персональных стелс-костюмов. В активном состоянии миметический костюм использует систему оптического камуфляжа (OC), которая направляет свет вокруг владельца и отражает изображения окружающего пространства. Эта система OC в сочетании с электромагнитным и тепловым экранированием, шумоподавителями и другими системами делает пользователя практически невидимым как для невооруженного глаза, так и для большинства обычных датчиков безопасности. Для работы этих систем миметическим костюмам требуется небольшой высокопроизводительный энергетический элемент, встроенный в пояс или браслет. Миметические костюмы потребляют энергию с чрезвычайно высокой скоростью, и одного блока питания хватает примерно на час постоянного использования. Как и все миметические костюмы, Mk IX запрещен к владению и продаже гражданским лицам. Хотя в основном они используются правительственными разведывательными и правоохранительными органами, многие костюмы попали в руки опасных преступников по всей галактике.
+[P]Ношение личного миметического маскировочного костюма Mk IX повышает количество кубов (З) всех проверок "Скрытности", выполняемых носителем, в 2 раза. Кроме того, ГМ может потратить [TH][TH][TH] или [DE] на проведенную проверку "Скрытности", сделанную носителем, пока костюм активен, чтобы энергоблок костюма разрядился. Костюм нельзя будет использовать снова, пока не будет заменен блок питания; замена блока питания требует маневра.</Description>
     <Source Page="42">Дополнение: Шифры и Маски</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -2278,7 +2277,7 @@ Cyricept's Mk IX Personal Mimetic Concealment Suits use active stealth technolog
     <Restricted>true</Restricted>
     <BaseMods>
       <Mod>
-        <MiscDesc>Wearer upgrades ability of all Stealth checks twice.</MiscDesc>
+        <MiscDesc>Носитель повышает количество кубов (З) всех проверок "Скрытности" в 2 раза.</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillKey>STEAL</SkillKey>
@@ -2287,17 +2286,17 @@ Cyricept's Mk IX Personal Mimetic Concealment Suits use active stealth technolog
         </DieModifiers>
       </Mod>
       <Mod>
-        <MiscDesc>GM may spend [TH][TH][TH] or [DE] to cause the power pack to run out.</MiscDesc>
+        <MiscDesc>ГМ может потратить [TH][TH][TH] или [DE] на проведенную проверку "Скрытности", сделанную носителем, пока костюм активен, чтобы энергоблок костюма разрядился.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>MODARMORIII</Key>
-    <Name>Type III "Berethron" Personal Modular Armor</Name>
+    <Name>Персональная модульная броня «Беретрон» Тип III</Name>
     <Description>
-      [H3]Type III "Berethron" Personal Modular Armor[h3]
+      [H3]Персональная модульная броня «Беретрон» Тип III[h3]
 
-Manufactured for the Corellian military and CorSec forces, the Type III "Berethron" Personal Modular Armor system is a relatively lightweight form of armored clothing that allows for significant mission-specific customization. Made of an energy-dispersing mesh fiber, with strategically placed plastoid plates woven into the fabric, Berethron PMA provides a good degree of protection without severely impeding the wearer. The ability to significantly customize and upgrade the armor distinguishes Berethron PMA from other armored clothing, allowing the wearer to be prepared for many situations without donning cumbersome, restrictive laminate or heavy battle armor.</Description>
+Производимая для кореллианских военных и сил CorSec, система персональной модульной брони типа III «Беретрон» представляет собой относительно легкую форму бронеодежды, позволяющую значительно расширить возможности конкретной миссии. Изготовленная из энергорассеивающего сетчатого волокна со стратегически расположенными пластоидными пластинами, вплетенными в ткань, ПМА «Беретрон» обеспечивает хорошую степень защиты, не сильно затрудняя ношение. Возможность значительной настройки и модернизации брони отличает ПМА «Беретрон» от другой бронеодежды, позволяя владельцу быть готовым ко многим ситуациям, не надевая громоздкий, ограничивающий ламинат или тяжелую боевую броню.</Description>
     <Source Page="99">Дополнение: Солнце Фортуны</Source>
     <Custom>DescOnly</Custom>
     <Defense>1</Defense>
@@ -2313,12 +2312,12 @@ Manufactured for the Corellian military and CorSec forces, the Type III "Berethr
   </Armor>
   <Armor>
     <Key>MOUNTARMOR</Key>
-    <Name>A/KT Mountaineer Armor</Name>
+    <Name>А/КТ Альпинистская броня</Name>
     <Description>
-      [H3]A/KT Mountaineer Armor[h3]
+      [H3]А/КТ Альпинистская броня[h3]
 
-Another offering from the utilitarians at the Ayelixe/Krongbing Textiles Corporation, the Mountaineer is a suit of light, flexible armor designed to assist the wearer in climbing and navigating mountainous terrain. Made from a thick, tear-resistant textile with excellent thermal-retention qualities and interwoven with a patented foil-fiber armor weave, Mountaineer armor provides good protection from impacts, abrasions, and falls. In addition to the armor weave, the suit is reinforced at the shoulders, knees, and elbows with impact-absorbing polymer pads and is equipped with an integral climbing and support harness. The palms of the gloves and soles of the light, flexible boots are coated in FrictionGrip, a material produced by A/KT that adheres to even the smoothest surface. The entire suit consists of the one-piece jumpsuit, gloves, boots, and a helmet. Accessories like oxygen tanks for high-altitude climbing can be added for a nominal fee, and all attachments for such accessories are already integrated into the armor.
-[P]Mountaineer armor grants the wearer [BO][BO] to all Athletics skill checks made to climb or rappel.</Description>
+Очередное предложение утилитаристов из текстильной корпорации Ayelixe/Krongbing Textiles, Альпинист - это легкий, гибкий доспех, предназначенный для помощи при восхождении и перемещении по горной местности. Изготовленные из плотного, прочного на разрыв текстиля с отличными теплоудерживающими свойствами и переплетенные с запатентованным плетением из фольгированных волокон, доспехи Альпинист обеспечивают хорошую защиту от ударов, ссадин и падений. Помимо броневого плетения, костюм усилен в плечах, коленях и локтях ударопоглощающими полимерными накладками и оснащен встроенной альпинистской и поддерживающей обвязкой. Ладони перчаток и подошвы легких, гибких ботинок покрыты FrictionGrip - материалом производства A/KT, который прилипает даже к самой гладкой поверхности. Весь костюм состоит из цельного комбинезона, перчаток, ботинок и шлема. За отдельную плату можно добавить такие аксессуары, как кислородные баллоны для высотных восхождений, причем все крепления для них уже встроены в броню.
+[P]Броня альпиниста добавляет владельцу [BO][BO] ко всем проверкам навыка "Атлетики", сделанным для подъема или спуска.</Description>
     <Source Page="45">Дополнение: Шаг в неизвестность</Source>
     <Custom>DescOnly</Custom>
     <Defense>1</Defense>
@@ -2333,19 +2332,18 @@ Another offering from the utilitarians at the Ayelixe/Krongbing Textiles Corpora
     </Categories>
     <BaseMods>
       <Mod>
-        <MiscDesc>Grants [BOOST][BOOST] to all Athletics skill checks made to climb or rappel</MiscDesc>
+        <MiscDesc>Добавляет [BOOST][BOOST] ко всем проверкам навыка "Атлетики", сделанным для подъема или спуска.</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>N57</Key>
-    <Name>N-57 Armor</Name>
+    <Name>Броня N-57</Name>
     <Description>
-      [H3]Merr-Sonn N-57 Armor[h3]
-The latest suit in Merr-Sonn's N-series armor for combat engineers has broken with the company's typical policy of selling exclusively to established planetary militaries and is available for general purchase on the open market. unrest across the galaxy has made everyone from Rebel saboteurs to civilian contractors in dangerous areas interested in a little extra protection as they work. Fortunately, combat engineering armor exists to meet their needs. In addition to providing protection comparable to laminate armor, the suit also includes a microgenerator that can be used to power attachments or provide an emergency boost to external equipment.
-[P]As a maneuver, the wearer may recharge an energy weapon or device that has run out of power or ammunition in the manner of an extra reload/power pack (see page 181 pf the [B]Книга правил: Край Империи[b]).
-    </Description>
+      [H3]Броня Merr-Sonn N-57[h3]
+Новейший костюм из N-серии брони для боевых инженеров Merr-Sonn отказался от типичной для компании политики продаж исключительно планетарным военным и стал доступен для широкой продажи на открытом рынке. Беспорядки по всей галактике заставили всех, от диверсантов Повстанцев до гражданских подрядчиков в опасных зонах, быть заинтересованными в дополнительной защите во время работы. К счастью, для удовлетворения их потребностей существует боевая инженерная броня. Помимо защиты, сравнимой с многослойной броней, в костюм встроен микрогенератор, который можно использовать для питания навесного оборудования или экстренной подпитки внешних устройств.
+[P]В качестве маневра владелец может перезарядить энергетическое оружие или устройство, у которого закончилась энергия или боеприпасы, на манер дополнительной перезарядки/пакета энергии (см. стр. 181 книги правил [B]Край Империи[b]).</Description>
     <Source Page="48">Дополнение: Особые модификации</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -2368,18 +2366,18 @@ The latest suit in Merr-Sonn's N-series armor for combat engineers has broken wi
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>As a maneuver, may recharge energy weapon that has run out of ammo.</MiscDesc>
+        <MiscDesc>В качестве маневра может перезарядить энергетическое оружие, у которого закончились патроны.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>NOBREG</Key>
-    <Name>Noble Regalia</Name>
+    <Name>Благородная регалия</Name>
     <Description>
-      [H3]Noble Regalia[h3]
+      [H3]Благородная регалия[h3]
 
-Although often inconvenient to wear, severely limiting to movement, and historically archaic, few things command innate respect as much as the traditional attire of a planet's nobility. Varying from culture to culture, noble regalia typically incorporates multiple layers of ornate, expensive clothing. Although a casual observer might not recognize the wearer's exact rank or title, noble regalia nonetheless conveys a degree of aristocratic importance.
-[P]The wearer downgrades the difficulty of social checks to interact with other nobility and their subordinates once.</Description>
+Хотя традиционная одежда знати планеты часто неудобна в носке, сильно ограничивает движения и выглядит архаично, немногие вещи вызывают такое же естественное уважение, как она. В зависимости от культуры, благородные регалии обычно состоят из нескольких слоев богато украшенной дорогой одежды. Хотя случайный наблюдатель может не распознать точный ранг или титул человека, одетого в такие регалии, они все же передают некоторую степень аристократической значимости.
+[P]Носитель снижает сложность социальных проверок для взаимодействия с другими представителями знати и их подчиненными на 1.</Description>
     <Source Page="49">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -2397,18 +2395,18 @@ Although often inconvenient to wear, severely limiting to movement, and historic
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Downgrade difficulty of social checks to interact with nobility or subordinates once.</MiscDesc>
+        <MiscDesc>Позволяетснизить сложность социальных проверок на 1 при взаимодействии с дворянами или подчиненными.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>NOMADCOAT</Key>
-    <Name>Nomad Greatcoat</Name>
+    <Name>Пальто кочевника</Name>
     <Description>
-      [H3]Nomad Greatcoat[h3]
+      [H3]Пальто кочевника[h3]
 
-Long associated with the inhabitants of the Nomad Mountains, this distinctive greatcoat has become popular since its adoption by the military of Corellia as cold weather wear. Traditionally made from the tanned hide of the sharnaff, the greatcoat is a heavy, waterproof overcoat that hangs below the knees. The greatcoat typically has a removable insulated lining that provides exceptional protection against the cold and elements.
-[P]The Nomad Greatcoat reduces the difficulty of Resilience checks made to resist the effects of extreme cold by one, and removes [SE] added to checks due to extreme cold. </Description>
+Этот характерный плащ, давно ассоциирующийся с кочевыми жителями гор, стал популярным после того, как его приняли на вооружение военные Кореллии в качестве одежды для холодной погоды. Традиционно изготавливаемый из выделанной шкуры шарнаффа, плащ представляет собой тяжелое водонепроницаемое пальто, длина которого достигает колен. Плащ обычно имеет съемную утепленную подкладку, которая обеспечивает исключительную защиту от холода и непогоды.
+[P]Пальто кочевника снижает сложность проверок на "Стойкость", необходимых для сопротивления воздействию сильного холода, на 1 и убирает [SE], добавляемый к проверкам из-за сильного холода.</Description>
     <Source Page="99">Дополнение: Солнце Фортуны</Source>
     <Custom>DescOnly</Custom>
     <Defense>0</Defense>
@@ -2423,23 +2421,22 @@ Long associated with the inhabitants of the Nomad Mountains, this distinctive gr
     </Categories>
     <BaseMods>
       <Mod>
-        <MiscDesc>Reduces difficulty of Resilience checks made to resist the effects of extreme cold by 1</MiscDesc>
+        <MiscDesc>Уменьшает сложность проверок на "Стойкость", проводимых для сопротивления воздействию сильного холода, на 1.</MiscDesc>
         <Count>1</Count>
       </Mod>
       <Mod>
-        <MiscDesc>Removes [SETBACK] added to checks due to extreme cold</MiscDesc>
+        <MiscDesc>Убирает [SETBACK], добавленный к проверкам из-за сильного холода.</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>P14</Key>
-    <Name>P-14 Hazardous Industry Suit</Name>
+    <Name>Костюм для опасных производств P-14</Name>
     <Description>
-      [H3]SoroSuub P-14 Hazardous Industry Suit[h3]
-    Hazardous industry suits, common from manufacturers across the galaxy, allow technical experts and laborers alike to deal with workshop or factory conditions dangerous to most living species. Some models, like the Soro-Suub P-14, are heavily reinforced enough to even provide limited protection against a blaster bolt, and they all feature extraordinary protection against heat, radiation, fumes and other perils of working with damaged or poorly maintained machinery. A hazardous industry suit creates an environmental seal when the helmet is worn and is good for up to eight hours of protection from hostile atmospheres, deadly radiation or even direct exposure to the void. Finally, the suit's special chemical coating insulates the wearer from burns and shocks. However, their extraordinary protection comes at the cost of mobility, as hazardous industry suits are extremely bulky, with barely more than the range of motion needed to wield a hydrospanner effectively.
-[P]The hazardous industry suit counts as a breath mask (see page 179 of the [B]Книга правил: Край Империи[b]). Further, the wearer adds [BO][BO] to Resilience checks to resist heat, cold, radiation and other hostile environmental conditions. The wearer does not suffer the effects of the Burn or Disorient item qualities. When the wearer suffers strain in order to take an extra maneuver, he suffers 1 additional strain.
-    </Description>
+      [H3]Костюм для опасных производств P-14[h3]
+Костюмы для опасных производств, широко распространенные среди производителей по всей галактике, позволяют техническим специалистам и рабочим справляться с условиями в мастерских или на заводах, опасными для большинства живых существ. Некоторые модели, такие как Soro-Suub P-14, достаточно усилены, чтобы обеспечить даже ограниченную защиту от выстрела из бластера, и все они обладают исключительной защитой от жары, радиации, дыма и других опасностей, связанных с работой с поврежденным или плохо обслуживаемым оборудованием. Костюм для опасных производств создает герметичную защиту при ношении шлема и обеспечивает до восьми часов защиты от враждебной атмосферы, смертельной радиации или даже прямого воздействия вакуума. Наконец, специальное химическое покрытие костюма защищает пользователя от ожогов и ударов током. Однако их исключительная защита достигается за счет ограничения подвижности, поскольку костюмы для опасных производств чрезвычайно громоздки и обеспечивают едва ли больше, чем диапазон движений, необходимый для эффективного использования гидроключа.
+[P]Костюм для опасных производств снабжен дыхательной маской (см. книгу правил стр. 179 [B]Край Империи[b]). Кроме того, носитель добавляет [BO][BO] к проверкам на "Стойкость", чтобы противостоять жаре, холоду, радиации и другим неблагоприятным условиям окружающей среды. Носитель не подвергается воздействию свойств предметов Burn или Disorient. Когда носитель получает "усталость", чтобы выполнить дополнительный маневр, он получает 1 дополнительную "усталость".</Description>
     <Source Page="48">Дополнение: Особые модификации</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -2459,30 +2456,30 @@ Long associated with the inhabitants of the Nomad Mountains, this distinctive gr
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Counts as wearing a breath mask.</MiscDesc>
+        <MiscDesc>Считается ношением респираторной маски.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add [BO][BO] to [B]Resilience checks[b] to resist heat, cold, radiation, or other hostile environmental conditions.</MiscDesc>
+        <MiscDesc>Добавьте [BO][BO] к [B]проверкам на "Стойкость"[b], чтобы противостоять жаре, холоду, радиации или другим неблагоприятным условиям окружающей среды.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Wearer does not suffer effects of Burn or Disorient qualities.</MiscDesc>
+        <MiscDesc>Носитель не подвержен воздействию свойств Burn и Disorient.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>When suffering strain to take an extra maneuver, suffer 1 additional strain.</MiscDesc>
+        <MiscDesc>При выполнении дополнительного маневра вы получаете 1 дополнительную "усталость".</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>PAD</Key>
-    <Name>Padded Armor</Name>
+    <Name>Броня с мягкой подкладкой</Name>
     <Description>
-      [H3]Padded Armor[h3]
+      [H3]Броня с мягкой подкладкой[h3]
 
-Local forces and soldiers of the Rebel Alliance often  wear padded armor, woven with tough, energy-resistant fibers. It tends to absorb and resist some of the power of a blaster bolt, although it often proves little use against a solid hit. It does, however, provide reasonable protection against blows or concussive damage, providing padding against such shocks. It also has the advantage of  being relatively comfortable; many individuals can wear  padded armor without generating too much attention  from local law enforcement on frontier worlds.
-[BR][B]Models Include:[b] TaggeCo. “Protector X" Law Enforcement Armor.</Description>
+Местные силы и солдаты Альянса Повстанцев часто носят броню с мягкой подкладкой, созданную из прочных, энергостойких волокон. Она имеет свойство поглощать и отражать часть энергии выстрела из бластера, хотя часто оказывается малоэффективной при прямом попадании. Однако она обеспечивает разумную защиту от ударов или сотрясений, амортизируя такие удары. Еще одним ее преимуществом является относительная удобность; многие люди могут носить броню с мягкой подкладкой, не привлекая особого внимания  местных правоохранительных органов на пограничных мирах.
+[BR][B]Модели включают:[b] TaggeCo. «Protector X» бронежилет для сотрудников правоохранительных органов.</Description>
     <Sources>
       <Source Page="169">Книга правил: Край Империи</Source>
       <Source Page="185">Книга правил: Эпоха восстания</Source>
@@ -2501,15 +2498,15 @@ Local forces and soldiers of the Rebel Alliance often  wear padded armor, woven 
   </Armor>
   <Armor>
     <Key>PDS</Key>
-    <Name>Personal Deflector Shield</Name>
+    <Name>Персональный дефлекторный щит</Name>
     <Description>
-      [H3]Personal Deflector Shield[h3]
+      [H3]Персональный дефлекторный щит[h3]
 
-Though rare, bulky, and difficult to use, personal deflector shields are one of the few defenses that can stand up to blaster fire. Deflector shields use limited ray/particle shielding that deflects and blocks incoming projectiles. They are difficult to use because the power drain is extraordinary, meaning they only work for a limited length of time. When the wielder is using a personal deflector shield, the GM can spend any [DE] the wielder generates to have the shield run out of power for the remainder of the encounter.
+Хотя личные дефлекторные щиты редки, громоздки и сложны в использовании, они являются одним из немногих средств защиты, способных противостоять огню бластеров. Дефлекторные щиты используют ограниченную защиту от лучей/частиц, которая отклоняет и блокирует летящие снаряды. Их сложно использовать, потому что они потребляют очень много энергии, а это значит, что они работают только в течение ограниченного времени. Когда пользователь использует личный дефлекторный щит, ГМ может потратить любое количество [DE], которое генерирует пользователь, чтобы щит остался без энергии до конца встречи.
 
-[P]The shield has enough power to last about ten minutes. Recharging a deflector shield requires three hours and electrical facilities.
+[P]Энергии щита хватает примерно на 10 минут. Для перезарядки дефлекторного щита требуется три часа и электрическое оборудование.
 
-[P]Modern galactic companies do not generally produce personal deflector shields. The technology to make one that does not emit enough radiation to kill an organic user is very rare, and those that exist are almost always custom-built. </Description>
+[P]Современные галактические компании, как правило, не производят персональные дефлекторные щиты. Технология создания такого щита, который не излучал бы достаточно радиации, чтобы убить органического пользователя, очень редка, а те, что существуют, почти всегда изготавливаются на заказ.</Description>
     <Sources>
       <Source Page="170">Книга правил: Край Империи</Source>
       <Source Page="185">Книга правил: Эпоха восстания</Source>
@@ -2526,19 +2523,19 @@ Though rare, bulky, and difficult to use, personal deflector shields are one of 
     </Categories>
     <BaseMods>
       <Mod>
-        <MiscDesc>GM may spend [DE] to have the personal deflector shield run out of power for the remainder of the encounter</MiscDesc>
+        <MiscDesc>ГМ может потратить [DE], чтобы личный дефлекторный щит разрядился до конца встречи.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>PERFATT</Key>
-    <Name>Performer's Attire</Name>
+    <Name>Наряд исполнителя</Name>
     <Description>
-      [H3]Performer's Attire[h3]
+      [H3]Наряд исполнителя[h3]
 
-Many diplomats perform not only on the political stage, but on actual stages as well. Artistic performance often requires more freedom of movement than speechgiving, however. Often colorful or sporting dazzling patterns, this type of clothing draws attention to the wearer as he dances, sings, or otherwise entertains. Although offering practically no defenses, the attire does allow unequaled freedom of movement and typically formfitting material prevents accidentally snagging or becoming caught on environmental hazards.
+Многие дипломаты выступают не только на политической, но и на реальной сцене. Однако артистическое выступление часто требует большей свободы движений, чем речь. Часто разноцветная или с ослепительными узорами, такая одежда привлекает внимание к владельцу, когда он танцует, поет или развлекается иным образом. Хотя эта одежда практически не защищает, она обеспечивает непревзойденную свободу движений, а обычно облегающий материал не позволяет случайно зацепиться или задеть опасные предметы окружающей среды.
 
-[P]A character wearing performer's attire adds [BO] to checks to perform or otherwise attract attention.</Description>
+[P]Персонаж в наряде исполнителя добавляет [BO] к проверкам на выступление или иное привлечение внимания.</Description>
     <Source Page="49">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -2555,16 +2552,16 @@ Many diplomats perform not only on the political stage, but on actual stages as 
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add [BO] to checks to perform or attract attention.</MiscDesc>
+        <MiscDesc>Добавляет [BO] к проверкам, чтобы выполнить или привлечь внимание.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>PHASEIARC</Key>
-    <Name>Phase I ARC Trooper Armor</Name>
-    <Description>[H3]Phase I ARC Trooper Armor[h3]
-Worn by the Grand Army of the Republic's elite Advanced Recon Commandos. Phase I ARC armor filled a gap between standard clone trooper armor and the heavy, highly advanced Katarn-class armor. Like the clone trooper armor from which it is derived, Phase I ARC armor is a full suit of plastoid armor worn over a formfitting bodysuit. It has heavier armor on the forearms, thighs, and chest, and an advanced helmet that features a hardened long-range comlink. A skirtlike kama made from advanced armored textiles is worn around the waist, providing extra protection to the legs and groin, and each suit is equipped with a built-in load-bearing harness and a survival pack.
-[P]The various systems built into Phase I ARC trooper armor remove [SE] from all Perception checks made by the wearer and provide all the benefits of a hardened comlink. In addition, the integrated load-bearing harness increases the wearer's encumbrance threshold by 3.</Description>
+    <Name>Броня ЭРК Штурмовика Фазы I</Name>
+    <Description>[H3]Броня ЭРК Штурмовика Фазы I[h3]
+Носится элитными республиканскими коммандос Великой Армии Республики. Броня ЭРК Фазы I заполнила пробел между стандартной броней клонов штурмовиков и тяжелой, высокотехнологичной броней класса Katarn. Как и броня клонов штурмовиков, от которой она произошла, броня ЭРК Фазы I представляет собой полный костюм из пластоидной брони, надеваемый поверх облегающего тело комбинезона. Она имеет более тяжелую броню на предплечьях, бедрах и груди, а также усовершенствованный шлем, оснащенный усиленным комлинком дальнего радиуса действия. На талию надевается юбка-кама из улучшенного броневого текстиля, обеспечивающая дополнительную защиту ног и паха, а каждый костюм оснащен встроенным грузовым ремнем и ранцем для выживания.
+[P]Различные системы, встроенные в броню ЭРК Штурмовика Фазы I, убирают [SE] со всех проверок "Внимания", выполняемых носителем, и обеспечивают все преимущества усиленного комлинка. Кроме того, встроенная несущая шлейка увеличивает порог "нагрузки" на 3.</Description>
     <Sources>
       <Source Page="48">Дополнение: Рыцари судьбы</Source>
       <Source Page="58">Дополнение: Восстание сепаратистов</Source>
@@ -2583,7 +2580,7 @@ Worn by the Grand Army of the Republic's elite Advanced Recon Commandos. Phase I
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Provides all benefits of a hardened comlink</MiscDesc>
+        <MiscDesc>Обеспечивает все преимущества усиленного комлинка.</MiscDesc>
       </Mod>
       <Mod>
         <Key>ENCTADD3</Key>
@@ -2591,7 +2588,7 @@ Worn by the Grand Army of the Republic's elite Advanced Recon Commandos. Phase I
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Removes [SE] from all Perception checks</MiscDesc>
+        <MiscDesc>Убирает [SE] со всех проверок "Внимания".</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillKey>PERC</SkillKey>
@@ -2605,14 +2602,13 @@ Worn by the Grand Army of the Republic's elite Advanced Recon Commandos. Phase I
   </Armor>
   <Armor>
     <Key>PHASEICLONE</Key>
-    <Name>Phase I Clone Trooper Armor</Name>
-    <Description>[H3]Phase I Clone Trooper Armor[h3]
-Mass-produced alongside the first batches of clones by the Kaminoans, the first designs of clone armor emphasize function and protection. Made of full-body laminate plating over a sealed bodysuit, Phase I clone trooper armor provides a degree of body-temperature regulation to offset the weight and enclosure. It is pressurized to provide brief protection against vacuum-not enough to allow extended operations, but sufficient for a few minutes of life support in an emergency.
+    <Name>Броня клона штурмовика Фазы I</Name>
+    <Description>[H3]Броня клона штурмовика Фазы I[h3]
+Первые образцы брони клонов, массово производимые каминоанцами вместе с первыми партиями клонов, делают упор на функциональность и защиту. Изготовленная из многослойного пластика, покрывающего все тело, броня клона штурмовика Фазы I обеспечивает определенную степень терморегуляции тела, чтобы компенсировать вес и герметичность. Она находится под давлением, обеспечивая кратковременную защиту от вакуума - не настолько, чтобы позволить длительные операции, но достаточно для нескольких минут жизнеобеспечения в чрезвычайной ситуации.
 
-[P]While offering reliability and protection, along with limited inbuilt systems and room for customization, this armor does have one notable flaw. The designers of the clone army placed the comfort of their creations very low on their priorities, leaving the armor significantly more cumbersome and uncomfortable than it could be. Adjusting to the armor has become a rite of passage for clone troopers, such that veterans can spot new clones within moments by how they move in full gear.
+[P]Несмотря на надежность и защиту, а также ограниченное количество встроенных систем и возможностей для кастомизации, у этой брони есть один заметный недостаток. Конструкторы армии клонов очень низко оценили комфорт своих творений, в результате чего броня стала гораздо более громоздкой и неудобной, чем могла бы быть. Привыкание к броне стало ритуалом посвящения в солдаты клоны, так что ветераны могут распознать новых клонов в считанные мгновения по тому, как они двигаются в полном снаряжении.
 
-[P]Phase I clone trooper armor includes a comlink. At the GM’s discretion, characters unused to moving in this armor may suffer [SE] to Coordination checks until they acclimatize to the distribution of its weight.
-</Description>
+[P]Броня клона штурмовика Фазы I включает в себя комлинк. По усмотрению ГМ персонажи, не привыкшие передвигаться в этой броне, могут получить [SE] к проверкам "Координации", пока не привыкнут к распределению ее веса.</Description>
     <Sources>
       <Source Page="58">Дополнение: Восстание сепаратистов</Source>
     </Sources>
@@ -2629,10 +2625,10 @@ Mass-produced alongside the first batches of clones by the Kaminoans, the first 
     <Restricted>true</Restricted>
     <BaseMods>
       <Mod>
-        <MiscDesc>Provides all benefits of a comlink</MiscDesc>
+        <MiscDesc>Обеспечивает все преимущества комлинка.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>Wearer suffers [SE] to Coordination checks until acclimated to armor.</MiscDesc>
+        <MiscDesc>Носитель получает [SE] к проверкам "Координации", пока не привыкнет к броне.</MiscDesc>
       </Mod>
     </BaseMods>
     <Defense>0</Defense>
@@ -2640,11 +2636,11 @@ Mass-produced alongside the first batches of clones by the Kaminoans, the first 
   </Armor>
   <Armor>
     <Key>PIONEER</Key>
-    <Name>Pioneer Armor</Name>
+    <Name>Броня Пионера</Name>
     <Description>
-      [H3]Pioneer Armor[h3]
-Designed with the combat engineer in mind, pioneer armor consists of a rugged, reinforced jacket and trousers; sturdy boots with plasteel toe caps; gloves; and a modified engineer's helmet. The suit is reinforced with thick layers of ballistic polymer to provide extra protection to sensitive areas. What sets pioneer armor apart from normal padded armor is the suit's integrated load-bearing system. Composed of numerous adjustable loops, straps, hooks, and sealable pockets and an integrated tool belt, the armor distributes weight and provides easy access to tools and supplies in the field.
-[P]Pioneer armor increases a wearer's encumbrance threshold by three.</Description>
+      [H3]Броня Пионера[h3]
+Разработанный с учетом требований боевых инженеров, бронекостюм «Пионер» состоит из прочной, усиленной куртки и брюк, прочных ботинок с пластиковыми носками, перчаток и модифицированного шлема инженера. Костюм усилен толстым слоем баллистического полимера для дополнительной защиты уязвимых мест. От обычных мягких доспехов «Пионера» отличает интегрированная несущая система костюма. Состоящая из множества регулируемых петель, ремней, крючков, герметичных карманов и встроенного пояса для инструментов, броня распределяет вес и обеспечивает легкий доступ к инструментам и припасам в полевых условиях.
+[P]Пионерская броня увеличивает порог "нагрузки" на 3.</Description>
     <Source Page="43">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -2665,12 +2661,11 @@ Designed with the combat engineer in mind, pioneer armor consists of a rugged, r
   </Armor>
   <Armor>
     <Key>PITCREWCOV</Key>
-    <Name>Pit Crew Coveralls</Name>
+    <Name>Комбинезон Pit Crew</Name>
     <Description>
-      [H3]Pit Crew Coveralls[h3]
-Working as a mechanic in a pit crew, whether fixing lowly groundcars on a dusty Outer Rim backwater or maintaining elaborate podracers in a high-end racing circuit, is a dirty job. It requires clothing that stands up to hard wear and resists chemicals, fuels, lubricants, paints, welding spatter and anything else heavy work can throw at it. Pit crew coveralls are thus ubiquitous wherever individuals work with racing machines or other powerful vehicles. These garments are sturdy, one-piece suits that fit over regular clothes to protect both the clothes and the wearer. They are typically made of sturdy, tear-proof textiles and secured with heavy-duty clasps and zippers. Most are flame resistant and some can even be sealed up with a helmet to act as an emergency, limited-use environmental suit. No matter the type, though, pit crew coveralls are always covered in pockets and hanging tabs that allow a wearer to carry tools and parts with ease.
-[P]When wearing pit crew coveralls, a character reduces damage she suffers from fires and weapons with the Burn quality by 1. In addition, wearing pit crew coveralls increases the character's encumbrance threshold by 1.
-</Description>
+      [H3]Комбинезон Pit Crew[h3]
+Работа механика в Pit Crew, будь то починка скромных наземных машин в пыльном захолустье Внешнего кольца или обслуживание сложных подрейсеров на элитных гоночных трассах, - это грязная работа. Для нее нужна одежда, которая выдерживает тяжелые условия эксплуатации и противостоит химикатам, горюче-смазочным материалам, краскам, брызгам сварки и всему остальному, что может бросить в нее тяжелый труд. Комбинезоны для Pit Crew повсеместно используются там, где люди работают с гоночными машинами или другими мощными транспортными средствами. Эта одежда представляет собой прочные цельные костюмы, которые надеваются поверх обычной одежды и защищают как ее, так и владельца. Как правило, они изготовлены из прочного, устойчивого к разрывам текстиля и застегиваются с помощью сверхпрочных застежек и молний. Большинство из них устойчивы к воздействию пламени, а некоторые даже могут быть закрыты шлемом для использования в качестве аварийного экологического костюма ограниченного применения. Но независимо от типа, комбинезоны Pit Crew всегда имеют карманы и подвесные вкладки, которые позволяют легко переносить инструменты и детали.
+[P]Надев комбинезон Pit Crew, персонаж уменьшает урон от огня и оружия с качеством Burn на 1. Кроме того, ношение комбинезона Pit Crew увеличивает порог "нагрузки" персонажа на 1.</Description>
     <Source Page="44">Дополнение: Бесконечное бдение</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -2684,7 +2679,7 @@ Working as a mechanic in a pit crew, whether fixing lowly groundcars on a dusty 
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Reduce damage from fires and weapons with the Burn quality by 1.</MiscDesc>
+        <MiscDesc>Уменьшает урон от огня и оружия с качеством Burn на 1.</MiscDesc>
       </Mod>
       <Mod>
         <Key>ENCTADD</Key>
@@ -2696,15 +2691,15 @@ Working as a mechanic in a pit crew, whether fixing lowly groundcars on a dusty 
   </Armor>
   <Armor>
     <Key>POWARMOR</Key>
-    <Name>PX-11 "Battlement" Powered Armor</Name>
+    <Name>Силовая броня PX-11 "Battlement"</Name>
     <Description>
-      [H3]PX-11 "Battlement" Powered Armor[h3]
+      [H3]Силовая броня PX-11 "Battlement"[h3]
 
-The PX-11 "Battlement" from Arakyd Industries exemplifies powered armor suits. The PX-11 is a fully-enclosed suit of heavy durasteel armor, motivated by synthetic muscle fiber bundles and nano-hydraulics. Despite the armor's weight, the powerful mechanical musculature actually increases his strength.
+PX-11 «Battlement» от Arakyd Industries является образцом силовых костюмов. PX-11 - это полностью закрытый костюм из тяжелой дюрасталевой брони, движимый синтетическими пучками мышечных волокон и нано-гидравликой. Несмотря на вес брони, мощная механическая мускулатура фактически увеличивает его силу.
 
-[P]The suit forms a vacuum-sealed life support system, allowing the wearer to survive in a vacuum or toxic environment for up to one hour. The suit's helmet incorporates a comlink as well as sophisticated optical and auditory sensors, allowing the wearer to deduct [SE][SE] from all Perception, Surveillance, Vigilance, and combat skill checks due to darkness, smoke, or similar environmental factors that obscure vision. PX-11 armor suit charge packs supply enough power for 12 hours of use.
+[P]Костюм образует вакуумную герметичную систему жизнеобеспечения, позволяющую владельцу выжить в вакууме или токсичной среде в течение часа. В шлем костюма встроен комлинк, а также сложные оптические и слуховые датчики, позволяющие владельцу убрать [SE][SE] из всех проверок "Внимания", наблюдения, "Бдительности" и боевых навыков из-за темноты, дыма или подобных факторов окружающей среды, которые затуманивают зрение. Зарядных блоков бронекостюма PX-11 хватает на 12 часов работы.
 
-[P]In addition to its protective value, the armor increases the wearer's Brawn by 1 while wearing the armor. This does not increase his soak or wound threshold. The wearer also gains +1 rank of the Athletics skill as long as he is wearing the armor. The listed encumbrance value assumes the armor is powered. If a Battlement suit loses power or ceases to function for any reason, its encumbrance becomes 12, its defense becomes 0, and the wearer loses the Brawn increase. Equipping the armor without assistance takes five minutes. Assistance cuts this time in half.</Description>
+[P]В дополнение к защитным свойствам доспехи увеличивают "Телосложение" владельца на 1, пока он носит броню. При этом не увеличивается порог "поглощения" и "ранения". Носитель также получает +1 ранг к навыку "Атлетики", пока носит броню. Указанное значение обременения предполагает, что доспехи снабжены энергией. Если костюм Battlement теряет питание или перестает функционировать по какой-либо причине, его "нагрузка" становится 12, защита - 0, а владелец теряет прибавку к "Телосложению". Экипировка брони без посторонней помощи занимает 5 минут. Помощь сокращает это время вдвое.</Description>
     <Source Page="51">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -2735,20 +2730,20 @@ The PX-11 "Battlement" from Arakyd Industries exemplifies powered armor suits. T
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Remove [SETBACK][SETBACK] from Perception, Vigilance, and combat checks imposed by darkness, smoke, or similar environmental factors that obscure vision.</MiscDesc>
+        <MiscDesc>Убирает [SETBACK][SETBACK] с проверок "Внимания", "Бдительности" и боя, накладываемых темнотой, дымом или подобными факторами окружающей среды, которые затуманивают зрение.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>POWCAPARM</Key>
-    <Name>Powered Capacitive Armor</Name>
+    <Name>Энергоемкая броня</Name>
     <Description>
-      [H3]Powered Capacitive Armor[h3]
+      [H3]Энергоемкая броня[h3]
 
-Another variant on the popular, lightweight line of protection, capacitive armor offers moderate protection against most forms of attack at all times. However, an expensive, miniaturized power source in the armor can be activated to make the flexible panels within stiffen, offering increased protection at the expense of mobility.
+Еще один вариант популярной и легкой линии защиты, емкостная броня обеспечивает умеренную защиту от большинства видов атак в любое время. Однако дорогостоящий миниатюрный источник энергии в броне может быть активирован, чтобы гибкие панели внутри стали жесткими, обеспечивая повышенную защиту в ущерб мобильности.
 
-[P]As a maneuver, the wearer may power up or power down the armor. While the armor is powered and the plates are locked in place, the wearer gains + 1 soak and + 1 defense but loses his free maneuver during each of his turns.
-[BR][B]Models include:[b] A/KT Tuff-Powered Armor.</Description>
+[P]В качестве маневра носитель может включить или выключить доспехи. Пока доспех приведен в действие и пластины зафиксированы, владелец получает + 1 к "поглощению" и + 1 к защите, но теряет возможность свободного маневра во время каждого своего хода.
+[BR][B]Модели включают:[b] А/КТ Таф-силовая броня.</Description>
     <Source Page="49">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -2767,17 +2762,17 @@ Another variant on the popular, lightweight line of protection, capacitive armor
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>As maneuver, power up and add +1 defense and +1 soak, but lose free maneuver.</MiscDesc>
+        <MiscDesc>Как маневр, можно включить и получить +1 защиту и +1 "поглощение", но потерять свободный маневр.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>PROTECTOR</Key>
-    <Name>Protector 1 Combat Armor</Name>
+    <Name>Боевая броня Protector 1</Name>
     <Description>
-      [H3]Protector 1 Combat Armor[h3]
+      [H3]Боевая броня Protector 1[h3]
 
-The Protector 1 from the Tagge Company is representative of an entire class of heavy battle armor, consisting of strong durasteel plates over a ballistic mesh suit. The armor plates of the Protector 1 are not as all-encompassing as some suits of battle armor, trading a negligible amount of protection for increased mobility and lighter weight than similar armor suits. The positions of the plates distribute weight evenly, and the mesh-weave visible between the plates is still resistant to glancing hits. Overall, many mercenaries and soldiers find the Protector 1 to be an ideal trade-off between protection and mobility.</Description>
+Protector 1 от компании Tagge является представителем целого класса тяжелой боевой брони, состоящих из прочных пластин из дюрастали поверх баллистической сетки. Бронепластины Protector 1 не такие всеохватывающие, как у некоторой боевой брони, а незначительная степень защиты позволяет добиться большей мобильности и меньшего веса, чем у аналогичных бронекостюмов. Расположение пластин равномерно распределяет вес, а сетчатое плетение, видимое между пластинами, по-прежнему устойчиво к скользящим ударам. В целом, многие наемники и солдаты считают Protector 1 идеальным компромиссом между защитой и мобильностью.</Description>
     <Source Page="49">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -2800,13 +2795,12 @@ The Protector 1 from the Tagge Company is representative of an entire class of h
   </Armor>
   <Armor>
     <Key>REBELHEAVY</Key>
-    <Name>Rebel Heavy Battle Armor</Name>
+    <Name>Тяжелая боевая броня повстанцев</Name>
     <Description>
-      [H3]Rebel Heavy Battle Armor[h3]
-Most Alliance field tactics focus on hit-and-fade strikes, sabotage and denial operations, but sometimes the Rebellion has no choice but to stand and fight against Imperial forces. Unfortunately, the Rebellion lacks the manpower and weapons to dominate the Empire in field warfare. Rebel infantry uses heavy battle armor to help ensure their survival when outmanned and outgunned by superior Imperial numbers.
-[P]Rebel heavy battle armor is a combination of composites, laminate and armored clothing that provides significant overall protection. The base layer is made of armorweave cloth to dissipate blaster bolts and plastoid segments over top to protect from fragmentation and blunt force. The combination of materials provides heavy protection while allowing freedom of movement, unlike most full laminate battle suits.
-[P]Rebel heavy battle armor is equipped with helmet-fitted breath mask and respirator (see page 195 of the [B]Age of Rebellion [b] Core Rulebook).
-    </Description>
+      [H3]Тяжелая боевая броня повстанцев[h3]
+Большинство полевых тактик Альянса направлены на нанесение ударов, саботаж и операции по уничтожению, но иногда у Восстания нет иного выбора, кроме как выступить против имперских войск. К сожалению, Восстанию не хватает людей и оружия, чтобы одержать верх над Империей в полевой войне. Пехота повстанцев использует тяжелую боевую броню, чтобы обеспечить себе выживание, когда их превосходят по численности и вооружению имперцы.
+[P]Тяжелая боевая броня повстанцев - это сочетание композитов, ламината и бронекостюма, обеспечивающее значительную общую защиту. Базовый слой сделан из бронеткани для отвода бластерных болтов, а сверху наложены сегменты пластоида для защиты от осколков и тупых предметов. Комбинация материалов обеспечивает надежную защиту и при этом позволяет свободно двигаться, в отличие от большинства многослойных боевых костюмов.
+[P]Тяжелая боевая броня повстанцев оснащена шлемом с дыхательной маской и респиратором (см. стр. 195 книги правил [B]Эпоха Восстания[b]).</Description>
     <Source Page="50">Дополнение: Закаленные в битве</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -2823,7 +2817,7 @@ Most Alliance field tactics focus on hit-and-fade strikes, sabotage and denial o
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Equipped with a helmet-fitted breath mask and respirator.</MiscDesc>
+        <MiscDesc>Оснащен респиратором и дыхательной маской, подходящими к шлему.</MiscDesc>
       </Mod>
     </BaseMods>
     <Defense>1</Defense>
@@ -2831,12 +2825,12 @@ Most Alliance field tactics focus on hit-and-fade strikes, sabotage and denial o
   </Armor>
   <Armor>
     <Key>REFBODYGL</Key>
-    <Name>Reflect Body Glove</Name>
+    <Name>Отражающий костюм перчатка</Name>
     <Description>
-      [H3]Reflect Body Glove[h3]
-Effective body armor is conspicuous. Good armor certainly provides an intimidation factor in addition to security, but it risks setting the wrong tone for a tenuous negotiation. For those times when appearances are as important as security, armor that is much less noticeable-even if it is less protective-is a necessary compromise.
-[P]A reflect body glove is a skintight suit that can be worn underneath traditional garments. It incorporates a reflective weave that is capable of dispersing the blasts from an energy weapon. The thin layer of tight weave is fragile, however, particularly for suit of armor.
-[P]Add [SE][SE] to Vigilance and Perception checks to notice that the wearer is wearing a reflect body glove. After a successful combat check has been resolved against the wearer, the reflect body glove's soak is reduced by one, to a minimum of zero. The reflect body glove's soak may be restored to its original value by making a successful [B]Average ([DI][DI]) Mechanics check[b].</Description>
+      [H3]Отражающий костюм перчатка[h3]
+Эффективные бронежилеты бросаются в глаза. Хорошая броня, безусловно, обеспечивает фактор устрашения в дополнение к безопасности, но она рискует задать неверный тон напряженным переговорам. В тех случаях, когда внешний вид так же важен, как и безопасность, броня, которая менее заметна, даже если она менее защищена, является необходимым компромиссом.
+[P]Отражающий костюм перчатка - это облегающий костюм, который можно носить под традиционной одеждой. Она включает в себя отражающее плетение, способное рассеивать взрывы энергетического оружия. Однако тонкий слой плотного плетения хрупок, особенно для доспехов.
+[P]Добавьте [SE][SE] к проверкам "Бдительности" и "Восприятия", чтобы заметить, что на владельце надет костюм перчатка. После успешного разрешения боевой проверки против владельца, "поглощение" отражающего костюма перчатки уменьшается на 1, до минимального значения 0. "Поглощение" отражающей перчатки может быть восстановлена до первоначального значения при успешной проверке [B]Средней ([DI][DI]) "Механики"[b].</Description>
     <Source Page="46">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -2848,28 +2842,28 @@ Effective body armor is conspicuous. Good armor certainly provides an intimidati
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add [SE][SE] to Vigilance and Perception checks to notice the body glove.</MiscDesc>
+        <MiscDesc>Добавьте [SE][SE] к проверкам "Бдительности" и "Восприятия", чтобы заметить костюм перчатку.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>After each successful combat check against wearer is resolved, reduce Soak by 1, to a minimum of 0.</MiscDesc>
+        <MiscDesc>После разрешения каждой успешной проверки боя против владельца, уменьшите "поглощение" на 1, до минимального значения 0.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Original Soak value may be restored by making a successful [B]Average ([DI][DI]) Mechanics check[b].</MiscDesc>
+        <MiscDesc>Первоначальное значение "поглощения" можно восстановить, сделав успешную [B]Среднюю ([DI][DI]) проверку "Механики"[b].</MiscDesc>
       </Mod>
     </BaseMods>
     <Soak>3</Soak>
   </Armor>
   <Armor>
     <Key>REINFENVIRO</Key>
-    <Name>Reinforced Environment Gear</Name>
+    <Name>Environment Gear (Усиленное)</Name>
     <Description>
-      [H3]Reinforced Environment Gear[h3]
+      [H3]Environment Gear (Усиленное)[h3]
 
-Produced by a number of companies, such as Pretormin Environmental and Gandorthral Atmospherics. reinforced environment gear is essentially improved adverse environment gear. These suits are especially popular among colonists, who not only must brave strange and hazardous planetary conditions, but who are also more prone to injury from falls or unstable environmental formations.
+Усиленное снаряжение для защиты от неблагоприятных условий, выпускаемое рядом компаний, таких как Pretormin Environmental и Gandorthral Atmospherics, по сути, является усовершенствованным снаряжением для защиты от неблагоприятных условий. Эти костюмы особенно популярны среди колонистов, которые не только вынуждены преодолевать странные и опасные планетарные условия, но и более подвержены травмам от падений или нестабильных природных образований.
 
-[P]The reinforced environment suits allows a wearer to ignore [SE] imposed by environmental conditions, and also reduces Critical Injuries suffered from falling by 20. The suit also includes a filter, granting [BO] to Resilience checks to resist toxic atmospheres or airborne toxins.</Description>
+[P]Усиленные костюмы позволяют владельцу игнорировать [SE], которые накладываются условиями окружающей среды, а также уменьшают "критические ранения", полученные при падении, на 20. Костюм также включает в себя фильтр, дающий [BO] к проверкам "Стойкости", чтобы противостоять токсичной атмосфере или токсинам в воздухе.</Description>
     <Source Page="44">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -2884,11 +2878,11 @@ Produced by a number of companies, such as Pretormin Environmental and Gandorthr
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Removes [SETBACK] imposed by environmental conditions.</MiscDesc>
+        <MiscDesc>Уберите [SETBACK], вызванный условиями окружающей среды.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add [BOOST] to Resilience checks to resist toxic atmospheres or airborne toxins.</MiscDesc>
+        <MiscDesc>Добавьте [BOOST] к проверкам "Стойкости", чтобы противостоять токсичной атмосфере или токсинам, переносимым по воздуху.</MiscDesc>
       </Mod>
     </BaseMods>
     <Defense>0</Defense>
@@ -2896,13 +2890,13 @@ Produced by a number of companies, such as Pretormin Environmental and Gandorthr
   </Armor>
   <Armor>
     <Key>RESPROBES</Key>
-    <Name>Resplendent Robes</Name>
+    <Name>Великолепная роба</Name>
     <Description>
-      [H3]Resplendent Robes[h3]
+      [H3]Великолепная роба[h3]
 
-Some beings naturally become the center of attention when they enter a room, but dressing for the part never hurts, either. Purposefully ostentatious clothing greatly aids their efforts, allowing the wearer's allies to go about other business unobserved.
+Некоторые существа от природы становятся центром внимания, когда входят в комнату, но одеться для роли тоже не помешает. Намеренно показная одежда очень помогает им в этом, позволяя союзникам владельца заниматься другими делами незаметно.
 
-[P]As long as a character wearing resplendent robes purposefully draws attention to himself, each of his allies in medium range adds [BO] to Perception, Skulduggery, and Stealth checks.</Description>
+[P]Пока персонаж в великолепной робе целенаправленно привлекает к себе внимание, каждый его союзник в средней дистанции добавляет [BO] к проверкам "Внимания", "Жульничества" и "Скрытности".</Description>
     <Source Page="49">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -2920,18 +2914,18 @@ Some beings naturally become the center of attention when they enter a room, but
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>If wearer draws attention to himself, allies in medium range add [BO] to Perception, Skulduggery, and Stealth checks.</MiscDesc>
+        <MiscDesc>Если носитель привлекает к себе внимание, союзники на средней дистанции добавляют [BO] к проверкам "Внимания", "Жульничества" и "Скрытности".</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>RIDINGTACK</Key>
-    <Name>Caballerin-Series Riding Tack</Name>
+    <Name>Снаряжение для верховой езды серии Caballerin</Name>
     <Description>
-      [H3]Caballerin-Series Riding Tack[h3]
+      [H3]Снаряжение для верховой езды серии Caballerin[h3]
 
-No matter how tame and biddable a creature is, and how much a rider believes he can trust his mount, a good set of riding tack is an indispensable part of a beast rider's accoutrement. Made in a variety of styles for nearly every known beast able to be domesticated in the galaxy, Piccatech Ltd.'s Caballerin-series beast tack is the industry leader in beast-riding equipment. A full set of riding tack includes a sturdy saddle tailored to both the beast and the type of riding expected, stirrups, headgear (bridle, halter, bit, etc), and breastplate. If the tack is purchased for a working animal as opposed to a riding animal, a harness is substituted for the saddle, and allows a creature to pull or carry vast amounts of cargo.
-[P]Tack can only be equipped to bestial riding animals. Using it allows the character to ride the beast without suffering the bareback riding penalties discussed on page 81.</Description>
+Каким бы ручным и послушным ни был зверь, и как бы ни был уверен всадник, что может доверять своему животному, хороший комплект снаряжения для верховой езды - незаменимая часть снаряжения зверовода. Снаряжение для верховой езды Piccatech Ltd. серии Caballerin, выполненное в различных стилях для почти всех известных в галактике зверей, которых можно одомашнить, является лидером в индустрии снаряжения для верховой езды на зверях. Полный комплект снаряжения для верховой езды включает в себя прочное седло, подходящее как для зверя, так и для предполагаемой езды, стремена, головной убор (уздечка, недоуздок, бит и т.д.) и нагрудник. Если упряжь приобретается для рабочего, а не ездового животного, вместо седла используется упряжь, позволяющая животному тянуть или нести большой груз.
+[P]Снаряжение может быть экипировано только для верховых животных. С ее помощью персонаж может ездить верхом на звере, не страдая от штрафов за езду верхом, о которых говорилось на стр. 81.</Description>
     <Source Page="42">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -2948,21 +2942,20 @@ No matter how tame and biddable a creature is, and how much a rider believes he 
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>May only be worn by a beast.</MiscDesc>
+        <MiscDesc>Может носить только животное.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>May ride a beast without suffering bareback penalty.</MiscDesc>
+        <MiscDesc>Можно ездить верхом на животном, не подвергаясь штрафу за езду верхом.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>RIOTARM</Key>
-    <Name>Riot Armor</Name>
+    <Name>Полицейская броня</Name>
     <Description>
-      [H3]Riot Armor[h3]
-[P]Produced by countless manufacturers throughout the galaxy, riot armor is a general term for light combat armor designed for personal protection in high-intensity conflicts. Though designs vary, riot armor often includes a helmet with an integrated face shield and padded vest and greaves interwoven with ballistic cloth. Given its ubiquity and customizability, riot armor remains a popular choice for anyone interested in self-defense on a budget.
-    </Description>
+      [H3]Полицейская броня[h3]
+[P]Выпускаемые бесчисленными производителями по всей галактике, броня бунтарей - это общий термин для обозначения легкой боевой брони, предназначенной для личной защиты в конфликтах высокой интенсивности. Несмотря на различия в конструкции, броня бунтарей часто включает в себя шлем со встроенным лицевым щитком, мягкий жилет и поножи, обтянутые баллистической тканью. Благодаря своей повсеместной распространенности и возможности настройки, полицейская броня остается популярным выбором для тех, кто заинтересован в самообороне при ограниченном бюджете.</Description>
     <Source Page="49">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -2983,13 +2976,13 @@ No matter how tame and biddable a creature is, and how much a rider believes he 
   </Armor>
   <Armor>
     <Key>RIOTARMOR</Key>
-    <Name>Mk.IV Riot Armor</Name>
+    <Name>Полицейская броня Mk.IV</Name>
     <Description>
-      [H3]Mk.IV Riot Armor[h3]
+      [H3]Полицейская броня Mk.IV[h3]
 
-The Mk.IV Riot Armor is one of Creshaldyne Industries' most popular offerings. Sold almost exclusively to governmental and law enforcement agencies, this sophisticated riot armor is advertised as the final word in protection for law enforcement officers. Worn over a smartmesh body glove woven with foil-fiber reinforcement, the armor is composed of a lightweight clamshell to protect the torso and a number of flexible contoured plates to protect the legs, groin, arms, and shoulders. A blast helmet with a removable, polarized face shield and integrated breath mask completes the ensemble.
+Полицейская броня Mk.IV - одно из самых популярных предложений Creshaldyne Industries. Продаваемая почти исключительно правительственным и правоохранительным органам, эта сложная броня для борьбы с беспорядками рекламируется как последнее слово в защите сотрудников правоохранительных органов. Бронежилет надевается поверх перчаток smartmesh, армированных фольгированным волокном, и состоит из легкого панциря для защиты торса и нескольких гибких пластин для защиты ног, паха, рук и плеч. Шлем со съемным поляризованным лицевым щитком и встроенной дыхательной маской завершает ансамбль.
 
-[P]This armor includes a breath mask that allows the user to filter out and ignore airborne toxins and gases (but not breathe in atmospheres without the character's required atmosphere mix). In addition, when staggered or disoriented, the wearer reduces the duration of the effect by one round, to a minimum of one round.</Description>
+[P]Эта броня включает в себя дыхательную маску, которая позволяет пользователю отфильтровывать и игнорировать токсины и газы, содержащиеся в воздухе (но не дышать в атмосфере без требуемой персонажу смеси атмосфер). Кроме того, при ошеломлении или дезориентации носитель уменьшает длительность эффекта на 1 раунд, минимум до 1 раунда.</Description>
     <Source Page="44">Far Horizons</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -3006,11 +2999,11 @@ The Mk.IV Riot Armor is one of Creshaldyne Industries' most popular offerings. S
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Built-in breath mask</MiscDesc>
+        <MiscDesc>Встроенная дыхательная маска.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Reduce duration of disoriented or staggered results by one round (minimum of one round).</MiscDesc>
+        <MiscDesc>Сократите продолжительность дезориентации или ошеломления на 1 раунд (минимум до 1 раунда).</MiscDesc>
       </Mod>
     </BaseMods>
     <Defense>1</Defense>
@@ -3018,13 +3011,13 @@ The Mk.IV Riot Armor is one of Creshaldyne Industries' most popular offerings. S
   </Armor>
   <Armor>
     <Key>SAKSHADOW</Key>
-    <Name>Sakiyan Shadowsuit</Name>
+    <Name>Теневой костюм Сакиян</Name>
     <Description>
-      [H3]Sakiyan Shadowsuit[h3]
+      [H3]Теневой костюм Сакиян[h3]
 
-Woven from the silk of the umbraspider, Sakiyan shadowsuits are used by assassins who wish to remain unseen. The silk has unusual properties, refracting and absorbing light in a way that makes the umbraspiders webs virtually invisible. The Sakiyans have put this extraordinary material to use in crafting body gloves that make the wearer almost impossible to see except in bright light. Chemists working for Ayelixe/Krongbing Textiles were able to synthesize shadowsilk by studying the properties of Defel fur, but Sakiyans contend that the silk of the umbraspider is superior.
+Теневые костюмы сакиян, сотканные из шелка убра пауков, используются убийцами, которые хотят оставаться незамеченными. Шелк обладает необычными свойствами, преломляя и поглощая свет таким образом, что паутина умбра паука становится практически невидимой. Сакиянцы использовали этот необычный материал для создания нательных перчаток, в которых человека практически невозможно увидеть, кроме как при ярком свете. Химики, работающие в Ayelixe/Krongbing Textiles, смогли синтезировать Теневой шелк, изучив свойства меха Дефела, но сакиянцы утверждают, что шелк умбра паука превосходит его.
 
-[P]A Sakiyan shadowsuit grants [BO][BO] to Stealth checks.</Description>
+[P]Теневой костюм сакияна дает [BO][BO] к проверкам "Скрытности".</Description>
     <Source Page="105">Дополнение: Лорды Нал-Хатта</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -3044,7 +3037,7 @@ Woven from the silk of the umbraspider, Sakiyan shadowsuits are used by assassin
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Grants [BOOST][BOOST] to Stealth checks.</MiscDesc>
+        <MiscDesc>Добавляет [BOOST][BOOST] к проверкам "Скрытности".</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillKey>STEAL</SkillKey>
@@ -3056,12 +3049,11 @@ Woven from the silk of the umbraspider, Sakiyan shadowsuits are used by assassin
   </Armor>
   <Armor>
     <Key>SCAVCLONE</Key>
-    <Name>Scavenged Clone Armor</Name>
-    <Description>[H3]Scavenged Clone Armor[h3]
-Bounty hunters, pirates, and other misfits often seek out the heavy protection of laminate armor and heavy bodysuits, only to find the expensive construction of the gear they seek to be a significant obstacle. However, the battlefields of the Clone Wars have proven to be a veritable treasure trove of military-grade gear for scavengers, and the durable armor of the clone troopers has made scavenging laminate plating nearly an industry unto itself.
+    <Name>Списанная броня клона</Name>
+    <Description>[H3]Списанная броня клона[h3]
+Охотники за головами, пираты и прочие отщепенцы часто ищут надежную защиту в виде пластинчатых доспехов и тяжелых бронекостюмов, но дороговизна снаряжения оказывается серьезным препятствием. Однако поля сражений Войн клонов оказались настоящей сокровищницей военного снаряжения для мусорщиков, а прочная броня войск клонов сделала добычу ламината почти самоцелью.
 
-[P]The scavenged suits are even more ill-fitting than standard clone armor, and they sometimes draw unwanted Republic attention, but for many, affordable protection of such quality is worth the other issues. Due to the piecemeal nature of its construction and the difficulty of adapting the specific fit of clone armor, all wearers of scavenged clone armor suffer [SE] to Coordination and Stealth checks while wearing it. Characters wearing scavenged clone armor may suffer one or more [SE] on interactions with Republic officials and representatives, at the GM's discretion.
-</Description>
+[P]Списанные костюмы сидят еще хуже, чем стандартная броня клонов, и иногда привлекают нежелательное внимание Республики, но для многих доступная защита такого качества стоит других проблем. Из-за кустарного характера изготовления и сложности адаптации к специфической посадке брони клонов все носители списанной брони клонов получают [SE] к проверкам "Координации" и "Скрытности", пока носят ее. Персонажи, носящие списанную броню клонов, могут получить один или несколько [SE] при взаимодействии с чиновниками и представителями Республики, на усмотрение ГМа.</Description>
     <Sources>
       <Source Page="58">Дополнение: Восстание сепаратистов</Source>
     </Sources>
@@ -3080,7 +3072,7 @@ Bounty hunters, pirates, and other misfits often seek out the heavy protection o
     <Rarity>4</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>Suffer [SE] on Coordination and Stealth checks.</MiscDesc>
+        <MiscDesc>Добавляет [SE] при проверках "Координации" и "Скрытности".</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillKey>COORD</SkillKey>
@@ -3093,21 +3085,21 @@ Bounty hunters, pirates, and other misfits often seek out the heavy protection o
         </DieModifiers>
       </Mod>
       <Mod>
-        <MiscDesc>Wearer may suffers [SE] or more on interactions with Republic officials and representatives.</MiscDesc>
+        <MiscDesc>Носитель может добавить [SE] или больше при взаимодействии с чиновниками и представителями Республики на усмотрение ГМа.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>SECSKIN</Key>
-    <Name>Second Skin Armor</Name>
+    <Name>Броня вторая кожа</Name>
     <Description>
-      [H3]Second Skin Armor[h3]
+      [H3]Броня вторая кожа[h3]
 
-Like most types of armored clothing, second skin armor offers moderate protection while still enabling easy movement and flexibility. Unlike most forms, though, this variant remains remarkably thin and can often even be hidden under a layer of looser, non-protective clothes, making it almost undetectable. The lightweight nature of second skin armor, however, carries a correspondingly higher cost without offering a measurable increase in protection.
+Как и большинство типов бронированной одежды, броня «вторая кожа» обеспечивает умеренную защиту и при этом позволяет легко двигаться и быть гибким. Однако, в отличие от большинства видов, этот вариант остается удивительно тонким и часто может быть даже скрыт под слоем более свободной, не защищающей одежды, что делает его почти незаметным. Однако легкость доспехов «второй кожи» влечет за собой соответствующую более высокую стоимость без ощутимого повышения уровня защиты.
 
-[P]Add [SE][SE] to a character's Perception checks to notice second skin armor on the wearer.
+[P]Добавьте [SE][SE] к проверкам "Внимания" персонажа, чтобы заметить броню из второй кожи на носителе.
 
-[BR][B]Models include:[b] Preparix Second Skin, Aylixe/Krongbing Undershield.</Description>
+[BR][B]Модели включают:[b] Preparix Second Skin, Aylixe/Krongbing Undershield.</Description>
     <Source Page="49">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -3124,18 +3116,18 @@ Like most types of armored clothing, second skin armor offers moderate protectio
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add [SE][SE] to Perception checks to notice second skin armor on the wearer.</MiscDesc>
+        <MiscDesc>Добавьте [SE][SE] к проверкам "Внимания", чтобы заметить броню из второй кожи на носителе.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>SITHPAIN</Key>
-    <Name>Sith Pain Harness</Name>
-    <Description>[H3]Sith Pain Harness[h3]
-Constant enemies of the Jedi Order, the Sith have always sought to dominate and destroy. They even seek to pervert the Force itself, turning its energies into a weapon to torture and maim. They build all their greatest strengths on the pain they can inflict.
-[P]Developed over generations, the Sith Pain Harness represents the pinnacle of this philosophy. It is little more than a set of interlocking metal plates, each sharp enough to easily draw blood. Any being wearing the armor must take extreme caution, lest the metal carve into their flesh. Granted, the point of the device is not to avoid hurting oneself. Instead, Sith are to embrace the pain, using it to fuel their hatred. The pain they feel suffuses all their Force power, a gruesome attempt to spread their own agony.
-[P]While wearing the Sith Pain Harness, a character can choose to suffer one wound as an incidental to add automatic [SU] to the next Discipline check they make during the current round. They then suffer 1 Conflict.</Description>
-    <Source Page="51">Unlimited Power</Source>
+    <Name>Жгуты боли ситха</Name>
+    <Description>[H3]Жгуты боли ситха[h3]
+Постоянные враги Ордена джедаев, ситхи всегда стремились к господству и разрушению. Они так-же стремятся извратить саму Силу, превратив ее энергию в оружие для пыток и калечения. Все свои самые сильные стороны они строят на боли, которую могут причинить.
+[P]Разрабатываемый на протяжении нескольких поколений, жгуты боли ситхов представляет собой вершину этой философии. Это не более чем набор скрепленных между собой металлических пластин, каждая из которых достаточно остра, чтобы легко пролить кровь. Любое существо, облаченное в доспехи, должно соблюдать предельную осторожность, чтобы металл не врезался в плоть. Впрочем, суть устройства не в том, чтобы не причинять себе вреда. Наоборот, ситхи должны принимать боль, используя ее для разжигания своей ненависти. Боль, которую они чувствуют, наполняет всю их мощь Силы - это ужасная попытка распространить свою собственную агонию.
+[P]Когда персонаж носит Жгуты боли ситха, он может получить 1 "рану" в качестве свободного действия, чтобы добавить автоматическое [SU] к следующей проверке "Выдержке", которую он делает в течение текущего раунда. После этого он получают 1 Конфликт.</Description>
+    <Source Page="51">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Half Body</Category>
@@ -3149,16 +3141,16 @@ Constant enemies of the Jedi Order, the Sith have always sought to dominate and 
     <Rarity>9</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>Wearer may suffer 1 wound as incidental to add [SU] to next Discipline check that round.  Must suffer 1 Conflict.</MiscDesc>
+        <MiscDesc>Носитель может получить 1 "рану", чтобы добавить [SU] к следующей проверке "Выдержки" в этом раунде. После этого он получает 1 конфликт.</MiscDesc>
       </Mod>
     </BaseMods>
   </Armor>
   <Armor>
     <Key>SKAKPRESS</Key>
-    <Name>Skakoan Pressure Suit</Name>
+    <Name>Скафандр Скакоан</Name>
     <Description>
-      [H3]Skakoan Pressure Suit[h3]
-Skakoans require methane to live, and wear special pressure suits to emulate the conditions on Skako. They start the game with a specialized pressure suit with methane respirator, which counts as armor with indefinite supplies of methane. The suit has + 2 soak, encumbrance of 3, 3 hard points, cannot acquired unless on Skako (at a price equivalent to laminate armor), and cannot be worn by other species.</Description>
+      [H3]Скафандр Скакоан[h3]
+Скакоанам для жизни необходим метан, и они носят специальные костюмы, имитирующие условия на Скако. Они начинают игру со специализированным скафандром с метановым респиратором, который считается броней с неограниченным запасом метана. Костюм имеет +2 "поглощение", 3 "нагрузки", 3 тчк. крепления, может быть приобретен только на Скако (по цене, эквивалентной ламинатной броне) и не может быть надет другими видами.</Description>
     <Source Page="23">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -3172,24 +3164,24 @@ Skakoans require methane to live, and wear special pressure suits to emulate the
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Allows Skakoans to breath in non-methane atmospheres.</MiscDesc>
+        <MiscDesc>Позволяет скакоанам дышать в неметановой атмосфере.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Cannot acquire unless on Skako.</MiscDesc>
+        <MiscDesc>Невозможно приобрести, если только на Скако.</MiscDesc>
       </Mod>
     </BaseMods>
     <Soak>2</Soak>
   </Armor>
   <Armor>
     <Key>SMUGGLERSTRENCHCOAT</Key>
-    <Name>Smuggler's Trenchcoat</Name>
+    <Name>Плащ контрабандиста</Name>
     <Description>
-      [H3]Smuggler's Trenchcoat[h3]
+      [H3]Плащ контрабандиста[h3]
 
-Every smuggler gets searched; that part of the job is inevitable. Some smugglers, however, take the tact that if they simply have enough hidden compartments, at least a few will inevitably go unsearched. The smuggler's trenchcoat addresses this strategy, and is covered with pockets, minor compartments, and pouches within pouches to confound any search.
+Каждого контрабандиста обыскивают, это неизбежная часть работы. Однако некоторые контрабандисты считают, что если у них достаточно потайных отделений, то хотя бы несколько из них неизбежно останутся без досмотра. Плащ контрабандиста соответствует этой стратегии: он усыпан карманами, мелкими отделениями и подсумками, чтобы сбить с толку любой обыск.
 
-[P]Checks made to find anything hidden within a smuggler's trenchcoat while it is being worn are opposed by the Skulduggery of the wearer. The coat can conceal up to 2 encumbrance worth of items.</Description>
+[P]Проверки на поиск предметов, спрятанных в плаще контрабандиста во время его ношения, имеют встречную проверку с "Жульничеством" его владельца. В плаще можно спрятать предметы с "нагрузкой" до 2.</Description>
     <Source Page="47">Дополнение: Непринужденный полет</Source>
     <Custom>DescOnly</Custom>
     <Type />
@@ -3205,11 +3197,11 @@ Every smuggler gets searched; that part of the job is inevitable. Some smugglers
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Checks to find anything hidden within a smuggler's trenchcoat are opposed by the Skulduggery of the wearer.</MiscDesc>
+        <MiscDesc>Проверкам, позволяющим найти что-нибудь, спрятанное в плаще контрабандиста, противостоит "Жульничество" его владельца.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>The coat can conceal up to 2 encumbrance worth of items.</MiscDesc>
+        <MiscDesc>В плаще можно спрятать предметы c "нагрузкой" до 2, которые могут быть помещены в него.</MiscDesc>
       </Mod>
     </BaseMods>
     <Defense>1</Defense>
@@ -3374,7 +3366,7 @@ Before the Empire, Tholothian Defense Forces looked the same as their offworld c
 [P]Imperial blockades drove the cost of importing weapons and body armor beyond feasibility. Anything deemed contraband entering the system was immediately seized. Factories mass-producing weapons were co-opted by the Empire. Traditional
 weaponsmiths became the sale reliable source of arms and armaments. Before the Empire, Tholothians took their heritage for granted. Now that it is their last weapon against the Empire, Tholothians have embraced it with open arms.
 [P]The Timber Cuirass has become one of the planet's best products-a modern update for ancient Tholothian armor. Armorers crafted the classic cuirass from a single living piece of Heartwood. Generally, a noble would commission it as soon as they came of age, as the process could take decades. The cuirass must be shaped and refined while still growing as part of the tree. On completion, the resulting armor is as strong as durasteel, but only a fraction of the weight.</Description>
-    <Source Page="51">Unlimited Power</Source>
+    <Source Page="51">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Half Body</Category>
@@ -3452,7 +3444,7 @@ Fiber ultramesh armor is the standard armor worn by Verpine colony guards. It is
 Waterweave is a composite material created out of native Semblan alloys and minerals. While it is heavy and bulky normally, its buoyancy actually increases while submerged. Most scientists are at a complete loss to explain this, and mumble something about air pockets when pressed.
 [P]Waterweave deflects even the strongest blows instead of absorbing their force. Moreover, its buoyancy allows users to fight in the water without being dragged down by what would normally be bulky, restricting clothing. Warriors equipped with waterweave report fighting better underwater than on any other terrain.
 [P]Waterweave armor has encumbrance 7. However, while submerged, the armor's encumbrance changes to 0.</Description>
-    <Source Page="51">Unlimited Power</Source>
+    <Source Page="51">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Full Body</Category>
