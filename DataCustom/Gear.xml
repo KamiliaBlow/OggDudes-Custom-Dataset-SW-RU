@@ -586,11 +586,11 @@ AG/L Mk. III популярна среди членов экипажей ору�
   </Gear>
   <Gear>
     <Key>ALCHEMYWATEROFLIFE</Key>
-    <Name>Water of Life</Name>
-    <Description>[H3]Water of Life[h3]
-Created using something the Nightsisters of Dathomir called “spirit ichor." the so-called Water of Life is a glowing green liquid that can heal wounds, and even return the "mostly" dead back to life.
-[P]When the user consumes this potion, they heal all wounds and strain they are currently suffering. In addition, if applied to a target who died during the current encounter, the target may immediately make a [B]Daunting ([DI][DI][DI][DI]) Discipline[b] or [B]Resilience check[b] (even though the target is dead). If successful, the target returns to life and heals one Critical Injury of their choice that they are suffering from.
-[P]Alternatively, a the user may consume this potion while making a Force power check. If they do so, they suffer 1 Conflict, and they add automatic [LI][DA] to the check results. If the Force user is attempting to make a Conjure check, they add [LI][LI][DA][DA] instead.</Description>
+    <Name>Вода жизни</Name>
+    <Description>[H3]Вода жизни[h3]
+Так называемая Вода жизни - это светящаяся зеленая жидкость, которая может заживлять раны и даже возвращать к жизни "почти мертвых".
+[P]Когда пользователь употребляет это зелье, он исцеляет все "ранения" и "усталость", от которых страдает в данный момент. Кроме того, если применить зелье к цели, которая умерла во время текущей встречи, цель может немедленно сделать [B]Проверку "Выдержки" ([DI][DI][DI][DI]) или [B]Проверку "Cтойкости"[b] (даже если цель мертва). В случае успеха цель возвращается к жизни и исцеляет одно "критическое ранение" по своему выбору, от которого она страдает.
+[P]Кроме того, пользователь может выпить это зелье во время проверки Cилы. В этом случае он получает 1 Конфликт и автоматически добавляет [LI][DA] к результатам проверки. Если пользователь Силы пытается выполнить проверку колдовства, вместо этого он добавляет [LI][LI][DA][DA].</Description>
     <Source Page="83">Дополнение: Абсолютная власть</Source>
     <Custom>AddedItem</Custom>
     <Type>Alchemical Potion</Type>
@@ -600,26 +600,26 @@ Created using something the Nightsisters of Dathomir called “spirit ichor." th
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Crafted using Alchemy
-[P][B]Check: Formidable ([DI][DI][DI][DI][DI]) Discipline[b] or [B]Knowledge (Lore) check[b]
-[P][B]Time:[b] 8 hours</MiscDesc>
+        <MiscDesc>Изготовлено с помощью алхимии
+[P][B]Проверка: Запредельная ([DI][DI][DI][DI][DI]) "Выдержка"[b] или [B]"Знания (Легенды)"[b]
+[P][B]Время:[b] 8 часов</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>When the user consumes this potion, they heal all wounds and strain they are currently suffering. In addition, if applied to a target who died during the current encounter, the target may immediately make a [B]Daunting ([DI][DI][DI][DI]) Discipline[b] or [B]Resilience check[b] (even though the target is dead). If successful, the target returns to life and heals one Critical Injury of their choice that they are suffering from.</MiscDesc>
+        <MiscDesc>Когда пользователь употребляет это зелье, он исцеляет все "ранения" и "усталость", от которых страдает в данный момент. Кроме того, если применить зелье к цели, которая умерла во время текущей встречи, цель может немедленно сделать [B]Проверку "Выдержки" ([DI][DI][DI][DI]) или [B]Проверку "Cтойкости"[b] (даже если цель мертва). В случае успеха цель возвращается к жизни и исцеляет одно "критическое ранение" по своему выбору, от которого она страдает.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>The user may consume this potion while making a Force power check. If they do so, they suffer 1 Conflict, and they add automatic [LI][DA] to the check results. If the Force user is attempting to make a Conjure check, they add [LI][LI][DA][DA] instead.</MiscDesc>
+        <MiscDesc>Пользователь может выпить это зелье во время проверки Cилы. Если он это делает, то получает 1 Конфликт и автоматически добавляет [LI][DA] к результатам проверки. Если пользователь Силы пытается выполнить проверку колдовства, вместо этого он добавляет [LI][LI][DA][DA].</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>ALCHEMYWEAKENINGPOTION</Key>
-    <Name>Weakening Potion</Name>
-    <Description>[H3]Weakening Potion[h3]
-This poison does not kill the target, but it does weaken them significantly. Under its effects, a target's wounds bleed freely, and even the least effort exhausts them.
-[P]When affected by the potion , the target must immediately make an [B]Average ([DI][DI]) Resilience check[b]. If they fail, they reduce their wound and strain threshold to half their normal value (rounding up) for the remainder of the encounter (or one hour in narrative time). The duration increases by one hour per [TH].</Description>
+    <Name>Ослабляющее зелье</Name>
+    <Description>[H3]Ослабляющее зелье[h3]
+Этот яд не убивает цель, но значительно ослабляет ее. Под его действием раны цели свободно кровоточат, и даже малейшие усилия истощают их.
+[P]Под воздействием зелья цель должна немедленно сделать [B]Среднюю ([DI][DI]) проверку "Стойкости"[b]. Если проверка провалена, порог "ранений" и "усталость" уменьшается до половины их нормального значения (округляя в большую сторону) до конца встречи (или на 1 час по повествовательному времени). Продолжительность увеличивается на 1 час за [TH].</Description>
     <Source Page="83">Дополнение: Абсолютная власть</Source>
     <Custom>AddedItem</Custom>
     <Type>Alchemical Potion</Type>
@@ -629,13 +629,13 @@ This poison does not kill the target, but it does weaken them significantly. Und
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Crafted using Alchemy
-[P][B]Check: Hard ([DI][DI][DI]) Discipline[b] or [B]Knowledge (Lore) check[b]
+        <MiscDesc>Изготовлено с помощью алхимии
+[P][B]Проверка: Сложная ([DI][DI][DI]) "Выдержка"[b] или [B]"Знания (Легенды)"[b]
 [P][B]Time:[b] 4 hours</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>When affected by the potion , the target must immediately make an [B]Average ([DI][DI]) Resilience check[b]. If they fail, they reduce their wound and strain threshold to half their normal value (rounding up) for the remainder of the encounter (or one hour in narrative time). The duration increases by one hour per [TH].</MiscDesc>
+        <MiscDesc>Под воздействием зелья цель должна немедленно сделать [B]Среднюю ([DI][DI]) проверку "Стойкости"[b]. Если проверка провалена, порог "ранений" и "усталость" уменьшается до половины их нормального значения (округляя в большую сторону) до конца встречи (или на 1 час по повествовательному времени). Продолжительность увеличивается на 1 час за [TH].</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
@@ -643,9 +643,9 @@ This poison does not kill the target, but it does weaken them significantly. Und
     <Key>ALDR8GRAVBIND</Key>
     <Name>AL-DR8 Grav-Binders</Name>
     <Description>
-      [H3]AL-DR8 Grav-Binders[h3]
-[P]Designed to restrain the particularly slippery individuals, grav-binders use microrepulsor technology to artificially apply the effects of extreme gravity to a captive. Unlike magna-cuffs, heavy-duty binders that employ a magnetic field to be too strong to break, AL-DR8 grav-binders are fitted snugly across the body and use the power of gravity itself to restrict any movement. This makes them favorable for species that have especially flexible or even amorphous bodies, as they must be able to muster the strength to resist the artificial gravity created by the grav-binders before they can even attempt to slip free.
-[P]Breaking free from the grav-binders requires the [B]Formidable ([DI][DI][DI][DI][DI]) Athletics check[b] (due to the restrictive effects of the artificially raised gravity on the whole body, a character cannot slip free of grav-binders using flexibility alone.)</Description>
+      [H3]Грави-наручники AL-DR8[h3]
+[P]Созданные для удержания особо прытких людей, грави-наручники используют технологию микрорепульсоров для искусственного воздействия на пленника экстремальной гравитации. В отличие от магна-наручников - сверхмощных сковывающих устройств, в которых используется магнитное поле, слишком сильное, чтобы его можно было сломать, - грави-наручники AL-DR8 плотно прилегают к телу и используют силу гравитации для ограничения любых движений. Это делает их наиболее подходящими для видов с особенно гибкими или даже аморфными телами, поскольку они должны быть в состоянии собратся с силами, чтобы противостоять искусственной гравитации, создаваемой грави-наручниками, прежде чем они смогут даже попытаться выбраться на свободу.
+[P]Для того чтобы освободиться от грави-наручников, требуется [B]Проверка "Атлетики" ([DI][DI][DI][DI][DI]) (из-за ограничительного воздействия искусственно повышенной гравитации на все тело, персонаж не может выскользнуть из грави-наручников, используя только гибкость).</Description>
     <Source Page="51">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
     <Type>Security/Espionage</Type>
@@ -657,21 +657,21 @@ This poison does not kill the target, but it does weaken them significantly. Und
     <Restricted>false</Restricted>
     <BaseMods>
       <Mod>
-        <MiscDesc>Breaking free requires a [B]Formidable ([DI][DI][DI][DI][DI]) Athletics check[b].</MiscDesc>
+        <MiscDesc>Для освобождения требуется [B]Запредельная ([DI][DI][DI][DI][DI][DI]) проверка "Атлетики"[b].</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>ANTIDOTESET</Key>
-    <Name>Antidote Set</Name>
+    <Name>Набор антидотов</Name>
     <Description>
-      [H3]Antidote Set[h3]
+      [H3]Набор антидотов[h3]
 
-Poisoning is not a common concern for most citizens, but for certain high-value persons of interest, poisoning is an all-too-real hazard. Small, portable antidote sets offer a degree of protection, providing an assortment of single-use vials of antidotes to common poisons. Almost every major medical corporation offers some version of the portable antidote set, and some even sell regional variants.
+Для большинства граждан отравление не является обычным делом, но для некоторых особо важных персон отравление представляет собой вполне реальную опасность. Небольшие портативные наборы с антидотами обеспечивают определенную защиту, предоставляя ассортимент одноразовых флаконов с антидотами от распространенных ядов. Почти каждая крупная медицинская корпорация предлагает ту или иную версию портативного набора антидотов, а некоторые даже продают региональные варианты.
 
-[P]A character using an antidote set reduces the difficulty of any check to resist a poison by two (to a minimum of [B]Easy ([DI])[b]). If he does not know which poison was used, he must make a [B]Hard ([DI][DI][DI]) Knowledge (Underworld) check[b] to make an educated guess at the poison based on region, its qualities, and other evidence at his disposal to benefit from this item.</Description>
-    <Source Page="50">Desperate Allies</Source>
+[P]Персонаж, использующий набор антидотов, снижает сложность любой проверки на сопротивление яду на 2 (минимум до [B]Легко ([DI])[b]). Если он не знает, какой яд был использован, он должен сделать [B]Сложную ([DI][DI][DI][DI]) проверку "Знаний (преступный мир)"[b], чтобы сделать обоснованное предположение о яде, основываясь на регионе, его свойствах и других имеющихся в его распоряжении доказательствах, чтобы получить пользу от этого предмета.</Description>
+    <Source Page="50">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Encumbrance>1</Encumbrance>
     <Price>250</Price>
@@ -680,20 +680,20 @@ Poisoning is not a common concern for most citizens, but for certain high-value 
     <Type>Antidotes</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Reduce check to resist poison by two (to a minimum of [B]Easy ([DI])[b]. Must make a [B]Hard ([DI][DI][DI]) Underworld check[b] if poison is unknown.</MiscDesc>
+        <MiscDesc>Уменьшите сложность проверки сопротивления яду на 2 (минимум до [B]Легко ([DI])[b]). Если яд неизвестен, необходимо сделать [B]Сложную ([DI][DI][DI][DI]) проверку "Знаний (преступный мир)"[b].</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>ANTIGRAVCHUTESAV</Key>
-    <Name>Savior Anti-Grav Chute</Name>
+    <Name>Спасительный парашют с антигравом</Name>
     <Description>
-      [H3]Savior Anti-Grav Chute[h3]
+      [H3]Спасительный парашют с антигравом[h3]
 
-Intended to save pilots in the event of an emergency, anti-grav chutes are small backpacks with miniature repulsorlifts incorporated into them. An anti-grav chute does not allow the wearer to fly, but rather arrests his fall as he nears the ground. With an anti-grav chute equipped, a person can survive a freefall from several kilometers up. Specialized military forces also use anti-grav chutes for insertion behind enemy lines or combat assault jumps.
+Предназначенные для спасения пилотов в случае чрезвычайных ситуаций, парашюты с антигравом представляют собой небольшие рюкзаки с встроенными в них миниатюрными репульсорными подъемниками. Парашют с антигравом не позволяет владельцу летать, а лишь задерживает его падение при приближении к земле. С Парашютом с антигравами человек может пережить свободное падение с высоты нескольких километров. Специализированные военные силы также используют парашюты с антигравами для проникновения в тыл врага или для боевых штурмовых прыжков.
 
-[P]Characters equipped with an anti-grav chute take no damage or strain from falls. The speed of the fall also decreases significantly once the anti-grav chute activates, which means reaching the ground can take multiple rounds.</Description>
+[P]Персонажи, оснащенные парашютом с антигравом, не получают "ранений" и "усталость" при падении. Скорость падения также значительно снижается после активации парашюта с антигравом, поэтому достижение земли может занять несколько раундов.</Description>
     <Source Page="103">Дополнение: Солнце Фортуны</Source>
     <Custom>DescOnly</Custom>
     <Price>450</Price>
@@ -702,7 +702,7 @@ Intended to save pilots in the event of an emergency, anti-grav chutes are small
     <Type>Tools/Electronics</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Take no wound or strain from falls</MiscDesc>
+        <MiscDesc>Вы не получаете "ранений" или "усталость" при падении.</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
@@ -869,7 +869,7 @@ As criminals and spies advance their ability to forge documents, the need to det
 [P]A character using authentication tools adds [BO][BO] to checks to determine if a document has been falsified.
 
 [P][B]Models include:[b] Goseia Heavy Industries Concern Executive Verification Suite.</Description>
-    <Source Page="50">Desperate Allies</Source>
+    <Source Page="50">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Encumbrance>1</Encumbrance>
     <Price>100</Price>
@@ -2409,7 +2409,7 @@ Where there are people wishing to communicate, there are people wishing to preve
 Professional media producers rely on large studios and high-end equipment to produce content for distribution, but those on the move often require equipment that is compact and portable. For them, Chedak Communications produces an advanced media manipulator suite. Easily installed in a small spaceship or even a larger landspeeder, it enables the user to create, manipulate, and produce a wide variety of media. Whether printing posters or carefully "enhancing" hobos, the media manipulator is the perfect tool for on-the-go media production.
 
 [P][B]Models include:[b] Chedak Communications Media Manipulator, NisdiGen Suite 60.</Description>
-    <Source Page="50">Desperate Allies</Source>
+    <Source Page="50">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>400</Price>
     <Encumbrance>6</Encumbrance>
@@ -2517,7 +2517,7 @@ Concealed escape kits have everything an individual needs to escape most tempora
 A surreptitiously captured moment can be turned into evidence that wins wars, topples governments, or simply persuades a certain person to remain silent. Many corporations and investigative groups have produced a wide range of specialized recorders that can be effectively hidden. Although usually made to capture full-color hobos and audio, sometimes such devices capture flat-screen images or audio only, depending on the needs of the user. These miniature recording devices can be installed in an innocuous item, such as a light fixture or chronometer, and left to record until retrieved by the operator. Simple programming optimizes data storage, pausing recording when no activity is detected.
 
 [P]Add [SE][SE] to a character's Perception checks to find a concealed recorder on a person's body.</Description>
-    <Source Page="50">Desperate Allies</Source>
+    <Source Page="50">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Encumbrance>0</Encumbrance>
     <Price>175</Price>
@@ -2776,7 +2776,7 @@ Diplomats rely on protocol droids to ensure not only fluent translation, but als
 [P]A character with a cultural etiquette manual adds automatic [AD] to social checks made to interact with members of the culture to which the manual pertains.
 
 [P][B]Models include:[b] Baobab Archives Compendiums.</Description>
-    <Source Page="50">Desperate Allies</Source>
+    <Source Page="50">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>35</Price>
     <Encumbrance>0</Encumbrance>
@@ -3662,7 +3662,7 @@ A common and relatively cheap tool of embedded agents and informants, a data dea
 [P]To find the something hidden within a data dead drop, a character must make a [B]Daunting ([DI][DI][DI][DI]) Perception check[b]. At the GM's discretion, an unaware character might use Vigilance instead.
 
 [P][B]Models include:[b] Brennkeyes Syndicate Security Capsule, countless custom-made models. </Description>
-    <Source Page="50">Desperate Allies</Source>
+    <Source Page="50">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>150</Price>
     <Encumbrance>0</Encumbrance>
@@ -4058,7 +4058,7 @@ Used since before the Clone Wars, dioxis can be lethal to most carbon-based life
 Most local governments are reluctant to chastise or otherwise infringe upon another government's chosen delegates, and sometimes diplomats can use this to their advantage. Whether traveling on a diplomatic mission, conveying an important message, or simply bringing some sample products from their homeworld, diplomatic authorization grants wiggle room that can keep eyes off a diplomat's true purpose.
 
 [P]A character with diplomatic authorization adds automatic [AD][AD] to all social checks involving members of a foreign government, and can often get access to individuals and services within that government that would otherwise be unavailable. Unless lawfully granted by an authorized body, however, this item can only be acquired illegally.</Description>
-    <Source Page="51">Desperate Allies</Source>
+    <Source Page="51">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>10000</Price>
     <Encumbrance>0</Encumbrance>
@@ -4865,13 +4865,13 @@ With hundreds or thousands of intelligent races scattered across millions of pla
       [H3]3PX-Series Protocol Droid[h3]
 
 Cybot Galactica, manufacturers of the renowned 3P0-series protocol droids, took a decidedly less human-centric approach to the design of the variant 3PX line marketed to customers in the Outer Rim. Because of the diversity of species throughout the vast region, the droid was designed with a face based on no particular species, but with elements of several prominent groups through a wide swath of the Outer Rim territories. The final result was recognizable to almost every species it encountered, but lacked the ability to connect with specific species as well as a more clearly defined 3P0 model. Sales of the 3PX line suffered as a result, leading to a limited production run. However, resold droids tend to command the price of brand-new droids, thanks to the droid's extensive cultural and linguistic databases. The Rebellion also favors use of 3PX-series droids, seeing them as a symbol that distances the Alliance from the Empire's pro-human sentiment.</Description>
-    <Source Page="54">Desperate Allies</Source>
+    <Source Page="54">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>7750</Price>
     <Rarity>4</Rarity>
     <Restricted>false</Restricted>
     <Type>Droids</Type>
-    <AdvImportPath>Desperate Allies\Droids\3PX-Series Protocol Droid - Rival.xml</AdvImportPath>
+    <AdvImportPath>Дополнение: Отчаянные союзники\Droids\3PX-Series Protocol Droid - Rival.xml</AdvImportPath>
   </Gear>
   <Gear>
     <Key>DROIDPROT5YQ</Key>
@@ -4880,13 +4880,13 @@ Cybot Galactica, manufacturers of the renowned 3P0-series protocol droids, took 
       [H3]5YQ-Series Protocol Droid[h3]
 
 The protocol droids of the 5YQ-series, while perfectly functional mediators, are widely regarded as cheap knockoffs of more popular models. They were produced by Cybot Galactica to compete with Serv-0-Droid Incorporated's near monopoly on sales in the Mid Rim, but the project was not given adequate resources to break into such a diverse market. The 5YQ design team ended up recycling most of the work done on the earlier 3P0-series, but replaced the deep cultural databases previously used with a wide but shallow array of details on every conceivable topic. The final result was a droid that could operate in any part of the galaxy, but with considerably less effectiveness than a more specialized model. Given time, the 5YQ line might have been able to develop a market, but the production lines were shut because of a lawsuit against Cybot Galactica for using Serv-O-Droid parts in the 5YQ-series. This was the final black mark for the line, leaving them with a market share far lower than their relatively unremarkable performance would merit.</Description>
-    <Source Page="55">Desperate Allies</Source>
+    <Source Page="55">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>5500</Price>
     <Rarity>3</Rarity>
     <Restricted>false</Restricted>
     <Type>Droids</Type>
-    <AdvImportPath>Desperate Allies\Droids\5YQ-Series Protocol Droid - Rival.xml</AdvImportPath>
+    <AdvImportPath>Дополнение: Отчаянные союзники\Droids\5YQ-Series Protocol Droid - Rival.xml</AdvImportPath>
   </Gear>
   <Gear>
     <Key>DROIDPROTCZ</Key>
@@ -4897,13 +4897,13 @@ The protocol droids of the 5YQ-series, while perfectly functional mediators, are
 The CZ-series communications/business droid exemplifies extreme specialization in protocol droid manufacture. Its databanks feature a suite of languages and cultural customs smaller than comparable models, and it lacks information on species or cultures beyond the Core Worlds. Instead, the CZ-series is programmed with a near-complete database of banking and financial regulations, as well as storage space to record current market prices for any goods it might encounter. A long-range comlink enables the droid to observe markets across a whole planet or to access interstellar communications networks to track deals made throughout the galaxy. The model's one universally reviled downside is the standard paintjob, designed to draw attention to the droid in dealerships. It is a truly vulgar mix of bright green and orange—obviously, many owners have these droids repainted.
 
 [P]Although the Rebellion has limited need for the business acumen the CZ-series is built for, the droids are top-notch negotiators, often capable of reaching settlements solely on the strength of their programming. Furthermore, the droid's long-range comlink can serve as a distress beacon or homing device for Rebel cells in negotiations with groups of dubious trustworthiness.</Description>
-    <Source Page="55">Desperate Allies</Source>
+    <Source Page="55">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>9000</Price>
     <Rarity>4</Rarity>
     <Restricted>false</Restricted>
     <Type>Droids</Type>
-    <AdvImportPath>Desperate Allies\Droids\CZ-Series Communications_Business Droid - Rival.xml</AdvImportPath>
+    <AdvImportPath>Дополнение: Отчаянные союзники\Droids\CZ-Series Communications_Business Droid - Rival.xml</AdvImportPath>
   </Gear>
   <Gear>
     <Key>DROIDPROTLOM</Key>
@@ -4914,13 +4914,13 @@ The CZ-series communications/business droid exemplifies extreme specialization i
 When Industrial Automaton entered the protocol droid market with the LOM-series, they gambled on an unusual strategy. Rather than compete directly with the dominant Cybot Galactica for the core of the market, they released droid designed for a more niche buyer. The LOM-series has oversized optical sensors reminiscent of compound eyes and other insectoid facial features designed to maximize appeal with similarly-featured alien species such as the Gand and Verpine. The LOM-series was a huge success, earning Industrial Automaton not only customers from that market but also among those who frequently do business with insectoid species.
 
 [P]As a gesture of goodwill, the Rebellion often employs LOM-series droids when working with insectoid species. However, the LOM-series is perfectly functional in any circumstance requiring a protocol droid, so they are often assigned to assist Alliance representatives, regardless of the species involved.</Description>
-    <Source Page="58">Desperate Allies</Source>
+    <Source Page="58">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>8500</Price>
     <Rarity>5</Rarity>
     <Restricted>false</Restricted>
     <Type>Droids</Type>
-    <AdvImportPath>Desperate Allies\Droids\LOM-Series Protocol Droid - Rival.xml</AdvImportPath>
+    <AdvImportPath>Дополнение: Отчаянные союзники\Droids\LOM-Series Protocol Droid - Rival.xml</AdvImportPath>
   </Gear>
   <Gear>
     <Key>DROIDPROTLRD</Key>
@@ -4930,13 +4930,13 @@ When Industrial Automaton entered the protocol droid market with the LOM-series,
 
 Envoy droids fill an obscure but significant niche in the protocol droid market. Programmed for greater independence of thought than most and featuring expanded loyalty protocols, envoy droids are able to speak in their master's stead without supervision. While there are entirely legitimate uses of droid envoys, sending one is nevertheless considered a snub in most circles—usually taken to indicate that the droid's master considers his opposite number to be untrustworthy or unworthy of a direct meeting. Nevertheless, the Rebellion often risks the hard feelings, taking the opportunity to conduct negotiations without risking the lives of its agents by deploying LRD-series droids to suspect meetings whenever possible.
 [P]The LRD-series is one of the few envoy droids that receives a measure of respect when sent to a meeting. The droid's mimic circuits allow it to imitate its master with astounding precision. Having an LRD-series envoy at negotiations is considered nearly the same thing as having its master present; given the price of the model, it is generally not taken as harshly to see one arrive instead of a flesh-and-blood negotiator.</Description>
-    <Source Page="57">Desperate Allies</Source>
+    <Source Page="57">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>15000</Price>
     <Rarity>5</Rarity>
     <Restricted>false</Restricted>
     <Type>Droids</Type>
-    <AdvImportPath>Desperate Allies\Droids\LRD-Series Envoy Droid - Rival.xml</AdvImportPath>
+    <AdvImportPath>Дополнение: Отчаянные союзники\Droids\LRD-Series Envoy Droid - Rival.xml</AdvImportPath>
   </Gear>
   <Gear>
     <Key>DROIDPROTM3PO</Key>
@@ -4945,13 +4945,13 @@ Envoy droids fill an obscure but significant niche in the protocol droid market.
       [H3]M-3PO-Series Military Protocol Droid[h3]
 
 Technically classified as a protocol droid, the M-3P0-series was never intended to assist in negotiations or cultural exchanges. An M-3P0 military protocol droid manages logistical and analytical efforts for soldiers. Its chassis is better protected than a typical protocol droid, and it is programmed for military discipline in all situations. However, the M-3P0-series cannot withstand the rigors of actual combat. An M-3P0 unit is best deployed inside a secure installation where it can access tactical data or manage communications. The droid uses its encyclopedic knowledge of military protocols, tactics, and doctrines to assist nearby personnel. A commander with an M-3P0 advisor gains the edge of keen, dispassionate logic, while a quartermaster assisted by a similar aide always knows how to efficiently supply troops. M-3P0 units are sticklers for obeying whatever regulations apply to the group they are serving. and they are notoriously inflexible.</Description>
-    <Source Page="56">Desperate Allies</Source>
+    <Source Page="56">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>12000</Price>
     <Rarity>5</Rarity>
     <Restricted>true</Restricted>
     <Type>Droids</Type>
-    <AdvImportPath>Desperate Allies\Droids\M-3Po-Series Military Protocol Droid - Rival.xml</AdvImportPath>
+    <AdvImportPath>Дополнение: Отчаянные союзники\Droids\M-3Po-Series Military Protocol Droid - Rival.xml</AdvImportPath>
   </Gear>
   <Gear>
     <Key>DROIDPROTTC</Key>
@@ -4960,13 +4960,13 @@ Technically classified as a protocol droid, the M-3P0-series was never intended 
       [H3]TC-Series Protocol Droid[h3]
 
 The TC-series, produced by Cybot Galactica, is less widely known than the more affordable 3P0 models from the same manufacturer, but it remains one of the most highly regarded lines of protocol droids. Officially registered as a variant line on the more common 3P0 models, the TC-series is actually a solid upgrade in most aspects. The differences are not apparent to the casual observer, as the two droids are nearly identical visually. Instead, the improvements of the TC-series lie in two key areas of programming. First, TC units have benefited from increased design attention, giving them more stable and helpful personalities after some 3P0-series droids were reported to develop eccentric and grating personalities. Secondly, and perhaps more significantly, the TC-series is equipped with a more advanced version of the TranLang It communications module used throughout the protocol droid market. While almost any protocol droid is programmed with a vast array of languages and the capacity to decipher new ones with impressive speed, the TC-series excels above its competitors. The TranLang variant used in these droids uses adaptive programming to improve the unit's grasp on a language throughout a conversation, enabling them to attempt communication after only a few words spoken by a new species or culture.</Description>
-    <Source Page="55">Desperate Allies</Source>
+    <Source Page="55">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>10000</Price>
     <Rarity>4</Rarity>
     <Restricted>false</Restricted>
     <Type>Droids</Type>
-    <AdvImportPath>Desperate Allies\Droids\TC-Series Protocol Droid - Rival.xml</AdvImportPath>
+    <AdvImportPath>Дополнение: Отчаянные союзники\Droids\TC-Series Protocol Droid - Rival.xml</AdvImportPath>
   </Gear>
   <Gear>
     <Key>DROIDQ4BOR</Key>
@@ -5700,7 +5700,7 @@ Galactic civilization is incredibly ancient. Sentient beings have been plying th
 People associate wealth with authority, and jewelry is an immediate means to display wealth. The distinctive silver sheen of the Durindfire crystal, the brilliant ever-changing sparkle of the Sorian crystal, and the living rainbow gems from Gallinore all attract the eyes of onlookers, making the wearer more memorable.
 
 [P]A character displaying one or more expensive gems adds automatic [AD] to Charm and Deception checks, but others add [BO] to checks to recall the character.</Description>
-    <Source Page="51">Desperate Allies</Source>
+    <Source Page="51">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>2000</Price>
     <Encumbrance>0</Encumbrance>
@@ -5865,7 +5865,7 @@ In the vast police state of the Galactic Empire, a lack of proper identification
 [P][B]Models Include:[b] Numerous variants.</Description>
     <Sources>
       <Source Page="50">Fly Casual</Source>
-      <Source Page="51">Desperate Allies</Source>
+      <Source Page="51">Дополнение: Отчаянные союзники</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Security/Espionage</Type>
@@ -6192,7 +6192,7 @@ Essentially a specialized tool kit for crime scene investigations, forensic inve
 A busy Diplomat might misplace his identity card and need a quick replacement. A deep-cover operative might need temporary access to a secure facility. Regardless of the case or the legitimacy of the reason, quality forgery tools such as carefully crafted inks and implements or complex credential-falsification devices can enhance a crafter's innate talents.
 
 [P][B]Models include:[b] Goseia Heavy Industries Concern Executive Privacy Suite, countless custom-made (and illegal) models.</Description>
-    <Source Page="51">Desperate Allies</Source>
+    <Source Page="51">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>650</Price>
     <Encumbrance>2</Encumbrance>
@@ -8278,7 +8278,7 @@ Seasoned travelers can avoid obvious tourist traps and find the establishments f
 [P]A character using an insider's guide adds automatic [AD] to any check to find a specific location or service within the region the guide covers.
 
 [P][B]Models include:[b] Vlaso's Guides to the Galaxy.</Description>
-    <Source Page="52">Desperate Allies</Source>
+    <Source Page="52">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>25</Price>
     <Encumbrance>0</Encumbrance>
@@ -8325,7 +8325,7 @@ Seasoned travelers can avoid obvious tourist traps and find the establishments f
 For instances when a full-fledged stage set-up is unavailable, various corporations offer a lightweight, portable speaker system that provides the necessary degree of amplification for public address. The system consists of a stand, microphone receiver, several speakers, and a power pack, all stored neatly in the backpack carrying case that can also be used as an impromptu soapbox from which to speak. Precise optimization enables the power supply to keep the unit operating for one hour before requiring a recharge.
 
 [P][B]Models include:[b] Alvaxi "Impetus" PA-wear, TaggeCo. Broadcaster.</Description>
-    <Source Page="52">Desperate Allies</Source>
+    <Source Page="52">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>200</Price>
     <Encumbrance>4</Encumbrance>
@@ -8583,7 +8583,7 @@ The Brennkeyes Syndicate remains among one of the most wanted criminal productio
 [P]This secret order might simply let the druid ignore the bolt under particular circumstances, or it might enable something more sinister, such as causing the droid to plot a course to a pirate base when its owner directs it to navigate to Coruscant. The programming can be detected only by accessing the restraining bolt through a datapad, and is not visible to anyone examining the druid's programming rather than that of the restraining bolt.
 
 [P]A PC droid can try to resist a "Knack" restraining bolt in the same way as a normal restraining bolt (see page 195 of the [B]Age of Rebellion[b] Core Rulebook).</Description>
-    <Source Page="52">Desperate Allies</Source>
+    <Source Page="52">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>750</Price>
     <Encumbrance>0</Encumbrance>
@@ -9986,7 +9986,7 @@ Produced by a wide variety of artisans, the poisoners ring (or any other accesso
 [P]A poisoner's ring can hold a single dose of any poison (such as those on page 182 of the [B]Age of Rebellion[b] Core Rulebook, or any other poison the GM deems appropriate). As an action, a character wearing the ring may make an opposed Skulduggery check against any onlookers' Vigilance to deposit the contents into a target's meal or beverage without being noticed.
 
 [P][B]Models include:[b] Beladonab concealment jewelry, countless custom models.</Description>
-    <Source Page="52">Desperate Allies</Source>
+    <Source Page="52">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>500</Price>
     <Encumbrance>0</Encumbrance>
@@ -10687,7 +10687,7 @@ Some individuals prefer modifying their standard side arms with grappling hooks,
 [P]As an action, a character may make an [B]Average ([DI][DI]) Ranged (Light) check[b] to fire the grappling hook onto an object at up to medium range. As an action, he may reel in the cord, pulling himself to the target object (or, if the object is unsecured and lighter than he is, pulling the object to himself).
 
 [P]A character using an ascension pistol to pull himself and another character aloft must make an [B]Average ([DI][DI]) Athletics check[b] to avoid losing his grip on either his partner or the gun.</Description>
-    <Source Page="52">Desperate Allies</Source>
+    <Source Page="52">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>275</Price>
     <Encumbrance>1</Encumbrance>
@@ -11092,7 +11092,7 @@ Government officials and military personnel must maintain a vigilant guard again
 [P]A character using a security sweeper may check an area for espionage tools by making an [B]Average ([DI][DI]) Computers check[b]. If he succeeds, the device notifies him of the presence and location of any recording or espionage devices within medium range of his current location. If the device is particularly well-hidden, this check might be opposed by the Mechanics skill of the character who placed the device.
 
 [P][B]Models include:[b] Veslox 19q, TaggeCo. Security Verification Sweeper.</Description>
-    <Source Page="53">Desperate Allies</Source>
+    <Source Page="53">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>400</Price>
     <Encumbrance>1</Encumbrance>
@@ -11274,7 +11274,7 @@ Tools designed to hide or disguise slicing signatures take many forms across the
 Nobles who consider identification cards or files to be fit only for commoners can instead rely on family heirlooms or elaborate jewelry to prove their heritage. The signet ring has remained popular throughout the ages, used by nobles and official government dignitaries alike. Most are masterfully crafted and incorporate designs unique to the wearer or family, and modern signet rings typically incorporate embedded electronics that offer additional identity validation. Some signets are not rings at all, but are instead other pieces of jewelry, such as pendants, bracelets, or even gemstones mounted in the pommels of weaponry—such items fill a similar role, even if they are a different sort of adornment.
 
 [P]A character who possesses a signet ring (even a stolen one) adds automatic [AD][AD] to checks to establish his identity (or his assumed identity).</Description>
-    <Source Page="53">Desperate Allies</Source>
+    <Source Page="53">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>750</Price>
     <Encumbrance>0</Encumbrance>
@@ -11389,7 +11389,7 @@ Physically similar to a stimpack, a sleeppack is an auto-injection tube filled w
 A favorite of smugglers and spies everywhere, the sleight box is a crate or box modified for hiding cargo. Using a low-power repulsorlift coil and matrix, a long-lasting battery, and a false bottom, the sleight box, when weighed or visually inspected, appears to be empty. Although typically made in smaller size to hide weapons, drugs, or other contraband, larger models for more heavyweight materials have been made.
 
 [P]Sleight boxes can vary in size from Encumbrance 2 to Encumbrance 20, and each can conceal a number of items with a total Encumbrance value up to half of that amount. To find the something hidden within a sleight box, a character must make a [B]Daunting ([DI][DI][DI][DI]) Perception check[b]. At the GM's discretion, an unaware character might use Vigilance instead.</Description>
-    <Source Page="53">Desperate Allies</Source>
+    <Source Page="53">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>400</Price>
     <Encumbrance>16</Encumbrance>
@@ -11416,7 +11416,7 @@ A favorite of smugglers and spies everywhere, the sleight box is a crate or box 
 A favorite of smugglers and spies everywhere, the sleight box is a crate or box modified for hiding cargo. Using a low-power repulsorlift coil and matrix, a long-lasting battery, and a false bottom, the sleight box, when weighed or visually inspected, appears to be empty. Although typically made in smaller size to hide weapons, drugs, or other contraband, larger models for more heavyweight materials have been made.
 
 [P]Sleight boxes can vary in size from Encumbrance 2 to Encumbrance 20, and each can conceal a number of items with a total Encumbrance value up to half of that amount. To find the something hidden within a sleight box, a character must make a [B]Daunting ([DI][DI][DI][DI]) Perception check[b]. At the GM's discretion, an unaware character might use Vigilance instead.</Description>
-    <Source Page="53">Desperate Allies</Source>
+    <Source Page="53">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>400</Price>
     <Encumbrance>10</Encumbrance>
@@ -11443,7 +11443,7 @@ A favorite of smugglers and spies everywhere, the sleight box is a crate or box 
 A favorite of smugglers and spies everywhere, the sleight box is a crate or box modified for hiding cargo. Using a low-power repulsorlift coil and matrix, a long-lasting battery, and a false bottom, the sleight box, when weighed or visually inspected, appears to be empty. Although typically made in smaller size to hide weapons, drugs, or other contraband, larger models for more heavyweight materials have been made.
 
 [P]Sleight boxes can vary in size from Encumbrance 2 to Encumbrance 20, and each can conceal a number of items with a total Encumbrance value up to half of that amount. To find the something hidden within a sleight box, a character must make a [B]Daunting ([DI][DI][DI][DI]) Perception check[b]. At the GM's discretion, an unaware character might use Vigilance instead.</Description>
-    <Source Page="53">Desperate Allies</Source>
+    <Source Page="53">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>400</Price>
     <Encumbrance>6</Encumbrance>
@@ -11470,7 +11470,7 @@ A favorite of smugglers and spies everywhere, the sleight box is a crate or box 
 A favorite of smugglers and spies everywhere, the sleight box is a crate or box modified for hiding cargo. Using a low-power repulsorlift coil and matrix, a long-lasting battery, and a false bottom, the sleight box, when weighed or visually inspected, appears to be empty. Although typically made in smaller size to hide weapons, drugs, or other contraband, larger models for more heavyweight materials have been made.
 
 [P]Sleight boxes can vary in size from Encumbrance 2 to Encumbrance 20, and each can conceal a number of items with a total Encumbrance value up to half of that amount. To find the something hidden within a sleight box, a character must make a [B]Daunting ([DI][DI][DI][DI]) Perception check[b]. At the GM's discretion, an unaware character might use Vigilance instead.</Description>
-    <Source Page="53">Desperate Allies</Source>
+    <Source Page="53">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>400</Price>
     <Encumbrance>2</Encumbrance>
@@ -11497,7 +11497,7 @@ A favorite of smugglers and spies everywhere, the sleight box is a crate or box 
 A favorite of smugglers and spies everywhere, the sleight box is a crate or box modified for hiding cargo. Using a low-power repulsorlift coil and matrix, a long-lasting battery, and a false bottom, the sleight box, when weighed or visually inspected, appears to be empty. Although typically made in smaller size to hide weapons, drugs, or other contraband, larger models for more heavyweight materials have been made.
 
 [P]Sleight boxes can vary in size from Encumbrance 2 to Encumbrance 20, and each can conceal a number of items with a total Encumbrance value up to half of that amount. To find the something hidden within a sleight box, a character must make a [B]Daunting ([DI][DI][DI][DI]) Perception check[b]. At the GM's discretion, an unaware character might use Vigilance instead.</Description>
-    <Source Page="53">Desperate Allies</Source>
+    <Source Page="53">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>400</Price>
     <Encumbrance>20</Encumbrance>
@@ -11587,7 +11587,7 @@ Using technology originally designed to minimize the constant background noise o
 [P]The spherical dampening field extends to short range around the device; add [SE][SE] to checks to detect noise coming out of this area.
 
 [P][B]Models include:[b] Veslox 11 b, TaggeCo. Sound Dampener, Brennkeyes Syndicate Privacy Protector.</Description>
-    <Source Page="53">Desperate Allies</Source>
+    <Source Page="53">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>600</Price>
     <Encumbrance>2</Encumbrance>
@@ -11660,7 +11660,7 @@ Every encounter with a new species offers the possibility of biological offense,
 [P]A character using a species database adds [BO][BO] to Knowledge (Xenology) checks.
 
 [P][B]Models include:[b] The writings of Mammon Hoole.</Description>
-    <Source Page="53">Desperate Allies</Source>
+    <Source Page="53">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>150</Price>
     <Encumbrance>2</Encumbrance>
