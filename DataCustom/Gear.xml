@@ -1243,11 +1243,11 @@ Holo V А/В Переводчик — это небольшое портатив
   </Gear>
   <Gear>
     <Key>BEASTDALGO</Key>
-    <Name>Dalgo Riding Beast</Name>
+    <Name>Ездовой Далго</Name>
     <Description>
-      [H3]Dalgo Riding Beast[h3]
+      [H3]Ездовой Далго[h3]
 
-The imposing dalgo is a riding beast native to Onderon and has a long history as both a beast of burden and a powerful mount. Though they resemble other equinoids, the herbivorous dalgos are larger and heavier, sporting short defensive tusks from their large mouths. While they make effective mounts, dalgos are often stubborn, and can spook if their riders are inexperienced or careless.</Description>
+Внушительные далго - это животные, родом с Ондерона, которое используется в качестве вьючного животного и мощного скакуна. Хотя далго похожи на других копытных, эти травоядные животные больше и тяжелее, у них короткие защитные клыки, которые торчат из больших пастей. Далго — эффективные скакуны, но они часто бывают упрямыми и могут испугаться, если всадник неопытен или неосторожен.</Description>
     <Source Page="84">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
     <Price>15000</Price>
@@ -1258,11 +1258,11 @@ The imposing dalgo is a riding beast native to Onderon and has a long history as
   </Gear>
   <Gear>
     <Key>BEASTDEWBACK</Key>
-    <Name>Dewback Riding Beast</Name>
+    <Name>Ездовой Рососпинник</Name>
     <Description>
-      [H3]Dewback Riding Beast[h3]
+      [H3]Ездовой Рососпинник[h3]
 
-Originating from the Dune Sea on Tatooine, dewbacks are large four-legged reptiles who are well-suited to desert environments. Easily domesticated, dewbacks are used as both beasts of burden and reliable, hardy mounts, and like banthas, have been exported off-world for generations. Because of their resilience, these creatures are found in both Imperial and Alliance military forces. In the Stormtrooper Specialty Corps, sandtroopers make good use of their strengths in arid conditions; amongst the Alliance, dewbacks are deployed to SpecForce's 4th Regiment.</Description>
+Родом из Дюнного моря на Татуине, дьюбэки — это крупные четвероногие рептилии, хорошо приспособленные к жизни в пустыне. Дьюбэки легко приручаются и используются как вьючные животные и надежные, выносливые всадники, и, как и Банта, на протяжении многих поколений экспортируются за пределы планеты. Благодаря своей выносливости эти существа встречаются как в имперских, так и в альянских вооруженных силах. В специальном корпусе штурмовиков песчаные штурмовики эффективно используют их сильные стороны в засушливых условиях; в Альянсе дьюбэки задействованы в 4-м полку SpecForce.</Description>
     <Source Page="85">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
     <Price>6500</Price>
@@ -1273,11 +1273,11 @@ Originating from the Dune Sea on Tatooine, dewbacks are large four-legged reptil
   </Gear>
   <Gear>
     <Key>BEASTEOPIE</Key>
-    <Name>Eopie (Cameloid) Riding Beast</Name>
+    <Name>Ездовой Эопи (Верблюдовые)</Name>
     <Description>
-      [H3]Eopie (Cameloid) Riding Beast[h3]
+      [H3]Ездовой Эопи (Верблюдовые)[h3]
 
-Eopies are ponderous but surprisingly strong and resilient animals used as both mounts and labor animals on their native Tatooine. Eopies are inelegant beasts with an awkward gait and strong natural odor. Despite their stubborn nature, eopies are excellent beasts of burden, capable of carrying far more than their lanky frame might suggest. They are well-adapted to desert conditions, capable of traveling for days without needing water.</Description>
+Эопи — это неповоротливые, но удивительно сильные и выносливые животные, которые на их родной планете Татуин используются как в качестве вьючных животных, так и для выполнения тяжелой работы. Эопи — неэлегантные животные с неуклюжей походкой и сильным естественным запахом. Несмотря на свой упрямый характер, эопи — отличные вьючные животные, способные нести гораздо больше, чем можно было бы предположить, глядя на их худощавое телосложение. Они хорошо приспособлены к условиям пустыни и способны путешествовать в течение нескольких дней без воды.</Description>
     <Source Page="85">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
     <Price>6500</Price>
@@ -1288,11 +1288,11 @@ Eopies are ponderous but surprisingly strong and resilient animals used as both 
   </Gear>
   <Gear>
     <Key>BEASTFAMBAA</Key>
-    <Name>Fambaa Riding Beast</Name>
+    <Name>Ездовой Фамбаа</Name>
     <Description>
-      [H3]Fambaa Riding Beast[h3]
+      [H3]Ездовой Фамбаа[h3]
 
-The enormous fambaa are have been famously domesticated by Gungans for thousands of years on Naboo, but have long been exported to many other worlds including Onderon. They are sometimes compared to the much smaller devvbacks, to which they bear some physiological similarities. Herbivorous creatures, fambaa are most often used as beasts of burden. They are also effective multi-passenger mounts, having seen combat action in the Grand Gungan Army in the decade before the Clone Wars. Despite their immense size, they are docile creatures, and are rarely phased or startled, even by the noise of battle. Gungans used them to carry immense shield generators, cannons, or armored howdahs that could transport numerous individuals into battle.</Description>
+Огромные фамбаа были одомашнены гунганами на Набу тысячи лет назад, но уже давно экспортируются во многие другие миры, включая Ондерон. Их иногда сравнивают с гораздо более мелкими дьюбэками, с которыми они имеют некоторые физиологические сходства. Фамбаа — травоядные существа, которые чаще всего используются в качестве вьючных животных. Они также являются эффективными многоместными вьючными животными, которые участвовали в боевых действиях в Великой армии гунганов за десятилетие до Войн клонов. Несмотря на свои огромные размеры, они являются послушными существами и редко пугаются или испугаются, даже от шума сражения. Гунганы использовали их для перевозки огромных генераторов щитов, пушек или бронированных хауда, которые могли транспортировать множество людей на поле боя.</Description>
     <Source Page="86">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
     <Price>60000</Price>
@@ -1303,10 +1303,10 @@ The enormous fambaa are have been famously domesticated by Gungans for thousands
   </Gear>
   <Gear>
     <Key>BEASTFISSRIT</Key>
-    <Name>Fissrit</Name>
+    <Name>Фиссрит</Name>
     <Description>
-      [H3]Fissrit[h3]
-Fissrit, also known as "fire worms" are many-legged arthopods measuring just under a third of a meter in length. Native to ice worlds, they are able to thrive in frozen conditions through a natural chameical reaction in their underbellies that can produce incredible heat. At rest, fissrit produce just enough warmth to survive local conditions, but they inrease their heat production to melt snow and ice into liquid water, as well as to kill any prey foolish enough to investigate the false oases they produce. Some varieties of the species dwell in colonies, while the largest variants are more typically solitary hunters, although all fissrit possess a strong social instinct.</Description>
+      [H3]Фиссрит[h3]
+Фиссриты, также известные как «огненные черви», - это многоногие членистоногие длиной чуть менее 3 метра. Они обитают в ледяных мирах и способны выживать в условиях замерзшей среды благодаря естественной химической реакции в нижней части тела, которая позволяет им производить невероятное количество тепла. В состоянии покоя фиссриты производят тепло, достаточное для выживания в местных условиях, но они увеличивают тепловыделение, чтобы растопить снег и лед в жидкую воду, а также убить любую добычу, достаточно глупую, чтобы исследовать ложные оазисы, которые они создают. Некоторые разновидности этого вида обитают в колониях, в то время как самые крупные варианты, как правило, являются одиночными охотниками, хотя все фиссриты обладают сильным социальным инстинктом.</Description>
     <Source Page="75">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Price>1500</Price>
@@ -1317,10 +1317,10 @@ Fissrit, also known as "fire worms" are many-legged arthopods measuring just und
   </Gear>
   <Gear>
     <Key>BEASTFLUTTER</Key>
-    <Name>Mantellian Flutterplume</Name>
+    <Name>Мантелльский волнокрыл</Name>
     <Description>
-      [H3]Mantellian Flutterplume[h3]
-The flutterplumes of Ord Mantell are a species of large carnivorous avians with powerful, hooked beaks and four sets of razor-sharp talons. While they primarily feed on carrion using their talons to slice apart fallen beasts, hungry flutterplumes have been known to turn on vulnerable looking living prey in hops of an easy meal. Given the size and capablities of these creatures an "easy meal" can mean anything frin a wounded herd beast not yet fully dead to a lone sentient without obvious means of self-defense. Most flutterplume populations have learned to respect blasters but there are enough stories of bold or hungry specimens attacking isolated travelers that they have developed a fearsome reputation quite at odds with their flowery name and dazzling plumage.</Description>
+      [H3]Мантелльский волнокрыл[h3]
+Волнокрылы Орд-Мантелла - это вид крупных плотоядных птиц с мощными загнутыми клювами и четырьмя парами острых как бритва когтей. Хотя они в основном питаются падалью, используя свои когти для разрывания павших животных, голодные волнокрылы, как известно, могут нападать на уязвимую живую добычу в надежде на легкую трапезу. Учитывая размер и способности этих существ, «легкая добыча» может означать что угодно, от раненого стадного животного, которое еще не умерло, до одинокого разумного существа, не имеющего очевидных средств самозащиты. Большинство популяций волнокрылов научились уважать бластеры, но существует достаточно историй о смелых или голодных экземплярах, нападающих на одиноких путешественников, что они приобрели страшную репутацию, совершенно не соответствующую их цветистому имени и ослепительному оперению.</Description>
     <Source Page="76">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Price>2500</Price>
@@ -1331,11 +1331,11 @@ The flutterplumes of Ord Mantell are a species of large carnivorous avians with 
   </Gear>
   <Gear>
     <Key>BEASTGLOWBAT</Key>
-    <Name>Spintiri Glowbat</Name>
+    <Name>Спинтирская светящаяся летучая мышь</Name>
     <Description>
-      [H3]Spintiri Glowbat[h3]
-The planet Spintir is known to xenobiologists for its curious diversity of mammalian species, but, few of its native lifeforms are as notable as the local glowbats. With a wingspan of just over a meter, the glowbats are not as physically imposeing as the icewolves or powerful Spintiri lynxes that sit at the top of the planet's food chain. However, thanks to the bioluminescent, scaly flakes that collect under their wings, glowbats have managed to carve out a niche or their homeworld with few regular predators and an abundance of prey. By flapping their wings to spray the flakes forward, flowbats can disorient attackers in order to make their escape or stun prey as they swoop in for the kill.
-[P]What's more, glowbats are able to regulate their bioluminescence for purposes other than predation and defense. They can dim the glow under their wings to avoid attention, or flare it in modulated sequences to communicate with each other. The last capability is used to negotiate territorial boundaries or attract mates, although some Spintiri locals believe it might be possible to train the glowbats to produce signals on command.</Description>
+      [H3]Спинтирская светящаяся летучая мышь[h3]
+Планета Спинтир известна ксенобиологам своим удивительным разнообразием видов млекопитающих, но лишь немногие из ее местных форм жизни столь же примечательны, как местные светящиеся летучие мыши. С размахом крыльев чуть более метра, светящиеся летучие мыши не столь внушительны физически, как ледяные волки или мощные спинтирские рыси, занимающие вершину пищевой цепи планеты. Однако благодаря биолюминесцентным чешуйчатым хлопьям, которые собираются под их крыльями, светящиеся летучие мыши сумели занять нишу в своем родном мире, где мало постоянных хищников и много добычи. Махая крыльями, чтобы разбрызгать хлопья вперед, светящиеся летучие мыши могут дезориентировать нападающих, чтобы спастись, или оглушить добычу, когда они пикируют, чтобы убить ее.
+[P]Более того, светящиеся летучие мыши могут регулировать свою биолюминесценцию не только для охоты и защиты. Они могут приглушать свечение под крыльями, чтобы не привлекать внимания, или зажигать его в определенных последовательностях, чтобы общаться друг с другом. Последнюю способность они используют для согласования территориальных границ или привлечения партнеров, хотя некоторые жители Спинтири считают, что светящихся летучих мышей можно научить издавать сигналы по команде.</Description>
     <Source Page="78">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Price>800</Price>
@@ -1346,11 +1346,11 @@ The planet Spintir is known to xenobiologists for its curious diversity of mamma
   </Gear>
   <Gear>
     <Key>BEASTHORSE</Key>
-    <Name>Horse (Equinoid) Riding Beast</Name>
+    <Name>Ездовая Лошадь (Эквиноид)</Name>
     <Description>
-      [H3]Horse (Equinoid) Riding Beast[h3]
+      [H3]Ездовая Лошадь (Эквиноид)[h3]
 
-"Horse" is the generic term in Basic for a wide array of single-hoofed quadruped species found throughout the galaxy. While more properly described as equinoids, they share a common physiology in size, speed, and the ease with which they can be trained as swift mounts. Many varieties of equinoids are found throughout the galaxy, as they have been traded as livestock for generations. Some are larger, more suited as draft horses and excellent at pulling large loads, while others are smaller and can be very stubborn. Such beasts are frequently used as pack animals, rather than riding mounts. The following profile is for a standard equinoid riding mount.</Description>
+«Лошадь» - это общий термин в бейсик языке, обозначающий широкий спектр однокопытных четвероногих видов, обитающих по всей галактике. Хотя более правильным было бы называть их эквиноидами, они имеют общие физиологические особенности, такие как размер, скорость и легкость дрессировки в качестве быстрых вьючных животных. По всей галактике встречается множество разновидностей эквиноидов, поскольку на протяжении многих поколений они использовались в качестве скота. Некоторые из них крупнее, больше подходят для тягловой работы и отлично тянут большие грузы, в то время как другие меньше и могут быть очень упрямыми. Таких животных чаще используют в качестве вьючных, а не верховых. Следующий профиль относится к стандартному верховому эквиноиду.</Description>
     <Source Page="85">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
     <Price>5000</Price>
@@ -1361,10 +1361,10 @@ The planet Spintir is known to xenobiologists for its curious diversity of mamma
   </Gear>
   <Gear>
     <Key>BEASTHURGHOL</Key>
-    <Name>Hurghol</Name>
+    <Name>Хургал</Name>
     <Description>
-      [H3]Hurghol[h3]
-The mountain dwelling hurghols are surefotted, reptilian climbers, whose many jointed limbs allow them to move across almost any incline or surface. However, the species' most unusual trait is not its deft climbing, but its diet—or arguably, its lack of one. While some believe that hurghols ingest a mineral diet, as they lick or even chew at the rocks of their mountain homes. In truth they only draw in trace elements from this habit, used to strengthen their hides against harsh elements. As far as can be determined, they do not need to eat at all in the commonly understood sense, instead drawing all the energy needed to survive from the Force itself. Stories have circulated through the galaxy of incredible feats of endurance by hurghols such as falling down a steep inclines and breaking legs, then climbing out unperturbed months laterm after the limbs healed naturally.</Description>
+      [H3]Хургал[h3]
+Горные хургалы — это уверенные в своих силах рептилии-альпинисты, чьи многосуставные конечности позволяют им передвигаться практически по любому склону или поверхности. Однако самой необычной чертой этого вида является не его ловкость в лазании, а его рацион — или, скорее, его отсутствие. Некоторые считают, что хургалы питаются минералами, поскольку они лижут или даже жуют камни в своих горных домах. На самом деле они только поглощают микроэлементы из этой привычки, используемой для укрепления своей кожи против суровых погодных условий. Насколько можно судить, они вообще не нуждаются в еде в общепринятом смысле, а получают всю необходимую для выживания энергию из самой Силы. По галактике ходят истории о невероятных подвигах выносливости хургалов, таких как падение с крутых склонов и переломы ног, а затем бесстрашное восхождение через несколько месяцев, после того как конечности зажили естественным путем.</Description>
     <Source Page="75">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Price>2000</Price>
@@ -1375,11 +1375,11 @@ The mountain dwelling hurghols are surefotted, reptilian climbers, whose many jo
   </Gear>
   <Gear>
     <Key>BEASTKAADU</Key>
-    <Name>Kaadu Riding Beast</Name>
+    <Name>Ездовой Кааду</Name>
     <Description>
-      [H3]Kaadu Riding Beast[h3]
+      [H3]Ездовой Кааду[h3]
 
-Sometimes compared to the Cracian thumper or kybuck, kaadu are swift bipedal duck-billed reptavians native to the swamps of Naboo. As with the fambaa, Gungans have expertly trained these amphibious beasts for use in a variety of ways in their society. Gungan warriors often take kaadu for reliable mounts, developing a close personal bond with their beasts. As with the fambaa, the kaadu saw action in the Battle of Naboo in 32 BBY. Unlike fambaa, however, Gungans are quite possessive of kaadu. Asa result, these creatures are not traded as often as other beasts they train.</Description>
+Кааду, которых иногда сравнивают с крацианский трампер или кайбаками, - это быстрые двуногие рептилоиды с утиными клювами, обитающие в болотах Набу. Как и фамбаа, гунганы умело дрессируют этих амфибийных животных для использования в различных сферах своей жизни. Воины гунганов часто используют кааду в качестве надежных всадников, развивая тесную личную связь со своими животными. Как и фамбаа, кааду участвовали в битве за Набу в 32 году до Б.Я. Однако, в отличие от фамбаа, гунганы очень привязаны к кааду. В результате эти существа не так часто продаются, как другие животные, которых они дрессируют.</Description>
     <Source Page="86">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
     <Price>8000</Price>
@@ -1391,10 +1391,10 @@ Sometimes compared to the Cracian thumper or kybuck, kaadu are swift bipedal duc
   </Gear>
   <Gear>
     <Key>BEASTKATH</Key>
-    <Name>Kath Hound</Name>
+    <Name>Кат-гончая</Name>
     <Description>
-      [H3]Kath Hound[h3]
-The kath hounds of Dantooine are a species of fierce canine pack hunters, averaging about one meter tall at the shoulders. There are a number of subsepcies of kath hounds including variants with powerful, curvingforns although all are notable for their cloven hooves, thick fur and strong jaws. Some xenobiologists attempt to categorize some varieties as more powerful or dangerous than others, but in truth all members of the species are lethal hunters, especially when hunting alongside their pack mates. Alone or in packs, kath hounds have been trained as guard or attack animals across the galaxy for centuries. Some attempts have been made to breed or genetically engineer improved versions of the species, such as the highly aggressive and near uncontrollable salky hounds, but few real improvements have been made.</Description>
+      [H3]Кат-гончая[h3]
+Кат-гончая Дантуина — это вид свирепых собачьих, охотящихся стаями, средняя высота которых в холке составляет около одного метра. Существует несколько подвидов катских гончих, в том числе варианты с мощными изогнутыми рогами, хотя все они отличаются раздвоенными копытами, густой шерстью и сильными челюстями. Некоторые ксенобиологи пытаются классифицировать некоторые разновидности как более сильные или опасные, чем другие, но на самом деле все представители этого вида являются смертоносными охотниками, особенно когда охотятся вместе со своими сородичами. В течение веков кат-гончие, как в одиночку, так и в стаях, дрессировались в качестве охранных или боевых животных по всей галактике. Были предприняты некоторые попытки вывести или генетически модифицировать улучшенные версии этого вида, такие как высокоагрессивные и практически неуправляемые салки-гончие, но реальных улучшений достигнуто мало.</Description>
     <Source Page="76">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Price>7500</Price>
@@ -1405,11 +1405,11 @@ The kath hounds of Dantooine are a species of fierce canine pack hunters, averag
   </Gear>
   <Gear>
     <Key>BEASTKYBUCK</Key>
-    <Name>Kybuck Riding Beast</Name>
+    <Name>Ездовой Кибак</Name>
     <Description>
-      [H3]Kybuck Riding Beast[h3]
+      [H3]Ездовой Кибак[h3]
 
-The amazingly swift kybuck is native to the Woolwarricca plains on the Wookiee homeworld of Kashyyyk. Vaguely resembling the larger tauntaun, kybucks have short tan-to-brown fur with small tails and thick horns. Unlike many other bipedal mounts, kybucks have split hoofs rather than claws or pads, which may help them reach immense speeds for a bipedal animal. Unlike most other riding animals, kybucks are not very effective beasts of burden. While they are very fast and well-trained mounts, they are only capable of carrying smaller individuals as riders.</Description>
+Удивительно быстрый кибак является коренным обитателем равнин Вуулваррикка на родной планете вуки Кашиик. Кибаки, отдаленно напоминающие более крупных таунтаунов, имеют короткую шерсть от светло-коричневого до коричневого цвета, небольшие хвосты и толстые рога. В отличие от многих других двуногих вьючных животных, кибаки имеют раздвоенные копыта, а не когти или подушечки, что, возможно, помогает им развивать огромную скорость для двуногого животного. В отличие от большинства других вьючных животных, кибаки не очень эффективны в качестве вьючных животных. Хотя они очень быстрые и хорошо дрессированные вьючные животные, они способны перевозить только небольших всадников.</Description>
     <Source Page="86">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
     <Price>10000</Price>
@@ -1421,11 +1421,11 @@ The amazingly swift kybuck is native to the Woolwarricca plains on the Wookiee h
   </Gear>
   <Gear>
     <Key>BEASTLAVAFLEA</Key>
-    <Name>Mustafarian Lava Flea Riding Beast</Name>
+    <Name>Ездовая Мустофарская лавовая блоха</Name>
     <Description>
-      [H3]Mustafarian Lava Flea Riding Beast[h3]
+      [H3]Ездовая Мустофарская лавовая блоха[h3]
 
-Perhaps one of the most unusual mounts in the galaxy, the Mustafarian lava flea is a giant arthropod that evolved for life on the volcanic environment of its homeworld. While considerably larger than the average equinoid, lava fleas have an uncharacteristically lightweight frame. This makes them ideal for leaping considerable distances, but less adapted for hauling heavy loads. The creature's exoskeleton evolved an internal structure of spindles not unlike an internal bone structure, made from the minerals the lava flea digests. This allows these extraordinary beasts to grow to sizes far beyond normal evolutionary constraints. Mustafarians often fashion discarded lava flea shells into heat-resistant armor.</Description>
+Возможно, одна из самых необычных верховых животных в галактике, мустафарская лавовая блоха - гигантское членистоногое, которое эволюционировало для жизни в вулканической среде своей родной планеты. Хотя лавовые блохи значительно крупнее среднего эквиноида, они имеют необычно легкое телосложение. Это делает их идеальными для прыжков на значительные расстояния, но менее приспособленными для перевозки тяжелых грузов. Внешний скелет этого существа эволюционировал до внутренней структуры, похожей на внутреннюю костную структуру, состоящей из минералов, которые переваривает лавовая блоха. Это позволяет этим необычным животным расти до размеров, значительно превышающих нормальные эволюционные ограничения. Мустафарцы часто используют выброшенные панцири лавовых блох для изготовления термостойкой брони.</Description>
     <Source Page="87">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
     <Price>15000</Price>
@@ -1437,10 +1437,10 @@ Perhaps one of the most unusual mounts in the galaxy, the Mustafarian lava flea 
   </Gear>
   <Gear>
     <Key>BEASTMANKA</Key>
-    <Name>Manka Cat</Name>
+    <Name>Манка-кот</Name>
     <Description>
-      [H3]Manka Cat[h3]
-A rare example of a feline predator with a pack instinct, manka cats have been found across the mountains and grasslands of a number of the Core Worlds still lightly settled enough to have wilderness areas. These creatures range from 1.5 to nearly 2 meters in length, although they have low-slung bodies for hiding in tall grass or among rock formations. Manka cats are also distinguishable by the thick manes of fur around their nexks, and the two sets of menacing, forward-jutting tusks in their lower jaws. Although they still can be found on other worldsm one of the largest populations of the species was located in the mountains of Alderaan. With that planet;s destructionm the species has had its numbers thinned considerable, although they are not yet truly endangered.</Description>
+      [H3]Манка-кот[h3]
+Манка-коты - редкий пример кошачьих хищников с стадным инстинктом. Их можно встретить в горах и на лугах ряда миров Ядра, которые все еще достаточно мало заселены, чтобы сохранить дикие территории. Эти существа достигают в длину от 1,5 до почти 2 метров, хотя их тела низко посажены, что позволяет им прятаться в высокой траве или среди скальных образований. Манка-коты также отличаются густой гривой вокруг шеи и двумя парами угрожающих, выступающих вперед клыков на нижней челюсти. Хотя их все еще можно встретить на других мирах, одна из самых больших популяций этого вида обитала в горах Альдераана. С уничтожением этой планеты численность вида значительно сократилась, хотя они еще не находятся под угрозой исчезновения.</Description>
     <Source Page="76">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Price>40000</Price>
@@ -1451,11 +1451,11 @@ A rare example of a feline predator with a pack instinct, manka cats have been f
   </Gear>
   <Gear>
     <Key>BEASTNARGLATCH</Key>
-    <Name>Narglatch</Name>
+    <Name>Нарглатч</Name>
     <Description>
-      [H3]Narglatch[h3]
+      [H3]Нарглатч[h3]
 
-It is unclear exactly where the narglatch evolved, but they are used as mounts for the Talz in the brutal cold of Orto Plutonia; additionally, several variants of this species can be found on other worlds throughout the galaxy, including the swamps of Naboo. Not truly domesticated, these felinoid beasts can be trained to be loyal and fearsome mounts, if a bit headstrong. Unlike most other riding beasts, narglatch are apex predators with hunting instincts, moving quietly to stalk their prey.</Description>
+Неясно, где именно произошла эволюция нарглатчей, но они используются в качестве всадников для талзов в суровом холоде Орто-Плутонии; кроме того, несколько разновидностей этого вида можно найти в других мирах по всей галактике, включая болота Набу. Эти кошачьи животные не являются по-настоящему одомашненными, но их можно дрессировать, чтобы они стали верными и грозными всадниками, хотя и немного упрямыми. В отличие от большинства других вьючных животных, нарглатчи являются хищниками высшего уровня с охотничьими инстинктами, которые тихо подкрадываются к своей добыче.</Description>
     <Sources>
       <Source Page="87">Дополнение: Все по плану</Source>
       <Source Page="77">Дополнение: Дикие духи</Source>
@@ -1469,11 +1469,11 @@ It is unclear exactly where the narglatch evolved, but they are used as mounts f
   </Gear>
   <Gear>
     <Key>BEASTNEXU</Key>
-    <Name>Nexu</Name>
+    <Name>Нексу</Name>
     <Description>
-      [H3]Nexu[h3]
-Orignally native to the jungles of Cholganna, nexu have been transplanted across the galaxy since they were first discovered to be domesticable. Sometimes used as guard animals, they are far more commonly trained as arena combatants for use in gladitorial games and challenges. They demand is driven part by their fearsome appearance with a huge toothy maw, four beady eyes and massive claw-tipped paws, all backed up by a pair of barbed tail spikes. What's more, nexu are fully as lethal as their natural armament would suggest, and possess a temperment and instictive cunning that make them even greater threats.
-[P]Although naturally stealthy and elusive, nexu do not lack for ferocity or mettle in a direct fight, and they rarely back down in the face of any threat they encounter. Even then faced wth more ferocious predator, nexu are more likely to attempt to melt away into the underbrush or other cover and attack again using stealth to gain the advantage than to simply flee their hunting grounds. Of course, this means that training such fierce beasts is a dangerous and unforgiving task, but the demand for them means there are always those willing to take the risk.</Description>
+      [H3]Нексу[h3]
+Первоначально обитавшие в джунглях Чолганны, нексу были переселены по всей галактике с тех пор, как было обнаружено, что их можно приручить. Иногда их используют в качестве охранных животных, но гораздо чаще их дрессируют как боевых животных для участия в гладиаторских боях и состязаниях. Их популярность отчасти обусловлена их устрашающим внешним видом с огромной пастью, полной зубов, четырьмя блестящими глазами и массивными лапами с когтями, а также парой заостренных шипов на хвосте. Более того, нексу настолько же смертоносны, насколько это предполагает их естественное вооружение, и обладают таким характером и инстинктивной хитростью, что становятся еще более опасными.
+[P]Несмотря на свою природную скрытность и неуловимость, нексу не недостает свирепости и мужества в прямом бою, и они редко отступают перед любой угрозой, с которой сталкиваются. Даже столкнувшись с более свирепым хищником, нексу скорее попытаются раствориться в кустарнике или другом укрытии и снова атаковать, используя скрытность, чтобы получить преимущество, чем просто бежать со своих охотничьих угодий. Конечно, это означает, что дрессировка таких свирепых зверей — опасная и непростая задача, но спрос на них всегда высок, поэтому всегда найдутся те, кто готов рискнуть.</Description>
     <Source Page="77">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Price>8000</Price>
@@ -1484,11 +1484,11 @@ Orignally native to the jungles of Cholganna, nexu have been transplanted across
   </Gear>
   <Gear>
     <Key>BEASTPORVIR</Key>
-    <Name>Porvir</Name>
+    <Name>Порвир</Name>
     <Description>
-      [H3]Porvir[h3]
-Porvir are tiny, awkward creatures. More than half of their bodies are taken up by  a bulbous rear, in which they store water and fat for the lean winter months. Their stubby legs move them at a slow waddle, and their poor vision means that they rarely find food quickly or easily, and often creatures leave behind. Despeite all these disadvantages, porvir thrive across nearly every world on which they c an be found, regardless of the predatory species present—thanks to a natural affinity for the Force.
-[P]Provir have the innate ability to discourage hostile attention by using the Force in a way similar to the mind tricks that Force users sometimes emply to persuade the weak willed. While sentient beings usually have the mental fortitude to harm or capture porvir if they try, most other animals simply ignore the creatures as if they were not present, or at least  inedible. Given this unusual power, most porvir travel their habitats without any sign of fear which can make  them either unpleasant pests or easily befriended pets depending on the circumstances at hand.</Description>
+      [H3]Порвир[h3]
+Порвиры — крошечные, неуклюжие существа. Более половины их тела занимает  бугристая задняя часть, в которой они хранят воду и жир на суровые зимние месяцы. Их короткие ноги позволяют им передвигаться медленно, а плохое зрение означает, что они редко находят пищу быстро или легко, и часто оставляют ее после себя. Несмотря на все эти недостатки, порвиры процветают почти во всех мирах, где они встречаются, независимо от наличия хищных видов, благодаря своей природной близости к Силе.
+[P]Провиры обладают врожденной способностью отвлекать враждебное внимание, используя Силу подобно умственным трюкам, которые пользователи Силы иногда применяют, чтобы убедить слабовольных. В то время как разумные существа обычно обладают достаточной психической силой, чтобы навредить или поймать провиров, если они того захотят, большинство других животных просто игнорируют этих существ, как будто их нет, или, по крайней мере, как будто они несъедобны. Благодаря этой необычной способности, большинство порвиров передвигаются по своим местам обитания без каких-либо признаков страха, что может сделать их либо неприятными вредителями, либо легко подружившимися питомцами, в зависимости от обстоятельств.</Description>
     <Source Page="77">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Price>100</Price>
@@ -1499,10 +1499,10 @@ Porvir are tiny, awkward creatures. More than half of their bodies are taken up 
   </Gear>
   <Gear>
     <Key>BEASTREEK</Key>
-    <Name>Reek</Name>
+    <Name>Рик</Name>
     <Description>
-      [H3]Reek[h3]
-Although reeks are naturally herbivorous and non-aggressive, their fearsome appearance as well as great size and strength have seen them used for combat and blood sport in arenas throughout the galaxy. If left hungry, these creatures will turn to meat for sustenance, even hunting aggressively if desperate enough. In their native habitat, on Ylesia or other worlds to which they were less cruelly transplanted, reeks graze in herds. While these massive quardupeds defend each other fiercely with huge tusks, horns and clawed feet, they remain largely docile in the absence of outside threats. Some frontier worlds have experimented with using the beasts as pack animals hoping that their hardiness and capacity for self-defence would make up for the difficulty of training them. Such attempts have had mixed success but reeks are slowly gaining a repuation as valuable, if unorthodox, steeds and beasts of burden in addition to their existing fame as combatants.</Description>
+      [H3]Рик[h3]
+Хотя рики по своей природе являются травоядными и неагрессивными животными, их устрашающий вид, а также огромные размеры и сила привели к тому, что их стали использовать для боевых и кровавых зрелищ на аренах по всей галактике. Если эти существа остаются голодными, они переключаются на мясо в качестве пищи и даже начинают агрессивно охотиться, если находятся в отчаянном положении. В своей естественной среде обитания, на Илезии или других мирах, куда их переселили менее жестоким образом, рики пасутся стадами. Хотя эти массивные четвероногие животные яростно защищают друг друга с помощью огромных бивней, рогов и когтистых лап, в отсутствие внешних угроз они остаются в основном покладистыми. Некоторые пограничные миры экспериментировали с использованием этих зверей в качестве вьючных животных, надеясь, что их выносливость и способность к самозащите компенсируют трудности их дрессировки. Такие попытки имели смешанный успех, но рики постепенно завоевывают репутацию ценных, хотя и неортодоксальных, вьючных и боевых животных в дополнение к своей существующей славе бойцов.</Description>
     <Source Page="78">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Price>10000</Price>
@@ -1513,11 +1513,11 @@ Although reeks are naturally herbivorous and non-aggressive, their fearsome appe
   </Gear>
   <Gear>
     <Key>BEASTRONTO</Key>
-    <Name>Ronto</Name>
+    <Name>Ронто</Name>
     <Description>
-      [H3]Ronto[h3]
+      [H3]Ронто[h3]
 
-Often seen as beasts of burden and mounts for Jawas, rontos are known to be effective, if skittish, mounts. Found on many worlds, including Nubia, Tatooine, and Kashyyyk, rontos are often employed away from populated areas, to reduce contact with technologies that might spook the beasts. Even so, they remain a common sight in many of Tatooine's spaceports, and those who work with these animals place great stock in their loyalty.</Description>
+Ронто, которых часто считают вьючными животными и ездовыми для джав, известны как эффективные, хотя и пугливые ездовые животные. Ронто, обитающие во многих мирах, включая Нубию, Татуин и Кашиик, часто используются вдали от населенных пунктов, чтобы уменьшить контакт с технологиями, которые могут напугать животных. Несмотря на это, они по-прежнему являются обычным явлением во многих космопортах Татуина, и те, кто работает с этими животными, высоко ценят их верность.</Description>
     <Source Page="87">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
     <Price>4500</Price>
@@ -1528,11 +1528,11 @@ Often seen as beasts of burden and mounts for Jawas, rontos are known to be effe
   </Gear>
   <Gear>
     <Key>BEASTRUNDEREN</Key>
-    <Name>Runderen</Name>
+    <Name>Рундерен</Name>
     <Description>
-      [H3]Runderen[h3]
-Packs of quarter meter long runderen are a common sight across the seedy underbellies and slums of cities across the galaxy. Whatever planet the short-tailed rodents came from originally, their capacity for camouflage has aided them in stowing away on ships and spreading to many locations. Once established in a new habitat, packs of runderen typically seek out whatever environment offers the most abundant source of food, typically feasting on plentiful garbage across districts that cannot afford extensive fighting to expose the dark-dwelling  creatures.
-[P]If allowed to flourish, runderen can become nearly impossible to eradicate. They can regulate the hue and shade of their dark coats to better blend into the shadows of any area they inhabit, thanks to an array of subdermal chemical glands. Their fur always remains dark enough to make them stand out in bright light, but provided they have even a few shadows to scurry between, they  become extremely difficult to detect, much less evict.</Description>
+      [H3]Рундерен[h3]
+Стаи рундеренов длиной в четверть метра — обычное явление в захудалых районах и трущобах городов по всей галактике. Независимо от того, с какой планеты родом эти короткохвостые грызуны, их способность к маскировке помогла им проникнуть на корабли и распространиться по многим местам. Осев в новой среде обитания, стаи рундеренов обычно ищут места с наиболее обильным источником пищи, питаясь в основном мусором в районах, где не могут позволить себе вести масштабную борьбу с этими темнолюбивыми существами.
+[P]Если дать им размножиться, рундеренов будет практически невозможно искоренить. Благодаря множеству подкожных химических желез они могут регулировать оттенок и насыщенность своей темной шерсти, чтобы лучше слиться с тенями в любой местности, где они обитают. Их шерсть всегда остается достаточно темной, чтобы они выделялись в ярком свете, но если у них есть хотя бы несколько теней, между которыми они могут бегать, их становится чрезвычайно трудно обнаружить, а тем более изгнать.</Description>
     <Source Page="78">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Price>25</Price>
@@ -1543,11 +1543,11 @@ Packs of quarter meter long runderen are a common sight across the seedy underbe
   </Gear>
   <Gear>
     <Key>BEASTRUPING</Key>
-    <Name>Ruping</Name>
+    <Name>Рупинг</Name>
     <Description>
-      [H3]Ruping[h3]
+      [H3]Рупинг[h3]
 
-The soaring rupings of Onderon are graceful, noble reptavians that have been trained as flying mounts for generations on their homeworld. Thinner than the Alderaanian thranta, rupings were used both as scouts and battle mounts in the Battle of Onderon during the Clone Wars. Capable of flying to great heights, rupings have two sets of eyes that can focus on both predator and prey simultaneously, giving them exceptional situational awareness. Often rupings alert to danger long before their riders do, and are rarely caught off guard.</Description>
+Парящие рупинги Ондерона — это изящные, благородные рептавианцы, которые на протяжении многих поколений дрессируются на своей родной планете в качестве летающих животных. Рупинги, более стройные, чем альдераанские транты, использовались в качестве разведчиков и боевых животных в битве за Ондерон во время Войн клонов. Рупинги способны подниматься на большую высоту и имеют две пары глаз, которые могут одновременно фокусироваться как на хищнике, так и на добыче, что дает им исключительную ситуационную осведомленность. Часто рупинги предупреждают об опасности задолго до своих всадников и редко бывают застигнуты врасплох.</Description>
     <Source Page="88">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
     <Price>16000</Price>
@@ -1558,11 +1558,11 @@ The soaring rupings of Onderon are graceful, noble reptavians that have been tra
   </Gear>
   <Gear>
     <Key>BEASTTAUNTAUN</Key>
-    <Name>Tauntaun</Name>
+    <Name>Таунтаун</Name>
     <Description>
-      [H3]Tauntaun[h3]
+      [H3]Таунтаун[h3]
 
-Native to the frigid environs of Hoth, the common tauntaun is the largest of several species of the bipedal reptomammals. These iconic beasts are herbivorous, feeding on lichens and small plants that thrive in caverns and other areas warmed by Hoth's geothermal energies. Heavy fur and a layer of blubber keeps them alive in all but the coldest conditions their home planet has to offer. Standing up to 2.5 meters tall, tauntauns make excellent, if stubborn, mounts for scouting duties in brutally cold conditions, where even vehicles have trouble adjusting.</Description>
+Обычный таунтаун, обитающий в холодных окрестностях Хота, является самым крупным из нескольких видов двуногих рептомаммалий. Эти знаковые животные являются травоядными и питаются лишайниками и мелкими растениями, которые растут в пещерах и других местах, согреваемых геотермальной энергией Хота. Густой мех и слой жира позволяют им выживать даже в самых суровых условиях, которые может предложить их родная планета. Таунтауны, достигающие в высоту 2,5 метра, являются отличными, хотя и упрямыми, всадниками для разведки в жестоких холодных условиях, где даже транспортные средства с трудом приспосабливаются.</Description>
     <Source Page="88">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
     <Price>10000</Price>
@@ -1573,11 +1573,11 @@ Native to the frigid environs of Hoth, the common tauntaun is the largest of sev
   </Gear>
   <Gear>
     <Key>BEASTTHRANTA</Key>
-    <Name>Thranta</Name>
+    <Name>Транта</Name>
     <Description>
-      [H3]Thranta[h3]
+      [H3]Транта[h3]
 
-Now an endangered species, the thranta were once a common sight in the skies of Alderaan prior to the planet's destruction. Unlike many other flying creatures, thrantas do not use their wings as a primary source of lift. Rather, their bodies naturally produce hydrogen, which is stored in several internal air sacs that keep them aloft. This may be one reason why thrantas evolved to be creatures purely of the air, no longer needing legs on which to land. Over time, Alderaanians domesticated numerous breeds of this beast to be used as mounts. Today, only the common and baleen thrantas survive in any measurable quantity. One of the few places one can find a thranta is above the clouds on the tibanna-producing gas giants of Bespin.</Description>
+Сейчас транты являются исчезающим видом, но до разрушения планеты Альдераан они были обычным явлением в небесах. В отличие от многих других летающих существ, транты не используют свои крылья в качестве основного источника подъемной силы. Вместо этого их тела естественным образом производят водород, который хранится в нескольких внутренних воздушных мешках, удерживающих их в воздухе. Возможно, это одна из причин, по которой транты эволюционировали в существ, живущих исключительно в воздухе, и больше не нуждающихся в ногах для приземления. Со временем альдераанцы одомашнили множество пород этих животных, чтобы использовать их в качестве верховых животных. Сегодня в значительном количестве сохранились только обычные и баленовые транты. Одно из немногих мест, где можно встретить транту, - это облака над газовыми гигантами Беспина, производящими тибанну.</Description>
     <Source Page="88">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
     <Price>120000</Price>
@@ -1588,10 +1588,10 @@ Now an endangered species, the thranta were once a common sight in the skies of 
   </Gear>
   <Gear>
     <Key>BEASTUXIBEAST</Key>
-    <Name>Uxibeast</Name>
+    <Name>Аксизверь</Name>
     <Description>
-      [H3]Uxibeast[h3]
-Shaggy uxibeasts have been used as beasts of burden on planets across the galaxy for untold years. These docile herd beasts can carry enormous loads without any sign of discomfort, and they are extremely difficult ot spook or rile. Some cultures even use these horned quadrupeds as mouts, although the difficulty of spuring them past a slow, ambling gait limits the usefulness and popularity of this practice.</Description>
+      [H3]Аксизверь[h3]
+Мохнатые аксизвери на протяжении многих лет использовались в качестве вьючных животных на планетах по всей галактике. Эти покладистые стадные животные могут нести огромные грузы без каких-либо признаков дискомфорта, и их чрезвычайно трудно напугать или раздражать. В некоторых культурах этих рогатых четвероногих даже используют в качестве верховых животных, хотя сложность подгонять их, чтобы они шли быстрее, чем медленная, неспешная походка, ограничивает полезность и популярность этой практики.</Description>
     <Source Page="79">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Price>2500</Price>
@@ -1602,11 +1602,11 @@ Shaggy uxibeasts have been used as beasts of burden on planets across the galaxy
   </Gear>
   <Gear>
     <Key>BEASTVARACTYL</Key>
-    <Name>Varactyl</Name>
+    <Name>Варактиль</Name>
     <Description>
-      [H3]Varactyl[h3]
+      [H3]Варактиль[h3]
 
-Domesticated and trained by the Utai of Utapau, varactyls are large, four-legged, long-necked reptavians known for their surprising speed and agility. These beasts have been exported for thousands of years, and as such can be found on many different worlds, including in the wilds of Kashyyyk and Belsavis. Varactyls make excellent fast-moving mounts, and have been known to rival the speeds of airspeeders in short sprints, with powerful claws that allow them to climb over many obstacles that would hinder most other mounts. </Description>
+Одомашненные и обученные утайцами с Утапау, варактилы - это крупные четвероногие рептилоиды с длинной шеей, известные своей удивительной скоростью и ловкостью. Эти животные экспортируются уже тысячи лет, поэтому их можно встретить во многих разных мирах, в том числе в дикой природе Кашиика и Белсависа. Варактили являются отличными быстрыми маунтами и, как известно, могут соперничать по скорости с воздушными спидерами на коротких дистанциях, а их мощные когти позволяют им преодолевать многие препятствия, которые мешают большинству других маунтов. </Description>
     <Sources>
       <Source Page="89">Дополнение: Все по плану</Source>
       <Source Page="79">Дополнение: Дикие духи</Source>
@@ -1620,11 +1620,11 @@ Domesticated and trained by the Utai of Utapau, varactyls are large, four-legged
   </Gear>
   <Gear>
     <Key>BEASTVRBLTHER</Key>
-    <Name>Vrblther</Name>
+    <Name>Врблтер</Name>
     <Description>
-      [H3]Vrblther[h3]
-Vrblthers are agressive predators found across the moon of Nar Shaddaa, although they are believed to have originated on the Hutt homeworld of Varl. Humanoid in appearance, they have heavily clawed arms, horned heads and large teeth making vrblthers lethal fighters that are able to take down most foes. The creatures run rampant and feral on the lower levels of the Smuggler's Moon, hunting in packs for anything or anyone they can catch.
-[P]The Hutt crime lords of Nar Shaddaa find the vicious creatures and their activities endlessly amusing, and some Hutts bring a gunting pack with them when traveling to other worlds. It is possible that vrblthers have established populations on other worlds after having been transplanted there by Hutts, just as those on Nar Shaddaa arrived from Varl.</Description>
+      [H3]Врблтер[h3]
+Врблтеры - агрессивные хищники, обитающие на луне Нар Шаддаа, хотя считается, что они происходят с родной планеты хаттов Варл. По внешнему виду они похожи на человекоподобных существ, но имеют мощные когтистые руки, рогатые головы и большие зубы, что делает врблтеров смертоносными бойцами, способными победить большинство врагов. Эти существа бегают дикими стаями по нижним уровням Луны контрабандистов, охотясь на все, что могут поймать.
+[P]Криминальные авторитеты Хаттов с Нар Шаддаа считают этих злобных существ и их поведение бесконечно забавными, и некоторые Хатты берут с собой стаю гунтингов, когда отправляются в путешествие по другим мирам. Возможно, что врблтеры заселили другие миры после того, как были переселены туда Хаттами, так же как и те, что обитают на Нар Шаддаа, прибыли из Варла.</Description>
     <Source Page="79">Дополнение: Дикие духи</Source>
     <Custom>DescOnly</Custom>
     <Price>3000</Price>
@@ -1635,12 +1635,12 @@ Vrblthers are agressive predators found across the moon of Nar Shaddaa, although
   </Gear>
   <Gear>
     <Key>BELTPOUCHMIL</Key>
-    <Name>Military Belt Pouch</Name>
+    <Name>Военная сумка на ремне</Name>
     <Description>
-      [H3]Military Belt Pouch[h3]
+      [H3]Военная сумка на ремне[h3]
 
-The military belt pouch is exactly what it sounds like, a pouch affixed to the user's belt. Though small, the belt pouch is designed to be accessed easily. It can hold two items that have encumbrance 0. The user can draw these items as an incidental.</Description>
-    <Source Page="59">Dangerous Covenants</Source>
+Военная сумка на ремне - это именно то, что подразумевает его название: сумка, прикрепляемая к ремню пользователя. Несмотря на свои небольшие размеры, сумка на ремне разработана так, чтобы к нему был легкий доступ. В него можно поместить 2 предмета с "нагрузкой" 0. Пользователь может использовать эти предметы в качестве свободного действия.</Description>
+    <Source Page="59">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type>Carrying/Storage</Type>
     <Categories />
@@ -1651,22 +1651,22 @@ The military belt pouch is exactly what it sounds like, a pouch affixed to the u
     <Restricted>false</Restricted>
     <BaseMods>
       <Mod>
-        <MiscDesc>Can hold two items of encumbrance 0.</MiscDesc>
+        <MiscDesc>Можно поместить 2 предмета с "нагрузкой" 0.</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>BIND</Key>
-    <Name>Binders</Name>
+    <Name>Кандалы</Name>
     <Description>
-      [H3]Binders[h3]
+      [H3]Кандалы[h3]
 
-Restraints come in many forms, but all are designed to keep a conscious prisoner subdued and manageable. Basic binder cuffs are strong enough to keep a Wookiee under control and are part of any bounty hunter's standard kit. Binders are made by a variety of different companies, such as Locris Syndicated Securities, although most follow the same basic design.
+Средства сдерживания бывают разных видов, но все они предназначены для того, чтобы удержать сознательного пленника в покорном и управляемом состоянии. Обычные наручники достаточно прочные, чтобы удержать под контролем даже вуки, и входят в стандартный набор любого охотника за головами. Наручники производятся различными компаниями, такими как Locris Syndicated Securities, хотя большинство из них имеют одинаковую базовую конструкцию.
 
-[P]Breaking free of binders is often a matter of either sheer brawn or impressive agility and flexibility. The difficulty of each restraint is different depending on the make and model, but the most common restraints require a [B]Daunting ([DI][DI][DI][DI]) Athletics[b] or [B]Coordination check[b] to escape.
+[P]Чтобы освободиться от кандалов, часто требуется либо огромная физическая сила, либо впечатляющая ловкость и гибкость. Сложность каждого вида связывания зависит от марки и модели, но для освобождения от наиболее распространенных видов связывания требуется [B]сложная ([DI][DI][DI][DI]) проверка "Атлетики"[b] или [B]проверка "Координации"[b].
 
-[P][B]Models Include:[b] Locris Syndicated Securities Bind-1.</Description>
+[P][B]Модели включают:[b] Locris Syndicated Securities Bind-1.</Description>
     <Sources>
       <Source Page="178">Книга правил: Край Империи</Source>
       <Source Page="193">Книга правил: Эпоха восстания</Source>
@@ -1679,7 +1679,7 @@ Restraints come in many forms, but all are designed to keep a conscious prisoner
     <Type>Security/Espionage</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Requires a [B]Formidible ([DI][DI][DI][DI][DI]) Athletics[b] or [B]Coordination check[b] to escape</MiscDesc>
+        <MiscDesc>Требуется [B]сложная ([DI][DI][DI][DI]) проверка "Атлетики"[b] или [B]проверка "Координации"[b] чтобы освободиться.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
@@ -1988,7 +1988,7 @@ This sophisticated and versatile camouflage is used by military personnel to con
 
 [P]CN-15 Camouflage Netting adds automatic [FA][FA] to all checks made to detect items concealed by it. One roll of netting can conceal one object up to silhouette 2, two rolls can conceal one object up to silhouette 3, and three rolls can conceal one object up to silhouette 4. Anything silhouette 5 or larger is too large to conceal by camo netting alone.</Description>
     <Sources>
-      <Source Page="57">Dangerous Covenants</Source>
+      <Source Page="57">Дополнение: Опасные союзы</Source>
       <Source Page="50">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -2018,7 +2018,7 @@ This sophisticated and versatile camouflage is used by military personnel to con
 This thick paint comes in small tubes holding five applications and is intended to camouflage exposed skin, but can be used on everything from weapons to personal gear. In the container, the paste appears an almost colorless gray, but photoreactive pigments allow it to match the color and visual texture of its surroundings once exposed to air.
 
 [P]CN-21 Camouflage Paint adds automatic [FA] to all checks made to detect items concealed by it. Note that camo paint does not have any of the advanced circuitry that provides concealment from electronic scanning and surveillance. Camouflage paint only works for items or individuals with a silhouette of 1 or smaller.</Description>
-    <Source Page="58">Dangerous Covenants</Source>
+    <Source Page="58">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
     <Categories />
@@ -2044,7 +2044,7 @@ This thick paint comes in small tubes holding five applications and is intended 
       [H3]Canteen[h3]
 
 This standard container is constructed from rugged synthetics and housed in a canvas cover available in a variety of uniform specifications and camouflage patterns. The military-issue canteen holds 1.5 liters of liquid and features an integrated filtration system that can purify water.</Description>
-    <Source Page="58">Dangerous Covenants</Source>
+    <Source Page="58">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
     <Categories />
@@ -2151,7 +2151,7 @@ Deception, and Leadership checks he makes once.
 These lifesaving but nightmarish devices, known as "brain cages," are designed to preserve the viability of the central nervous system in critically injured patients. The IRAPS is a full-face helmet with IV lines injected into the large vessels of the patient's neck. The blood circulating in the patient's brain is replaced with a hyper-oxygenated nutrient solution, and thermal circuits in the helmet apparatus reduce cranial temperature to provide critical metabolic stabilization.
 
 [P]A cerebral stabilizer must be applied to a patient within one round of suffering a Critical Injury. This device may be applied to a character suffering from a Bleeding Out or The End is Nigh Critical Injury, or a character who has died during the current round. Applying the device requires an [B]Average ([DI][DI]) Medicine check[b]. Once applied, the character is stabilized. If he died, he is brought back to life and counts as suffering a Gruesome Injury critical Injury (and all of its effects). Otherwise, his critical injury effects are canceled, though he still suffers from the injury itself.</Description>
-    <Source Page="57">Dangerous Covenants</Source>
+    <Source Page="57">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type>Medical</Type>
     <Categories />
@@ -2337,7 +2337,7 @@ This hardened comlink is one of the more popular forms of military-grade communi
 
 [P]The ShockHold adds automatic [FA][FA] to any checks made to decode and understand its transmissions, and automatic [SU][SU] to any checks made to broadcast through a com jammer.</Description>
     <Sources>
-      <Source Page="56">Dangerous Covenants</Source>
+      <Source Page="56">Дополнение: Опасные союзы</Source>
       <Source Page="49">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -5537,7 +5537,7 @@ In appearance and function, this useful tool is little more than a small shovel 
 
 [P]Besides allowing the user to dig holes and entrenchments, the Imperial Army Entrenching Tool counts as a small improvised weapon that deals +2 damage instead of + 1, has a Crit Rating of 4, and does not break due to [DE] or [TH].</Description>
     <Sources>
-      <Source Page="59">Dangerous Covenants</Source>
+      <Source Page="59">Дополнение: Опасные союзы</Source>
       <Source Page="54">Дополнение: Закаленные в битве</Source>
       <Source Page="50">Knights of Fate</Source>
     </Sources>
@@ -5890,7 +5890,7 @@ In the vast police state of the Galactic Empire, a lack of proper identification
       [H3]Scout 5 Field Goggles[h3]
 
 This eyewear features interchangeable lenses and is designed to protect the soldier's eyes from sun, wind, dust, and other airborne debris. Field goggles are constructed from durable and flexible synthetic frames with foam cushions for comfort and a secure seal, with adjustable straps for a secure and custom fit. They have no electrical systems and thus do not allow soldiers to see in darkness or offer other such benefits, but their very simplicity ensures reliability.</Description>
-    <Source Page="58">Dangerous Covenants</Source>
+    <Source Page="58">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
     <Categories />
@@ -5908,7 +5908,7 @@ This eyewear features interchangeable lenses and is designed to protect the sold
       [H3]Field Rations[h3]
 
 The only features that distinguish field rations from standard ration packs are their awful taste and hyperinfusion of nutrients that allows a soldier to survive on a single ration for up to one week. The brown goop comes in flat packages and looks like nothing so much as digestive waste. Field rations can be heated by the thermal circuitry integrated in the packaging, and they can also be consumed cold. Soldiers report little difference in taste or enjoyment.</Description>
-    <Source Page="58">Dangerous Covenants</Source>
+    <Source Page="58">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
     <Categories />
@@ -5928,7 +5928,7 @@ The only features that distinguish field rations from standard ration packs are 
 This versatile chemical putty is used to ignite and sustain emergency fires. Fire paste is packaged in small cubes with integrated igniters, almost like tiny plastic explosive charges. To ignite the fire paste, the user simply spreads the cube on a fuel source and pulls the tab on the igniter. When used without a fuel source, the cube itself burns for about an hour.
 
 [P]Corellian Chemical Corporation's Fire Paste can be used to ignite nearly any flammable object. Without something to burn, it can burn for roughly an hour with the same intensity as a small campfire. It can burn in any atmosphere, but not underwater or in vacuum.</Description>
-    <Source Page="58">Dangerous Covenants</Source>
+    <Source Page="58">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
     <Categories />
@@ -6128,7 +6128,7 @@ Foamcast is the commonly used term for a type of quicksetting aerosol foam found
       [H3]Food Preparation System[h3]
 
 This dubiously named field stove is more commonly known to military personnel as a "hot plate," and is little more than a collapsible tray with integrated thermal circuitry for preparing field rations and other food products. The thermal circuits are powered by solar energy, but the durable surface of the hot plate can be used to cook with fire paste or even over a wood fire.</Description>
-    <Source Page="58">Dangerous Covenants</Source>
+    <Source Page="58">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
     <Categories />
@@ -7351,7 +7351,7 @@ When setting a trap or infiltrating a facility, altering one's appearance grants
 Standard phototropic camouflaging may be insufficient for the extended concealment needed by snipers and other special operations personnel on some missions. The holographic ghillie suit features integrated projectors that make the wearer appear indistinguishable from surrounding foliage, analyzing the environment, selecting appropriate patterns, and even swaying in the wind.
 
 [P]The holographic ghillie suit increases the difficulty of all checks to locate the wearer by 1, as long as the wearer remains immobile.</Description>
-    <Source Page="58">Dangerous Covenants</Source>
+    <Source Page="58">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
     <Categories>
@@ -8064,7 +8064,7 @@ Used in spaceports and high-security locations throughout the galaxy, holoscanne
 These compact holsters built for small, light handguns are designed to fit the contours of the carrier's body and mask his presence from even determined observation and surveillance. Concealment holsters are available in a variety of forms, allowing them to be worn high on the belt, under the arm, in the small of the back, or on an ankle or other extremity.
 
 [P]These holsters add [SE] to Perception checks to discover the presence of the concealed weapon, but may only hold light blaster pistols or holdout blasters.</Description>
-    <Source Page="59">Dangerous Covenants</Source>
+    <Source Page="59">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type>Carrying/Storage</Type>
     <Categories />
@@ -9153,7 +9153,7 @@ Slightly larger and infinitely more advanced than a standard emergency medpac, t
 This advanced medpac is carried by soldiers and security personnel who lack advanced medical training to treat severe trauma in battlefield conditions. The integrated computer contains medical and surgical databases for most prominent species and can even suggest emergency treatment protocols and provide step-by-step instruction. It can be easily used by the untrained to stabilize a patient.
 
 [P]Medpacs allow characters to attempt to heal others using Medicine checks without penalty, as detailed on page 219 of the [B]Edge of the Empire[b] Core Rulebook. In addition, if the user has no ranks in Medicine, he counts as having 1 rank in Medicine when using this medpac.</Description>
-    <Source Page="57">Dangerous Covenants</Source>
+    <Source Page="57">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type>Medical</Type>
     <Categories />
@@ -9802,7 +9802,7 @@ An improvement on MicroData's versatile Pocket Secretary and the more common Ver
 This is a standard military-issue backpack used to stow and carry tents, rations, canteens, excavation tools, and all manner of other gear the soldier needs in the field. It is constructed of durable and lightweight materials able to withstand a broad range of environmental conditions while adding as little as possible to the soldier's load. The Imperial Army's military packs are available in a variety of uniform specifications and camouflage patterns.
 
 [P]This pack increases the user's encumbrance capacity by 6, but has the Cumbersome 2 quality.</Description>
-    <Source Page="59">Dangerous Covenants</Source>
+    <Source Page="59">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type>Carrying/Storage</Type>
     <Categories />
@@ -10336,7 +10336,7 @@ As bland and flavorless as the life of an Imperial stormtrooper, ration packs ar
 These are small, spherical remotes with miniaturized repulsorlift generators used by military and security personnel for reconnaissance and surveillance. They feature full 360 degree visual sensors with night vision capability and have the ability to transmit data to a remote receiver up to 20 kilometers away.
 
 [P]The Recon Remote is roughly the size of a shuura fruit (silhouette 0), and can travel at speeds of 20 km per hour. The control unit can monitor the input from up to four of these remotes simultaneously. Arakyd Industries' brand of remote can run for 24 hours before needing to be recharged.</Description>
-    <Source Page="57">Dangerous Covenants</Source>
+    <Source Page="57">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type>Remotes</Type>
     <Categories />
@@ -10914,7 +10914,7 @@ A combat scanner is a sophisticated optics and sensor array designed for militar
 
 [P]The Mark 6 offers some of the features of a general purpose scanner, scanner goggles for night-vision capability, and a corn scrambler. This means it allows the user to see normally in dark conditions, can be set to track motion, heat, and metal, and adds [SE][SE] to any checks made to attempt to decode and understand transmissions from the combat scanner to other combat scanners.</Description>
     <Sources>
-      <Source Page="56">Dangerous Covenants</Source>
+      <Source Page="56">Дополнение: Опасные союзы</Source>
       <Source Page="49">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -10944,7 +10944,7 @@ A combat scanner is a sophisticated optics and sensor array designed for militar
       [H3]Mark 10 Demolitions Scanner[h3]
 
 This handheld unit is designed to detect the distinctive chemical and energy signatures of a broad range of explosive devices. The demolitions scanner can be used independently or connected to a datapad or combat scanner, and its data can be transmitted to a remote receiver. The demolitions scanner allows the user to detect concealed explosive devices, and adds [BO] to any checks to do so.</Description>
-    <Source Page="57">Dangerous Covenants</Source>
+    <Source Page="57">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type>Detection/Surveillance Devices</Type>
     <Categories />
@@ -12567,7 +12567,7 @@ Tents can be found in larger survival kits, and can provide protection from the 
       [H3]Tauntaun Pup Tent[h3]
 
 This ubiquitous tent is popular amongst explorers and mercenary soldiers for its sturdy construction, lightweight materials, easy storage, and quick deployment. The Tauntaun Pup Tent is constructed of a flexible alumasilk weave with an integrated heat-insulating layer that can allow those inside to ignore temperatures up to -20 degrees.</Description>
-    <Source Page="58">Dangerous Covenants</Source>
+    <Source Page="58">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
     <Categories />
