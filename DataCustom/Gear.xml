@@ -1685,12 +1685,11 @@ Holo V А/В Переводчик — это небольшое портатив
   </Gear>
   <Gear>
     <Key>BIOFEEDREG</Key>
-    <Name>Biofeedback Regulator</Name>
+    <Name>Регулятор биологической обратной связи</Name>
     <Description>
-      [H3]Biofeedback Regulator[h3]
-Unusually for cybernetic implants, a biofeedback regulator achieves nothing for the recipient when installed on its own. This complex full-body system takes substantial expertiese to install, and is intended to be integrated with additional cybernetic enhancements. When hooked into existing or newly installed enhancements, the regulator redirects natural bioelectricity flows to work with the power supplies of artificial limbs or to supplement the functioning of pieces that add new capablities to the user's body. The regulator is thoroughly integrated with the autoimmune repsonses of the body as well, preventing them from rejecting even the most copious of upgrades.
-[P]A biofeedback implant regulator increases the character's cybernetic implant cap by two (see page 173 of the [B]Edge of the Empire[b] Core Rulebook). A biofeedback regulator does not count toward the character's cybernetic implant cap. Biofeedback regulators cannot be installed on droids and characters can only have a single biofeedback regulator cybernetic installed.
-    </Description>
+      [H3]Регулятор биологической обратной связи[h3]
+В отличие от кибернетических имплантатов, регулятор биологической обратной связи не приносит никакой пользы реципиенту, если устанавливается отдельно. Эта сложная система для всего тела требует значительного опыта для установки и предназначена для интеграции с дополнительными кибернетическими усовершенствованиями. При подключении к существующим или вновь установленным усовершенствованиям регулятор перенаправляет естественные биоэлектрические потоки для работы с источниками питания искусственных конечностей или для дополнения функций деталей, которые добавляют новые возможности телу пользователя. Регулятор также полностью интегрирован с аутоиммунными реакциями организма, предотвращая отторжение даже самых обширных усовершенствований.
+[P]Регулятор биологической обратной связи увеличивает предел кибернетических имплантатов персонажа на 2 (см. страницу 173 [B]Книги правил: Край Империи[b]). Регулятор биологической обратной связи не учитывается в предел кибернетических имплантатов персонажа. Регуляторы биологической обратной связи не могут быть установлены на дроидах, и персонажи могут иметь только 1 кибернетический регулятор биологической обратной связи.</Description>
     <Source Page="49">Дополнение: Особые модификации</Source>
     <Custom>DescOnly</Custom>
     <Type>Cybernetics</Type>
@@ -1709,21 +1708,21 @@ Unusually for cybernetic implants, a biofeedback regulator achieves nothing for 
         <Key>CYBERNONE</Key>
       </Mod>
       <Mod>
-        <MiscDesc>Cannot be installed on droids.</MiscDesc>
+        <MiscDesc>Не может быть установлено в дроида.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>May only install a single biofeedback regulator.</MiscDesc>
+        <MiscDesc>Можно устанавливать только 1 регулятор биологической обратной связи.</MiscDesc>
       </Mod>
     </BaseMods>
     <WeaponModifiers />
   </Gear>
   <Gear>
     <Key>BIOMEGEN</Key>
-    <Name>Biome Generator</Name>
+    <Name>Генератор биома</Name>
     <Description>
-      [H3]A99 Custom Biome Generator[h3]
+      [H3]Настраиваемый генератор биома A99[h3]
 
-Tri-Planetary Atmospherics (TPA) is a small atmospheric research and engineering firm based in the Outer Rim territories. Specializing in atmospheric synthesis technologies, TPA is the go-to company for custom tailored environments. Their most popular product is the A99 Custom Biome Generator, a relatively small, sophisticated device used to create specialty environments in starships, space stations, and buildings. Equipped with powerful chemical analyzers and synthesizers, the A99 can produce comfortable, safe environments for even the most stringent biological requirements. When installed, they are commonly integrated into existing ventilation and temperature regulation systems, allowing the A99 to replicate nearly any biome in the universe.</Description>
+Tri-Planetary Atmospherics (TPA) - небольшая компания, занимающаяся исследованиями и разработками в области атмосферы, расположенная на территориях Внешнего кольца. Специализируясь на технологиях синтеза атмосферы, TPA является ведущей компанией в области создания индивидуальных сред. Их самым популярным продуктом является A99 Настраиваемый генератор биома - относительно небольшое, сложное устройство, используемое для создания специальных сред в звездолетах, космических станциях и зданиях. Оснащенный мощными химическими анализаторами и синтезаторами, A99 может создавать комфортные и безопасные условия даже для самых строгих биологических требований. При установке устройства обычно интегрируются в существующие системы вентиляции и регулирования температуры, что позволяет A99 воспроизводить практически любой биом во вселенной.</Description>
     <Source Page="46">Дополнение: Далекие горизонты</Source>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
@@ -1737,10 +1736,10 @@ Tri-Planetary Atmospherics (TPA) is a small atmospheric research and engineering
   </Gear>
   <Gear>
     <Key>BIOSCAN</Key>
-    <Name>Bioscan</Name>
-    <Description>[H3]Bioscan[h3]
-Verifying a target's identity is crucial to retrieving payment on any acquisition. A wise bounty hunter does so prior to contacting the bounty's sponsor. A bioscan is a device that scans for life forms as well as verifying their physical makeup for anomalies and identifiers. Biometric data can be compared against another sample or a recording of one previously obtained.
-[P]Using a bioscan to scan an area for life signs grants [BO] to any Perception checks opposing Stealth. Using the device to verify a person's identity requires an [B]Average ([DI][DI]) Computers check[b] and a biometric identifier for comparison. The GM may modify this difficulty based upon any unusal anatomical characteristics of the target's species.</Description>
+    <Name>Биосканер</Name>
+    <Description>[H3]Биосканер[h3]
+Проверка личности цели имеет решающее значение для получения вознаграждения за любую поимку. Умный охотник за головами делает это до того, как связывается со спонсором награды. Биосканер - это устройство, которое сканирует живые организмы, а также проверяет их физическое строение на наличие аномалий и идентификаторов. Биометрические данные можно сравнить с другим образцом или записью, полученной ранее.
+[P]Использование биосканера для сканирования области на наличие признаков жизни добавляет [BO] к любым проверкам "Внимания", против "Скрытности". Использование устройства для проверки личности человека требует [B]средней ([DI][DI]) проверки "Компьютеров"[b] и биометрического идентификатора для сравнения. ГМ может изменить эту сложность в зависимости от любых необычных анатомических характеристик вида цели.</Description>
     <Source Page="53">No Disintegrations</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
@@ -1751,20 +1750,20 @@ Verifying a target's identity is crucial to retrieving payment on any acquisitio
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>When scanning for life signs, grants [BO] to [B]Perception vs. Stealth checks[b].</MiscDesc>
+        <MiscDesc>При сканировании на наличие признаков жизни, добавляет [BO] к [B]любым проверкам "Внимания", против "Скрытности"[b].</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Verifying identity requires an [B]Average ([DI][DI]) Computers check[b] and a biometric identifier.</MiscDesc>
+        <MiscDesc>Для проверки личности требуется [B]средняя ([DI][DI]) проверка "Компьютеров"[b] и биометрический идентификатор.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>BIOSCANMED</Key>
-    <Name>Bioscan (Medical)</Name>
-    <Description>[H3]Bioscan (Medical)[h3]
-[P]A healer must be able to recognize any anomalies in a patient's biological makeup in order to properly cure an injury. A bioscan is capable of identifying an individual's species, age, and condition based upon a given set of parameters. It can also recognize any disruptions to the anatomy from injuries or diseases, as well as deliberate modifications such as cybernetics and cosmetic modification.
-[P]A character using a bioscan can remove [SE][SE] from any Medicine checks the character makes.</Description>
+    <Name>Биосканер (Медицинский)</Name>
+    <Description>[H3]Биосканер (Медицинский)[h3]
+[P]Лечащий должен уметь распознавать любые аномалии в биологическом составе пациента, чтобы правильно вылечить травму. Биосканер позволяет определить вид, возраст и состояние человека на основе заданного набора параметров. Оно также может распознавать любые нарушения анатомии, вызванные травмами или заболеваниями, а также преднамеренные изменения, такие как кибернетика и косметические модификации.
+[P]Персонаж, использующий биосканер, может убрать [SE][SE] из любых проверок "Медицины", которые он выполняет.</Description>
     <Source Page="50">Дополнение: Последователи гармонии</Source>
     <Custom>DescOnly</Custom>
     <Type>Medical</Type>
@@ -1775,16 +1774,16 @@ Verifying a target's identity is crucial to retrieving payment on any acquisitio
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Removes up to [SE][SE] from Medicine checks made by the user.</MiscDesc>
+        <MiscDesc>Уберите [SE][SE] из любых проверок "Медицины", которые он выполняет.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>BLOODSCAN</Key>
-    <Name>Blood Scanner</Name>
+    <Name>Сканер крови</Name>
     <Description>
-      [H3]Blood Scanner[h3]
-[P]Utilized for medical diagnostics, blood scanners are sensitive devices capable of scanning blood samples from nearly any species.
+      [H3]Сканер крови[h3]
+[P]Используемые в медицинской диагностике сканеры крови - это чувствительные устройства, способные сканировать образцы крови практически любого вида.
     </Description>
     <Source Page="51">Дополнение: Поддержание мира</Source>
     <Custom>DescOnly</Custom>
@@ -1798,21 +1797,21 @@ Verifying a target's identity is crucial to retrieving payment on any acquisitio
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>As an action, make [B]Easy ([DI]) Medicine check[b] to identify foreign elements (including poisons) in blood samples. Adds [AD][AD] to next Medicine check to treat patient.</MiscDesc>
+        <MiscDesc>В качестве действия проведите [B]Легкую ([DI]) проверку "Медицины"[b], чтобы определить наличие посторонних элементов (включая яды) в образцах крови. Добавляет [AD][AD] к следующей проверке "Медицины" для лечения пациента.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>BOOSTBLCARGO</Key>
-    <Name>Booster Blue (100 dose cargo container)</Name>
+    <Name>Синий бустер (контейнер с 100 дозами)</Name>
     <Description>
-      [H3]Booster Blue[h3]
+      [H3]Синий бустер[h3]
 
-Derived from an industrial dye used in large-scale construction operations such as the creation of starships, booster blue is a performance enhancing drug popular amongst pilots and gunmen. The drug is most often distributed as a blue liquid stored in metal cans to prevent spillage on skin or surfaces that are easily damaged. Though nobody seems to know the drug's exact history, apparently some intrepid soul came to the realization that by consuming this chemical concoction meant for painting starships, humans and many other species can temporarily benefit from drastically boosted reaction times. Of course, this power is not without a price—booster blue has a number of deleterious side-effects, and overdoses are common, especially amongst pilots who attempt to overlap applications of the drug during extended combat operations.
+Синий бустер, полученный из промышленного красителя, используемого в крупномасштабных строительных работах, таких как создание звездолетов, является препаратом, повышающим работоспособность, популярным среди пилотов и стрелков. Препарат чаще всего распространяется в виде синей жидкости, хранящейся в металлических канистрах, чтобы предотвратить попадание на кожу или поверхности, которые легко повредить. Хотя никто не знает точной истории этого препарата, по-видимому, какой-то смелый человек пришел к выводу, что, употребляя эту химическую смесь, предназначенную для окраски звездолетов, люди и многие другие виды могут временно получить преимущество в виде резкого увеличения скорости реакции. Конечно, эта сила имеет свою цену — синий бустер имеет ряд вредных побочных эффектов, и передозировки являются распространенным явлением, особенно среди пилотов, которые пытаются накладывать дозы препарата во время длительных боевых операций.
 
-[P]A character under the effects of booster blue may upgrade the ability of any Agility, Intellect, or Cunning related check he undertakes once, reflecting his improved concentration and mental acuity. However, this artificial focus takes a toll on the mind. A character under the effects of booster blue may not remove strain at the end of any scenes or encounters for the remainder of the session. Booster blue's beneficial effects last for one scene or combat encounter.
+[P]Персонаж, находящийся под воздействием «синего бустера», может сделать улучшение одного кубика на результатах любой проверки, связанного с "Ловкостью", "Интеллектом" или "Смекалки", что отражает его повышенную концентрацию и умственную остроту. Однако такая искусственная концентрация негативно сказывается на психике. Персонаж, находящийся под воздействием «синего бустера», не может снимать "усталость" в конце любой сцены или встречи до конца сессии. Положительный эффект «синего бустера» длится 1 сцену или боевую встречу.
 
-[P][B]Restrictions:[b] Booster blue is illegal on most worlds.</Description>
+[P][B]Ограничения:[b] Синий бустер запрещен в большинстве миров.</Description>
     <Source Page="184">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>750</Price>
@@ -1823,15 +1822,15 @@ Derived from an industrial dye used in large-scale construction operations such 
   </Gear>
   <Gear>
     <Key>BOOSTBLDOSE</Key>
-    <Name>Booster Blue (dose)</Name>
+    <Name>Синий бустер (доза)</Name>
     <Description>
-      [H3]Booster Blue[h3]
+      [H3]Синий бустер[h3]
 
-Derived from an industrial dye used in large-scale construction operations such as the creation of starships, booster blue is a performance enhancing drug popular amongst pilots and gunmen. The drug is most often distributed as a blue liquid stored in metal cans to prevent spillage on skin or surfaces that are easily damaged. Though nobody seems to know the drug's exact history, apparently some intrepid soul came to the realization that by consuming this chemical concoction meant for painting starships, humans and many other species can temporarily benefit from drastically boosted reaction times. Of course, this power is not without a price—booster blue has a number of deleterious side-effects, and over-doses are common, especially amongst pilots who attempt to overlap applications of the drug during extended combat operations.
+Синий бустер, полученный из промышленного красителя, используемого в крупномасштабных строительных работах, таких как создание звездолетов, является препаратом, повышающим работоспособность, популярным среди пилотов и стрелков. Препарат чаще всего распространяется в виде синей жидкости, хранящейся в металлических канистрах, чтобы предотвратить попадание на кожу или поверхности, которые легко повредить. Хотя никто не знает точной истории этого препарата, по-видимому, какой-то смелый человек пришел к выводу, что, употребляя эту химическую смесь, предназначенную для окраски звездолетов, люди и многие другие виды могут временно получить преимущество в виде резкого увеличения скорости реакции. Конечно, эта сила имеет свою цену — синий бустер имеет ряд вредных побочных эффектов, и передозировки являются распространенным явлением, особенно среди пилотов, которые пытаются накладывать дозы препарата во время длительных боевых операций.
 
-[P]A character under the effects of booster blue may upgrade the ability of any Agility, Intellect, or Cunning-related check he undertakes once, reflecting his improved concentration and mental acuity. However, this artificial focus takes a toll on the mind. A character under the effects of booster blue may not remove strain at the end of any scenes or encounters for the remainder of the session. Booster blue's beneficial effects last for one scene or combat encounter.
+[P]Персонаж, находящийся под воздействием «синего бустера», может сделать улучшение одного кубика на результатах любой проверки, связанного с "Ловкостью", "Интеллектом" или "Смекалки", что отражает его повышенную концентрацию и умственную остроту. Однако такая искусственная концентрация негативно сказывается на психике. Персонаж, находящийся под воздействием «синего бустера», не может снимать "усталость" в конце любой сцены или встречи до конца сессии. Положительный эффект «синего бустера» длится 1 сцену или боевую встречу.
 
-[P][B]Restrictions:[b] Booster blue is illegal on most worlds.</Description>
+[P][B]Ограничения:[b] Синий бустер запрещен в большинстве миров.</Description>
     <Source Page="184">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Price>10</Price>
@@ -1842,12 +1841,12 @@ Derived from an industrial dye used in large-scale construction operations such 
   </Gear>
   <Gear>
     <Key>BREAKHVYHYDROSP</Key>
-    <Name>"Breaker" Heavy Hydrospanner</Name>
+    <Name>Тяжелый гидроключ "Breaker"</Name>
     <Description>
-      [H3]Regalis Engineering "Breaker" Heavy Hydrospanner[h3]
-Built by Regalis Engineering, the Breaker is a massive, long-handled hydrospanner nearly a meter long. It is built of heavy reinforced alloys and has a forged, hydraulic-assisted head that can be adjusted to fit most common fasteners. The long handle allows for the application of extra leverage on a stuck fastener, and the tool's sturdy build prevents stripping, warping, and breaking. Most field mechanics keep at least one Breaker in their toolbox and use it for more than just snapping off bolts and reattaching plating.
-[P]Using a Breaker adds an automatic [AD] to Mechanics checks. When used as a weapon, a Breaker heavy hydrospanner has the following profile: Melee; Damage +2; Critical 4; Range (Engaged); Cumbersome 3, Disorient 1, Inaccurate 1.</Description>
-    <Source Page="47">Fully Operational</Source>
+      [H3]Тяжелый гидроключ "Breaker" Regalis Engineering[h3]
+Изготовленный компанией Regalis Engineering, Breaker представляет собой массивный гидравлический гаечный ключ с длинной ручкой длиной почти один метр. Он изготовлен из тяжелых армированных сплавов и имеет кованую головку с гидравлическим усилением, которую можно регулировать для использования с большинством распространенных крепежных элементов. Длинная ручка позволяет приложить дополнительное усилие к застрявшему крепежному элементу, а прочная конструкция инструмента предотвращает срыв, деформацию и поломку. Большинство полевых механиков держат в своем ящике с инструментами как минимум один Breaker и используют его не только для отрыва болтов и повторной установки обшивки.
+[P]Использование Breaker добавляет автоматическое [AD] к проверкам "Механики". При использовании в качестве оружия тяжелый гидроключ Breaker имеет следующий профиль: Ближ.; Урон +2; Крит 4; Дальн. (Вплотную); Cumbersome 3, Disorient 1, Inaccurate 1.</Description>
+    <Source Page="47">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
     <Price>250</Price>
@@ -1855,7 +1854,7 @@ Built by Regalis Engineering, the Breaker is a massive, long-handled hydrospanne
     <Rarity>2</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>Adds [AD] to Mechanics checks.</MiscDesc>
+        <MiscDesc>Добавьте автоматическое [AD] к проверкам "Механики"</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillKey>MECH</SkillKey>
@@ -1864,7 +1863,7 @@ Built by Regalis Engineering, the Breaker is a massive, long-handled hydrospanne
         </DieModifiers>
       </Mod>
       <Mod>
-        <MiscDesc>May be used as a weapon.</MiscDesc>
+        <MiscDesc>Может использоваться в качестве оружия.</MiscDesc>
       </Mod>
     </BaseMods>
     <WeaponModifiers>
@@ -1897,17 +1896,17 @@ Built by Regalis Engineering, the Breaker is a massive, long-handled hydrospanne
   </Gear>
   <Gear>
     <Key>BREATHM</Key>
-    <Name>Breath Mask</Name>
+    <Name>Дыхательная маска</Name>
     <Description>
-      [H3]Breath Mask[h3]
+      [H3]Дыхательная маска[h3]
 
-Not all planets or environments are hospitable to all species, and thus many species require breathing devices to survive on them. The most basic are simple nose plugs which filter out contaminants; there are also higher quality items such as wearable face masks with gas canisters, filtration masks for poisonous atmospheres, and even aquatic rebreathers for sustained activity underwater.
+Не все планеты или среды обитания пригодны для всех видов, поэтому многим видам для выживания на них требуются дыхательные аппараты. Самыми простыми являются простые затычки для носа, которые фильтруют загрязнения; есть также более качественные изделия, такие как носимые маски с газовыми баллонами, фильтрующие маски для ядовитых атмосфер и даже водные ребризеры для длительной деятельности под водой.
 
-[P]The Gandorthral Atmospherics Roamer-6 is a fairly simple variant stored aboard many starships that filters harmful atmospheres and provides additional gases to produce a proper oxygen-nitrogen mix. Other variants (especially those made for alien species who must spend long periods of time in hostile atmospheres) can be more unobtrusive or comfortable to wear, but essentially do the same thing.
+[P]Gandorthral Atmospherics Roamer-6 - это довольно простой вариант, который хранится на борту многих звездолетов и фильтрует вредные атмосферы, а также обеспечивает дополнительные газы для получения надлежащей смеси кислорода и азота. Другие варианты (особенно те, которые созданы для инопланетных видов, вынужденных проводить длительное время в неблагоприятных атмосферах) могут быть более незаметными или удобными в ношении, но по сути выполняют ту же функцию.
 
-[P]Breathing aids can be set to provide nearly any atmosphere, although oxygen-nitrogen atmospheres are the most common. Some variants of Gand, however, use rebreathers to inhale an ammonia mix that mimics the atmosphere of their home planet.
+[P]Дыхательные аппараты могут быть настроены на практически любую атмосферу, хотя наиболее распространены кислородно-азотные атмосферы. Однако некоторые варианты Ганд используют ребризеры для вдыхания смеси аммиака, которая имитирует атмосферу их родной планеты.
 
-[P][B]Models Include:[b] Gandorthral Atmospherics Roamer-6.</Description>
+[P][B]Модели включают:[b] Gandorthral Atmospherics Roamer-6.</Description>
     <Sources>
       <Source Page="179">Книга правил: Край Империи</Source>
       <Source Page="195">Книга правил: Эпоха восстания</Source>
@@ -1921,15 +1920,15 @@ Not all planets or environments are hospitable to all species, and thus many spe
   </Gear>
   <Gear>
     <Key>BURNGEL</Key>
-    <Name>"Quickflash" Burning Gel</Name>
+    <Name>Горючий гель "Quickflash"</Name>
     <Description>
-      [H3]"Quickflash" Burning Gel[h3]
+      [H3]Горючий гель "Quickflash"[h3]
 
-Burning gel is an electrochemical hull-breaching agent synthesized and sold by the Corellian Chemical Corporation, a wholly owned subsidiary of Chiewab Amalgamated Pharmaceuticals. Colloquially referred to as the "shipwright's spare key," burning gel is used to gain access to doors, hatchways, and machine compartments that have been rendered inaccessible. When applied, it quickly burns through nearly any substance, in any environment, including the vacuum of space. It is commonly used to cut holes in starships that are derelict or otherwise damaged and adrift in space and is quite popular among salvage outfits, archaeologists, and other less savory characters. Unlike cutting torches and welders, it emits no flame and requires no oxygen to operate, making it preferable for use in a vacuum.
+Горючий гель - это электрохимическое средство для пробивания корпуса, синтезируемое и продаваемое Corellian Chemical Corporation, дочерней компанией Chiewab Amalgamated Pharmaceuticals. В разговорной речи горючий гель называют «запасным ключом корабельного мастера» и используют для доступа к дверям, люкам и машинных отсекам, которые стали недоступными. При нанесении он быстро прожигает практически любое вещество в любой среде, включая космический вакуум. Обычно он используется для прорезания отверстий в заброшенных или поврежденных космических кораблях, дрейфующих в космосе, и довольно популярен среди спасателей, археологов и других менее благородных персонажей. В отличие от резаков и сварочных аппаратов, он не выделяет пламени и не требует кислорода для работы, что делает его предпочтительным для использования в вакууме.
 
-[P]The gel itself consists of two parts: a stable, extremely caustic acid suspended in a clear gel that adheres to nearly any substance and a pair of thin electrodes. Both parts are contained in a dispenser unit that includes a refillable tank of gel and electrode wire, a tiny power generator, and a pistol-grip applicator. When the applicator trigger is squeezed, a measure of gel is released from the applicator along with the wires contained within. Once the desired amount of burning gel has been applied, the power generator is activated, running a quick, high-powered charge through the gel and activating the acid, which immediately begins eating away at whatever it's been applied to.
+[P]Сам гель состоит из двух частей: стабильной, чрезвычайно едкой кислоты, взвешенной в прозрачном геле, который прилипает практически к любому веществу, и пары тонких электродов. Обе части содержатся в дозаторе, который включает в себя заправляемый резервуар с гелем и электродами, миниатюрный генератор энергии и аппликатор с пистолетной рукояткой. При нажатии на курок аппликатора из него выделяется определенное количество геля вместе с содержащимися в нем электродами. После нанесения необходимого количества горящего геля включается генератор энергии, который пропускает через гель быстрый заряд высокой мощности и активирует кислоту, которая немедленно начинает разъедать все, на что она была нанесена.
 
-[P]For rules purposes, exposure to burning gel deals damage to materials and sentient beings as if it were a weapon. It deals 10 damage and has the Burn 5 and Pierce 5 weapon qualities. Using burning gel requires no skill check. However, placing it correctly and effectively might, at the Game Master's discretion, require a Mechanics check.</Description>
+[P]В целях правил воздействие горючего геля наносит урон материалам и разумным существам, как если бы это было оружие. Он наносит 10 единиц урона и обладает свойствами оружия Burn 5 и Pierce 5. Использование горящего геля не требует проверки навыков. Однако для его правильного и эффективного размещения, по усмотрению ГМа, может потребоваться проверка навыков "Механики".</Description>
     <Source Page="52">Дополнение: Шаг в неизвестность</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
@@ -1942,10 +1941,10 @@ Burning gel is an electrochemical hull-breaching agent synthesized and sold by t
   </Gear>
   <Gear>
     <Key>BUTBUGREMOTE</Key>
-    <Name>Butterbug Remote</Name>
+    <Name>Пульт Butterbug</Name>
     <Description>
-      [H3]Butterbug Remote[h3]
-These small palm-sized remotes tramsit localised infromation to each other and to the user. Whole batches can be linked together as a networked swarm.
+      [H3]Пульт Butterbug[h3]
+Эти небольшие пульты размером с ладонь передают локализованную информацию друг другу и пользователю. Целые группы могут быть объединены в сетевой рой.
     </Description>
     <Source Page="53">Дополнение: Особые модификации</Source>
     <Custom>DescOnly</Custom>
@@ -1960,11 +1959,11 @@ These small palm-sized remotes tramsit localised infromation to each other and t
   </Gear>
   <Gear>
     <Key>CALMSALVE</Key>
-    <Name>Calming Salve</Name>
-    <Description>[H3]Calming Salve[h3]
-Sentient beings all over the galaxy lead a hard life. Stress accumulates over time, threatening to overwhelm the less hardy. Resting often helps, but in the heat of battle, it's likely a combatant needs more immediate help. Thousands of remedies, salves, and balms exist to that effect. There is as much variety in the production of these items as in the individuals that consume them.
-[P]Rubbing these salves into the skin opens a sentient being up to the Living Force surrounding them. Those without Force sensitivity find the experience strange but comforting. A Mystic in tune with the Force can draw the energy into themselves. When they release it, they wash away their fears in the cleansing warmth of the Force.
-[P]Once per session as an action, a Force-sensitive character may use the Calming Salve and make a Force power check. They may spend [FP] generated from [LI] results to recover one strain per [FP] spent in this way.</Description>
+    <Name>Успокаивающая мазь</Name>
+    <Description>[H3]Успокаивающая мазь[h3]
+Живые существа по всей галактике ведут тяжелую жизнь. Стресс накапливается с течением времени, угрожая подавить менее выносливых. Отдых часто помогает, но в разгаре сражения воин, скорее всего, нуждается в немедленной помощи. Для этой цели существуют тысячи лекарств, мазей и бальзамов. Производство этих товаров столь же разнообразно, как и люди, которые их потребляют.
+[P]Втирание этих мазей в кожу открывает разумному существу доступ к окружающей его Живой Силе. Те, кто не чувствителен к Силе, находят этот опыт странным, но утешительным. Мистик, настроенный на Силу, может втягивать энергию в себя. Когда он ее высвобождает, он смывает свои страхи в очищающем тепле Силы.
+[P]Один раз за сессию в качестве действия персонаж, чувствительный к Силе, может использовать успокаивающую мазь и выполнить проверку "Силы". Он может потратить [FP], полученные от результатов [LI], чтобы восстановить одну "усталость" за каждую [FP], потраченные таким образом.</Description>
     <Source Page="53">Дополнение: Абсолютная власть</Source>
     <Custom>DescOnly</Custom>
     <Type>Drugs and Consumables</Type>
@@ -1974,22 +1973,22 @@ Sentient beings all over the galaxy lead a hard life. Stress accumulates over ti
     <Rarity>3</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>Once per session as an action, a Force-sensitive may use calming salve to make a Force power check.  [FP] generated from [LI] may be used to recover one strain per [FP].</MiscDesc>
+        <MiscDesc>Один раз за сессию в качестве действия, чувствительный к Силе может использовать успокаивающую мазь, чтобы выполнить проверку "Силы". [FP], полученные от [LI], может быть использован для восстановления одной "усталости" за каждый [FP].</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>CAMONETROLL</Key>
-    <Name>CN-15 Camouflage Netting (Roll)</Name>
+    <Name>Камуфляжная сетка CN-15 (рулон)</Name>
     <Description>
-      [H3]CN-15 Camouflage Netting (Roll)[h3]
+      [H3]Камуфляжная сетка CN-15 (рулон)[h3]
 
-This sophisticated and versatile camouflage is used by military personnel to conceal encampments, supply caches, vehicles and other high-value assets. Fabritech CN-15 Camouflage Netting contains photoreactive fibers that enable it to match the visual profile of its surroundings, as well as jamming circuitry that offers an effective countermeasure against standard sensor sweeps.
+Эта сложная и универсальная маскировка используется военнослужащими для скрытия лагерей, складов снабжения, транспортных средств и других ценных объектов. Маскировочная сетка Fabritech CN-15 содержит фотореактивные волокна, которые позволяют ей соответствовать визуальному профилю окружающей среды, а также схему подавления, которая обеспечивает эффективную защиту от стандартных датчиков.
 
-[P]CN-15 Camouflage Netting adds automatic [FA][FA] to all checks made to detect items concealed by it. One roll of netting can conceal one object up to silhouette 2, two rolls can conceal one object up to silhouette 3, and three rolls can conceal one object up to silhouette 4. Anything silhouette 5 or larger is too large to conceal by camo netting alone.</Description>
+[P]Камуфляжная сетка CN-15 добавляет автоматические [FA][FA] ко всем проверкам, проводимым для обнаружения предметов, скрытых под ней. Один рулон сетки может скрыть 1 предмет с силуэтом до 2, 2 рулона могут скрыть один предмет с силуэтом до 3, а 3 рулона могут скрыть один предмет с силуэтом до 4. Все, что имеет силуэт 5 или больше, слишком велико, чтобы его можно было скрыть одной камуфляжной сеткой.</Description>
     <Sources>
       <Source Page="57">Дополнение: Опасные союзы</Source>
-      <Source Page="50">Knights of Fate</Source>
+      <Source Page="50">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
@@ -2004,20 +2003,20 @@ This sophisticated and versatile camouflage is used by military personnel to con
         <Key />
         <Count>1</Count>
         <Index>0</Index>
-        <MiscDesc>Adds [FAILURE][FAILURE] to all checks made to detect items hidden by netting.</MiscDesc>
+        <MiscDesc>Добавьте [FAILURE][FAILURE] ко всем проверкам, выполняемым для обнаружения предметов, скрытых сеткой.</MiscDesc>
         <DefZone />
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>CAMOPAINT</Key>
-    <Name>CN-21 Camouflage Paint</Name>
+    <Name>Камуфляжная краска CN-21</Name>
     <Description>
-      [H3]CN-21 Camouflage Paint[h3]
+      [H3]Камуфляжная краска CN-21[h3]
 
-This thick paint comes in small tubes holding five applications and is intended to camouflage exposed skin, but can be used on everything from weapons to personal gear. In the container, the paste appears an almost colorless gray, but photoreactive pigments allow it to match the color and visual texture of its surroundings once exposed to air.
+Эта густая краска поставляется в небольших тубах, рассчитанных на пять применений, и предназначена для маскировки открытых участков кожи, но может использоваться для всего, от оружия до личного снаряжения. В контейнере паста выглядит почти бесцветной серой, но фотореактивные пигменты позволяют ей подстраиваться под цвет и визуальную текстуру окружающей среды при контакте с воздухом.
 
-[P]CN-21 Camouflage Paint adds automatic [FA] to all checks made to detect items concealed by it. Note that camo paint does not have any of the advanced circuitry that provides concealment from electronic scanning and surveillance. Camouflage paint only works for items or individuals with a silhouette of 1 or smaller.</Description>
+[P]Камуфляжная краска CN-21 добавляет автоматический [FA] ко всем проверкам, проводимым для обнаружения предметов, скрытых с ее помощью. Обратите внимание, что камуфляжная краска не имеет никаких сложных схем, обеспечивающих скрытие от электронного сканирования и наблюдения. Камуфляжная краска работает только для предметов или людей с силуэтом 1 или меньше.</Description>
     <Source Page="58">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
@@ -2032,18 +2031,18 @@ This thick paint comes in small tubes holding five applications and is intended 
         <Key />
         <Count>1</Count>
         <Index>0</Index>
-        <MiscDesc>Adds [FAILURE] to all checks made to detect items hidden by paint.</MiscDesc>
+        <MiscDesc>Добавьте [FAILURE] ко всем проверкам, выполняемым для обнаружения предметов, скрытых краской.</MiscDesc>
         <DefZone />
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>CANTEEN</Key>
-    <Name>Canteen</Name>
+    <Name>Фляга</Name>
     <Description>
-      [H3]Canteen[h3]
+      [H3]Фляга[h3]
 
-This standard container is constructed from rugged synthetics and housed in a canvas cover available in a variety of uniform specifications and camouflage patterns. The military-issue canteen holds 1.5 liters of liquid and features an integrated filtration system that can purify water.</Description>
+Этот стандартный контейнер изготовлен из прочного синтетического материала и имеет чехол из брезента, доступный в различных вариантах униформы и камуфляжных узоров. Военная фляга вмещает 1,5 литра жидкости и оснащена встроенной системой фильтрации, которая может очищать воду.</Description>
     <Source Page="58">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
@@ -2057,15 +2056,15 @@ This standard container is constructed from rugged synthetics and housed in a ca
   </Gear>
   <Gear>
     <Key>CARGOSCAN</Key>
-    <Name>Cargo Scanner</Name>
+    <Name>Грузовой сканер</Name>
     <Description>
-      [H3]Cargo Scanner[h3]
+      [H3]Грузовой сканер[h3]
 
-To smugglers and free traders, the humble cargo scanner is every bit as useful as a blaster, if not more so. These small, hand-held scanners can quickly catalog cargo and calculate its mass, volume, and dimensions. By programming in the shape and size of a ship's cargo holds, a cargo scanner computes the most efficient method of loading and stowing freight.
+Для контрабандистов и свободных торговцев скромный грузовой сканер не менее полезен, чем бластер, если не более. Эти небольшие ручные сканеры могут быстро каталогизировать груз и рассчитать его массу, объем и габариты. Программируя форму и размер грузовых трюмов корабля, грузовой сканер вычисляет наиболее эффективный метод погрузки и укладки груза.
 
-[P]A character using a cargo scanner may make an [B]Average ([DI][DI]) Computers[b] check to increase the available encumbrance capacity of a planetary vehicle or starship with a silhouette of 3 or more by 10 percent (rounding up) thanks to more efficient organization.
+[P]Персонаж, использующий грузовой сканер, может выполнить [B]Среднюю ([DI][DI]) проверку "Компьютеров"[b], чтобы увеличить доступную грузоподъемность планетарного транспортного средства или звездолета с силуэтом 3 или более на 10 процентов (с округлением в большую сторону) благодаря более эффективной организации.
 
-[P][B]Models Include:[b] Fabritech A-11 cargo scanner.</Description>
+[P][B]Модели включают:[b] Грузовой сканер Fabritech A-11.</Description>
     <Source Page="50">Дополнение: Непринужденный полет</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
@@ -2080,41 +2079,19 @@ To smugglers and free traders, the humble cargo scanner is every bit as useful a
         <Key />
         <Count>1</Count>
         <Index>0</Index>
-        <MiscDesc>Make an [B]Average ([DI][DI]) Computers check[b] to increase the available encumbrance capacity of vehicle with silhouette 3+ by 10% (rounding up).</MiscDesc>
+        <MiscDesc>Совершите [B]Среднюю ([DI][DI]) проверку "Компьютеров"[b], чтобы увеличить доступную грузоподъемность транспортного средства с силуэтом 3+ на 10% (округление в большую сторону).</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>CASCADER</Key>
-    <Name>BPEA-1A Cascader</Name>
+    <Name>Каскадный преобразователь BPEA-1A</Name>
     <Description>
-      [H3]BPEA-1A Cascader[h3]
-Developed by Coruscant-based boutique electronics
-firm Farbreini MicroElectronics Ltd., the BPEA-IA Cascader
-was designed to give those who live in the public
-eye an extra level of control over their appearance. A
-relatively simple and elegant piece of electronic wizardry,
-the Cascader is a small, low-powered holoprojector
-connected to a patented projection matrix called
-the electronic molecular excitation net (EME Net).
-The projector is typically built into a piece of jewelry
-or, in the case of models used by military officers, into
-medals or decorations on a dress uniform. The EME
-Net is a lightweight, unobtrusive mesh of photoreceptors
-and photoreactive materials sewn into specially
-prepared clothing, such as uniforms and fancy dress
-outfits. When activated, the Cascader creates a subtle
-holographic effect that enhances both the features and
-voice of the wearer, increasing charisma and attractiveness.
-It allows wearers to tweak the shape of their face
-and the positions of their features, change the color
-of their eyes, adjust the tone and texture of their skin,
-alter the tenor of their voice, and make a number of
-other small adjustments to their appearance.
-[P]When wearing a Cascader, a PC upgrades all Charm,
-Deception, and Leadership checks he makes once.
+      [H3]Каскадный преобразователь BPEA-1A[h3]
+Разработанный базирующейся на Корусанте бутиковой электронной фирмой Farbreini MicroElectronics Ltd., Каскадный преобразователь BPEA-IA был создан, чтобы дать тем, кто живет на глазах у общественности, дополнительный уровень контроля над своей внешностью. Каскадный преобразователь — это относительно простое и элегантное электронное устройство, представляющее собой небольшой голопроектор с низким энергопотреблением, подключенный к запатентованной проекционной матрице, называемой электронной молекулярной возбуждающей сетью (EME Net). Проектор обычно встраивается в ювелирное изделие или, в случае моделей, используемых военными офицерами, в медали или ордена на парадной форме. EME Net представляет собой легкую, незаметную сетку из фоторецепторов и фотореактивных материалов, вшитую в специально подготовленную одежду, такую как униформа и нарядные костюмы. При активации каскадный преобразователь создает тонкий голографический эффект, который улучшает как черты лица, так и голос владельца, увеличивая его харизму и привлекательность. Он позволяет владельцам изменять форму лица и положение черт лица, менять цвет глаз, регулировать тон и текстуру кожи, изменять тембр голоса и вносить ряд других небольших корректировок в свою внешность.
+[P]При ношении каскадного преобразователя персонаж на 1 повышает все свои проверки "Обаяния", "Обмана" и "Лидерства".
     </Description>
-    <Source Page="44">Lead by Example</Source>
+    <Source Page="44">Дополнение: Лидерство на примере</Source>
     <Custom>DescOnly</Custom>
     <Price>1800</Price>
     <Encumbrance>0</Encumbrance>
@@ -2123,7 +2100,7 @@ Deception, and Leadership checks he makes once.
     <Type>Uniforms and Accessories</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>When wearing a Cascader, upgrade all Charm, Deception, and Leadership checks by one.</MiscDesc>
+        <MiscDesc>При ношении каскадера все проверки "Обаяния", "Обмана" и "Лидерства" повышаются на 1.</MiscDesc>
         <Count>1</Count>
         <DieModifiers>
           <DieModifier>
@@ -2144,13 +2121,13 @@ Deception, and Leadership checks he makes once.
   </Gear>
   <Gear>
     <Key>CERESTAB</Key>
-    <Name>IRAPS Cerebral Stabilizer</Name>
+    <Name>Церебральный стабилизатор IRAPS</Name>
     <Description>
-      [H3]IRAPS Cerebral Stabilizer[h3]
+      [H3]Церебральный стабилизатор IRAPS[h3]
 
-These lifesaving but nightmarish devices, known as "brain cages," are designed to preserve the viability of the central nervous system in critically injured patients. The IRAPS is a full-face helmet with IV lines injected into the large vessels of the patient's neck. The blood circulating in the patient's brain is replaced with a hyper-oxygenated nutrient solution, and thermal circuits in the helmet apparatus reduce cranial temperature to provide critical metabolic stabilization.
+Эти спасающие жизнь, но вызывающие кошмары устройства, известные как «клетки для мозга», предназначены для сохранения жизнеспособности центральной нервной системы у пациентов с критическими травмами. IRAPS представляет собой полнолицевой шлем с внутривенными катетерами, введенными в крупные сосуды шеи пациента. Кровь, циркулирующая в мозге пациента, заменяется гипероксигенированным питательным раствором, а тепловые контуры в шлеме снижают температуру черепа, обеспечивая критическую стабилизацию метаболизма.
 
-[P]A cerebral stabilizer must be applied to a patient within one round of suffering a Critical Injury. This device may be applied to a character suffering from a Bleeding Out or The End is Nigh Critical Injury, or a character who has died during the current round. Applying the device requires an [B]Average ([DI][DI]) Medicine check[b]. Once applied, the character is stabilized. If he died, he is brought back to life and counts as suffering a Gruesome Injury critical Injury (and all of its effects). Otherwise, his critical injury effects are canceled, though he still suffers from the injury itself.</Description>
+[P]Церебральный стабилизатор должен быть применен к пациенту в течение 1 раунда после получения критической травмы. Это устройство может быть применено к персонажу, страдающему от кровотечения или критической травмы «Конец близок», или к персонажу, который умер в течение текущего раунда. Для применения устройства требуется [B]Средняя ([DI][DI]) проверка "Медицины"[b]. После применения персонаж стабилизируется. Если он умер, он возвращается к жизни и считается получившим критическое повреждение «Жуткая травма» (со всеми вытекающими отсюда последствиями). В противном случае эффекты критического повреждения отменяются, хотя он по-прежнему страдает от самой травмы.</Description>
     <Source Page="57">Дополнение: Опасные союзы</Source>
     <Custom>DescOnly</Custom>
     <Type>Medical</Type>
@@ -2164,11 +2141,11 @@ These lifesaving but nightmarish devices, known as "brain cages," are designed t
   </Gear>
   <Gear>
     <Key>CHCUBE</Key>
-    <Name>Chance Cube</Name>
+    <Name>Кубики удачи</Name>
     <Description>
-      [H3]Chance Cube[h3]
+      [H3]Кубики удачи[h3]
 
-Chance cubes are six-sided dice cubes with red and blue sides. They allow for simple gambling in which players bet on the potential results. Their simplicity makes them popular on frontier worlds or long expeditions, where more complicated entertainment would be more likely to malfunction.</Description>
+Кубики удачи - это шестигранные кубики с красными и синими сторонами. Они позволяют играть в простые азартные игры, в которых игроки делают ставки на возможные результаты. Их простота делает их популярными в отдаленных мирах или во время длительных экспедиций, где более сложные развлечения с большей вероятностью могут выйти из строя.</Description>
     <Source Page="182">Книга правил: Край Империи</Source>
     <Custom>DescOnly</Custom>
     <Short>
@@ -2180,14 +2157,15 @@ Chance cubes are six-sided dice cubes with red and blue sides. They allow for si
   </Gear>
   <Gear>
     <Key>CHCUBELOADED</Key>
-    <Name>Loaded Chance Cube</Name>
+    <Name>Поддельные кубики удачи</Name>
     <Description>
-      [H3]Loaded Chance Cube[h3]
+      [H3]Поддельные кубики удачи[h3]
 
-Countless credits have been won and lost on the roll of simple chance cubes. Basic and low-tech, these dice can be found virtually everywhere in the galaxy. The simplicity of chance cubes also makes them susceptible to swindlers who like to keep the odds in their favor. By weighting the cubes slightly, unscrupulous individuals can increase the chances of the cubes coming up either red or blue. While difficult to detect on first glance, even the thickest Gamorrean will eventually realize that loaded chance cubes, or "tops" as they are sometimes called, are anything but random if used too often.
-[P]Characters using loaded chance cubes may add up to [BO][BO] to Deception checks when gambling. Noticing that chance cubes are weighted requires a [B]Formidable ([DI][DI][DI][DI][DI]) Perception check[b] on the first roll of the dice, but the difficulty decreases by one for each subsequent roll.
+Бесчисленные кредиты были выиграны и проиграны в результате броска простых кубиков удачи. Эти кубики, простые и несложные, можно найти практически везде в галактике. Простота кубиков удачи также делает их уязвимыми для мошенников, которые любят держать шансы в свою пользу. Слегка утяжеляя кубики, недобросовестные люди могут увеличить вероятность выпадения красного или синего цвета. Хотя это трудно обнаружить с первого взгляда, даже самый тупой гаморреанец в конце концов поймет, что кубики удачи подделаны, или «вершины», как их иногда называют, не являются случайными, если их использовать слишком часто.
 
-[P][B]Models Include:[b] Numerous variants.</Description>
+[P]Персонажи, использующие подделанные кубики удачи, могут добавлять до [BO][BO] к проверкам на "Обман" в азартных играх. Чтобы заметить, что кубики подделаны, необходимо пройти [B]Запредельную ([DI][DI][DI][DI][DI]) проверку "Внимания"[b] при первом броске кубиков, но сложность уменьшается на 1 при каждом последующем броске.
+
+[P][B]Модели включают:[b] Многочисленные варианты.</Description>
     <Source Page="108">Дополнение: Лорды Нал-Хатта</Source>
     <Custom>DescOnly</Custom>
     <Price>100</Price>
@@ -2198,21 +2176,21 @@ Countless credits have been won and lost on the roll of simple chance cubes. Bas
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Gain [BOOST][BOOST] to Deception checks when gambling.</MiscDesc>
+        <MiscDesc>Добавьте [BOOST][BOOST] к проверкам на "Обман" в азартных играх.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>CHEMLURE</Key>
-    <Name>Chem Lure</Name>
+    <Name>Химическая приманка</Name>
     <Description>
-      [H3]Chem Lure[h3]
+      [H3]Химическая приманка[h3]
 
-Similar to the beast call, the Beastmaster Chem Lure by CorChemCo is designed to attract beasts to a place where they can be easily captured or killed. However, where the beast call uses sound and recording technology, the Beastmaster does so through the use of pheromones. Small and easy to conceal (around the size of a typical datapad), the Beastmaster contains an exhaustive database listing the genetic codes of most known species in the galaxy. With the creature database and an onboard testing and recording suite that contains a DNA sequencer and a chemical synthesizer, the Beastmaster can create nearly any pheromone, musk, or other biological secretion. It can also be programmed with new DNA if it is provided with a physical sample such as blood, hair, skin, or bone.
+Подобно приманке для зверей, Beastmaster Chem Lure от CorChemCo предназначена для привлечения зверей в место, где их можно легко поймать или убить. Однако, в то время как приманка для зверей использует звук и технологию записи, Beastmaster делает это с помощью феромонов. Небольшая и легко скрываемая (примерно размером с обычный планшет), Beastmaster содержит исчерпывающую базу данных с генетическими кодами большинства известных видов в галактике. Благодаря базе данных о существах и встроенному набору инструментов для тестирования и записи, который содержит секвенатор ДНК и химический синтезатор, Beastmaster может создавать практически любой феромон, мускус или другие биологические выделения. Его также можно запрограммировать с помощью новой ДНК, если предоставить физический образец, такой как кровь, волосы, кожа или кость.
 
-[P]To use, a hunter first chooses his creature from the database or creates a new entry with a sample. Then he simply conceals the chemical lure, retreats to an upwind location, and settles in to wait. The Beastmaster uses the DNA information stored in the database to synthesize the correct chemical, aerosolizes it, and then slowly releases it over the course of one standard hour. The synthetic pheromones are incredibly hard for a targeted beast to resist, and the Beastmaster typically has a better chance of luring in its prey than a beast call or other apparatus.
+[P]Чтобы использовать его, охотник сначала выбирает животное из базы данных или создает новую запись с образцом. Затем он просто скрывает химическую приманку, отступает в место, расположенное с наветренной стороны, и устраивается ждать. Beastmaster использует информацию о ДНК, хранящуюся в базе данных, для синтеза правильного химического вещества, распыляет его в виде аэрозоля, а затем медленно высвобождает в течение одного стандартного часа. Синтетические феромоны невероятно трудно противостоять целевому животному, и Beastmaster обычно имеет больше шансов привлечь свою добычу, чем при помощи приманки для животных или другого устройства.
 
-[P]Creatures targeted by the Beastmaster must make a [B]Hard ([DI][DI][DI]) Discipline check[b] to resist, otherwise they come as quickly as possible to investigate. These items are often used with electro-snares or other live-trapping equipment to capture exotic animals alive for use as pets, zoo animals, and research subjects. Using the Beastmaster does not require a skill check, although placing it in the best position might, at the Game Master's discretion, require a Survival check.</Description>
+[P]Существа, на которых нацелен Beastmaster, должны пройти [B]Сложную ([DI][DI][DI]) проверку "Выдержки"[b], чтобы сопротивляться, в противном случае они как можно быстрее придут, чтобы расследовать ситуацию. Эти предметы часто используются с электрическими силовыми сетями или другим оборудованием для отлова живых животных, чтобы поймать экзотических животных живыми для использования в качестве домашних животных, животных в зоопарках и объектов исследований. Использование Beastmaster не требует проверки навыка, хотя для его размещения в оптимальном положении, по усмотрению ведущего игры, может потребоваться проверка навыка "Выживания".</Description>
     <Source Page="52">Дополнение: Шаг в неизвестность</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
@@ -2223,19 +2201,19 @@ Similar to the beast call, the Beastmaster Chem Lure by CorChemCo is designed to
     <Rarity>4</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>Requires beast to make a [B]Hard ([DI][DI][DI]) Discipline check[b] to resist being lured</MiscDesc>
+        <MiscDesc>Требует от зверя выполнить [B]Сложную ([DI][DI][DI]) проверку "Выдержки"[b], чтобы противостоять феромонам.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>CLIMB</Key>
-    <Name>Climbing Gear</Name>
+    <Name>Снаряжение для скалолазания</Name>
     <Description>
-      [H3]Climbing Gear[h3]
+      [H3]Снаряжение для скалолазания[h3]
 
-Though climbing gear is usually used in wilderness areas away from artificial turbolifts or simple stairs, it also can be useful in gaining entry to higher reaches through clandestine means. Most gear includes a spooled length of syntherope or liquid cable, with a hook or some other attachment to secure the line. The Pretormin Environmental Basic kit also includes four quick-adhesion pitons that can securely attach to almost any surface.
+Хотя альпинистское снаряжение обычно используется в диких местностях, вдали от искусственных турболифтов или простых лестниц, оно также может быть полезно для проникновения на большую высоту с помощью тайных средств. Большинство снаряжения включает в себя катушку с синтетическим тросом или гибким кабелем, с крюком или другим креплением для фиксации линии. Базовый набор Pretormin Environmental также включает в себя четыре быстросцепляющихся питона, которые можно надежно прикрепить практически к любой поверхности.
 
-[P][B]Models Include:[b] Pretormin Environmental Basic Climbing Gear.</Description>
+[P][B]Модели включают:[b] Pretormin Environmental Базовое снаряжение для скалолазания.</Description>
     <Sources>
       <Source Page="180">Книга правил: Край Империи</Source>
       <Source Page="196">Книга правил: Эпоха восстания</Source>
@@ -2249,13 +2227,13 @@ Though climbing gear is usually used in wilderness areas away from artificial tu
   </Gear>
   <Gear>
     <Key>COLLARAMP</Key>
-    <Name>Collar-Amp</Name>
+    <Name>Брошь-усилитель</Name>
     <Description>
-      [H3]Collar-Amp[h3]
+      [H3]Брошь-усилитель[h3]
 
-The Collar-Amp is a deceptively simple and useful device that is essentially an unobtrusive and very small amplifier. It can be mounted on the user's collar or the front of his clothing, where it looks like an innocuous silver button. There, the Collar-Amp detects the user's voice and amplifies it, filtering out ambient noise. Politicians and law enforcement officials often use the Collar-Amp to address large crowds, while some entertainers hook the device into a larger sound system for concerts or performances at large venues.
+Брошь-усилитель — это на первый взгляд простое и бесполезное устройство, которое по сути является незаметным и очень маленьким усилителем. Его можно прикрепить к воротнику или передней части одежды пользователя, где оно выглядит как безобидная серебряная пуговица. Там Брошь-усилитель улавливает голос пользователя и усиливает его, отфильтровывая окружающий шум. Политики и сотрудники охраны часто используют Брошь-усилитель для выступлений перед большой аудиторией, а некоторые артисты подключают устройство к более мощной звуковой системе для концертов или выступлений на больших площадках.
 
-[P]The Collar-Amp can boost the wearer's voice so that he can be heard up to long or extreme range (this depends on terrain, environmental conditions, and even the weather).</Description>
+[P]Брошь-усилитель может усиливать голос пользователя, чтобы его было слышно на большом или экстремальном расстоянии (это зависит от рельефа местности, условий окружающей среды и даже погоды).</Description>
     <Source Page="45">Дополнение: Далекие горизонты</Source>
     <Custom>DescOnly</Custom>
     <Type>Communications</Type>
@@ -2269,13 +2247,13 @@ The Collar-Amp is a deceptively simple and useful device that is essentially an 
   </Gear>
   <Gear>
     <Key>COLLARAMPUP</Key>
-    <Name>Collar-Amp (Upgraded)</Name>
+    <Name>Брошь-усилитель (Улучшенная)</Name>
     <Description>
-      [H3]Collar-Amp (Upgraded)[h3]
+      [H3]Брошь-усилитель (Улучшенная)[h3]
 
-The Collar-Amp is a deceptively simple and useful device that is essentially an unobtrusive and very small amplifier. It can be mounted on the user's collar or the front of his clothing, where it looks like an innocuous silver button. There, the Collar-Amp detects the user's voice and amplifies it, filtering out ambient noise. Politicians and law enforcement officials often use the Collar-Amp to address large crowds, while some entertainers hook the device into a larger sound system for concerts or performances at large venues.
+Брошь-усилитель — это на первый взгляд простое и бесполезное устройство, которое по сути является незаметным и очень маленьким усилителем. Его можно прикрепить к воротнику или передней части одежды пользователя, где оно выглядит как безобидная серебряная пуговица. Там Брошь-усилитель улавливает голос пользователя и усиливает его, отфильтровывая окружающий шум. Политики и сотрудники охраны часто используют Брошь-усилитель для выступлений перед большой аудиторией, а некоторые артисты подключают устройство к более мощной звуковой системе для концертов или выступлений на больших площадках.
 
-[P]The Collar-Amp can boost the wearer's voice so that he can be heard up to long or extreme range (this depends on terrain, environmental conditions, and even the weather). For an extra 100 credits, the user can purchase a model that hooks into a sound system or entertainment system, which improves sound quality.</Description>
+[P]Брошь-усилитель может усиливать голос пользователя, чтобы его было слышно на большом расстоянии (в зависимости от рельефа местности, условий окружающей среды и даже погоды). За дополнительные 100 кредитов пользователь может приобрести модель, которая подключается к звуковой или развлекательной системе, что улучшает качество звука.</Description>
     <Source Page="45">Дополнение: Далекие горизонты</Source>
     <Custom>DescOnly</Custom>
     <Type>Communications</Type>
@@ -2289,10 +2267,10 @@ The Collar-Amp is a deceptively simple and useful device that is essentially an 
   </Gear>
   <Gear>
     <Key>COMLINKE</Key>
-    <Name>Earbud Comlink</Name>
-    <Description>[H3]Earbud Comlink[h3]
-Earbud comlinks are tiny, unobtrusive communications devices that fit snugly into an individual's ear. Popular among spies, ambassadors, and criminals, these miniature devices are activated by touching an ear or quietly clicking one's teeth. Once a device is activated, users can either talk normally or, if the situation warrants, subvocally. Due to the earbud's tiny, low-output power cell, it has a significantly reduced range compared to more common comlink models.
-[P]Earbud comlinks have a usable range of long. Noticing that an individual is wearing an earbud comlink requires a [B]Hard ([DI][DI][DI]) Perception check[b].</Description>
+    <Name>Ушной комлинк</Name>
+    <Description>[H3]Ушной комлинк[h3]
+Ушной комлинк - это крошечные, незаметные устройства связи, которые плотно прилегают к уху. Эти миниатюрные устройства, популярные среди шпионов, послов и преступников, активируются при прикосновении к уху или тихом щелчке зубами. После активации устройства пользователи могут разговаривать как обычно или, если того требует ситуация, беззвучно. Из-за крошечной батареи с низкой мощностью наушник имеет значительно меньший радиус действия по сравнению с более распространенными моделями коммуникаторов.
+[P]Ушные комлинки имеют большой радиус действия. Чтобы заметить, что человек носит ушной комлинк, необходимо пройти [B]Сложную ([DI][DI][DI]) проверку "Внимания"[b].</Description>
     <Sources>
       <Source Page="45">Дополнение: Шифры и Маски</Source>
     </Sources>
@@ -2304,24 +2282,24 @@ Earbud comlinks are tiny, unobtrusive communications devices that fit snugly int
     <Type>Communications</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Noticing an individual is wearing an earbud comlink requires a [B]Hard ([DI][DI][DI]) Perception check[b].</MiscDesc>
+        <MiscDesc>Чтобы заметить, что человек носит ушной комлинк, необходимо пройти [B]Сложную ([DI][DI][DI]) проверку "Внимания"[b].</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>COMLINKH</Key>
-    <Name>Comlink (handheld)</Name>
+    <Name>Комлинк (ручной)</Name>
     <Description>
-    [H3]Comlink (handheld)[h3]
+    [H3]Комлинк (ручной)[h3]
 
-A common device found across the galaxy, comlinks come in a variety of forms depending on their function and user. Each allows for audio messaging between two parties though advanced models can transmit multiple users or network groups together. Personal comlinks are often small, hand-held cylinders capable of communicating over distances into low orbit. Some models are built into helmets and armor segments. Longer-range versions are usually carried as large satchels or in backpacks, and can reach across a planet and to ships in high orbit (or even elsewhere in the same star system). Most operate on a standard net of frequencies that can be adjusted as desired to elude detection.</Description>
+Комлинки - распространенное устройство во всей галактике, которое бывает разных форм в зависимости от функций и пользователей. Каждый из них позволяет обмениваться аудиосообщениями между двумя сторонами, хотя более продвинутые модели могут передавать сообщения нескольким пользователям или сетевым группам одновременно. Ручные комлинки часто представляют собой небольшие ручные цилиндры, способные связываться на расстояниях до низкой орбиты. Некоторые модели встроены в шлемы и сегменты брони. Версии с большим радиусом действия обычно носятся в виде больших сумок или рюкзаков и могут связываться по всей планете и с кораблями на высокой орбите (или даже в других местах той же звездной системы). Большинство из них работают в стандартной сети частот, которые можно настраивать по желанию, чтобы избежать обнаружения.</Description>
     <Sources>
       <Source Page="171">Книга правил: Край Империи</Source>
       <Source Page="186">Книга правил: Эпоха восстания</Source>
       <Source Page="180">Книга правил: Сила и судьба</Source>
     </Sources>
     <Custom>DescOnly</Custom>
-    <Short>A small handheld communications device</Short>
+    <Short>Небольшое портативное устройство связи</Short>
     <Encumbrance>0</Encumbrance>
     <Price>25</Price>
     <Rarity>0</Rarity>
@@ -2329,16 +2307,16 @@ A common device found across the galaxy, comlinks come in a variety of forms dep
   </Gear>
   <Gear>
     <Key>COMLINKHARD</Key>
-    <Name>Shockhold Hardened Comlink</Name>
+    <Name>Усиленный комлинк ShockHold</Name>
     <Description>
-      [H3]Shockhold Hardened Comlink[h3]
+      [H3]Усиленный комлинк ShockHold[h3]
 
-This hardened comlink is one of the more popular forms of military-grade communications in the galaxy. These devices feature satellite uplink capability for planet-wide and planet-to-orbit communications capability, boosted broadcast power, and military-grade encryption, although they are bulkier than standard comlinks.
+Этот усиленный комлинк является одним из самых популярных видов военных средств связи в галактике. Эти устройства обладают возможностью спутниковой связи для связи в пределах планеты и между планетой и орбитой, повышенной мощностью передачи и военным уровнем шифрования, хотя и более громоздки, чем стандартные коммуникаторы.
 
-[P]The ShockHold adds automatic [FA][FA] to any checks made to decode and understand its transmissions, and automatic [SU][SU] to any checks made to broadcast through a com jammer.</Description>
+[P]ShockHold добавляет автоматические [FA][FA] к любым проверкам, выполняемым для декодирования и понимания его передач, и автоматические [SU][SU] к любым проверкам, выполняемым для передачи через устройство подавления связи.</Description>
     <Sources>
       <Source Page="56">Дополнение: Опасные союзы</Source>
-      <Source Page="49">Knights of Fate</Source>
+      <Source Page="49">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Communications</Type>
@@ -2351,17 +2329,17 @@ This hardened comlink is one of the more popular forms of military-grade communi
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Adds automatic [FAILURE] to any checks made to decode and understand its transmission and automatic [SUCCESS] to any checks made to broadcast through a comms jammer.</MiscDesc>
+        <MiscDesc>Добавьте автоматический [FAILURE] к любым проверкам, выполняемым для декодирования и понимания его передачи, и автоматический [SUCCESS] к любым проверкам, выполняемым для передачи через устройство подавления связи.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>COMLINKL</Key>
-    <Name>Comlink (long range)</Name>
+    <Name>Комлинк (дальний диапазон)</Name>
     <Description>
-      [H3]Comlink (long range)[h3]
+      [H3]Комлинк (дальний диапазон)[h3]
 
-A common device found across the galaxy, comlinks come in a variety of forms depending on their function and user. Each allows for audio messaging between two parties though advanced models can transmit multiple users or network groups together. Personal comlinks are often small, hand-held cylinders capable of communicating over distances into low orbit. Some models are built into helmets and armor segments. Longer-range versions are usually carried as large satchels or in backpacks, and can reach across a planet and to ships in high orbit (or even elsewhere in the same star system). Most operate on a standard net of frequencies that can be adjusted as desired to elude detection.</Description>
+Комлинки - распространенное устройство во всей галактике, которое бывает разных форм в зависимости от функций и пользователей. Каждый из них позволяет обмениваться аудиосообщениями между двумя сторонами, хотя более продвинутые модели могут передавать сообщения нескольким пользователям или сетевым группам одновременно. Ручные комлинки часто представляют собой небольшие ручные цилиндры, способные связываться на расстояниях до низкой орбиты. Некоторые модели встроены в шлемы и сегменты брони. Версии с большим радиусом действия обычно носятся в виде больших сумок или рюкзаков и могут связываться по всей планете и с кораблями на высокой орбите (или даже в других местах той же звездной системы). Большинство из них работают в стандартной сети частот, которые можно настраивать по желанию, чтобы избежать обнаружения.</Description>
     <Sources>
       <Source Page="171">Книга правил: Край Империи</Source>
       <Source Page="186">Книга правил: Эпоха восстания</Source>
@@ -2375,15 +2353,15 @@ A common device found across the galaxy, comlinks come in a variety of forms dep
   </Gear>
   <Gear>
     <Key>COMMJAM</Key>
-    <Name>Comm Jammer</Name>
+    <Name>Подавитель связи</Name>
     <Description>
-      [H3]Comm Jammer[h3]
+      [H3]Подавитель связи[h3]
 
-Where there are people wishing to communicate, there are people wishing to prevent it, and thus there are jammers. Smaller versions can shut out local signals, while others are so powerful as to cut entire planets off from the rest of the galaxy. The Miradyne "Hail" is one of the former, a relatively portable device that can blanket standard comlink frequencies over a quarter-kilometer radius. It can also focus on a single target (such as an individual building) from up to three kilometers away.
+Там, где есть люди, желающие общаться, есть и люди, желающие этому помешать, и поэтому существуют устройства для подавления сигналов. Меньшие по размеру версии могут блокировать локальные сигналы, а другие настолько мощные, что могут отрезать целые планеты от остальной части галактики. Miradyne «Hail» относится к первым, это относительно портативное устройство, которое может блокировать стандартные частоты связи в радиусе 1/4 километра. Оно также может фокусироваться на одной цели (например, отдельном здании) на расстоянии до 3 километров.
 
-[P]Cutting through the noise created by a comm jammer requires a Computers check, with a difficulty proportional to the distance from the jammer and the power of the device. The closer and more powerful the jammer, the harder the difficulty. The "Hail" forces an [B]Average ([DI][DI]) check[b], which becomes more difficult at close ranges (the exact difficulty is up to the GM, but should increase to Hard or Daunting if at medium range or closer to the device).
+[P]Чтобы пробиться через помехи, создаваемые устройством для подавления связи, необходимо выполнить проверку "Компьютеров", сложность которой пропорциональна расстоянию до устройства и его мощности. Чем ближе и мощнее устройство, тем сложнее проверка. «Hail» вызывает [B]Среднюю ([DI][DI]) проверку[b], которая становится более сложной на близких дистанциях (точная сложность определяется ГМ, но должна увеличиваться до «Сложной» или «Пугающей», если дистанция средняя или ближе к устройству).
 
-[P][B]Models Include:[b] Miradyne 1 x-Hail Comm Jammer.</Description>
+[P][B]Модели включают:[b] Подавитель связи Miradyne 1 x-Hail.</Description>
     <Sources>
       <Source Page="178">Книга правил: Край Империи</Source>
       <Source Page="194">Книга правил: Эпоха восстания</Source>
@@ -2395,7 +2373,7 @@ Where there are people wishing to communicate, there are people wishing to preve
     <Type>Security/Espionage</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>To break through the jamming, must make a Computers check as determined by GM.  The closer the jammer is to the source, the harder the check will be.</MiscDesc>
+        <MiscDesc>Чтобы пробиться через помехи, необходимо выполнить проверку на компьютеры, как определит ГМ. Чем ближе источник помех, тем сложнее будет проверка.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
@@ -2543,7 +2521,7 @@ the coils to temperatures suitable for smokeless cooking. The device can gather 
 sustain one person, and its battery lasts six months.</Description>
     <Sources>
       <Source Page="54">Дополнение: Закаленные в битве</Source>
-      <Source Page="50">Knights of Fate</Source>
+      <Source Page="50">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
@@ -3853,7 +3831,7 @@ Every species and culture has scary stories of monsters with supernatural powers
       [H3]Demolitions Tool Kit[h3]
 An essential part of any explosive ordnance disposal (EOD) trooper's gear, this kit is small (roughly thirteen centimeters long closed) and constructed of nonreactive, nonconductive materials. When it is unfolded, myriad specialized tools designed for working with explosives are revealed. A typical version contains a pair of pliers, cutters for both stranded and fuse wire, a cap crimper, multiple cutting blades, an electrical crimper, and a blasting cap crimper. In addition, many of them feature extensions that function as small hammers, carbon scrapers, bit drivers, detonite punches, and various other demolitions-related implements. While this item is not as comprehensive and effective as a full EOD tool kit, it still provides the essential tools needed to properly and safely work With explosive devices and compounds in a small and convenient package.
 [P]A demolitions tool kit counts as a tool kit for checks involving preparing, setting, or defusing explosives. When using it for these checks, the wielder may spend [AD][AD][AD][AD] to remove [DE].</Description>
-    <Source Page="47">Fully Operational</Source>
+    <Source Page="47">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
     <Price>400</Price>
@@ -3952,7 +3930,7 @@ These shaped detonite charges are favored for sabotage missions and clandestine 
       [H3]Draxton DF-15 Medium-Yield Fusion Generator[h3]
 The DF-15 is a small fusion generator designed to power worksites or small buildings. It is a small cube roughly half a meter square with a number of universal power couplings on each face. The unit is surrounded by a sturdy frame made of bent alloy tubing that provides protection and handles for easy carrying. It is lightweight, quiet, and efficient and provides clean, stable power for up to ten years.
 [P]As a maneuver, a character may use a DF-15 to recharge an energy weapon or device that has run out of power or ammunition in the manner of an extra reload/power pack.</Description>
-    <Source Page="47">Fully Operational</Source>
+    <Source Page="47">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
     <Price>550</Price>
@@ -4155,7 +4133,7 @@ is slowly changing, however, as the Alliance Military
 becomes more organized and uniform guidelines filter
 down from High Command.
     </Description>
-    <Source Page="44">Lead by Example</Source>
+    <Source Page="44">Дополнение: Лидерство на примере</Source>
     <Custom>DescOnly</Custom>
     <Price>100</Price>
     <Encumbrance>1</Encumbrance>
@@ -4262,14 +4240,14 @@ The most frequently encountered droid of this type is the Bl battle droid produc
     <Description>[H3]ASP-19 Battle Droid[h3]
 Industrial Automaton's ASP-19 was a popular sparring droid among Jedi during the waning years of the Republic. Developed from ASP-series labor droids, the ASP-19 is a surprisingly capable melee fighter equipped with a sophisticated combat computer that can be programmed to approximate different Jedi fighting styles. In addition, the difficulty of the ASP-19's training routines can be adjusted up or down to better match the abilities of the trainee. The Jedi Order used these droids for training Jedi of all levels, from the greenest Padawan to the most venerated Jedi Master, and they were ubiquitous at the order's various temples and training facilities. While they were relatively simpleminded and programmed with subroutines that prevented them from killing, ASP-19s were occasionally pressed into service to protect their temples.
 [P]ASP-19s are tall, burly constructs with broad shoulders and long limbs. Standing just over two meters tall, they are deceptively quick and possess a raw strength born out of their labor droid roots. Unlike typical battle droids, the ASP-19 is optimized for up-close, hand-to-hand combat instead of ranged fighting. To that end, they are equipped with a retractable vibroblade in one arm and a training lightsaber in the other. What little personality they have is limited to discussion of fighting forms and spouting platitudes about the dignity and honor of dueling. Since they were discontinued nearly four decades ago, ASP-19s are extremely rare and are often destroyed on sight by Imperial personnel. Those that survive, like the scattered remnants of the Jedi Order they once served, remain hidden on backwater worlds or in long-lost Jedi temples.</Description>
-    <Source Page="51">Knights of Fate</Source>
+    <Source Page="51">Дополнение: Рыцари судьбы</Source>
     <Custom>DescOnly</Custom>
     <Price>80000</Price>
     <Restricted>true</Restricted>
     <Encumbrance>0</Encumbrance>
     <Rarity>9</Rarity>
     <Type>Droids</Type>
-    <AdvImportPath>Knights of Fate\Droids\ASP-19 Battle Droid - Nemesis.xml</AdvImportPath>
+    <AdvImportPath>Дополнение: Рыцари судьбы\Droids\ASP-19 Battle Droid - Nemesis.xml</AdvImportPath>
   </Gear>
   <Gear>
     <Key>DROIDASSASIN</Key>
@@ -4369,14 +4347,14 @@ The new All-Terrain Exploration Droid by Cybot Galactica is designed to assist i
 Produced by Baktoid Fleet Ordnance, these sturdy droids toil away in military hangars and motor pools, loading, unloading, and maintaining ordnance and ordnance delivery systems. Anything from common shoulder-fired missile tubes to sophisticated starship proton torpedo launchers lies within their purview. They are programmed with an exhaustive knowledge of the various specialized information required to work with heavy ordnance.
 [P]These droids are very simply and sturdily constructed, with a tapering, rectangular, slab-sided body covered in thick ferroceramic armor. Their powerful arms can extend to three meters and are equipped with broad, grasping claws. Three smaller, retractable arms with dexterous fingers are mounted in the droid's chest for delicate work or tool manipulation.
 [P]Most BT-series droids, especially those that receive regular maintenance and memory wipes, have a very stiff and business-like attitude. BT droids that develop personalities tend to be cavalier and jocular, with a daredevil, risk-taking attitude-especially when dealing with explosives-that makes their colleagues extremely nervous. Some BT-series droids in military service with the Alliance are programmed with the skills to perform explosive ordnance disposal duties and serve in various combat engineering units.</Description>
-    <Source Page="49">Fully Operational</Source>
+    <Source Page="49">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
     <Price>13500</Price>
     <Restricted>true</Restricted>
     <Encumbrance>0</Encumbrance>
     <Rarity>6</Rarity>
-    <AdvImportPath>Fully Operational\Droids\BT-Series Ordnance Droid - Rival.xml</AdvImportPath>
+    <AdvImportPath>Дополнение: Полная оперативность\Droids\BT-Series Ordnance Droid - Rival.xml</AdvImportPath>
   </Gear>
   <Gear>
     <Key>DROIDCAM</Key>
@@ -4499,14 +4477,14 @@ The E522 is one of the most feared droids operating in the galaxy today. These b
 VeriI Line Systems' EG-6 units are the most common class five droids in the galaxy. Essentially walking fusion reactors, these droids were designed to provide power wherever it is needed. Thanks to being monotask droids, they have little in the way of personality. This is exacerbated by the fact that these droids can only communicate in droid and computer languages.
 [P]EG-6 droids have a squat, bipedal form and chassis reminiscent of two ziggurats mounted together at the base. They are surprisingly heavily armored and shielded. A busy control panel full of switches, light power couplings, and a handful of sensor lenses makes up what passes for a face. They do possess a small, meter-long retractable manipulator arm in the center of their front panel; it is rarely used, though, and many owners have no idea the droids have them.
 [P]These droids carry a medium fusion reactor good for recharging vehicles or providing power to small buildings or installations. They are also equipped with a powerful sensor suite that includes a spectrometer, a multi-spectral scanner, and a power diagnostics package that allows them to diagnose and repair power systems.</Description>
-    <Source Page="49">Fully Operational</Source>
+    <Source Page="49">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
     <Price>3800</Price>
     <Restricted>false</Restricted>
     <Encumbrance>0</Encumbrance>
     <Rarity>2</Rarity>
-    <AdvImportPath>Fully Operational\Droids\EG-6 Power Droid - Minion.xml</AdvImportPath>
+    <AdvImportPath>Дополнение: Полная оперативность\Droids\EG-6 Power Droid - Minion.xml</AdvImportPath>
   </Gear>
   <Gear>
     <Key>DROIDEODMKIV</Key>
@@ -4514,14 +4492,14 @@ VeriI Line Systems' EG-6 units are the most common class five droids in the gala
     <Description>
       [H3]EOD-Mk IV Explosives Disposal Remote[h3]
 EOD-Mk IV remotes are produced by Industrial Automaton for use in construction, demolitions, and explosive ordnance disposal (EOD) applications. These small, spherical remotes are designed to be operated from afar via a datapad that allows a user to maneuver the remote in to tight spaces and see through its array of multi-optic sensors. They are equipped with two manipulator arms and a built-in EOD tool kit that an operator can use remotely to disarm explosive devices. An on-board demolitions scanner can detect explosive compounds and devices to assist the operator in locating hidden demolitions items. They are also equipped with a small demolitions charge to remotely detonate an explosive device should it be impractical or too difficult to disarm. While they are usually operated by a qualified EOD or demolitions operator, EOD-Mk IV remotes can operate autonomously, traveling in groups with preprogrammed orders.</Description>
-    <Source Page="50">Fully Operational</Source>
+    <Source Page="50">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
     <Price>500</Price>
     <Restricted>true</Restricted>
     <Encumbrance>0</Encumbrance>
     <Rarity>6</Rarity>
-    <AdvImportPath>Fully Operational\Droids\EOD-Mk IV Explosives Disposal Remote - Minion.xml</AdvImportPath>
+    <AdvImportPath>Дополнение: Полная оперативность\Droids\EOD-Mk IV Explosives Disposal Remote - Minion.xml</AdvImportPath>
   </Gear>
   <Gear>
     <Key>DROIDFIRE</Key>
@@ -4563,14 +4541,14 @@ A highly specialized maintenance droid, fire suppression droids perform the sing
 These burly-looking class five droids from Veril Line Systems are the latest in a long line of construction droids dating back to the ancient AM-Mk II used in the mid-Republic era. They stand two meters tall and have broad shoulders, a narrow waist, and powerful legs and arms that are packed with an on-board suite of construction tools.
 [P]GT-series droids are relatively smart. Their construction and engineering programming allows these droids to carry out all common functions on a construction site, from basic labor to planning, problem solving, logistical tasks, and supervising other construction droids. They can even interface with VLS's I-C4a combat construction droid and are often used to replace that machine's organic crew.
 [P]These droids are overall quietly competent, going about the business of following orders and carrying out construction plans with little fuss. Those that have developed personalities, such as the ones that serve with Alliance engineering units in the field, enjoy working with organics. On a job site, they are quiet and focused, but off the clock they tend to be garrulous and occasionally didactic.</Description>
-    <Source Page="50">Fully Operational</Source>
+    <Source Page="50">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
     <Price>17500</Price>
     <Restricted>false</Restricted>
     <Encumbrance>0</Encumbrance>
     <Rarity>4</Rarity>
-    <AdvImportPath>Fully Operational\Droids\GT-Series Construction Droid - Rival.xml</AdvImportPath>
+    <AdvImportPath>Дополнение: Полная оперативность\Droids\GT-Series Construction Droid - Rival.xml</AdvImportPath>
   </Gear>
   <Gear>
     <Key>DROIDGUARDPOL</Key>
@@ -5061,14 +5039,14 @@ The RA-7 series is the Galactic Empire's go-to choice for protocol and espionage
 RH-series research droids are a small-run series of science droids produced by Cybot Galactica. A variant of the company's 2R-series medical droid, they were designed to act as a combination research assistant and walking database for field scientists on research missions. Only a few thousand of these droids were produced, as they proved unpopular in the scientific community. Most of those produced are still active, though. They are commonly found working in farflung laboratories carrying out experiments that are too dangerous for organics or assisting in the same. Occasionally, they can even be found leading biological, anthropological, or archaeological field research.
 [P]RH-series droids stand just shy of two meters tall, with a basic humanoid chassis covered in thick, protective plasteel plates. Their hands are packed with various manipulators, tools, probes, lights, and other small devices that allow the droids to carry out numerous scientific and research functions. They have a flat, oval-shaped head dominated by a single curving sensor window that resembles a helmet visor. RH-series droids are relatively agile and surefooted for droids, and they require little maintenance to keep running.
 [P]These droids have a reputation for reliability-both mechanical and personal-while working in the field. They are detail oriented, are often work-obsessed, and can be fussy or develop various compulsive behaviors if they go too long between memory wipes. Alliance R&amp;D makes use of many RH-series droids, as do many freelance scientists and scholars the Alliance employs to discover new planets and make contact with new species.</Description>
-    <Source Page="51">Fully Operational</Source>
+    <Source Page="51">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
     <Price>11000</Price>
     <Restricted>false</Restricted>
     <Encumbrance>0</Encumbrance>
     <Rarity>8</Rarity>
-    <AdvImportPath>Fully Operational\Droids\RH-Series Research Droid - Rival.xml</AdvImportPath>
+    <AdvImportPath>Дополнение: Полная оперативность\Droids\RH-Series Research Droid - Rival.xml</AdvImportPath>
   </Gear>
   <Gear>
     <Key>DROIDRM</Key>
@@ -5160,14 +5138,14 @@ more human than its predecessor, while retaining some obvious Verpine characteri
 SR-series droids are produced by TransTech Droidworks for use as scouts and forward observers. Based on TTD'S civilian S-series survey droid, the SR-series was designed primarily to assist artillery and close air support units by seeking out distant targets and relaying location and targeting data back to base.
 [P]SRs are small, unassuming, non-humanoid droids with a dome-shaped body studded with photoreceptors and long-range targeting systems. The underside of the droid's body houses a small, high-output repulsorlift generator and four retractable manipulators for fine-detail work. Their bodies are coated with an optical camouflage system that allows them to blend in with their surroundings, and they have an encrypted, long-range comms suite that allows them to transmit voice and data quickly and securely to allies.
 [P]When in the field scouting or observing targets, SR-series droids are almost completely silent. Once back at base, however, they tend to chatter away endlessly at anyone unlucky enough to be in earshot This is especially pronounced following an extended deployment.</Description>
-    <Source Page="52">Knights of Fate</Source>
+    <Source Page="52">Дополнение: Рыцари судьбы</Source>
     <Custom>DescOnly</Custom>
     <Price>13000</Price>
     <Restricted>true</Restricted>
     <Encumbrance>0</Encumbrance>
     <Rarity>6</Rarity>
     <Type>Droids</Type>
-    <AdvImportPath>Knights of Fate\Droids\SR-Series Scout_Observation Droid - Rival.xml</AdvImportPath>
+    <AdvImportPath>Дополнение: Рыцари судьбы\Droids\SR-Series Scout_Observation Droid - Rival.xml</AdvImportPath>
   </Gear>
   <Gear>
     <Key>DROIDSTONEGUARD</Key>
@@ -5264,7 +5242,7 @@ systems and personality patches that reined in some
 of their worst traits. Very few T-series tactical droids
 are in service today, and those that are serve among
 the officer corps of the Alliance Military.</Description>
-    <Source Page="45">Lead by Example</Source>
+    <Source Page="45">Дополнение: Лидерство на примере</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
     <Categories />
@@ -5275,7 +5253,7 @@ the officer corps of the Alliance Military.</Description>
     <Restricted>true</Restricted>
     <BaseMods />
     <WeaponModifiers />
-    <AdvImportPath>Lead by Example\Droids\T-Series Tactical Droid - Rival.xml</AdvImportPath>
+    <AdvImportPath>Дополнение: Лидерство на примере\Droids\T-Series Tactical Droid - Rival.xml</AdvImportPath>
   </Gear>
   <Gear>
     <Key>DROIDTTS20</Key>
@@ -5316,14 +5294,14 @@ the officer corps of the Alliance Military.</Description>
     <Name>WSW Mk III "Harrier" Combat Remote</Name>
     <Description>[H3]WSW Mk III "Harrier" Combat Remote[h3]
 The WSW Mk III "Harrier" is a combat and training remote produced by Cybot Galactica . Roughly a meter across, these small droids are near-mindless drones that resemble small, stylized airspeeders. Shockingly aggressive and quite dangerous in groups, these constructs are deployed in en masse to overwhelm a target by sheer force of numbers. Even a single Harrier is a dangerous opponent, as it is quick and remarkably heavily armed, with a custom repeating blaster. Harriers can also be used as training remotes, as they possess built-in training software and a stun blaster that is used in place of the more lethal repeating blaster.</Description>
-    <Source Page="52">Knights of Fate</Source>
+    <Source Page="52">Дополнение: Рыцари судьбы</Source>
     <Custom>DescOnly</Custom>
     <Price>6000</Price>
     <Restricted>true</Restricted>
     <Encumbrance>0</Encumbrance>
     <Rarity>6</Rarity>
     <Type>Droids</Type>
-    <AdvImportPath>Knights of Fate\Droids\WSW Mk III _Harrier_ Combat Remote - Minion.xml</AdvImportPath>
+    <AdvImportPath>Дополнение: Рыцари судьбы\Droids\WSW Mk III _Harrier_ Combat Remote - Minion.xml</AdvImportPath>
   </Gear>
   <Gear>
     <Key>DTSDISMANTLER</Key>
@@ -5486,7 +5464,7 @@ Designed to encode messages sent over comlink or via subspace, encryption module
       [H3]Engineer's Hammer[h3]
 An engineer's hammer is an all-purpose construction and demolitions tool. It has a meter-long, reinforced plasteel haft capped at one end with a heavy sledgehammer head and at the other with a prybar. It is typically used to breach doorways, destroy walls, pull down fixtures, and generally destroy structures by hand. It can also, in a pinch, be used as a melee weapon, a common occurrence with Alliance engineering units.
 [P]Using an engineer's hammer adds [BO][BO] to any checks made to build or demolish structures. When used as a weapon, it has the following profile: Melee; Damage + 3; Critical 5; Range (Engaged); Cumbersome 3, Disorient 1, Knockdown.</Description>
-    <Source Page="47">Fully Operational</Source>
+    <Source Page="47">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
     <Price>350</Price>
@@ -5539,7 +5517,7 @@ In appearance and function, this useful tool is little more than a small shovel 
     <Sources>
       <Source Page="59">Дополнение: Опасные союзы</Source>
       <Source Page="54">Дополнение: Закаленные в битве</Source>
-      <Source Page="50">Knights of Fate</Source>
+      <Source Page="50">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
@@ -5578,7 +5556,7 @@ In appearance and function, this useful tool is little more than a small shovel 
       [H3]Explosive Ordnance Disposal (EOD) Kit[h3]
 Disarming and disposing of explosive compounds, devices, and military-grade ordnance is a tricky business. It requires steady nerves, immense skill, and the proper tools. An EOD kit is perfect for such efforts, as it contains tools expressly designed for this dangerous line of work. A kit typically contains a specialized demolitions multitool, a small hand scanner, a borescope with a holographic display, and various hand tools and cutting implements. All of the items in an EOD kit are constructed of nonreactive, nonconductive materials to prevent the generation of static electricity or sparks that could set off explosive devices and compounds. Many Engineers and EOD troopers augment their basic kit with a handful of EOD remotes, a powerful engineering scanner, and various other tools to assist them in their work.
 [P]An EOD kit adds automatic [AD][AD] on any checks made to detect and disarm or otherwise neutralize explosive compounds and devices.</Description>
-    <Source Page="48">Fully Operational</Source>
+    <Source Page="48">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
     <Price>400</Price>
@@ -6068,7 +6046,7 @@ For those who are serious about keeping their identity unknown, fingerprint masq
       [H3]Foamcast[h3]
 Foamcast is the commonly used term for a type of quicksetting aerosol foam found in construction and building maintenance. It comes in a tall can with a trigger-activated applicator, and a long, narrow tube provided with each can allows for precision application. When sprayed into a crack, dent, hole, or other space,  foamcast expands and then quickly hardens. Once dry, a foamcast patch is nearly indistinguishable from its surroundings and has all the strength and wearability of plascrete. Foamcast can also be poured into molds to make light obstacles and temporary shelters.
 [P]Foamcast adds [BO] to checks to repair structures and vehicle hulls. The GM may spend [TH] on such checks to indicate the foamcast dispenser can is depleted. A can of foamcast can be made into an improvised explosive with a [B]Hard ([DI][DI][DI]) Mechanics check[b]. When used in this way, a can of foamcast has the following profile: Mechanics; Damage 4; Critical 5; Range (Short); Blast 4, Ensnare 4, Inferior, Prepare 2. [FA] on the Mechanics check means the can ruptures and covers the user in foamcast.</Description>
-    <Source Page="44">Fully Operational</Source>
+    <Source Page="44">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Construction/Salvage Tools</Type>
     <Price>25</Price>
@@ -8343,7 +8321,7 @@ Developed as a civilian alternative to the Merr-Sonn VX Hands-Free Weapon System
 [P]An intelligent toolbox counts as a tool kit (see pages 181-182 of the [B]Edge of The Empire[b] Core Rulebook).</Description>
     <Sources>
       <Source Page="52">Дополнение: Особые модификации</Source>
-      <Source Page="48">Fully Operational</Source>
+      <Source Page="48">Дополнение: Полная оперативность</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>2500</Price>
@@ -9312,7 +9290,7 @@ described there.</Description>
       [H3]Mine Detector[h3]
 Mine detectors are specialized handheld scanners designed to locate buried or concealed anti-personnel and anti-vehicle mines. The simplest mine detectors are sensitive metal detectors that use a magnetic field to locate mines. More advanced models use technologies including ground-penetrating radar, ultrasound emitters, chemical sniffers, and the like.
 [P]Using a mine detector to locate concealed mines requires a [B]Hard ([DI][DI][DI]) Computers[b] or [B]Average ([DI][DI]) Vigilance check[b] with appropriate modifications for environmental conditions such as weather, flora, rough terrain, or the composition of the ground. On a successful check, all mines and other explosive devices within medium range are revealed to the user.</Description>
-    <Source Page="46">Fully Operational</Source>
+    <Source Page="46">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Detection/Surveillance Devices</Type>
     <Price>350</Price>
@@ -9356,7 +9334,7 @@ The Model 40 field repulsor hoist began life as a field-expedient (aka jury-rigg
 be moved, towed, and repaired more easily. The first field repulsor hoist (FRH) was little more than a handful of mismatched repulsor coils mated to some magnetic work clamps and controlled by a homemade control box. It soon spread to motor pools and bases throughout the sector as Sgt. Alexakis worked to perfect it. Eventually, after coming to the attention of Alliance Military R&amp;D, the final version of the device was put into production as the Model 40.
 [P]Production hoists consist of a set of six fist-sized lifting units that contain a repulsor coil, a power cell, and either a powerful magnet or a multi-adhesive pad. The lifting units are packed in to a shock-resistant, environmentally sealed carrying case along with a handheld control unit. To use the Model 40, an engineer simply attaches the lifting units to a vehicle or machine. Using the control unit, the trooper can move or lift the vehicle safely and effortlessly.
 [P]The Model 40 can lift a vehicle as large as silhouette 4 up to two meters off the ground. When suspended, the vehicle can be pushed, pulled, or rotated (slowly) in any direction via an Athletics check with a difficulty equal to the vehicle's silhouette.</Description>
-    <Source Page="44">Fully Operational</Source>
+    <Source Page="44">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Construction/Salvage Tools</Type>
     <Price>550</Price>
@@ -9924,7 +9902,7 @@ Carried by doctors and healers on backwater worlds, physician's kits are bigger 
       [H3]Pioneer Squad Tool Kit[h3]
 A pioneer squad tool kit is a collection of gear essential for land-clearing and building-construction efforts. Packed into the six impact-resistant carrying cases is a variety of tools and gear that aid Alliance combat engineering squads in the construction of fighting positions, vehicle and infantry obstacles, ports, bases, and airfields. A standard complement includes shovels, axes, prybars, picks, vibrosaws, powered fastener drivers, collapsible ladders, repulsor hoists, glow rods, high-powered work lights, laser distancers and levels, climbing and rappelling gear, machetes, a portable power generator, and various safety gear.
 [P]The tools and equipment included in a pioneer squad tool kit adds [BO][BO] on checks made to clear land, build structures, set up obstacles, set up or disable explosives, or engage in other construction or engineering tasks in the field.</Description>
-    <Source Page="48">Fully Operational</Source>
+    <Source Page="48">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
     <Price>4000</Price>
@@ -10038,7 +10016,7 @@ For most armies, power is just as important as ammunitition, food and bandages. 
 The Portable Survival Shelter by Gandorthral Atmospherics is a marvel of modern materials science and survival technology. Common throughout the galaxy, especially among sportsmen and explorers, the PSS is a collapsible, one-person shelter packed with advanced life-sustaining equipment. Made of sturdy textiles and supported by a unique flexible internal frame, it packs easily, sets up quickly, and provides more than adequate protection from even the harshest environments. The advanced textiles that compose the structure have a natural heat-exchanging property that keeps the interior of the shelter at a constant comfortable temperature no matter what the external temperature is. The shelter is weatherproof, and a special foil-fiber mesh is woven into the fabric that makes it flameproof and able to withstand lightning strikes. portable survival shelters are also equipped with a water-reclamation system that is designed to double a user's carried water supplies. When stowed, these items are about the size of a large datapad and pack easily in a backpack, pannier, or shoulder bag. Unfolding the shelter makes it spring immediately to shape, and within the span of a minute it is ready for use.</Description>
     <Sources>
       <Source Page="49">Дополнение: Шаг в неизвестность</Source>
-      <Source Page="50">Knights of Fate</Source>
+      <Source Page="50">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
@@ -10056,7 +10034,7 @@ The Portable Survival Shelter by Gandorthral Atmospherics is a marvel of modern 
       [H3]Powered Entrenching Tool[h3]
 Essentially a small folding shovel at the end of a short plasteel haft containing a powerful pistoning mechanism, this tool can be used to forcefully dig holes and trenches as well as level areas for construction. The serrated blades cast into the sides also allow it to slice through heavy brush and obstacles. It's rare for a combat engineer not to possess at least one of these extremely versatile tools.
 [P]A character using a powered entrenching tool gains automatic [SU] on checks to build structures.</Description>
-    <Source Page="48">Fully Operational</Source>
+    <Source Page="48">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
     <Price>625</Price>
@@ -10162,7 +10140,7 @@ Personal stealth fields, as the name suggests, are miniaturized stealth fields t
 Power fences are specialized shield emitters designed to provide perimeter protection for civilian and military installations. Power fences all have a field generator at their heart. Similar to shield generators found on starships, power fence generators produce a wall of energy that prevents objects and energy beams from passing through it. Each generator is hooked up to a series of thin durasteel amplifier pylons with flared stresscrete bases that come in heights of up to five meters. Once activated, the generators produce walls of crackling, translucent, blue-white energy that extend between the pylons, creating a solid barrier. Power fences are typically flanked with an alloy or plascrete gate, vehicle obstacles, and weapon emplacements to provide perimeter security at both Alliance and Imperial military installations.
 [P]The PSF Mk III power fence by DefenStar Ltd. is a popular small-scale power fence perfect for defending small platoon or company-sized installations. It comes complete with a high-output PFL-99 Barricade power fence generator and twenty amplification pylons, each four meters tall.
 [P]Power fences can be destroyed by either attacking the energy walls with ion weapons or by attacking the amplification pylons with regular energy or slugthrowing weapons. When attacked, power fences have the following profile: Defense 2, Armor I, Wound Threshold (pylons) 15, Strain Threshold (energy wall) 20.</Description>
-    <Source Page="44">Fully Operational</Source>
+    <Source Page="44">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
     <Price>10000</Price>
@@ -10667,7 +10645,7 @@ centimeters in length in the same color and pattern as
 the ribbon on the full-sized medal. These smaller ribbons
 slot into the ribbon rack and can be easily rearranged as
 the wearer gains more commendations.</Description>
-    <Source Page="44">Lead by Example</Source>
+    <Source Page="44">Дополнение: Лидерство на примере</Source>
     <Custom>DescOnly</Custom>
     <Price>15</Price>
     <Encumbrance>0</Encumbrance>
@@ -10736,7 +10714,7 @@ Riding tack is a catchall term for the assorted bits of equipment needed to ride
     <Description>[H3]RLR-331 Rocket[h3]
 Kelvarek Consolidated Arms' RLR-331 is a Clone Wars-era weapon popular with mercenaries and insurgents throughout the galaxy. Remarkably similar in appearance to Baktoid Armor Workshop's E-5 blaster rifle-a fact that, during its heyday, did not go unnoticed by Baktoid's powerful legal department-the RLR-331 is a bulky weapon with a squat, squared-off barrel. It launches small guided rockets from a detachable magazine. Originally sold in bulk to the Confederacy of Independent Systems, Bulldogs were carried by heavy-support B1 battle droids as anti-materiel and light anti-armor weapons. They were used to great effect against the Grand Army of the Republic's heavily armored clone troopers and fighting vehicles, and gained a fearsome reputation among the CIS's foes.
 [P]Rockets for the RLR-331 cost 100 credits each and have a rarity of 5.</Description>
-    <Source Page="41">Knights of Fate</Source>
+    <Source Page="41">Дополнение: Рыцари судьбы</Source>
     <Custom>DescOnly</Custom>
     <Type>Reloads/Ammo</Type>
     <Categories />
@@ -10915,7 +10893,7 @@ A combat scanner is a sophisticated optics and sensor array designed for militar
 [P]The Mark 6 offers some of the features of a general purpose scanner, scanner goggles for night-vision capability, and a corn scrambler. This means it allows the user to see normally in dark conditions, can be set to track motion, heat, and metal, and adds [SE][SE] to any checks made to attempt to decode and understand transmissions from the combat scanner to other combat scanners.</Description>
     <Sources>
       <Source Page="56">Дополнение: Опасные союзы</Source>
-      <Source Page="49">Knights of Fate</Source>
+      <Source Page="49">Дополнение: Рыцари судьбы</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Detection/Surveillance Devices</Type>
@@ -11040,7 +11018,7 @@ Breaking into a facility secured with an electronic lock usually requires a know
       [H3]CryonCorp SE-90 Structural Engineering Scanner[h3]
 The SE-90 from CryonCorp is ubiquitous in construction and engineering. Roughly the size of CryonCorp's EnhanceScan general purpose scanner, the SE-90 is designed for inspecting existing structures. Using an SE-90, an engineer can determine the materials used to build a structure and see through walls to the hidden structures within. It can detect stress fractures and weak points, concealed armor and reinforced sections, conduits, hidden spaces, and the like.
 [P]Using an SE-90 requires an [B]Average ([DI][DI]) Computers check[b] modified according to construction materials and environmental interference per the GM's discretion. A character who succeeds can see through walls or bulkheads up to short range until the end of the encounter or the scanner is moved.</Description>
-    <Source Page="46">Fully Operational</Source>
+    <Source Page="46">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Detection/Surveillance Devices</Type>
     <Price>675</Price>
@@ -11231,7 +11209,7 @@ Also called "Bith hiding cubes," these transparisteel cubes are about three-quar
       [H3]Shipboard Systems Scanner[h3]
 Even the smallest, simplest starship has a staggering number of computer-controlled on-board systems. A shipboard systems scanner is used to connect to specific systems aboard a starship to properly diagnose any problems or failures. A typical scanner is the size of a common datapad. Once jacked into a shipboard system-a fire control computer, for example, or an on-board diagnostic computer-the scanner can read any error codes, trace circuits, and even detect prefailure states.
 [P]A shipboard system scanner removes [SE] from checks to remove system strain from starships and vehicles.</Description>
-    <Source Page="46">Fully Operational</Source>
+    <Source Page="46">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Detection/Surveillance Devices</Type>
     <Price>145</Price>
@@ -12101,7 +12079,7 @@ Surveyor's bags are made by numerous companies and are marketed to the men and w
       [H3]Surveyor's Equipment[h3]
 The first step in building anything on a planet is a good land survey, so most Alliance engineers are trained in equipment to aid in this task. Basic surveyor gear is often little more than a laser measurement system for calculating distance, macrobinoculars, a device for determining the position and movement of stars, a length of chain, and a compass. More advanced sets include various ground and terrain scanners, survey remotes, specialized hand tools, seismic recorders, and all manner of esoteric equipment.
 [P]Surveyor's equipment adds [BO][BO] to a character's Perception checks when determining locations on a planet's surface, measuring distances, plotting settlements or bases, and creating detailed planetary maps.</Description>
-    <Source Page="46">Fully Operational</Source>
+    <Source Page="46">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Detection/Surveillance Devices</Type>
     <Price>700</Price>
@@ -12200,7 +12178,7 @@ and the Commander is rarely found without it.
 carrying a symbol of command add [BO] to all Social
 skill checks made to interact with others brought up
 in their particular military culture.</Description>
-    <Source Page="44">Lead by Example</Source>
+    <Source Page="44">Дополнение: Лидерство на примере</Source>
     <Custom>DescOnly</Custom>
     <Price>100</Price>
     <Encumbrance>1</Encumbrance>
@@ -12670,7 +12648,7 @@ The Thunderhead Portable Entertainment System (PES) is a full suite of tools and
       [H3]Tool Belt[h3]
 Tool belts come in a variety of styles tailored to specific jobs. While they vary wildly in construction, size, and layout. they all have a number of basic features in common. Basic tool belts have multiple pouches, loops. hooks, and straps for carrying necessary tools and materials such as nails, bolts, gloves, tape, marking pens, and other items an Engineer needs at hand on a job site. Unlike bulky toolboxes, tool belts carry only the necessities. Users each typically have their own unique way of organizing their belt.
 [P]The wearer counts as having a tool kit. Once per encounter, the wearer may draw a tool from the tool belt as an incidental.</Description>
-    <Source Page="45">Fully Operational</Source>
+    <Source Page="45">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Carrying/Storage</Type>
     <Price>500</Price>
@@ -12757,7 +12735,7 @@ Widely available from a variety of manufacturers such as TaggeCo, Goseia Heavy I
 Many Warriors wear weighted bracers or anklets when training. This added weight and resistance not only helps the Warrior to build muscle, but also better prepares them to fight in difficult circumstances such as high-gravity environments. High-end models may incorporate an onboard computer that tracks the user's activity and even sets fitness goals. Some Warriors wear training weights in decidedly real-and potentially lethal-combat situations, although this contradicts all manufacturer specifications.
 [P]A character wearing one or more training weights adds [SE] to all Brawn- and Agility-based checks, and to all combat checks. If a character wears training weights throughout a game session, increase the amount of XP the character receives for the session by 1. At the GM's discretion, a character wearing training weights may not receive this additional XP if they did not make any checks affected by the weights during the session.
 [P][B]Models Include:[b] TaggeCo TruFit System, Sidyne M2 Smart-trainer.</Description>
-    <Source Page="50">Knights of Fate</Source>
+    <Source Page="50">Дополнение: Рыцари судьбы</Source>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
     <Categories />
@@ -13066,7 +13044,7 @@ Vessel implants are small, subdermal data storage implants that Couriers and Sle
       [H3]Vibro-Pickaxe[h3]
 Vibro-pickaxes are heavy-duty tools used for excavation and demolition. Common throughout the galaxy, these tools have a meter-long reinforced polycarbonate haft capped by a strong forged plasteel head. The two-sided head of the tool features a long, curved pick on one side and a broad, flat horizontal blade on the other. While they are excellent tools for general construction, vibro-pickaxes can also be used as weapons in an emergency.
 [P]A vibro-plckaxe requires two hands to use and adds automatic [BO] to checks involving breaking rocks, ground clearing, and similar activities. When used as a weapon, it has the following profile: Melee; Damage +2; Critical 2: Range [Engaged); Cumbersome 4, Pierce 3, Sunder, Vicious 1.</Description>
-    <Source Page="48">Fully Operational</Source>
+    <Source Page="48">Дополнение: Полная оперативность</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
     <Price>650</Price>
