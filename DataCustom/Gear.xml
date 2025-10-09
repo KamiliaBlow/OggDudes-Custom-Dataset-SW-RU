@@ -1740,7 +1740,7 @@ Tri-Planetary Atmospherics (TPA) - небольшая компания, зани
     <Description>[H3]Биосканер[h3]
 Проверка личности цели имеет решающее значение для получения вознаграждения за любую поимку. Умный охотник за головами делает это до того, как связывается со спонсором награды. Биосканер - это устройство, которое сканирует живые организмы, а также проверяет их физическое строение на наличие аномалий и идентификаторов. Биометрические данные можно сравнить с другим образцом или записью, полученной ранее.
 [P]Использование биосканера для сканирования области на наличие признаков жизни добавляет [BO] к любым проверкам "Внимания", против "Скрытности". Использование устройства для проверки личности человека требует [B]средней ([DI][DI]) проверки "Компьютеров"[b] и биометрического идентификатора для сравнения. ГМ может изменить эту сложность в зависимости от любых необычных анатомических характеристик вида цели.</Description>
-    <Source Page="53">No Disintegrations</Source>
+    <Source Page="53">Дополнение: Без дезинтеграций</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
     <Categories />
@@ -2353,13 +2353,13 @@ Tri-Planetary Atmospherics (TPA) - небольшая компания, зани
   </Gear>
   <Gear>
     <Key>COMMJAM</Key>
-    <Name>Подавитель связи</Name>
+    <Name>Комм. Подавитель</Name>
     <Description>
-      [H3]Подавитель связи[h3]
+      [H3]Комм. Подавитель[h3]
 
 Там, где есть люди, желающие общаться, есть и люди, желающие этому помешать, и поэтому существуют устройства для подавления сигналов. Меньшие по размеру версии могут блокировать локальные сигналы, а другие настолько мощные, что могут отрезать целые планеты от остальной части галактики. Miradyne «Hail» относится к первым, это относительно портативное устройство, которое может блокировать стандартные частоты связи в радиусе 1/4 километра. Оно также может фокусироваться на одной цели (например, отдельном здании) на расстоянии до 3 километров.
 
-[P]Чтобы пробиться через помехи, создаваемые устройством для подавления связи, необходимо выполнить проверку "Компьютеров", сложность которой пропорциональна расстоянию до устройства и его мощности. Чем ближе и мощнее устройство, тем сложнее проверка. «Hail» вызывает [B]Среднюю ([DI][DI]) проверку[b], которая становится более сложной на близких дистанциях (точная сложность определяется ГМ, но должна увеличиваться до «Сложной» или «Пугающей», если дистанция средняя или ближе к устройству).
+[P]Чтобы пробиться через помехи, создаваемые устройством для подавления связи, необходимо выполнить проверку "Компьютеров", сложность которой пропорциональна расстоянию до устройства и его мощности. Чем ближе и мощнее устройство, тем сложнее проверка. "Hail" вызывает [B]Среднюю ([DI][DI]) проверку[b], которая становится более сложной на близких дистанциях (точная сложность определяется ГМ, но должна увеличиваться до «Сложной» или «Пугающей», если дистанция средняя или ближе к устройству).
 
 [P][B]Модели включают:[b] Подавитель связи Miradyne 1 x-Hail.</Description>
     <Sources>
@@ -2379,13 +2379,13 @@ Tri-Planetary Atmospherics (TPA) - небольшая компания, зани
   </Gear>
   <Gear>
     <Key>COMMMEDMANIP</Key>
-    <Name>Communications Media Manipulator</Name>
+    <Name>Комм. Медиа-манипулятор</Name>
     <Description>
-      [H3]Communications Media Manipulator[h3]
+      [H3]Комм. Медиа-манипулятор[h3]
 
-Professional media producers rely on large studios and high-end equipment to produce content for distribution, but those on the move often require equipment that is compact and portable. For them, Chedak Communications produces an advanced media manipulator suite. Easily installed in a small spaceship or even a larger landspeeder, it enables the user to create, manipulate, and produce a wide variety of media. Whether printing posters or carefully "enhancing" hobos, the media manipulator is the perfect tool for on-the-go media production.
+Профессиональные производители медиа-контента полагаются на большие студии и высококлассное оборудование для производства контента для распространения, но тем, кто находится в постоянном движении, часто требуется компактное и портативное оборудование. Для них компания Chedak Communications производит передовой набор медиа-манипуляторов. Легко устанавливаемый в небольшом космическом корабле или даже в более крупном наземном транспортном средстве, он позволяет пользователю создавать, манипулировать и производить широкий спектр медиа-контента. Будь то печать плакатов или тщательное «улучшение» лэндспидеров, медиа-манипулятор является идеальным инструментом для производства медиа-контента в пути.
 
-[P][B]Models include:[b] Chedak Communications Media Manipulator, NisdiGen Suite 60.</Description>
+[P][B]Модели включают:[b] Медиа-манипулятор Chedak Communications, NisdiGen Suite 60.</Description>
     <Source Page="50">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>400</Price>
@@ -2398,15 +2398,15 @@ Professional media producers rely on large studios and high-end equipment to pro
   </Gear>
   <Gear>
     <Key>COMMSCRAM</Key>
-    <Name>Comm Scrambler</Name>
+    <Name>Комм. Скремблер</Name>
     <Description>
-      [H3]Comm Scrambler[h3]
+      [H3]Комм. Скремблер[h3]
 
-Scramblers are devices used to encrypt communications for privacy or security (or both). They can be affixed onto most comlinks or other similar equipment, and only those with a linked scrambler are able to follow the conversation. Their small size makes them easy to conceal, which is important since they're illegal for civilians to possess on most civilized worlds. Companies like Chedak produce models like the Mark 5 primarily for military or police use, although many end up on the black market.
+Скремблеры - это устройства, используемые для шифрования коммуникаций в целях обеспечения конфиденциальности или безопасности (или и того, и другого). Их можно подключить к большинству комлинков или другому подобному оборудованию, и только те, у кого есть подключенный скремблер, могут следить за разговором. Их небольшой размер позволяет легко их скрыть, что важно, поскольку в большинстве цивилизованных миров их владение гражданскими лицами запрещено законом. Такие компании, как Chedak, производят модели типа Mark 5 в основном для военных или полицейских целей, хотя многие из них в конечном итоге попадают на черный рынок.
 
-[P]Using scramblers adds [SE][SE] to any checks to attempt to decode and understand the transmission.
+[P]Использование скремблеров добавляет [SE][SE] к любым проверкам, чтобы попытаться декодировать и понять передачу.
 
-[P][B]Models Include:[b] Chedak Mark 5 Comm Scrambler. </Description>
+[P][B]Модели включают:[b] Комм. Скремблер Chedak Mark 5. </Description>
     <Sources>
       <Source Page="178">Книга правил: Край Империи</Source>
       <Source Page="194">Книга правил: Эпоха восстания</Source>
@@ -2420,18 +2420,18 @@ Scramblers are devices used to encrypt communications for privacy or security (o
     <Type>Security/Espionage</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Adds [SE][SE] to any attempt to decode and understand a transmission</MiscDesc>
+        <MiscDesc>Добавьте [SE][SE] к любым проверкам, направленных на попытку декодировать и понять передачу</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>COMSCAN</Key>
-    <Name>Com-Scan</Name>
-    <Description>[H3]Com-Scan[h3]
-Nearly every person and vehicle carries a comlink or a transceiver. While most are encrypted at some level—particularly military grade gear—sophisticated sensory apparatuses can detect the act of sending a signal, regardless of its content. If a system is able to identify the transceiver codes from a particular device, that unit can be accurately traced over a great distance, even if the contents of its messages cannot be decrypted.
-[P]Military organizations mount complex and sophisticated com-scans on their capital ships, which are capable of tracing signals even across subspace. More compact eversions, with substantially more limited capabilites, however, may be installed in smaller vehicles, including speeders. These are of greater interest to independent operators, who might need to track the movements of an individual or vehice.
-[P]Using a com-scan, a character can triangulate the location and movement of a known comlink or transceiver with an [B]Average ([DI][DI]) Computers check[b]. The device functions out to close range on planetary scale. Prevailing atmospheric conditions or excessive background signals can reduce its efficacy.</Description>
-    <Source Page="54">No Disintegrations</Source>
+    <Name>Ком-Скан</Name>
+    <Description>[H3]Ком-Скан[h3]
+Практически каждый человек и транспортное средство оснащены комлинком или трансивером. Хотя большинство из них имеют определенный уровень шифрования, особенно военное оборудование, сложные сенсорные устройства могут обнаружить отправку сигнала, независимо от его содержания. Если система способна идентифицировать коды трансивера конкретного устройства, то это устройство можно точно отследить на большом расстоянии, даже если содержание его сообщений не может быть расшифровано.
+[P]Военные организации устанавливают на своих флагманских кораблях сложные и совершенные системы связи, способные отслеживать сигналы даже через подпространство. Однако более компактные устройства с существенно более ограниченными возможностями могут устанавливаться на меньшие транспортные средства, в том числе на спидеры. Они представляют больший интерес для независимых операторов, которым может потребоваться отслеживать передвижения отдельных лиц или транспортных средств.
+[P]Используя ком-скан, персонаж может определить местоположение и движение известного комлинка или трансивера с помощью [B]Средней ([DI][DI]) проверки "Компьютеров"[b]. Устройство работает на близком расстоянии в планетарном масштабе. Преобладающие атмосферные условия или чрезмерные фоновые сигналы могут снизить его эффективность.</Description>
+    <Source Page="54">Дополнение: Без дезинтеграций</Source>
     <Custom>DescOnly</Custom>
     <Type>Black Market</Type>
     <Categories />
@@ -2442,16 +2442,16 @@ Nearly every person and vehicle carries a comlink or a transceiver. While most a
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Can trianguate location and movement of a known comlink or transeiver within close range (planetary) with an [B]Average ([DI][DI]) Computers check.[b]</MiscDesc>
+        <MiscDesc>Может определять местоположение и перемещение известного комлинка или трансивера в пределах близкого расстояния (планетарного масштаба) с помощью [B]средней ([DI][DI]) проверки "Компьютеров"[b].</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>CONCESCAPEKIT</Key>
-    <Name>Concealed Escape Kit</Name>
-    <Description>[H3]Concealed Escape Kit[h3]
-Concealed escape kits have everything an individual needs to escape most temporary and short-term internments. Hidden in a false heel of a shoe, boot, or other suitably bulky footwear, a concealed escape kit includes a number of miniature tools designed to help an agent open locks and escape holding cells. A typical kit includes a small pair of wire cutters, a durasteel file, a length of slicewire, a miniature mem-stik containing maps of the area in which the agent is operating and other important information about the region, and a tiny, single-use laser cutter. Most kits also include a thin, flexible monoknife hidden length-wise in the footwear's sole.
-[P]The gear hidden in a concealed escape kit upgrades the ability of all Mechanics and Skulduggery checks made to escape confinement once. The laser cutter works for a single round before its energy cell burns out, which is usually just enough time to destroy a mechanical lock or cut a metal bar out of a window or cell door. The flexible monoknife included in the kit has the following profile: (Melee; Damage + 1; Critical 3; Range (Engaged); Pierce 1). Upgrade the difficulty of checks to detect a concealed escape kit twice.</Description>
+    <Name>Скрытый набор для побега</Name>
+    <Description>[H3]Скрытый набор для побега[h3]
+Скрытые наборы для побега содержат все необходимое для побега из большинства временных и краткосрочных мест заключения. Скрытый в поддельном каблуке туфли, ботинка или другой подходящей объемной обуви, скрытый набор для побега включает в себя ряд миниатюрных инструментов, предназначенных для того, чтобы помочь агенту открыть замки и сбежать из камеры. Типичный комплект включает в себя небольшие кусачки, напильник из прочного стали, отрезок режущей проволоки, миниатюрный флеш-накопитель с картами района, в котором работает агент, и другой важной информацией о регионе, а также крошечный одноразовый лазерный резак. Большинство комплектов также включают тонкий гибкий мононож, спрятанный по длине в подошве обуви.
+[P]Снаряжение, спрятанное в скрытом наборе для побега, повышает эффективность всех проверок "Механики" и "Жульничества", выполняемых для побега из заключения на 1. Лазерный резак работает в течение 1 раунда, пока не разрядится его энергетическая батарея, чего обычно хватает, чтобы разрушить механический замок или вырезать металлическую решетку из окна или двери камеры. Гибкий мононож, входящий в комплект, имеет следующие характеристики: (рукопашный бой; урон + 1; крит. урон 3; дальность (в ближнем бою); Pierce 1). Увеличьте сложность проверок для обнаружения скрытого набора для побега в два раза.</Description>
     <Sources>
       <Source Page="47">Дополнение: Шифры и Маски</Source>
     </Sources>
@@ -2463,10 +2463,10 @@ Concealed escape kits have everything an individual needs to escape most tempora
     <Type>Security/Espionage</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Upgrades ability of Mechanics and Skulduggery checks to escape confinement once.</MiscDesc>
+        <MiscDesc>Улучшает способность прохождения проверок "Механики" и "Жульничества" на 1, чтобы сбежать из заключения.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>Upgrades difficulty of checks to detect a concealed escape kit twice.</MiscDesc>
+        <MiscDesc>Увеличивает сложность проверок для обнаружения скрытого набора для побега в два раза.</MiscDesc>
       </Mod>
     </BaseMods>
     <WeaponModifiers>
@@ -2487,13 +2487,13 @@ Concealed escape kits have everything an individual needs to escape most tempora
   </Gear>
   <Gear>
     <Key>CONCREC</Key>
-    <Name>Concealed Recorder</Name>
+    <Name>Скрытый рекордер</Name>
     <Description>
-      [H3]Concealed Recorder[h3]
+      [H3]Скрытый рекордер[h3]
 
-A surreptitiously captured moment can be turned into evidence that wins wars, topples governments, or simply persuades a certain person to remain silent. Many corporations and investigative groups have produced a wide range of specialized recorders that can be effectively hidden. Although usually made to capture full-color hobos and audio, sometimes such devices capture flat-screen images or audio only, depending on the needs of the user. These miniature recording devices can be installed in an innocuous item, such as a light fixture or chronometer, and left to record until retrieved by the operator. Simple programming optimizes data storage, pausing recording when no activity is detected.
+Скрытно запечатленный момент может превратиться в доказательство, которое поможет выиграть войну, свергнуть правительство или просто убедить определенного человека хранить молчание. Многие корпорации и следственные группы производят широкий спектр специализированных записывающих устройств, которые можно эффективно скрыть. Хотя обычно они предназначены для записи полноцветного видео и аудио, иногда такие устройства записывают только изображение на плоском экране или только аудио, в зависимости от потребностей пользователя. Эти миниатюрные записывающие устройства можно установить в безобидный предмет, такой как светильник или хронометр, и оставить для записи до тех пор, пока их не извлечет оператор. Простое программирование оптимизирует хранение данных, приостанавливая запись, когда не обнаруживается никакой активности.
 
-[P]Add [SE][SE] to a character's Perception checks to find a concealed recorder on a person's body.</Description>
+[P]Добавьте [SE][SE] к проверкам "Внимания" персонажа, чтобы найти скрытый диктофон на теле человека.</Description>
     <Source Page="50">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Encumbrance>0</Encumbrance>
@@ -2503,22 +2503,17 @@ A surreptitiously captured moment can be turned into evidence that wins wars, to
     <Type>Security/Espionage</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Add [SE][SE] to Perception checks to find a concealed recorder on a person's body.</MiscDesc>
+        <MiscDesc>Добавьте [SE][SE] к проверкам "Внимания" персонажа, чтобы найти скрытый диктофон на теле человека.</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>CONDUNIT</Key>
-    <Name>Condenser Unit</Name>
+    <Name>Конденсаторный блок</Name>
     <Description>
-      [H3]Condenser Unit[h3]
-The SurvivalGear condenser unit is a two-liter receptacle with a flared metal shade. Between is a series of
-coils attached to a small power unit and condenser.
-Chilling the coils gathers water in a manner similar to a
-moisture vaporator. Inverting the shade instead heats
-the coils to temperatures suitable for smokeless cooking. The device can gather enough water each day to
-sustain one person, and its battery lasts six months.</Description>
+      [H3]Конденсаторный блок[h3]
+Конденсаторный блок SurvivalGear представляет собой двухлитровый резервуар с раструбом из металла. Между ними находится ряд змеевиков, прикрепленных к небольшому силовому агрегату и конденсатору. Охлаждение змеевиков приводит к скоплению воды, аналогично испарителю влаги. При переворачивании раструба змеевики нагреваются до температуры, подходящей для приготовления пищи без дыма. Устройство может собирать достаточно воды каждый день для обеспечения 1 человека, а его батарея работает в течение 6 месяцев.</Description>
     <Sources>
       <Source Page="54">Дополнение: Закаленные в битве</Source>
       <Source Page="50">Дополнение: Рыцари судьбы</Source>
@@ -2532,16 +2527,16 @@ sustain one person, and its battery lasts six months.</Description>
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Can gather enough water each day to sustain one person.  Batteries last six months.</MiscDesc>
+        <MiscDesc>Может собирать достаточно воды каждый день, чтобы обеспечить потребности 1 человека. Батареи работают 6 месяцев.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>CORTEXBOMB</Key>
-    <Name>Cortex Bomb</Name>
-    <Description>[H3]Cortex Bomb[h3]
-Cortex bombs are last-resort measures to keep an agent from breaking under interrogation. Essentially kill switches for sentient beings, cortex bombs comprise a series of tiny explosive charges wired to the brain. Normally inert, they are set to detonate when a specific trigger signal is heard or seen, instantly killing the individual with the implant.
-[P]Cortex bombs detonate when the implanted individual speaks, hears, or sees a pre-determined code word or signal, and kill only the wearer. They deal very little discernible damage to the target, though, and no damage to the surrounding area.</Description>
+    <Name>Кортексная бомба</Name>
+    <Description>[H3]Кортексная бомба[h3]
+Кортексные бомбы - это крайняя мера, призванная удержать агента от срыва под давлением допроса. По сути, кортексные бомбы - это "убийственные переключатели" для разумных существ, состоящие из ряда крошечных взрывчатых зарядов, подключенных к мозгу. Обычно они находятся в неактивном состоянии, но при появлении определенного триггерного сигнала, услышанного или увиденного, они взрываются, мгновенно убивая человека с имплантатом.
+[P]Кортексные бомбы взрываются, когда человек с имплантом произносит, слышит или видит заранее определенное кодовое слово или сигнал, и убивают только самого носителя. Однако они наносят очень небольшой ущерб цели и не наносят ущерба окружающей среде.</Description>
     <Sources>
       <Source Page="44">Дополнение: Шифры и Маски</Source>
     </Sources>
@@ -2553,17 +2548,17 @@ Cortex bombs are last-resort measures to keep an agent from breaking under inter
     <Type>Cybernetics</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Detonates and kills the wearer when he speaks, hears, or sees a pre-determined code word or signal.</MiscDesc>
+        <MiscDesc>Взрывается и убивает носителя, когда он произносит, слышит или видит заранее определенное кодовое слово или сигнал.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>CORWHISKEY</Key>
-    <Name>Corellian Whiskey (Bottle)</Name>
+    <Name>Кореллианский виски (Бутылка)</Name>
     <Description>
-      [H3]Corellian Whiskey (Bottle)[h3]
+      [H3]Кореллианский виски (Бутылка)[h3]
 
-A popular alcoholic drink from Corellia, distilled anywhere from three to twenty times and aged for several years in wooden casks. Corellian whiskey is characterized by a smooth, woody, slightly spicy flavor and relatively high alcohol content. With production methods strictly controlled by the government, only whiskeys distilled according to specific processes on Corellia and a few colony worlds can carry the label of Corellian whiskey. As such, Corellian whiskey is difficult to come by outside of the Corellian Sector and tends to be pricey.</Description>
+Популярный алкогольный напиток с Кореллии, дистиллируемый от 3 до 20 раз и выдерживаемый в течение нескольких лет в деревянных бочках. Кореллианский виски отличается мягким, древесным, слегка пряным вкусом и относительно высоким содержанием алкоголя. Поскольку методы производства строго контролируются правительством, только виски, дистиллированный в соответствии с определенными процессами на Кореллии и в нескольких колониальных мирах, может носить маркировку «кореллианский виски». Поэтому кореллианский виски трудно найти за пределами сектора Кореллии, и он, как правило, дорого стоит.</Description>
     <Source Page="102">Дополнение: Солнце Фортуны</Source>
     <Custom>DescOnly</Custom>
     <Price>25</Price>
@@ -2573,11 +2568,11 @@ A popular alcoholic drink from Corellia, distilled anywhere from three to twenty
   </Gear>
   <Gear>
     <Key>CORWHISKEYCASE</Key>
-    <Name>Corellian Whiskey (25 Bottle Case)</Name>
+    <Name>Кореллианский виски (Ящик из 25 бутылок)</Name>
     <Description>
-      [H3]Corellian Whiskey (25 Bottle Case)[h3]
+      [H3]Кореллианский виски (Ящик из 25 бутылок)[h3]
 
-A popular alcoholic drink from Corellia, distilled anywhere from three to twenty times and aged for several years in wooden casks. Corellian whiskey is characterized by a smooth, woody, slightly spicy flavor and relatively high alcohol content. With production methods strictly controlled by the government, only whiskeys distilled according to specific processes on Corellia and a few colony worlds can carry the label of Corellian whiskey. As such, Corellian whiskey is difficult to come by outside of the Corellian Sector and tends to be pricey. </Description>
+Популярный алкогольный напиток с Кореллии, дистиллируемый от 3 до 20 раз и выдерживаемый в течение нескольких лет в деревянных бочках. Кореллианский виски отличается мягким, древесным, слегка пряным вкусом и относительно высоким содержанием алкоголя. Поскольку методы производства строго контролируются правительством, только виски, дистиллированный в соответствии с определенными процессами на Кореллии и в нескольких колониальных мирах, может носить маркировку «кореллианский виски». Поэтому кореллианский виски трудно найти за пределами сектора Кореллии, и он, как правило, дорого стоит.</Description>
     <Source Page="102">Дополнение: Солнце Фортуны</Source>
     <Custom>DescOnly</Custom>
     <Price>500</Price>
@@ -2587,13 +2582,13 @@ A popular alcoholic drink from Corellia, distilled anywhere from three to twenty
   </Gear>
   <Gear>
     <Key>CORWHISKEYWHY</Key>
-    <Name>Whyren's Reserve Corellian Whiskey (Bottle)</Name>
+    <Name>Кореллианский виски Whyren's Reserve (Бутылка)</Name>
     <Description>
-      [H3]Whyren's Reserve Corellian Whiskey (Bottle)[h3]
+      [H3]Кореллианский виски Whyren's Reserve (Бутылка)[h3]
 
-A popular alcoholic drink from Corellia, distilled anywhere from three to twenty times and aged for several years in wooden casks. Corellian whiskey is characterized by a smooth, woody, slightly spicy flavor and relatively high alcohol content. With production methods strictly controlled by the government, only whiskeys distilled according to specific processes on Corellia and a few colony worlds can carry the label of Corellian whiskey. As such, Corellian whiskey is difficult to come by outside of the Corellian Sector and tends to be pricey.
+Популярный алкогольный напиток с Кореллии, дистиллируемый от 3 до 20 раз и выдерживаемый в течение нескольких лет в деревянных бочках. Кореллианский виски отличается мягким, древесным, слегка пряным вкусом и относительно высоким содержанием алкоголя. Поскольку методы производства строго контролируются правительством, только виски, дистиллированный в соответствии с определенными процессами на Кореллии и в нескольких колониальных мирах, может носить маркировку «кореллианский виски». Поэтому кореллианский виски трудно найти за пределами сектора Кореллии, и он, как правило, дорого стоит.
 
-[P]Whyren's Reserve, an expensive label aged for up to two decades, is considered the finest Corellian whiskey available and often traded on the black market.</Description>
+[P]Whyren's Reserve, дорогой бренд, выдерживаемый до 2 десятилетий, считается лучшим кореллианским виски и часто продается на черном рынке.</Description>
     <Source Page="102">Дополнение: Солнце Фортуны</Source>
     <Custom>DescOnly</Custom>
     <Price>100</Price>
@@ -2603,13 +2598,13 @@ A popular alcoholic drink from Corellia, distilled anywhere from three to twenty
   </Gear>
   <Gear>
     <Key>CORWHISKEYWHYCASE</Key>
-    <Name>Whyren's Reserve Corellian Whiskey (20 Bottle Case)</Name>
+    <Name>Кореллианский виски Whyren's Reserve (Ящик на 20 бутылок)</Name>
     <Description>
-      [H3]Whyren's Reserve Corellian Whiskey (20 Bottle Case)[h3]
+      [H3]Кореллианский виски Whyren's Reserve (Ящик на 20 бутылок)[h3]
 
-A popular alcoholic drink from Corellia, distilled anywhere from three to twenty times and aged for several years in wooden casks. Corellian whiskey is characterized by a smooth, woody, slightly spicy flavor and relatively high alcohol content. With production methods strictly controlled by the government, only whiskeys distilled according to specific processes on Corellia and a few colony worlds can carry the label of Corellian whiskey. As such, Corellian whiskey is difficult to come by outside of the Corellian Sector and tends to be pricey.
+Популярный алкогольный напиток с Кореллии, дистиллируемый от 3 до 20 раз и выдерживаемый в течение нескольких лет в деревянных бочках. Кореллианский виски отличается мягким, древесным, слегка пряным вкусом и относительно высоким содержанием алкоголя. Поскольку методы производства строго контролируются правительством, только виски, дистиллированный в соответствии с определенными процессами на Кореллии и в нескольких колониальных мирах, может носить маркировку «кореллианский виски». Поэтому кореллианский виски трудно найти за пределами сектора Кореллии, и он, как правило, дорого стоит.
 
-[P]Whyren's Reserve, an expensive label aged for up to two decades, is considered the finest Corellian whiskey available and often traded on the black market.</Description>
+[P]Whyren's Reserve, дорогой бренд, выдерживаемый до 2 десятилетий, считается лучшим кореллианским виски и часто продается на черном рынке.</Description>
     <Source Page="102">Дополнение: Солнце Фортуны</Source>
     <Custom>DescOnly</Custom>
     <Price>1500</Price>
@@ -2619,13 +2614,13 @@ A popular alcoholic drink from Corellia, distilled anywhere from three to twenty
   </Gear>
   <Gear>
     <Key>CRASH</Key>
-    <Name>Crash Survival Kit</Name>
+    <Name>Набор для выживания при аварии</Name>
     <Description>
-      [H3]Crash Survival Kit[h3]
+      [H3]Набор для выживания при аварии[h3]
 
-While life is usually controlled and comfortable, there are many times when physical survival becomes an issue. A forced landing might strand a crew deep in Tatooine's deserts, or a speeder failure could result in extended durations in glacial snow. Most ships, especially smaller ones such as fighters and escape pods, contain kits to help ensure survival until rescue or repair. Pretormin Environmental (a company specializing in exploration and survival gear) makes a popular model of survival kit small enough to fit into an escape pod or snubfighter. Their contents include a thermal cloak, multipurpose knife, distress beacon, two emergency comlinks, wire spool, ration bars, basic medpac (equivalent of the GLiS Emergency Medpac), two respirators, water filter and jug, glow rod, 50 meters of high strength microfiber, ten ration packs, and a flare gun. Some pirates would augment their kits with compact blasters or other weapons, knowing that often their enemies will also be eagerly searching for them, although Pretormin Environmental doesn't equip their kits with weapons as standard.
+Хотя жизнь обычно контролируема и комфортна, бывают случаи, когда физическое выживание становится проблемой. Вынужденная посадка может застрять экипаж глубоко в пустынях Татуина, а поломка спидера может привести к длительному пребыванию в ледяном снегу. Большинство кораблей, особенно небольших, таких как файтеры и спасательные капсулы, оснащены наборами, помогающими выжить до прибытия спасателей или ремонта. Компания Pretormin Environmental (специализирующаяся на оборудовании для исследований и выживания) производит популярную модель набора для выживания, достаточно компактную, чтобы поместиться в спасательную капсулу или истребитель. В комплект входят тепловая мантия, многофункциональный нож, аварийный маяк, два аварийных комлинка, катушка провода, пайки, базовый аптечный набор (эквивалент GLiS Emergency Medpac), два респиратора, фильтр для воды и кувшин, светящийся стержень, 50 метров высокопрочной микрофибры, десять пайков и сигнальный пистолет. Некоторые пираты дополняют свои комплекты компактными бластерами или другим оружием, зная, что их враги также будут их активно искать, хотя Pretormin Environmental не комплектует свои комплекты оружием в стандартной комплектации.
 
-[P][B]Models Include:[b] Pretormin Environmental Crash Survival Kit.</Description>
+[P][B]Модели включают:[b] Набор для выживания при аварии Pretormin Environmental..</Description>
     <Sources>
       <Source Page="180">Книга правил: Край Империи</Source>
       <Source Page="195">Книга правил: Эпоха восстания</Source>
@@ -2638,11 +2633,11 @@ While life is usually controlled and comfortable, there are many times when phys
   </Gear>
   <Gear>
     <Key>CRATARMENH</Key>
-    <Name>Cratala's Arm Enhancement Implant</Name>
+    <Name>Имплант для усиления руки Cratala</Name>
     <Description>
-      [H3]Cratala's Arm Enhancement Implant[h3]
- [P]The character gains [BO][BO] on any Athletics checks involving the enhanced (not replaced) limbs. [DE] means the unit shorts out temporarily, dealing 5 strain damage.</Description>
-    <Source Page="66">Beyond the Rim</Source>
+      [H3]Имплант для усиления руки Cratala[h3]
+ [P]Персонаж получает [BO][BO] при любых проверках "Атлетики", связанных с усиленными (не замененными) конечностями. [DE] означает, что устройство временно выходит из строя, нанося 5 единиц "усталости".</Description>
+    <Source Page="66">Модуль приключения: За пределами кольца</Source>
     <Custom>DescOnly</Custom>
     <Type>Cybernetics</Type>
     <Categories />
@@ -2653,7 +2648,7 @@ While life is usually controlled and comfortable, there are many times when phys
     <Restricted>false</Restricted>
     <BaseMods>
       <Mod>
-        <MiscDesc>Adds [BO][BO] to any [B]Athletics checks[b] involving the enhanced arm.  [DE] means the unit shorts out temporarily, dealing 5 strain damage.</MiscDesc>
+        <MiscDesc>Добавьте [BO][BO] к любым [B]проверкам "Атлетики"[b], связанным с усиленной рукой. [DE] означает, что устройство временно выходит из строя, нанося 5 единиц "усталости".</MiscDesc>
         <Count>1</Count>
         <DieModifiers>
         </DieModifiers>
@@ -2663,11 +2658,11 @@ While life is usually controlled and comfortable, there are many times when phys
   </Gear>
   <Gear>
     <Key>CRATLEGENH</Key>
-    <Name>Cratala's Leg Enhancement Implant</Name>
+    <Name>Имплант для усиления ноги Cratala</Name>
     <Description>
-      [H3]Cratala's Leg Enhancement Implant[h3]
-     [P]The character gains [BO][BO] on any Athletics checks involving the enhanced (not replaced) limbs. [DE] means the unit shorts out temporarily, dealing 5 strain damage. </Description>
-    <Source Page="66">Beyond the Rim</Source>
+      [H3]Имплант для усиления ноги Cratala[h3]
+     [P]Персонаж получает [BO][BO] при любых проверках "Атлетики", связанных с усиленными (не замененными) конечностями. [DE] означает, что устройство временно выходит из строя, нанося 5 единиц "усталости". </Description>
+    <Source Page="66">Модуль приключения: За пределами кольца</Source>
     <Custom>DescOnly</Custom>
     <Type>Cybernetics</Type>
     <Categories />
@@ -2678,7 +2673,7 @@ While life is usually controlled and comfortable, there are many times when phys
     <Restricted>false</Restricted>
     <BaseMods>
       <Mod>
-        <MiscDesc>Adds [BO][BO] to any [B]Athletics checks[b] involving the enhanced leg.  [DE] means the unit shorts out temporarily, dealing 5 strain damage.</MiscDesc>
+        <MiscDesc>Добавьте [BO][BO] к любым [B]проверкам "Атлетики"[b], связанным с усиленной ногой. [DE] означает, что устройство временно выходит из строя, нанося 5 единиц "усталости".</MiscDesc>
         <Count>1</Count>
         <DieModifiers>
         </DieModifiers>
@@ -2688,14 +2683,14 @@ While life is usually controlled and comfortable, there are many times when phys
   </Gear>
   <Gear>
     <Key>CRATVISCYC</Key>
-    <Name>Cratala's Vision Cycling Implant</Name>
+    <Name>Имплант Cratala Vision Cycling</Name>
     <Description>
-      [H3]Cratala's Vision Cycling Implant[h3]
-[P]Within the character’s eyes are small sensors that enable him to quickly scan through different wavelengths, including infrared and ultraviolet.
-[P]When making a Perception check, the character may upgrade his dice pool for the skill check once. [AD] might reveal fine details that would otherwise go unseen. [TR] can be spent to grant a [BO] to all subsequent Perception checks for the encounter. [P][DE] may mean the unit gets stuck in one particular mode until the end
-of the encounter. This might result in the addition of [SE][SE] to some checks or make some things virtually impossible to see, as determined by the GM.
+      [H3]Имплант Cratala Vision Cycling[h3]
+[P]В глазах персонажа находятся небольшие датчики, которые позволяют ему быстро сканировать различные длины волн, включая инфракрасные и ультрафиолетовые.
+[P]При выполнении проверки "Внимания" персонаж может на 1 увеличить количество кубиков для проверки навыка. [AD] может раскрыть мелкие детали, которые в противном случае остались бы незамеченными. [TR] можно потратить, чтобы получить [BO] для всех последующих проверок "Внимания" в ходе встречи. 
+[P][DE] может означать, что юнит застрянет в одном конкретном режиме до конца встречи. Это может привести к добавлению [SE][SE] к некоторым проверкам или сделать некоторые вещи практически невозможными для просмотра, по решению ГМ.
     </Description>
-    <Source Page="66">Beyond the Rim</Source>
+    <Source Page="66">Модуль приключения: За пределами кольца</Source>
     <Custom>DescOnly</Custom>
     <Type>Cybernetics</Type>
     <Categories />
@@ -2706,7 +2701,7 @@ of the encounter. This might result in the addition of [SE][SE] to some checks o
     <Restricted>false</Restricted>
     <BaseMods>
       <Mod>
-        <MiscDesc>May upgrade [B]Perception checks[b] once. [AD] reveals fine details. [TR] can be spent to add a [BO] to all subsequent [B]Perception checks[b] for the encounter.  [DE] adds [SE][SE] to checks, or makes some things virtually impossible to see.</MiscDesc>
+        <MiscDesc>Можно на 1 улучшить [B]проверки "Внимания"[b]. [AD] раскрывает мелкие детали. [TR] можно потратить, чтобы добавить [BO] ко всем последующим [B]проверкам "Внимания"[b] для данной встречи. [DE] добавляет [SE][SE] к проверкам или делает некоторые вещи практически невозможными для видения.</MiscDesc>
         <Count>1</Count>
         <DieModifiers>
           <DieModifier>
@@ -2720,14 +2715,14 @@ of the encounter. This might result in the addition of [SE][SE] to some checks o
   </Gear>
   <Gear>
     <Key>CREDITCLEAN</Key>
-    <Name>Credit Cleaner</Name>
+    <Name>Очиститель кредитов</Name>
     <Description>
-      [H3]Credit Cleaner[h3]
+      [H3]Очиститель кредитов[h3]
 
-While Imperial officials generally turn a blind eye to the various dealings of the Hutts and their associates, those who traffic in high-value illegal goods and services often find it beneficial to make sure that their income cannot be easily traced. For those who prefer their money uncontaminated by any crimes committed in obtaining it, credit cleaners are an ideal solution. Sophisticated datapads incorporating complex encryption codes and logarithms, credit cleaners are designed to route Imperial credits and other electronic currency quickly and efficiently through a convoluted path of transfers and exchanges. Once so laundered, the funds are incredibly difficult to trace, making it virtually impossible for even the most skilled forensic accountant droids to tie them back to their source.
-[P]The difficulty of a Computers check to trace money shepherded this way is [B]Formidable ([DI][DI][DI][DI][DI])[b].
+Хотя имперские чиновники, как правило, закрывают глаза на различные сделки Хаттов и их сообщников, тем, кто занимается торговлей дорогостоящими незаконными товарами и услугами, часто выгодно обеспечить невозможность отслеживания своих доходов. Для тех, кто предпочитает, чтобы их деньги не были запятнаны преступлениями, совершенными при их получении, идеальным решением являются «очистители кредитов». Очистители кредитов - это сложные планшеты с комплексными кодами шифрования и логарифмами, предназначенные для быстрого и эффективного перемещения имперских кредитов и другой электронной валюты по запутанному пути переводов и обмена. После такой отмывки средства невероятно сложно отследить, что делает практически невозможным даже для самых опытных дроидов-бухгалтеров-криминалистов связать их с источником.
+[P]Сложность проверки "Компьютеров" для отслеживания денег, перемещаемых таким образом, является [B]Запредельной ([DI][DI][DI][DI][DI])[b].
 
-[P][B]Models Include:[b] Numerous variants.</Description>
+[P][B]Модели включают:[b] Многочисленные варианты.</Description>
     <Source Page="111">Дополнение: Лорды Нал-Хатта</Source>
     <Custom>DescOnly</Custom>
     <Price>2500</Price>
@@ -2737,22 +2732,22 @@ While Imperial officials generally turn a blind eye to the various dealings of t
     <Type>Tools/Electronics</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Trace route of currency protected by credit cleaner is a [B]Formidable ([DI][DI][DI][DI][DI]) Computers check[b].</MiscDesc>
+        <MiscDesc>Маршрут прослеживания валюты, защищенной кредитным очистителем, является [B]Запредельной ([DI][DI][DI][DI][DI]) проверкой "Компьютеров"[b].</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>CULETIQUMAN</Key>
-    <Name>Cultural Etiquette Manual</Name>
+    <Name>Справочник по культурному этикету</Name>
     <Description>
-      [H3]Cultural Etiquette Manual[h3]
+      [H3]Справочник по культурному этикету[h3]
 
-Diplomats rely on protocol droids to ensure not only fluent translation, but also to prevent embarrassing cultural incidents. However, when a protocol droid is not available, or a situation is too specific for a general-purpose droid, emissaries turn to cultural etiquette manuals, specialized datapads with nearly every potentially relevant cultural detail for a given group. A cultural etiquette manual can, for example, help a diplomat choose the perfect opening gift when greeting an unfamiliar society, or avoid accidentally insulting a visiting diplomat. Of course, actively consulting a datapad during an important function creates a level of awkwardness, but the manual does enable a diplomat to extensively prepare beforehand or during a handy lull in conversation.
+Дипломаты полагаются на протокольных дроидов не только для обеспечения беглого перевода, но и для предотвращения неловких культурных инцидентов. Однако, когда протокольный дроид недоступен или ситуация слишком специфична для дроида общего назначения, посланники обращаются к руководствам по культурному этикету - специализированным датападам, содержащим практически все потенциально значимые культурные детали для данной группы. Справочник по культурному этикету может, например, помочь дипломату выбрать идеальный подарок для приветствия в незнакомом обществе или избежать случайного оскорбления приезжего дипломата. Конечно, активное использование датапада во время важной встречи создает некоторую неловкость, но справочник позволяет дипломату тщательно подготовиться заранее или во время удобной паузы в разговоре.
 
-[P]A character with a cultural etiquette manual adds automatic [AD] to social checks made to interact with members of the culture to which the manual pertains.
+[P]Персонаж, обладающий справочником по культурному этикету, получает автоматический бонус [AD] к проверкам социальных навыков, необходимых для взаимодействия с представителями культуры, к которой относится руководство.
 
-[P][B]Models include:[b] Baobab Archives Compendiums.</Description>
+[P][B]Модели включают:[b] Сборники архивов Баобаба.</Description>
     <Source Page="50">Дополнение: Отчаянные союзники</Source>
     <Custom>DescOnly</Custom>
     <Price>35</Price>
@@ -2762,20 +2757,20 @@ Diplomats rely on protocol droids to ensure not only fluent translation, but als
     <Type>Tools/Electronics</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Add automatic [AD] to social checks with the manual's culture.</MiscDesc>
+        <MiscDesc>Добавьте автоматический [AD] к социальным проверкам с справочником по культурному этикету.</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>CUSTTOOL</Key>
-    <Name>Custom Tool Kit</Name>
+    <Name>Кастомный набор инструментов</Name>
     <Description>
-      [H3]Journeyman Tools Custom Tool Kit[h3]
+      [H3]Кастомный набор инструментов Journeyman Tools[h3]
 
-For every job there is a proper tool; the bigger the job, the more tools a technician needs. Journeyman Tools Inc. knows the importance of a well-made, reliable, easy-to-use tool to a mechanic or shipwright, and their line of custom tool kits are designed and built for the hardworking and discerning professional. Journeyman custom tool kits feature all the tools common to specific kits, like the kits used to work on a walker or a starfighter, with the addition of a number of specialty implements as dictated by the purchaser. Each tool is custom-fit to the purchaser using a number of variables including grip, handedness, strength, arm length, and even working style. Once ordered, the tools are packed in a custom-built, locking tool box with each tool nestled into its own form-fitted foam cutout to keep it securely in place during use or transit.
+Для каждой работы есть свой инструмент; чем больше работа, тем больше инструментов нужно технику. Компания Journeyman Tools Inc. понимает, насколько важен для механика или корабельного мастера хорошо сделанный, надежный и простой в использовании инструмент, и ее линейка наборов инструментов, изготовленных на заказ, разработана и создана для трудолюбивых и взыскательных профессионалов. Кастомные наборы инструментов Journeyman включают в себя все инструменты, которые обычно входят в определенные наборы, например, наборы для работы с ходунками или звездными истребителями, а также ряд специальных инструментов по желанию покупателя. Каждый инструмент подбирается индивидуально для покупателя с учетом ряда параметров, включая рукоятку, руку, силу, длину руки и даже стиль работы. После заказа инструменты упаковываются в изготовленный на заказ инструментальный ящик с замком, где каждый инструмент помещается в специальное вырезанное из пенопласта гнездо, чтобы он надежно держался на месте во время использования или транспортировки.
 
-[P]Using a Journeyman Tools custom tool kit grants the user for whom the kit was built [BO] to any skill check made to maintain or repair an item, computer, weapon, vehicle, or starship. A character attempting to use Journeyman tools made for someone else suffers [SE] to the same checks. Custom tools can be customized for another user with extensive, and often expensive, modification.</Description>
+[P]Использование набора инструментов Journeyman Tools дает пользователю, для которого был создан набор, [BO] к любой проверке навыка, связанной с обслуживанием или ремонтом предмета, компьютера, оружия, транспортного средства или звездолета. Персонаж, пытающийся использовать инструменты Journeyman, созданные для кого-то другого, получает [SE] к тем же проверкам. Кастомные инструменты могут быть адаптированы для другого пользователя с помощью обширных и зачастую дорогостоящих модификаций.</Description>
     <Source Page="45">Дополнение: Все по плану</Source>
     <Custom>DescOnly</Custom>
     <Price>700</Price>
@@ -2784,21 +2779,21 @@ For every job there is a proper tool; the bigger the job, the more tools a techn
     <Type>Tools/Electronics</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Owners gain [BOOST] and non-owners gain [SETBACK] on checks to maintain or repair any item.</MiscDesc>
+        <MiscDesc>Владелец получает [BOOST], а другие получают [SETBACK] при проверках на обслуживание или ремонт любого предмета.</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>CYADRENAL</Key>
-    <Name>Adrenal Implant</Name>
+    <Name>Адреналовый имплант</Name>
     <Description>
-      [H3]Adrenal Implant[h3]
+      [H3]дреналовый имплант[h3]
 
-A small implant affixed to the suprarenal glands, an adrenal implant stimulates the production of epinephrine in the body when the individual's nervous system is subjected to strain. While the implant's stimulation is not as rapid as a direct injection of epinephrine into the bloodstream, it does reduce recovery time from fatigue.
+Небольшой имплантат, прикрепленный к надпочечникам, стимулирует выработку адреналина в организме, когда нервная система человека подвергается стрессу. Хотя стимуляция импланта не так быстра, как прямая инъекция адреналина в кровоток, она сокращает время восстановления после усталости.
 
-[P]An adrenal implant provides 1 rank of the Rapid Recovery talent.
-[P][B]Models Include:[b] Athakam MedTech A.9a Adrenal Stimulator, BioTech Industries.]</Description>
+[P]Адреналовый имплант дает 1 ранг таланта "Быстрое восстановление".
+[P][B]Модели включают:[b] Адреналовый стимулятор Athakam MedTech A.9a, BioTech Industries.]</Description>
     <Source Page="106">Дополнение: Лорды Нал-Хатта</Source>
     <Custom>DescOnly</Custom>
     <Type>Cybernetics</Type>
@@ -2820,9 +2815,9 @@ A small implant affixed to the suprarenal glands, an adrenal implant stimulates 
     <Key>CYAND570</Key>
     <Name>Cyanoxis D-570</Name>
     <Description>[H3]Cyanoxis D-570[h3]
-Cyanoxis D-570 was originally developed by Toxico as an all-purpose rodenticide. An extremely aggressive anticoagulant, D-570 works by weakening the walls of a creature's small blood vessels. This causes them to rupture, leading to internal hemorrhaging and eventually death. Thanks to its particular and well-guarded chemical makeup, D-570 works on numerous species throughout the galaxy, a very rare quality in a vermin-killing poison. Spies and assassins began to capitalize on this shared toxicity not long after the poison first appeared on the market.
-[P]When used as an assassination tool, D-570 is typically administered through food and drink. Once ingested, the poison takes about a week to break down a sentient being's circulatory system and cause internal bleeding. During that time, the target is fatigued, bruises easily, and often bleeds slightly from the nose, mouth, or ears. Death typically results in ten days or fewer. Since death occurs so long after first exposure, it is often difficult to determine that D-570 was the cause of an individual's death. By the time a week has passed, there is little evidence left, and the assassin can be halfway across the galaxy and out of reach of punishment.
-[P]One dose of Cyanoxis D-570 requires a character to make a [B]Hard ([DI][DI][DI]) Resilience check[b] to overcome. On a failed check, the poison inflicts 2 wounds and 2 strain immediately, plus 1 wound and I strain per day for ten days or until the target succumbs to death. Each [TH] generated inflicts I additional strain per day as internal blood loss takes its toll on the target's constitution. [DE] can be spent to increase the number of days the poison stays in effect by one.
+Cyanoxis D-570 был первоначально разработан компанией Toxico как универсальный родентицид. D-570 - чрезвычайно агрессивный антикоагулянт, который ослабляет стенки мелких кровеносных сосудов организма. Это приводит к их разрыву, внутреннему кровотечению и, в конечном итоге, к смерти. Благодаря своему особому и тщательно охраняемому химическому составу, D-570 действует на множество видов по всей галактике, что является очень редким качеством для яда, убивающего вредителей. Шпионы и убийцы начали использовать эту общую токсичность вскоре после появления яда на рынке.
+[P]При использовании в качестве средства для убийства D-570 обычно вводится через пищу и напитки. После попадания в организм яд за неделю разрушает кровеносную систему живого существа и вызывает внутреннее кровотечение. В течение этого времени жертва испытывает усталость, легко появляются синяки, часто наблюдается небольшое кровотечение из носа, рта или ушей. Смерть наступает, как правило, через 10 дней или менее. Поскольку смерть наступает через столь длительный период после первого контакта с ядом, часто бывает трудно определить, что именно D-570 стал причиной смерти человека. К моменту истечения недели следов яда остается очень мало, и убийца может оказаться на другом конце галактики, вне досягаемости правосудия.
+[P]Чтобы перенести 1 дозу Cyanoxis D-570, персонаж должен пройти [B]Сложную ([DI][DI][DI]) проверку "Стойкости"[b]. При провале яд наносит 2 "ранения" и 2 "усталости" сразу, +1 "ранение" и 1 "усталость" в день в течение 10 дней или до тех пор, пока цель не умрет. Каждая сгенерированная [TH] наносит 1 дополнительную единицу "усталости" в день, поскольку внутренняя кровопотеря сказывается на конституции цели. [DE] можно потратить, чтобы увеличить количество дней, в течение которых яд остается в силе, на 1.
 </Description>
     <Source Page="43">Дополнение: Шифры и Маски</Source>
     <Custom>DescOnly</Custom>
@@ -2833,21 +2828,21 @@ Cyanoxis D-570 was originally developed by Toxico as an all-purpose rodenticide.
     <Type>Poisons</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>[B]Hard ([DI][DI][DI]) Resilience check[b]. Fail: 2 wound and 2 strain immediately, plus 1 wound and strain daily for 10 days. +1 wound and +1 strain daily per [TH].  Each [DE] increases days by 1.</MiscDesc>
+        <MiscDesc>[B]Сложная ([DI][DI][DI]) проверка "Стойкости"[b]. Провал: 2 "ранения" и 2 "усталости" сразу, +1 "ранение" и "усталость" ежедневно в течение 10 дней. +1 "ранение" и +1 "усталость" ежедневно за каждый [TH]. Каждый [DE] увеличивает количество дней на 1.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>CYARMV</Key>
-    <Name>Cybernetic Arms (Mod V)</Name>
+    <Name>Киберрука (Mod V)</Name>
     <Description>
-      [H3]Cybernetic Arms (Mod V)[h3]
+      [H3]Киберрука (Mod V)[h3]
 
-BioTech Industries is a leading supplier of cybernetic devices across the galaxy, and its Mod V and Mod VI cyberarms are made to fit hundreds of alien species. These cyberarms are designed for increased strength (in the case of the Mod V) or manual dexterity (in the case of the Mod VI). Although intended to replace limbs lost in accidents, BioTech sees plenty of sales to those who don't mind replacing their arms with mechanical equivalents.
+BioTech Industries - ведущий поставщик кибернетических устройств по всей галактике, а ее киберруки Mod V и Mod VI подходят для сотен инопланетных видов. Эти киберруки разработаны для увеличения силы (в случае Mod V) или ловкости рук (в случае Mod VI). Хотя они предназначены для замены конечностей, утраченных в результате несчастных случаев, BioTech видит большой спрос на них со стороны тех, кто не против заменить свои руки механическими аналогами.
 
-[P]The Mod V Cyberarm provides + 1 Brawn, while the Mod VI provides + 1 Agility. If a character replaces both arms with cybernetic enhancements, he must use the same model, as they are designed to work in tandem. However, the modifiers from both arms do not stack.
+[P]Киберрука Mod V дает +1 к "Телосложению", а модификация VI — +1 к "Ловкости". Если персонаж заменяет обе руки кибернетическими протезами, он должен использовать одну и ту же модель, так как они разработаны для совместной работы. Однако модификаторы обеих рук не суммируются.
 
-[P][B]Models Include:[b] BioTech Industries Cyberarm Mod V and Mod VI.</Description>
+[P][B]Модели включают:[b] Киберрука Mod V и Mod VI BioTech Industries.</Description>
     <Sources>
       <Source Page="173">Книга правил: Край Империи</Source>
       <Source Page="189">Книга правил: Эпоха восстания</Source>
@@ -2867,15 +2862,15 @@ BioTech Industries is a leading supplier of cybernetic devices across the galaxy
   </Gear>
   <Gear>
     <Key>CYARMVI</Key>
-    <Name>Cybernetic Arms (Mod VI)</Name>
+    <Name>Кибер рука (Mod VI)</Name>
     <Description>
-      [H3]Cybernetic Arms (Mod VI)[h3]
+      [H3]Кибер рука (Mod VI)[h3]
 
-BioTech Industries is a leading supplier of cybernetic devices across the galaxy, and its Mod V and Mod VI cyberarms are made to fit hundreds of alien species. These cyberarms are designed for increased strength (in the case of the Mod V) or manual dexterity (in the case of the Mod VI). Although intended to replace limbs lost in accidents, BioTech sees plenty of sales to those who don't mind replacing their arms with mechanical equivalents.
+BioTech Industries - ведущий поставщик кибернетических устройств по всей галактике, а ее киберруки Mod V и Mod VI подходят для сотен инопланетных видов. Эти киберруки разработаны для увеличения силы (в случае Mod V) или ловкости рук (в случае Mod VI). Хотя они предназначены для замены конечностей, утраченных в результате несчастных случаев, BioTech видит большой спрос на них со стороны тех, кто не против заменить свои руки механическими аналогами.
 
-[P]The Mod V Cyberarm provides + 1 Brawn, while the Mod VI provides + 1 Agility. If a character replaces both arms with cybernetic enhancements, he must use the same model, as they are designed to work in tandem. However, the modifiers from both arms do not stack.
+[P]Киберрука Mod V дает +1 к "Телосложению", а модификация VI — +1 к "Ловкости". Если персонаж заменяет обе руки кибернетическими протезами, он должен использовать одну и ту же модель, так как они разработаны для совместной работы. Однако модификаторы обеих рук не суммируются.
 
-[P][B]Models Include:[b] BioTech Industries Cyberarm Mod V and Mod VI.</Description>
+[P][B]Модели включают:[b] Киберрука Mod V и Mod VI BioTech Industries.</Description>
     <Sources>
       <Source Page="173">Книга правил: Край Империи</Source>
       <Source Page="189">Книга правил: Эпоха восстания</Source>
@@ -2895,13 +2890,13 @@ BioTech Industries is a leading supplier of cybernetic devices across the galaxy
   </Gear>
   <Gear>
     <Key>CYAVIONCAAF2</Key>
-    <Name>CAAF-2 Avionics Interface</Name>
+    <Name>Интерфейс Авионики CAAF-2</Name>
     <Description>
-      [H3]CAAF-2 Avionics Interface[h3]
+      [H3]Интерфейс Авионики CAAF-2[h3]
 
-Implanted in the palm and fingers of the user (or incorporated into prosthetic hands) and linked to the user's brainstem, the cybernetic avionics interface allows a pilot to connect with his airspeeder or starship's avionics and flight control systems at a digital level. While interface doesn't eliminate the need for manual control of a vessel, it does significantly improve a pilot's reaction time and help provide instantaneous feedback from the ship's computer.
+Имплантированный в ладонь и пальцы пользователя (или встроенный в протезы рук) и соединенный с мозговым стволом пользователя, кибернетический интерфейс авионики позволяет пилоту подключаться к авиационной электронике и системам управления полетом своего воздушного скоростного судна или звездолета на цифровом уровне. Хотя интерфейс не устраняет необходимость ручного управления судном, он значительно улучшает время реакции пилота и помогает обеспечить мгновенную обратную связь с компьютером корабля.
 
-[P]A character with a cybernetic avionics interface and at least 1 rank in Piloting (Planetary) or Piloting (Space) gains + 1 to the appropriate Piloting skill when flying a starship or airspeeder. The avionics in speeders, swoops, and other repulsorcraft are generally too primitive to interface with, but a player may do so at the GM's discretion if the vehicle is equipped with a particularly advanced flight control computer.</Description>
+[P]Персонаж с кибернетическим интерфейсом авионики и как минимум 1 рангом в навыке "Пилотирование (планетарное)" или "Пилотирование (космическое)" получает +1 к соответствующему навыку "Пилотирования" при управлении звездолетом или воздушным спидером. Авиационные системы в спидерах, свупах и других репульсорных аппаратах, как правило, слишком примитивны для взаимодействия, но персонаж может сделать это по усмотрению ГМ, если транспортное средство оснащено особо продвинутым компьютером управления полетом.</Description>
     <Source Page="101">Дополнение: Солнце Фортуны</Source>
     <Custom>DescOnly</Custom>
     <Price>8000</Price>
@@ -2923,15 +2918,15 @@ Implanted in the palm and fingers of the user (or incorporated into prosthetic h
   </Gear>
   <Gear>
     <Key>CYBERCAVITY</Key>
-    <Name>Cybernetic Cavity</Name>
+    <Name>Кибер полость</Name>
     <Description>
-      [H3]Cybernetic Cavity[h3]
+      [H3]Кибер полость[h3]
 
-Some smugglers go to great lengths to conceal valuable cargo, including hiding it in their own bodies. While smuggling goods and spice strapped to the body or swallowed for later retrieval is not uncommon, some smugglers have found it expeditious to move goods inside small containers surgically implanted into their bodies or even incorporated into cybernetic limbs. While a full body search or holoscan might reveal the presence of a cybernetic cavity, it is practically unnoticeable on casual inspection and is likely to be missed by many scanners.
+Некоторые контрабандисты идут на многое, чтобы скрыть ценный груз, в том числе прячут его в собственном теле. Хотя контрабанда товаров и спайса, привязанных к телу или проглоченных для последующего извлечения, не является редкостью, некоторые контрабандисты считают более целесообразным перевозить товары в небольших контейнерах, хирургически имплантированных в их тела или даже встроенных в кибернетические конечности. Хотя полный досмотр тела или голосканирование могут выявить наличие кибернетической полости, при обычном осмотре она практически незаметна и может быть пропущена многими сканерами.
 
-[P]A cybernetic cavity provides 1 rank of the Hidden Storage talent (see page 137 of the [B]Edge of the Empire[b] Core Rulebook). A character with this cybernetic can use the Hidden Storage talent to conceal items within his own body.
+[P]Кибер полость дает 1 ранг таланта "Скрытое хранилище" см. стр. 137 [B]Книги правил - Край Империи[b]). Персонаж с этой кибернетической особенностью может использовать талант "Скрытое хранилище", чтобы скрывать предметы внутри своего тела.
 
-[P][B]Models Include:[b] Various models.</Description>
+[P][B]Модели включают:[b] Различные модели.</Description>
     <Source Page="48">Дополнение: Непринужденный полет</Source>
     <Custom>DescOnly</Custom>
     <Type>Cybernetics</Type>
@@ -2950,10 +2945,10 @@ Some smugglers go to great lengths to conceal valuable cargo, including hiding i
   </Gear>
   <Gear>
     <Key>CYBERDISGUISE</Key>
-    <Name>Cyber Disguise</Name>
-    <Description>[H3]Cyber Disguise[h3]
-A cybernetic disguise implant is composed of a series of systems embedded beneath an individual's skin. These systems allow their users to drastically change their appearance. An extremely invasive, and expensive, full-body implant, a cyber disguise includes a number of systems that can change a being's facial features, skin color, skin texture, hair length and color, eye color, and other surface physical traits. Perfect for infiltrators and deep-cover agents, a cyber disguise can help an agent blend into a crowd, take on a different identity, and even impersonate specific individuals, given enough study and preparation.
-[P]A cyber disguise gives a character all the advantages of a standard disguise kit. In addition, it grants users two ranks in the Indistinguishable talent. Changing general features—for example, changing eye color, altering hair color, or growing a beard—takes one to three rounds. More involved disguises can take minutes or hours to perfect. To take on the appearance of a specific individual, a cyber disguise user must make a thorough study of the subject, then make a [B]Hard ([DI][DI][DI]) Deception check[b] to set the disguise. A cyber disguise cannot change a being's general shape or size, add or subtract limbs, or allow an individual to impersonate a member of another species. At the Game Master's discretion, a cyber disguise could be used to impersonate species that are very similar to the user's; a human could impersonate a Chiss or Pantoran, for example.</Description>
+    <Name>Кибер Маскировка</Name>
+    <Description>[H3]Кибер Маскировка[h3]
+Кибернетический имплант для маскировки состоит из ряда систем, встроенных под кожу человека. Эти системы позволяют пользователям радикально изменить свою внешность. Кибер маскировка - это чрезвычайно инвазивный и дорогостоящий имплант для всего тела, включающий в себя ряд систем, которые могут изменять черты лица, цвет и текстуру кожи, длину и цвет волос, цвет глаз и другие поверхностные физические характеристики человека. Кибер маскировка идеально подходит для агентов-проникновений и агентов под глубоким прикрытием, поскольку помогает им смешаться с толпой, принять другую личность и даже выдать себя за конкретных людей, при условии достаточного изучения и подготовки.
+[P]Кибер маскировка дает персонажу все преимущества стандартного набора для маскировки. Кроме того, она дает пользователям 2 ранга в таланте "Неразличимый". Изменение общих черт - например, цвет глаз, цвет волос или отращивание бороды - занимает от 1 до 3 раундов. Более сложные маскировки могут занять от нескольких минут до нескольких часов. Чтобы принять облик конкретного человека, пользователь кибер маскировки должен тщательно изучить объект, а затем выполнить [B]Сложную ([DI][DI][DI]) проверку "Обмана"[b], чтобы установить маскировку. Кибер маскировка не может изменить общую форму или размер существа, добавить или убрать конечности, а также позволить индивидууму выдать себя за представителя другого вида. По усмотрению ГМа кибер маскировка может быть использована для имитации видов, очень похожих на пользователя; например, человек может выдать себя за чисса или панторана.</Description>
     <Sources>
       <Source Page="44">Дополнение: Шифры и Маски</Source>
     </Sources>
@@ -2965,31 +2960,31 @@ A cybernetic disguise implant is composed of a series of systems embedded beneat
     <Type>Cybernetics</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Gives all advantages of a standard disguise kit.</MiscDesc>
+        <MiscDesc>Обладает всеми преимуществами стандартного набора для маскировки.</MiscDesc>
       </Mod>
       <Mod>
         <Key>INDIS</Key>
         <Count>2</Count>
       </Mod>
       <Mod>
-        <MiscDesc>Changing general features (beard, hair color) requires 1 to 3 rounds.  More complex features may take minutes or hours.</MiscDesc>
+        <MiscDesc>Изменение общих черт (борода, цвет волос) требует от 1 до 3 раундов. Более сложные черты могут занять от нескольких минут до нескольких часов.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>Changing appearance to a specific individual requires a [B]Hard ([DI][DI][DI]) Deception check[b].</MiscDesc>
+        <MiscDesc>Изменение внешности до уровня конкретного человека требует [B]Сложной ([DI][DI][DI]) проверки "Обмана"[b].</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>CYBRAIN</Key>
-    <Name>Cybernetic Brain Implant</Name>
+    <Name>Кибер мозговой имплант</Name>
     <Description>
-      [H3]Cybernetic Brain Implant[h3]
+      [H3]Кибер мозговой имплант[h3]
 
-One fascinating invention in the field of cybernetics is the cybernetic implant, a computer device designed to augment the user's brainpower. One example, the Aj^6 implant, is a common enhancement for those who must oversee large operations or process vast amounts of data on a regular basis. The implant fits around the user's ears and back of the head, melding with the user's brain to achieve superior reasoning speeds as well as to store information for later analysis. The popular unit also allows for remote computer control as well as comlink capability.
+Одним из увлекательных изобретений в области кибернетики является кибернетический имплант - компьютерное устройство, предназначенное для увеличения умственных способностей пользователя. Один из примеров, имплантат Aj^6, является распространенным средством улучшения для тех, кто должен регулярно контролировать крупные операции или обрабатывать огромные объемы данных. Имплантат устанавливается вокруг ушей и затылка пользователя, сливаясь с его мозгом, чтобы достичь превосходной скорости мышления, а также хранить информацию для последующего анализа. Это популярное устройство также позволяет удаленно управлять компьютером и использовать функции связи.
 
-[P]A cybernetic brain implant provides + 1 Intelligence and includes a comlink and computer access link.
+[P]Кибер мозговой имплант дает +1 к "Интеллекту" и включает в себя комлинк и канал доступа к компьютеру.
 
-[P][B]Models Include:[b] BioTech Borg Construct Aj^6 Cybernetic Implant.</Description>
+[P][B]Модели включают:[b] Кибер имплант BioTech Borg Construct Aj^6.</Description>
     <Sources>
       <Source Page="174">Книга правил: Край Империи</Source>
       <Source Page="189">Книга правил: Эпоха восстания</Source>
@@ -3009,15 +3004,15 @@ One fascinating invention in the field of cybernetics is the cybernetic implant,
   </Gear>
   <Gear>
     <Key>CYCYBERJACK</Key>
-    <Name>Implanted Cyberjack</Name>
+    <Name>Имплантированный киберджек</Name>
     <Description>
-      [H3]Implanted Cyberjack[h3]
+      [H3]Имплантированный киберджек[h3]
 
-Usually taking the form of a prosthetic finger or other artificial appendage, a cyberjack allows its user to directly interface with a computer system via a universal serial socket. The cyberjack connects the user's brain to a droid or computer directly.
+Обычно имея форму протеза пальца или другого искусственного приспособления, киберджек позволяет пользователю напрямую взаимодействовать с компьютерной системой через универсальный последовательный разъем. Киберджек напрямую соединяет мозг пользователя с дроидом или компьютером.
 
-[P]Once per check, a character with an implanted cyberjack may suffer 2 strain to decrease the difficulty of a Computers check to disable a security device or slice into a computer system by one.
+[P]Один раз за проверку персонаж с имплантированным киберджеком может получить 2 "усталости", чтобы уменьшить сложность на 1 проверки навыка "Компьютеры" для отключения устройства безопасности или взлома компьютерной системы.
 
-[P][B]Models Include:[b] Neuro-Saav Technologies Cyber-Interface Unit, Illicit Electronics Cyberjack Package.</Description>
+[P][B]Модели включают:[b] Neuro-Saav Technologies Cyber-Interface Unit, Illicit Electronics Cyberjack Package.</Description>
     <Source Page="107">Дополнение: Лорды Нал-Хатта</Source>
     <Custom>DescOnly</Custom>
     <Type>Cybernetics</Type>
@@ -3030,18 +3025,18 @@ Usually taking the form of a prosthetic finger or other artificial appendage, a 
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Suffer 2 strain to decrease difficulty of Computers check to disable security or slice a computer by one.</MiscDesc>
+        <MiscDesc>Получите 2 "усталости", чтобы уменьшить сложность проверки компьютеров на 1, чтобы отключить устройство безопасности или взломать компьютерную систему..</MiscDesc>
       </Mod>
     </BaseMods>
     <WeaponModifiers />
   </Gear>
   <Gear>
     <Key>CYDROIDINTF</Key>
-    <Name>Cyborg/Droid Interface</Name>
+    <Name>Интерфейс Киборга/Дроида</Name>
     <Description>
-      [H3]Neuro-Saav Cyborg/Droid Interface[h3]
-     [P]Neuro-Saav’s cyborg/droid interface is a supplementary cybernetic that must be used in conjunction with a cybernetic brain implant (Ace of Rebellion Core Rulebook, page 189). It allows a properly equipped cyborg to connect directly to a droid’s communications port, letting it communicate with the droid and access its memories and any stored information. Such interfaces are valued by the Rebel Alliance, especially when interrogating captured enemy droids.
-[P]Not only does this device let a cyborg access hidden information stored in a droid’s memory banks, but it also allows it, when attempting to access information that a hostile droid does not wish to reveal, to upgrade the ability of all its Computers checks once [P]</Description>
+      [H3]Интерфейс Киборга/Дроида[h3]
+[P]Интерфейс киборга/дроида Neuro-Saav - это дополнительный кибернетический модуль, который необходимо использовать в сочетании с кибернетическим мозговым имплантом (Книга правил: Эпоха восстания, стр. 189). Он позволяет киборгу, оснащенному соответствующим оборудованием, подключаться напрямую к коммуникационному порту дроида, обмениваться с ним данными и получать доступ к его памяти и любой сохраненной информации. Такие интерфейсы ценятся Альянсом Повстанцев, особенно при допросах захваченных вражеских дроидов.
+[P]Это устройство не только позволяет киборгу получить доступ к скрытой информации, хранящейся в банках памяти дроида, но и, при попытке получить доступ к информации, которую враждебный дроид не желает раскрывать, позволяет ему на 1 повысить способность всех своих проверок "Компьютеров".</Description>
     <Source Page="112">Дополнение: Оплоты сопротивления</Source>
     <Custom>DescOnly</Custom>
     <Type>Cybernetics</Type>
@@ -3054,26 +3049,26 @@ Usually taking the form of a prosthetic finger or other artificial appendage, a 
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Allows access to hidden information in a droid's memory banks when linked.</MiscDesc>
+        <MiscDesc>Позволяет получить доступ к скрытой информации в банках памяти дроида при подключении.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>When attempting to access information that a linked droid does not want revealed, Computer checks may be upgraded once.</MiscDesc>
+        <MiscDesc>При попытке получить доступ к информации, которую связанный дроид не хочет раскрывать, проверку "Компьютера" можно улучшить на 1 способность.</MiscDesc>
       </Mod>
     </BaseMods>
     <WeaponModifiers />
   </Gear>
   <Gear>
     <Key>CYEYE</Key>
-    <Name>Cybernetic Eyes</Name>
+    <Name>Кибер глаза</Name>
     <Description>
-      [H3]Cybernetic Eyes[h3]
+      [H3]Кибер глаза[h3]
 
-Perhaps one of the most difficult cybernetic enhancement is replacement eyes, for most observers can detect even the slightest error. Athakam MedTech's line of cybernetic eyes passes such inspection, with many agreeing the Mod III is perhaps their finest achievement. Although they are obviously not the user's natural eyes, they grant the user increased visual acuity and recognition.
+Пожалуй, одним из самых сложных кибернетических усовершенствований является замена глаз, поскольку большинство наблюдателей могут обнаружить даже малейшую ошибку. Линейка кибернетических глаз Athakam MedTech проходит такую проверку, и многие согласны с тем, что Mod III, пожалуй, является их лучшим достижением. Хотя они явно не являются естественными глазами пользователя, они обеспечивают ему повышенную остроту зрения и распознавание.
 
-[P]Users with cybernetic eyes gain + 1 Vigilance and Perception.
+[P]Пользователи с кибер глазами получают +1 к "Бдительности" и "Внимания".
 
-[P][B]Models Include:[b] Athakam MedTech Cybernetic Eyes Mod III.</Description>
+[P][B]Модели включают:[b] Кибер глаза Mod III Athakam MedTech.</Description>
     <Sources>
       <Source Page="174">Книга правил: Край Империи</Source>
       <Source Page="189">Книга правил: Эпоха восстания</Source>
@@ -6805,7 +6800,7 @@ Usually reserved for formal affairs or the dealings of the wealthy, these small,
 Often, a hunter needs to track prey across tremendous distances. Sometimes this could be to identify a base of operations, other times it might simply be a matter of tailing a lead to a mark when the actual target's location is unknown. A homing beacon is a device that tracks a starship or its passengers and cargo even after a hyperspace jump. Homing beacons depend upon using existing HoloNet transceivers to transmit their location back to their source. Consequently, their effectiveness is sharply limited when the vehicle travels to a system that is not connected to the HoloNet.
 [P]Homing beacons vary substantially in size and in their means of application. Smaller models can be thrown by hand or manually attached to their targets. Larger ones may be fired from a rifle or even a vehilce-mounted weapon to track a more distant target. The size of the homing beacon is most relevent in determining the likelihood that anyone on the target vessel might notice its presence.
 [P]As long as a homing beacon is functional, the person who activated it may trace the associated target across the galaxy. No tests are required, so long as the targets travels within known systems. A homing beacon remains functional indefinitely, unless it is deactivated.</Description>
-    <Source Page="53">No Disintegrations</Source>
+    <Source Page="53">Дополнение: Без дезинтеграций</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
     <Categories />
@@ -7299,7 +7294,7 @@ A holocron, or holographic chronicle, is an organomechanical data storage device
 When setting a trap or infiltrating a facility, altering one's appearance grants a huge advantage. A holographic disguise matrix overlays the wielder's appearance with on stored on the device. The device—typically small enough to wear on a belt—includes a camera that can be used to record another individual's appearance to overlay on the wearer. A base model unit is capable of storing only a single disguise in memory at a time, though more sophisticated and expensive units do exist.
 [P]The projected hologram must be at least marginally larger than the wearer in order to provide adequate concealment. Thus, it cannot be used to disguise a particularly large individual as a smaller one. The holograms are built around visible light. so do not grant concealment against infrared sensors or detection devices built around other energies.
 [P]When using a holographic disguise matrix, the character can effectively impersonate the visual appearance of whomever the device has previously recorded. This device adds [BO][BO] to the user's Deception checks to impersonate the target and adds [SE][SE] to onlookers' Perception checks to detect the imposter.</Description>
-    <Source Page="54">No Disintegrations</Source>
+    <Source Page="54">Дополнение: Без дезинтеграций</Source>
     <Custom>DescOnly</Custom>
     <Type>Black Market</Type>
     <Categories>
@@ -10749,7 +10744,7 @@ The ability to turn a leap into an extended flight at will offers a tremendous l
 [P]The convenience of their smaller size comes at a cost, however. Rocket boots cannot operate for extended periods, due to their limited cooling capacity. Furthermore, as they are worn far from a beings center of gravity, they are far more difficult to control.
 [P]Rocket boots enable a person to function as a Silhoette 1, Speed 1, Handling -3, System Strain Threshold 3 vehicle that can only operate in atmosphere, and requires Piloting (Planetary) to operate. At the end of each round of activation, the rocket boots suffer 1 system strain as their fuel depletes.
 [P][I]Note:  For the vehicle version of this item, see the vehicle of the same name.[i]</Description>
-    <Source Page="53">No Disintegrations</Source>
+    <Source Page="53">Дополнение: Без дезинтеграций</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
     <Categories />
@@ -10864,7 +10859,7 @@ A popular game of chance throughout the galaxy, sabacc is difficult to master an
     <Description>[H3]Saline Pump[h3]
 Clawdites adjust their shape by moving fluid through their body, and reorganizing the structures on their skin's surface. This ability is partly limited by practice and technique, but is also affected by the amount of fluid within their bodies. Particularly accoplished Clawdite shape-changers may choose to wear a saline pump that can modify the amount of fluid within their limbic system as needed.
 [P]A Clawdite wearing a saline pump can increase or decrease his mass and size by as much as a tenth, enabling him to shape-change into a broader range of forms. Add [BO] to the Clawdite's checks to pass himself off as another person using his species ability, and add [SE] to other characters' checks to the Clawdite's physiological deception. Non-Clawdites gain no benefit to disguise from this item (and would likely find it exceedingly uncomfortable to use).</Description>
-    <Source Page="55">No Disintegrations</Source>
+    <Source Page="55">Дополнение: Без дезинтеграций</Source>
     <Custom>DescOnly</Custom>
     <Type>Black Market</Type>
     <Categories />
@@ -11340,7 +11335,7 @@ Originally produced for Corellian Security (CorSec) intelligence agents by Chiew
     <Description>[H3]Sleeppack (one dose)[h3]
 Physically similar to a stimpack, a sleeppack is an auto-injection tube filled with a variety of natural and synthetic sedatives. The intent is to quickly knock a target iyt, so that he can be safely manipulated. Originally intended solely for medical use—particularly when dealing with volatile patients—sleeppacks eventually spread to use in law enforcement as well as among bounty hunters.
 [P]Applying a sleeppack to an aware and unwilling target requires the wielder to make a [B]Hard ([DI][DI][DI]) Brawl[b] or [B]Melee combat check[b] against the target. Instead of inflicting damage, if the attacker succeeds, the target must immediately resist the effects of the medications that flood the system as a poison (with a Resilience check, as described on page 172 of the [B]Edge of the Empire[b] Core Rulebook). Any sized dose has a [B]Hard ([DI][DI][DI])[b] difficulty, and failure inflicts 10 strain.</Description>
-    <Source Page="55">No Disintegrations</Source>
+    <Source Page="55">Дополнение: Без дезинтеграций</Source>
     <Custom>DescOnly</Custom>
     <Type>Poisons</Type>
     <Categories />
@@ -12007,7 +12002,7 @@ Sulfur is a very common element, broadly available across the galaxy. Devaronian
 end of the encounter. Additional doses inflict more strain but do not give any additional bonuses. A dose is ineffective and unpleasant for most non-Devaronians.</Description>
     <Sources>
       <Source Page="105">Дополнение: Нексус Силы</Source>
-      <Source Page="55">No Disintegrations</Source>
+      <Source Page="55">Дополнение: Без дезинтеграций</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Price>200</Price>
@@ -12711,7 +12706,7 @@ Toxin detectors are simple handheld devices that can detect traces of toxins and
     <Description>[H3]Tracker's Goggles[h3]
 Widely available from a variety of manufacturers such as TaggeCo, Goseia Heavy Industries Concern, and Alvaxi, tracker's goggles are marketed primarily for wilderness enthusiasts and hunters of traditional game animals. These tools are designed with the concepts of functionality and reliablity as central elements. When worn, the user's vision is subsequently enhanced, including thermal imaging as well as improved vision under minimal light conditions.
 [P]Tracker's goggles grant [BO] to the wearer's Perception skill checks to locate a target by sight. Additionally, tracker's goggles remove [SE][SE] imposed due to concealment, darkness, or fog and mist from the wearer's Ranged (Light) and Ranged (Heavy) Combat skill checks.</Description>
-    <Source Page="54">No Disintegrations</Source>
+    <Source Page="54">Дополнение: Без дезинтеграций</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
     <Categories />
