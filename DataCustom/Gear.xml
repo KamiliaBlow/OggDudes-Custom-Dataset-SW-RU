@@ -2788,7 +2788,7 @@ Tri-Planetary Atmospherics (TPA) - небольшая компания, зани
     <Key>CYADRENAL</Key>
     <Name>Адреналовый имплант</Name>
     <Description>
-      [H3]дреналовый имплант[h3]
+      [H3]Адреналовый имплант[h3]
 
 Небольшой имплантат, прикрепленный к надпочечникам, стимулирует выработку адреналина в организме, когда нервная система человека подвергается стрессу. Хотя стимуляция импланта не так быстра, как прямая инъекция адреналина в кровоток, она сокращает время восстановления после усталости.
 
@@ -2862,9 +2862,9 @@ BioTech Industries - ведущий поставщик кибернетичес�
   </Gear>
   <Gear>
     <Key>CYARMVI</Key>
-    <Name>Кибер рука (Mod VI)</Name>
+    <Name>Киберрука (Mod VI)</Name>
     <Description>
-      [H3]Кибер рука (Mod VI)[h3]
+      [H3]Киберрука (Mod VI)[h3]
 
 BioTech Industries - ведущий поставщик кибернетических устройств по всей галактике, а ее киберруки Mod V и Mod VI подходят для сотен инопланетных видов. Эти киберруки разработаны для увеличения силы (в случае Mod V) или ловкости рук (в случае Mod VI). Хотя они предназначены для замены конечностей, утраченных в результате несчастных случаев, BioTech видит большой спрос на них со стороны тех, кто не против заменить свои руки механическими аналогами.
 
@@ -3094,13 +3094,13 @@ BioTech Industries - ведущий поставщик кибернетичес�
     <Key>CYGANKCOMM</Key>
     <Name>Gank Comm Implant</Name>
     <Description>
-      [H3]Gank Comm Implant[h3]
+      [H3]Комм. Имплант Ганка[h3]
 
-This peculiar comlink implant interfaces directly with the user's neocortex, allowing the user to communicate silently with other characters who possess similar implants merely by thinking. Virtually every adult Gank has one of these implants, which allows them to coordinate their actions with unparalleled efficiency.
+Этот своеобразный имплант-комлинк напрямую подключается к неокортексу пользователя, позволяя ему беззвучно общаться с другими персонажами, имеющими аналогичные импланты, просто с помощью мысли. Практически каждый взрослый Ганк имеет такой имплант, что позволяет им координировать свои действия с беспрецедентной эффективностью.
 
-[P]Characters with Gank comm implants can communicate silently with each other at ranges of up to several kilometers. Since these implants do not use audible information exchange, they cannot be used to communicate with a normal comlink. Likewise, due to the unique nature of these devices, it is virtually impossible for anyone without the implant to listen in on others' comm implant communications, though comm jammers can disrupt their signals. The messages sent via Gank comm implants are not auditory, so effectively communicating requires the users to share a language.
+[P]Персонажи с комм. имплантом Ганка могут бесшумно общаться друг с другом на расстоянии до нескольких километров. Поскольку эти имплантаты не используют звуковой обмен информацией, их нельзя использовать для связи с обычным коммуникатором. Аналогичным образом, из-за уникальной природы этих устройств, практически невозможно для кого-либо без импланта прослушивать коммуникации других с помощью коммуникационных имплантов, хотя глушители сигнала могут нарушать их сигналы. Сообщения, отправляемые через коммуникационные импланты Ганков, не являются аудиосигналами, поэтому для эффективной коммуникации пользователи должны говорить на одном языке.
 
-[P][B]Models Include:[b] Various.</Description>
+[P][B]Модели включают:[b] Разные.</Description>
     <Source Page="107">Дополнение: Лорды Нал-Хатта</Source>
     <Custom>DescOnly</Custom>
     <Type>Cybernetics</Type>
@@ -3115,15 +3115,15 @@ This peculiar comlink implant interfaces directly with the user's neocortex, all
   </Gear>
   <Gear>
     <Key>CYIMARM</Key>
-    <Name>Implant Armor</Name>
+    <Name>Имплант брони</Name>
     <Description>
-      [H3]Implant Armor[h3]
+      [H3]Имплант брони[h3]
 
-Another product from the ubiquitous Tagge Company and other corporations, implant armor is useful for occasions where obvious armor protection might be impractical or even act as an insult to prospective business partners. These thin plates rest under the skin, where they can absorb enemy fire with little serious damage to vulnerable tissue.
+Еще один продукт от всемирно известной компании Tagge и других корпораций, имплантируемая броня полезна в тех случаях, когда открытая броня может быть непрактичной или даже восприниматься как оскорбление потенциальными деловыми партнерами. Эти тонкие пластины размещаются под кожей, где они могут поглощать вражеский огонь, не нанося серьезного ущерба уязвимым тканям.
 
-[P]Implant armor provides + 1 soak.
+[P]Имплантированная броня добавляет +1 к "Поглощению".
 
-[BR][B]Models Include:[b] TaggeCo Implant Armor Mod V, BioTech "Duraskin" Implant.</Description>
+[BR][B]Модели включают:[b] Имплант брони Mod V TaggeCo, Имплант BioTech "Duraskin".</Description>
     <Sources>
       <Source Page="174">Книга правил: Край Империи</Source>
       <Source Page="190">Книга правил: Эпоха восстания</Source>
@@ -3144,14 +3144,14 @@ Another product from the ubiquitous Tagge Company and other corporations, implan
   </Gear>
   <Gear>
     <Key>CYIMIM</Key>
-    <Name>Immune Implant</Name>
+    <Name>Имунный имплант</Name>
     <Description>
-      [H3]Immune Implant[h3]
+      [H3]Имунный имплант[h3]
 
-Given the wide variety of life forms and the frequency with which many travel the galaxy, it is little wonder that diseases can become a major concern. Most have to rely on treatment or some form of local resistance meds, but these can vary from world to world. Athakam MedTech's Immune Implant solves such problems with simplicity and efficiency through use of a subdermal wide-spectrum defense mixture, designed to protect against almost every disease known. The Mod I implant is the most commonly used version, combining broad effectiveness and long-term results in a single package that rests just below the skin.
-[P]Possessing an Immune Implant grants the wearer +1 Resilience
+Учитывая огромное разнообразие форм жизни и частоту, с которой многие путешествуют по галактике, неудивительно, что болезни могут стать серьезной проблемой. Большинство вынуждены полагаться на лечение или какие-то местные лекарства, но они могут различаться от мира к миру. Иммунный имплант Athakam MedTech решает такие проблемы просто и эффективно за счет использования подкожной смеси широкого спектра действия, предназначенной для защиты от почти всех известных заболеваний. Имплант Mod I является наиболее часто используемой версией, сочетающей в себе широкую эффективность и долгосрочные результаты в одном устройстве, которое устанавливается непосредственно под кожей.
+[P]Обладание иммунным имплантом дает его владельцу +1 к "Стойкости".
 
-[BR][B]Models Include:[b] Athakam MedTech Immune Implant Mod I.</Description>
+[BR][B]Модели включают:[b] Имунный имплант Mod I Athakam MedTech.</Description>
     <Sources>
       <Source Page="174">Книга правил: Край Империи</Source>
       <Source Page="190">Книга правил: Эпоха восстания</Source>
@@ -3172,15 +3172,15 @@ Given the wide variety of life forms and the frequency with which many travel th
   </Gear>
   <Gear>
     <Key>CYLEGII</Key>
-    <Name>Cybernetic Leg (Mod II)</Name>
+    <Name>Кибернога (Mod II)</Name>
     <Description>
-      [H3]Cybernetic Leg (Mod II)[h3]
+      [H3]Кибернога (Mod II)[h3]
 
-BioTech's expertise with replacing natural limbs into superior cybernetics also extends to legs. For those with the credits, the loss of such limbs does not have to mean any loss of ability and can even lead to greater mobility than before. Advanced models such as the Mod II can offer greater power, while the Mod III uses computer-guided gyroscopic implants for superior quickness.
+Опыт BioTech в области замены естественных конечностей на совершенные кибернетические протезы распространяется и на ноги. Для тех, кто располагает необходимыми средствами, потеря таких конечностей не означает утрату способностей и может даже привести к большей подвижности, чем раньше. Передовые модели, такие как Mod II, могут обеспечить большую мощность, а Mod III использует компьютерные гироскопические импланты для обеспечения превосходной быстроты.
 
-[P]Note that cyberlegs must be purchased as a pair. Mod II Cyberlegs provide + 1 Brawn, while the Mod III provides + 1 Agility. The wearer must have both legs replaced to receive the bonus to his characteristics.
+[P]Обратите внимание, что киберноги необходимо приобретать парами. Киберноги Mod II дают +1 к "Телосложению", а Mod III  +1 к "Ловкости". Чтобы получить бонус к характеристикам, необходимо заменить обе ноги.
 
-[P][B]Models Include:[b] BioTech Industries Cyberlegs Mod II and Mod III. </Description>
+[P][B]Модели включают:[b] Киберноги Mod II и Mod III BioTech Industries.</Description>
     <Sources>
       <Source Page="173">Книга правил: Край Империи</Source>
       <Source Page="189">Книга правил: Эпоха восстания</Source>
@@ -3200,15 +3200,15 @@ BioTech's expertise with replacing natural limbs into superior cybernetics also 
   </Gear>
   <Gear>
     <Key>CYLEGIII</Key>
-    <Name>Cybernetic Leg (Mod III)</Name>
+    <Name>Кибернога (Mod III)</Name>
     <Description>
-      [H3]Cybernetic Leg (Mod III)[h3]
+      [H3]Кибернога (Mod III)[h3]
 
-BioTech's expertise with replacing natural limbs into superior cybernetics also extends to legs. For those with the credits, the loss of such limbs does not have to mean any loss of ability and can even lead to greater mobility than before. Advanced models such as the Mod II can offer greater power, while the Mod III uses computer-guided gyroscopic implants for superior quickness.
+Опыт BioTech в области замены естественных конечностей на совершенные кибернетические протезы распространяется и на ноги. Для тех, кто располагает необходимыми средствами, потеря таких конечностей не означает утрату способностей и может даже привести к большей подвижности, чем раньше. Передовые модели, такие как Mod II, могут обеспечить большую мощность, а Mod III использует компьютерные гироскопические импланты для обеспечения превосходной быстроты.
 
-[P]Note that cyberlegs must be purchased as a pair. Mod II Cyberlegs provide + 1 Brawn, while the Mod III provides + 1 Agility. The wearer must have both legs replaced to receive the bonus to his characteristics.
+[P]Обратите внимание, что киберноги необходимо приобретать парами. Киберноги Mod II дают +1 к "Телосложению", а Mod III  +1 к "Ловкости". Чтобы получить бонус к характеристикам, необходимо заменить обе ноги.
 
-[P][B]Models Include:[b] BioTech Industries Cyberlegs Mod II and Mod III. </Description>
+[P][B]Модели включают:[b] Киберноги Mod II и Mod III BioTech Industries.</Description>
     <Sources>
       <Source Page="173">Книга правил: Край Империи</Source>
       <Source Page="189">Книга правил: Эпоха восстания</Source>
@@ -3228,15 +3228,15 @@ BioTech's expertise with replacing natural limbs into superior cybernetics also 
   </Gear>
   <Gear>
     <Key>CYNEUROMACH</Key>
-    <Name>Neuromachine Interface</Name>
+    <Name>Нейромашинный интерфейс</Name>
     <Description>
-      [H3]Neuromachine Interface[h3]
+      [H3]Нейромашинный интерфейс[h3]
 
-A vehicle control system designed to be integrated directly into the nervous system, this ingenious (if notoriously difficult to use) device allows the user to control a vehicle with a thought, moving it as if it was part of his own body. The cybernetic requires use of a linked control device, which must be installed in the craft in question.
+Система управления транспортным средством, предназначенная для непосредственной интеграции в нервную систему. Этот гениальный (хотя и известный своей сложностью в использовании) прибор позволяет пользователю управлять транспортным средством с помощью мысли, двигая его так, как если бы оно было частью его собственного тела. Кибернетический прибор требует использования связанного с ним устройства управления, которое должно быть установлено в соответствующем транспортном средстве.
 
-[P]When piloting a vehicle with the linked control device, a character with a neuromachine interface may use his Coordination skill in place of the Pilot (Planetary) or Pilot (Space) skill.
+[P]При управлении транспортным средством с помощью подключенного устройства управления персонаж с нейромашинным интерфейсом может использовать навык "Координация" вместо навыка "Пилотирование (планетарное)" или "Пилотирование (космическое)".
 
-[P][B]Models Include:[b] Neuro-Saav Technologies C-39 Link.</Description>
+[P][B]Модели включают:[b] Neuro-Saav Technologies C-39 Link.</Description>
     <Source Page="107">Дополнение: Лорды Нал-Хатта</Source>
     <Custom>DescOnly</Custom>
     <Type>Cybernetics</Type>
@@ -3249,22 +3249,22 @@ A vehicle control system designed to be integrated directly into the nervous sys
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>When piloting vehicle with linked control device, may use Coordination skill instead of Piloting skill.</MiscDesc>
+        <MiscDesc>При управлении транспортным средством с подключенным устройством управления можно использовать навык "Координация" вместо навыка "Пилотирование".</MiscDesc>
       </Mod>
     </BaseMods>
     <WeaponModifiers />
   </Gear>
   <Gear>
     <Key>CYREFLEX</Key>
-    <Name>Cybernetic Reflexes</Name>
+    <Name>Кибер рефлексы</Name>
     <Description>
-      [H3]Cybernetic Reflexes[h3]
+      [H3]Кибер рефлексы[h3]
 
-A series of specialized implants designed to stimulate and help regulate the sympathetic nervous system of the user, cybernetic reflexes can greatly increase an individual's reaction time to outside stimuli and threats. By reducing the latency of neural communication between the sensory organs and brainstem, cybernetic reflexes can give the user a slight edge.
+Серия специализированных имплантов, предназначенных для стимуляции и регулирования симпатической нервной системы пользователя. Кибернетические рефлексы могут значительно увеличить время реакции человека на внешние раздражители и угрозы. Уменьшая задержку нервной связи между органами чувств и стволом мозга, кибернетические рефлексы могут дать пользователю небольшое преимущество.
 
-[P]Cybernetic reflexes provide 1 rank of the Rapid Reaction talent.
+[P]Кибернетические рефлексы дает 1 ранг таланта "Быстрая реакция".
 
-[P][B]Models Include:[b] BioTech Industries Rapid 12 Cyber-Reflex System.</Description>
+[P][B]Модели включают:[b] Система кибер-рефлексов BioTech Industries Rapid 12.</Description>
     <Source Page="106">Дополнение: Лорды Нал-Хатта</Source>
     <Custom>DescOnly</Custom>
     <Type>Cybernetics</Type>
@@ -3284,17 +3284,17 @@ A series of specialized implants designed to stimulate and help regulate the sym
   </Gear>
   <Gear>
     <Key>CYREPLIMB</Key>
-    <Name>Repli-Limb Prosthetic (limb)</Name>
+    <Name>Протез Repli-Limb (конечности)</Name>
     <Description>
-      [H3]Repli-Limb Prosthetic (limb)[h3]
+      [H3]Протез Repli-Limb (конечности)[h3]
 
-Given the often violent nature of the galaxy and the dangerous weapons used to settle many disagreements, many losers (and winners) of such conflicts often wind up with fewer fingers, arms, or legs than when they started. Others might have internal organs destroyed or ruined eyes. While cloning technology and flesh regenerators can be used to repair such losses, few use this option, as it is expensive and often highly illegal. Instead, many opt for mechanical replacements.
+Учитывая часто жестокий характер галактики и опасное оружие, используемое для урегулирования многих разногласий, многие проигравшие (и победители) таких конфликтов часто остаются с меньшим количеством пальцев, рук или ног, чем в начале. У других могут быть повреждены внутренние органы или разрушены глаза. Хотя для восстановления таких потерь можно использовать технологии клонирования и регенерации тканей, немногие пользуются этой возможностью, поскольку она дорогая и часто является незаконной. Вместо этого многие выбирают механические протезы.
 
-[P]BioTech Industries' Repli-Limb Prosthetic Replacements are some of the more popular options. These cybernetics are designed to provide identical functionality to the original limb or organ, and are installed with a synthflesh covering, making them almost indistinguishable from the organic component they replace.
+[P]Протезы Repli-Limb от BioTech Industries являются одними из самых популярных вариантов. Эти кибернетические устройства разработаны для обеспечения функциональности, идентичной функциональности оригинальной конечности или органа, и оснащены синтетическим покрытием, благодаря чему их практически невозможно отличить от органического компонента, который они заменяют.
 
-[P]Limbs and major organs (including sensory organs such as eyes and ears, as well as heart, lungs, livers, and more) can all be replaced with a Repli-Limb option. They do not provide any bonuses or enhancements to the character, but restore him to normality. There are two general cost entries for Repli-Limb Prosthetics; the first is for limbs, the second for organs. However, the GM should feel free to increase or decrease the costs depending on the specific circumstances.
+[P]Конечности и основные органы (включая органы чувств, такие как глаза и уши, а также сердце, легкие, печень и т. д.) могут быть заменены с помощью опций Repli-Limb. Они не дают персонажу никаких бонусов или улучшений, но восстанавливают его нормальное состояние. Существует две общие стоимости для протезов Repli-Limb: первая — для конечностей, вторая — для органов. Однако ГМ может увеличить или уменьшить стоимость в зависимости от конкретных обстоятельств.
 
-[P][B]Models Include:[b] BioTech Industries Repli-Limb Prosthetic Replacements.</Description>
+[P][B]Модели включают:[b] Заменяемый протез Repli-Limb BioTech Industries.</Description>
     <Sources>
       <Source Page="174">Книга правил: Край Империи</Source>
       <Source Page="190">Книга правил: Эпоха восстания</Source>
@@ -3310,17 +3310,17 @@ Given the often violent nature of the galaxy and the dangerous weapons used to s
   </Gear>
   <Gear>
     <Key>CYREPORG</Key>
-    <Name>Repli-Limb Prosthetic (organ)</Name>
+    <Name>Протез Repli-Limb (органы)</Name>
     <Description>
-      [H3]Repli-Limb Prosthetic (organ)[h3]
+      [H3]Протез Repli-Limb (органы)[h3]
 
-Given the often violent nature of the galaxy and the dangerous weapons used to settle many disagreements, many losers (and winners) of such conflicts often wind up with fewer fingers, arms, or legs than when they started. Others might have internal organs destroyed or ruined eyes. While cloning technology and flesh regenerators can be used to repair such losses, few use this option, as it is expensive and often highly illegal. Instead, many opt for mechanical replacements.
+Учитывая часто жестокий характер галактики и опасное оружие, используемое для урегулирования многих разногласий, многие проигравшие (и победители) таких конфликтов часто остаются с меньшим количеством пальцев, рук или ног, чем в начале. У других могут быть повреждены внутренние органы или разрушены глаза. Хотя для восстановления таких потерь можно использовать технологии клонирования и регенерации тканей, немногие пользуются этой возможностью, поскольку она дорогая и часто является незаконной. Вместо этого многие выбирают механические протезы.
 
-[P]BioTech Industries' Repli-Limb Prosthetic Replacements are some of the more popular options. These cybernetics are designed to provide identical functionality to the original limb or organ, and are installed with a synthflesh covering, making them almost indistinguishable from the organic component they replace.
+[P]Протезы Repli-Limb от BioTech Industries являются одними из самых популярных вариантов. Эти кибернетические устройства разработаны для обеспечения функциональности, идентичной функциональности оригинальной конечности или органа, и оснащены синтетическим покрытием, благодаря чему их практически невозможно отличить от органического компонента, который они заменяют.
 
-[P]Limbs and major organs (including sensory organs such as eyes and ears, as well as heart, lungs, livers, and more) can all be replaced with a Repli-Limb option. They do not provide any bonuses or enhancements to the character, but restore him to normality. There are two general cost entries for Repli-Limb Prosthetics; the first is for limbs, the second for organs. However, the GM should feel free to increase or decrease the costs depending on the specific circumstances.
+[P]Конечности и основные органы (включая органы чувств, такие как глаза и уши, а также сердце, легкие, печень и т. д.) могут быть заменены с помощью опций Repli-Limb. Они не дают персонажу никаких бонусов или улучшений, но восстанавливают его нормальное состояние. Существует две общие стоимости для протезов Repli-Limb: первая — для конечностей, вторая — для органов. Однако ГМ может увеличить или уменьшить стоимость в зависимости от конкретных обстоятельств.
 
-[P][B]Models Include:[b] BioTech Industries Repli-Limb Prosthetic Replacements.</Description>
+[P][B]Модели включают:[b] Заменяемый протез Repli-Limb BioTech Industries.</Description>
     <Sources>
       <Source Page="174">Книга правил: Край Империи</Source>
       <Source Page="190">Книга правил: Эпоха восстания</Source>
@@ -3336,14 +3336,14 @@ Given the often violent nature of the galaxy and the dangerous weapons used to s
   </Gear>
   <Gear>
     <Key>CYREPULSORFIST</Key>
-    <Name>Repulsor Fist</Name>
+    <Name>Репульсорный кулак</Name>
     <Description>
-      [H3]Repulsor Fist[h3]
+      [H3]Репульсорный кулак[h3]
 
-Also called a repulse-hand or an enforcer grip, this durasteel weapon cybernetic is typically neither covered in synthskin nor intended to appear natural. It contains miniature repulsor generators that can be switched on to deliver crushing blows and deflect incoming attacks.
-[P]A repulsor grip provides one rank of the Defensive Stance talent and counts as a Brawl weapon with a damage of 8, a Critical Rating of 3, and the Concus-sive 1 and Slow-Firing 2 qualities. This weapon has the Slow-Firing 2 rule, meaning it can only be used once every third round. This means that while a char-acter may still make Brawl attacks when this weapon is "recharging" he does so without any benefits from the weapon—he simply makes an unarmed melee attack.
+Это кибернетическое оружие из дюрастали, также называемое "рука-репульсор" или "укрепленный захват", как правило, не покрыто синтетической кожей и не предназначено для того, чтобы выглядеть естественно. Оно содержит миниатюрные репульсорные генераторы, которые можно включить для нанесения сокрушительных ударов и отражения атак противника.
+[P]Репульсорный захват дает 1 уровень таланта "Защитная стойка" и считается оружием "Грубой силы" с уроном 8, крит. рейтингом 3 и качествами Concus-sive 1 и Slow-Firing 2. Это оружие имеет правило Slow-Firing 2, что означает, что его можно использовать только раз в 3 раунда. Это означает, что хотя персонаж может по-прежнему наносить удары "Грубой силой", когда это оружие recharging, он делает это без каких-либо преимуществ от оружия - он просто наносит удар кулаком без оружия.
 
-[P][B]Models Include:[b] Illicit Electronics Juggernaut Mag Fist, Control Zone Ltd. Repulse-hand.</Description>
+[P][B]Модели включают:[b] Illicit Electronics Juggernaut Mag Fist, Control Zone Ltd. Repulse-hand.</Description>
     <Source Page="107">Дополнение: Лорды Нал-Хатта</Source>
     <Custom>DescOnly</Custom>
     <Type>Cybernetics</Type>
@@ -3359,7 +3359,7 @@ Also called a repulse-hand or an enforcer grip, this durasteel weapon cybernetic
         <Count>1</Count>
       </Mod>
       <Mod>
-        <MiscDesc>Counts as a Brawl weapon</MiscDesc>
+        <MiscDesc>Считается оружием "Грубой силы"</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
@@ -3389,15 +3389,15 @@ Also called a repulse-hand or an enforcer grip, this durasteel weapon cybernetic
   </Gear>
   <Gear>
     <Key>CYRESPIR</Key>
-    <Name>Cybernetic Respirator</Name>
+    <Name>Кибер респиратор</Name>
     <Description>
-      [H3]Cybernetic Respirator[h3]
+      [H3]Кибер респиратор[h3]
 
-For those organics seeking to escape fleshly frailties, cybernetic respirators offer an alternative to lungs. These machines are often designed to be robust and resilient, filtering out many different toxins and allowing those implanted with them to survive underwater or even in a completely airless environment for a short time. Certain models are known for making a regular, ominous rasp while others work in deadly silence.
+Для тех органических существ, которые стремятся избавиться от физических слабостей, кибернетические респираторы предлагают альтернативу легким. Эти устройства часто имеют прочную и устойчивую конструкцию, фильтруют множество различных токсинов и позволяют тем, кому они имплантированы, выживать под водой или даже в полностью безвоздушной среде в течение короткого времени. Некоторые модели известны своим регулярным, зловещим хрипом, в то время как другие работают в смертельной тишине.
 
-[P]A cybernetic respirator permanently provides a character with the benefits of a breath mask and respirator (see page 179 of the [B]Edge of the Empire[b] Core Rulebook) and 1 rank of the Blooded talent.
+[P]Кибернетический респиратор постоянно предоставляет персонажу преимущества "дыхательной маски" и "респиратора" (см. стр. 179 [B]Книга правил: Край Империи[b]) и 1 ранг таланта "Стойкость к ядам".
 
-[P][B]Models Include:[b] Various. </Description>
+[P][B]Модели включают:[b] Разные. </Description>
     <Source Page="107">Дополнение: Лорды Нал-Хатта</Source>
     <Custom>DescOnly</Custom>
     <Type>Cybernetics</Type>
@@ -3410,7 +3410,7 @@ For those organics seeking to escape fleshly frailties, cybernetic respirators o
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Provides benefits of breath mask and respirator.</MiscDesc>
+        <MiscDesc>Обеспечивает преимущества "дыхательной маски" и "респиратора".</MiscDesc>
       </Mod>
       <Mod>
         <Key>BLO</Key>
@@ -3421,15 +3421,15 @@ For those organics seeking to escape fleshly frailties, cybernetic respirators o
   </Gear>
   <Gear>
     <Key>CYRETINALTRACK</Key>
-    <Name>Q-22 Retinal Tracker</Name>
+    <Name>Трекер сетчатки Q-22</Name>
     <Description>
-      [H3]Q-22 Retinal Tracker[h3]
+      [H3]Трекер сетчатки Q-22[h3]
 
-Consisting of microsensors implanted directly behind the user's retinas and a tiny tracking computer installed at the base of the skull, a retinal tracker aids the user in targeting imminent threats. A simple thought impulse activates the system, which projects a targeting reticule directly onto the user's retina. Though not infallible, the system can increase the user's accuracy when trying to land precision shots or hit multiple foes with a heavy weapon.
+Состоящий из микросенсоров, имплантированных непосредственно за сетчаткой глаза пользователя, и крошечного компьютера слежения, установленного у основания черепа, трекер сетчатки помогает пользователю нацеливаться на неминуемые угрозы. Простой мысленный импульс активирует систему, которая проецирует прицельную сетку непосредственно на сетчатку глаза пользователя. Хотя система не является безошибочной, она может повысить точность пользователя при попытке нанести точные выстрелы или поразить нескольких противников тяжелым оружием.
 
-[P]A retinal tracker provides automatic [AD] on Gunnery and Ranged (Heavy) checks.
+[P]Трекер сетчатки добавляет автоматический [AD] при проверках "Артиллерии" и "Дальний бой (тяжелое оружие)".
 
-[P][B]Models Include:[b] Neuro-Saav Technologies Q-22.</Description>
+[P][B]Модели включают:[b] Neuro-Saav Technologies Q-22.</Description>
     <Source Page="107">Дополнение: Лорды Нал-Хатта</Source>
     <Custom>DescOnly</Custom>
     <Type>Cybernetics</Type>
@@ -3442,7 +3442,7 @@ Consisting of microsensors implanted directly behind the user's retinas and a ti
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Provides [ADVANTAGE] on Gunnery and Ranged-Heavy checks.</MiscDesc>
+        <MiscDesc>Добавьте [ADVANTAGE] при проверках "Артиллерия" и "Дальний бой (тяжелое оружие)".</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillKey>GUNN</SkillKey>
