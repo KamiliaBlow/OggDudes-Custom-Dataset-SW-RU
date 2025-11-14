@@ -2,14 +2,14 @@
 <CoreSources>
   <CoreSource>
     <Key>AOR</Key>
-    <Name>Age of Rebellion Core Rulebook</Name>
+    <Name>Книга правил: Эпоха восстания (Age of Rebellion)</Name>
   </CoreSource>
   <CoreSource>
     <Key>EOTE</Key>
-    <Name>Edge of the Empire Core Rulebook</Name>
+    <Name>Книга правил: Край Империи (Edge of the Empire)</Name>
   </CoreSource>
   <CoreSource>
     <Key>FAD</Key>
-    <Name>Force and Destiny Core Rulebook</Name>
+    <Name>Книга правил: Сила и судьба (Force and Destiny)</Name>
   </CoreSource>
 </CoreSources>
