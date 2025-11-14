@@ -6,12 +6,12 @@
     <Description>
       [H3]12 Defender[h3]
 
-Described as a "micro blaster" in advertising literature, the 12 Defender holdout blaster by Gee-Tech is a weapon of dubious quality and legality. Touted as the smallest, most reliable self-defense blaster for sale in the galaxy," this tiny pistol is a light, easily concealable, low-powered holdout blaster marketed to wealthy individuals such as merchants, entertainers, and politicians. In theory, the 12 Defender is perfect for those who need a bit of personal protection but have no need or desire to carry a larger blaster pistol. In practice, however, this tiny pistol is a cheaply made, largely disposable weapon of questionable reliability. Produced in the millions and possessing no distinguishing markings (not even a serial number) these weapons feature a ceraplas frame coated with a non-reactive polymer case, which makes them incredibly light and nearly invisible to weapon detection systems. They carry only two shots in their integral power pack, and, once fired, cannot be recharged and retain only a small amount of scrap value.
+Описываемый в рекламной литературе как "микро-бластер", карманный бластер 12 Defender от Gee-Tech является оружием сомнительного качества и законности. Рекламируемый как "самый маленький и надежный бластер для самообороны, продаваемый в галактике", этот крошечный пистолет представляет собой легкий, легко скрываемый бластер с низкой мощностью, предназначенный для богатых людей, таких как коммерсанты, артисты и политики. Теоретически, 12 Defender идеально подходит для тех, кто нуждается в некоторой личной защите, но не имеет необходимости или желания носить с собой более крупный бластер-пистолет. Однако на практике этот крошечный пистолет является дешевым, в основном одноразовым оружием сомнительной надежности. Производимые миллионными тиражами и не имеющие никаких отличительных знаков (даже серийного номера), эти оружия имеют раму из церапласта, покрытую нереактивным полимерным корпусом, что делает их невероятно легкими и практически невидимыми для систем обнаружения оружия. Они вмещают только два выстрела в своем встроенном блоке питания, и после выстрела не могут быть перезаряжены и сохраняют только небольшую стоимость в качестве металлолома.
 
-[P]While the 12 Defender certainly does offer a fair amount of protection for the price, its shoddy construction and lack of versatility limits its usefulness to the average galactic citizen. However, due to its ease of concealment, ability to elude scanners, untraceable components, and disposable nature, this tiny pistol has found an avid following among the criminal classes.
+[P]Хотя 12 Defender, безусловно, предлагает достаточно хорошую защиту за свою цену, его некачественная конструкция и недостаточная универсальность ограничивают его полезность для среднестатистического галактического гражданина. Однако благодаря своей легкости в скрытии, способности ускользать от сканеров, неотслеживаемым компонентам и одноразовому характеру, этот крошечный пистолет нашел горячих поклонников среди преступных элементов.
 
-[P]Add [SE][SE] to a character's Computers and Perception checks when attempting to find a 12 Defender on a person's body. A 12 Defender may not be reloaded.</Description>
-    <Source Page="40">Far Horizons</Source>
+[P]Добавьте [SE][SE] к проверкам персонажа на "Компьютеры" и "Внимание" при попытке найти 12 Defender на теле человека. 12 Defender не может быть перезаряжен.</Description>
+    <Source Page="40">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -27,7 +27,7 @@ Described as a "micro blaster" in advertising literature, the 12 Defender holdou
     <Restricted>false</Restricted>
     <BaseMods>
       <Mod>
-        <MiscDesc>Add [SETBACK][SETBACK] to Perception and Computers checks to find this weapon on a body.  May not be reloaded.</MiscDesc>
+        <MiscDesc>Добавьте [SETBACK][SETBACK] к проверкам персонажа на "Компьютеры" и "Внимание" при попытке найти 12 Defender на теле человека. 12 Defender не может быть перезаряжен.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
@@ -47,11 +47,11 @@ Described as a "micro blaster" in advertising literature, the 12 Defender holdou
   </Weapon>
   <Weapon>
     <Key>134ABUZZ</Key>
-    <Name>Model 134a "Buzzsaw" Rotary Cannon</Name>
-    <Description>[H3]Model 134a "Buzzsaw" Rotary Cannon[h3]
-Loud, heavy, and dangerous, the Model 134a is the heaviest portable slugthrower produced by Czerka. Known colloquially as the "Buzzsaw," thanks to the noise it makes when fired, this weapon is a belt-fed, six-barreled rotary cannon that fires thousands of rounds per second and can chew up infantry formations and light vehicles with ease. Power and ammunition are fed to the weapon via reinforced belts and cables from a backpack that carries the power pack and a sizeable load of small-caliber ammunition. Thanks to their weight and prodigious recoil, it takes quite a bit of strength and stamina to effectively use these weapons, and they are typically supported by a bipod or sling while being fired. In addition to their weight, noise, and recoil, Buzzsaws consume immense amounts of ammunition and have a nasty tendency to overheat and jam when fired for extended periods of time.
-[P]The Model 134a can only be fired using the Auto-fire quality. Game Masters may spend [DE] or [TH][TH][TH] to have the weapon overheat and jam. When a Buzzsaw jams, the user must perform a maneuver to clear the jam before it can be fired again.</Description>
-    <Source Page="41">Дополнение: Рыцари судьбы</Source>
+    <Name>Модель 134a Роторная пушка "Buzzsaw" (Model 134a "Buzzsaw" Rotary Cannon)</Name>
+    <Description>[H3]Модель 134a Роторная пушка "Buzzsaw"[h3]
+Громкий, тяжелый и опасный. Модель 134a является самым тяжелым переносным гранатометом, производимым компанией Czerka. Известный в народе как "Buzzsaw" (пила) благодаря шуму, который он издает при стрельбе, это оружие представляет собой шестиствольную вращающуюся пушку с ленточным питанием, которая стреляет тысячами патронов в секунду и может с легкостью уничтожать пехотные формирования и легкие транспортные средства. Энергия и боеприпасы подаются в оружие через усиленные ремни и кабели из рюкзака, в котором находится блок питания и значительный запас боеприпасов малого калибра. Благодаря своему весу и огромной отдаче, для эффективного использования этого оружия требуется немалая сила и выносливость, поэтому при стрельбе его обычно поддерживают с помощью сошки или ремня. Помимо веса, шума и отдачи, Buzzsaw потребляет огромное количество боеприпасов и имеет неприятную тенденцию к перегреву и заклиниванию при длительной стрельбе.
+[P]Модель 134a может стрелять только в режиме автоматического огня. Гейм-мастера могут потратить [DE] или [TH][TH][TH], чтобы оружие перегрелось и заклинило. Когда Buzzsaw заклинивает, пользователь должен выполнить маневр, чтобы устранить заклинивание, прежде чем оружие сможет снова стрелять.</Description>
+    <Source Page="41">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
     <Categories>
@@ -66,11 +66,11 @@ Loud, heavy, and dangerous, the Model 134a is the heaviest portable slugthrower 
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>May only be fired using the Autofire quality</MiscDesc>
+        <MiscDesc>Может стрелять только с качеством "Autofire"</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>GM may spend [DE] or [TH][TH][TH] to have the weapon overheat and jam.  Clearing jam requires a maneuver.</MiscDesc>
+        <MiscDesc>ГМ может потратить [DE] или [TH][TH][TH], чтобы оружие перегрелось и заклинило. Для устранения заклинивания требуется маневр.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>GUNN</SkillKey>
@@ -95,11 +95,11 @@ Loud, heavy, and dangerous, the Model 134a is the heaviest portable slugthrower 
   </Weapon>
   <Weapon>
     <Key>411HOLDOUT</Key>
-    <Name>411 Holdout Blaster</Name>
+    <Name>Карманный бластер 411 (411 Holdout Blaster)</Name>
     <Description>
-      [H3]Czerka Arms 411 Holdout Blaster[h3]
+      [H3]Карманный бластер Czerka Arms 411[h3]
 
-Developed for use by Imperial agents, the 411 holdout blaster's supercharged actuator module and tight muzzle emitter give it impressive range for a holdout blaster. The increased range comes at the cost of overall stopping power when compared to other holdout blasters. Though intended for the exclusive use of the Empire, Rebels stole the design specifications and a large shipment of 411s, flooding the black market with the small, deadly weapons.</Description>
+Разработанный для использования имперскими агентами, карманный бластер 411 с наддувным приводным модулем и узким дульным излучателем обладает впечатляющей дальностью стрельбы для бластера такого типа. Увеличенная дальность достигается за счет снижения общей останавливающей силы по сравнению с другими бластерами. Хотя он был предназначен исключительно для использования Империей, повстанцы похитили технические характеристики и большую партию карманных бластеров 411, наводнив черный рынок этим небольшим, но смертоносным оружием.</Description>
     <Source Page="43">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -128,17 +128,17 @@ Developed for use by Imperial agents, the 411 holdout blaster's supercharged act
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>Adds [SE] to Perception checks when attempting to locate holdout blaster on a person's body</MiscDesc>
+        <MiscDesc>Добавьте [SE] к проверкам "Внимания" при попытке обнаружить карманный бластер на теле человека.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>8GAUGESCATTER</Key>
-    <Name>8-Gauge Scatter Gun</Name>
+    <Name>8-калиберный Дробовик (8-Gauge Scatter Gun)</Name>
     <Description>
-      [H3]Adostic Arms 8-Gauge Scatter Gun[h3]
+      [H3]8-калиберный Дробовик Adostic Arms[h3]
 
-A powerful, large-bore slugthrower produced by Adostic Arms, their 8-gauge scatter gun fires a hail of small steel pellets. Though based on primitive slugthrower technology, the weapon's bestial stopping power rivals that of a heavy blaster pistol. Made of modern, lightweight materials, the scatter gun incorporates a sophisticated recoil system to reduce the weapon's big kick when fired. Many smugglers and free traders prefer these weapons to blasters for their ability to spray the narrow corridors and airlocks of starships without fear of accidentally penetrating the hull of the vessel.</Description>
+Мощный крупнокалиберный дробовик производства Adostic Arms, их 8-калиберный дробовик стреляет градом мелких стальных дробин. Хотя он основан на примитивной технологии дробовиков, его зверская останавливающая сила соперничает с тяжелым бластером. Изготовленный из современных легких материалов, дробовик оснащен сложной системой отдачи, которая уменьшает сильный отдачу при выстреле. Многие контрабандисты и свободные торговцы предпочитают это оружие бластерам за его способность обстреливать узкие коридоры и шлюзы звездолетов, не опасаясь случайно пробить корпус судна.</Description>
     <Source Page="44">Fly Casual</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
@@ -678,7 +678,7 @@ armor with ease makes it perfect for taking out stormtroopers silently.</Descrip
 Some say the earliest precursors to the Jedi wielded true swords, not lightsabers, in their battles against evil These weapons possessed strikingly shaped blades and a unique balance that made them difficult to master for those used to wielding more mundane weapons. Some whisper that those early Force-sensitive warriors could somehow imbue these weapons with the Force, making them stronger, keener, and more deadly. Whatever the truth of these rumors, there are still examples of such swords in the galaxy today. Some are artfully crafted replicas or commissioned by specific warriors, while a Few are treasured heirlooms preserved from the mists of the distant past.
 
 [BR][B]Models Include:[b] None.</Description>
-    <Source Page="172">Книга правил: Сила и судьба</Source>
+    <Source Page="172">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Cutting Edge Melee</Category>
@@ -767,7 +767,7 @@ Armor-piercing grenades, commonly known as AP grenades, are offensive grenades d
 [P]Like frag grenades, AP grenades can be set to detonate on impact, set with a timer to detonate up to 3 rounds after being activated, or use a pressure detonator.
 
 [BR][B]Models Include:[b] Merr-Sonn Model 9 Armor Piercing Grenade, Merr-Sonn "Door Buster" Anti-Materiel Grenade. </Description>
-    <Source Page="179">Книга правил: Эпоха восстания</Source>
+    <Source Page="179">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -816,7 +816,7 @@ Armor-piercing grenades, commonly known as AP grenades, are offensive grenades d
     <Description>[H3]AP-M1 Armor Piercing Grenade[h3]
 Merr-Sonn's AP-M1 armor piercing grenade is designed to give the common foot soldier light anti-armor capabilities in the field. Roughly the size of a clone's fist, the AP-M1 consists of a small shaped charge core encased in a plasteel casing. When it detonates, the grenade produces a highly focused blast that can crack open even the toughest armor. The AP-M1 can be thrown like a standard grenade or placed and held in position by an integral chemical adhesive system. This makes them well suited for precision demolition work as well as anti-vehicle and armor use.</Description>
     <Sources>
-      <Source Page="52">Дополнение: Восстание сепаратистов</Source>
+      <Source Page="52">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -857,7 +857,7 @@ Merr-Sonn's AP-M1 armor piercing grenade is designed to give the common foot sol
 Simple, deadly weapons deployed by countless military and paramilitary forces throughout the galaxy, anti-personnel mines are, outside of hand grenades, the most common portable ordnance in use. Cheap, easy to use, and frightfully efficient weapons, anti-personnel mines come in a number of forms, from simple explosive devices buried in the ground that detonate when stepped on to sophisticated weapons that fire blaster bolts, gouts of fire, clouds of shrapnel, or other deadly ordnance designed to shred squads of approaching infantry. Much smaller and lighter than anti-vehicle mines, one or two anti-personnel mines can easily be carried by a single trooper. They are usually deployed with their larger cousins around fortifications and on the battlefield to protect assets or disrupt enemy troop movement, or as part of booby traps or sabotage. The major drawback to anti-personnel mines is, much like flame projectors and thermal detonators, they can inadvertently target allies. In addition, the production and use of these weapons is banned on many worlds due to the fact that unexploded mines can remain active and ready to kill on battlefields well after the fighting is over.
 
 [BR][B]Models Include:[b] Merr-Sonn LX-1 Laser Flechette Mine, Merr-Sonn SM-01 High Explosive Land Mine. </Description>
-    <Source Page="179">Книга правил: Эпоха восстания</Source>
+    <Source Page="179">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -1229,8 +1229,8 @@ Although Auraterans have access to modern energy weapons, the simple but reliabl
 
 Auto blasters are rapid-fire variants of common blaster cannons. Advanced XCiter technology and highly specialized actuating modules means these weapons achieve high cyclical rates of fire, spraying hails of shots with a single pull of a trigger or push of a button. </Description>
     <Sources>
-      <Source Page="230">Книга правил: Край Империи</Source>
-      <Source Page="240">Книга правил: Эпоха восстания</Source>
+      <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>GUNN</SkillKey>
@@ -1264,7 +1264,7 @@ Auto blasters are rapid-fire variants of common blaster cannons. Advanced XCiter
 Anti-vehicle mines are large, heavy explosive devices designed to destroy walkers, speeders, and other landborne vehicles. When deployed, they are buried in shallow pits and covered with soil, leaves, duracrete, or other camouflaging agents. They feature both an adjustable pressure switch that can be set to detonate at a certain weight threshold and a proximity sensor that detects the presence of repulsor fields. When triggered, either by weight or by a landspeeder passing over them, their precision-shaped anti-armor charge detonates, damaging the typically soft underbellies of armored vehicles. Anti-vehicle mines are usually deployed in groups, depending on their intended use, and are used to protect fortifications and encampments as well as to deny vehicle access to battlefields and sensitive areas. While quite deadly, anti-vehicle mines present little danger to personnel, as even at their most sensitive setting, they require the weight of a vehicle or the presence of a repulsor field to activate.
 
 [BR][B]Models Include:[b] Merr-Sonn AV70, SoroSuub Model 12 Repulsor Mine.</Description>
-    <Source Page="179">Книга правил: Эпоха восстания</Source>
+    <Source Page="179">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -1315,7 +1315,7 @@ Anti-vehicle mines are large, heavy explosive devices designed to destroy walker
 Produced by Corellian Personal Defense and marketed toward bodyguards, security forces, and law enforcement, the Backhand series is one of the most powerful types of shock glove on the market. Using an advanced kinetic energy reclamation system to power its high-output circuitry, a pair of Backhand shock gloves gives an individual the power and versatility of a stun baton in a wearable glove. However, due to their power requirements and the nature of their charging system (which uses the movements of their wearer to charge powerful capacitors), these gloves are slow to recharge.
 
 [P]This weapon has the Slow-Firing 1 rule, meaning it can only be used once every other round. This means that while a character may still make Brawl attacks when this weapon is "recharging" he does so without any benefits from the weapon—he simply makes an unarmed melee attack.</Description>
-    <Source Page="42">Far Horizons</Source>
+    <Source Page="42">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Brawling</Type>
     <Categories>
@@ -1738,8 +1738,8 @@ Named after the legendary hero Boonta the Hutt, who allegedly carried a similar 
 
 Known colloquially as "flash cannons," blaster cannons are heavy, crew-served versions of the common personal blaster. Although they are less powerful than laser cannons, blaster cannons are highly effective against infantry and light vehicles and are typically found mounted to atmospheric vehicles or smaller spaceships. Blaster cannons come in several versions of varying power.</Description>
     <Sources>
-      <Source Page="230">Книга правил: Край Империи</Source>
-      <Source Page="240">Книга правил: Эпоха восстания</Source>
+      <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -1768,8 +1768,8 @@ Known colloquially as "flash cannons," blaster cannons are heavy, crew-served ve
 
 Known colloquially as "flash cannons," blaster cannons are heavy, crew-served versions of the common personal blaster. Although they are less powerful than laser cannons, blaster cannons are highly effective against infantry and light vehicles and are typically found mounted to atmospheric vehicles or smaller spaceships. Blaster cannons come in several versions of varying power.</Description>
     <Sources>
-      <Source Page="230">Книга правил: Край Империи</Source>
-      <Source Page="240">Книга правил: Эпоха восстания</Source>
+      <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -1801,9 +1801,9 @@ The rifle or carbine blaster is the typical firearm of soldiers and heavy securi
 [P]Stormtroopers in service of the Empire carry E-11 blaster rifles with folding stocks. At short range, the rifle can be fired one-handed—just as if it were a heavy pistol. The stock is extended when firing at more distant targets so that the trooper can better stabilize his aim.
 [BR][B]Models Include[b]: E-11 Blaster Rifle (multiple manufacturers), BlasTech A280 Blaster Rifle. </Description>
     <Sources>
-      <Source Page="162">Книга правил: Край Империи</Source>
-      <Source Page="175">Книга правил: Эпоха восстания</Source>
-      <Source Page="168">Книга правил: Сила и судьба</Source>
+      <Source Page="162">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="175">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="168">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
@@ -1833,7 +1833,7 @@ The rifle or carbine blaster is the typical firearm of soldiers and heavy securi
     <Description>[H3]DC-15A Blaster Carbine[h3]
 BIasTech's DC-15A blaster carbine is the GAR’s standard-issue carbine. Every clone, from the greenest recruit to the most seasoned special operator, can use the DC-15A from the moment they are decanted. A lighter, shorter-ranged cousin of the heavy and cantankerous DC-15. The DC-15A is accurate, easy to handle, and as reliable as a chrono.</Description>
     <Sources>
-      <Source Page="51">Дополнение: Восстание сепаратистов</Source>
+      <Source Page="51">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
@@ -1977,7 +1977,7 @@ The standard-issue sidearm of the GAR, BlasTech's DC-17 is one of the most rugge
 [P]Game Masters may spend [TH][TH][TH] (in addition to [DE]) to make a DC-17 run out of ammo during combat.
 </Description>
     <Sources>
-      <Source Page="51">Дополнение: Восстание сепаратистов</Source>
+      <Source Page="51">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -2021,9 +2021,9 @@ The smallest of blasters are easy to conceal but still pack a powerful punch. Wh
 
 [BR][B]Models Include[b]: Imperial Army Scout Trooper Blaster Pistol, Merr-Sonn 02 Holdout. </Description>
     <Sources>
-      <Source Page="161">Книга правил: Край Империи</Source>
-      <Source Page="174">Книга правил: Эпоха восстания</Source>
-      <Source Page="167">Книга правил: Сила и судьба</Source>
+      <Source Page="161">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="174">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="167">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -2091,8 +2091,8 @@ These deadly weapons are designed to destroy light machinery, armored targets, o
 
 [BR][B]Models Include[b]: BlasTech E-Web Repeating Blaster.</Description>
     <Sources>
-      <Source Page="162">Книга правил: Край Империи</Source>
-      <Source Page="176">Книга правил: Эпоха восстания</Source>
+      <Source Page="162">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="176">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>GUNN</SkillKey>
@@ -2140,8 +2140,8 @@ These anti-droid weapons work by combining the power pack of a blaster rifle wit
 
 [P]Ionization blasters work only on droids and cyborgs, and only deal strain damage as per their Stun quality. They have no effect on organic beings beyond a brief and painful sting. Models Include: Jawa scavenged ion blaster, Merr-Sonn DEMP 2 Ion Carbine. </Description>
     <Sources>
-      <Source Page="162">Книга правил: Край Империи</Source>
-      <Source Page="176">Книга правил: Эпоха восстания</Source>
+      <Source Page="162">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="176">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -2215,9 +2215,9 @@ A good compromise between concealment and power, light blasters are favored by t
 
 [BR][B]Models Include[b]: Merr-Sonn Model 44 Blaster Pistol, BlasTech DL-18 Blaster Pistol.</Description>
     <Sources>
-      <Source Page="161">Книга правил: Край Империи</Source>
-      <Source Page="174">Книга правил: Эпоха восстания</Source>
-      <Source Page="167">Книга правил: Сила и судьба</Source>
+      <Source Page="161">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="174">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="167">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -2285,8 +2285,8 @@ Light repeaters are support weapons for military and mercenary units. They featu
 
 [BR][B]Models Include[b]: BlasTech T-21 Light Repeating Blaster. </Description>
     <Sources>
-      <Source Page="162">Книга правил: Край Империи</Source>
-      <Source Page="176">Книга правил: Эпоха восстания</Source>
+      <Source Page="162">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="176">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
@@ -2328,9 +2328,9 @@ Most spacers carry standard blaster pistols. They pack enough punch to penetrate
 
 [BR][B]Models Include[b]: BlasTech DH-17 Blaster, BlasTech SE-14 and SE-14C Blaster Pistol.</Description>
     <Sources>
-      <Source Page="161">Книга правил: Край Империи</Source>
-      <Source Page="174">Книга правил: Эпоха восстания</Source>
-      <Source Page="167">Книга правил: Сила и судьба</Source>
+      <Source Page="161">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="174">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="167">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -2508,9 +2508,9 @@ Heavy blasters are for those spacers who definitely want everyone to know they'r
 
 [BR][B]Models Include[b]: BlasTech DL-44 Heavy Blaster Pistol, Merr-Sonn Model 434.</Description>
     <Sources>
-      <Source Page="162">Книга правил: Край Империи</Source>
-      <Source Page="174">Книга правил: Эпоха восстания</Source>
-      <Source Page="167">Книга правил: Сила и судьба</Source>
+      <Source Page="162">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="174">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="167">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -2717,9 +2717,9 @@ The rifle or carbine blaster is the typical firearm of soldiers and heavy securi
 
 [BR][B]Models Include[b]: E-11 Blaster Rifle (multiple manufacturers), BlasTech A280 Blaster Rifle.</Description>
     <Sources>
-      <Source Page="162">Книга правил: Край Империи</Source>
-      <Source Page="175">Книга правил: Эпоха восстания</Source>
-      <Source Page="168">Книга правил: Сила и судьба</Source>
+      <Source Page="162">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="175">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="168">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
@@ -2752,7 +2752,7 @@ The DC-15 was, before the introduction of the DC-15A carbine, the standard issue
 [P]Despite these glaring flaws, the DC-15 remains surprisingly popular among the clone ranks for one simple reason: raw power. The DC-15 is one of the most powerful heavy blaster rifles in current use. It can punch through laminate armor at 1,000 meters, and at closer ranges it can destroy lightly armored vehicles. It rarely overheats or needs to be reloaded, is extremely reliable, and can be serviced with the bare minimum of tools In the field. Many clone marksmen have adopted it as their primary weapon, fitting it with long-range optical systems and gyrostabilization units to increase combat effectiveness.
 </Description>
     <Sources>
-      <Source Page="51">Дополнение: Восстание сепаратистов</Source>
+      <Source Page="51">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
@@ -2864,8 +2864,8 @@ Hunters and snipers often carry blaster rifles loaded with particularly powerful
 
 [BR][B]Models Include[b]: BlasTech DLT-19, BlasTech RT-97C Heavy Blaster Rifle.</Description>
     <Sources>
-      <Source Page="162">Книга правил: Край Империи</Source>
-      <Source Page="176">Книга правил: Эпоха восстания</Source>
+      <Source Page="162">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="176">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
@@ -3024,7 +3024,7 @@ Sometimes a bounty hunter has to capture a foe alive rather than dead. Bolas and
 [P]Bolas and nets rely on the Ensnare quality of the weapons to incapacitate the user, meaning they require more than simply a successful hit. Due to the great deal of skill required, only those who are very talented or extremely desperate tend to use bolas or nets. Most individuals rely on the stun setting of a blaster to bring their target down.
 
 [P]The user may spend a [TR] to ensure the victim is so entangled that he may not make any maneuvers, and his only action each turn is a [B]Formidable ([DI][DI][DI][DI][DI]) Athletics check[b] to free himself.</Description>
-    <Source Page="164">Книга правил: Край Империи</Source>
+    <Source Page="164">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
     <Damage>2</Damage>
@@ -3144,7 +3144,7 @@ Bowcasters are associated with the Wookiees of Kashyyyk. They are as distinctive
 [P]The bowcaster presented here fires standard micro-explosive quarrels, and does not have an automatic re-cocking mechanism. It requires the user to spend a maneuver cocking the weapon before each shot.
 
 [BR][B]Models Include[b]: Unique designed weapon.</Description>
-    <Source Page="162">Книга правил: Край Империи</Source>
+    <Source Page="162">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
     <Damage>10</Damage>
@@ -3178,7 +3178,7 @@ The BR-219 is a rare, high performance heavy blaster pistol produced by BlasTech
 [P]Using the E-11's reciever and firing mechanism, BlasTech engineers then reengineered the XCiter and actuating module to produce an overcharged bolt, equipped the drastically shortened barrel with an improved Galven pattern, and developed a special and highly volatile blend of blaster gases to feed their new weapon. All of this enhanced technology combined with the new bespoke blaster gas made for an extremely powerful—if slightly inaccurate and finicky—pistol. The bolt from the BR-219 is nearly as powerful as the E-11, and the weapon produces a tremendous noise and muzzle flash when fired. It is neither a subtle nor a restrained weapon; openly carrying one of these massive pistols makes an eloquent point about the user's intentions.
 [P]The BR-219 is not sold through BlasTech's usual dealer network. Instead, the weapon must be custom ordered straight from the factory. A thorough Imperial Security Bureau background check and a specially issued carry permit are required to purchase one of these weapons legally. Of course, this background check can be circumvented by purchasing the pistol on the black market or acuiring it through other less-than-legal means. Carrying a BR-219 without the proper permit is a risky business, and being found with an illegally purchased model is grounds for immediate Imperial imprisonment. Using a BR-219 in combat for an extended period of time is,  to the least, quite hazardous. The immense heat generated by the high-performance blaster gas and the overcharged action of the firing mechanism put an incredible amount of strain on the weapon.
 [P]GMs may spend [TH][TH] from a check to cause the BR-219 to become damaged one step (undamaged to minot, minor to moderate, etc.) and suffer the penalties listed on page 166 of the [B]Force and Destiny[b] Core Rulebook until repaired. In addition, Game Masters may spend [DE] to cause the BR-219 to melt down and explode, destroying the weapon and dealing the weapon's base damage to the user.</Description>
-    <Source Page="40">Дополнение: Бесконечное бдение</Source>
+    <Source Page="40">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -3224,9 +3224,9 @@ Dirty fighters and those looking to protect their fists from the tough hides of 
 
 [P]Another great advantage of brass knuckles is their ability to be concealed in a pocket or other compartment until they're needed. Add one [SE] die to a characters Perception check when attempting to find brass knuckles on a person's body. </Description>
     <Sources>
-      <Source Page="166">Книга правил: Край Империи</Source>
-      <Source Page="180">Книга правил: Эпоха восстания</Source>
-      <Source Page="171">Книга правил: Сила и судьба</Source>
+      <Source Page="166">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="180">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="171">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>BRAWL</SkillKey>
@@ -3265,7 +3265,7 @@ Dirty fighters and those looking to protect their fists from the tough hides of 
 Through specialized focusing lenses and emitters, this lightsaber hilt produces a blade that is broader and flatter than a standard lightsaber's cylindrical blade, lending it a profile closer to that of a traditional metal sword. This form provides a larger overall surface for the massless plasma blade, while forgoing the advantages or a truly omnidirectional cutting edge. Broadsabers never gained much popularity among the Jedi Order, with many masters dismissing the variant as less elegant than other lightsabers. However, broad sabers lend themselves well to the techniques of Shii-Cho, grounded as those are in traditional swordplay, and so the variant found some use among masters of Form I.
 [P]This weapon's profile represents a broadsaber hilt containing an unmodded Ilum crystal. This crystal occupies two of the weapon's hard points.
 [P]When installing a lightsaber crystal into a broadsaber, increase the damage of that lightsaber crystal by 1.</Description>
-    <Source Page="43">Дополнение: Рыцари судьбы</Source>
+    <Source Page="43">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Lightsaber</Type>
     <Categories>
@@ -3302,7 +3302,7 @@ Through specialized focusing lenses and emitters, this lightsaber hilt produces 
     <Description>[H3]Broadsaber Hilt[h3]
 Through specialized focusing lenses and emitters, this lightsaber hilt produces a blade that is broader and flatter than a standard lightsaber's cylindrical blade, lending it a profile closer to that of a traditional metal sword. This form provides a larger overall surface for the massless plasma blade, while forgoing the advantages or a truly omnidirectional cutting edge. Broadsabers never gained much popularity among the Jedi Order, with many masters dismissing the variant as less elegant than other lightsabers. However, broad sabers lend themselves well to the techniques of Shii-Cho, grounded as those are in traditional swordplay, and so the variant found some use among masters of Form I.
 [P]When installing a lightsaber crystal into a broadsaber, increase the damage of that lightsaber crystal by 1.</Description>
-    <Source Page="43">Дополнение: Рыцари судьбы</Source>
+    <Source Page="43">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Lightsaber</Type>
     <Categories>
@@ -3342,7 +3342,7 @@ The BT X-42 heavy flame projector, from BlasTech, is one of the most destructive
 [P]Game Masters can spend [TH][TH][TH] to cause the weapon to overheat, leaving it inoperable for three turns, or [DE] to have the weapon explode. An exploding X-42 deals full damage to the user and Blast damage to anything engaged with them.
 </Description>
     <Sources>
-      <Source Page="52">Дополнение: Восстание сепаратистов</Source>
+      <Source Page="52">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>GUNN</SkillKey>
@@ -3456,7 +3456,7 @@ The presentation of weapons in various rituals has a strong root in many culture
 The Caltrop-5 by Arakyd Industries is ostensibly a physical countermeasures system that uses clouds of alloy splinters to spoof sensors. When activated, the Caltrop-5 fires a canister that bursts after a set distance, creating a massive, glittering cloud of durasteel shrapnel that confounds missile guidance systems and makes vessels using them difficult to target. The chaff cloud also makes a frightfully potent anti-ship weapon, as discovered by Jadthu-class pilots during the Battle of Haruun Kat when fast-moving vulture droid starfighters were chewed up by clouds of Caltrop-5 chaff.
 [P]As a physical countermeasures system, the Caltrop-5 upgrades the difficulty of all Gunnery checks and checks triggered by the Guided quality made using missiles, rockets, or torpedoes targeting the starship once.
 [P]In addition, it upgrades the difficulty of Piloting checks for other ships within close range once. [DE] on a Piloting check may be spent to inflict a Critical Hit on that pilot's ship.</Description>
-    <Source Page="60">Дополнение: Рыцари судьбы</Source>
+    <Source Page="60">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>AddedItem</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -3555,8 +3555,8 @@ The more common and less powerful of the two types of shipboard ordnance, concus
 
 [P]Additional concussion missiles cost 500 credits each and are Restricted. </Description>
     <Sources>
-      <Source Page="230">Книга правил: Край Империи</Source>
-      <Source Page="240">Книга правил: Эпоха восстания</Source>
+      <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -3656,8 +3656,8 @@ The more common and less powerful of the two types of shipboard ordnance, concus
 
 [P]Additional concussion missiles cost 500 credits each and are Restricted. </Description>
     <Sources>
-      <Source Page="229">Книга правил: Край Империи</Source>
-      <Source Page="242">Книга правил: Эпоха восстания</Source>
+      <Source Page="229">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="242">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -3813,7 +3813,7 @@ Concussion grenades are powerful hand-held bombs that release a debilitating sho
 [P]If the user activates a concussion grenade's Disorient quality, the Disorient quality affects all characters at short range from the target (even if they are not damaged by the weapon).</Description>
     <Sources>
       <Source Page="46">Dangerous Covenants</Source>
-      <Source Page="44">Дополнение: Рыцари судьбы</Source>
+      <Source Page="44">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -3957,8 +3957,8 @@ The more common and less powerful of the two types of shipboard ordnance, concus
 
 [P]Additional concussion missiles cost 500 credits each and are Restricted. </Description>
     <Sources>
-      <Source Page="253">Книга правил: Край Империи</Source>
-      <Source Page="265">Книга правил: Эпоха восстания</Source>
+      <Source Page="253">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="265">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>GUNN</SkillKey>
@@ -3996,7 +3996,7 @@ The more common and less powerful of the two types of shipboard ordnance, concus
 Until activated, a contained energy axe is easily mistaken for a common vibro-axe. However, rather than relying on ultrasonic vibrations for its cutting power, a contained energy axe houses a diatium power generator that, when activated, produces a magnetically contained energy blade along the edge of the axe head. While the hefty axe relies on raw strength to inflict much of its damage, the addition of a centimeter of coherent plasma along its cutting edge allows the weapon to slice through nearly any material with ease.
 [P]A contained energy axe can use appropriate Melee weapon
 attachments, but not lightsaber attachments.</Description>
-    <Source Page="43">Дополнение: Рыцари судьбы</Source>
+    <Source Page="43">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Lightsaber</Type>
     <Categories>
@@ -4076,7 +4076,7 @@ While law enforcement officers and some mercenaries might carry high-tech riot s
 [P]Cortosis shields are made from various alloys or synthetic compounds and are laced with a refined cortosis weave that absorbs blaster energy and can even turn or disrupt the blade of a lightsaber. Due to their inherent strength, cortosis shields can be used as a makeshift Melee weapon, allowing a user to bash or push away an opponent.
 
 [BR][B]Models Include:[b] Arakyd Industries Special Order Model 3 Shield. </Description>
-    <Source Page="172">Книга правил: Сила и судьба</Source>
+    <Source Page="172">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Shield</Category>
@@ -4119,7 +4119,7 @@ While law enforcement officers and some mercenaries might carry high-tech riot s
 The making and use of cortosis swords is, perhaps, as old as the making and use of lightsabers. Cortosis swords were created to counter the elegant and deadly lightsabers wielded by Jedi and other Force adherents, and hopefully to grant their non—Force-using wielders some hope of survival against a determined lightsaber user. Built in a variety of styles, and using varying amounts of cortosis ore in their construction, cortosis-bladed swords, in the right hands, pose a decided threat to even the most powerful Force user.
 
 [BR][B]Models Include:[b] Bank Tarn Collective Razorblade.</Description>
-    <Source Page="173">Книга правил: Сила и судьба</Source>
+    <Source Page="173">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Cutting Edge Melee</Category>
@@ -4638,7 +4638,7 @@ These shaped detonite charges are favored for sabotage missions and clandestine 
 
 [P]When a charge detonates, it deals 20 damage with the Breach 1 quality to every character and vehicle within short range. Each additional charge used increases the base damage by 5.
 </Description>
-    <Source Page="60">Дополнение: Восстание сепаратистов</Source>
+    <Source Page="60">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     <Custom>AddedItem</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -4911,8 +4911,8 @@ a specialized actuating module that processes a much higher volume of blaster ga
 
 [BR][B]Models Include[b]: Tenloss DXR-6 Disruptor Rifle, Ten-loss DX-2 Disruptor Pistol. </Description>
     <Sources>
-      <Source Page="163">Книга правил: Край Империи</Source>
-      <Source Page="176">Книга правил: Эпоха восстания</Source>
+      <Source Page="163">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="176">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -4958,8 +4958,8 @@ a specialized actuating module that processes a much higher volume of blaster ga
 
 [BR][B]Models Include[b]: Tenloss DXR-6 Disruptor Rifle, Ten-loss DX-2 Disruptor Pistol. </Description>
     <Sources>
-      <Source Page="163">Книга правил: Край Империи</Source>
-      <Source Page="176">Книга правил: Эпоха восстания</Source>
+      <Source Page="163">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="176">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
@@ -5126,7 +5126,7 @@ The DLT-19D is a weapon BlasTech made specifically for the Imperial Navy's death
     <Description>[H3]Double-Bladed Vibrosword[h3]
 Extraordinarily difficult to wield and as dangerous to an untrained user as to their enemy, double-bladed vibroswords are a rare variant of the more familiar vibrosword. A double-bladed vibrosword consists of an extended hilt with full-Iength blades mounted at each end, for an overall length of up to three meters. In the hands of a skilled user, a double-bladed vibrosword is a deadly weapon perfectly suited to dueling multiple opponents.
 [P]A double-bladed vibrosword requires two hands to wield.</Description>
-    <Source Page="42">Дополнение: Рыцари судьбы</Source>
+    <Source Page="42">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -5397,8 +5397,8 @@ An uncommon weapon in the Imperial arsenal, BlasTech's E-22 blaster rifle is a m
 
 Mounted in a remote-operated turret aft of the cockpit, the T-47's electromagnetic harpoon was designed with towing in mind. Controlled by the speeder's systems operator, or by the pilot in a pinch, the harpoon consists of a pneumatic cannon that launches a short durasteel rod connected to a few dozen yards of high-tensile braided cable. The rod is tipped with a powerful electromagnetic disc that receives its power through the harpoon's cable, which is in turn connected to a powerful winch located in the hull beneath the cannon. While not a weapon per se, the harpoon can be used to knock down personnel or droids, move obstacles, ensnare large creatures or vehicles, and generally create havoc, hence its Knockdown and Ensnare qualities.</Description>
     <Sources>
-      <Source Page="249">Книга правил: Край Империи</Source>
-      <Source Page="263">Книга правил: Эпоха восстания</Source>
+      <Source Page="249">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="263">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>GUNN</SkillKey>
@@ -5438,7 +5438,7 @@ Electrostaffs first saw widespread use during the Clone Wars among Separatist fo
 [P]Electrostaves require two hands to use.
 
 [BR][B]Models Include:[b] Baktoid Armor Workshop vz. 890 Thunderer, Arakyd Industries Stryker. </Description>
-    <Source Page="173">Книга правил: Сила и судьба</Source>
+    <Source Page="173">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Bludgeoning Melee</Category>
@@ -6157,7 +6157,7 @@ The concept behind flak cannons dates back to the earliest days of powered fligh
     <Sources>
       <Source Page="49">Stay on Target</Source>
       <Source Page="53">Lead by Example</Source>
-      <Source Page="78">Дополнение: Восстание сепаратистов</Source>
+      <Source Page="78">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -6201,7 +6201,7 @@ The concept behind flak cannons dates back to the earliest days of powered fligh
     <Sources>
       <Source Page="49">Stay on Target</Source>
       <Source Page="53">Lead by Example</Source>
-      <Source Page="78">Дополнение: Восстание сепаратистов</Source>
+      <Source Page="78">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -6245,7 +6245,7 @@ The concept behind flak cannons dates back to the earliest days of powered fligh
     <Sources>
       <Source Page="49">Stay on Target</Source>
       <Source Page="53">Lead by Example</Source>
-      <Source Page="78">Дополнение: Восстание сепаратистов</Source>
+      <Source Page="78">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -6291,8 +6291,8 @@ Flame-producing devices are primarily used to destroy material such as structure
 
 [BR][B]Models Include[b]: Merr-Sonn C-22 Flame Carbine, Merr-Sonn CR-24 Flame Rifle. </Description>
     <Sources>
-      <Source Page="165">Книга правил: Край Империи</Source>
-      <Source Page="178">Книга правил: Эпоха восстания</Source>
+      <Source Page="165">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="178">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
@@ -6399,9 +6399,9 @@ Force pikes are one-meter long metallic staves topped with power-tips. One setti
 
 [BR][B]Models Include[b]: SoroSuub Controller FP.</Description>
     <Sources>
-      <Source Page="166">Книга правил: Край Империи</Source>
-      <Source Page="181">Книга правил: Эпоха восстания</Source>
-      <Source Page="174">Книга правил: Сила и судьба</Source>
+      <Source Page="166">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="181">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="174">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>MELEE</SkillKey>
@@ -6447,9 +6447,9 @@ A great variety of grenades can be found throughout the galaxy, from hand-made e
 
 [BR][B]Models Include[b]: Merr-Sonn C-22.</Description>
     <Sources>
-      <Source Page="165">Книга правил: Край Империи</Source>
-      <Source Page="178">Книга правил: Эпоха восстания</Source>
-      <Source Page="170">Книга правил: Сила и судьба</Source>
+      <Source Page="165">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="178">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="170">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -6485,7 +6485,7 @@ A great variety of grenades can be found throughout the galaxy, from hand-made e
 Designed for use against infantry rather than vehicles, a fragmentation missile functions much like a typical frag grenade, scattering shards of metal over a wide area, shredding tissue and shattering bone. Frag missiles are absolutely deadly to unarmored or lightly armored targets, and pose a considerable threat even to those protected by battle armor.</Description>
     <Sources>
       <Source Page="42">Dangerous Covenants</Source>
-      <Source Page="46">Дополнение: Рыцари судьбы</Source>
+      <Source Page="46">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -6763,7 +6763,7 @@ These bombs are simple explosive devices made from cylinders of compressed volat
 These handheld, portable cutting torches are found throughout the galaxy in numerous induStrial, technical, and even artistic operations. They use small, high-powered fusion batteries to produce intense plasma or laser beams used to weld metals together and to cut them apart, depending on the needs of the user. Their beams can easily cut through durasteel, duraplast, and even armored ship hulls with ease. Field mechanics often carry them into battle for emergency repairs of vehicles, droids, and other equipment. Fusion cutters can be adjusted to produce a fine, precise beam for welds or a broad, powerful beam good for brazing and cutting. Engineering and mechanic droids can have a fusion cutter directly installed in their chassis so that they always have one at hand, and they are especially common on astromech druids. In a pinch, a fusion cutter can be used as a close-quarters weapon, and can cause some incredibly frightful wounds. If used as a weapon, a fusion cutter has a range of engaged, deals 5 damage, has a critical rating of 3, and possesses the Breach 1, Burn 3, Sunder, and Vicious 3 weapon qualities.
 
 [BR][B]Models Include:[b] SoroSuub F-187.</Description>
-    <Source Page="197">Книга правил: Эпоха восстания</Source>
+    <Source Page="197">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -6853,7 +6853,7 @@ Manufactured by Malaxan Firepower Incorporated, the FWG-5 is a smaller, pistol-s
     <Name>FWG-7 Flechette Smart Carbine</Name>
     <Description>[H3]FWG-7 Flechette Carbine[h3]
 An example of Malaxan Firepower Incorporated's successful FWG line of flechette weapons the FWG-7 provides all the power and versatility of a flechette weapon in a lightweight, easy-to-handle package. A heavier version of the FWG-5 smart pistol, the FWG-7 is a sturdy, short-barreled carbine built primarily from reinforced polycarbonates and advanced alloys. Like its smaller cousin, the FWG-7 fires small-caliber canisters packed with dozens of razor-sharp flechettes instead of solid slugs or blaster bolts. Each canister is equipped with a single-use microrepulsor and a simple guidance system that allows the canisters to home in on, and even pursue, targets. Once a shot reaches its target, the canister explodes and releases a cloud of flechettes that deal a shocking amount of damage to unarmored opponents and can even pierce plastoid armor.</Description>
-    <Source Page="40">Дополнение: Рыцари судьбы</Source>
+    <Source Page="40">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
     <Categories>
@@ -6895,7 +6895,7 @@ An example of Malaxan Firepower Incorporated's successful FWG line of flechette 
 The Tusken Raiders of Tatooine carry brutal staves made from desert tracti hardwood, krayt dragon horn or bone, or scavenged metal. One end of the gaffi stick is flanged with four protruding blades useful for cutting and gashing opponents. The other end curves outward and ends in a spike of some sort, with the opposite side serving as a dull club. While to some the gaffi stick seems crude, its genius is its versatility—being able to stab, cut, or club depending on how the user wields it. It has practical uses as well, from serving as a walking stick in the rough terrain of Tatooine to guiding the Tusken Raiders' massive banthas.
 
 [P]Gaffi sticks require two hands to wield.</Description>
-    <Source Page="166">Книга правил: Край Империи</Source>
+    <Source Page="166">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>MELEE</SkillKey>
     <Damage>0</Damage>
@@ -7107,7 +7107,7 @@ Merr-Sonn's ingenious G-20 Glop Grenade is a reusable, less-than-lethal antipers
       [H3]GLX Firelance Blaster Rifle[h3]
 Introduced during the waning years of the Galactic Republic, SoroSuub's GLX Firelance is one of the company's most popular models of blaster rifle. The product of a long and extensive spate of market research among professional soldiers, the weapon was developed to provide a simple, reliable, high performance blaster with most of the power of a sull-sized blaster rifle in a package the weight and size of a carbine. The GLX was an immediate success, especially among bounty hunters and mercenaries. It was so popular, in fact that SoroSuub marketed the GLX as "the most effective weapon available for freelance law enforcement agents". Orders poured in from all across the galaxy, and  the rifle soon became one of SoroSuub's best-selling products.
 [P]The rifle itself is a tradtionally-styled, compact weapon closer in size and weight to a blaster carbine than as a full-sized blaster rifle. It has a short barrel with an integral flash hide, a top-mounted carrying handle that extends the length of the reciever, allowing easier carrying by those with larger hands or in bulky armor, and a solid stock with built-in recoil compensators. The GLX features a select-fire system that allows the weapon to operate in single-shot or automatic mode, and its stun setting is the most powerful in its class—able to render even the toughest opponents or most dangerous creatures insensible.</Description>
-    <Source Page="40">Дополнение: Бесконечное бдение</Source>
+    <Source Page="40">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -7241,7 +7241,7 @@ The Z50 from Malaxan Firepower Incorporated is a powerful weapon that can be rea
 Большие световые мечи - это световые мечи огромных размеров, созданные для использования людьми с крупной и мощной фигурой. Тяжелые, часто неудобные и сложные в использовании, они имеют усиленные рукояти со сверхмощными системами питания и излучателей, создающими клинки длиной более двух метров. Тяжелые рукояти и мощные лезвия в сочетании с природной силой их пользователей делают эти массивные световые мечи еще более мощными и смертоносными, чем их меньшие собратья. Поскольку большие световые мечи предназначены для крупных и сильных существ, людям человеческого роста или меньше трудно владеть ими с какой-либо эффективностью.
 [P]Профиль этого оружия представляет собой большую рукоять светового меча, содержащую немодифицированный кристалл Илума. Этот кристалл занимает две из точек Hard Points.
 [P]При установке кристалла светового меча в большой световой меч, урон светового меча увеличивается на 1.</Description>
-    <Source Page="44">Дополнение: Рыцари судьбы</Source>
+    <Source Page="44">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Lightsaber</Type>
     <Categories>
@@ -7278,7 +7278,7 @@ The Z50 from Malaxan Firepower Incorporated is a powerful weapon that can be rea
     <Description>[H3]Большой световой меч (Рукоять)[h3]
 Большие световые мечи - это световые мечи огромных размеров, созданные для использования людьми с крупной и мощной фигурой. Тяжелые, часто неудобные и сложные в использовании, они имеют усиленные рукояти со сверхмощными системами питания и излучателей, создающими клинки длиной более двух метров. Тяжелые рукояти и мощные лезвия в сочетании с природной силой их пользователей делают эти массивные световые мечи еще более мощными и смертоносными, чем их меньшие собратья. Поскольку большие световые мечи предназначены для крупных и сильных существ, людям человеческого роста или меньше трудно владеть ими с какой-либо эффективностью.
 [P]При установке кристалла светового меча в большой световой меч, урон светового меча увеличивается на 1.</Description>
-    <Source Page="44">Дополнение: Рыцари судьбы</Source>
+    <Source Page="44">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Lightsaber</Type>
     <Categories>
@@ -7697,7 +7697,7 @@ Ion weapons are anti-ship and anti-vehicle weapons designed to disable rather th
     <Name>Heavy Mass Driver</Name>
     <Description>[H3]Heavy Mass Driver[h3]
 This big cannon throws a solid durasteel penetrator at hypersonic speeds over extreme distances and, with proper targeting data, can hit targets beyond visual range.</Description>
-    <Source Page="56">Дополнение: Рыцари судьбы</Source>
+    <Source Page="56">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>AddedItem</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -7812,7 +7812,7 @@ When discovered in a compromising position, an operative might prefer a nonletha
     <Description>[H3]High-Explosive Missile[h3]
 High-explosive missiles use powerful shaped-charge warheads that give infantry long-range light anti-armor capabilities, While they are primarily designed to destroy armored vehicles, HE missiles are also very effective against fortifications and weapon empiacements.
 [P][B]Models Include:[b] Kirgo Blastworks AA4 Light Anti-Armor Missile, SoroSuub Mk VIII Lancer AA Missile.</Description>
-    <Source Page="46">Дополнение: Рыцари судьбы</Source>
+    <Source Page="46">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -8046,7 +8046,7 @@ Despite the ubiquity of repulsorlift technology across the galaxy, the  particul
 Combining the fury of a flame projector with the range and power of a missile, an incendiary missile is a devastating weapon capable of wiping out entire squad's of infantry in a single blast. Some Hired Guns enjoy the particularly powerful effect of an incendiary missile on their enemies' morale. Few sights are as demoralizing as that of a missile incinerating one's comrades in a single fiery instant.</Description>
     <Sources>
       <Source Page="42">Dangerous Covenants</Source>
-      <Source Page="46">Дополнение: Рыцари судьбы</Source>
+      <Source Page="46">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -8198,7 +8198,7 @@ Inquisitors use a unique double-bladed lightsaber. Its handle incorporates a spi
       [H3]Battleship Ion Cannon[h3]
 
 Ion weapons are anti-ship and anti-vehicle weapons designed to disable rather than destroy their targets. They use ion turbine generators to create masses of negatively charged particles which are fused with plasma and released as blasts or pulses. The negatively charged particles interfere with a target's electrical systems, shorting circuits, corrupting computers, and forcing system shutdowns in an effort to subdue a target or make it easier to destroy via more traditional means. Although designed to do little-to-no physical damage to targets, collateral damage such as fried circuits, fused joints, and even fires may occur due to the intense energy surges.</Description>
-    <Source Page="240">Книга правил: Эпоха восстания</Source>
+    <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Ion</Category>
@@ -8238,7 +8238,7 @@ Ion weapons are anti-ship and anti-vehicle weapons designed to disable rather th
 The detonation of an ion grenade is much like the blast of an ion gun. The advantage of an ion grenade is that all droids caught in the blast radius are affected, allowing the user to disable multiple mechanical targets at once. Great care must be taken in the vicinity of important technology. Many starship captains refuse to allow ion grenades aboard their vessel, even when providing transport to heavily armed mercenaries.</Description>
     <Sources>
       <Source Page="46">Dangerous Covenants</Source>
-      <Source Page="44">Дополнение: Рыцари судьбы</Source>
+      <Source Page="44">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -8297,8 +8297,8 @@ The detonation of an ion grenade is much like the blast of an ion gun. The advan
 
 Ion weapons are anti-ship and anti-vehicle weapons designed to disable rather than destroy their targets. They use ion turbine generators to create masses of negatively charged particles which are fused with plasma and released as blasts or pulses. The negatively charged particles interfere with a target's electrical systems, shorting circuits, corrupting computers, and forcing system shutdowns in an effort to subdue a target or make it easier to destroy via more traditional means. Although designed to do little-to-no physical damage to targets, collateral damage such as fried circuits, fused joints, and even fires may occur due to the intense energy surges.</Description>
     <Sources>
-      <Source Page="230">Книга правил: Край Империи</Source>
-      <Source Page="240">Книга правил: Эпоха восстания</Source>
+      <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -8371,8 +8371,8 @@ Ion weapons are anti-ship and anti-vehicle weapons designed to disable rather th
 
 Ion weapons are anti-ship and anti-vehicle weapons designed to disable rather than destroy their targets. They use ion turbine generators to create masses of negatively charged particles which are fused with plasma and released as blasts or pulses. The negatively charged particles interfere with a target's electrical systems, shorting circuits, corrupting computers, and forcing system shutdowns in an effort to subdue a target or make it easier to destroy via more traditional means. Although designed to do little-to-no physical damage to targets, collateral damage such as fried circuits, fused joints, and even fires may occur due to the intense energy surges.</Description>
     <Sources>
-      <Source Page="230">Книга правил: Край Империи</Source>
-      <Source Page="240">Книга правил: Эпоха восстания</Source>
+      <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -8404,8 +8404,8 @@ Ion weapons are anti-ship and anti-vehicle weapons designed to disable rather th
 
 Ion weapons are anti-ship and anti-vehicle weapons designed to disable rather than destroy their targets. They use ion turbine generators to create masses of negatively charged particles which are fused with plasma and released as blasts or pulses. The negatively charged particles interfere with a target's electrical systems, shorting circuits, corrupting computers, and forcing system shutdowns in an effort to subdue a target or make it easier to destroy via more traditional means. Although designed to do little-to-no physical damage to targets, collateral damage such as fried circuits, fused joints, and even fires may occur due to the intense energy surges.</Description>
     <Sources>
-      <Source Page="230">Книга правил: Край Империи</Source>
-      <Source Page="240">Книга правил: Эпоха восстания</Source>
+      <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -8699,7 +8699,7 @@ The Rebel Alliance obtains many of its weapons from battlefield salvage, militar
 Some Sabers were equipped with beam cannon turrets in place of the standard twin medium laser cannons. Beam cannons are specially tuned laser weapons with a high output and long dwell time. They fire continuous beams of energy at a target for roughly three seconds, and then require a few seconds to recharge before firing again. These weapons hit incredibly hard, can punch through light and medium armor with ease, and have a nasty tendency to set targets on fire.
 [P]Sabers equipped with KB-50a beam cannons are used in heavy support roles, providing cover fire for more lightly armed Saber platoons and squads of infantry during advances and assaults.
 [P]A turret-mounted KB-50a Beam Cannon has the following profile: (Fire Arc All; Damage 7; Critical 3: Range (Medium); Breach 2, Burn 2, Slow-Firing 2, Vicious 1).</Description>
-    <Source Page="54">Дополнение: Рыцари судьбы</Source>
+    <Source Page="54">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>AddedItem</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -8741,9 +8741,9 @@ Vicious combatants rely on sharp blades to slice and gash their foes. They're al
 
 [P]Knives are seen as the weapons of commoners, thieves, and assassins, so carrying one in plain sight may cause social stigma in polite company, or add to a rogue's presence in more wretched hives of scum and villainy.</Description>
     <Sources>
-      <Source Page="166">Книга правил: Край Империи</Source>
-      <Source Page="181">Книга правил: Эпоха восстания</Source>
-      <Source Page="172">Книга правил: Сила и судьба</Source>
+      <Source Page="166">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="181">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="172">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>MELEE</SkillKey>
@@ -8882,7 +8882,7 @@ Kaminoan Weaponsmiths, a subsidiary of Kaminoan Armorsmiths Ltd., is a small wea
 [P]Perhaps their most popular product is the Mk. I Saberdart. The Saberdart, a name that applies to both the dart itself and its launcher, is a tiny, roughly triangualr durasteel alloy dart fired via compressed air. The dart has three hooked barbs surrouding a central cylinder tipped withy an incredibly sharp needle. Within the central core of the dart is a small, fillable chamber used to deliver toxins and poisons to targets at range. Saberdarts can be used to deliver anything tranquillizers to deadly neurotoxins such as Fex-M3 and Malkite themfar. They are silent, deadly, obscure and largely untraceable, which makes them a perfect weapon for assassins.
 [P]Saberdart launchers have lightweight barrels that propel their darts via compressed gas. Dart launchers can be built into gloves, pieces of armor, other weapons, even innocuous pieces of everyday gear like datapads and glowrods.
 [P]Saberdarts may be loaded with 1 dose of synthetic neuroparalytic (see page 181 of the [B]Force and Destiny[b] Core Rulebook), or any other poison the GM, deems appropriate. Whenever the wielder successfully attacks a target with the weapon (even if she deals no damage), the target also suggers the effects of being exposed to the poison.</Description>
-    <Source Page="41">Дополнение: Бесконечное бдение</Source>
+    <Source Page="41">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -9203,8 +9203,8 @@ A laser cannon is the standard weapon for use by most starships and other vehicl
 
 The standard anti-ship weapon mounted to starships, laser cannons are found on nearly every class of ship from the smallest starfighter to the mightiest capital ship. Preferred over blaster cannons for their damage and accuracy, laser cannons can be paired in batteries or mounted separately. Light and medium laser cannons are often found on starfighters and freighters. Heavy laser cannons are mounted to capital ships as secondary weapons to deal with smaller ships. Lasers are also often mounted to military ground vehicles. </Description>
     <Sources>
-      <Source Page="230">Книга правил: Край Империи</Source>
-      <Source Page="240">Книга правил: Эпоха восстания</Source>
+      <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -9264,8 +9264,8 @@ The standard anti-ship weapon mounted to starships, laser cannons are found on n
 
 The standard anti-ship weapon mounted to starships, laser cannons are found on nearly every class of ship from the smallest starfighter to the mightiest capital ship. Preferred over blaster cannons for their damage and accuracy, laser cannons can be paired in batteries or mounted separately. Light and medium laser cannons are often found on starfighters and freighters. Heavy laser cannons are mounted to capital ships as secondary weapons to deal with smaller ships. Lasers are also often mounted to military ground vehicles. </Description>
     <Sources>
-      <Source Page="230">Книга правил: Край Империи</Source>
-      <Source Page="240">Книга правил: Эпоха восстания</Source>
+      <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -9294,8 +9294,8 @@ The standard anti-ship weapon mounted to starships, laser cannons are found on n
 
 The standard anti-ship weapon mounted to starships, laser cannons are found on nearly every class of ship from the smallest starfighter to the mightiest capital ship. Preferred over blaster cannons for their damage and accuracy, laser cannons can be paired in batteries or mounted separately. Light and medium laser cannons are often found on starfighters and freighters. Heavy laser cannons are mounted to capital ships as secondary weapons to deal with smaller ships. Lasers are also often mounted to military ground vehicles. </Description>
     <Sources>
-      <Source Page="230">Книга правил: Край Империи</Source>
-      <Source Page="240">Книга правил: Эпоха восстания</Source>
+      <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -9355,8 +9355,8 @@ A point-defense cannon is a kind of fast-tracking starship emplacement, typicall
 
 Quad lasers are dedicated anti-starfighter-weapons consisting of four small-caliber laser cannons linked to a single firing mechanism and slaved to a sophisticated fire-control system. They fire four laser blasts with every pull of the trigger, and can quite easily fill the space around a ship with enough kilojoules of energy to destroy even the toughest starfighter or patrol boat.</Description>
     <Sources>
-      <Source Page="230">Книга правил: Край Империи</Source>
-      <Source Page="240">Книга правил: Эпоха восстания</Source>
+      <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -9439,7 +9439,7 @@ Stun rifles are rare weapons in the galaxy, perceived by most to be of limited u
 Merr-Sonn's LD-1 is the company's latest foray into the highly competitive long-range blaster market. It is an elegant, well built blaster rifle featuring a precision barrel, lightweight skeleton stock, and minimal foilfiber reinforced polycarbonate furniture. The weapon's firing mechanism is a slightly detuned version of Merr-Sonn's military-grade blaster system giving the rifle pinpoint accuracy and an incredible punch at extreme range. The LD-1 is also equipped with a Mk. 19 computer-aided macroscope with various optical enchancements and an Autosteady gyro-gimbal system to increase the weapon's performance at long and extreme ranges. It is easily disassembled and is sold with a custom-fit carrying case for transporting the rifle around in a relatively discreet fashion.
 [P]Since its introduction, the LD-1 has become wildly popular. Its performance, power, and build quality are nearly unmatched in its segment. These qualities—combined with its official classification as a sporting blaster, which allows it to circumvent most weapon restrictions in the galaxy—have driven the LD-1 to consistently outsell the older SoroSuub X-45. In addition, aggressive marketing by Merr-Sonn and regular appearances on a popular HoloNet adventure drama proggram have established the LD-1 firmly in both military and popular culture.
 [P]It is rumored that a variant called the LD-1a is produced in small numbers for the Imperial Security Bureau. The truth of these rumors has yet to be verified, but if there is a special ISB version of the LD-1, it would sell for a Moff's ransom on the black market should one ever appear there.</Description>
-    <Source Page="40">Дополнение: Бесконечное бдение</Source>
+    <Source Page="40">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -9535,7 +9535,7 @@ Lightfoils are small lightsabers with hilts comparable in size to those of shoto
 [P]This weapon's profile represents a basic lightfoil hilt containing an unmodded Ilum crystal. This crystal occupies two of the weapon's
 hard points.
 [P]When installing a lightsaber crystal into a lightfoil, reduce the damage of that lightsaber crystal by 1.</Description>
-    <Source Page="44">Дополнение: Рыцари судьбы</Source>
+    <Source Page="44">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Lightsaber</Type>
     <Categories>
@@ -9572,7 +9572,7 @@ hard points.
     <Description>[H3]Lightfoil Hilt[h3]
 Lightfoils are small lightsabers with hilts comparable in size to those of shotos. Lightfoils differ from shotos in that they feature slimmer, longer blades. While shotos are often used in pairs, lightfoils are designed for use alone, having a small grip that accommodates a single hand. The first lightfoils were said to have been creations of the early Sith. They likely arose alongside the Makashi form, as the weapons are perfectly suited to dueling. Among the Jedi, lightfoils largely fell out of use in favor of shotos by the time of the Clone Wars.
 [P]When installing a lightsaber crystal into a lightfoil, reduce the damage of that lightsaber crystal by 1.</Description>
-    <Source Page="44">Дополнение: Рыцари судьбы</Source>
+    <Source Page="44">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Lightsaber</Type>
     <Categories>
@@ -9648,7 +9648,7 @@ Light repeaters are support weapons for military and mercenary units. They featu
 
 [BR][B]Models Include[b]: BlasTech T-21 Light Repeating Blaster. </Description>
     <Sources>
-      <Source Page="53">Дополнение: Рыцари судьбы</Source>
+      <Source Page="53">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
       <Source Page="122">Dawn of Rebellion</Source>
     </Sources>
     <Custom>AddedItem</Custom>
@@ -9864,8 +9864,8 @@ Used for guiding riderless beasts and driving teams of creatures, a longeing whi
 
 [P]Для владения световыми мечами обычно требуется навык "Световой меч". Однако, поскольку этот навык не доступен персонажам в этой книге, игроки должны использовать световой меч без тренировки (выбрав в качестве базовой характеристики либо "Силы", либо "Ловкость"). Это сделано намеренно, потому что в галактике мало людей, которые умеют правильно сражаться на световом мече. Однако, если ГМ сочтет это оправданным, он может создать навык "Световой меч" как пользовательский навык для своих игроков. Световые мечи нельзя разделить на части.</Description>
     <Sources>
-      <Source Page="167">Книга правил: Край Империи</Source>
-      <Source Page="182">Книга правил: Эпоха восстания</Source>
+      <Source Page="167">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="182">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>LTSABER</SkillKey>
@@ -9908,8 +9908,8 @@ Used for guiding riderless beasts and driving teams of creatures, a longeing whi
 
 [BR][B]Модели включают:[b] Никакие; каждое из этих орудий создается индивидуально.</Description>
     <Sources>
-      <Source Page="176">Книга правил: Сила и судьба</Source>
-      <Source Page="54">Дополнение: Восстание сепаратистов</Source>
+      <Source Page="176">Книга правил: Сила и судьба (Force and Destiny)</Source>
+      <Source Page="54">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>LTSABER</SkillKey>
@@ -9948,8 +9948,8 @@ Used for guiding riderless beasts and driving teams of creatures, a longeing whi
 
 [P]Здесь представлены рукояти для световых мечей, перечисленных в этой главе. Чтобы стать настоящим оружием, каждому из них требуется кристалл (иначе они не наносят урона, не имеют критического рейтинга и не обладают многими свойствами предметов). Однако Игрокам, желающим сконструировать собственные световые мечи, следует начать с рукояти. Если Игрок хочет собрать свою собственную рукоять из доступных материалов, ГМ может попросить его сделать проверку на поиск рукояти, основываясь на ее редкости, и заплатить за нее. Это означает, что ПК находит и оплачивает сырье. Затем нужно просто потратить несколько часов на то, чтобы собрать все материалы для создания рукояти - никаких проверок не требуется.</Description>
     <Sources>
-      <Source Page="177">Книга правил: Сила и судьба</Source>
-      <Source Page="54">Дополнение: Восстание сепаратистов</Source>
+      <Source Page="177">Книга правил: Сила и судьба (Force and Destiny)</Source>
+      <Source Page="54">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>LTSABER</SkillKey>
@@ -9978,7 +9978,7 @@ Used for guiding riderless beasts and driving teams of creatures, a longeing whi
       [H3]Световой меч с боковыми лезвиями[h3]
 Световык мечи с боковыми лезвиями распространены среди учеников Макаши и других пользователей Силы, которым нравится вызов и азарт дуэли. Они похожи на стандартный световой меч и работают так же, как и он, за одним исключением - под лезвием у них находится эмиттер меньшего размера с низкой мощностью, вмонтированный в рукоять. Внутренняя схема проходит через разветвитель, и благодаря использованию специализированного модулятора мощности оружие создает два вторичных, очень коротких лезвия под углом девяносто градусов к основному клинку. Хотя их основная задача - отводить энергию от основного клинка, на практике эти маленькие лезвия могут настигать клинок противника, либо блокируя его, либо, если повезет, вообще обезоруживая его.
 [P]Когда противник, сражающийся с персонажем, делает проверку "Ближнего боя" или "Светового меча", после проведения атаки персонаж может потратить [DE] или [TH][TH][TH], чтобы зацепить клинок противника и обезоружить его. Кроме потери оружия, любые другие эффекты обезоруживания остаются на усмотрение ГМа.</Description>
-    <Source Page="42">Дополнение: Бесконечное бдение</Source>
+    <Source Page="42">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Lightsaber</Type>
     <Categories>
@@ -10022,7 +10022,7 @@ Used for guiding riderless beasts and driving teams of creatures, a longeing whi
       [H3]Световой меч с боковыми лезвиями (Рукоять)[h3]
 Световык мечи с боковыми лезвиями распространены среди учеников Макаши и других пользователей Силы, которым нравится вызов и азарт дуэли. Они похожи на стандартный световой меч и работают так же, как и он, за одним исключением - под лезвием у них находится эмиттер меньшего размера с низкой мощностью, вмонтированный в рукоять. Внутренняя схема проходит через разветвитель, и благодаря использованию специализированного модулятора мощности оружие создает два вторичных, очень коротких лезвия под углом девяносто градусов к основному клинку. Хотя их основная задача - отводить энергию от основного клинка, на практике эти маленькие лезвия могут настигать клинок противника, либо блокируя его, либо, если повезет, вообще обезоруживая его.
 [P]Когда противник, сражающийся с персонажем, делает проверку "Ближнего боя" или "Светового меча", после проведения атаки персонаж может потратить [DE] или [TH][TH][TH], чтобы зацепить клинок противника и обезоружить его. Кроме потери оружия, любые другие эффекты обезоруживания остаются на усмотрение ГМа.</Description>
-    <Source Page="43">Дополнение: Бесконечное бдение</Source>
+    <Source Page="43">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Lightsaber</Type>
     <Categories>
@@ -10062,7 +10062,7 @@ Used for guiding riderless beasts and driving teams of creatures, a longeing whi
 [P]Хотя технически это оружие содержит два кристалла светового меча (по одному на каждое лезвие), в игровом процессе оно рассматривается как одно. Этот световой меч - рукоять двухклинкового светового меча, содержащая немодифицированный Хум кристалл светового меча (см. стр. 197). Этот кристалл занимает две точки Hard points.
 [P]При покупке насадок для этого оружия (в том числе кристаллов) каждая насадка стоит вдвое больше указанной цены. Это связано с тем, что для двухклинкового светового меча обычно требуется две насадки (по одной на каждый конец). Однако при установке и модификации этих насадок следуйте всем обычным правилам.
 [BR][B]Модели включают:[b] Никакие; каждое из этих орудий создается индивидуально.</Description>
-    <Source Page="176">Книга правил: Сила и судьба</Source>
+    <Source Page="176">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>LTSABER</SkillKey>
     <Damage>6</Damage>
@@ -10108,7 +10108,7 @@ Used for guiding riderless beasts and driving teams of creatures, a longeing whi
 [P]С другой стороны, рукоять светового меча - это в основном механическая система. Как и в случае с любым другим оружием или предметом, рукоять можно изменить, добавив украшения или дополнительные функции. Таким образом, человек может создать уникальную рукоять, которая будет принадлежать только ему, но при этом останется просто предметом.
 
 [P]Здесь представлены рукояти для световых мечей, перечисленных в этой главе. Чтобы стать настоящим оружием, каждому из них требуется кристалл (иначе они не наносят урона, не имеют критического рейтинга и не обладают многими свойствами предметов). Однако Игрокам, желающим сконструировать собственные световые мечи, следует начать с рукояти. Если Игрок хочет собрать свою собственную рукоять из доступных материалов, ГМ может попросить его сделать проверку на поиск рукояти, основываясь на ее редкости, и заплатить за нее. Это означает, что Игрок находит и оплачивает сырье. Затем нужно просто потратить несколько часов на то, чтобы собрать все материалы для создания рукояти - никаких проверок не требуется.</Description>
-    <Source Page="125">Книга правил: Сила и судьба</Source>
+    <Source Page="125">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>LTSABER</SkillKey>
     <Damage>0</Damage>
@@ -10298,7 +10298,7 @@ In the galaxy at large, if Lothal is known at all, it is as an Imperial world ho
 [P]Этот световой меч представляет собой базовую рукоять световой пики, содержащую немодифицированный кристалл светового меча Илума (см. стр. 197). Этот кристалл занимает два Hard points.
 
 [BR][B]Модели включают:[b] Никакие: каждое из этих орудий создается индивидуально.</Description>
-    <Source Page="176">Книга правил: Сила и судьба</Source>
+    <Source Page="176">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>LTSABER</SkillKey>
     <Damage>6</Damage>
@@ -10343,7 +10343,7 @@ In the galaxy at large, if Lothal is known at all, it is as an Imperial world ho
 [P]С другой стороны, рукоять светового меча - это в основном механическая система. Как и в случае с любым другим оружием или предметом, рукоять можно изменить, добавив украшения или дополнительные функции. Таким образом, человек может создать уникальную рукоять, которая будет принадлежать только ему, но при этом останется просто предметом.
 
 [P]Здесь представлены рукояти для световых мечей, перечисленных в этой главе. Чтобы стать настоящим оружием, каждому из них требуется кристалл (иначе они не наносят урона, не имеют критического рейтинга и не обладают многими свойствами предметов). Однако Игрокам, желающим сконструировать собственные световые мечи, следует начать с рукояти. Если Игрок хочет собрать свою собственную рукоять из доступных материалов, ГМ может попросить его сделать проверку на поиск рукояти, основываясь на ее редкости, и заплатить за нее. Это означает, что Игрок находит и оплачивает сырье. Затем нужно просто потратить несколько часов на то, чтобы собрать все материалы для создания рукояти - никаких проверок не требуется.</Description>
-    <Source Page="125">Книга правил: Сила и судьба</Source>
+    <Source Page="125">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>LTSABER</SkillKey>
     <Damage>0</Damage>
@@ -10386,8 +10386,8 @@ Essentially miniaturized lightsabers, shotos are one of the more common lightsab
 
 [BR][B]Models Include:[b] None; each of these weapons is individually constructed.</Description>
     <Sources>
-      <Source Page="177">Книга правил: Сила и судьба</Source>
-      <Source Page="54">Дополнение: Восстание сепаратистов</Source>
+      <Source Page="177">Книга правил: Сила и судьба (Force and Destiny)</Source>
+      <Source Page="54">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>LTSABER</SkillKey>
@@ -10436,8 +10436,8 @@ The soul of each lightsaber is its crystal. The Jedi of old tested their youngli
 
 [P]Provided here are the hilts for the lightsabers listed in this chapter. Each requires a crystal to become a true weapon (otherwise they deal no damage, have no critical rating, and do not have many of their item qualities). However, a PC wanting to construct their own lightsabers should start with a hilt. If the PC wants to construct his own hilt out of available materials, the GM can still have him make a check to find the hilt, based on its rarity, and pay the cost. This represents the PC finding and paying for the raw materials. Then it is simply a matter of spending a few hours putting the materials together to build the hilt—no checks are necessary. </Description>
     <Sources>
-      <Source Page="177">Книга правил: Сила и судьба</Source>
-      <Source Page="54">Дополнение: Восстание сепаратистов</Source>
+      <Source Page="177">Книга правил: Сила и судьба (Force and Destiny)</Source>
+      <Source Page="54">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>LTSABER</SkillKey>
@@ -10586,8 +10586,8 @@ a training lightsaber is without its risks: strikes from a training lightsaber c
 
 [BR][B]Models Include:[b] None: each of these weapons is individually constructed.</Description>
     <Sources>
-      <Source Page="178">Книга правил: Сила и судьба</Source>
-      <Source Page="54">Дополнение: Восстание сепаратистов</Source>
+      <Source Page="178">Книга правил: Сила и судьба (Force and Destiny)</Source>
+      <Source Page="54">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>LTSABER</SkillKey>
@@ -10618,7 +10618,7 @@ a training lightsaber is without its risks: strikes from a training lightsaber c
       [H3]Lightwhip[h3]
 Lightwhips are, perhaps, the rarest and most bizarre of the numerous lightsaber veriants. Highly modified lightsabers, lightwhips consist of a short lightsaber haft built from alloys or composites laced with either cortosis or phrik. Their internals are modified in such a way that the plasma's continment field is more flexible, allowing each emitter to create thin, snaking, fluid blades several meters in length. These modifications also have an unintended side effect of reducing the raw damage output and striking capabilities. Once active, lightwhips can both deal damage and capture or entangle an opponent. Due to the instability of the energy blades, though, lightwhips are extraordinarily hard to master and can be more of a danger to their users than their opponents.
 [P]When the character using a lightwhip makes a successful Lightsaber combat check, she may spend [AD][AD] or [TR] to prevent her opponent from using the Parry incidental to reduce damage. A user may not add lightsaber crystal attachments to a lightwhip, and cannot use a lightwhip to parry or reflect attacks.</Description>
-    <Source Page="42">Дополнение: Бесконечное бдение</Source>
+    <Source Page="42">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Lightwhip</Type>
     <Categories>
@@ -10823,7 +10823,7 @@ The M-300 is one of BlasTech's most popular civilian blaster rifles. Nicknamed t
     <Name>M3 Bulwark Blast Shield</Name>
     <Description>[H3]M3 Bulwark Blast Shield[h3]
 Typically carried by riot or military police, or security in particularly rowdy ports, blast shields are as much a weapon as a protective device. Roughly as tall as a full-grown clone, the M3 Bulwark is a curved sheet of reinforced plasteel that can be strapped to one arm. A small, narrow viewport is sot in the top of the shield, which allows the user to see while using it. Thanks to its shape and the inherent strength of plasteel, the Bulwark can shrug off most small-arms and light blaster rifle fire, as well as shrapnel and splinters from grenades and other explosive devices.</Description>
-    <Source Page="53">Дополнение: Восстание сепаратистов</Source>
+    <Source Page="53">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Shield</Category>
@@ -10900,7 +10900,7 @@ Reliable, easy to maintain, and simple to modify, the Merr-Sonn Model 53 "Quickt
     <Description>[H3]M8 Combat Knife[h3]
 Made for the GAR by Merr-Sonn, the M8 is based on Merr-Sonn's popular Treppus-2 vibroknife. The M8 hias a long, single-edged, clip-point blade with a serrated back edge. The handle is made from a flat-black polycarbonate, and the grip is covered in a textured material that provides comfort and extra grip. Every clone is issued an M8 for use in the field, and the knife has gained wide renown as both a tool and a weapon.</Description>
     <Sources>
-      <Source Page="54">Дополнение: Восстание сепаратистов</Source>
+      <Source Page="54">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>MELEE</SkillKey>
@@ -11066,7 +11066,7 @@ A mass driver is a type of projectile cannon. They inflict damage by hurling pro
       [H3]Mass Driver Missile Launchers[h3]
 
 A mass driver is a type of projectile cannon. They inflict damage by hurling projectiles at high velocities, which imparts kinetic energy and force to the target upon impact. Damage is thus a result of the mass of the projectile and its velocity.</Description>
-    <Source Page="54">Дополнение: Рыцари судьбы</Source>
+    <Source Page="54">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>AddedItem</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -11958,9 +11958,9 @@ Missile tubes are heavy, portable devices that launch rocket-powered projectiles
 
 [BR][B]Models Include[b]: Merr-Sonn PLX-2M Missile Tube. </Description>
     <Sources>
-      <Source Page="165">Книга правил: Край Империи</Source>
-      <Source Page="178">Книга правил: Эпоха восстания</Source>
-      <Source Page="170">Книга правил: Сила и судьба</Source>
+      <Source Page="165">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="178">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="170">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>GUNN</SkillKey>
@@ -12391,7 +12391,7 @@ A cheap, simple rocket with minimal guidance and stabilization systems. They are
     <Description>[H3]Mk II EMP Grenade[h3]
 Built by SoroSuub specifically for the GAR, the Mk II EMP grenade is the latest word in anti-droid weapons. The size of a standard frag grenade, an EMP grenade releases a powerful electromagnetic pulse when it detonates, instead of explosive force. This pulse incapacitates droids and can knock out even hardened electronic systems.</Description>
     <Sources>
-      <Source Page="53">Дополнение: Восстание сепаратистов</Source>
+      <Source Page="53">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -12557,7 +12557,7 @@ The Model 201 mortar is a portable light artillery system used by specialized cl
 
 [P]The Model 201 can only be used at medium range or further due to the arc of its shells.
 </Description>
-    <Source Page="53">Дополнение: Восстание сепаратистов</Source>
+    <Source Page="53">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -12751,7 +12751,7 @@ Representative of blaster pistols across the galaxy, the Model 44 is a reliable 
     <Description>[H3]Model 4 "Thunderhead" Scattergun[h3]
 The Model 4 Thunderhead by Czerka is a relatively new entry into the galactic arms market. Designed as a competitor to Adostic Arms' 8-gauge "AA8" scattergun, the Thunderhead is the latest word in close-quarters combat weaponry. Based on an ancient and simple slug-throwing technology, the Thunderhead is a rifle-sized, semi-automatic, smoothbore weapon that fires clouds of small ferroalloy pellets instead of bolts, slugs, or other traditional projectiles. When used in enclosed spaces, such as ship compartments, building corridors, and the like, these weapons are extremely effective against both unarmored and lightly armored targets.
 [P]Unlike the AA8, which relies on a large-bore shell with a large number of inert pellets, the Model 4 uses a smaller shell that is packed with tiny explosive pellets. This makes for a smaller, easier-to-handle weapon than the M8, with a lighter recoil and increased ammunition capacity. It also gives the weapon the ability to crack open light armor and vehicles and take down powerful beasts like gundarks and rancors. Czerka also sells a variety of different ammo types for the Thunderhead-everything from flechette rounds to inert shot to non-lethal gel rounds-providing users with a great amount of versatility on the battlefield.</Description>
-    <Source Page="42">Дополнение: Рыцари судьбы</Source>
+    <Source Page="42">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
     <Categories>
@@ -12963,7 +12963,7 @@ The Model 80 from Merr-Sonn Munitions is a rugged and dependable blaster pistol 
 Produced by Xana Exotic Arms, the MSW-9 is a small, easily concealable blade popular among professionals, politicians, and entertainers. Built to resemble a datapad stylus, the MSW-9 is light, inconspicuous, and easily overlooked by even the most zealous and dedicated search.
 
 [P]Due to their inherent fragility, any combat check made while wielding one of these blades that generates either [TH][TH] or [DE] damages the weapon by one step as if struck by a weapon with the Sunder quality. Add [SE] to a character's Perception check when attempting to find a molecular stiletto on a person's body.</Description>
-    <Source Page="43">Far Horizons</Source>
+    <Source Page="43">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -13172,7 +13172,7 @@ Relics of the Morgukai, an ancient Nikto warrior society that hunted Jedi and Si
 Proton rifles are heavy, powerful, long-range weapons originalIy designed for big-game hunting. Unlike a typical blaster rifle, which uses volatile Tibanna gas and XCiter technology to produce searing plasma blasts, proton rifles use tiny, baradium-fed particle accelerators to create densely charged particle beams. When they strike a target, proton rifles' beams deliver a powerful kinetic blast that knocks lighter targets off their feet and can stagger even the toughest, meanest prey.
 [P]Merr-Sonn's MR-90 is one of the best proton rifles on the market. Marketed toward wealthy, image-conscious big-game hunters, these handsome rifles are equipped with numerous shooting aids to improve their overall performance. They feature an integrated gyroscopic balancing system that assists in balance and handling, a multi-optic telescopic sighl that allows a shooter to target prey in nearly all conditions, and a charge setting that trades the weapon's ammunition capacity for a single, devastating blast. Despite the fact that the MR-90 is marketed as an upscale hunting rifle for aristocratic adventurers, many military and paramilitary forces throughout the galaxy have adopted it as a dedicated anti-materiel weapon and high-powered sniper rifle.
 [P]As a maneuver, a character using an MR-90 can set the weapon to its charge setting, which allows the shooter to expend all of the rifle's energy in a single, devastating blast. Once charged, the MR-90 counts as having the Breach 1 and Concussive 2 item qualities. After the charged beam is fired, the weapon runs out of ammunition.</Description>
-    <Source Page="40">Дополнение: Рыцари судьбы</Source>
+    <Source Page="40">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -13655,7 +13655,7 @@ Xerrol Corporation's Nightstinger is one of the most unusual blaster rifles in t
 Considered incredibly niche, obscure weapons with little combat utility, needlers are a rare sight in the galaxy. They are compact, small-framed, slug-throwing pistols that utilize a powerful, miniatureized mass driver to fire sharpened ferroceramic darts at very high velocities. The first needlers were introduced by Golan Arms during the height of the Galactic Republic. Nearly silent in their operation, and remarkably hard to detect when concealed, they were heavily marketed to individuals and government operatives who needed a reliable, easily concealed, difficult to trace weapon. Along with their silent operation and ease of use, one of these weapons' biggest selling points is their ammunition. Darts fired from a needler bypass personal energy shields with ease, and they can be coated in a variety of lethal and non-lethal toxins to subdue or kill targets. This has mde them very attractive to bounty hunters, spies and, and assassins, who appreciated their versatility and deadly utility.
 [P]The NX-14 is one of Golan Arms' latest forays into needler technology. Its smallest, most compact offering to date, this weapon is slightly smaller than a grown human's hand and roughly as thick as a common datapad. It is constructed of an inert, light-absorbing fibermesh polycarbonate with shielded internals, making an already difficult to detect weapon nearly impossible to find when concealed properly. The weapon's standard ammunition is a solid, spin-stabilized, razor-sharp ferroceremic dart that can punch through nearly any personal armor or shield with ease.
 [P]A needler removes all [SE] added by personal deflector shield. Anyone searching an individual carrying a concealed needler adds [SE] to her Perception checks to find the weapon.</Description>
-    <Source Page="42">Дополнение: Бесконечное бдение</Source>
+    <Source Page="42">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
     <Categories>
@@ -14021,7 +14021,7 @@ SoroSuub's Persuader, officially known as the Model VIII Animal Shock Prod, uses
 Developed originally by an obscure cadre of artificers, these blades were popular amongst cutpurses and assassins before Republic scouts discovered Philaxia. Once the population obtained technology such as vibroblades and other modern conveniences phase-knives fell out of favour. The weapons may have remained an unremarked oddity had a wandering Jedi not stumbled across one decades later.
 [P]Philaxian phase-knives appear as no more than knife-hilts in their inactive state. When activated, however, they project a molecular shield that forms a weightless but solid "blade". The blade is sharper than comparable vibroblade, but its unique balance makes it very difficult to wield. The user can also adjust the size and shape of the blade on the fly; certain shapes make it surprisingly good as a thrown weapon.
 [P]When used with the Saber Throw talent, a character may spend [AD][AD] or [TR] (instead of [FP]) to have the phase-knife return to her hand. A user may not add lightsaber crystal attachments to a phase-knife. Anyone searching a character carrying a deactivated phase-knife adds [SE] to the Perception check ti find the weapon.</Description>
-    <Source Page="43">Дополнение: Бесконечное бдение</Source>
+    <Source Page="43">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -14062,7 +14062,7 @@ Developed originally by an obscure cadre of artificers, these blades were popula
 A plasma grenade contains a store of blaster gas comparable to the load of a blaster pistol. When primed, an XCiter unit converts the gas to a highly energetic state. After three to sixty seconds, as selected by the user, the grenade activates the gas with a laser charge, detonating in highly explosive fashion. The resulting explosion is very similar in appearance and effect to a blaster bolt, but more powerful than even a heavy blaster and dispersed over a much larger area.</Description>
     <Sources>
       <Source Page="46">Dangerous Covenants</Source>
-      <Source Page="45">Дополнение: Рыцари судьбы</Source>
+      <Source Page="45">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -14393,7 +14393,7 @@ The proton bomb is a large energy explosive device used in space combat and orbi
       [H3]Proton Bomb Release Chute[h3]
 
 The proton bomb is a large energy explosive device used in space combat and orbital bombardment. They are most effective against fixed or slow moving targets such as fortifications, space stations, and capital ships. These energy weapons often emit the signature blue "glow" of proton torpedoes.</Description>
-    <Source Page="272">Книга правил: Эпоха восстания</Source>
+    <Source Page="272">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Proton Bomb</Category>
@@ -14514,8 +14514,8 @@ Proton torpedoes are highly advanced anti-ship projectiles typically carried by 
 
 [P]Additional proton torpedoes cost 750 credits each and are Restricted.</Description>
     <Sources>
-      <Source Page="230">Книга правил: Край Империи</Source>
-      <Source Page="240">Книга правил: Эпоха восстания</Source>
+      <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -14765,7 +14765,7 @@ A punch dagger, also known as a push dagger or gimlet knife, is a small, short-b
 Touted as a revolution in light blaster design, Merr-Sonn's Q4 Quickfire is one of the more unique hold-out blasters on the market today. Instead of the typical gas chamber and energy cell power supply, the Q4 possesses an integral rechargeable power pack that provides more stopping power and a higher cyclic rate of fire than other holdouts. The trade-off for this extra power is the fact that the power pack must be recharged instead of easily replaced (a process that takes ten minutes), as well as the weapon's dismal performance at anything farther than short range.
 
 [P]Add [SE] to a character's Perception checks when attempting to find a 04 Quickfire on a person's body. If this weapon runs out of ammo due to a [DE] result, it may not be reloaded by Extra Reloads, the Spare Clip talent, or other means.</Description>
-    <Source Page="40">Far Horizons</Source>
+    <Source Page="40">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -14965,7 +14965,7 @@ Cortosis gauntlets are simply metal or composite gloves with thick forearm plate
 [P]When a character armed with a lightsaber makes a combat check targeting an opponent armed with refined cortosis gauntlets, [TH][TH][TH] or [DE] may be spent to cause a lightsaber to short out and deactivate after the combat check has been resolved. When a character armed with refined cortosis gauntlets makes a combat check targeting a character armed with a lightsaber, the attacking character may spend [AD][AD][AD] or [TR] to cause the lightsaber to short out and deactivate after the combat check has been resolved. The lightsaber may be reactivated as an incidental but it may not be reactivated until after the last Initiative slot during the next round.
 
 [BR][B]Models Include:[b] Various models. </Description>
-    <Source Page="171">Книга правил: Сила и судьба</Source>
+    <Source Page="171">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>BRAWL</SkillKey>
     <Damage>0</Damage>
@@ -15007,7 +15007,7 @@ From the basic, utilitarian staff of a nerf herder to high-tech weapons used to 
 [P]When a character armed with a lightsaber makes a combat check targeting an opponent armed with a refined cortosis staff, [TH][TH][TH] or [DE] can be spent to cause the lightsaber to short out and deactivate after the combat check has been resolved. When a character armed with a refined cortosis staff makes a combat check targeting a character armed with a lightsaber, the attacking character may spend [AD][AD][AD] or [TR] to cause the lightsaber to short out and deactivate after the combat check has been resolved. The lightsaber may be reactivated as an incidental, but it may not be reactivated until after the last Initiative slot during the next round. Cortosis staffs require two hands to use.
 
 [BR][B]Models Include:[b] Various models. </Description>
-    <Source Page="173">Книга правил: Сила и судьба</Source>
+    <Source Page="173">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Bludgeoning Melee</Category>
@@ -15102,7 +15102,7 @@ Although the repeating cannon is less powerful than other ion weapons, its high 
     <Description>[H3]Repulsor Throwing Razor[h3]
 A peculiar and deadly weapon originating in the gladiatorial arenas of Rodia, the repulsor throwing razor combines ancient and modern technology. This Rheshalva Interstellar Armaments weapon is a serrated, crescent-shaped blade designed to be thrown at its target. The weapon incorporates a miniature repulsor engine to extend its range and help guide it toward its target. A homing beacon in the weapon allows it to fly back to the user, although throwing razors are often purchased in pairs in case something prevents one from returning. While these weapons are most often used by Rodian bounty hunters, their flash and effectiveness have not gone unnoticed by other mercenaries and fighters, who have acquired throwing razors for their own use.
 [P] A character can spend [AD][AD] on a missed attack with a throwing razor to have it return to their hand at the beginning of their next turn.</Description>
-    <Source Page="41">Дополнение: Рыцари судьбы</Source>
+    <Source Page="41">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Thrown</Type>
     <Categories>
@@ -15186,7 +15186,7 @@ Bored Technicians sometimes take a repulsor engine, add a charge capacitor and s
     <Description>[H3]RGL-318 Rotary Grenade Launcher[h3]
 Grenade launchers are some of the most versatile weapons available on the market. The ability to chamber various types of offensive, defensive, and less-lethal rounds allows a shooter to react quickly to the vagaries of the galaxy's battlefields The RGL-318, by Locris Syndicates, is a highly respected weapon that has been in service for decades in militaries and law-enforcement agencies throughout the galaxy. A big, intimidating weapon, the RGL-318 is roughly carbine-sized, with a short, wide barrel and a folding stack. A rotating cylinder mounted forward of the trigger carries six grenades and can be loaded one chamber at a time or dropped and instantly replaced with a fresh cylinder.
 [P]The weapon's listed price does not include ammunition. Grenades for the RGL-318 cost the same as equivalent hand grenades, but many dealers offer a 50-percent discount on cases of six. Any type of grenade can be chambered by the RGL-318, but the grenades must be specifically made to be fired from a grenade launcher. Launcher grenades cannot be thrown. The listed profile represents an RGL-318 loaded with standard frag grenades.</Description>
-    <Source Page="41">Дополнение: Рыцари судьбы</Source>
+    <Source Page="41">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -15228,7 +15228,7 @@ Grenade launchers are some of the most versatile weapons available on the market
 Produced by the non-lethal weapons division of Merr-Sonn Munitions, the R-88 is one of the most common riot control weapons in the galaxy. First released decades before the Clone Wars, the R-88 is similar in design and operation to the rare and expensive Stokhli Spray Stick. These long arms resemble bulky blaster rifles with two large cylinders slung beneath the barrel. The cylinders are loaded with a highly effective liquid nerve agent called Brix-C Stun Fluid, which is synthesized by Merr-Sonn. When fired, the Suppressor shoots a high velocity, concentrated stream of Brix-C that quickly aerosolizes as it travels. Effective at short and medium ranges, the stun fluid deals its damage either through inhalation or skin contact and causes nausea, impaired vision, difficulty breathing, burning pain, and unconsciousness.
 
 [P]While highly effective against sudden riots or other disturbances, the stun fluid is easily countered by breath masks and heavy clothing. This makes it less effective against determined, well organized targets expecting such weapons. At the GM's discretion, characters wearing breathing gear or sealed armor may take no damage or suffer no effects from the Suppressor.</Description>
-    <Source Page="40">Far Horizons</Source>
+    <Source Page="40">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -15270,8 +15270,8 @@ Carried throughout the galaxy by law enforcement officers responding to riots an
 
 [P]Riot shields require one hand to wield, and so can only be used with pistols and one-handed melee weapons. Some riot shields incorporate a slot or mag-lock to allow the user to support a Ranged (Heavy) weapon with the shield itself (firing the weapon one-handed while wielding the riot shield in the other hand). A riot shield with this feature costs an additional 100 credits and has no hard points. Firing a rifle locked to the shield in this way is somewhat cumbersome, and adds [SE] to combat checks with both weapons.</Description>
     <Sources>
-      <Source Page="42">Far Horizons</Source>
-      <Source Page="43">Дополнение: Рыцари судьбы</Source>
+      <Source Page="42">Дополнение: Далекие горизонты (Far Horizons)</Source>
+      <Source Page="43">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -15358,7 +15358,7 @@ Most rivet guns work around the principle of a basic pneumatic hammer, and fire 
     <Description>[H3]RLR-331 "Bulldog" Rocket Rifle[h3]
 Kelvarek Consolidated Arms' RLR-331 is a Clone Wars-era weapon popular with mercenaries and insurgents throughout the galaxy. Remarkably similar in appearance to Baktoid Armor Workshop's E-5 blaster rifle-a fact that, during its heyday, did not go unnoticed by Baktoid's powerful legal department-the RLR-331 is a bulky weapon wit h a squat, squared-off barrel. It launches small guided rockets from a detachable magazine. Originally sold in bulk to the Confederacy of Independent Systems, Bulldogs were carried by heavy-support B1 battle droids as anti-materiel and light anti-armor weapons. They were used to great effect against the Grand Army of the Republic's heavily armored clone troopers and fighting vehicles, and gained a fearsome reputation among the CIS's foes.
 [P]Rockets for the RLR-331 cost 100 credits each and have a rarity of 5.</Description>
-    <Source Page="41">Дополнение: Рыцари судьбы</Source>
+    <Source Page="41">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -15440,7 +15440,7 @@ Built by Sienar, the RPS-6 is the GAR's primary infantry portable shoulder fired
 
 [P]If attacking a target of silhouette 2 or greater, an RPS-6 adds [BO] if the user performs an aim maneuver.
 </Description>
-    <Source Page="53">Дополнение: Восстание сепаратистов</Source>
+    <Source Page="53">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -15491,7 +15491,7 @@ Built by Sienar, the RPS-6 is the GAR's primary infantry portable shoulder fired
     <Description>[H3]RS01 "Ripper" Powersword[h3]
 Powerswords are large, heavy vibroswords equipped with high-output vibrofield generators that allow them to cleave through most materials. Many also feature monomolecular edges, serrated blades. or other performance-enhancing modifications that improve their balance or killing power. SoroSuub's RS01 Ripper is a massive, two-handed weapon with a straight, single-edged blade like a great cavalry saber. Designed more for heavy, chopping blows than for dueling or precision work, the RS01 is designed as much for intimidation as it is for fighting. It is commonly associated with enforcers and other unsavory characters who may or may not have something to prove, and has therefore gained a reputation as a clumsy and brutish weapon.
 [P]A powersword requires two hands to wield.</Description>
-    <Source Page="43">Дополнение: Рыцари судьбы</Source>
+    <Source Page="43">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -16023,9 +16023,9 @@ Thin, metallic wires turn standard insulated gauntlets into shock gloves. Martia
 
 [P][B]Models Include[b]: Corellian Personal Defence X-21.</Description>
     <Sources>
-      <Source Page="166">Книга правил: Край Империи</Source>
-      <Source Page="180">Книга правил: Эпоха восстания</Source>
-      <Source Page="171">Книга правил: Сила и судьба</Source>
+      <Source Page="166">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="180">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="171">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>BRAWL</SkillKey>
@@ -16055,7 +16055,7 @@ Thin, metallic wires turn standard insulated gauntlets into shock gloves. Martia
     <Description>[H3]Shockprod Staff[h3]
 The shockprod staff is the universally recognized symbol of the ancient tradition of Gand findsmen. Roughly as tall as a full-grown Gand, the shockprod staff is constructed of various alloys and equipped with a small, high-output power cell that generates a strong stun field. The top of the staff branches into a "V" shape. Electrodes at the tip of each branch focus the stun field and can be used to trap individuals or herd them wherever a findsman needs them to go. The staff can also fire a bolt of energy up to a few meters away, allowing the user to catch targets unaware or incapacitate particularly dangerous marks at a safe distance. Shockprod staffs are handmade by Gand findsmen and presented to new findsmen when they are initiated. Those that are available on the galactic arms market have been stolen, or looted from fallen Gands.
 [P]A shockprod staff requires two hands to wield.</Description>
-    <Source Page="43">Дополнение: Рыцари судьбы</Source>
+    <Source Page="43">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -16294,9 +16294,9 @@ Short, compact, and loud, these small weapons are very rare. Those who wield the
 
 [BR][B]Models Include[b]: Oriolanis Striker Projectile Pistol.</Description>
     <Sources>
-      <Source Page="164">Книга правил: Край Империи</Source>
-      <Source Page="177">Книга правил: Эпоха восстания</Source>
-      <Source Page="169">Книга правил: Сила и судьба</Source>
+      <Source Page="164">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="177">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="169">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -16352,9 +16352,9 @@ A larger version of the slugthrower pistol, the slugthrower rifle also uses chem
 
 [BR][B]Models Include[b]: Dresselian Projectile Rifle, Czerka Arms 6-2Aug2 Hunting Rifle.</Description>
     <Sources>
-      <Source Page="164">Книга правил: Край Империи</Source>
-      <Source Page="177">Книга правил: Эпоха восстания</Source>
-      <Source Page="169">Книга правил: Сила и судьба</Source>
+      <Source Page="164">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="177">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="169">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
@@ -16479,7 +16479,7 @@ A peculiar weapon, the Selonian shard shooter is a relatively compact slugthrowe
     <Description>[H3]Sonic Grenade[h3]
 Rare and extremely deadly, sonic grenades use powerful sound generators, rather than explosives or other chemicals, to cause damage. Ostensibly anti-materiel ordnance, sonic grenades can shatter the thickest glass, crack ferrocrete, crumple light alloys, and otherwise cause tremendous damage to structures and equipment. Against enemy forces, sonic grenades cause extreme, debilitating pain at a distance and can inflict permanent damage at the point of impact.
 [P][B]Models Include:[b] Krupx Munitions Groundshaker 7, Imperial Munitions M880 Sonic Grenade.</Description>
-    <Source Page="45">Дополнение: Рыцари судьбы</Source>
+    <Source Page="45">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Thrown</Type>
     <Categories>
@@ -16732,7 +16732,7 @@ Contracted by the Republice specifically for use by the Senate Guard, the Mk II 
 [P]Despite their officially ceremonial nature, these weapons are incredibly potent in combat. Respectable range and accuracy, and the ability to switch between single-shot, and auto-fire make Paladin rifles very dangerous in the right hands. From the factory, they are fitted with slings, collapsible stocks, and a number of other features designed to optimize their combat efficientcy while maintaining their ceremonial look. In addition, when  assigned to Senate Guardsmen, these weapons were fitted with an under barrel stun prod that combined with their stun setting, made them suitable for crowd control duties as well as combat.
 [P]Today, Paladin rifles are a rare sight and most remain in storage armories deep below the Imperial Palace on Coruscant. Some have made their way to the galactic weapons market, however, commanding steep prices whenever they are sold.
 [P]The damage from the Superior quality is included in the weapon's profile. When the integral stun prod is used in clos combat, it has the following profile: Melee Damage +2; Critical 6; Range (Engaged); Disorient 2; Stun Damage.</Description>
-    <Source Page="41">Дополнение: Бесконечное бдение</Source>
+    <Source Page="41">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -16914,7 +16914,7 @@ The ST-M40 is a repeating blaster pistol based loosely on Merr-Sonn's best-selli
 
 Designed ages ago by the Stokhli, a non-human nomadic race from the Inner Rim world of Manress, these long-range non-lethal weapons are perfect for crowd control and riot suppression. Used primarily by the Stokhli to hunt the large, incredibly aggressive megafauna of their homeworld, the Spray Stick is a meter long metal rod with a tightly focused spray nozzle at one end and a stun pad equipped butt-stock at the other. Fired from the shoulder like a blaster rifle, these weapons shoot a highly concentrated spraynet mist. The mist condenses into a liquid, then into a solid web while in flight, enveloping and immobilizing its target. In addition, as the net envelops its target, it delivers a powerful electrical charge. Extremely rare and finely made, each Stokhli Spray Stick comes equipped with an accurate range finder and a fine aerosol control system that allows the user to more easily hit targets at long range. Despite their rarity and steep price, Stokhli Spray Sticks are always in demand.
 [P]When using the stun pad on the butt-stock, the Stokhli Spray Stick can be used as a melee weapon with the following profile (Skill Melee; Damage +2; Critical —; Range [Engaged Inaccurate 1, Stun Damage).</Description>
-    <Source Page="41">Far Horizons</Source>
+    <Source Page="41">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -16959,7 +16959,7 @@ Designed ages ago by the Stokhli, a non-human nomadic race from the Inner Rim wo
       [H3]Stun Baton[h3]
 
 Resembling a typical police truncheon, the Z2 by Merr-Sonn packs an extra, often completely unexpected punch in the form of a concentrated stun blast. Carried by riot police and criminal enforcers alike on countless planets, the Z2 is a one-handed blunt weapon built from heavily reinforced polymers with conductive alloy striking surfaces. When used against organic beings, the Z2 releases a burst of stun energy that can quickly and effectively reduce a malcontent to unconsciousness. While not commonly used by the Empire, who prefer a more direct and punitive form of policing, stun batons are common in the Outer Rim where law enforcement officers prefer non-lethal methods of dealing with the people they serve and protect.</Description>
-    <Source Page="43">Far Horizons</Source>
+    <Source Page="43">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories />
@@ -17026,9 +17026,9 @@ Stun grenades use sonic waves, concussion shocks, and other methods to stun thei
 
 [BR][B]Models Include[b]: Merr-Sonn C-10 Stun Grenade.</Description>
     <Sources>
-      <Source Page="165">Книга правил: Край Империи</Source>
-      <Source Page="179">Книга правил: Эпоха восстания</Source>
-      <Source Page="170">Книга правил: Сила и судьба</Source>
+      <Source Page="165">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="179">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="170">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -17225,7 +17225,7 @@ The Mk I Superlaser developed for the Death Star is the most powerful weapon in 
       [H3]Light Suppression Cannon[h3]
 
 A smaller cannon used for Light Suppression.</Description>
-    <Source Page="54">Far Horizons</Source>
+    <Source Page="54">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -17306,7 +17306,7 @@ Though designed as a defensive weapon, the stun cloak can also be used offensive
       [H3]SWE/2 Sonic Rifle[h3]
 
 Known primarily for their finely designed skiffs and robust security systems, Telex-Delcor also produces a line of reliable and easy-to-use non-lethal riot control devices. One of their more unique offerings is the SWE/2 Sonic Rifle. A refinement of the SWE/1 Sonic Suppressor released during the Clone Wars, the SWE/2 is a long-barrelled firearm designed to incapacitate even the toughest, most persistent malcontent. Using a powerful acoustic generator, the SWE/2 fires a concentrated beam of sound waves similar in power and performance to the particle beam packets fired by blasters. When used on sentient beings, this weapon affects the targets' hearing and sense of balance, staggering the targets and shorting out their fine motor centers. Similar to its Clone Wars-era predecessor, the sonic blast generated by the SWE/2 cannot be parried or disrupted by a lightsaber; a very attractive feature during the end of the Clone Wars, but of limited usefulness today.</Description>
-    <Source Page="40">Far Horizons</Source>
+    <Source Page="40">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -17493,7 +17493,7 @@ These devices were originally designed to extinguish fires aboard starships usin
       [H3]Tangle Gun[h3]
 
 Another non-lethal offering from Merr-Sonn, the Tangle Gun 7 is the latest word in crowd control weaponry. The Tangle Gun 7 is a carbine-sized rifle with a short, wide-mouthed barrel and polycarbonate furniture that is light and easy to handle. The weapon fires a small pellet of naorstrachem, a sticky and extremely flexible atmosphere-reactive synthetic memory material. Encased in a shell that falls away once the pellet is fired, the pellet explosively expands into a broad, fast moving net upon contact with atmosphere. Once the net makes contact with a target, the being's body heat causes the net to quickly contract, immobilizing him completely. Once entangled, the target must be cut from the webbing. While the Tangle Gun 7 is advertised as non-lethal, occasionally the net tightens so quickly and with such force that it causes lasting harm.</Description>
-    <Source Page="41">Far Horizons</Source>
+    <Source Page="41">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -17713,9 +17713,9 @@ These insidious devices are the size of frag grenades, but have a thermite-barad
 
 [BR][B]Models Include[b]: Merr-Sonn Class-A Thermal Detonator.</Description>
     <Sources>
-      <Source Page="165">Книга правил: Край Империи</Source>
-      <Source Page="180">Книга правил: Эпоха восстания</Source>
-      <Source Page="170">Книга правил: Сила и судьба</Source>
+      <Source Page="165">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="180">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="170">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -17794,7 +17794,7 @@ These insidious devices are half the size of frag grenades but have a thermite-b
       [H3]Thunderbolt Shock Prod[h3]
 
 A particularly brutal weapon used to herd thick skinned creatures and, on occasion, sentient beings, the Thunderbolt Shock Prod produced by SoroSuub is a weapon with a mixed reputation throughout the galaxy. At once the symbol of bucolic agricultural life and brutally oppressive regimes, the Thunderbolt consists of a solid alloy staff nearly two meters long. At one end is a heavily insulated, two-handed grip and at the other is a series of sharp prongs. The prongs aren't the main threat posed by these weapons, however. Rather, it is the powerful electrical shock generated by them. Able to produce an electrical arc powerful enough to tame a krayt dragon, the Thunderbolt is popular among planetary security forces and slavers, and judicious use of these weapons by riot police can disperse a violent crowd in minutes. The effects of the noise and the crippling pain from the shock quickly incapacitate even the most determined rioters, and these weapons are infamous throughout the galaxy.</Description>
-    <Source Page="43">Far Horizons</Source>
+    <Source Page="43">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -17911,8 +17911,8 @@ While capital ships can rely on tractor beams to ensnare and immobilize targets,
 
 Tractor beams are modified shield generators that project a beam of energy that can ensnare starships. Used on orbital shipyards, planetary starports, space stations, and many starships, tractor beams are commonly used to guide vessels safely into slips and docking bays, as well as to handle cargo. When mounted to warships, they can be used offensively to capture enemy vessels and draw them into docking bays for ease of boarding.</Description>
     <Sources>
-      <Source Page="230">Книга правил: Край Империи</Source>
-      <Source Page="240">Книга правил: Эпоха восстания</Source>
+      <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -17945,8 +17945,8 @@ Tractor beams are modified shield generators that project a beam of energy that 
 
 Tractor beams are modified shield generators that project a beam of energy that can ensnare starships. Used on orbital shipyards, planetary starports, space stations, and many starships, tractor beams are commonly used to guide vessels safely into slips and docking bays, as well as to handle cargo. When mounted to warships, they can be used offensively to capture enemy vessels and draw them into docking bays for ease of boarding.</Description>
     <Sources>
-      <Source Page="230">Книга правил: Край Империи</Source>
-      <Source Page="240">Книга правил: Эпоха восстания</Source>
+      <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -17979,8 +17979,8 @@ Tractor beams are modified shield generators that project a beam of energy that 
 
 Tractor beams are modified shield generators that project a beam of energy that can ensnare starships. Used on orbital shipyards, planetary starports, space stations, and many starships, tractor beams are commonly used to guide vessels safely into slips and docking bays, as well as to handle cargo. When mounted to warships, they can be used offensively to capture enemy vessels and draw them into docking bays for ease of boarding.</Description>
     <Sources>
-      <Source Page="230">Книга правил: Край Империи</Source>
-      <Source Page="240">Книга правил: Эпоха восстания</Source>
+      <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -18091,9 +18091,9 @@ The Jedi have used lightsabers for so long that most forget there may have been 
 
 Truncheons may be made of metal, wood, bone or other materials, but all fulfill the same basic function—bruising flesh, breaking bones, and cracking skulls. Police forces around the galaxy use truncheons to intimidate and control protesters or petty thieves. Enlightened areas prefer this to lethal force.</Description>
     <Sources>
-      <Source Page="167">Книга правил: Край Империи</Source>
-      <Source Page="182">Книга правил: Эпоха восстания</Source>
-      <Source Page="174">Книга правил: Сила и судьба</Source>
+      <Source Page="167">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="182">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="174">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>MELEE</SkillKey>
@@ -18124,8 +18124,8 @@ Truncheons may be made of metal, wood, bone or other materials, but all fulfill 
 
 Massive, heavy-caliber weapons with incredible energy requirements, turbolasers are the largest weapons mounted to starships. Turbolasers can punch clean through an opponent's shields, armor, and hull with a single blast; the lightest easily hulling small ships and the heaviest battering down the defenses of the largest cruiser. The trade-offs are their heavy power requirements, their slow recharge time, and their difficulty in tracking and hitting small, fast targets like starfighters.</Description>
     <Sources>
-      <Source Page="230">Книга правил: Край Империи</Source>
-      <Source Page="240">Книга правил: Эпоха восстания</Source>
+      <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -18163,8 +18163,8 @@ Massive, heavy-caliber weapons with incredible energy requirements, turbolasers 
 
 Massive, heavy-caliber weapons with incredible energy requirements, turbolasers are the largest weapons mounted to starships. Turbolasers can punch clean through an opponent's shields, armor, and hull with a single blast; the lightest easily hulling small ships and the heaviest battering down the defenses of the largest cruiser. The trade-offs are their heavy power requirements, their slow recharge time, and their difficulty in tracking and hitting small, fast targets like starfighters.</Description>
     <Sources>
-      <Source Page="230">Книга правил: Край Империи</Source>
-      <Source Page="240">Книга правил: Эпоха восстания</Source>
+      <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -18202,8 +18202,8 @@ Massive, heavy-caliber weapons with incredible energy requirements, turbolasers 
 
 Massive, heavy-caliber weapons with incredible energy requirements, turbolasers are the largest weapons mounted to starships. Turbolasers can punch clean through an opponent's shields, armor, and hull with a single blast; the lightest easily hulling small ships and the heaviest battering down the defenses of the largest cruiser. The trade-offs are their heavy power requirements, their slow recharge time, and their difficulty in tracking and hitting small, fast targets like starfighters.</Description>
     <Sources>
-      <Source Page="230">Книга правил: Край Империи</Source>
-      <Source Page="240">Книга правил: Эпоха восстания</Source>
+      <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -18272,7 +18272,7 @@ Long spears used by the Nikto, tuskbeast pikes were originally developed to hunt
     <Name>TZ-97 "Zapper" Shock Baton</Name>
     <Description>[H3]TZ-97 "Zapper" Shock Baton[h3]
 This weapon, issued to clone military, police, shore patrol, and anti-riot units, is essentially a law enforcement officer's truncheon equipped with a stun-field generator. When it strikes a target, it releases a powerful stored charge that short-circuits most sentients' nervous systems.</Description>
-    <Source Page="54">Дополнение: Восстание сепаратистов</Source>
+    <Source Page="54">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories />
@@ -18715,9 +18715,9 @@ Gamorreans, particularly those employed by the notorious Hutts, often carry mete
 
 [BR][B]Models Include[b]: SoroSuub BD-1 Cutter Vibro-Ax.</Description>
     <Sources>
-      <Source Page="167">Книга правил: Край Империи</Source>
-      <Source Page="182">Книга правил: Эпоха восстания</Source>
-      <Source Page="175">Книга правил: Сила и судьба</Source>
+      <Source Page="167">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="182">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="175">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>MELEE</SkillKey>
@@ -18759,9 +18759,9 @@ A vibroknife is essentially a modded combat knife, but since they have proven so
 
 [BR][B]Models Include[b]: Merr-Sonn Treppus-2 Vibroblade.</Description>
     <Sources>
-      <Source Page="167">Книга правил: Край Империи</Source>
-      <Source Page="182">Книга правил: Эпоха восстания</Source>
-      <Source Page="174">Книга правил: Сила и судьба</Source>
+      <Source Page="167">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="182">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="174">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>MELEE</SkillKey>
@@ -19224,9 +19224,9 @@ Many galactic civilizations have long taken to improving the simple but effectiv
 
 [BR][B]Models Include[b]: Merr-Sonn Damask-4 Duelist Sword. </Description>
     <Sources>
-      <Source Page="167">Книга правил: Край Империи</Source>
-      <Source Page="182">Книга правил: Эпоха восстания</Source>
-      <Source Page="175">Книга правил: Сила и судьба</Source>
+      <Source Page="167">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="182">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source Page="175">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>MELEE</SkillKey>
@@ -19595,7 +19595,7 @@ Although information is sometimes committed to flimsiplast or other forms of phy
 Incendiary grenades are relatively uncommon among the galaxy's militaries. Most civilized planets, especially in the Core, banned their use long ago as inhumane, and they often persecute users for war crimes. There are still many places where their sale and use are legal, however, and both the Imperial and Alliance militaries use them. Merr-Sonn's WP-19 is one of the more common incendiary grenades on the market. Filled with a volatile mixture of jellied incendiary compounds, accelerants, and adhesives, the WP-19 burns white-hot on detonation and spreads sticky, burning incendiary gel over a wide area. Imperial combat engineers are notorious for using these grenades to destroy enemy buildings and materiel, often with enemies and civilians alike trapped inside.</Description>
     <Sources>
       <Source Page="40">Fully Operational</Source>
-      <Source Page="45">Дополнение: Рыцари судьбы</Source>
+      <Source Page="45">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Thrown</Type>
@@ -19842,7 +19842,7 @@ The Galactic Republic purchased many of its heavy weapons from Merr-Sonn Munitio
 [P]The weapon can only be used in Auto-fire mode. The GM may spend [DE] or [TH][TH] from any combat check made with this weapon to have it overheat; the wielder suffers 2 strain and the weapon becomes damaged one step; from undamaged to Minor, Minor to Moderate, or Moderate to Major (see page 172 of the [B]Age of Rebellion[b] Core Rulebook).</Description>
     <Sources>
       <Source Page="44">Forged in Battle</Source>
-      <Source Page="52">Дополнение: Восстание сепаратистов</Source>
+      <Source Page="52">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>

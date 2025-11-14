@@ -191,7 +191,7 @@ The Player Character has some kind of connection or relationship to the Alliance
 Survival is always the first thing on every Colonist's mind—self-preservation, of course, but also survival of the colony. Even the most independent and self-sufficient Colonists need to be able to go into town for replacement parts. However, beyond those immediate concerns, there are often deeper-seeded motivations, things that could explain why a Colonist left what might have been a comfortable life on a Core world.
 [P]The truth is that life in the Core is regulated. The most available jobs are in lower management, desk-riding, or menial labor. There are few jobs that allow for much sense of expression or accomplishment. The wide open spaces of the Rim are different. Life is harder, but a Colonist can create something new for himself and his fellows.
 [P]At their hearts, most Colonists are creative. The Entrepreneur, Politico, and Performer are especially creative, incorporating art and creativity into their daily lives. Many Scholars use scientific research and their knowledge of the past to dream up bright new futures they hope to help create. Doctors, like Entrepreneurs, are forced to be creative in their problem solving, trying to keep everyone healthy with minimal supplies or come up with new ways to treat maladies. The Marshal, as an individual, can have just as big a creative drive as anyone, but in his work, he first and foremost seeks to create a peaceful environment for his fellow Colonists to pursue their creative efforts.</Description>
-    <Source Page="34">Far Horizons</Source>
+    <Source Page="34">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>CREATIONSM1</Key>

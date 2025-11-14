@@ -5,9 +5,9 @@
     <Name>Качество Accurate</Name>
     <Description>Точное оружие легче нацеливать и использовать, будь то благодаря его конструкции или технологии. За каждый уровень этой особенности атакующий добавляет [BO] к своим кубикам атаки при использовании этого оружия.</Description>
     <Sources>
-      <Source>Книга правил: Край Империи</Source>
-      <Source>Книга правил: Эпоха восстания</Source>
-      <Source>Книга правил: Сила и судьба</Source>
+      <Source>Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source>Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+      <Source>Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>

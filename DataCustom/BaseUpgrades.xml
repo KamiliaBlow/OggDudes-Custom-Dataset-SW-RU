@@ -13,7 +13,7 @@
 [P]This upgrade may be taken up to four additional times, each time increasing the profits received by 200 credits.
 
 [P][B]Upgrade Cost:[b] 2,500 credits or +2 Obligation </Description>
-    <Source Page="85">Far Horizons</Source>
+    <Source Page="85">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <MonthlyProfit>200</MonthlyProfit>
     <PurchaseCount>5</PurchaseCount>
@@ -35,7 +35,7 @@
 
 [P][B]Upgrade Cost:[b] 2,500 credits or + 2 Obligation
 </Description>
-    <Source Page="85">Far Horizons</Source>
+    <Source Page="85">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>0</PurchaseCount>
     <Cost>
@@ -58,7 +58,7 @@
 [P]This upgrade can only be purchased once.
 
 [P][B]Upgrade Cost:[b] 2,000 credits or + 1 Obligation </Description>
-    <Source Page="85">Far Horizons</Source>
+    <Source Page="85">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>1</PurchaseCount>
     <Cost>
@@ -88,7 +88,7 @@ This upgrade may be purchased three additional times, each time selecting a diff
 
 [P][B]Upgrade Cost:[b] 10,000 credits or +2 Obligation
 </Description>
-    <Source Page="85">Far Horizons</Source>
+    <Source Page="85">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>4</PurchaseCount>
     <Cost>
@@ -254,7 +254,7 @@ This upgrade may be purchased three additional times, each time selecting a diff
         <Description>
           The business's main buildings are constructed of heavily reinforced material, giving it an armor value of 2.
         </Description>
-        <Source>Far Horizons</Source>
+        <Source>Дополнение: Далекие горизонты (Far Horizons)</Source>
         <PurchaseCount>1</PurchaseCount>
       </Option>
       <Option>
@@ -263,7 +263,7 @@ This upgrade may be purchased three additional times, each time selecting a diff
         <Description>
           The business gains security cameras that can be accessed from a central control room.
         </Description>
-        <Source>Far Horizons</Source>
+        <Source>Дополнение: Далекие горизонты (Far Horizons)</Source>
         <PurchaseCount>1</PurchaseCount>
       </Option>
     </Options>
@@ -281,7 +281,7 @@ This upgrade may be purchased three additional times, each time selecting a diff
 [P]This upgrade can only be purchased once.
 
 [P][B]Upgrade Cost:[b] 1,000 credits or + 1 Obligation </Description>
-    <Source Page="85">Far Horizons</Source>
+    <Source Page="85">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>1</PurchaseCount>
     <Cost>
@@ -450,7 +450,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
 [P]This upgrade may be taken up to four additional times, each time increasing the profits received by 100 credits.
 
 [P][B]Upgrade Cost:[b] 2500 credits or +2 Obligation</Description>
-    <Source Page="83">Far Horizons</Source>
+    <Source Page="83">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <MonthlyProfit>100</MonthlyProfit>
     <ProfitPerPC>true</ProfitPerPC>
@@ -475,7 +475,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
 [P]This upgrade can only be taken once.
 
 [P][B]Upgrade Cost:[b] 5,000 credits or +3 Obligation</Description>
-    <Source Page="83">Far Horizons</Source>
+    <Source Page="83">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>1</PurchaseCount>
     <Cost>
@@ -498,7 +498,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
 [P]This upgrade may be taken up to two additional times. If taken additional times, this can either represent additional landing bays, or increase the combined silhouette limit of the original bay by 15 (although the maximum vehicle size remains at silhouette 5).
 
 [P][B]Upgrade Cost:[b] 3,000 credits or +1 Obligation </Description>
-    <Source Page="83">Far Horizons</Source>
+    <Source Page="83">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>3</PurchaseCount>
     <Cost>
@@ -519,7 +519,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
 [P]This upgrade can only be taken once.
 
 [P][B]Upgrade Cost:[b] 5,000 credits or +3 Obligation</Description>
-    <Source Page="83">Far Horizons</Source>
+    <Source Page="83">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>1</PurchaseCount>
     <Cost>
@@ -551,7 +551,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
 
 [P][B]Upgrade Cost:[b] 2,000 credits or + 1 Obligation
 </Description>
-    <Source Page="83">Far Horizons</Source>
+    <Source Page="83">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>4</PurchaseCount>
     <Cost>
@@ -1034,7 +1034,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
 [P]This upgrade may be purchased two additional times, each time selecting a different option.
 
 [P][B]Upgrade Cost:[b] 10,000 credits or +2 Obligation</Description>
-    <Source Page="83">Far Horizons</Source>
+    <Source Page="83">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>3</PurchaseCount>
     <Cost>

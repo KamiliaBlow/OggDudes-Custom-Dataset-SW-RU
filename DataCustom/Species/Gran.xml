@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>GRAN</Key>
-  <Name>Гран</Name>
+  <Name>Гран (Gran)</Name>
   <Description>
     [H4]Гран[h4]
 
@@ -23,8 +23,8 @@
 
 [P][B]Язык:[b] Все Граны говорят на Гране и почти наверняка на Бейсике, поскольку они любят разговаривать со всеми. При необходимости граны изучают языки других видов, чтобы не упустить ни одного шанса пообщаться.</Description>
   <Sources>
-    <Source Page="56">Книга правил: Эпоха восстания</Source>
-    <Source Page="22">Дополнение: Далекие горизонты</Source>
+    <Source Page="56">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+    <Source Page="22">Дополнение: Далекие горизонты (Far Horizons)</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <StartingChars>

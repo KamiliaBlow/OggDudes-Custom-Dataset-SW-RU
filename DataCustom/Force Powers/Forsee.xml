@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>FORSEE</Key>
-  <Name>Предвидение</Name>
+  <Name>Предвидение (Forsee)</Name>
   <Description>
     [H4]Способность силы: Предвидение[h4]
 
@@ -9,8 +9,8 @@
 
 [P]Сила предвидения использовалась бесчисленным множеством различных способов разными пользователями Силы на протяжении всей истории. Одни используют ее для получения смутных образов далекого будущего, другие - чтобы предсказать передвижения врагов или увидеть неожиданное событие, которое вскоре произойдет.</Description>
   <Sources>
-    <Source Page="300">Книга правил: Эпоха восстания</Source>
-    <Source Page="290">Книга правил: Сила и судьба</Source>
+    <Source Page="300">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+    <Source Page="290">Книга правил: Сила и судьба (Force and Destiny)</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <MinForceRating>1</MinForceRating>

@@ -43,7 +43,7 @@ Whether deserved or not, some Smugglers find themselves with a reputation for be
       [H4]Base of Operation[h4]
   [B]Group Obligation:[b] When the base of operations Obligation triggers, the narrative events should relate to the base of operations. This could be
 as simple as unexpected bills or an afternoon of repairing moisture vaporators on the South Ridge. Alternatively, it could involve a rampaging gundark breaking into the pastureland or a rival mining baron deciding to execute a hostile takeover of the PCs' land. The GM is free to make the narrative effects of the Obligation triggering minimally invasive, if it would distract from an important ongoing plot line, or an unexpected and major issue for the PCs to deal with immediately and personally.</Description>
-    <Source Page="82">Far Horizons</Source>
+    <Source Page="82">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -75,7 +75,7 @@ Someone has discovered one of the PC's dirty secrets and is using that knowledge
 For some reason, the character has a price on his head. This may be in the form of a legal warrant or contract by criminals, collection agencies, or even someone who felt his honor violated in some way. What he did to earn this mark is up to his background, and the severity of his actions can be based on the size of his Obligation.</Description>
     <Sources>
       <Source Page="39">Edge of the Empire Core Rulebook</Source>
-      <Source Page="17">Far Horizons</Source>
+      <Source Page="17">Дополнение: Далекие горизонты (Far Horizons)</Source>
       <Source Page="17">Fly Casual</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -107,7 +107,7 @@ The PC has a pressing contract to fulfill, whether it is legally binding or an i
     <Description>
       [H4]Contracted[h4]
 The Colonist has entered into a long-term contract with a corporation or government related to his work at a colony. In many cases, these contracts are how colonists pay their passage to the new world - a form of indentured servitude. Colonists might be contracted to provide bookkeeping, labor, or any other number of services. Failure to live up to a contract can result in financial penalties, imprisonment, deportation, or earning a bounty.</Description>
-    <Source Page="17">Far Horizons</Source>
+    <Source Page="17">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -139,7 +139,7 @@ The character has a criminal record, or was accused of a crime (perhaps one he d
  The character owes someone a great deal, whether that debt consists of money or something else. Perhaps the PC has a huge gambling debt to a Hutt, is indebted to the Czerka Corporation for his starship, owes a wealthy family for patronage, or has some other serious financial obligation. To make matters worse, depending on who owns the debt, even fully paying it off might not get the character completely off the hook - if the character can get that money, he can surely get more.</Description>
     <Sources>
       <Source Page="39">Edge of the Empire Core Rulebook</Source>
-      <Source Page="17">Far Horizons</Source>
+      <Source Page="17">Дополнение: Далекие горизонты (Far Horizons)</Source>
       <Source Page="17">Fly Casual</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -150,7 +150,7 @@ The character has a criminal record, or was accused of a crime (perhaps one he d
     <Description>
       [H4]Disgraced[h4]
 The Colonist did something shameful, often some social taboo that isn't quite illegal. The shame and sideways glances from peers have forced the Colonist to seek a new life where he can start over free of embarrassment. The isolation of some colonies and cultures makes for some strange taboos not observed by the rest of the galaxy. Thus the taboo can be something terrible, or something as benign as drinking from a public fountain or showing a bare but innocuous body part.</Description>
-    <Source Page="17">Far Horizons</Source>
+    <Source Page="17">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -168,7 +168,7 @@ The PC has a deep sense of duty that he feels compelled to fulfill, such as mili
     <Description>
       [H4]Exiled[h4]
 Going up against politically connected members of the Galactic Empire is a good way to become exiled from the most civilized of the Core Worlds. The Colonist is not allowed to set foot in the Core, or any Imperial-controlled worlds, but is desperate to remove the stain on his reputation. While possible, the smallest misstep can be disastrous, setting progress back months or even years. There is also the trouble of bureaucracy and last minute deadlines that can draw the character away.</Description>
-    <Source Page="17">Far Horizons</Source>
+    <Source Page="17">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -188,7 +188,7 @@ A botched modification, installation, or repair job has publicly damaged the cha
 The character has deep ties with his family that require a great deal of time and attention. This could include providing care for or assistance to siblings or parents, the management of an inheritance, trust, or family business, or simply mediating between squabbling family members.</Description>
     <Sources>
       <Source Page="39">Edge of the Empire Core Rulebook</Source>
-      <Source Page="17">Far Horizons</Source>
+      <Source Page="17">Дополнение: Далекие горизонты (Far Horizons)</Source>
       <Source Page="17">Fly Casual</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -210,7 +210,7 @@ The character's reputation casts a long shadow. Perhaps the PC took a famous and
 The PC owes a big favor. Perhaps officials looked the other way when he smuggled in goods, or a friend got him out of prison. Regardless, the favors are stacking up, and soon he's going to be asked to pay them back or return the favor. This favor may be called in a little at a time, prolonging the Obligation.</Description>
     <Sources>
       <Source Page="39">Edge of the Empire Core Rulebook</Source>
-      <Source Page="17">Far Horizons</Source>
+      <Source Page="17">Дополнение: Далекие горизонты (Far Horizons)</Source>
       <Source Page="17">Fly Casual</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -230,7 +230,7 @@ The character is possessed of a powerful drive to act based on religious or spir
     <Description>
       [H4]Frontier Justice[h4]
 Life on the frontier is harsh, cruel, and unfair. Bandits and outlaws can get away with murder and more if the local sheriff is too weak to stop them. Some people are able to let that go and move past it. When the dead are loved ones, however, some can't just move on. The need to get even is so strong it dominates the Colonist's thoughts and dreams, causing him to obsess about the moment of exacted vengeance. The Colonist gladly betrays, abandons, or hurts anyone if it brings him closer to settling the score.</Description>
-    <Source Page="17">Far Horizons</Source>
+    <Source Page="17">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -284,7 +284,7 @@ The PC has some unhealthy obsession that tends to interfere in his life, whether
     <Description>
       [H4]Pacifist[h4]
 This Colonist abhors violence, either out of a sense of morality or cowardice. Witnessing a violent act can incense or fluster a character so much that he is unable to think straight or control his shaking hands, or simply disgust him to the point that he can't interact with his fellows. If this obligation triggers and the PC participates in a violent act, the GM may add [SE] to any skill checks he makes for the remainder of the session. (This may be avoided through good roleplaying on the player's part, such as having his character always try to talk his way out of a fight, and if he's forced to do battle, only use weapons that stun or incapacitate his opponents).</Description>
-    <Source Page="17">Far Horizons</Source>
+    <Source Page="17">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -293,7 +293,7 @@ This Colonist abhors violence, either out of a sense of morality or cowardice. W
     <Description>
       [H4]Philanderer[h4]
 Colonies tend to be small places, and if a being gets around, word about it has a tendency to follow close behind. This Colonist has no shortage of scorned lovers still furious over his or her never committing. Former flames have a habit of showing up at the worst moment, or causing delays when the chrono is ticking. The worst is when two or more flings team up to make life miserable for a serial seducer, or when spouses find out and decide the Colonist is deserving of punishment. Nothing is off limits, as all is fair in love and war.</Description>
-    <Source Page="17">Far Horizons</Source>
+    <Source Page="17">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -313,7 +313,7 @@ The character claimed to be someone else, taking credit for his accomplishments 
 A character with the Responsibility Obligation feels a strong sense of accountability or relationship to a person, place, or thing (a responsibility to kin falls under Family Obligation described above). This could include a strong connection to a mentor, a strong desire to care for orphans in a given location, or taking on the needs of an under-represented minority.</Description>
     <Sources>
       <Source Page="39">Edge of the Empire Core Rulebook</Source>
-      <Source Page="17">Far Horizons</Source>
+      <Source Page="17">Дополнение: Далекие горизонты (Far Horizons)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </Obligation>
@@ -395,7 +395,7 @@ The character has seen the wheels of justice grind up the innocent and let the g
     <Description>
       [H4]Witness Protection[h4]
 Some Colonists never would have chosen life on a distant backwater, but authorities have deemed it necessary to hide them in the witness protection program. The Colonist is being hunted by the Hutt Cartels, Black Sun, the Tenloss Syndicate, or some other galactic-scale criminal organization as a material witness. The Colonist was given a new identity and sent to an obscure planet to safely await trial, but the syndicate won't stop looking for him.</Description>
-    <Source Page="17">Far Horizons</Source>
+    <Source Page="17">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
 </Obligations>

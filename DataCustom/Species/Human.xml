@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>HUMAN</Key>
-  <Name>Человек</Name>
+  <Name>Человек (Human)</Name>
   <Description>
     [H4]Человек[h4]
 
@@ -15,9 +15,9 @@
 
 [P][B]Язык:[b] Основной язык, на котором общаются люди, - Бейсик, хотя в каждом обществе есть свой диалект, а иногда и подъязык.</Description>
   <Sources>
-    <Source Page="48">Книга правил: Край Империи</Source>
-    <Source Page="57">Книга правил: Эпоха восстания</Source>
-    <Source Page="55">Книга правил: Сила и судьба</Source>
+    <Source Page="48">Книга правил: Край Империи (Edge of the Empire)</Source>
+    <Source Page="57">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+    <Source Page="55">Книга правил: Сила и судьба (Force and Destiny)</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <StartingChars>

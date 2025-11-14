@@ -350,7 +350,7 @@ Freerunners turn movement into a highly skilled and specialized art form, using 
     <Description>
       [H4]The Fugitive[h4]
 The galaxy is full of those on the run from something or someone. Some people may be pursued by bounty hunters, while others may be fleeing local governments, corporations, or even the Empire. Many of these people are guilty of their accused crimes, while others are innocent victims of a miscarriage of justice. In either case, colonies provide a safe haven where a person can hide, reinvent themselves, and start over in life.</Description>
-    <Source Page="13">Far Horizons</Source>
+    <Source Page="13">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -378,7 +378,7 @@ Some individuals cannot stand idly by while watching the evils the Empire inflic
       [H4]The Grizzled Settler[h4]
      This character usually began as a young idealist, perhaps newly married. He decided the best opportunity for his family were in starting over somewhere new, where the sweat off his back could build something lasting. Unfortunately, life on the frontier is hard, and what starts as a dream for the future can quickly turn sour as children succumb to exotic diseases or local wildlife, leaving some settlers stranded with nothing to live for. The grizzled settler has lived through the worst the planet has to offer, and if asked, takes a pessimistic view of any enterprise— if he does more than spit in response.
 </Description>
-    <Source Page="12">Far Horizons</Source>
+    <Source Page="12">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -399,7 +399,7 @@ Even in the rough-and-tumble world of [B]Edge of the Empire[b], there are those 
       [H4]The Idealist[h4]
 Many Colonists are exiles from more populous worlds, fleeing armed foes or haunting memories. Other Colonists, though, leave the Core Worlds not out of necessity or fear, but with more selfless intentions. The Outer Rim is home to countless settlements of sentients, and many of them are plagued by political instability, impoverished, or oppressed by local powers. From mining colonies threatened by pirates to worlds wracked by plagues brought by careless travelers, the point of light in the vast darkness of untamed space are threatened by many problems unknown in the Core.
 [P] Most natives of the Core Worlds would not consider anything as radical as leaving the comfort of their everyday routines to aid individuals they have never laid eyes on before. Apart from the discomfort of leaving familiar surroundings, the Outer Rim can be extremely dangerous. Still, some individuals feel the inexorable pull of empathy urging them to leave their homes and routines to help their fellow sentients, while others see rendering such aid as a matter of duty, a personal debt to society that must be repaid to those less fortunate than themselves. Each individual has unique motives, but it is certain that there are many idealists to be found amongst those who strike out beyond the Core.</Description>
-    <Source Page="15">Far Horizons</Source>
+    <Source Page="15">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -488,7 +488,7 @@ Plenty of current and former law enforcement agents dislike Imperial laws and en
     <Description>
       [H4]The Local Leader[h4]
      Many colonies, especially the smaller ones, contain a core cadre of prominent individuals. These business-people, ranchers, professionals, and other citizens in good standing have a strong influence on a local community. A small colony might lack an established political system or authoritative central government. Instead, these local leaders step in to fill the void, doing what they can to keep their community running smoothly.</Description>
-    <Source Page="14">Far Horizons</Source>
+    <Source Page="14">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -575,7 +575,7 @@ The simplest reason for a character to live on the fringes of society is the bas
     <Description>
       [H4]The Opportunist[h4]
 Founding a colony is hard work, but a generation or two later, when the hardest work is done but opportunity still abounds, the opportunist moves in with fresh resources. These characters are often looked down upon by already established families, especially those opportunists seeking a leadership position before the landing ramp is even fully extended. There are also colonies with corporate or Imperial interests, where a bureaucrat offworld might send in new leadership that has minimal experience. Opportunists are, at their core, enthusiastic and willing to take any risk, but often lack a key understanding of the beings they intend to influence. In truth, this understanding can only come with time.</Description>
-    <Source Page="11">Far Horizons</Source>
+    <Source Page="11">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>

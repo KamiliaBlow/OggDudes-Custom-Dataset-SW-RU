@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>GIVIN</Key>
-  <Name>Гивин</Name>
+  <Name>Гивин (Givin)</Name>
   <Description>
     [H4]Гивин[h4]
 
@@ -20,7 +20,7 @@
 [P][B]Язык:[b] Язык гивинов - родной язык вида гивинов с планеты Яг'Дхул.
 
 [P]Написанное Гивином включает в себя сотни математических символов, что требует от читателя большого количества вычислений.</Description>
-  <Source>Неофициальный зверинец видов</Source>
+  <Source>Неофициальный зверинец видов (Unofficial Species Menagerie)</Source>
   <Custom>DescOnly</Custom>
   <StartingChars>
     <Brawn>1</Brawn>

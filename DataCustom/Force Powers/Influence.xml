@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>INFLUENCE</Key>
-  <Name>Влияние</Name>
+  <Name>Влияние (Influence)</Name>
   <Description>
     [H4]Способность силы: Влияние[h4]
 
@@ -9,8 +9,8 @@
 
 [P]Однако Влияние не является злом по своей сути. Многие пользователи Силы использовали Влияние, чтобы защитить беспомощных или справиться с угрозой, избежав насилия. Гораздо лучше убедить охранника вернуться на свой пост, чем убивать его.</Description>
   <Sources>
-    <Source Page="281">Книга правил: Край Империи</Source>
-    <Source Page="294">Книга правил: Сила и судьба</Source>
+    <Source Page="281">Книга правил: Край Империи (Edge of the Empire)</Source>
+    <Source Page="294">Книга правил: Сила и судьба (Force and Destiny)</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <MinForceRating>1</MinForceRating>

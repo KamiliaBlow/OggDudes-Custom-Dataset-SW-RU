@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Species>
   <Key>DUROS</Key>
-  <Name>Дурос</Name>
+  <Name>Дурос (Duros)</Name>
   <Description>
     [H4]Дурос[h4]
 
@@ -19,8 +19,8 @@
 
 [P][B]Язык:[b] Используя письменный компонент, основанный на слогах, дурезе (также называемый дуросианским) является известным и широко распространенным языком в Кореллианском секторе и многих других центральных мирах. Он является одним из базовых языков для создания Бейсика</Description>
   <Sources>
-    <Source Page="55">Книга правил: Эпоха восстания</Source>
-    <Source Page="21">Дополнение: Шаг в неизвестность</Source>
+    <Source Page="55">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+    <Source Page="21">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <StartingChars>

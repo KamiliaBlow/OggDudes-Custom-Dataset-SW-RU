@@ -4,7 +4,7 @@
     <Key>ACTIVATIONDS</Key>
     <Name>Активация</Name>
     <Description>Вы можете активировать "Дипломатическое решение" в начале любого хода, а не только в начале боя.</Description>
-    <Source Page="38">Дополнение: Отчаянные союзники</Source>
+    <Source Page="38">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Diplomatic Solution</SigAbility>
     <DieModifiers />
@@ -13,7 +13,7 @@
     <Key>ADDBOOSTNE</Key>
     <Name>Усиление</Name>
     <Description>Добавьте [BO] к проверке навыка, чтобы активировать "Быстрый побег".</Description>
-    <Source Page="38">Дополнение: Непринужденный полет</Source>
+    <Source Page="38">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Narrow Escape</SigAbility>
     <DieModifiers />
@@ -22,7 +22,7 @@
     <Key>ALWAYSGETMYMARKBASIC</Key>
     <Name>Знаю где моя цель (Способность)</Name>
     <Description>Один раз за игровую сессию персонаж может выбрать известного NPC миньона на той же планете в качестве своей цели, потратив 2 очка "Судьбы" и сделать [B]Сложную ([DI][DI][DI]) проверку на "Уличную интуицию"[b]. Если проверка пройдена, персонаж выслеживает выбранную цель; новая встреча начинается, когда персонаж достигает места расположения цели. Точный характер встречи, а также обстоятельства, при которых она происходит, должны быть одобрены ГМом (см. [B]Нарративные способности[b] на стр. 40).</Description>
-    <Source Page="39">Дополнение: Без дезинтеграций</Source>
+    <Source Page="39">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Always Get My Mark</SigAbility>
   </SigAbilityNode>
@@ -30,7 +30,7 @@
     <Key>ALWAYSGETMYMARKCHANGESKILL1</Key>
     <Name>Изменить навык: Преступный мир</Name>
     <Description>Можно активировать "Знаю где моя цель" с помощью "Знания (Преступный мир)" вместо "Уличной интуиции".</Description>
-    <Source Page="39">Дополнение: Без дезинтеграций</Source>
+    <Source Page="39">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Always Get My Mark</SigAbility>
   </SigAbilityNode>
@@ -38,7 +38,7 @@
     <Key>ALWAYSGETMYMARKCHANGESKILL2</Key>
     <Name>Изменить навык: Выживание</Name>
     <Description>Можно активировать "Знаю где моя цель" с помощью "Выживания" вместо "Уличной интуиции".</Description>
-    <Source Page="39">Дополнение: Без дезинтеграций</Source>
+    <Source Page="39">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Always Get My Mark</SigAbility>
   </SigAbilityNode>
@@ -46,7 +46,7 @@
     <Key>ALWAYSGETMYMARKDESTINY</Key>
     <Name>Судьба</Name>
     <Description>"Знаю где моя цель" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="39">Дополнение: Без дезинтеграций</Source>
+    <Source Page="39">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Always Get My Mark</SigAbility>
   </SigAbilityNode>
@@ -54,7 +54,7 @@
     <Key>ALWAYSGETMYMARKINCREASEEFFECT1</Key>
     <Name>Усилить эффект: Соперники</Name>
     <Description>Повысьте сложность проверки на один, чтобы найти соперника (rival) NPC вместо миньона.</Description>
-    <Source Page="39">Дополнение: Без дезинтеграций</Source>
+    <Source Page="39">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Always Get My Mark</SigAbility>
   </SigAbilityNode>
@@ -62,7 +62,7 @@
     <Key>ALWAYSGETMYMARKINCREASEEFFECT2</Key>
     <Name>Усилить эффект: Немезис</Name>
     <Description>Повысьте сложность проверки в два раза, чтобы вместо миньона найти заклятого (nemesis) NPC (или персонажа игрока).</Description>
-    <Source Page="39">Дополнение: Без дезинтеграций</Source>
+    <Source Page="39">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Always Get My Mark</SigAbility>
   </SigAbilityNode>
@@ -70,7 +70,7 @@
     <Key>ALWAYSGETMYMARKINCREASERANGE</Key>
     <Name>Увеличение диапазона</Name>
     <Description>Если у персонажа есть звездолет или доступ к межзвездным путешествиям, он может выбрать персонажа на другой планете, чтобы тот стал его целью. Если он это сделает, то отправится в мир этой цели.</Description>
-    <Source Page="39">Дополнение: Без дезинтеграций</Source>
+    <Source Page="39">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Always Get My Mark</SigAbility>
   </SigAbilityNode>
@@ -78,7 +78,7 @@
     <Key>ALWAYSGETMYMARKREDUCEDIFFICULTY</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Уменьшите сложность проверки навыка для активации "Знаю где моя цель" до [B]Средней ([DI][DI])[b].</Description>
-    <Source Page="39">Дополнение: Без дезинтеграций</Source>
+    <Source Page="39">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Always Get My Mark</SigAbility>
   </SigAbilityNode>
@@ -86,7 +86,7 @@
     <Key>ALWAYSGETMYMARKTAKEDOWN</Key>
     <Name>Захват</Name>
     <Description>Повысьте сложность проверки на один, чтобы начать с цели, находящейся под стражей.</Description>
-    <Source Page="39">Дополнение: Без дезинтеграций</Source>
+    <Source Page="39">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Always Get My Mark</SigAbility>
   </SigAbilityNode>
@@ -94,7 +94,7 @@
     <Key>BIGGERTHEYAREBASIC</Key>
     <Name>Чем больше шкаф... (Способность)</Name>
     <Description>Один раз за игровую сессию в качестве действия персонаж может потратить 2 очка "Судьбы", выбрать одно транспортное средство, звездолет, живое существо силуэта 2 или меньше, которое он может видеть, и сделать [B]Сложную ([DI][DI][DI]) проверку "Знаний (Военное дело)"[b]. Если проверка пройдена, в течение следующих 3 раундов он и все остальные дружественные персонажи в пределах средней дистанции игнорируют "броню" цели (или "поглощение") при нанесении ей урона нетранспортным/космическим оружием.</Description>
-    <Source Page="38">Дополнение: Закаленные в битве</Source>
+    <Source Page="38">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Bigger They Are...</SigAbility>
   </SigAbilityNode>
@@ -102,7 +102,7 @@
     <Key>BIGGERTHEYAREDESTINY</Key>
     <Name>Судьба</Name>
     <Description>"Чем больше шкаф..." стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="38">Дополнение: Закаленные в битве</Source>
+    <Source Page="38">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Bigger They Are...</SigAbility>
   </SigAbilityNode>
@@ -110,7 +110,7 @@
     <Key>BIGGERTHEYAREDIFFICULTY</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Уменьшите сложность проверки навыка для активации "Чем больше шкаф..." до [B]Средней ([DI][DI])[b].</Description>
-    <Source Page="38">Дополнение: Закаленные в битве</Source>
+    <Source Page="38">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Bigger They Are...</SigAbility>
   </SigAbilityNode>
@@ -118,7 +118,7 @@
     <Key>BIGGERTHEYAREDURATION</Key>
     <Name>Длительность</Name>
     <Description>"Чем больше шкаф..." длится на 2 раунда дольше.</Description>
-    <Source Page="38">Дополнение: Закаленные в битве</Source>
+    <Source Page="38">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Bigger They Are...</SigAbility>
   </SigAbilityNode>
@@ -126,7 +126,7 @@
     <Key>BIGGERTHEYARESALVO</Key>
     <Name>Продолжение Залпа</Name>
     <Description>Если цель уничтожается (или умирает) во время действия "Чем больше шкаф...", персонаж может потратить 1 очко "Судьбы", чтобы выбрать новую цель для "Чем больше шкаф...".</Description>
-    <Source Page="38">Дополнение: Закаленные в битве</Source>
+    <Source Page="38">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Bigger They Are...</SigAbility>
   </SigAbilityNode>
@@ -134,7 +134,7 @@
     <Key>BIGGERTHEYARESILHOUETTE</Key>
     <Name>Увеличение силуэта</Name>
     <Description>Увеличьте силуэт целей, на которые может подействовать "Чем больше шкаф...", на 1.</Description>
-    <Source Page="38">Дополнение: Закаленные в битве</Source>
+    <Source Page="38">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Bigger They Are...</SigAbility>
   </SigAbilityNode>
@@ -142,7 +142,7 @@
     <Key>BIGGERTHEYARESKILL1</Key>
     <Name>Изменить навык (Выживание)</Name>
     <Description>Вы можете использовать "Выживание" вместо "Знания (Военное дело)", для активации "Чем больше шкаф...".</Description>
-    <Source Page="38">Дополнение: Закаленные в битве</Source>
+    <Source Page="38">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Bigger They Are...</SigAbility>
   </SigAbilityNode>
@@ -150,7 +150,7 @@
     <Key>BIGGERTHEYARESKILL2</Key>
     <Name>Изменить навык (Атлетика)</Name>
     <Description>Вы можете использовать "Атлетику" вместо "Знаний (Военное дело)", для активации "Чем больше шкаф...".</Description>
-    <Source Page="38">Дополнение: Закаленные в битве</Source>
+    <Source Page="38">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Bigger They Are...</SigAbility>
   </SigAbilityNode>
@@ -158,7 +158,7 @@
     <Key>BOOSTALLIESDS</Key>
     <Name>Усиление союзников</Name>
     <Description>Другие дружественные персонажи получают [BO] на социальные проверки до конца встречи за каждый ранг "Усиление союзников".</Description>
-    <Source Page="38">Дополнение: Отчаянные союзники</Source>
+    <Source Page="38">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Diplomatic Solution</SigAbility>
     <DieModifiers />
@@ -167,7 +167,7 @@
     <Key>CHANGESCALENE</Key>
     <Name>Изменение масштаба</Name>
     <Description>"Быстрый побег" может быть активирован в транспортном средстве с помощью навыка "Пилотирование (планета)" или "Пилотирование (космос)".</Description>
-    <Source Page="38">Дополнение: Непринужденный полет</Source>
+    <Source Page="38">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Narrow Escape</SigAbility>
     <DieModifiers />
@@ -176,7 +176,7 @@
     <Key>CHANGESKILL1DS</Key>
     <Name>Изменить навык (Запугивание)</Name>
     <Description>Чтобы активировать "Дипломатическое решение", можно сделать проверку "Запугивания" вместо проверки "Обаяния".</Description>
-    <Source Page="38">Дополнение: Отчаянные союзники</Source>
+    <Source Page="38">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Diplomatic Solution</SigAbility>
     <DieModifiers />
@@ -185,7 +185,7 @@
     <Key>CHANGESKILL2DS</Key>
     <Name>Изменить навык (Лидерство)</Name>
     <Description>Чтобы активировать "Дипломатическое решение", можно сделать проверку "Лидерства" вместо проверки "Обаяния".</Description>
-    <Source Page="38">Дополнение: Отчаянные союзники</Source>
+    <Source Page="38">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Diplomatic Solution</SigAbility>
     <DieModifiers />
@@ -194,7 +194,7 @@
     <Key>CHANGESKILLNE</Key>
     <Name>Изменить навык</Name>
     <Description>"Быстрый побег" может быть активирован во время социальных встреч с помощью навыка "Обман".</Description>
-    <Source Page="38">Дополнение: Непринужденный полет</Source>
+    <Source Page="38">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Narrow Escape</SigAbility>
     <DieModifiers />
@@ -203,7 +203,7 @@
     <Key>COUNTERESPBASE</Key>
     <Name>Контршпионаж (Способность)</Name>
     <Description>Один раз за игровую сессию персонаж может потратить 2 очка "Судьбы", чтобы сделать [B]встречную проверку "Знания (Военное дело)" против "Обмана"[b] против идентифицированного вражеского агента или лидера шпионажа. В случае успеха персонаж полностью срывает одну ранее выявленную схему или стратегию, связанную с актом шпионажа этого противника. То, как именно персонаж будет этого добиваться, должен утвердить ГМ, но описание должно быть остроумным и логичным. Обратите внимание, что вражеский персонаж не обязательно должен физически присутствовать или находиться рядом с персонажем, чтобы использовать эту способность, и что ГМ имеет право решать, какие NPC являются допустимыми целями.</Description>
-    <Source Page="34">Дополнение: Шифры и Маски</Source>
+    <Source Page="34">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Counterespionage</SigAbility>
   </SigAbilityNode>
@@ -211,7 +211,7 @@
     <Key>COUNTERESPBOOST</Key>
     <Name>Усиление</Name>
     <Description>При проверке навыка, чтобы активировать "Контршпионаж", персонаж добавляет [BO] за каждый ранг "Усиление".</Description>
-    <Source Page="34">Дополнение: Шифры и Маски</Source>
+    <Source Page="34">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Counterespionage</SigAbility>
   </SigAbilityNode>
@@ -219,7 +219,7 @@
     <Key>COUNTERESPDESTINY</Key>
     <Name>Судьба</Name>
     <Description>"Контршпионаж" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="34">Дополнение: Шифры и Маски</Source>
+    <Source Page="34">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Counterespionage</SigAbility>
   </SigAbilityNode>
@@ -227,7 +227,7 @@
     <Key>COUNTERESPREDUCESETBACK</Key>
     <Name>Уменьшить штраф</Name>
     <Description>Проверка навыка, которую персонаж делает при использовании "Контршпионажа", может быть выполнена с помощью "Переговоров", а не "Знаний (Военное дело)".</Description>
-    <Source Page="34">Дополнение: Шифры и Маски</Source>
+    <Source Page="34">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Counterespionage</SigAbility>
   </SigAbilityNode>
@@ -235,7 +235,7 @@
     <Key>COUNTERESPSKILL1</Key>
     <Name>Изменить навык (Обаяние)</Name>
     <Description>Проверка навыка, которую персонаж делает при использовании "Контршпионажа", может быть сделана с помощью "Обаяния", а не "Знаний (Военное дело)".</Description>
-    <Source Page="34">Дополнение: Шифры и Маски</Source>
+    <Source Page="34">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Counterespionage</SigAbility>
   </SigAbilityNode>
@@ -243,7 +243,7 @@
     <Key>COUNTERESPSKILL2</Key>
     <Name>Изменить навык (Переговоры)</Name>
     <Description>Уберите [SE] из проверки навыков персонажа при использовании "Контршпионажа".</Description>
-    <Source Page="34">Дополнение: Шифры и Маски</Source>
+    <Source Page="34">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Counterespionage</SigAbility>
   </SigAbilityNode>
@@ -251,7 +251,7 @@
     <Key>COUNTERESPTURNAGENT</Key>
     <Name>Двойной агент</Name>
     <Description>Потратьте [TR] при успешной проверке на активации "Контршпионажа", чтобы превратить одного выявленного вражеского агента в двойного агента, тайно работающего на персонажа.</Description>
-    <Source Page="34">Дополнение: Шифры и Маски</Source>
+    <Source Page="34">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Counterespionage</SigAbility>
   </SigAbilityNode>
@@ -259,7 +259,7 @@
     <Key>DEADLYREPADDSETBACK</Key>
     <Name>Добавить штраф</Name>
     <Description>Добавляет [SE] к проверкам, на которые влияет "Убийственная репутация".</Description>
-    <Source Page="34">Дополнение: Рыцари судьбы</Source>
+    <Source Page="34">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Deadly Reputation</SigAbility>
   </SigAbilityNode>
@@ -267,7 +267,7 @@
     <Key>DEADLYREPASSOCIATION</Key>
     <Name>Убийственное сравнение</Name>
     <Description>"Убийственная репутация" также влияет на проверки, направленные на союзников персонажа.</Description>
-    <Source Page="34">Дополнение: Рыцари судьбы</Source>
+    <Source Page="34">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Deadly Reputation</SigAbility>
   </SigAbilityNode>
@@ -275,7 +275,7 @@
     <Key>DEADLYREPBASE</Key>
     <Name>Убийственная репутация (Способность)</Name>
     <Description>Один раз за сессию персонаж может потратить 2 очка "Судьбы", чтобы активировать "Убийственную репутацию". До конца следующего хода персонажа увеличивайте сложность всех проверок навыков, направленных на этого персонажа, на 1.</Description>
-    <Source Page="34">Дополнение: Рыцари судьбы</Source>
+    <Source Page="34">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Deadly Reputation</SigAbility>
   </SigAbilityNode>
@@ -283,7 +283,7 @@
     <Key>DEADLYREPDESTINY</Key>
     <Name>Судьба</Name>
     <Description>"Убийственная репутация" стоит 1 очко "Судьбы" для активации.</Description>
-    <Source Page="34">Дополнение: Рыцари судьбы</Source>
+    <Source Page="34">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Deadly Reputation</SigAbility>
   </SigAbilityNode>
@@ -291,7 +291,7 @@
     <Key>DEADLYREPDURATION</Key>
     <Name>Увеличить длительность</Name>
     <Description>"Убийственная репутация" длится на раунд дольше.</Description>
-    <Source Page="34">Дополнение: Рыцари судьбы</Source>
+    <Source Page="34">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Deadly Reputation</SigAbility>
   </SigAbilityNode>
@@ -299,7 +299,7 @@
     <Key>DEADLYREPINCREASEEFFECT</Key>
     <Name>Усилить эффект</Name>
     <Description>Повышает сложность проверок, на которые влияет "Убийственная репутация".</Description>
-    <Source Page="34">Дополнение: Рыцари судьбы</Source>
+    <Source Page="34">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Deadly Reputation</SigAbility>
   </SigAbilityNode>
@@ -307,7 +307,7 @@
     <Key>DESTINYDS</Key>
     <Name>Судьба</Name>
     <Description>"Дипломатическое решение" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="38">Дополнение: Отчаянные союзники</Source>
+    <Source Page="38">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Diplomatic Solution</SigAbility>
     <DieModifiers />
@@ -316,7 +316,7 @@
     <Key>DESTINYNE</Key>
     <Name>Судьба</Name>
     <Description>"Быстрый побег" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="38">Дополнение: Непринужденный полет</Source>
+    <Source Page="38">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Narrow Escape</SigAbility>
     <DieModifiers />
@@ -325,7 +325,7 @@
     <Key>DESTINYUF</Key>
     <Name>Судьба</Name>
     <Description>"Непревзойденная удача" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="39">Дополнение: Непринужденный полет</Source>
+    <Source Page="39">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Fortune</SigAbility>
     <DieModifiers />
@@ -334,7 +334,7 @@
     <Key>DESTINYUI</Key>
     <Name>Судьба</Name>
     <Description>"Непревзойденная интуиция" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="40">Дополнение: Отчаянные союзники</Source>
+    <Source Page="40">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Insight</SigAbility>
     <DieModifiers />
@@ -343,7 +343,7 @@
     <Key>DIPLOMATICSOLUTIONBASE</Key>
     <Name>Дипломатическое решение (Способность)</Name>
     <Description>Один раз за игровую сессию, когда должно начаться боевое столкновение с одним или несколькими разумными существами, персонаж может потратить 2 очка "Судьбы" и сделать проверку [B]Опасную ([DI][DI][DI][DI]) "Обаяния"[b], чтобы вместо этого превратить столкновение в социальное.</Description>
-    <Source Page="38">Дополнение: Отчаянные союзники</Source>
+    <Source Page="38">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Diplomatic Solution</SigAbility>
     <DieModifiers />
@@ -352,7 +352,7 @@
     <Key>DISCERNMOTIVESUI</Key>
     <Name>Определить мотивы</Name>
     <Description>Персонаж осознает мотивы каждого другого участника сцены.</Description>
-    <Source Page="40">Дополнение: Отчаянные союзники</Source>
+    <Source Page="40">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Insight</SigAbility>
     <DieModifiers />
@@ -361,7 +361,7 @@
     <Key>FATDUELBALANCE</Key>
     <Name>Космический баланс</Name>
     <Description>Если персонаж получает "критическое ранение", пока активна "Судьбоносная дуэль", перебросьте 1 очко "Судьбы" темной стороны на очко "Судьбы" светлой стороны.</Description>
-    <Source Page="35">Дополнение: Поддержание мира</Source>
+    <Source Page="35">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Fated Duel</SigAbility>
   </SigAbilityNode>
@@ -369,7 +369,7 @@
     <Key>FATDUELBASIC</Key>
     <Name>Судьбоносная дуэль (Способность)</Name>
     <Description>Один раз за игровую сессию, во время боевого столкновения, персонаж может потратить 2 очка "Судьбы" и сделать [B]Сложную ([DI][DI][DI]) проверку "Выдержки"[b], чтобы бросить вызов другому персонажу. Если проверка пройдена, оба персонажа вступают в дуэль на 3 раунда. В течение всего поединка оба дуэлянта могут наносить атаки только друг другу, и никакие другие персонажи не могут наносить атаки дуэлянтам (или вмешиваться иным образом).</Description>
-    <Source Page="35">Дополнение: Поддержание мира</Source>
+    <Source Page="35">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Fated Duel</SigAbility>
   </SigAbilityNode>
@@ -377,7 +377,7 @@
     <Key>FATDUELDURATION</Key>
     <Name>Длительность</Name>
     <Description>Судьбоносная дуэль длится на 1 раунд дольше.</Description>
-    <Source Page="35">Дополнение: Поддержание мира</Source>
+    <Source Page="35">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Fated Duel</SigAbility>
   </SigAbilityNode>
@@ -385,7 +385,7 @@
     <Key>FATDUELINSPIRE</Key>
     <Name>Вдохновение</Name>
     <Description>Добавляет [BO] к проверкам, сделанным союзниками, пока активна "Судьбоносная дуэль".</Description>
-    <Source Page="35">Дополнение: Поддержание мира</Source>
+    <Source Page="35">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Fated Duel</SigAbility>
   </SigAbilityNode>
@@ -393,7 +393,7 @@
     <Key>FATDUELREDUCEDIFF</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Уменьшите сложность проверки навыков для активации "Судьбоносной дуэли" до [B]Средней ([DI][DI])[b].</Description>
-    <Source Page="35">Дополнение: Поддержание мира</Source>
+    <Source Page="35">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Fated Duel</SigAbility>
   </SigAbilityNode>
@@ -401,7 +401,7 @@
     <Key>FATDUELSTANDFIRM</Key>
     <Name>Твердая стойка</Name>
     <Description>Увеличивает порог "ран" на +4, пока активна "Судьбоносная дуэль".</Description>
-    <Source Page="35">Дополнение: Поддержание мира</Source>
+    <Source Page="35">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Fated Duel</SigAbility>
   </SigAbilityNode>
@@ -409,7 +409,7 @@
     <Key>FREQUENCY</Key>
     <Name>Частота</Name>
     <Description>"Непревзойденные навыки" можно использовать дважды за одну игровую сессию.</Description>
-    <Source Page="35">Дополнение: Шифры и Маски</Source>
+    <Source Page="35">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Tradecraft</SigAbility>
   </SigAbilityNode>
@@ -417,7 +417,7 @@
     <Key>FREQUENCYUF</Key>
     <Name>Частота</Name>
     <Description>"Непревзойденная удача" может быть использована еще один раз в каждой игровой сессии за каждое приобретенный ранг "Частоты".</Description>
-    <Source Page="39">Дополнение: Непринужденный полет</Source>
+    <Source Page="39">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Fortune</SigAbility>
     <DieModifiers />
@@ -426,7 +426,7 @@
     <Key>FREQUENCYUI</Key>
     <Name>Частота</Name>
     <Description>"Непревзойденная интуиция" может быть использована дважды за одну игровую сессию.</Description>
-    <Source Page="40">Дополнение: Отчаянные союзники</Source>
+    <Source Page="40">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Insight</SigAbility>
     <DieModifiers />
@@ -435,7 +435,7 @@
     <Key>HARDERTHEYFALINCNUMBERL</Key>
     <Name>Увеличение числа</Name>
     <Description>Эффекты "Тем громче падает" распространяются на количество союзников в пределах средней дистанции, равное рангам в "Увеличение числа".</Description>
-    <Source Page="34">Дополнение: Полная оперативность</Source>
+    <Source Page="34">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Harder They Fall</SigAbility>
   </SigAbilityNode>
@@ -443,7 +443,7 @@
     <Key>HARDERTHEYFALLBASE</Key>
     <Name>Тем громче падает (Способность)</Name>
     <Description>Один раз за игровую сессию персонаж может потратить 2 очка "Судьбы" и сделать [B]Сложную ([DI][DI][DI]) проверку "Механики"[b]. В случае успеха до конца встречи боевые проверки, которые персонаж делает против транспортных средств, строений или дроидов, наносящих "раны" или "травмы корпуса", автоматически наносят "критическое ранение" или "критическое попадание" (в зависимости от цели). [AD] или [TR] можно потратить, чтобы вызвать "критический рейтинг" атаки дополнительное количество раз, добавив + 10 к критическому броску, как обычно.</Description>
-    <Source Page="34">Дополнение: Полная оперативность</Source>
+    <Source Page="34">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Harder They Fall</SigAbility>
   </SigAbilityNode>
@@ -451,7 +451,7 @@
     <Key>HARDERTHEYFALLCHANGESKILL</Key>
     <Name>Изменить навык</Name>
     <Description>Проверка навыка, чтобы активировать "Тем громче падает", может быть сделана с помощью "Знаний (Образование)" или "Знаний (Военное дело)" вместо навыка "Механики".</Description>
-    <Source Page="34">Дополнение: Полная оперативность</Source>
+    <Source Page="34">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Harder They Fall</SigAbility>
   </SigAbilityNode>
@@ -459,7 +459,7 @@
     <Key>HARDERTHEYFALLDESTINY</Key>
     <Name>Судьба</Name>
     <Description>Чтобы активировать "Тем громче падает", персонаж должен потратить 1 очко "Судьбы" вместо обычных 2 очков "Судьбы".</Description>
-    <Source Page="34">Дополнение: Полная оперативность</Source>
+    <Source Page="34">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Harder They Fall</SigAbility>
   </SigAbilityNode>
@@ -467,7 +467,7 @@
     <Key>HARDERTHEYFALLFREQ</Key>
     <Name>Частота</Name>
     <Description>"Тем громче падает" можно использовать один дополнительный раз за игровую сессию.</Description>
-    <Source Page="34">Дополнение: Полная оперативность</Source>
+    <Source Page="34">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Harder They Fall</SigAbility>
   </SigAbilityNode>
@@ -475,7 +475,7 @@
     <Key>HARDERTHEYFALLIGNOREDEF</Key>
     <Name>Игнорировать защиту</Name>
     <Description>Пока "Тем громче падает" активна, боевые проверки, которые делает персонаж, игнорируют 1 очко рейтинга "защиты" за "Игнорировать защиту".</Description>
-    <Source Page="34">Дополнение: Полная оперативность</Source>
+    <Source Page="34">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Harder They Fall</SigAbility>
   </SigAbilityNode>
@@ -483,7 +483,7 @@
     <Key>HARDERTHEYFALLREDUCEDIFF</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Сложность проверки навыка для активации "Тем громче падает" меняется на [B]Среднюю ([DI][DI])[b] вместо [B]Сложной ([DI][DI][DI])[b].</Description>
-    <Source Page="34">Дополнение: Полная оперативность</Source>
+    <Source Page="34">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>The Harder They Fall</SigAbility>
   </SigAbilityNode>
@@ -491,7 +491,7 @@
     <Key>INCREASEEFFECTUF</Key>
     <Name>Усилить эффект</Name>
     <Description>"Непревзойденная удача" может быть использована и на отрицательных кубиках.</Description>
-    <Source Page="39">Дополнение: Непринужденный полет</Source>
+    <Source Page="39">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Fortune</SigAbility>
     <DieModifiers />
@@ -500,7 +500,7 @@
     <Key>INCREASEEFFNE</Key>
     <Name>Усилить эффект</Name>
     <Description>Влияет на дополнительное количество союзных персонажей, равное "Смекалке", за каждый ранг "Усилить эффект".</Description>
-    <Source Page="38">Дополнение: Непринужденный полет</Source>
+    <Source Page="38">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Narrow Escape</SigAbility>
     <DieModifiers />
@@ -509,7 +509,7 @@
     <Key>INCREASENUMBERUF</Key>
     <Name>Увеличение числа</Name>
     <Description>"Непревзойденная удача" влияет на один дополнительный кубик за каждый ранг "Увеличение числа".</Description>
-    <Source Page="39">Дополнение: Непринужденный полет</Source>
+    <Source Page="39">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Fortune</SigAbility>
     <DieModifiers />
@@ -518,7 +518,7 @@
     <Key>INCREASENUMBERUI</Key>
     <Name>Увеличение числа</Name>
     <Description>Увеличьте количество затронутых участников на 2 за "Увеличение числа".</Description>
-    <Source Page="40">Дополнение: Отчаянные союзники</Source>
+    <Source Page="40">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Insight</SigAbility>
     <DieModifiers />
@@ -527,7 +527,7 @@
     <Key>INCREASERANGEUF</Key>
     <Name>Увеличение диапазона</Name>
     <Description>Увеличивает максимальное расстояние, на котором "Непревзойденная удача" может воздействовать на согласных союзников, на 1 за каждый приобретенный ранг "Увеличение диапазона".</Description>
-    <Source Page="39">Дополнение: Непринужденный полет</Source>
+    <Source Page="39">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Fortune</SigAbility>
     <DieModifiers />
@@ -536,7 +536,7 @@
     <Key>INSIGHTFULADDBOOST</Key>
     <Name>Усиление</Name>
     <Description>Добавьте [BO] к проверке навыка, чтобы активировать "Проницательное откровение".</Description>
-    <Source Page="36">Дополнение: Далекие горизонты</Source>
+    <Source Page="36">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Insightful Revelation</SigAbility>
     <DieModifiers />
@@ -545,7 +545,7 @@
     <Key>INSIGHTFULADDSKILL</Key>
     <Name>Дополнительные навыки</Name>
     <Description>При выполнении действия "Проницательное откровение" персонаж может заменить "Знание (Образование)" на любой другой навык "Знания".</Description>
-    <Source Page="36">Дополнение: Далекие горизонты</Source>
+    <Source Page="36">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Insightful Revelation</SigAbility>
     <DieModifiers />
@@ -554,7 +554,7 @@
     <Key>INSIGHTFULBASIC</Key>
     <Name>Проницательное откровение (Способность)</Name>
     <Description>Один раз за игровую сессию персонаж может выполнить действие "Проницательное откровение" и потратить 2 очка "Судьба", чтобы сделать [B]Сложную ([DI][DI][DI]) проверку "Знаний (Образование")[b]. Если проверка пройдена, он узнает ценную информацию, которой раньше не обладал, касающуюся его текущей ситуации. Что именно он узнает, решает ГМ. Но она должна быть ценной для игрока, преодолевающего его непосредственное столкновение или ситуацию, и информация не может быть получена никаким другим доступным способом.</Description>
-    <Source Page="36">Дополнение: Далекие горизонты</Source>
+    <Source Page="36">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Insightful Revelation</SigAbility>
     <DieModifiers />
@@ -563,7 +563,7 @@
     <Key>INSIGHTFULDESTINY</Key>
     <Name>Судьба</Name>
     <Description>"Проницательное откровение" стоит 1 очков "Судьбы" вместо 2.</Description>
-    <Source Page="36">Дополнение: Далекие горизонты</Source>
+    <Source Page="36">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Insightful Revelation</SigAbility>
     <DieModifiers />
@@ -572,7 +572,7 @@
     <Key>INSIGHTFULDURATION</Key>
     <Name>Длительность</Name>
     <Description>Персонаж может выполнить действие "Проницательное откровение" еще один раз за игровую сессию.</Description>
-    <Source Page="36">Дополнение: Далекие горизонты</Source>
+    <Source Page="36">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Insightful Revelation</SigAbility>
     <DieModifiers />
@@ -581,7 +581,7 @@
     <Key>INSIGHTFULINCEFF</Key>
     <Name>Усилить эффект</Name>
     <Description>Если проверка пройдена, персонаж может потратить [TR], чтобы получить еще одну часть столь же полезной информации.</Description>
-    <Source Page="36">Дополнение: Далекие горизонты</Source>
+    <Source Page="36">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Insightful Revelation</SigAbility>
     <DieModifiers />
@@ -590,7 +590,7 @@
     <Key>INSIGHTFULREDDIFF</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Уменьшите сложность проверки навыка для активации "Проницательного откровения" до [B]Средней ([DI][DI])[b].</Description>
-    <Source Page="36">Дополнение: Далекие горизонты</Source>
+    <Source Page="36">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Insightful Revelation</SigAbility>
     <DieModifiers />
@@ -599,7 +599,7 @@
     <Key>INSIGHTFULSETBACK</Key>
     <Name>Уменьшить штраф</Name>
     <Description>Уберите [SE] из проверки навыка, при активации "Проницательное откровение".</Description>
-    <Source Page="36">Дополнение: Далекие горизонты</Source>
+    <Source Page="36">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Insightful Revelation</SigAbility>
     <DieModifiers />
@@ -608,7 +608,7 @@
     <Key>INVENTIVECREATIONBASIC</Key>
     <Name>Изобретательное творчество (Способность)</Name>
     <Description>Один раз за игровую сессию в качестве действия персонаж может потратить 2 очка "Судьбы" и сделать [B]Непростую ([DI][DI][DI][DI]) проверку "Механики"[b]. Если проверка пройдена, персонаж немедленно использует имеющиеся детали для создания устройства, которое функционирует как предмет по его выбору с "редкостью" 5 или ниже. Предмет функционирует до конца встречи, после чего он разваливается на части, разряжается или иным образом перестает функционировать навсегда. Точная природа устройства, которое пытается сконструировать персонаж, а также конечный результат должны быть утверждены ГМом (см. [B]Нарративные способности[b] на странице 38).</Description>
-    <Source Page="39">Дополнение: Особые модификации</Source>
+    <Source Page="39">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Inventive Creation</SigAbility>
   </SigAbilityNode>
@@ -616,7 +616,7 @@
     <Key>INVENTIVECREATIONDESTINY</Key>
     <Name>Судьба</Name>
     <Description>"Изобретательное творчество" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="39">Дополнение: Особые модификации</Source>
+    <Source Page="39">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Inventive Creation</SigAbility>
   </SigAbilityNode>
@@ -624,7 +624,7 @@
     <Key>INVENTIVECREATIONDIFF</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Уменьшите сложность проверки навыков для активации "Изобретательное творчество" до [B]Сложной ([DI][DI][DI])[b].</Description>
-    <Source Page="39">Дополнение: Особые модификации</Source>
+    <Source Page="39">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Inventive Creation</SigAbility>
   </SigAbilityNode>
@@ -632,7 +632,7 @@
     <Key>INVENTIVECREATIONRARITY</Key>
     <Name>Увеличить редкость</Name>
     <Description>Увеличьте редкость устройства, которое персонаж может построить, на 1.</Description>
-    <Source Page="39">Дополнение: Особые модификации</Source>
+    <Source Page="39">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Inventive Creation</SigAbility>
   </SigAbilityNode>
@@ -640,7 +640,7 @@
     <Key>INVENTIVECREATIONSCALE</Key>
     <Name>Изменение масштаба</Name>
     <Description>Вы можете создать транспортное средство силуэта 2 или меньше, используя "Изобретательное творчество".</Description>
-    <Source Page="39">Дополнение: Особые модификации</Source>
+    <Source Page="39">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Inventive Creation</SigAbility>
   </SigAbilityNode>
@@ -648,7 +648,7 @@
     <Key>INVENTIVECREATIONSETBACK</Key>
     <Name>Уменьшить штраф</Name>
     <Description>Уберите [SE] из проверки навыка, при активации "Изобретательное творчество".</Description>
-    <Source Page="39">Дополнение: Особые модификации</Source>
+    <Source Page="39">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Inventive Creation</SigAbility>
   </SigAbilityNode>
@@ -656,7 +656,7 @@
     <Key>LEVERAGEUI</Key>
     <Name>Leverage</Name>
     <Description>Выберите 1 персонажа. Повысьте способность всех социальных проверок на 1 за каждый ранг "Leverage" против этого персонажа до конца встречи.</Description>
-    <Source Page="40">Дополнение: Отчаянные союзники</Source>
+    <Source Page="40">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Insight</SigAbility>
     <DieModifiers />
@@ -665,7 +665,7 @@
     <Key>LOSADDBOOST</Key>
     <Name>Усиление</Name>
     <Description>Добавьте [BO] к проверке навыка, при активации "Кто остался последним".</Description>
-    <Source Page="36">Дополнение: Опасные союзы</Source>
+    <Source Page="36">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Last One Standing</SigAbility>
   </SigAbilityNode>
@@ -673,7 +673,7 @@
     <Key>LOSBASIC</Key>
     <Name>Кто остался последним (Способность)</Name>
     <Description>Один раз за игровую сессию во время боя персонаж может потратить 2 очка "Судьбы", чтобы совершить [B]Сложную ([DI][DI][DI]) проверку "Стойкости"[b]. Если проверка пройдена, он пропускает свой следующий ход и уничтожает всех вражеских миньонов в этой схватке. (Все миньоны уничтожаются немедленно, поэтому не будут участвовать в бою, но ради сюжета Персонажа можно потратить следующий раунд боя на их обездвиживание). Повествование о том, как он этого добьется, зависит от персонажа игрока, но оно должно быть достаточно захватывающим, а также должно быть одобрено ГМом.</Description>
-    <Source Page="36">Дополнение: Опасные союзы</Source>
+    <Source Page="36">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Last One Standing</SigAbility>
   </SigAbilityNode>
@@ -681,7 +681,7 @@
     <Key>LOSDEST</Key>
     <Name>Судьба</Name>
     <Description>"Кто остался последним" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="36">Дополнение: Опасные союзы</Source>
+    <Source Page="36">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Last One Standing</SigAbility>
   </SigAbilityNode>
@@ -689,7 +689,7 @@
     <Key>LOSINCREASEEFFECT</Key>
     <Name>Усилить эффект</Name>
     <Description>Когда срабатывает "Кто остался последним", уничтожьте одного соперника за каждый ранг "Усилить эффект" в дополнение к миньонам.</Description>
-    <Source Page="36">Дополнение: Опасные союзы</Source>
+    <Source Page="36">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Last One Standing</SigAbility>
   </SigAbilityNode>
@@ -697,7 +697,7 @@
     <Key>LOSREDUCEDIFF</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Уменьшите сложность проверки навыка при активации "Кто остался последним" до [B]Средней ([DI][DI])[b].</Description>
-    <Source Page="36">Дополнение: Опасные союзы</Source>
+    <Source Page="36">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Last One Standing</SigAbility>
   </SigAbilityNode>
@@ -705,7 +705,7 @@
     <Key>LOSREDUCESETBACK</Key>
     <Name>Уменьшить штраф</Name>
     <Description>Уберите [SE] из проверки навыка, при активации "Кто остался последним".</Description>
-    <Source Page="36">Дополнение: Опасные союзы</Source>
+    <Source Page="36">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Last One Standing</SigAbility>
   </SigAbilityNode>
@@ -713,7 +713,7 @@
     <Key>MUCHTOLEARNBASIC</Key>
     <Name>Многое предстоит узнать (Способность)</Name>
     <Description>Один раз за игровую сессию персонаж может потратить 2 очка "Судьбы" и совершить [B]Сложную ([DI][DI][DI]) проверку "Знаний (Образование)"[b], затем выбрать один талант, которым обладает персонаж. До конца текущего боя один персонаж в пределах средней дистанции считается обладателем этого таланта. Если этот талант имеет ранг, союзный персонаж считается имеющим столько же рангов в таланте, сколько и персонаж с этой знаковой способностью.</Description>
-    <Source Page="34">Дополнение: Последователи гармонии</Source>
+    <Source Page="34">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Much to Learn</SigAbility>
   </SigAbilityNode>
@@ -721,7 +721,7 @@
     <Key>MUCHTOLEARNCHANGESKILL1</Key>
     <Name>Изменить навык: Лидерство</Name>
     <Description>Чтобы активировать "Многое предстоит узнать", вместо проверки "Знания (Образование)" сделайте проверку "Лидерства".</Description>
-    <Source Page="34">Дополнение: Последователи гармонии</Source>
+    <Source Page="34">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Much to Learn</SigAbility>
   </SigAbilityNode>
@@ -729,7 +729,7 @@
     <Key>MUCHTOLEARNCHANGESKILL2</Key>
     <Name>Изменить навык: Знания</Name>
     <Description>Чтобы активировать "Многое предстоит узнать", вместо проверки навыка "Знания (Образование)" сделайте любую проверку категории навыка "Знание".</Description>
-    <Source Page="34">Дополнение: Последователи гармонии</Source>
+    <Source Page="34">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Much to Learn</SigAbility>
   </SigAbilityNode>
@@ -737,7 +737,7 @@
     <Key>MUCHTOLEARNDESTINY</Key>
     <Name>Судьба</Name>
     <Description>"Многое предстоит узнать" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="34">Дополнение: Последователи гармонии</Source>
+    <Source Page="34">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Much to Learn</SigAbility>
   </SigAbilityNode>
@@ -745,7 +745,7 @@
     <Key>MUCHTOLEARNIMPROVE</Key>
     <Name>Улучшение таланта</Name>
     <Description>Если персонаж обладает улучшенной версией выбранного таланта, союзники, затронутые им, тоже считаются обладателями этого таланта на время встречи.</Description>
-    <Source Page="34">Дополнение: Последователи гармонии</Source>
+    <Source Page="34">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Much to Learn</SigAbility>
   </SigAbilityNode>
@@ -753,7 +753,7 @@
     <Key>MUCHTOLEARNINCREASENUMBER</Key>
     <Name>Увеличение числа</Name>
     <Description>Увеличивает количество затронутых союзников на 2 за каждый ранг "Увеличение числа".</Description>
-    <Source Page="34">Дополнение: Последователи гармонии</Source>
+    <Source Page="34">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Much to Learn</SigAbility>
   </SigAbilityNode>
@@ -761,7 +761,7 @@
     <Key>MUCHTOLEARNREDUCEDIFFICULTY</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Уменьшите сложность проверки навыка при активации "Многое предстоит узнать" до [B]Средней ([DI][DI])[b].</Description>
-    <Source Page="34">Дополнение: Последователи гармонии</Source>
+    <Source Page="34">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Much to Learn</SigAbility>
   </SigAbilityNode>
@@ -769,7 +769,7 @@
     <Key>MUCHTOLEARNSUPREME</Key>
     <Name>Высший талант</Name>
     <Description>Если персонаж обладает высшей версией выбранного таланта, затронутые им союзники тоже считаются обладателями этого таланта на время встречи.</Description>
-    <Source Page="34">Дополнение: Последователи гармонии</Source>
+    <Source Page="34">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Much to Learn</SigAbility>
   </SigAbilityNode>
@@ -777,7 +777,7 @@
     <Key>MYCITYBASIC</Key>
     <Name>Мой город (Способность)</Name>
     <Description>Один раз за игровую сессию, находясь в городской среде, персонаж может потратить 2 очка "Судьбы" и совершить [B]Сложную ([DI][DI][DI]) проверку "Знания (Центральные миры)"[b] или [B]"Знания (Внешнее кольцо)"[b]. В случае успеха, в течение оставшейся игровой сессии персонаж может получить 2 "усталости", чтобы вспомнить или узнать местоположение любого человека, группы или учреждения в этом городе, а также любую соответствующую информацию.</Description>
-    <Source Page="34">Дополнение: Бесконечное бдение</Source>
+    <Source Page="34">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>My City</SigAbility>
   </SigAbilityNode>
@@ -785,7 +785,7 @@
     <Key>MYCITYBOOSTSKILL1</Key>
     <Name>Улучшение навыка: Уличная интуиция и Выживание</Name>
     <Description>Когда персонаж делает проверку навыков, пока активен "Мой город", он добавляет [BO] к проверкам "Уличная интуиция" и "Выживание".</Description>
-    <Source Page="34">Дополнение: Бесконечное бдение</Source>
+    <Source Page="34">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>My City</SigAbility>
   </SigAbilityNode>
@@ -793,7 +793,7 @@
     <Key>MYCITYBOOSTSKILL2</Key>
     <Name>Улучшение навыка: Жульничество и Скрытность</Name>
     <Description>Когда персонаж делает проверку навыков, пока активен "Мой город", он добавляет [BO] к проверкам "Жульничество" и "Скрытность".</Description>
-    <Source Page="34">Дополнение: Бесконечное бдение</Source>
+    <Source Page="34">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>My City</SigAbility>
   </SigAbilityNode>
@@ -801,7 +801,7 @@
     <Key>MYCITYCHANGESKILL1</Key>
     <Name>Изменить навык: Уличная интуиция</Name>
     <Description>Активировав "Мой город", персонаж может сделать проверку "Уличной интуиции" вместо проверки "Знания (Центральные миры/Внешнее кольцо)".</Description>
-    <Source Page="34">Дополнение: Бесконечное бдение</Source>
+    <Source Page="34">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>My City</SigAbility>
   </SigAbilityNode>
@@ -809,7 +809,7 @@
     <Key>MYCITYCHANGESKILL2</Key>
     <Name>Изменить навык: Преступный мир</Name>
     <Description>Когда активируется "Мой город", персонаж может сделать проверку "Знания (Преступный мир)" вместо проверки "Знания (Центральные миры/Внешнее кольцо)".</Description>
-    <Source Page="34">Дополнение: Бесконечное бдение</Source>
+    <Source Page="34">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>My City</SigAbility>
   </SigAbilityNode>
@@ -817,7 +817,7 @@
     <Key>MYCITYCOVERUPGRADE</Key>
     <Name>Улучшение оболочки</Name>
     <Description>Пока "Мой город" активен и персонаж находится в выбранном городе, каждый раз, когда персонаж находится в укрытии, он увеличивает свою "защиту дальнего боя" на 1.</Description>
-    <Source Page="34">Дополнение: Бесконечное бдение</Source>
+    <Source Page="34">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>My City</SigAbility>
   </SigAbilityNode>
@@ -825,7 +825,7 @@
     <Key>MYCITYDESTINY</Key>
     <Name>Судьба</Name>
     <Description>Чтобы активировать "Мой город", персонажу нужно потратить всего 1 очко "Судьбы" вместо обычных 2.</Description>
-    <Source Page="34">Дополнение: Бесконечное бдение</Source>
+    <Source Page="34">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>My City</SigAbility>
   </SigAbilityNode>
@@ -833,7 +833,7 @@
     <Key>MYCITYDOWNGRADE</Key>
     <Name>Понижение</Name>
     <Description>Пока "Мой город" активен и персонаж находится в выбранном городе, он может один раз получить 2 "усталости", чтобы понизить сложность любой проверки "Скрытности" на 1.</Description>
-    <Source Page="34">Дополнение: Бесконечное бдение</Source>
+    <Source Page="34">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>My City</SigAbility>
   </SigAbilityNode>
@@ -841,7 +841,7 @@
     <Key>MYCITYREDUCEDIFFICULTY</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Сложность проверки навыка для активации "Мой город" теперь [B]Средняя ([DI][DI])[b] вместо [B]Сложная ([DI][DI][DI])[b].</Description>
-    <Source Page="34">Дополнение: Бесконечное бдение</Source>
+    <Source Page="34">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>My City</SigAbility>
   </SigAbilityNode>
@@ -849,7 +849,7 @@
     <Key>NARROWESCAPEBASE</Key>
     <Name>Быстрый побег (Способность)</Name>
     <Description>Один раз за игровую сессию персонаж может потратить 2 очка "Судьбы", чтобы сделать [B]Сложную ([DI][DI][DI]) проверку "Уличная интуиция"[b]. В случае успеха персонаж может немедленно покинуть текущее боевое столкновение личного масштаба, оставшись невредимым. Испытание не преодолено или побеждено, но персонаж может избежать опасности или угрозы на некоторое время. Точный характер того, чего пытается достичь персонаж, а также конечные результаты должны быть одобрены ГМом (см. [B]Нарративные способности[b] на странице 38), но они должны быть достаточно креативными или смелыми.</Description>
-    <Source Page="37">Дополнение: Непринужденный полет</Source>
+    <Source Page="37">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Narrow Escape</SigAbility>
@@ -859,7 +859,7 @@
     <Key>PROPHECYBASE</Key>
     <Name>Пророчество (Способность)</Name>
     <Description>Один раз за игровую сессию персонаж может потратить 1 очко "Судьбы" и сделать [B]Сложную ([DI][DI][DI]) проверку "Бдительности"[b], чтобы произнести пророчество. Если проверка пройдена, он предсказывает 1 событие, в центре которого находятся они сами. В любой момент до конца игровой сессии он может потратить 1 очко "Судьбы", и тогда предсказанное событие произойдет. ГМ должен интерпретировать пророчество в соответствии со сценой, возможно, раскрывая истины, которых персонаж не предвидел.</Description>
-    <Source Page="37">Дополнение: Абсолютная власть</Source>
+    <Source Page="37">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>
   </SigAbilityNode>
@@ -867,7 +867,7 @@
     <Key>PROPHECYDESTINY</Key>
     <Name>Судьба</Name>
     <Description>Пророчество стоит на 1 очко "Судьбы" меньше, но для его активации по-прежнему требуется очко "Судьбы", чтобы вызвать пророческое событие.</Description>
-    <Source Page="37">Дополнение: Абсолютная власть</Source>
+    <Source Page="37">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>
   </SigAbilityNode>
@@ -875,7 +875,7 @@
     <Key>PROPHECYDOOM</Key>
     <Name>Гибель</Name>
     <Description>Добавьте [SE] к проверкам любого персонажа, чтобы предотвратить наступление предсказанного события.</Description>
-    <Source Page="37">Дополнение: Абсолютная власть</Source>
+    <Source Page="37">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>
   </SigAbilityNode>
@@ -883,7 +883,7 @@
     <Key>PROPHECYFLOWOFUNIVERSE</Key>
     <Name>Вселенский поток</Name>
     <Description>Добавьте [BO] к проверкам персонажа, чтобы предсказанное событие свершилось.</Description>
-    <Source Page="37">Дополнение: Абсолютная власть</Source>
+    <Source Page="37">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>
   </SigAbilityNode>
@@ -891,7 +891,7 @@
     <Key>PROPHECYRECUR</Key>
     <Name>Рецидив</Name>
     <Description>Еще один раз до конца игровой сессии персонаж может потратить 1 очко "Судьбы", чтобы предсказанное в пророчестве событие повторилось, но, скорее всего, в другой форме.</Description>
-    <Source Page="37">Дополнение: Абсолютная власть</Source>
+    <Source Page="37">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>
   </SigAbilityNode>
@@ -899,7 +899,7 @@
     <Key>PROPHECYREDUCEDIFF</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Уменьшите сложность проверки навыка для активации "Пророчества" до [B]Средней ([DI][DI])[b].</Description>
-    <Source Page="37">Дополнение: Абсолютная власть</Source>
+    <Source Page="37">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>
   </SigAbilityNode>
@@ -907,7 +907,7 @@
     <Key>PROPHECYREDUCESETBACK</Key>
     <Name>Уменьшить штраф</Name>
     <Description>Снимите [SE] с проверки, чтобы активировать "Пророчество".</Description>
-    <Source Page="37">Дополнение: Абсолютная власть</Source>
+    <Source Page="37">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>
   </SigAbilityNode>
@@ -915,7 +915,7 @@
     <Key>PROPHECYSHAREDREV</Key>
     <Name>Общее откровение</Name>
     <Description>Пророчество может относиться к любому другому персонажу, который его услышит.</Description>
-    <Source Page="37">Дополнение: Абсолютная власть</Source>
+    <Source Page="37">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Prophecy</SigAbility>
   </SigAbilityNode>
@@ -923,7 +923,7 @@
     <Key>REDUCEDIFFICULTYDS</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Уменьшите сложность проверки навыка для активации "Дипломатического решения" до [B]Сложной ([DI][DI][DI])[b].</Description>
-    <Source Page="38">Дополнение: Отчаянные союзники</Source>
+    <Source Page="38">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Diplomatic Solution</SigAbility>
     <DieModifiers />
@@ -932,7 +932,7 @@
     <Key>REDUCEDIFFNE</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Уменьшите сложность проверки навыка для активации "Быстрого побега" до [B]Средней ([DI][DI])[b].</Description>
-    <Source Page="38">Дополнение: Непринужденный полет</Source>
+    <Source Page="38">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Narrow Escape</SigAbility>
     <DieModifiers />
@@ -941,7 +941,7 @@
     <Key>REDUCESBNE</Key>
     <Name>Уменьшить штраф</Name>
     <Description>Уберите [SE] из проверки навыка, чтобы активировать "Быстрый побег".</Description>
-    <Source Page="38">Дополнение: Непринужденный полет</Source>
+    <Source Page="38">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Narrow Escape</SigAbility>
     <DieModifiers />
@@ -950,7 +950,7 @@
     <Key>REDUCESETBACKDS</Key>
     <Name>Уменьшить штраф</Name>
     <Description>Уберите [SE] из проверки навыка, чтобы активировать "Дипломатическое решение".</Description>
-    <Source Page="38">Дополнение: Отчаянные союзники</Source>
+    <Source Page="38">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Diplomatic Solution</SigAbility>
     <DieModifiers />
@@ -959,7 +959,7 @@
     <Key>ROUSORBASIC</Key>
     <Name>Проникновенное ораторство (Способность)</Name>
     <Description>Один раз за игровую сессию персонаж может выполнить действие "Проникновенное ораторство", потратить 2 очка "Судьбы" и сделать [B]Сложную ([DI][DI][DI]) проверку "Лидерства"[b], чтобы вдохновить группу на действия в военной ситуации, в отношении которых члены группы ранее сомневались.</Description>
-    <Source Page="38">Дополнение: Лидерство на примере</Source>
+    <Source Page="38">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Rousing Oratory</SigAbility>
   </SigAbilityNode>
@@ -967,7 +967,7 @@
     <Key>ROUSORBOOSTALLIES</Key>
     <Name>Усиление союзников</Name>
     <Description>После срабатывания "Проникновенного ораторства" добавьте [BO] за каждый ранг "Усиление союзников" ко всем проверкам "Выдержки" и "Хладнокровия", которые делают другие дружественные персонажи и NPC до конца встречи.</Description>
-    <Source Page="38">Дополнение: Лидерство на примере</Source>
+    <Source Page="38">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Rousing Oratory</SigAbility>
   </SigAbilityNode>
@@ -975,7 +975,7 @@
     <Key>ROUSORCHANGESKILL</Key>
     <Name>Изменить навык: Выдержка</Name>
     <Description>Можно совершить проверку "Выдержки" вместо проверки "Лидерства", чтобы активировать "Проникновенное ораторство".</Description>
-    <Source Page="38">Дополнение: Лидерство на примере</Source>
+    <Source Page="38">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Rousing Oratory</SigAbility>
   </SigAbilityNode>
@@ -983,7 +983,7 @@
     <Key>ROUSORCHANGESKILL2</Key>
     <Name>Изменить навык: Хладнокровие</Name>
     <Description>Чтобы активировать "Проникновенное ораторство", вместо проверки "Лидерства" можно сделать проверку "Хладнокровия".</Description>
-    <Source Page="38">Дополнение: Лидерство на примере</Source>
+    <Source Page="38">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Rousing Oratory</SigAbility>
   </SigAbilityNode>
@@ -991,7 +991,7 @@
     <Key>ROUSORDESTINY</Key>
     <Name>Судьба</Name>
     <Description>"Проникновенное ораторство" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="38">Дополнение: Лидерство на примере</Source>
+    <Source Page="38">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Rousing Oratory</SigAbility>
   </SigAbilityNode>
@@ -999,7 +999,7 @@
     <Key>ROUSORRECOVERSTRAIN</Key>
     <Name>Recover Strain</Name>
     <Description>Дружественные персонажи и NPC, на которых действует "Проникновенное ораторство", восстанавливают количество "усталости", равное рангам персонажа в "Лидерстве".</Description>
-    <Source Page="38">Дополнение: Лидерство на примере</Source>
+    <Source Page="38">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Rousing Oratory</SigAbility>
   </SigAbilityNode>
@@ -1007,7 +1007,7 @@
     <Key>ROUSORREDUCEDIFF</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Уменьшите сложность проверки навыка для активации "Проникновенного ораторства" до [B]Средней ([DI][DI])[b].</Description>
-    <Source Page="38">Дополнение: Лидерство на примере</Source>
+    <Source Page="38">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Rousing Oratory</SigAbility>
   </SigAbilityNode>
@@ -1015,7 +1015,7 @@
     <Key>ROUSORREDUCESETBACK</Key>
     <Name>Уменьшить штраф</Name>
     <Description>Уберите [SE] из проверки навыка, чтобы активировать "Проникновенное ораторство".</Description>
-    <Source Page="38">Дополнение: Лидерство на примере</Source>
+    <Source Page="38">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Rousing Oratory</SigAbility>
   </SigAbilityNode>
@@ -1023,7 +1023,7 @@
     <Key>ROUSORTURNINGPOINT</Key>
     <Name>Turning Point</Name>
     <Description>Во время массового боя можно активировать "Проникновенное ораторство", чтобы создать раунд или усилить союзников, уже участвующих в нем.</Description>
-    <Source Page="38">Дополнение: Лидерство на примере</Source>
+    <Source Page="38">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Rousing Oratory</SigAbility>
   </SigAbilityNode>
@@ -1031,7 +1031,7 @@
     <Key>SECRETUI</Key>
     <Name>Секрет</Name>
     <Description>Обратите внимание на одну важную деталь, которую выбранный персонаж предпочел бы скрыть.</Description>
-    <Source Page="40">Дополнение: Отчаянные союзники</Source>
+    <Source Page="40">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Insight</SigAbility>
     <DieModifiers />
@@ -1040,7 +1040,7 @@
     <Key>SHAREDLUCKUF</Key>
     <Name>Совместная удача</Name>
     <Description>"Непревзойденная удача" также может быть использована на кубики согласного союзника в пределах короткой дистанции.</Description>
-    <Source Page="39">Дополнение: Непринужденный полет</Source>
+    <Source Page="39">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Fortune</SigAbility>
     <DieModifiers />
@@ -1049,7 +1049,7 @@
     <Key>SUDDISCADDBOOST</Key>
     <Name>Усиление</Name>
     <Description>Добавьте [BO] к проверке умения, чтобы активировать "Внезапные открытия".</Description>
-    <Source Page="34">Дополнение: Шаг в неизвестность</Source>
+    <Source Page="34">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Sudden Discovery</SigAbility>
   </SigAbilityNode>
@@ -1057,7 +1057,7 @@
     <Key>SUDDISCBASIC</Key>
     <Name>Внезапные открытия (Способность)</Name>
     <Description>Один раз за игровую сессию персонаж может потратить 2 очка "Судьбы", чтобы совершить [B]Сложную ([DI][DI][DI]) проверку "Знаний (Внешнее кольцо)" или "Знаний (Центральные Миры)"[b]. Если проверка пройдена, персонаж может точно определить свое местоположение без карты или другого проводника, обнаружить потерянный или спрятанный предмет или местоположение, а также определить безопасный и быстрый путь через любую местность. Точный характер того, что пытается сделать персонаж, а также конечные результаты должны быть одобрены ГМом.</Description>
-    <Source Page="34">Дополнение: Шаг в неизвестность</Source>
+    <Source Page="34">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Sudden Discovery</SigAbility>
   </SigAbilityNode>
@@ -1065,7 +1065,7 @@
     <Key>SUDDISCCHANGESKILL</Key>
     <Name>Изменить навык</Name>
     <Description>"Внезапные открытия" можно активировать с помощью навыков "Астрогация" или "Выживание".</Description>
-    <Source Page="34">Дополнение: Шаг в неизвестность</Source>
+    <Source Page="34">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Sudden Discovery</SigAbility>
   </SigAbilityNode>
@@ -1073,7 +1073,7 @@
     <Key>SUDDISCDEST</Key>
     <Name>Судьба</Name>
     <Description>"Внезапные открытия" стоит 1 очков "Судьбы" вместо 2.</Description>
-    <Source Page="34">Дополнение: Шаг в неизвестность</Source>
+    <Source Page="34">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Sudden Discovery</SigAbility>
   </SigAbilityNode>
@@ -1081,7 +1081,7 @@
     <Key>SUDDISCFREQ</Key>
     <Name>Частота</Name>
     <Description>"Внезапные открытия" можно использовать дважды за одну игровую сессию.</Description>
-    <Source Page="34">Дополнение: Шаг в неизвестность</Source>
+    <Source Page="34">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Sudden Discovery</SigAbility>
   </SigAbilityNode>
@@ -1089,7 +1089,7 @@
     <Key>SUDDISCREDUCEDIFF</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Уменьшите сложность проверки навыка для активации "Внезапного открытия" до [B]Средней ([DI][DI])[b].</Description>
-    <Source Page="34">Дополнение: Шаг в неизвестность</Source>
+    <Source Page="34">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Sudden Discovery</SigAbility>
   </SigAbilityNode>
@@ -1097,7 +1097,7 @@
     <Key>SUDDISCREDUCESETBACK</Key>
     <Name>Уменьшить штраф</Name>
     <Description>Уберите [SE] из проверки навыка, чтобы активировать "Внезапные открытия".</Description>
-    <Source Page="34">Дополнение: Шаг в неизвестность</Source>
+    <Source Page="34">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Sudden Discovery</SigAbility>
   </SigAbilityNode>
@@ -1105,7 +1105,7 @@
     <Key>THISONEISMINEBASE</Key>
     <Name>Этот мой (Способность)</Name>
     <Description>Один раз за игровую сессию, пилотируя звездолет или транспортное средство, персонаж может потратить 2 очка "Судьбы", чтобы вызвать на бой другой звездолет или транспортное средство с равным силуэтом. В течение 2 раундов оба корабля находятся в состоянии дуэли. На время дуэли оба корабля могут наносить атаки, направленные только друг на друга, и никакие другие звездолеты или персонажи не могут наносить атаки на дуэлирующие корабли.</Description>
-    <Source Page="36">Дополнение: Все по плану</Source>
+    <Source Page="36">Дополнение: Все по плану (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>This One is Mine</SigAbility>
@@ -1115,7 +1115,7 @@
     <Key>THISONEISMINEDEST</Key>
     <Name>Судьба</Name>
     <Description>"Этот мой" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="36">Дополнение: Все по плану</Source>
+    <Source Page="36">Дополнение: Все по плану (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>This One is Mine</SigAbility>
@@ -1125,7 +1125,7 @@
     <Key>THISONEISMINEDUR</Key>
     <Name>Длительность</Name>
     <Description>"Этот мой" длится на 1 раунд дольше.</Description>
-    <Source Page="36">Дополнение: Все по плану</Source>
+    <Source Page="36">Дополнение: Все по плану (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>This One is Mine</SigAbility>
@@ -1135,7 +1135,7 @@
     <Key>THISONEISMINEEVA</Key>
     <Name>Уклонение</Name>
     <Description>Повышайте сложность всех входящих атак на 1, пока активен навык "Этот мой".</Description>
-    <Source Page="36">Дополнение: Все по плану</Source>
+    <Source Page="36">Дополнение: Все по плану (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>This One is Mine</SigAbility>
@@ -1145,7 +1145,7 @@
     <Key>THISONEISMINEFREQ</Key>
     <Name>Частота</Name>
     <Description>"Этот мой" можно использовать дважды за игровую сессию.</Description>
-    <Source Page="36">Дополнение: Все по плану</Source>
+    <Source Page="36">Дополнение: Все по плану (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>This One is Mine</SigAbility>
@@ -1155,7 +1155,7 @@
     <Key>THISONEISMINESIL</Key>
     <Name>Изменить силуэт</Name>
     <Description>"Этот мой" может нацеливаться на корабли или транспортные средства с силуэтом на 1 больше или меньше.</Description>
-    <Source Page="36">Дополнение: Все по плану</Source>
+    <Source Page="36">Дополнение: Все по плану (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>This One is Mine</SigAbility>
@@ -1165,7 +1165,7 @@
     <Key>UNEXPECTEDDEMISEBASIC</Key>
     <Name>Внезапная кончина (Способность)</Name>
     <Description>Один раз за сессию в качестве действия персонаж может потратить 2 очка "Судьбы" и сделать [B]Сложную ([DI][DI][DI]) проверку "Внимания"[b]. В случае успеха в течение следующих 2 раундов персонаж может потратить 1 маневр, чтобы добавить 1 автоматический [TR] к своей следующей боевой проверке, сделанной в этот ход. Кроме того, в течение следующих 2 раундов, когда персонаж наносит соперничающему NPC "критическое ранение", цель немедленно становится недееспособной так же, как и NPC миньон (см. стр. 400 книги [B]Сила и Судьба[b]).</Description>
-    <Source Page="34">Дополнение: Дикие духи</Source>
+    <Source Page="34">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unexpected Demise</SigAbility>
   </SigAbilityNode>
@@ -1173,7 +1173,7 @@
     <Key>UNEXPECTEDDEMISEDESTINY</Key>
     <Name>Судьба</Name>
     <Description>Чтобы активировать "Внезапную кончину", персонажу нужно потратить всего 1 очко "Судьбы" вместо обычных 2 очков "Судьбы".</Description>
-    <Source Page="34">Дополнение: Дикие духи</Source>
+    <Source Page="34">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unexpected Demise</SigAbility>
   </SigAbilityNode>
@@ -1181,7 +1181,7 @@
     <Key>UNEXPECTEDDEMISEDIFFICULTY</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Сложность проверки навыка для активации "Внезапной кончины" [B]Средняя ([DI][DI])[b] вместо [B]Сложная ([DI][DI][DI])[b].</Description>
-    <Source Page="34">Дополнение: Дикие духи</Source>
+    <Source Page="34">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unexpected Demise</SigAbility>
   </SigAbilityNode>
@@ -1189,7 +1189,7 @@
     <Key>UNEXPECTEDDEMISEDURATION</Key>
     <Name>Длительность</Name>
     <Description>"Внезапная кончина" длится на 1 раунд дольше за каждый ранг "Длительность".</Description>
-    <Source Page="34">Дополнение: Дикие духи</Source>
+    <Source Page="34">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unexpected Demise</SigAbility>
   </SigAbilityNode>
@@ -1197,7 +1197,7 @@
     <Key>UNEXPECTEDDEMISESETBACK</Key>
     <Name>Уменьшить штраф</Name>
     <Description>При выполнении проверки боя, когда "Внезапная кончина" активна, персонаж убирает [SE].</Description>
-    <Source Page="34">Дополнение: Дикие духи</Source>
+    <Source Page="34">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unexpected Demise</SigAbility>
   </SigAbilityNode>
@@ -1205,7 +1205,7 @@
     <Key>UNEXPECTEDDEMISESKILL</Key>
     <Name>Изменить навык</Name>
     <Description>Чтобы активировать "Внезапную кончину", персонаж может использовать "Выдержку".</Description>
-    <Source Page="34">Дополнение: Дикие духи</Source>
+    <Source Page="34">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unexpected Demise</SigAbility>
   </SigAbilityNode>
@@ -1213,7 +1213,7 @@
     <Key>UNMATCHAUTHBASIC</Key>
     <Name>Непревзойденный авторитет (Способность)</Name>
     <Description>Один раз за игровую сессию, в качестве действия во время энкаунтера в структурированном времени, персонаж может потратить 2 очка "Судьбы", чтобы получить следующую способность на остаток текущего раунда и два дополнительных раунда. В качестве свободного действия персонаж может получить 2 "усталости", чтобы понизить сложность проверки навыка союзника на 1.</Description>
-    <Source Page="40">Дополнение: Лидерство на примере</Source>
+    <Source Page="40">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Authority</SigAbility>
   </SigAbilityNode>
@@ -1221,7 +1221,7 @@
     <Key>UNMATCHAUTHDESTINY</Key>
     <Name>Судьба</Name>
     <Description>"Непревзойденный авторитет" стоит 1 "Судьбы" вместо 2.</Description>
-    <Source Page="40">Дополнение: Лидерство на примере</Source>
+    <Source Page="40">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Authority</SigAbility>
   </SigAbilityNode>
@@ -1229,7 +1229,7 @@
     <Key>UNMATCHAUTHDURATION</Key>
     <Name>Длительность</Name>
     <Description>"Непревзойденный авторитет" длится на 1 раунд дольше.</Description>
-    <Source Page="40">Дополнение: Лидерство на примере</Source>
+    <Source Page="40">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Authority</SigAbility>
   </SigAbilityNode>
@@ -1237,7 +1237,7 @@
     <Key>UNMATCHAUTHENDURANCE</Key>
     <Name>Выносливость</Name>
     <Description>Уменьшите затраты на "усталость", чтобы изменить проверку навыков союзника с помощью "Непревзойденного авторитета" на 1.</Description>
-    <Source Page="40">Дополнение: Лидерство на примере</Source>
+    <Source Page="40">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Authority</SigAbility>
   </SigAbilityNode>
@@ -1245,7 +1245,7 @@
     <Key>UNMATCHAUTHFIRMRESOLVE</Key>
     <Name>Твердая решимость</Name>
     <Description>Увеличьте порог "усталости" на 2, пока активен "Непревзойденный авторитет".</Description>
-    <Source Page="40">Дополнение: Лидерство на примере</Source>
+    <Source Page="40">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Authority</SigAbility>
   </SigAbilityNode>
@@ -1253,7 +1253,7 @@
     <Key>UNMATCHAUTHINCREASEEFFECT</Key>
     <Name>Усиление эффекта: Убрать штраф</Name>
     <Description>Можно убрать [SE] из проверки союзника вместо понижения сложности.</Description>
-    <Source Page="40">Дополнение: Лидерство на примере</Source>
+    <Source Page="40">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Authority</SigAbility>
   </SigAbilityNode>
@@ -1261,7 +1261,7 @@
     <Key>UNMATCHAUTHINCREASEEFFECT2</Key>
     <Name>Усиление эффекта: Уменьшение сложность</Name>
     <Description>Можно уменьшить сложность проверки навыков союзника вместо понижения сложности.</Description>
-    <Source Page="40">Дополнение: Лидерство на примере</Source>
+    <Source Page="40">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Authority</SigAbility>
   </SigAbilityNode>
@@ -1269,7 +1269,7 @@
     <Key>UNMATCHAUTHMASSCOMBAT</Key>
     <Name>Массовый бой</Name>
     <Description>Персонаж может получить "усталость", чтобы изменить массовые боевые проверки с помощью "Непревзойденного авторитета", как если бы это была проверка навыка союзника.</Description>
-    <Source Page="40">Дополнение: Лидерство на примере</Source>
+    <Source Page="40">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Authority</SigAbility>
   </SigAbilityNode>
@@ -1277,7 +1277,7 @@
     <Key>UNMATCHEDCALIBRATIONACUMEN</Key>
     <Name>Общие знания</Name>
     <Description>"Непревзойденная калибровка" также может быть использована на кубики согласного союзника в пределах короткой дистанции.</Description>
-    <Source Page="40">Дополнение: Особые модификации</Source>
+    <Source Page="40">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Calibration</SigAbility>
   </SigAbilityNode>
@@ -1285,7 +1285,7 @@
     <Key>UNMATCHEDCALIBRATIONBASIC</Key>
     <Name>Непревзойденная калибровка (Способность)</Name>
     <Description>Один раз за игровую сессию персонаж может потратить 2 очка "Судьбы", чтобы перебросить до двух кубиков из набора кубиков персонажа. "Непревзойденная калибровка" не может быть использована на [FORCE].</Description>
-    <Source Page="40">Дополнение: Особые модификации</Source>
+    <Source Page="40">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Calibration</SigAbility>
   </SigAbilityNode>
@@ -1293,7 +1293,7 @@
     <Key>UNMATCHEDCALIBRATIONDESTINY</Key>
     <Name>Судьба</Name>
     <Description>"Непревзойденная калибровка" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="40">Дополнение: Особые модификации</Source>
+    <Source Page="40">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Calibration</SigAbility>
   </SigAbilityNode>
@@ -1301,7 +1301,7 @@
     <Key>UNMATCHEDCALIBRATIONFREQUENCY</Key>
     <Name>Частота</Name>
     <Description>"Непревзойденная калибровка" может быть использована еще один раз за каждую игровую сессию за каждый ранг "Частоты".</Description>
-    <Source Page="40">Дополнение: Особые модификации</Source>
+    <Source Page="40">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Calibration</SigAbility>
   </SigAbilityNode>
@@ -1309,7 +1309,7 @@
     <Key>UNMATCHEDCALIBRATIONNUMBER</Key>
     <Name>Увеличить число</Name>
     <Description>"Непревзойденная калибровка" влияет на один дополнительный кубик за каждый ранг "Увеличение числа".</Description>
-    <Source Page="40">Дополнение: Особые модификации</Source>
+    <Source Page="40">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Calibration</SigAbility>
   </SigAbilityNode>
@@ -1317,7 +1317,7 @@
     <Key>UNMATCHEDCALIBRATIONOPTIMIZE</Key>
     <Name>Оптимизация</Name>
     <Description>Повысьте один [AB], который будет повторно переброшен с помощью "Непревзойденная калибровка", до [PR].</Description>
-    <Source Page="40">Дополнение: Особые модификации</Source>
+    <Source Page="40">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Calibration</SigAbility>
   </SigAbilityNode>
@@ -1325,7 +1325,7 @@
     <Key>UNMATCHEDCALIBRATIONRISK</Key>
     <Name>Минимизация риска</Name>
     <Description>Понизите один [CH], который будет повторно переброшен с помощью "Непревзойденная калибровка", до [DI].</Description>
-    <Source Page="40">Дополнение: Особые модификации</Source>
+    <Source Page="40">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Calibration</SigAbility>
   </SigAbilityNode>
@@ -1333,7 +1333,7 @@
     <Key>UNMATCHEDCALIBRATIONSETBACK</Key>
     <Name>Убрать штраф</Name>
     <Description>Можно убрать [SE] вместо повторного броска.</Description>
-    <Source Page="40">Дополнение: Особые модификации</Source>
+    <Source Page="40">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Calibration</SigAbility>
   </SigAbilityNode>
@@ -1341,7 +1341,7 @@
     <Key>UNMATCHEDCOURAGEBASIC</Key>
     <Name>Непревзойденная храбрость (Способность)</Name>
     <Description>Один раз за игровую сессию, как свободное действие, персонаж может потратить 2 очка "Судьбы", чтобы игнорировать эффекты всех "критических травм" в течение 2 раундов. Когда этот эффект заканчивается, он получает эффекты этих "критических травм" в обычном режиме.</Description>
-    <Source Page="39">Дополнение: Закаленные в битве</Source>
+    <Source Page="39">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Courage</SigAbility>
   </SigAbilityNode>
@@ -1349,7 +1349,7 @@
     <Key>UNMATCHEDCOURAGEDURATION</Key>
     <Name>Длительность</Name>
     <Description>"Непревзойденная храбрость" длится на 2 раунда дольше.</Description>
-    <Source Page="39">Дополнение: Закаленные в битве</Source>
+    <Source Page="39">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Courage</SigAbility>
   </SigAbilityNode>
@@ -1357,7 +1357,7 @@
     <Key>UNMATCHEDCOURAGEEFFECT</Key>
     <Name>Усиление эффекта</Name>
     <Description>Пока действует "Непревзойденная храбрость", каждый раз, когда персонаж получает "усталость", он может вместо этого получить столько же "ран".</Description>
-    <Source Page="39">Дополнение: Закаленные в битве</Source>
+    <Source Page="39">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Courage</SigAbility>
   </SigAbilityNode>
@@ -1365,7 +1365,7 @@
     <Key>UNMATCHEDCOURAGEFINISH</Key>
     <Name>Завершить работу</Name>
     <Description>Пока "Непревзойденная храбрость" активна, персонаж добавляет +2 урона за каждую "критическую травму" к первому попаданию каждой успешной проверки боя.</Description>
-    <Source Page="39">Дополнение: Закаленные в битве</Source>
+    <Source Page="39">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Courage</SigAbility>
   </SigAbilityNode>
@@ -1373,7 +1373,7 @@
     <Key>UNMATCHEDCOURAGESURVIVOR</Key>
     <Name>Выживший</Name>
     <Description>Пока действует "Непревзойденная храбрость", добавьте [BO] к проверкам на снятие "критических травм".</Description>
-    <Source Page="39">Дополнение: Закаленные в битве</Source>
+    <Source Page="39">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Courage</SigAbility>
   </SigAbilityNode>
@@ -1381,7 +1381,7 @@
     <Key>UNMATCHEDCOURAGETHROUGH</Key>
     <Name>Довести до конца</Name>
     <Description>Пока действует "Непревзойденная храбрость", персонаж не становится недееспособным, если его "раны" превышают порог ран.</Description>
-    <Source Page="39">Дополнение: Закаленные в битве</Source>
+    <Source Page="39">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Courage</SigAbility>
   </SigAbilityNode>
@@ -1389,7 +1389,7 @@
     <Key>UNMATCHEDCOURAGETOUGH</Key>
     <Name>Слишком крепкий, чтобы умереть</Name>
     <Description>Когда "Непревзойденная храбрость" заканчивается, сделайте [B]Сложную ([DI][DI][DI]) проверку "Стойкости"[b], чтобы снять одну "Критическую травму".</Description>
-    <Source Page="39">Дополнение: Закаленные в битве</Source>
+    <Source Page="39">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Courage</SigAbility>
   </SigAbilityNode>
@@ -1397,7 +1397,7 @@
     <Key>UNMATCHEDDESTINYBASE</Key>
     <Name>Непревзойденная судьба (Способность)</Name>
     <Description>Один раз за игровую сессию, после проверки "Силы", персонаж может потратить 2 очка "Судьбы", чтобы перебросить до 2 кубиков "Силы". Конфликт, сгенерированный в ходе этой проверки "Силы", удваивается.</Description>
-    <Source Page="38">Дополнение: Абсолютная власть</Source>
+    <Source Page="38">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Destiny</SigAbility>
   </SigAbilityNode>
@@ -1405,7 +1405,7 @@
     <Key>UNMATCHEDDESTINYDESTINY</Key>
     <Name>Судьба</Name>
     <Description>"Непревзойденная судьба" стоит меньше на 1 очко "Судьбы".</Description>
-    <Source Page="38">Дополнение: Абсолютная власть</Source>
+    <Source Page="38">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Destiny</SigAbility>
   </SigAbilityNode>
@@ -1413,7 +1413,7 @@
     <Key>UNMATCHEDDESTINYFREQUENCY</Key>
     <Name>Частота</Name>
     <Description>"Непревзойденная судьба" может быть использована еще 1 раз за сессию.</Description>
-    <Source Page="38">Дополнение: Абсолютная власть</Source>
+    <Source Page="38">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Destiny</SigAbility>
   </SigAbilityNode>
@@ -1421,7 +1421,7 @@
     <Key>UNMATCHEDDESTINYINCREASENUMBER</Key>
     <Name>Увеличить число</Name>
     <Description>Перебросьте 1 дополнительный кубик "Силы" за каждый ранг "Увеличения числа".</Description>
-    <Source Page="38">Дополнение: Абсолютная власть</Source>
+    <Source Page="38">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Destiny</SigAbility>
   </SigAbilityNode>
@@ -1429,7 +1429,7 @@
     <Key>UNMATCHEDDESTINYSHAREDDESTINY</Key>
     <Name>Общая судьба</Name>
     <Description>"Непревзойденная судьба" может быть использована после того, как другой персонаж на небольшом расстоянии сделает проверку "Силы".</Description>
-    <Source Page="38">Дополнение: Абсолютная власть</Source>
+    <Source Page="38">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Destiny</SigAbility>
   </SigAbilityNode>
@@ -1437,7 +1437,7 @@
     <Key>UNMATCHEDDESTINYUNLEASHEDPOWER</Key>
     <Name>Высвобожденная сила</Name>
     <Description>За каждый результат [LI][LI] добавьте к проверке автоматическое [LI]. [P]За каждый результат [DA][DA] добавьте к проверке автоматическое [DA].</Description>
-    <Source Page="38">Дополнение: Абсолютная власть</Source>
+    <Source Page="38">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Destiny</SigAbility>
   </SigAbilityNode>
@@ -1445,7 +1445,7 @@
     <Key>UNMATCHEDDEVASTATIONBASIC</Key>
     <Name>Непревзойденное разрушение (Способность)</Name>
     <Description>Один раз за игровую сессию, выполнив боевую проверку, персонаж может потратить 2 очка "Судьбы", чтобы выполнить одну дополнительную боевую проверку против той же цели в качестве свободного действия. [P] Сложность этой боевой проверки увеличивается на 1 за каждую успешную боевую проверку, проведенную персонажем в этот ход. Эта боевая проверка должна быть выполнена с помощью незвездного/транспортного оружия, которое персонаж еще не использовал в этот ход.</Description>
-    <Source Page="41">Дополнение: Без дезинтеграций</Source>
+    <Source Page="41">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
@@ -1453,7 +1453,7 @@
     <Key>UNMATCHEDDEVASTATIONDRAWANDFIRE</Key>
     <Name>Хватай и стреляй</Name>
     <Description>Перед выполнением каждой проверки боя с помощью "Непревзойденное разрушение" персонаж может убрать оружие в кобуру и достать его.</Description>
-    <Source Page="41">Дополнение: Без дезинтеграций</Source>
+    <Source Page="41">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
@@ -1461,7 +1461,7 @@
     <Key>UNMATCHEDDEVASTATIONIMPROVEMOBILITY</Key>
     <Name>Улучшение мобильности</Name>
     <Description>Перед выполнением боевой проверки в рамках "Непревзойденного разрушения", получите 2 "усталости", чтобы выполнить маневр перемещения как свободное действие.</Description>
-    <Source Page="41">Дополнение: Без дезинтеграций</Source>
+    <Source Page="41">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
@@ -1469,7 +1469,7 @@
     <Key>UNMATCHEDDEVASTATIONINCREASENUMBER</Key>
     <Name>Увеличить число</Name>
     <Description>Выполняйте дополнительные боевые проверки, равные рангам "Увеличение числа".</Description>
-    <Source Page="41">Дополнение: Без дезинтеграций</Source>
+    <Source Page="41">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
@@ -1477,7 +1477,7 @@
     <Key>UNMATCHEDDEVASTATIONREMOVESETBACK</Key>
     <Name>Убрать штраф</Name>
     <Description>Когда вы делаете проверку боя в рамках "Непревзойденное разрушение", снимите [SE], за каждый ранг "Убрать штраф".</Description>
-    <Source Page="41">Дополнение: Без дезинтеграций</Source>
+    <Source Page="41">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
@@ -1485,7 +1485,7 @@
     <Key>UNMATCHEDDEVASTATIONTARGETPRIORITY</Key>
     <Name>Приоритет цели</Name>
     <Description>Персонаж может выбрать новую легальную цель для каждой проверки боя, сделанной в рамках "Непревзойденного разрушения".</Description>
-    <Source Page="41">Дополнение: Без дезинтеграций</Source>
+    <Source Page="41">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Devastation</SigAbility>
   </SigAbilityNode>
@@ -1493,7 +1493,7 @@
     <Key>UNMATCHEDFEROCITYBASE</Key>
     <Name>Непревзойденная жестокость (Способность)</Name>
     <Description>Один раз за сессию после успешного разрешения проверки боя в ближнем бою против цели, вовлеченной в бой с персонажем, персонаж может потратить 2 очка "Судьбы". Персонаж получает 4 "усталости" и 1 "конфликт", чтобы немедленно провести атаку в ближнем бою против той же цели, увеличивая сложность проверки тайлов на 1, до максимальной сложности [B]Невозможная ([DI][DI][DI][DI][DI])[b]. В случае успеха персонаж может повторить процесс (испытывая при этом еще большее "усталости" и "конфликт").</Description>
-    <Source Page="35">Дополнение: Рыцари судьбы</Source>
+    <Source Page="35">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ferocity</SigAbility>
   </SigAbilityNode>
@@ -1501,7 +1501,7 @@
     <Key>UNMATCHEDFEROCITYCHANGETARGET</Key>
     <Name>Сменить цель</Name>
     <Description>Персонаж может выбрать другую цель для каждой атаки, произведенной в результате "Непревзойденная жестокость".</Description>
-    <Source Page="35">Дополнение: Рыцари судьбы</Source>
+    <Source Page="35">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ferocity</SigAbility>
   </SigAbilityNode>
@@ -1509,7 +1509,7 @@
     <Key>UNMATCHEDFEROCITYDESTINY</Key>
     <Name>Судьба</Name>
     <Description>"Непревзойденная жестокость" стоит на 1 очко "Судьбы" меньше.</Description>
-    <Source Page="35">Дополнение: Рыцари судьбы</Source>
+    <Source Page="35">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ferocity</SigAbility>
   </SigAbilityNode>
@@ -1517,7 +1517,7 @@
     <Key>UNMATCHEDFEROCITYREDUCECONFLICT</Key>
     <Name>Уменьшить конфликт</Name>
     <Description>Персонаж может получить 2 дополнительных "усталости" вместо 1 "конфликта", чтобы активировать "Непревзойденную жестокость".</Description>
-    <Source Page="35">Дополнение: Рыцари судьбы</Source>
+    <Source Page="35">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ferocity</SigAbility>
   </SigAbilityNode>
@@ -1525,7 +1525,7 @@
     <Key>UNMATCHEDFEROCITYREDUCESTRAIN</Key>
     <Name>Уменьшить усталость</Name>
     <Description>Уменьшите "усталость", получаемую при совершении дополнительных атак, на 1.</Description>
-    <Source Page="35">Дополнение: Рыцари судьбы</Source>
+    <Source Page="35">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ferocity</SigAbility>
   </SigAbilityNode>
@@ -1533,7 +1533,7 @@
     <Key>UNMATCHEDFEROCITYSKILL1</Key>
     <Name>Изменить навык - Грубая сила</Name>
     <Description>Персонаж может активировать "Непревзойденную жестокость" после успешной проверки "Грубой силы".</Description>
-    <Source Page="35">Дополнение: Рыцари судьбы</Source>
+    <Source Page="35">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ferocity</SigAbility>
   </SigAbilityNode>
@@ -1541,7 +1541,7 @@
     <Key>UNMATCHEDFEROCITYSKILL2</Key>
     <Name>Изменить навык - Световой меч</Name>
     <Description>Персонаж может активировать "Непревзойденную жестокость" после успешной проверки "светового меча".</Description>
-    <Source Page="35">Дополнение: Рыцари судьбы</Source>
+    <Source Page="35">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ferocity</SigAbility>
   </SigAbilityNode>
@@ -1549,7 +1549,7 @@
     <Key>UNMATCHEDINGENADDBOOST</Key>
     <Name>Усиление</Name>
     <Description>Когда персонаж делает проверку навыка, чтобы активировать "Непревзойденное мастерство", он добавляет [BO] за каждый ранг "Усиление".</Description>
-    <Source Page="35">Дополнение: Полная оперативность</Source>
+    <Source Page="35">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ingenuity</SigAbility>
   </SigAbilityNode>
@@ -1557,7 +1557,7 @@
     <Key>UNMATCHEDINGENBASE</Key>
     <Name>Непревзойденное мастерство (Способность)</Name>
     <Description>Один раз за игровую сессию в качестве действия персонаж может потратить 2 очка "Судьбы" и сделать [B]Сложную ([DI][DI][DI]) проверку "Механики"[b]. В случае успеха он может добавить одно качество предмета (кроме "Breach" или "Concussive") к оружию или предмету, который он держит в руках или которым управляет. Если возможно, качество предмета имеет рейтинг 1. Персонаж может потратить [TR], чтобы добавить одно дополнительное качество к тому же предмету, и [AD], чтобы увеличить рейтинг качества предмета на 1. Это изменение длится 2 раунда или 10 минут повествовательного времени.</Description>
-    <Source Page="35">Дополнение: Полная оперативность</Source>
+    <Source Page="35">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ingenuity</SigAbility>
   </SigAbilityNode>
@@ -1565,7 +1565,7 @@
     <Key>UNMATCHEDINGENDESTINY</Key>
     <Name>Судьба</Name>
     <Description>Чтобы активировать "Непревзойденное мастерство", персонажу нужно потратить всего 1 очко "Судьбы" вместо обычных 2 очков "Судьбы".</Description>
-    <Source Page="35">Дополнение: Полная оперативность</Source>
+    <Source Page="35">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ingenuity</SigAbility>
   </SigAbilityNode>
@@ -1573,7 +1573,7 @@
     <Key>UNMATCHEDINGENDURATION</Key>
     <Name>Длительность</Name>
     <Description>Изменения от использования "Непревзойденного мастерства" длятся 1 дополнительный раунд за каждый ранг "Длительность".</Description>
-    <Source Page="35">Дополнение: Полная оперативность</Source>
+    <Source Page="35">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ingenuity</SigAbility>
   </SigAbilityNode>
@@ -1581,7 +1581,7 @@
     <Key>UNMATCHEDINGENQUALITY</Key>
     <Name>Качество (Breach)</Name>
     <Description>Персонаж также может применить к оружию или предмету качество "Breach".</Description>
-    <Source Page="35">Дополнение: Полная оперативность</Source>
+    <Source Page="35">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ingenuity</SigAbility>
   </SigAbilityNode>
@@ -1589,7 +1589,7 @@
     <Key>UNMATCHEDINGENQUALITY2</Key>
     <Name>Качество (Concussive)</Name>
     <Description>Персонаж также может применить к оружию или предмету качество "Concussive".</Description>
-    <Source Page="35">Дополнение: Полная оперативность</Source>
+    <Source Page="35">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ingenuity</SigAbility>
   </SigAbilityNode>
@@ -1597,7 +1597,7 @@
     <Key>UNMATCHEDINGENREDUCEDIFF</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Сложность проверки навыка для активации "Непревзойденное мастерство" [B]Среднее ([DI][DI])[b] вместо [B]Сложная ([DI][DI][DI])[b].</Description>
-    <Source Page="35">Дополнение: Полная оперативность</Source>
+    <Source Page="35">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Ingenuity</SigAbility>
   </SigAbilityNode>
@@ -1605,7 +1605,7 @@
     <Key>UNMATCHEDINSIGHTBASE</Key>
     <Name>Непревзойденная интуиция (Способность)</Name>
     <Description>Один раз за игровую сессию, во время столкновения или сцены с участием одного или нескольких других разумных существ, персонаж может потратить 2 очка "Судьбы". Персонажу сразу же становятся известны эмоциональные состояния и основные события истории до 3 выбранных участников сцены.</Description>
-    <Source Page="40">Дополнение: Отчаянные союзники</Source>
+    <Source Page="40">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Insight</SigAbility>
     <DieModifiers />
@@ -1614,7 +1614,7 @@
     <Key>UNMATCHEDNEGOTIATIONADDTRIUMPH</Key>
     <Name>Доб. Триумф</Name>
     <Description>Если персонаж проваливает проверку на "Обаяние", "Запугивание", "Обман" или "Переговоры", пока активна эта способность, он автоматически прибавляет [TR] к результатам.</Description>
-    <Source Page="35">Дополнение: Последователи гармонии</Source>
+    <Source Page="35">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Negotiation</SigAbility>
   </SigAbilityNode>
@@ -1622,7 +1622,7 @@
     <Key>UNMATCHEDNEGOTIATIONBASIC</Key>
     <Name>Непревзойденные переговоры (Способность)</Name>
     <Description>Один раз за игровую сессию персонаж может потратить 2 очка "Судьбы". До конца раунда каждый раз, когда этот персонаж делает проверку на "Обаяние", "Запугивание", "Обман" или "Переговоры", он понижает сложность проверки на количество раз, необходимое для удаления всех [CH] из пула.</Description>
-    <Source Page="35">Дополнение: Последователи гармонии</Source>
+    <Source Page="35">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Negotiation</SigAbility>
   </SigAbilityNode>
@@ -1630,7 +1630,7 @@
     <Key>UNMATCHEDNEGOTIATIONDESTINY</Key>
     <Name>Судьба</Name>
     <Description>"Непревзойденные переговоры" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="35">Дополнение: Последователи гармонии</Source>
+    <Source Page="35">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Negotiation</SigAbility>
   </SigAbilityNode>
@@ -1638,7 +1638,7 @@
     <Key>UNMATCHEDNEGOTIATIONDURATION</Key>
     <Name>Длительность</Name>
     <Description>"Непревзойденные переговоры" длится на 1 раунд дольше.</Description>
-    <Source Page="35">Дополнение: Последователи гармонии</Source>
+    <Source Page="35">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Negotiation</SigAbility>
   </SigAbilityNode>
@@ -1646,7 +1646,7 @@
     <Key>UNMATCHEDNEGOTIATIONINCREASEEFFECT</Key>
     <Name>Усиление эффекта</Name>
     <Description>Союзные персонажи, выполняющие проверки "Обаяние", "Запугивание", "Обман" или "Переговоры", пока активна эта способность, понижают их сложность на 1.</Description>
-    <Source Page="35">Дополнение: Последователи гармонии</Source>
+    <Source Page="35">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Negotiation</SigAbility>
   </SigAbilityNode>
@@ -1654,7 +1654,7 @@
     <Key>UNMATCHEDNEGOTIATIONINCREASERANGE</Key>
     <Name>Увеличение диапазона</Name>
     <Description>Увеличьте дальность действия этой способности на союзных персонажей до средней.</Description>
-    <Source Page="35">Дополнение: Последователи гармонии</Source>
+    <Source Page="35">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Negotiation</SigAbility>
   </SigAbilityNode>
@@ -1662,7 +1662,7 @@
     <Key>UNMATCHEDNEGOTIATIONREMOVESETBACK</Key>
     <Name>Убрать штраф</Name>
     <Description>Снимите [SE] со всех проверок, на которые влияют "Непревзойденные переговоры".</Description>
-    <Source Page="35">Дополнение: Последователи гармонии</Source>
+    <Source Page="35">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Negotiation</SigAbility>
   </SigAbilityNode>
@@ -1670,7 +1670,7 @@
     <Key>UNMATCHEDPURSUITBASIC</Key>
     <Name>Непревзойденное стремление (Способность)</Name>
     <Description>Один раз за игровую сессию, вне очереди, персонаж может потратить 2 очка "Судьбы" и назначить одного вражеского персонажа или транспортное средство в пределах средней дистанции (личного или планетарного масштаба) в качестве добычи на следующие 3 раунда. Если назначенная цель успешно ускользнет от преследования, персонаж может добровольно получить 2 "усталости", чтобы не отстать от цели и не уйти от нее.</Description>
-    <Source Page="35">Дополнение: Дикие духи</Source>
+    <Source Page="35">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Pursuit</SigAbility>
   </SigAbilityNode>
@@ -1678,7 +1678,7 @@
     <Key>UNMATCHEDPURSUITDESTINY</Key>
     <Name>Судьба</Name>
     <Description>Чтобы активировать "Непревзойденное стремление", персонажу нужно потратить всего 1 очко "Судьбы", вместо обычных 2 очков "Судьбы".</Description>
-    <Source Page="35">Дополнение: Дикие духи</Source>
+    <Source Page="35">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Pursuit</SigAbility>
   </SigAbilityNode>
@@ -1686,7 +1686,7 @@
     <Key>UNMATCHEDPURSUITDURATION</Key>
     <Name>Длительность</Name>
     <Description>"Непревзойденное стремление" длится 1 дополнительный раунд за каждый ранг "Длительность".</Description>
-    <Source Page="35">Дополнение: Дикие духи</Source>
+    <Source Page="35">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Pursuit</SigAbility>
   </SigAbilityNode>
@@ -1694,7 +1694,7 @@
     <Key>UNMATCHEDPURSUITENDURANCE</Key>
     <Name>Выносливость</Name>
     <Description>Уменьшите затраты "усталости", чтобы не отстать от цели, на 1 до минимального значения 0, за каждый ранг "выносливости".</Description>
-    <Source Page="35">Дополнение: Дикие духи</Source>
+    <Source Page="35">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Pursuit</SigAbility>
   </SigAbilityNode>
@@ -1702,7 +1702,7 @@
     <Key>UNMATCHEDPURSUITFREQUENCY</Key>
     <Name>Частота</Name>
     <Description>"Непревзойденное стремление" можно активировать не один, а два раза за игровую сессию.</Description>
-    <Source Page="35">Дополнение: Дикие духи</Source>
+    <Source Page="35">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Pursuit</SigAbility>
   </SigAbilityNode>
@@ -1710,7 +1710,7 @@
     <Key>UNMATCHEDPURSUITMANEUVER</Key>
     <Name>Маневр</Name>
     <Description>Если цель "Непревзойденного стремления" потратит маневр, чтобы увеличить расстояние от персонажа, персонаж может немедленно выполнить маневр перемещение как свободное действие, чтобы сократить расстояние между ними.</Description>
-    <Source Page="35">Дополнение: Дикие духи</Source>
+    <Source Page="35">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Pursuit</SigAbility>
   </SigAbilityNode>
@@ -1718,7 +1718,7 @@
     <Key>UNMATCHEDPURSUITRANGE</Key>
     <Name>Увеличение диапазона</Name>
     <Description>Увеличивает максимальное расстояние, на котором цель может быть переведена в дальний бой.</Description>
-    <Source Page="35">Дополнение: Дикие духи</Source>
+    <Source Page="35">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Pursuit</SigAbility>
   </SigAbilityNode>
@@ -1726,7 +1726,7 @@
     <Key>UNMATCHEDSURVBASE</Key>
     <Name>Непревзойденная живучесть (Способность)</Name>
     <Description>Один раз за игровую сессию, пилотируя звездолет или транспортное средство с силуэтом 3 или меньше, которое покалечено (имеет "повреждения корпуса", превышающие порог "повреждений корпуса"), персонаж может потратить 2 очка "Судьбы" как свободное действие. Звездолет или транспортное средство действует так, как будто оно не повреждено, в течение следующих 3 раундов, действуя так, как будто "повреждение корпуса" равна порогу "повреждения корпуса".</Description>
-    <Source Page="37">Дополнение: Все по плану</Source>
+    <Source Page="37">Дополнение: Все по плану (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
@@ -1736,7 +1736,7 @@
     <Key>UNMATCHEDSURVDEST</Key>
     <Name>Судьба</Name>
     <Description>"Непревзойденная живучесть" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="37">Дополнение: Все по плану</Source>
+    <Source Page="37">Дополнение: Все по плану (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
@@ -1746,7 +1746,7 @@
     <Key>UNMATCHEDSURVDUR</Key>
     <Name>Прочность</Name>
     <Description>Уменьшите количество "критических попаданий", получаемых кораблем или транспортным средством, на 10, пока активна "Непревзойденная живучесть".</Description>
-    <Source Page="37">Дополнение: Все по плану</Source>
+    <Source Page="37">Дополнение: Все по плану (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
@@ -1756,7 +1756,7 @@
     <Key>UNMATCHEDSURVDURA</Key>
     <Name>Длительность</Name>
     <Description>"Непревзойденная живучесть" длится до конца встречи.</Description>
-    <Source Page="37">Дополнение: Все по плану</Source>
+    <Source Page="37">Дополнение: Все по плану (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
@@ -1766,7 +1766,7 @@
     <Key>UNMATCHEDSURVFREQ</Key>
     <Name>Частота</Name>
     <Description>"Непревзойденная живучесть" может быть использована дважды за одну игровую сессию.</Description>
-    <Source Page="37">Дополнение: Все по плану</Source>
+    <Source Page="37">Дополнение: Все по плану (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
@@ -1776,7 +1776,7 @@
     <Key>UNMATCHEDSURVREINF</Key>
     <Name>Укрепление</Name>
     <Description>Пока действует "Непревзойденная живучесть", "критический рейтинг" всего оружия, нацеленного на корабль или транспортное средство, считается на 1 больше.</Description>
-    <Source Page="37">Дополнение: Все по плану</Source>
+    <Source Page="37">Дополнение: Все по плану (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
@@ -1786,7 +1786,7 @@
     <Key>UNMATCHEDSURVSIL</Key>
     <Name>Изменение силуэта</Name>
     <Description>"Непревзойденная живучесть" действует на корабли и транспортные средства с силуэтом на 1 больше.</Description>
-    <Source Page="37">Дополнение: Все по плану</Source>
+    <Source Page="37">Дополнение: Все по плану (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
@@ -1796,7 +1796,7 @@
     <Key>UNMATCHEDTRADEBASE</Key>
     <Name>Непревзойденные навыки (Способность)</Name>
     <Description>Один раз за сессию, как свободное действие, после того как игрок бросил кубики для проверки "Обмана", но до разрешения результатов, он может потратить 2 очка "Судьбы", чтобы убрать один полученный [DI] из пула. Результаты [DI] игнорируются, и проверка проходит в обычном режиме.</Description>
-    <Source Page="35">Дополнение: Шифры и Маски</Source>
+    <Source Page="35">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Tradecraft</SigAbility>
   </SigAbilityNode>
@@ -1804,7 +1804,7 @@
     <Key>UNMATCHEDTRADEDESTINY</Key>
     <Name>Судьба</Name>
     <Description>Чтобы активировать "Непревзойденные навыки", персонажу нужно потратить всего 1 очко "Судьбы" вместо обычных 2 очков "Судьбы".</Description>
-    <Source Page="35">Дополнение: Шифры и Маски</Source>
+    <Source Page="35">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Tradecraft</SigAbility>
   </SigAbilityNode>
@@ -1812,7 +1812,7 @@
     <Key>UNMATCHEDTRADEINCREASEEFFECT1</Key>
     <Name>Усиление эффекта (Штраф)</Name>
     <Description>"Непревзойденные навыки" можно использовать и на [SE].</Description>
-    <Source Page="35">Дополнение: Шифры и Маски</Source>
+    <Source Page="35">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Tradecraft</SigAbility>
   </SigAbilityNode>
@@ -1820,7 +1820,7 @@
     <Key>UNMATCHEDTRADEINCREASEEFFECT2</Key>
     <Name>Усиление эффекта (Вызов)</Name>
     <Description>Непревзойденные навыки можно также использовать на [CH].</Description>
-    <Source Page="35">Дополнение: Шифры и Маски</Source>
+    <Source Page="35">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Tradecraft</SigAbility>
   </SigAbilityNode>
@@ -1828,7 +1828,7 @@
     <Key>UNMATCHEDTRADEINCREASENUMBER</Key>
     <Name>Увеличить число</Name>
     <Description>Количество кубиков, убираемых с помощью "Непревзойденных навыков", увеличивается на 1 за каждый ранг "Увеличение числа".</Description>
-    <Source Page="35">Дополнение: Шифры и Маски</Source>
+    <Source Page="35">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Tradecraft</SigAbility>
   </SigAbilityNode>
@@ -1836,7 +1836,7 @@
     <Key>UNMATCHEDTRADESKILL1</Key>
     <Name>Изменить навык (Скрытность)</Name>
     <Description>"Непревзойденные навыки" можно использовать с навыком "Скрытность" вместо "Обман".</Description>
-    <Source Page="35">Дополнение: Шифры и Маски</Source>
+    <Source Page="35">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Tradecraft</SigAbility>
   </SigAbilityNode>
@@ -1844,7 +1844,7 @@
     <Key>UNMATCHEDTRADESKILL2</Key>
     <Name>Изменить навык (Жульничество)</Name>
     <Description>"Непревзойденные навыки" можно использовать с навыком "Жульничество" вместо "Обман".</Description>
-    <Source Page="35">Дополнение: Шифры и Маски</Source>
+    <Source Page="35">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Tradecraft</SigAbility>
   </SigAbilityNode>
@@ -1852,7 +1852,7 @@
     <Key>UNMATCHEDVIGILANCEALWAYSALERT</Key>
     <Name>Всегда начеку</Name>
     <Description>После активации "Непревзойденной бдительности" персонаж может выбрать для проверки инициативы либо "Хладнокровие", либо "Бдительность".</Description>
-    <Source Page="35">Дополнение: Бесконечное бдение</Source>
+    <Source Page="35">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
   </SigAbilityNode>
@@ -1860,7 +1860,7 @@
     <Key>UNMATCHEDVIGILANCEBASIC</Key>
     <Name>Непревзойденная бдительность (Способность)</Name>
     <Description>Один раз за игровую сессию в начале структурированного столкновения персонаж может потратить 2 очка "Судьбы". Если персонаж это делает, то определяет порядок инициативы в первом раунде энкаунтера. Персонажи по-прежнему делают проверки для определения инициативы, но эти результаты будут применяться только после окончания действия эффектов "Непревзойденная бдительность".</Description>
-    <Source Page="35">Дополнение: Бесконечное бдение</Source>
+    <Source Page="35">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
   </SigAbilityNode>
@@ -1868,7 +1868,7 @@
     <Key>UNMATCHEDVIGILANCECOMBATPREPARATION</Key>
     <Name>Боевая подготовка</Name>
     <Description>Когда персонаж активирует "Непревзойденную бдительность", он может ввести «факт» или дополнительный контекст прямо в повествование, как если бы он потратил очко "Судьбы".</Description>
-    <Source Page="35">Дополнение: Бесконечное бдение</Source>
+    <Source Page="35">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
   </SigAbilityNode>
@@ -1876,7 +1876,7 @@
     <Key>UNMATCHEDVIGILANCECOMBATREADINESS</Key>
     <Name>Боевая готовность</Name>
     <Description>После активации "Непревзойденная бдительность" персонаж может немедленно совершить 1 бесплатный маневр.</Description>
-    <Source Page="35">Дополнение: Бесконечное бдение</Source>
+    <Source Page="35">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
   </SigAbilityNode>
@@ -1884,7 +1884,7 @@
     <Key>UNMATCHEDVIGILANCEDESTINY</Key>
     <Name>Судьба</Name>
     <Description>Чтобы активировать базовую способность "Непревзойденная бдительность", персонажу нужно потратить всего 1 очко "Судьбы" вместо обычных 2.</Description>
-    <Source Page="35">Дополнение: Бесконечное бдение</Source>
+    <Source Page="35">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
   </SigAbilityNode>
@@ -1892,7 +1892,7 @@
     <Key>UNMATCHEDVIGILANCEDURATION</Key>
     <Name>Длительность</Name>
     <Description>Порядок инициативы, установленный базовой способностью, длится 1 дополнительный раунд за каждый ранг "Длительность".</Description>
-    <Source Page="35">Дополнение: Бесконечное бдение</Source>
+    <Source Page="35">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
   </SigAbilityNode>
@@ -1900,7 +1900,7 @@
     <Key>UNMATCHEDVIGILANCEGROUPPREPARATION</Key>
     <Name>Подготовка группы</Name>
     <Description>Все NPC добавляют [SE] к своим боевым проверкам, нацеленным на любого персонажа игрока, который еще не совершил ход в текущем раунде.</Description>
-    <Source Page="35">Дополнение: Бесконечное бдение</Source>
+    <Source Page="35">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
   </SigAbilityNode>
@@ -1908,7 +1908,7 @@
     <Key>UNMATCHEDVIGILANCEGROUPVIGILANCE</Key>
     <Name>Бдительность группы</Name>
     <Description>Все персонажи игроков добавляют [BO] к своим боевым проверкам, нацеленным на любого NPC, который уже совершил ход в течение текущего раунда.</Description>
-    <Source Page="35">Дополнение: Бесконечное бдение</Source>
+    <Source Page="35">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
   </SigAbilityNode>
@@ -1916,7 +1916,7 @@
     <Key>UNMATCHEXPDESTINY</Key>
     <Name>Судьба</Name>
     <Description>"Непревзойденная экспертиза" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="37">Дополнение: Далекие горизонты</Source>
+    <Source Page="37">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Expertise</SigAbility>
     <DieModifiers />
@@ -1925,7 +1925,7 @@
     <Key>UNMATCHEXPERT</Key>
     <Name>Непревзойденная экспертиза (Способность)</Name>
     <Description>Один раз за игровую сессию в качестве действия персонаж может потратить два очка "Судьбы", чтобы снизить сложность всех проверок карьерных навыков на 1 до минимального значения "Легко" до конца встречи.</Description>
-    <Source Page="37">Дополнение: Далекие горизонты</Source>
+    <Source Page="37">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Expertise</SigAbility>
     <DieModifiers />
@@ -1934,7 +1934,7 @@
     <Key>UNMATCHEXPERTACT</Key>
     <Name>Активация</Name>
     <Description>Активируйте "Непревзойденную экспертизу" как маневр, а не как действие.</Description>
-    <Source Page="37">Дополнение: Далекие горизонты</Source>
+    <Source Page="37">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Expertise</SigAbility>
     <DieModifiers />
@@ -1943,7 +1943,7 @@
     <Key>UNMATCHEXPERTACT2</Key>
     <Name>Активация</Name>
     <Description>Активируйте "Непревзойденную экспертизу" как свободное действие, которая может быть вызвана вне хода, а не как действие.</Description>
-    <Source Page="37">Дополнение: Далекие горизонты</Source>
+    <Source Page="37">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Expertise</SigAbility>
     <DieModifiers />
@@ -1952,7 +1952,7 @@
     <Key>UNMATCHEXPERTREDDIFF</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Снижайте сложность проверок карьерных навыков на 2 вместо 1.</Description>
-    <Source Page="37">Дополнение: Далекие горизонты</Source>
+    <Source Page="37">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Expertise</SigAbility>
     <DieModifiers />
@@ -1961,7 +1961,7 @@
     <Key>UNMATCHEXPERTREDDIFF2</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Сложность всех проверок карьерных навыков снижена до минимума "Просто" вместо "Легко".</Description>
-    <Source Page="37">Дополнение: Далекие горизонты</Source>
+    <Source Page="37">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Expertise</SigAbility>
     <DieModifiers />
@@ -1970,7 +1970,7 @@
     <Key>UNMATCHEXPERTREDSETBK</Key>
     <Name>Уменьшить штраф</Name>
     <Description>Уберите [SE] из проверок карьерных навыков, сделанных, пока активирована "Непревзойденная экспертиза". </Description>
-    <Source Page="37">Дополнение: Далекие горизонты</Source>
+    <Source Page="37">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Expertise</SigAbility>
     <DieModifiers />
@@ -1979,7 +1979,7 @@
     <Key>UNMATCHEXPERTSUPRED</Key>
     <Name>Превосходное уменьшение</Name>
     <Description>Один раз за сессию, пока активирована "Непревзойденная экспертиза", можно снизить сложность одного не карьерного навыка.</Description>
-    <Source Page="37">Дополнение: Далекие горизонты</Source>
+    <Source Page="37">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Expertise</SigAbility>
     <DieModifiers />
@@ -1988,7 +1988,7 @@
     <Key>UNMATCHFORTUNEBASE</Key>
     <Name>Непревзойденная удача (Способность)</Name>
     <Description>Один раз за игровую сессию персонаж может потратить 2 очка "Судьбы", чтобы изменить грань одного положительного кубика в колоде кубиков персонажа на другую грань, соседнюю с ним. "Соседняя" грань - это любая грань кубика, имеющая общее ребро, но не точку, с брошенной гранью. Непревзойденная удача не может быть использована на [FO].</Description>
-    <Source Page="39">Дополнение: Непринужденный полет</Source>
+    <Source Page="39">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Fortune</SigAbility>
     <DieModifiers />
@@ -1997,7 +1997,7 @@
     <Key>UNMATCHHEROBASIC</Key>
     <Name>Непревзойденный героизм (Способность)</Name>
     <Description>[P]Один раз за игровую сессию, как свободное действие, персонаж может потратить 2 очка "Судьбы". В течение следующих 2 раундов, когда союзник в пределах ближней дистанции становится целью успешной боевой проверки, персонаж может получить 2 "усталости", чтобы переместиться в зону действия этого союзника и стать целью этой боевой проверки вместо него.</Description>
-    <Source Page="37">Дополнение: Поддержание мира</Source>
+    <Source Page="37">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Heroism</SigAbility>
   </SigAbilityNode>
@@ -2005,7 +2005,7 @@
     <Key>UNMATCHHERODESTINY</Key>
     <Name>Судьба</Name>
     <Description>[P]"Непревзойденный героизм" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="37">Дополнение: Поддержание мира</Source>
+    <Source Page="37">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Heroism</SigAbility>
   </SigAbilityNode>
@@ -2013,7 +2013,7 @@
     <Key>UNMATCHHERODURATION</Key>
     <Name>Длительность</Name>
     <Description>"Непревзойденный героизм" длится на 1 раунд дольше.</Description>
-    <Source Page="37">Дополнение: Поддержание мира</Source>
+    <Source Page="37">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Heroism</SigAbility>
   </SigAbilityNode>
@@ -2021,7 +2021,7 @@
     <Key>UNMATCHHEROENDURANCE</Key>
     <Name>Выносливость</Name>
     <Description>[P]Уменьшите стоимость "усталости", чтобы стать целью атаки с "Непревзойденным героизмом", на 1.</Description>
-    <Source Page="37">Дополнение: Поддержание мира</Source>
+    <Source Page="37">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Heroism</SigAbility>
   </SigAbilityNode>
@@ -2029,7 +2029,7 @@
     <Key>UNMATCHHEROFREQUENCY</Key>
     <Name>Частота</Name>
     <Description>"Непревзойденный героизм" может быть использован дважды за одну игровую сессию.</Description>
-    <Source Page="37">Дополнение: Поддержание мира</Source>
+    <Source Page="37">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Heroism</SigAbility>
   </SigAbilityNode>
@@ -2037,7 +2037,7 @@
     <Key>UNMATCHHERORANGE</Key>
     <Name>Увеличение диапазона</Name>
     <Description>Увеличьте дальность, на которой "Непревзойденный героизм" может достигать союзников, до средней.</Description>
-    <Source Page="37">Дополнение: Поддержание мира</Source>
+    <Source Page="37">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Heroism</SigAbility>
   </SigAbilityNode>
@@ -2045,7 +2045,7 @@
     <Key>UNMOBBASIC</Key>
     <Name>Непревзойденная подвижность (Способность)</Name>
     <Description>Один раз за игровую сессию персонаж может потратить 2 очка "Судьбы", чтобы увеличить количество маневров, которые он может совершить за ход, до 3 в течение следующих реальных раундов. Этот третий маневр может быть получен любым из способов, которыми обычно получают второй маневр.</Description>
-    <Source Page="35">Дополнение: Шаг в неизвестность</Source>
+    <Source Page="35">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Mobility</SigAbility>
   </SigAbilityNode>
@@ -2053,7 +2053,7 @@
     <Key>UNMOBDEST</Key>
     <Name>Судьба</Name>
     <Description>"Непревзойденная подвижность" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="35">Дополнение: Шаг в неизвестность</Source>
+    <Source Page="35">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Mobility</SigAbility>
   </SigAbilityNode>
@@ -2061,7 +2061,7 @@
     <Key>UNMOBDUR</Key>
     <Name>Длительность</Name>
     <Description>"Непревзойденная подвижность" длится на 1 раунд дольше.</Description>
-    <Source Page="35">Дополнение: Шаг в неизвестность</Source>
+    <Source Page="35">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Mobility</SigAbility>
   </SigAbilityNode>
@@ -2069,7 +2069,7 @@
     <Key>UNMOBFREEMAN</Key>
     <Name>Бесплатный маневр</Name>
     <Description>Получите один дополнительный бесплатный маневр, пока активна базовая способность. Это не увеличивает количество маневров за ход.</Description>
-    <Source Page="35">Дополнение: Шаг в неизвестность</Source>
+    <Source Page="35">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Mobility</SigAbility>
   </SigAbilityNode>
@@ -2077,7 +2077,7 @@
     <Key>UNMOBMDEF</Key>
     <Name>Защита ближнего боя</Name>
     <Description>Получите +1 "защиту ближнего боя", пока активна "Непревзойденная подвижность".</Description>
-    <Source Page="35">Дополнение: Шаг в неизвестность</Source>
+    <Source Page="35">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Mobility</SigAbility>
   </SigAbilityNode>
@@ -2085,7 +2085,7 @@
     <Key>UNMOBRDEF</Key>
     <Name>Защита дальнего боя</Name>
     <Description>Получите +1 "защиту дальнего боя", пока активна "Непревзойденная подвижность".</Description>
-    <Source Page="35">Дополнение: Шаг в неизвестность</Source>
+    <Source Page="35">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Mobility</SigAbility>
   </SigAbilityNode>
@@ -2093,7 +2093,7 @@
     <Key>UNPROTADDRED</Key>
     <Name>Доп. снижение</Name>
     <Description>Можно уменьшить урон от 1 дополнительного попадания в каждом раунде.</Description>
-    <Source Page="37">Дополнение: Опасные союзы</Source>
+    <Source Page="37">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Protection</SigAbility>
   </SigAbilityNode>
@@ -2101,7 +2101,7 @@
     <Key>UNPROTALLY</Key>
     <Name>Защитить союзника</Name>
     <Description>Один раз за сессию, пока активна "Непревзойденная защита", когда союзник получает атаку, он может выбрать, чтобы его атаковали вместо него.</Description>
-    <Source Page="37">Дополнение: Опасные союзы</Source>
+    <Source Page="37">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Protection</SigAbility>
   </SigAbilityNode>
@@ -2109,7 +2109,7 @@
     <Key>UNPROTBASIC</Key>
     <Name>Непревзойденная защита (Способность)</Name>
     <Description>Один раз за игровую сессию персонаж может потратить 2 очка "Судьбы", чтобы получить следующую способность: один раз за раунд, получив удар и определив урон, персонаж может вдвое уменьшить нанесенный урон (округление вверх), прежде чем он будет нанесен ему (с учетом "поглощения"). Эта способность активна до конца текущего раунда и два дополнительных раунда.</Description>
-    <Source Page="37">Дополнение: Опасные союзы</Source>
+    <Source Page="37">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Protection</SigAbility>
   </SigAbilityNode>
@@ -2117,7 +2117,7 @@
     <Key>UNPROTDEST</Key>
     <Name>Судьба</Name>
     <Description>"Непревзойденная защита" стоит 1 очко "Судьбы" вместо 2. </Description>
-    <Source Page="37">Дополнение: Опасные союзы</Source>
+    <Source Page="37">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Protection</SigAbility>
   </SigAbilityNode>
@@ -2125,7 +2125,7 @@
     <Key>UNPROTDURATION</Key>
     <Name>Длительность</Name>
     <Description>"Непревзойденная защита" длится на 1 раунд дольше.</Description>
-    <Source Page="37">Дополнение: Опасные союзы</Source>
+    <Source Page="37">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Protection</SigAbility>
   </SigAbilityNode>
@@ -2133,7 +2133,7 @@
     <Key>UNPROTSOAK</Key>
     <Name>Поглощение</Name>
     <Description>Получите +1 "Поглощение", пока активна "Непревзойденная защита".</Description>
-    <Source Page="37">Дополнение: Опасные союзы</Source>
+    <Source Page="37">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Protection</SigAbility>
   </SigAbilityNode>
@@ -2141,7 +2141,7 @@
     <Key>PEERLESSINTERCEPACTIVATEQUAL</Key>
     <Name>Активировать качество</Name>
     <Description>Когда персонаж использует "Парирование (Улучшенное)" или "Отражение (Улучшенное)", чтобы нанести попадание атакующему, он может активировать одно качество предмета.</Description>
-    <Source Page="47">Дополнение: Падение республики</Source>
+    <Source Page="47">Дополнение: Падение республики (Collapse of the Republic)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Peerless Interception</SigAbility>
   </SigAbilityNode>
@@ -2149,7 +2149,7 @@
     <Key>UNMATCHEDTEAMCAMARADERIE</Key>
     <Name>Товарищество</Name>
     <Description>Когда персонаж оказывает помощь, он исцеляет 2 единицы "усталости" у себя.</Description>
-    <Source Page="46">Дополнение: Падение республики</Source>
+    <Source Page="46">Дополнение: Падение республики (Collapse of the Republic)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Teamwork</SigAbility>
   </SigAbilityNode>
@@ -2157,7 +2157,7 @@
     <Key>PEERLESSINTERCEPCRITCOUNT</Key>
     <Name>Критический счетчик</Name>
     <Description>Когда персонаж тратит [DE], чтобы нанести попадание по своему атакующему с помощью "Парирование (Улучшенное)" или "Отражение (Улучшенное)", он также наносит "критическую травму".</Description>
-    <Source Page="47">Дополнение: Падение республики</Source>
+    <Source Page="47">Дополнение: Падение республики (Collapse of the Republic)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Peerless Interception</SigAbility>
   </SigAbilityNode>
@@ -2165,7 +2165,7 @@
     <Key>UNMATCHEDTEAMDESTINY</Key>
     <Name>Судьба</Name>
     <Description>Активация "Непревзойденная командная работа" стоит на 1 очко "Судьбы" меньше.</Description>
-    <Source Page="46">Дополнение: Падение республики</Source>
+    <Source Page="46">Дополнение: Падение республики (Collapse of the Republic)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Teamwork</SigAbility>
   </SigAbilityNode>
@@ -2173,7 +2173,7 @@
     <Key>PEERLESSINTERCEPDESTINY</Key>
     <Name>Судьба</Name>
     <Description>Активация "Беспрецедентного перехвата" стоит на 1 очко "Судьбы" меньше.</Description>
-    <Source Page="47">Дополнение: Падение республики</Source>
+    <Source Page="47">Дополнение: Падение республики (Collapse of the Republic)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Peerless Interception</SigAbility>
   </SigAbilityNode>
@@ -2181,7 +2181,7 @@
     <Key>UNMATCHEDTEAMINCREASESUCADV</Key>
     <Name>Усиление эффекта: Успех и Преимущество</Name>
     <Description>Вместо этого помощь персонажа добавляет [SU][AD].</Description>
-    <Source Page="46">Дополнение: Падение республики</Source>
+    <Source Page="46">Дополнение: Падение республики (Collapse of the Republic)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Teamwork</SigAbility>
   </SigAbilityNode>
@@ -2189,7 +2189,7 @@
     <Key>UNMATCHEDTEAMREMSETBACK</Key>
     <Name>Убрать штраф</Name>
     <Description>Помощь персонажа также снимает [SE].</Description>
-    <Source Page="46">Дополнение: Падение республики</Source>
+    <Source Page="46">Дополнение: Падение республики (Collapse of the Republic)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Teamwork</SigAbility>
   </SigAbilityNode>
@@ -2197,7 +2197,7 @@
     <Key>PEERLESSINTERCEPEFFORTCOUNT</Key>
     <Name>Легкий счетчик</Name>
     <Description>Один раз за раунд персонаж может использовать "Парирование (Улучшенное)" или "Отражение (Улучшенное)", чтобы нанести попадание своему атакующему, не тратя [TH] или [DE].</Description>
-    <Source Page="47">Дополнение: Падение республики</Source>
+    <Source Page="47">Дополнение: Падение республики (Collapse of the Republic)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Peerless Interception</SigAbility>
   </SigAbilityNode>
@@ -2205,7 +2205,7 @@
     <Key>PEERLESSINTERCEPINCREASEDUR</Key>
     <Name>Увеличить длительность</Name>
     <Description>"Беспрецедентный перехват" длится еще один раунд.</Description>
-    <Source Page="47">Дополнение: Падение республики</Source>
+    <Source Page="47">Дополнение: Падение республики (Collapse of the Republic)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Peerless Interception</SigAbility>
   </SigAbilityNode>
@@ -2213,7 +2213,7 @@
     <Key>UNMATCHEDTEAMINCREASESUC</Key>
     <Name>Усиление эффекта: Успех</Name>
     <Description>Помощь персонажа вместо этого добавляет [SU].</Description>
-    <Source Page="46">Дополнение: Падение республики</Source>
+    <Source Page="46">Дополнение: Падение республики (Collapse of the Republic)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Teamwork</SigAbility>
   </SigAbilityNode>
@@ -2221,7 +2221,7 @@
     <Key>PEERLESSINTERCEPREDUCESTR</Key>
     <Name>Уменьшение усталость</Name>
     <Description>Персонаж испытывает "усталость" только при первом использовании "Парировании" или "Отражения" в каждом раунде.</Description>
-    <Source Page="47">Дополнение: Падение республики</Source>
+    <Source Page="47">Дополнение: Падение республики (Collapse of the Republic)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Peerless Interception</SigAbility>
   </SigAbilityNode>
@@ -2229,7 +2229,7 @@
     <Key>UNMATCHEDTEAMINCREASERANGE</Key>
     <Name>Увеличение дальности</Name>
     <Description>Увеличьте дальность, на которой персонаж может оказывать помощь, на одну полосу дальности.</Description>
-    <Source Page="46">Дополнение: Падение республики</Source>
+    <Source Page="46">Дополнение: Падение республики (Collapse of the Republic)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Teamwork</SigAbility>
   </SigAbilityNode>
@@ -2237,7 +2237,7 @@
     <Key>PEERLESSINTERCEPBASE</Key>
     <Name>Непревзойденный перехват (Способность)</Name>
     <Description>Один раз за сессию в качестве свободного действия персонаж может потратить 2 очка "Судьбы", чтобы активировать "Непревзойденный перехват". В течение следующих 2 раундов, когда персонаж использует "Парирование" или "Отражение", чтобы уменьшить урон от попадания, он уменьшает урон на дополнительную величину, равную его рейтингу Силы.</Description>
-    <Source Page="47">Дополнение: Падение республики</Source>
+    <Source Page="47">Дополнение: Падение республики (Collapse of the Republic)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Peerless Interception</SigAbility>
   </SigAbilityNode>
@@ -2245,7 +2245,7 @@
     <Key>UNMATCHEDTEAMBASE</Key>
     <Name>Непревзойденная командная работа (Способность)</Name>
     <Description>Один раз за сессию в качестве свободного действия персонаж может потратить 2 очка "Судьбы", чтобы активировать "Непревзойденную командную работу". До конца встречи персонаж может 1 раз за раунд помогать другому персонажу в качестве свободного действия (вместо маневра).</Description>
-    <Source Page="46">Дополнение: Падение республики</Source>
+    <Source Page="46">Дополнение: Падение республики (Collapse of the Republic)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Teamwork</SigAbility>
   </SigAbilityNode>
@@ -2253,7 +2253,7 @@
     <Key>UNMATCHEDTEAMINCREASETRI</Key>
     <Name>Усиление эффекта: Триумф</Name>
     <Description>Помощь персонажа вместо этого добавляет [TR].</Description>
-    <Source Page="46">Дополнение: Падение республики</Source>
+    <Source Page="46">Дополнение: Падение республики (Collapse of the Republic)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Teamwork</SigAbility>
   </SigAbilityNode>
@@ -2261,7 +2261,7 @@
     <Key>PEERLESSINTERCEPINCFREQU</Key>
     <Name>Увеличить частоту</Name>
     <Description>Персонаж может активировать "Непревзойденный перехват" еще один раз за сессию.</Description>
-    <Source Page="47">Дополнение: Падение республики</Source>
+    <Source Page="47">Дополнение: Падение республики (Collapse of the Republic)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Peerless Interception</SigAbility>
   </SigAbilityNode>

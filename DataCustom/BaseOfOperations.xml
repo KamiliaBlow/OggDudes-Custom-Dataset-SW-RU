@@ -13,7 +13,7 @@ Not all campaigns work thematically with the isolated and insular nature of a ho
 [P][B]Basic Business Cost:[b] 50,000 credits and 5 Obligation. The costs are waived if selected in lieu of a ship at party creation.
 
 [P][B]Party Career Skill:[b] The party must select one business focus. The focus determines the career skill granted to the entire party: Entertainment (Charm), Retail (Negotiation), Service (choose either Mechanics, Computers, or a single applicable Knowledge skill for the entire party). Each character in the party counts this skill as a career skill. </Description>
-    <Source Page="82">Far Horizons</Source>
+    <Source Page="82">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Cost>
       <Credits>50000</Credits>
@@ -51,7 +51,7 @@ To start a homestead, the party chooses the location where they would like the b
 [P][B]Basic Homestead Cost:[b] 50,000 credits and 5 Obligation. These costs are waived if the homestead is selected in lieu of a ship at character creation.
 
 [P][B]Party Career Skill:[b] The party must select one homestead focus. The focus determines the career skill granted to the entire party: Farm (Resilience), Ranch (Survival), Mine (Athletics), Space Station (Piloting [Space]). Each character in the party counts this skill as a career skill.</Description>
-    <Source Page="82">Far Horizons</Source>
+    <Source Page="82">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Cost>
       <Credits>50000</Credits>

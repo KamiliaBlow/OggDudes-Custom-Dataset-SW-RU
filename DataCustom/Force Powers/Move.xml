@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ForcePower>
   <Key>MOVE</Key>
-  <Name>Движение</Name>
+  <Name>Движение (Move)</Name>
   <Description>
     [H4]Способность силы: Движение[h4]
 
@@ -10,9 +10,9 @@
 
 [P]При перемещении предметов скорость по умолчанию медленная и целенаправленная, не настолько быстрая, чтобы нанести травму, и не настолько точная, чтобы позволить тонкие манипуляции.</Description>
   <Sources>
-    <Source Page="283">Книга правил: Край Империи</Source>
-    <Source Page="296">Книга правил: Эпоха восстания</Source>
-    <Source Page="298">Книга правил: Сила и судьба</Source>
+    <Source Page="283">Книга правил: Край Империи (Edge of the Empire)</Source>
+    <Source Page="296">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
+    <Source Page="298">Книга правил: Сила и судьба (Force and Destiny)</Source>
   </Sources>
   <Custom>DescOnly</Custom>
   <MinForceRating>1</MinForceRating>
