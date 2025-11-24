@@ -5,7 +5,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyPotion</TempType>
     <Key>IMPALCHPOTBRIEF</Key>
-    <Source Page="82">Unlimited Power</Source>
+    <Source Page="82">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Brief Effect</Name>
     <Description>
       Decrease duration by {0} hour (or round).
@@ -22,7 +22,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyPotion</TempType>3
     <Key>IMPALCHPOTCOST</Key>
-    <Source Page="82">Unlimited Power</Source>
+    <Source Page="82">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Careful Measuring</Name>
     <Description>
       Retain supplies worth 50% of the Material Price.
@@ -37,7 +37,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyPotion</TempType>3
     <Key>IMPALCHPOTDIL</Key>
-    <Source Page="82">Unlimited Power</Source>
+    <Source Page="82">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Diluted Strength</Name>
     <Description>
       Reduce difficulty of resistance checks by {0}.
@@ -54,7 +54,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyPotion</TempType>3
     <Key>IMPALCHPOTDRAIN</Key>
-    <Source Page="82">Unlimited Power</Source>
+    <Source Page="82">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Draining</Name>
     <Description>
       Target suffers {0} strain when consumed.
@@ -73,7 +73,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyPotion</TempType>3
     <Key>IMPALCHPOTDUP</Key>
-    <Source Page="82">Unlimited Power</Source>
+    <Source Page="82">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Large Batch</Name>
     <Description>
       Brew up an additional dose of the potion
@@ -87,7 +87,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyPotion</TempType>3
     <Key>IMPALCHPOTEMP</Key>
-    <Source Page="82">Unlimited Power</Source>
+    <Source Page="82">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Empowered</Name>
     <Description>
       Potion has the same effect for an additional {0} round(s).
@@ -106,7 +106,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyPotion</TempType>3
     <Key>IMPALCHPOTEVIL</Key>
-    <Source Page="82">Unlimited Power</Source>
+    <Source Page="82">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Empowered by Evil</Name>
     <Description>
       After consuming, user suffers {0} Conflict.
@@ -125,7 +125,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyPotion</TempType>
     <Key>IMPALCHPOTFORT</Key>
-    <Source Page="82">Unlimited Power</Source>
+    <Source Page="82">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Fortifying</Name>
     <Description>
       Target heals {0} wound when consumed.
@@ -142,7 +142,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyPotion</TempType>
     <Key>IMPALCHPOTFOUL</Key>
-    <Source Page="82">Unlimited Power</Source>
+    <Source Page="82">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Foul Taste</Name>
     <Description>
       User suffers {0} strain after benefiting from effects.
@@ -161,7 +161,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyPotion</TempType>3
     <Key>IMPALCHPOTLONG</Key>
-    <Source Page="82">Unlimited Power</Source>
+    <Source Page="82">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Long-Lasting</Name>
     <Description>
       Increase duration by {0} hour (or round)
@@ -179,7 +179,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyPotion</TempType>3
     <Key>IMPALCHPOTPOTENT</Key>
-    <Source Page="82">Unlimited Power</Source>
+    <Source Page="82">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Extra Potency</Name>
     <Description>
       Increase difficulty to resist potion by {0}.
@@ -196,7 +196,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyPotion</TempType>
     <Key>IMPALCHPOTREV</Key>
-    <Source Page="82">Unlimited Power</Source>
+    <Source Page="82">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Reviving</Name>
     <Description>
       Target heals {0} strain when consumed.
@@ -215,7 +215,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyPotion</TempType>
     <Key>IMPALCHPOTSCHEM</Key>
-    <Source Page="82">Unlimited Power</Source>
+    <Source Page="82">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Recipe</Name>
     <Description>
       Permanently reduce difficulty of checks to create potion using this template by {0} (to a minimum of [B]Simple [-][b]).
@@ -229,7 +229,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyPotion</TempType>3
     <Key>IMPALCHPOTSIDE</Key>
-    <Source Page="82">Unlimited Power</Source>
+    <Source Page="82">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Unexpected Side Effects</Name>
     <Description>
       GM may select effects of another potion and apply them to the target.
@@ -248,7 +248,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyPotion</TempType>
     <Key>IMPALCHPOTSLOP</Key>
-    <Source Page="82">Unlimited Power</Source>
+    <Source Page="82">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Sloppy Brewing</Name>
     <Description>
       Cannot finish until more supplies are acquired costing {0}% of Material Price
@@ -262,7 +262,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyPotion</TempType>
     <Key>IMPALCHPOTVILE</Key>
-    <Source Page="82">Unlimited Power</Source>
+    <Source Page="82">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Vile Smell</Name>
     <Description>
       Characters add {2} to detect use of the potion.
@@ -279,7 +279,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyPotion</TempType>3
     <Key>IMPALCHPOTVIR</Key>
-    <Source Page="82">Unlimited Power</Source>
+    <Source Page="82">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Virulent</Name>
     <Description>
       Upgrade difficulty of resistance checks by {0}.
@@ -296,7 +296,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALADDL1</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Additional Power - Inflicted</Name>
     <Description>
       Amount of inflicted damage is increased by {0}.
@@ -313,7 +313,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALADDL2</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Additional Power - Reduced</Name>
     <Description>
       Amount of reduced damage is increased by {0}.
@@ -330,7 +330,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALBAD</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Bad Feeling</Name>
     <Description>
       User suffers {0} Conflict after using talisman.
@@ -348,7 +348,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALCUMB</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Cumbersome</Name>
     <Description>
       Talisman increases encumbrance by {0}.
@@ -361,7 +361,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALDRAIN</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Draining</Name>
     <Description>
       Character suffers {0} strain after resolving effects of talisman.
@@ -378,7 +378,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALDUP</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Clever Construction</Name>
     <Description>
       Construct an additional talisman using same materials.
@@ -392,7 +392,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALDUP</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Clever Construction</Name>
     <Description>
       Permanently reduce difficulty of checks to create talisman using this template by {0} (to a minimum of [B]Simple [-][b]).
@@ -406,7 +406,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALEMPOW1</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Empowered - Single Use</Name>
     <Description>
       If talisman is one-use, can be used an additional {0} time(s) before being consumed.
@@ -424,7 +424,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALEMPOW2</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Empowered - Once per Session</Name>
     <Description>
       If talisman can be used only once per session, can be used an additional time per session.
@@ -442,7 +442,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALEVIL</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Empowered by Evil</Name>
     <Description>
       User suffers 2 Conflict after using talisman.
@@ -460,7 +460,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALFAIL</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Failure to Activate</Name>
     <Description>
       GM can spend 2 Destiny Points to have the talisman fail to work.
@@ -480,7 +480,7 @@
 <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALHARD</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Hard to Control</Name>
     <Description>
       User must make a [B]Hard ([DI][DI][DI]) Discipline check[b] as an out-of-turn incidental in order for the talisman to activate
@@ -498,7 +498,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALHID</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Hidden Purpose</Name>
     <Description>
       Add {1} to any checks made to determine talisman's true purpose.
@@ -515,7 +515,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALINVIG</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Invigorating</Name>
     <Description>
       User recovers {0} strain after using talisman.
@@ -532,7 +532,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALMAT</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Careful Measuring</Name>
     <Description>
       Retain supplies worth 50% of the Material Price.
@@ -547,7 +547,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALMIGHTY1</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Mighty - Remove Setback</Name>
     <Description>
       If talisman has an effect that removes [SE], it removes {0} additional [SE].
@@ -565,7 +565,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALMIGHTY2</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Mighty - Add Setback</Name>
     <Description>
       If talisman has an effect that adds [SE], it adds {0} additional [SE].
@@ -583,7 +583,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALMIGHTY3</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Mighty - Add Boost</Name>
     <Description>
       If talisman has an effect that adds [BO], it adds {0} additional [BO].
@@ -604,7 +604,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALNOTICE</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Noticeable</Name>
     <Description>
       Force users add {2} to checks to determine that talisman is a crafted item and not just decorative jewelry or an ornamental keepsake.
@@ -621,7 +621,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALPOW</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Growing Power</Name>
     <Description>
       Any enemy skill check required by this talisman has its difficulty increased by {0}.
@@ -638,7 +638,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALREDIR</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Redirect Energy</Name>
     <Description>
       User may make a single maneuver as an out-of-turn incidental when talisman's effects are resolved.
@@ -655,7 +655,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALSLOP</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Sloppy Integration</Name>
     <Description>
       Cannot finish until more supplies are acquired costing {0}% of Material Price
@@ -669,7 +669,7 @@
   <CraftImprovement>
     <TempType>ctAlchemyTalisman</TempType>3
     <Key>IMPALCHTALTWIST</Key>
-    <Source Page="85">Unlimited Power</Source>
+    <Source Page="85">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Name>Twisted Fates</Name>
     <Description>
       User must spend a Destiny Point to use talisman.
@@ -1662,7 +1662,7 @@
   <CraftImprovement>
     <TempType>ctFortification</TempType>
     <Key>IMPFORTADDL</Key>
-    <Source Page="85">Forged in Battle</Source>
+    <Source Page="85">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Name>Additional Feature - Miscellaneous</Name>
     <Description>
       Add a useful feature to the fortification (add feature to description of fortification).
@@ -1673,7 +1673,7 @@
   <CraftImprovement>
     <TempType>ctFortification</TempType>
     <Key>IMPFORTADDLWEAP</Key>
-    <Source Page="85">Forged in Battle</Source>
+    <Source Page="85">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Name>Additional Feature - Standard Weapon Turret</Name>
     <Description>
       Add a standard weapon to fortification.
@@ -1685,7 +1685,7 @@
   <CraftImprovement>
     <TempType>ctFortification</TempType>
     <Key>IMPFORTADDLWEAPM</Key>
-    <Source Page="85">Forged in Battle</Source>
+    <Source Page="85">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Name>Additional Feature - Custom Weapon Turret</Name>
     <Description>
       Add a custom weapon to fortification.
@@ -1698,7 +1698,7 @@
   <CraftImprovement>
     <TempType>ctFortification</TempType>
     <Key>IMPFORTARMOR</Key>
-    <Source Page="85">Forged in Battle</Source>
+    <Source Page="85">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Name>Reinforced Armor</Name>
     <Description>
       Increase the fortification's armor by 1.
@@ -1714,7 +1714,7 @@
   <CraftImprovement>
     <TempType>ctFortification</TempType>
     <Key>IMPFORTCAP</Key>
-    <Source Page="85">Forged in Battle</Source>
+    <Source Page="85">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Name>Expanded Capacity</Name>
     <Description>
       Increases the fortification's occupancy by 1.
@@ -1726,7 +1726,7 @@
   <CraftImprovement>
     <TempType>ctFortification</TempType>
     <Key>IMPFORTCOVER</Key>
-    <Source Page="85">Forged in Battle</Source>
+    <Source Page="85">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Name>Additional Cover</Name>
     <Description>
       Increases the ranged defense of the fortification by 1.
@@ -1739,7 +1739,7 @@
   <CraftImprovement>
     <TempType>ctFortification</TempType>
     <Key>IMPFORTEXHAUST</Key>
-    <Source Page="85">Forged in Battle</Source>
+    <Source Page="85">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Name>Exhausting Effort</Name>
     <Description>
       Suffer 3 strain when finished with construction.
@@ -1751,7 +1751,7 @@
   <CraftImprovement>
     <TempType>ctFortification</TempType>
     <Key>IMPFORTINFPROT</Key>
-    <Source Page="85">Forged in Battle</Source>
+    <Source Page="85">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Name>Inferior Protection</Name>
     <Description>
       Decreases the ranged defense of the fortification by 1.
@@ -1764,7 +1764,7 @@
   <CraftImprovement>
     <TempType>ctFortification</TempType>
     <Key>IMPFORTLIFE</Key>
-    <Source Page="85">Forged in Battle</Source>
+    <Source Page="85">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Name>Limited Lifespan</Name>
     <Description>
       This fortification can protect for a limited number of attacks before it is rendered useless (GM's discretion).
@@ -1785,7 +1785,7 @@
   <CraftImprovement>
     <TempType>ctFortification</TempType>
     <Key>IMPFORTVULN</Key>
-    <Source Page="85">Forged in Battle</Source>
+    <Source Page="85">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Name>Vulnerability</Name>
     <Description>
       Fortification includes a critical flaw that an enemy can use to easily neutralize it.

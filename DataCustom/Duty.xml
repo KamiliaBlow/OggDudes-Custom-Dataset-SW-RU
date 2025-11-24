@@ -15,7 +15,7 @@ The Player Character knows that keeping the skies clear of enemies is often a de
     <Description>
       [H4]Anti-ISB Efforts[h4]
 The Empire has a vast information network headed by the Imperial Security Bureau, or ISB. Characters with this Duty focus their efforts on undermining this network with actions that specifically target the ISB, such as feeding false information to its known moles, recovering captured prisoners from ISB detention calls, developing profiles of ISB agents, and ensuring that the hated agency spends its resources chasing dead-end leads.</Description>
-    <Source Page="17">Cyphers and Masks</Source>
+    <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -55,7 +55,7 @@ The PC believes that the Alliance fights for the civilians. That includes spearh
     <Description>
       [H4]Clear Skies[h4]
 The PC recognizes the danger that infantry units face from enemy air power. A pair of TIE fighters can turn certain victory on the ground into disaster. This PC always has a plan to take out any enemy air support, whether through the judicious use of portable launchers, jammers, camouflage, concealing terrain, or even anti-air emplacement weapons.</Description>
-    <Source Page="17">Forged in Battle</Source>
+    <Source Page="17">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -73,7 +73,7 @@ The Player Character is driven to show that the Alliance can hold its own agains
     <Description>
       [H4]Communications[h4]
 Player Characters with this Duty understand that the Empire maintains its stranglehold on the galaxy via a strong communications network. Whether working locally or across the galaxy, they specialize in deciphering Imperial communications as well as encrypting and concealing Rebel transmissions. Often these PCs are on the forefront of innovative communication methods, such as using special patterns on fabrics to alert agents of enemy activities of inserting code into Imperial broadcasts to pass secret messages to sleeper agents.</Description>
-    <Source Page="17">Cyphers and Masks</Source>
+    <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -100,7 +100,7 @@ The PC knows that the survival of the Alliance depends upon its ability to hide 
     <Description>
       [H4]Countermeasures[h4]
 Characters with this Duty serve as cryptographers, secure communications specialists, and data manipulators. Whether spreading false transmissions across subspace or the HoloNet, crafting new electronic protection to keep Rebel data secure, or slicing into Imperial transmissions and data vaults, they are phantoms in the code, capable of weaving digital misdirection while ensuring Rebel electronics remain secure.</Description>
-    <Source Page="17">Cyphers and Masks</Source>
+    <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -118,7 +118,7 @@ While similar to Civilian Outreach, Disaster Relief involves procuring and deliv
     <Description>
       [H4]Double Agent Recruitment[h4]
 PCs selecting this Duty focus on turning Imperial personnel—especially its spies—into Rebellion assets. By playing on the sentiments of those who remain idealistic about the betterment of the galaxy, they gain valuable insight from individuals in positions of trust within the Empire. When that fails, tactics such as blackmail, extortion, and other coercive efforts may be necessary in these desperate times.</Description>
-    <Source Page="17">Cyphers and Masks</Source>
+    <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -127,7 +127,7 @@ PCs selecting this Duty focus on turning Imperial personnel—especially its spi
     <Description>
       [H4]Droid Retasking[h4]
 While the Empire seems to have an infinite number of organic beings in its service, droids also play a critical role in almost all Imperial operations. PCs with this Duty focus their efforts on disabling and reprogramming these droids to gather intelligence or even setting them against their Imperial masters. By attacking this vulnerable and often-overlooked Imperial resource, such PCs provide vital aid to the Rebel Alliance.</Description>
-    <Source Page="17">Cyphers and Masks</Source>
+    <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -177,7 +177,7 @@ No matter how good air support might be, battles are eventually decided on the g
     <Name>Internal Security (Cyphers and Masks)</Name>
     <Description>[H4]Internal Security[h4]
 Deceivers know their own kind. PCs with this Duty focus on protecting the Alliance from moles, double agents, and traitors. They also help maintain safety by ensuring that strongholds, outposts, and safe houses remain undetected by the Empire. This sometimes includes ensuring that supply lines for these locations are maintained and kept secret.</Description>
-    <Source Page="17">Cyphers and Masks</Source>
+    <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>AddedItem</Custom>
   </Duty>
   <Duty>
@@ -205,7 +205,7 @@ The most dangerous threat to the Alliance comes from within its own ranks. Any R
     <Description>
       [H4]Interrogation Resistance[h4]
 Even the most skilled Rebel agent can be captured and subjected to Imperial interrogation. PCs with this Duty specialize in ensuring that they and their fellow Rebels have the physical and mental fortitude to endure interrogation. They also work to ensure that information critical to the Alliance is compartmentalized and secure, so that agents who are unable to resist Imperial questioning don't compromise the entire Rebellion.</Description>
-    <Source Page="17">Cyphers and Masks</Source>
+    <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -214,7 +214,7 @@ Even the most skilled Rebel agent can be captured and subjected to Imperial inte
     <Description>
       [H4]Legend Crafting[h4]
 PCs selecting this Duty work to create fictitious histories and evidence to back up an infiltrating Spy's cover identity. Known as legends, these false histories help Spies assume a cover identity that becomes a fully realized person and can be easily presented to others. These efforts usually also include planting falsified information or doctored holos into Imperial databases, so that anyone researching the Spy's cover identity will find a host of data that corroborates the legend, enough to pass rigorous examination.</Description>
-    <Source Page="17">Cyphers and Masks</Source>
+    <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -236,7 +236,7 @@ cowardice, which harms both discipline and their own chances for advancement.</D
     <Description>
       [H4]Morale[h4]
 While the troops of the Rebel Alliance know their cause to be just, the hopeless odds stacked against them can be demoralizing. This PC knows that to have any hope of victory, the freedom fighters have to keep their spirits up, and works to help with this via well-timed jokes or inspirational gestures such as flying the Rebellion's insignia on the battlefield.</Description>
-    <Source Page="17">Forged in Battle</Source>
+    <Source Page="17">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -274,7 +274,7 @@ More than machines, credits, or information, the people of the Alliance are the 
 This PC seeks out the most skilled and famous Imperials on the battlefield, and takes them out head on. These duels are often recorded and released on shadowfeeds as a part of Rebel propaganda efforts to showcase how vulnerable the Empire is to Rebel assaults. Whether the PC sees this Duty as a means of testing himself or a way to help larger Rebel efforts, he is likely to be seen abandoning his mission objectives if a tempting enough target is fleeing the scene.</Description>
     <Sources>
       <Source Page="19">Stay on Target</Source>
-      <Source Page="17">Forged in Battle</Source>
+      <Source Page="17">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </Duty>
@@ -293,7 +293,7 @@ Every blaster, starfighter, and thermal detonator in the galaxy is useless witho
     <Description>
       [H4]Psychological Warfare[h4]
 Fear is not only the purview of the Empire. PCs with this Duty attempt to spread fear among enemy forces in an effort to weaken morale and destroy the discipline that is the hallmark of the Imperial Army and Navy. They also regularly combat Imperial propaganda and look within the ranks of the Empire itself for personnel who might easily be swayed into joining the Rebellion. </Description>
-    <Source Page="17">Cyphers and Masks</Source>
+    <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>AddedItem</Custom>
   </Duty>
   <Duty>
@@ -303,8 +303,8 @@ Fear is not only the purview of the Empire. PCs with this Duty attempt to spread
       [H4]Psychological Warfare[h4]
 While Imperial stormtroopers might appear fearless and disciplined, others within the Imperial Army and Officer Corps aren't as willing to die for the Emperor. Some PCs recognize that it is possible to intimidate, confuse, or frighten an enemy to gain an advantage in an engagement, or avoid one altogether.</Description>
     <Sources>
-      <Source Page="17">Forged in Battle</Source>
-      <Source Page="17">Cyphers and Masks</Source>
+      <Source Page="17">Дополнение: Закаленные в битве (Forged in Battle)</Source>
+      <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </Duty>
@@ -353,7 +353,7 @@ This PC prepares and plans the logistics and execution of rescue operations of b
     <Description>
       [H4]Resource Acquisition[h4]
 Blasters and bacta are important for survival, but Spies with this Duty endeavor to acquire other resources to aid the Alliance. These include enemy uniforms, Imperial credentials, and other tools of deception. Spies with this Duty are certainly glad to acquire medical supplies, weapons, and other necessities, but their skill set allows them to obtain equipment more suited to subtle missions. </Description>
-    <Source Page="17">Cyphers and Masks</Source>
+    <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>AddedItem</Custom>
   </Duty>
   <Duty>
@@ -419,7 +419,7 @@ This PC focuses on the technical aspects of scouting. the gathering of geographi
     <Description>
       [H4]Tactical Insight[h4]
 Wars are sometimes won before a battle is ever fought. These PCs specialize in gathering information on Imperial military tactics and using these secrets to exploit weaknesses in the Empire's deployment plans and combat strategies. They also attempt to undermine Imperial tactics by planting false intelligence in Imperial battlefield reports or allowing fabricated reports on Rebel troop movements to "fall into enemy hands."</Description>
-    <Source Page="17">Cyphers and Masks</Source>
+    <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -464,7 +464,7 @@ This PC takes on the responsibility of establishing protected routes to and from
     <Description>
       [H4]Wetwork[h4]
 PCs with this Duty know that sometimes questionable, if not downright immoral, acts must be committed in the name of the greater good. The quiet death of a single key individual, after all, can save many lives or keep important secrets buried for good. They're willing to do the unthinkable for the cause, and eliminate or assassinate critical Imperial personnel to prevent or undo a greater evil.</Description>
-    <Source Page="17">Cyphers and Masks</Source>
+    <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
 </Duties>

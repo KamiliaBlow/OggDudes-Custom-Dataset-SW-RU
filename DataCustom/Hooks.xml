@@ -70,7 +70,7 @@ Aristocrats have (or had) money and perhaps a title. They may belong to an actua
     <Description>
 	  [H4]Artist[h4]
 The Force grants people thoughts, visions, and emotions that some can't process, so they turn to other means to communicate these ideas. These artists often find themselves frustrated, driven to express an idea bigger than the artistic medium. While most artists create in order to find an audience, Mystic artists create to find answers. The answers can be personal, to seek enlightenment. The answers can be social, motivating others to be and do better. Because of art's emotional nature, however, artists can be tempted to the dark side. These artists use their work to shock, provoke, and upset-not to illustrate a greater truth, but to enhance those dark feelings, reinforcing hate and anger.</Description>
-    <Source Page="10">Unlimited Power</Source>
+    <Source Page="10">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -80,7 +80,7 @@ The Force grants people thoughts, visions, and emotions that some can't process,
 	  [H4]Augur[h4]
 Augurs served a straightforward function: they exposed the truth to those who listened. They could have been anything from a fortune-teller to a psychologist, offering insights on what people should do, but also revealing hidden truths to help people make their own decisions. Some augurs received academic or institutionalized training, while others simply had an uncanny intuition (such as a village elder or community leader). Most were content with this role. The few who had the humility to delve deeper discovered the Force as the source of their wisdom.
 [P]Augurs who fell to the dark side encouraged their victims' darkest desires and instincts, enhancing their anger and pushing them toward violence. These augurs sometimes inflicted harm on others, mistaking pain, deprivaton. and violence for a means to understanding.</Description>
-    <Source Page="12">Unlimited Power</Source>
+    <Source Page="12">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -91,8 +91,8 @@ Augurs served a straightforward function: they exposed the truth to those who li
 Some say a man who seeks vengeance should dig two graves: one for his target, and one for himself. However, these words never seem to reach the beings who need to hear it most. Following the one that wronged him, this character is in pursuit of righteous vengeance, leaving everything else he knew and loved behind. He lives a life of quiet desperation, planning his revenge and stalking his prey. The character does what he has to do to survive until he delivers retribution. He is proud to wield a blaster for any employer, especially if that gets him closer to his goal.
 [P]Characters with this backstory should consider choosing their Obligation (with GM approval) instead of rolling randomly, so that it aligns with their background. Alternately, they can tie their Motivation into their background instead.</Description>
     <Sources>
-      <Source Page="14">Dangerous Covenants</Source>
-      <Source Page="12">Forged in Battle</Source>
+      <Source Page="14">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
+      <Source Page="12">Дополнение: Закаленные в битве (Forged in Battle)</Source>
       <Source Page="12">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -122,7 +122,7 @@ Some characters take to tinkering as children or as adolescents, displaying a pr
     <Description>
       [H4]Born and Bred[h4]
  Some Smugglers have never been anything else. They may come from a long line of Smugglers. They may not know where they came from, but were forced into the life of a Smuggler before they were old enough to make a decision for themselves. Either way, smuggling is all this Smuggler knows, and he does it well.</Description>
-    <Source Page="15">Fly Casual</Source>
+    <Source Page="15">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -140,7 +140,7 @@ Citizen soldiers are commoners from across the galaxy who fight to protect their
     <Description>
 	  [H4]Con Artist[h4]
 Force sensitives don't necessarily need to come from a background of enlightenment and self-reflection. Especially during these tumultuous times, Mystics can emerge even from a history of gambling, trickery, and swindling. Some used their abilities to con the wealthy or powerful, rationalizing that two wrongs do make a right. Others pulled cons to make a living while doing what they could to mitigate harm. A few did their best to ignore their conscience. What united these con artists wasn't their criminal skills, but a nagging sense that life could offer something greater. While a criminal life doesn't usually lead to enlightenment, when these con artists sought  answers, they found them rather quickly. After all, they could recognize a good con, and when the Force turned out to be the real thing, they became ardent true believers.</Description>
-    <Source Page="13">Unlimited Power</Source>
+    <Source Page="13">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -170,7 +170,7 @@ These Warriors may have encountered someone who chose them to champion a cause. 
     <Description>
       [H4]Cynical[h4]
 Some of the most prized possessions of a Smuggler are the stories he can tell, both tales of his exploits and rumors he has heard on his travels. The cynical Smuggler has one definitive story: the moment that not only changed the course of his life but his whole view of the galaxy. Due to a traumatic even, this Smuggler carries a big chip on his shoulder. He's lost faith in law, order, or people in general. In a galaxy of infinite possibilities, this event could be anything from the destruction of his homeworld to a personal betrayal.</Description>
-    <Source Page="14">Fly Casual</Source>
+    <Source Page="14">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -198,7 +198,7 @@ Having realized he has some untapped power at his disposal, the character now wi
       [H4]Disadvantaged[h4]
  For most beings in the galaxy, life is a constant battle for survival. Whether on a planet under strict Imperial rule or some backwater moon far from any trade route, the career of a Smuggler becomes an attractive prospect, a way of exchanging the familiar daily struggle for a life full of potential. Work as a Smuggler is not easy, but the dream of one great score to set him up forever keeps him running the hyperlanes.
 [P]The Smuggler with a disadvantage background is tough and a little rough around the edges. He may have lived in poverty, been a slave, worked for an oppressive employer, or otherwise had it hard growing up.</Description>
-    <Source Page="13">Fly Casual</Source>
+    <Source Page="13">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -227,7 +227,7 @@ Eccentrics pursue engineering and science with reckless abandon. Though often hi
     <Description>
 	  [H4]Economist[h4]
 Economics is the study of resource allocation, but deep in its heart, it is the study of people and their choices. These proto-Mystics saw patterns, an invisible hand that moved resources to people in need, enriched planets, and connected disparate communities, defying the black-and-white morality of a profit spreadsheet. Cold economic theories and practices can clash with the warmth and light of the Force, however. If a policy can make five million people ten times as wealthy, but at the oppression of one million, could that be argued as good policy? What promotes a fall to the dark side more than turning suffering into mere numbers to be manipulated?</Description>
-    <Source Page="13">Unlimited Power</Source>
+    <Source Page="13">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -279,8 +279,8 @@ The Empire's bureaucracy and its military employ billions of beings. The vast ma
       [H4]Ex-Military[h4]
 The galaxy is full of armies, from numerous planetary defense forces to the awesome might of the Imperial Military. Countless millions of sentients fight in the ranks of these forces, but countless more have served their time and left the military. While some manage the transition back to civilian life, many former soldiers find that their most marketable skill is their fighting ability. For them, mercenary work or even criminal enterprise is a lucrative (if dangerous) career choice.</Description>
     <Sources>
-      <Source Page="13">Dangerous Covenants</Source>
-      <Source Page="14">Fly Casual</Source>
+      <Source Page="13">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
+      <Source Page="14">Дополнение: Непринужденный полет (Fly Casual)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -341,7 +341,7 @@ Freerunners turn movement into a highly skilled and specialized art form, using 
 [P]Freerunner-style drivers and pilots use their techniques to achieve similar results in vehicles and starships. Some were once stunt pilots or drivers trained to use their abilities in live and recorded performances. Other might have received formal training in tactical driving as bodyguards or security personnel.
 [P]With a high degree of training and talent, drivers might spin a vehicle around in a nearly impossibly small amount of space. They can make spectacular jumps while rotating the vehicle about its axis in death-defying and gut-wrenching fashion.
 [P]Species that are light, quick, and agile typically make the best freerunners. Their lighter weight means they can land and climb on weaker structures and smaller surfaces. However, strong and athletic species can achieve similar results when using their muscles to make longer leaps or knock aside obstacles.</Description>
-    <Source Page="12">Cyphers and Masks</Source>
+    <Source Page="12">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -409,7 +409,7 @@ Many Colonists are exiles from more populous worlds, fleeing armed foes or haunt
       [H4]Idealistic Recruit[h4]
 While those victimized by the Empire make up a significant portion of rebel forces, as do Imperial defectors, their numbers aren’t enough to threaten a single Imperial fortress world, let alone engage in conventional warfare with the Empire on multiple fronts. The Alliance Army is dependent on a steady stream of young, wide-eyed recruits willing to give their all in an attempt to restore peace and justice to the galaxy. Fresh faces drawn from every corner of the galaxy travel to secret rebel bases to undergo the basic training the Alliance can provide before deployment.
 [P]Recruits come from all social and economic backgrounds, but those from the Outer Rim are most eager to join, having only heard about Imperial atrocities secondhand. Brave recruiters carefully spread propaganda vids across backwater planets and arrange meetings to discuss how the Empire impacts the galaxy, eventually swaying local youth to join the Alliance. Most rimfolk already possess most of the skills the rebels want in their recruits. Life on the Rim often teaches them resilience in the face of adversity, familiarity with ranged weaponry, basic equipment repair skills, and an eagerness for any life that gets them offworld.</Description>
-    <Source Page="14">Forged in Battle</Source>
+    <Source Page="14">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -479,7 +479,7 @@ Plenty of current and former law enforcement agents dislike Imperial laws and en
 [P]Law officer training depends largely on earlier experience, ability, and residence. Agents on Core Worlds usually receive high-quality training, and are well-versed in Imperial laws, with access to excellent resources and support staff. Agents from less populated or remote worlds are likely to have less training, staff, and resources and depend more on their own skills and experience.
 [P]Officers on non-Imperial or more lawless worlds are focused on more regional laws and politics. They are often more concerned with keeping the peace than with following the letter of the law.
 [P]These elements impact how law enforcement agents become spies and where best to deploy their skills. Many have extensive knowledge of, and contacts with, underworld elements and criminal syndicates. High-ranking agents know officials of similar standing, providing potential channels for unofficial information.</Description>
-    <Source Page="12">Cyphers and Masks</Source>
+    <Source Page="12">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -500,7 +500,7 @@ Espionage field agents live in a world of deception and misdirection. Their true
 [P]Makeup artists and costumers provide the required skills and techniques to turn someone into just about anyone else. The change could be subtle, with slight alterations to hairstyle, facial hair, and eyes. Radical transformations are also possible using high-quality theatrical masks, prosthetics, and even full bodysuits.
 [P]Master holographic technicians may know exotic techniques for transforming an individual using advanced holographic imaging. Holomasks and full-body holographic disguise matrices can be extremely useful (though expensive) in the right conditions.
 [P]The wide range of skills and experience among those employed in professional makeup artistry means that Rebel recruits may have any level of aptitude. Some may have specialized in broadcast preparations or amateur theatrical productions. Experienced professionals have more knowledge of successful techniques and more expensive supply kits than those newer to the field. In reality, most Rebel groups must make the most of whatever skills their members possess, along with any available materials and technology on hand.</Description>
-    <Source Page="13">Cyphers and Masks</Source>
+    <Source Page="13">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -512,7 +512,7 @@ Not every Soldier of the Rebellion fights for the high and mighty ideals of the 
 [P]However, most mercenaries find that once they begin working with the Alliance, it has a way of sweeping them up in their cause. Those whose hearts cannot be melted by Alliance idealism and morality might find themselves reported to the Empire as a rebel sympathizer and blacklisted from working for clients in the corporate world.
 </Description>
     <Sources>
-      <Source Page="15">Forged in Battle</Source>
+      <Source Page="15">Дополнение: Закаленные в битве (Forged in Battle)</Source>
       <Source Page="14">Knights of Fate</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -595,7 +595,7 @@ Founding a colony is hard work, but a generation or two later, when the hardest 
       [H4]Peace Turned To War[h4]
 While many Hired Guns get their start in some sort of violent enterprise, not all mercenaries or marauders begin their lives as warriors. Some spent a great deal of their lives in an honest career or some other peaceful labor, before some pivotal event set them on the path to become the hardened veteran they are today. Whatever that event was, the character's personality is still defined by the work he did beforehand.
     </Description>
-    <Source Page="15">Dangerous Covenants</Source>
+    <Source Page="15">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -605,7 +605,7 @@ While many Hired Guns get their start in some sort of violent enterprise, not al
 Not every Spy is a silent killer or martial arts expert. Most rely far more on the art of deception and social engineering than on combat abilities. Still, even Spies adept at social manipulation find it useful to be able to dodge and tumble when the situation calls for it.
 [P]Performers can be great spies. Actors may more easily deceive other thanks to their ability to adopt new roles. They might jump between different personas at will, move seamlessly from one to another during a mission. Actors also have excellent memorization skills, allowing them to quickly parrot complex technical knowledge. Often, they can spot enemy Spies due to an impostor’s poor acting.
 [P]Stage performers may be able to use some of their act in certain espionage missions. Magicians, illusionists, and sleight-of-hand experts can use their mastery of misdirection to deceive others and palm objects in plain sight. Singers and dancers can employ their skills in social events. Escape artists are naturally good at freeing themselves when captured.</Description>
-    <Source Page="14">Cyphers and Masks</Source>
+    <Source Page="14">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -614,7 +614,7 @@ Not every Spy is a silent killer or martial arts expert. Most rely far more on t
     <Description>[H4]Political Expert[h4]
 Political experts found themselves able to see the bigger picture and used their time to change (or maintain) local governments. If only people acted this way, these experts thought, then these problems would be solved. The needs and desires of the community should influence the laws of the community, not vice versa. Emboldened or frustrated by the political process, these experts looked for something bigger and more meaningful, and awakened to the power of the Force.
 [P]Not all political awakenings come with enlightenment. Some political experts didn't learn to serve their communities, and instead tried to manipulate them by appealing to their base desires and fears, or punished them with restrictive laws. They sought to control others, a seductive desire from the dark side of the Force.</Description>
-    <Source Page="14">Unlimited Power</Source>
+    <Source Page="14">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -624,7 +624,7 @@ Political experts found themselves able to see the bigger picture and used their
       [H4]Privileged[h4]
 Whether wealth is won, earned or inherited some people just have a lot more credits than anyone else. However, bad luck, poor choices in trade, or extravagant lifestyle can quickly turn a rich person into a poor one. Some Smugglers have lived the good life but lost everything. Some may have even purposefully left wealth behind, tired of the strings attached or dreaming of a life of adventure and glory.
 [P]The Smuggler who has known wealth, whether he frittered it away or had it forcibly taken, is not likely to have lost his privileged attitude.</Description>
-    <Source Page="13">Fly Casual</Source>
+    <Source Page="13">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -635,7 +635,7 @@ Spies are frequently after information that isn’t simply stored in Imperial da
 [P] Psychologists can thus be a great asset to espionage operations. Knowing the likely mental state and thought processes of an individual provides insight into what questions should be asked and how to ask them to gain a truthful and useful response.
 [P]Determining how to ask a question and knowing who should do so are equally important. Insulting phrases, inappropriate protocol, and rude mannerisms can be detrimental and even reveal a Spy as a fraud. Crude and harsh language probably won’t get a Spy anywhere when dealing with prominent scientists or loyal Imperial personnel, but it could be exactly the right approach with underworld enforcers or smugglers.
 [P]Rebel psychologists are normally educated in their area of expertise before joining the Alliance, which is important as psychology isn’t a subject easily taught in the field. Specific ideas and techniques can be imparted and used in isolation, but amateurs will often miss vital subtleties.</Description>
-    <Source Page="14">Cyphers and Masks</Source>
+    <Source Page="14">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -672,7 +672,7 @@ Refugees have escaped violence, starvation, and persecution only to face similar
 	  [H4]Religious Ecstatic[h4]
 Ecstatics allowed the Force to flow through them uninhibited. These people interpreted the Force through their own religions, adding insights and ideas that for some illuminated, others perplexed, and a few terrified. This "madness" and speaking for the gods were actually their attempts to describe their thoughts and feelings of the Force. When they discovered the Force to be a universal power, they didn't abandon their religion, but simply found the truths within, forging a new yet still traditional path.
 [P]Allowing unchecked emotion to fuel religious fervor, however, can take an ecstatic toward the dark side. Mistaking fear and anger for religious insight can lead people toward victimizing innocents. Instead of listening to the Force, these ecstatics listened only to pain, rage, and terror, and then channeled it right back into the world.</Description>
-    <Source Page="15">Unlimited Power</Source>
+    <Source Page="15">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -691,7 +691,7 @@ Ecstatics allowed the Force to flow through them uninhibited. These people inter
 Not all Spy recruits come from honourable professions. Many already operate in the gray regions of galactic society. One such profession is the starship repossession specialist, more commonly known as repo specialist. Some work for legitimate corporations under Imperial licenses and laws. Most, though, work for shady third-party resellers, used starship lots, or even criminal syndicates. In any case, repo specialists use a combination of bounty hunting, burglary, intimidation, and stealth to find and repossess their target. While they might have the legal authority to do so, their techniques work for either side of the law.
 [P]A tremendous range of security systems is employed in the protection of starships and vehicles. Some vehicles have nothing at all or only require a basic key or code to access and start. Others have advanced systems with sensors for detecting innumerable methods of attack. While high-end and expensive craft can be expected to have many layers or protection, even relatively mundane or innocuous-looking ships could be so equipped, if the owner is rich and paranoid enough. Combined with ray shields, traps, or weapons, these security systems can be dangerous and even lethal to repo specialists.
 [P]Of course, none of that matters if the repo specialist cannot find the ship to begin with. While repo specialists usually get some sort of address or suspected location from their employer, vehicle owners behind in their payments are unlikely to remain in the area if they suspect someone is after them. Additionally, hyperspace-capable starships could jump to almost anywhere in the galaxy, making discovery efforts even more difficult.</Description>
-    <Source Page="15">Cyphers and Masks</Source>
+    <Source Page="15">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -700,7 +700,7 @@ Not all Spy recruits come from honourable professions. Many already operate in t
     <Description>
       [H4]Respectable[h4]
 It's entirely possible for a merchant to spend his whole career transporting and selling legal goods while keeping on the right side of the law, but sometimes laws change and he cannot or will not change with them. Or he might lose legitimate business and need to expand his client base to stay afloat. Either way, it is easy for a respectable trader to turn to smuggling.</Description>
-    <Source Page="14">Fly Casual</Source>
+    <Source Page="14">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -718,7 +718,7 @@ Knowledge can be a dangerous thing and rogue scholars know this. Emperor Palpati
     <Description>
       [H4]Scion of a Legacy[h4]
 One of the most powerful motivations in a character's life can be his parents or other mentors. Many children follow in the footsteps of their fathers or mothers, even if they do so because that is what is expected of them. However, living up to the reputation of an elder can be difficult even when that is what the character desires most. At some point the character's own life, personality, and morality might come in conflict with the reputation of his forebears, and he must change himself or break with the past.</Description>
-    <Source Page="15">Dangerous Covenants</Source>
+    <Source Page="15">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -752,7 +752,7 @@ While many think of the Clone Wars as a conflict between Jedi-led clone armies a
 [P]The list of Clone Wars veterans among Rebel ranks is extensive, including Garven Dreis, immortalized for his sacrifice at the Battle of Yavin under the call sign Red Leader. During the Clone Wars, Dreis was a local defense force pilot at Virujansi, and flew alongside Anakin Skywalker.</Description>
     <Sources>
       <Source Page="15">Stay on Target</Source>
-      <Source Page="16">Forged in Battle</Source>
+      <Source Page="16">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -775,7 +775,7 @@ Imperial academies at Carida, Raithal, Corulag, and Prefsbelt turn out a never-e
 [P]While the curriculum emphasizes loyalty to the Empire, many cadets find themselves unable to execute what they see as unjust orders. These graduates often desert or defect to the Rebellion. A famous example is the mutiny of the Rand Ecliptic, which was led by recent academy graduates Biggs Darklighter and Derek "Hobbie" Klivian. Once in command of the vessel, Biggs, Hobbie, and a number of other sympathetic TIE pilots joined up with the Rebellion.</Description>
     <Sources>
       <Source Page="16">Stay on Target</Source>
-      <Source Page="15">Forged in Battle</Source>
+      <Source Page="15">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -890,7 +890,7 @@ The character finds himself embroiled in a life of adventure through no fault of
     <Description>
       [H4]Yesterday's Hero[h4]
  Once this character was the man of the hour, toasted in every shadowport from Kothlis to Nar Shaddaa. However, everything in this life passes in time, and whether through the machinations of a political enemy, the natural ebb and flow of popularity, or a legitimate mistake or miscalculation, the character has now fallen from grace. Where he once commanded legions, now he only commands the blaster at his hip. Where once he had limitless resources, now he scrounges for credits, his days of glory a distant and probably bitter memory. Regaining his former success might be his overriding goal, but it is just as possible that the character has given up on himself and simply wishes to avoid any reminders of his past.</Description>
-    <Source Page="13">Dangerous Covenants</Source>
+    <Source Page="13">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
 </Hooks>

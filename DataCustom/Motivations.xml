@@ -139,7 +139,7 @@ The Motivations presented in the [B]Edge of the Empire[b] Core Rulebook necessar
       [H4]Conflict[h4]
 There are quite a few options for different Motivations found in the Core Rulebook. However, since these Motivations have to serve a wide variety of characters, they are broad by necessity. [B]Dangerous Covenants[b] includes a number of Motivations tailored specifically for the Hired Gun career and its specializations. These new Motivations are grouped into the category of Conflicts.</Description>
     <Sources>
-      <Source Page="34">Dangerous Covenants</Source>
+      <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="34">Stay on Target</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -536,7 +536,7 @@ Weik is a fierce and untamed wilderness world, located in Wild Space far from es
     <Name>Mysteries</Name>
     <Description>[H4]Mysteries[h4]
 Any being can be motivated by their ambition or a cause, but a Mystic tends to be deeply interested in the most fundamental mysteries of their universe. They want to understand their world on a profound, even instinctual level, and often eschew worldly things for such knowledge. Sometimes they seek answers to these mysteries for personal growth and enlightenment. Sometimes they seek them for power. And sometimes, as they seek one, they find the other as well.</Description>
-    <Source Page="34">Unlimited Power</Source>
+    <Source Page="34">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>MYSTERY1</Key>
@@ -651,7 +651,7 @@ This Motivation focuses on a character's relationship with a specific person, cr
 Smugglers come in all shapes, sizes, colors, and creeds, but something they all have in common is the need for a Reward. It is in the nature of the job; the Smuggler moves the goods, and then he gets paid. The Reward is what drives him to risk his neck, transporting volatile cargo for dangerous people, dodging Imperial interference, and avoiding other trouble. A Smuggler's life keeps him on the edge of his seat, always one slip away from capture or worse. It's not an easy life, and he's only in it for the Reward.
 [P]Of course, smuggling jobs are rarely as simple as they first seem, and neither are the people who choose such an unpredictable career. The Smuggler's real motivation, the Reward he really wants, may not be as straightforward as monetary payment. He might wish to earn respect or help his family, or perhaps he finds the excitement of the job its own reward. Any Smuggler needs to receive payment occasionally—he has to keep his ship space-worthy somehow after all—but often there is another, equally pressing goal driving all he does. From the Pilot who wants to break the record for the fastest ship to win the Blockade Runner's Derby to the Charmer who just wants to meet new people to the Gambler who genuinely is only in it for the money, the particular Reward that drives a Smuggler reveals a lot about his character.
 [P]The Smuggler's Motivation can also cast a new light on his background, and it plays a part in deter-mining how he might interact with others in a party. A Smuggler motivated by Independence may not like relying on other characters and find making group decisions difficult. On the other hand, a Smuggler motivated by Esteem will likely go out of his way to help his colleagues.</Description>
-    <Source Page="34">Fly Casual</Source>
+    <Source Page="34">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>REWARDSM1</Key>
@@ -671,7 +671,7 @@ Smugglers come in all shapes, sizes, colors, and creeds, but something they all 
     <Name>Secrets</Name>
     <Description>[H4]Secrets[h4]
 Spies deal with secrets. Secrets are often the reason for their missions, but aspects of secrecy can also be what drew them to become Spies in the first place. They might be driven to uncover secrets, believing no information should be hidden. Alternatively, they could have a desire to keep secrets secured and believe that sometimes society is better off not knowing the truth Motivations related to secrecy can help mold backgrounds for Spy characters and offer guidance in playing them, especially when dealing with enemy agents.</Description>
-    <Source Page="32">Cyphers and Masks</Source>
+    <Source Page="32">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>SECRET1</Key>

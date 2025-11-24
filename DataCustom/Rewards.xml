@@ -101,7 +101,7 @@
 Каждый боевой шрам так же уникален, как и история, лежащая в его основе, и игроки и ГМы должны вместе продумать, как та или иная травма или шрам проявляются в соответствующем таланте. Тем не менее, большинство боевых шрамов подпадает под определенные категории. Каждый из следующих типов боевых шрамов включает в себя список рекомендуемых результатов критических повреждений и талантов. После того как ГМ наделит персонажа боевым шрамом, персонаж игрока должен найти результат "Критическая травма", полученный его персонажем, и выбрать один из соответствующих талантов, а затем вместе с ГМ придумать объяснение механической выгоды. Однако эти категории и списки - лишь рекомендации, и игроки и ГМы могут решить, что особенно необычные или интересные раны подходят для талантов, не перечисленных здесь. [BR][BR] Окончательное решение о том, какие таланты доступны для данного боевого шрама, всегда остается за ГМом, независимо от рекомендаций, приведенных ниже. Как правило, отдельный персонаж не может получить более трех боевых шрамов - хотя, на усмотрение ГМа, ПК может заменить старый боевой шрам на новый, обменяв один талант на другой, более мощный[BR][BR].
 [H4]Впечатляющий шрам[h4][B]Предполагаемые критические травмы:[b] Discouraging Wound, Fearsome Wound, Crippled, Gruesome Injury.[BR][B]Предлагаемые таланты:[b] Commanding Presence, Confidence, Intimidating, Steely Nerves, Street Smarts.[BR][BR][H4]Травма головы[h4][B]Предполагаемые критические травмы:[b] Stunned, Head Ringer, Slightly Dazed, Scattered Senses, Blinded, Knocked Senseless, Gruesome Injury.[BR][B]Предлагаемые таланты:[b] Grit, Hard Headed, Heightened Awareness, Resolve, Sixth Sense.[H4]What Doesn't Kill Me[h4][B]Предполагаемые критические травмы:[b] Agonizing Wound, Hamstrung, Compromised, Horrific Injury, Bleeding Out.[BR][B]Предлагаемые таланты:[b] Blooded, Confidence, Durable, Rapid Recovery, Second Wind, Toughened. [H4]Close Call[h4][B]Предполагаемые критические травмы:[b] Bowled Over, Winded, Temporarily Lame, Bleeding Out.[BR][B]Предлагаемые таланты:[b] Defensive Stance, Dodge, Jump Up, Rapid Reaction, Spare Clip, Time to Go.[P]
 Подробнее о боевых шрамах читайте на страницах 95-96 дополнения "Закаленные в битве".</Description>
-    <Source Page="95">Forged in Battle</Source>
+    <Source Page="95">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <OptionChoices>
       <OptionChoice>
@@ -707,7 +707,7 @@ Please see page 92 of the Keeping the Peace Sourcebook, or page 95 of the Fly Ca
     </Description>
     <Sources>
       <Source Page="92">Keeping the Peace</Source>
-      <Source Page="95">Fly Casual</Source>
+      <Source Page="95">Дополнение: Непринужденный полет (Fly Casual)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <RewardTitle>rteSphereOfInfluence</RewardTitle>

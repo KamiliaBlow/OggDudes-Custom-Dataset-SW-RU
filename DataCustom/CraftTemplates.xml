@@ -7,7 +7,7 @@
       [H3]Acid[h3]
       This is an alchemical potion template.  Please enter the description of the finished potion here.
     </Description>
-    <Source Page="81">Unlimited Power</Source>
+    <Source Page="81">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <TempType>ctAlchemyPotion</TempType>
     <MaterialCost>600</MaterialCost>
     <MaterialRarity>6</MaterialRarity>
@@ -40,7 +40,7 @@
       [H3]Draught of Fire[h3]
       This is an alchemical potion template.  Please enter the description of the finished potion here.
     </Description>
-    <Source Page="81">Unlimited Power</Source>
+    <Source Page="81">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <TempType>ctAlchemyPotion</TempType>
     <MaterialCost>400</MaterialCost>
     <MaterialRarity>5</MaterialRarity>
@@ -73,7 +73,7 @@
       [H3]Healing Potion[h3]
       This is an alchemical potion template.  Please enter the description of the finished potion here.
     </Description>
-    <Source Page="81">Unlimited Power</Source>
+    <Source Page="81">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <TempType>ctAlchemyPotion</TempType>
     <MaterialCost>1000</MaterialCost>
     <MaterialRarity>5</MaterialRarity>
@@ -106,7 +106,7 @@
       [H3]Poison[h3]
       This is an alchemical potion template.  Please enter the description of the finished potion here.
     </Description>
-    <Source Page="81">Unlimited Power</Source>
+    <Source Page="81">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <TempType>ctAlchemyPotion</TempType>
     <MaterialCost>500</MaterialCost>
     <MaterialRarity>4</MaterialRarity>
@@ -139,7 +139,7 @@
       [H3]Stimulant[h3]
       This is an alchemical potion template.  Please enter the description of the finished potion here.
     </Description>
-    <Source Page="81">Unlimited Power</Source>
+    <Source Page="81">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <TempType>ctAlchemyPotion</TempType>
     <MaterialCost>400</MaterialCost>
     <MaterialRarity>4</MaterialRarity>
@@ -172,7 +172,7 @@
       [H3]Elixir of Vigor[h3]
       This is an alchemical potion template.  Please enter the description of the finished potion here.
     </Description>
-    <Source Page="81">Unlimited Power</Source>
+    <Source Page="81">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <TempType>ctAlchemyPotion</TempType>
     <MaterialCost>600</MaterialCost>
     <MaterialRarity>6</MaterialRarity>
@@ -205,7 +205,7 @@
       [H3]Water of Life[h3]
       This is an alchemical potion template.  Please enter the description of the finished potion here.
     </Description>
-    <Source Page="81">Unlimited Power</Source>
+    <Source Page="81">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <TempType>ctAlchemyPotion</TempType>
     <MaterialCost>1000</MaterialCost>
     <MaterialRarity>10</MaterialRarity>
@@ -244,7 +244,7 @@
       [H3]Weakening Potion[h3]
       This is an alchemical potion template.  Please enter the description of the finished potion here.
     </Description>
-    <Source Page="81">Unlimited Power</Source>
+    <Source Page="81">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <TempType>ctAlchemyPotion</TempType>
     <MaterialCost>1000</MaterialCost>
     <MaterialRarity>6</MaterialRarity>
@@ -277,7 +277,7 @@
       [H3]Potion of Wills[h3]
       This is an alchemical potion template.  Please enter the description of the finished potion here.
     </Description>
-    <Source Page="81">Unlimited Power</Source>
+    <Source Page="81">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <TempType>ctAlchemyPotion</TempType>
     <MaterialCost>1000</MaterialCost>
     <MaterialRarity>8</MaterialRarity>
@@ -313,7 +313,7 @@
       [H3]Talisman of Fate[h3]
       This is an alchemical talisman template.  Please enter the description of the finished talisman here.
     </Description>
-    <Source Page="84">Unlimited Power</Source>
+    <Source Page="84">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <TempType>ctAlchemyTalisman</TempType>
     <MaterialCost>4000</MaterialCost>
     <MaterialRarity>6</MaterialRarity>
@@ -349,7 +349,7 @@
       [H3]Fetish of Fear[h3]
       This is an alchemical talisman template.  Please enter the description of the finished talisman here.
     </Description>
-    <Source Page="84">Unlimited Power</Source>
+    <Source Page="84">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <TempType>ctAlchemyTalisman</TempType>
     <MaterialCost>300</MaterialCost>
     <MaterialRarity>4</MaterialRarity>
@@ -382,7 +382,7 @@
       [H3]Healing Accelerant[h3]
       This is an alchemical talisman template.  Please enter the description of the finished talisman here.
     </Description>
-    <Source Page="84">Unlimited Power</Source>
+    <Source Page="84">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <TempType>ctAlchemyTalisman</TempType>
     <MaterialCost>600</MaterialCost>
     <MaterialRarity>5</MaterialRarity>
@@ -415,7 +415,7 @@
       [H3]Neural Charm[h3]
       This is an alchemical talisman template.  Please enter the description of the finished talisman here.
     </Description>
-    <Source Page="84">Unlimited Power</Source>
+    <Source Page="84">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <TempType>ctAlchemyTalisman</TempType>
     <MaterialCost>1200</MaterialCost>
     <MaterialRarity>7</MaterialRarity>
@@ -448,7 +448,7 @@
       [H3]Amulet of Power[h3]
       This is an alchemical talisman template.  Please enter the description of the finished talisman here.
     </Description>
-    <Source Page="84">Unlimited Power</Source>
+    <Source Page="84">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <TempType>ctAlchemyTalisman</TempType>
     <MaterialCost>500</MaterialCost>
     <MaterialRarity>6</MaterialRarity>
@@ -481,7 +481,7 @@
       [H3]Protective Amulet[h3]
       This is an alchemical talisman template.  Please enter the description of the finished talisman here.
     </Description>
-    <Source Page="84">Unlimited Power</Source>
+    <Source Page="84">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <TempType>ctAlchemyTalisman</TempType>
     <MaterialCost>300</MaterialCost>
     <MaterialRarity>4</MaterialRarity>
@@ -514,7 +514,7 @@
       [H3]Token of Resistance[h3]
       This is an alchemical talisman template.  Please enter the description of the finished talisman here.
     </Description>
-    <Source Page="84">Unlimited Power</Source>
+    <Source Page="84">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <TempType>ctAlchemyTalisman</TempType>
     <MaterialCost>1800</MaterialCost>
     <MaterialRarity>9</MaterialRarity>
@@ -547,7 +547,7 @@
       [H3]Shield Amulet[h3]
       This is an alchemical talisman template.  Please enter the description of the finished talisman here.
     </Description>
-    <Source Page="84">Unlimited Power</Source>
+    <Source Page="84">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <TempType>ctAlchemyTalisman</TempType>
     <MaterialCost>1000</MaterialCost>
     <MaterialRarity>8</MaterialRarity>
@@ -1768,7 +1768,7 @@
       [H3]Blind[h3]
       This is a blind fortification template.  Please enter the description of the finished fortification here.
     </Description>
-    <Source Page="86">Forged in Battle</Source>
+    <Source Page="86">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <TempType>ctFortification</TempType>
     <TimeHours>4</TimeHours>
     <CheckSkills>
@@ -1805,7 +1805,7 @@
       [H3]Bunker[h3]
       This is a bunker fortification template.  Please enter the description of the finished fortification here.
     </Description>
-    <Source Page="86">Forged in Battle</Source>
+    <Source Page="86">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <TempType>ctFortification</TempType>
     <TimeHours>36</TimeHours>
     <CheckSkills>
@@ -1838,7 +1838,7 @@
       [H3]Trench[h3]
       This is a trench fortification template.  Please enter the description of the finished fortification here.
     </Description>
-    <Source Page="85">Forged in Battle</Source>
+    <Source Page="85">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <TempType>ctFortification</TempType>
     <TimeHours>6</TimeHours>
     <CheckSkills>

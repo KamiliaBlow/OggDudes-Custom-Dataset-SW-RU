@@ -38,7 +38,7 @@ An ambitious character sets a lofty goal for himself and then strives to accompl
         <WeakKey>IMPATIENCE</WeakKey>
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -63,7 +63,7 @@ Hot blood, however, can easily lead to hot tempers. The character is quick to an
     <Description>
 	  [H4]Antipathy (Weakness)[h4]
 Unlike Coldness, this Mystic still has emotional engagements, but simply doesn't understand the magnitude of pain. This kind of insensitivity ignores the fact that pain, even when fleeting, ripples harm throughout time and space.</Description>
-    <Source Page="17">Unlimited Power</Source>
+    <Source Page="17">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -124,7 +124,7 @@ In all things, the character is quite determined and steadfast. No matter the si
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -161,7 +161,7 @@ The characters bravery is quite remarkable. Whether facing down a charging ranco
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -219,7 +219,7 @@ The character possesses commendable prudence, willing to always look before he l
         <WeakKey>INDECISION</WeakKey>
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey>FEAR</WeakKey>
       </MoralityPair>
       <MoralityPair>
@@ -234,7 +234,7 @@ The character possesses commendable prudence, willing to always look before he l
     <Description>
 	  [H4]Certainty (Strength)[h4]
 This doesn't simply cover confidence or positivity, but also an unshakable faith of the Force. The Mystic dives into conflict without hesitation, for there is no conflict, only the Force ebbing and flowing.</Description>
-    <Source Page="17">Unlimited Power</Source>
+    <Source Page="17">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>EGOISM</WeakKey>
@@ -285,7 +285,7 @@ The character gives endlessly, both in counsel and of his own possessions, witho
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -300,7 +300,7 @@ The character gives endlessly, both in counsel and of his own possessions, witho
     <Description>
 	  [H4]Clarity (Strength)[h4]
 Certainty relies on faith, Clarity relies on knowledge. These Mystics know without a doubt that the path they walk is the right one and can communicate it to others without misunderstanding.</Description>
-    <Source Page="17">Unlimited Power</Source>
+    <Source Page="17">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>CONFUSION</WeakKey>
@@ -351,7 +351,7 @@ By observing beings and situations in an unorthodox manner, the character gains 
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -476,7 +476,7 @@ When working with others, this character has a tendency to value the group above
     <Description>
 	  [H4]Confusion (Weakness)[h4]
 With visions come possibilities. The future isn't set in stone, but a river that can flow in one direction or another. When Mystics delve deep into the future, they may become paralyzed by the myriad of possibilities.</Description>
-    <Source Page="17">Unlimited Power</Source>
+    <Source Page="17">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -533,7 +533,7 @@ The character does not act before being sure of all the facts or assessing an op
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -602,7 +602,7 @@ The character is driven to learn new things, to seek out and discover new inform
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -635,7 +635,7 @@ The character is driven to learn new things, to seek out and discover new inform
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
     </Pairs>
@@ -656,7 +656,7 @@ The character mistakes defiance for bravery. This merely serves to cause tension
     <Description>
 	  [H4]Demanding (Weakness)[h4]
 Sometimes over-protectiveness turns into controlling behavior. How else to save someone than to prevent them from making mistakes? The behavior treats people as smaller, less than even a pet, requiring constant control.</Description>
-    <Source Page="17">Unlimited Power</Source>
+    <Source Page="17">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -708,7 +708,7 @@ Rigorous mental and physical discipline comes naturally to the character. He doe
         <WeakKey>INTOLERANCE</WeakKey>
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey>COLDNESS</WeakKey>
       </MoralityPair>
       <MoralityPair>
@@ -743,7 +743,7 @@ When pressed or emotionally burned out, this character falls back on rigid edict
     <Description>
 	  [H4]Egoism (Weakness)[h4]
 Confidence can turn into recklessness or stubbornness. When Mystics think themselves invulnerable or correct at all times, they think the Force revolves around them. This egoism may cause a Mystic to make a fatal error and bring others to harm.</Description>
-    <Source Page="17">Unlimited Power</Source>
+    <Source Page="17">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -772,7 +772,7 @@ The character easily understands and even feels the emotions of those nearby, ev
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -810,7 +810,7 @@ The character is always ready to try something new, and he approaches all of his
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -835,7 +835,7 @@ The line between caution and fear is a thin one. Sometimes the character spends 
     <Description>
 	  [H4]Fondness (Strength)[h4]
 This Mystic has a kind of mentor-like love, the good feeling that comes with guiding and helping people. This feeling should be unconditional; they wish their students to grow, change, and surpass their teachings.</Description>
-    <Source Page="17">Unlimited Power</Source>
+    <Source Page="17">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>DEMANDING</WeakKey>
@@ -886,7 +886,7 @@ There is strength in living a simple life, not just in eschewing possessions but
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -970,7 +970,7 @@ The character has a personal moral code, and never crosses the line it delineate
     <Description>
 	  [H4]Humility (Strength)[h4]
 The Force is so much bigger than any one individual, and Mystics know they are merely drops in the pond. This frees them to act when needed without fear that they are taking on too much.</Description>
-    <Source Page="17">Unlimited Power</Source>
+    <Source Page="17">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>WORTHLESSNESS</WeakKey>
@@ -1070,7 +1070,7 @@ The character believes in relying on himself. He does not count on others to per
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey>OBSTINATENESS</WeakKey>
       </MoralityPair>
       <MoralityPair>
@@ -1105,7 +1105,7 @@ Love, if not given selflessly, can quickly turn to jealousy. The character's per
     <Description>
 	  [H4]Joy (Strength)[h4]
 Despite, or because of, Mystics' ability to see into the past and the future, some learn to enjoy the beauty of the moment, person, or place in front of them. Each instance is unique, even in the timelessness of the Cosmic Force.</Description>
-    <Source Page="17">Unlimited Power</Source>
+    <Source Page="17">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>ANTIPATHY</WeakKey>
@@ -1162,7 +1162,7 @@ The character strives for just and deliberate actions in his life, and in his in
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1187,7 +1187,7 @@ The character has an open heart. While he may hold a special place in his heart 
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1220,7 +1220,7 @@ This character is morally and ethically flexible and judges situations and other
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1277,7 +1277,7 @@ The character shows mercy toward his foes, dealing with them fairly and honorabl
         <WeakKey>NAIVETE</WeakKey>
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1389,7 +1389,7 @@ The character faces delay and obstruction with a calm mind, recognizing that in 
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1443,7 +1443,7 @@ The character is able to look at situations objectively, and observe the natural
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1496,7 +1496,7 @@ The character takes anger and instead of suppressing it, uses it to fuel work. P
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1511,7 +1511,7 @@ The character takes anger and instead of suppressing it, uses it to fuel work. P
     <Description>
 	  [H4]Rigid (Weakness)[h4]
 Knowing one's place sometimes means becoming complacent, becoming unable to change, grow, or conceive of a better way. They think the way things are should always be the same.</Description>
-    <Source Page="17">Unlimited Power</Source>
+    <Source Page="17">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -1531,7 +1531,7 @@ The character can sometimes spend far too long considering a matter, unable to f
     <Description>
 	  [H4]Sorrow (Weakness)[h4]
 The galaxy is a big place, and with so many people suffering, it can overwhelm a Mystic. How can a single person help anyone else when there is so much unhappiness? The Mystic lets sorrow paralyze, or worse, affect their use of the Force.</Description>
-    <Source Page="17">Unlimited Power</Source>
+    <Source Page="17">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -1598,7 +1598,7 @@ This character believes in giving everyone the benefit of the doubt. The good th
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1646,7 +1646,7 @@ Even a saint can burn out. It's not that people don't deserve help or a second c
     <Description>
 	  [H4]Wellness (Strength)[h4]
 The Mystic gains a form of happiness and satisfaction in good works and knowing one's place in the community. They work, which is good; they depend on others, which is good; and they prosper, which is good.</Description>
-    <Source Page="17">Unlimited Power</Source>
+    <Source Page="17">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>RIGID</WeakKey>
@@ -1697,7 +1697,7 @@ In a city, every day provides a new adventure. This keeps the character connecte
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Unlimited Power</Name>
+        <Name>Дополнение: Абсолютная власть (Unlimited Power)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1712,7 +1712,7 @@ In a city, every day provides a new adventure. This keeps the character connecte
     <Description>
 	  [H4]Worthlessness (Weakness)[h4]
 Knowing oneself to be insignificant in the light of the Force can overwhelm anyone, and a Mystic more so. The Force always has a purpose and a place for everyone, but Mystics may feel their actions are useless.</Description>
-    <Source Page="17">Unlimited Power</Source>
+    <Source Page="17">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>

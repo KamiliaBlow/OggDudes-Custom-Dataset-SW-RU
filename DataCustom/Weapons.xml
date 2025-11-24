@@ -100,7 +100,7 @@
       [H3]Карманный бластер Czerka Arms 411[h3]
 
 Разработанный для использования имперскими агентами, карманный бластер 411 с наддувным приводным модулем и узким дульным излучателем обладает впечатляющей дальностью стрельбы для бластера такого типа. Увеличенная дальность достигается за счет снижения общей останавливающей силы по сравнению с другими бластерами. Хотя он был предназначен исключительно для использования Империей, повстанцы похитили технические характеристики и большую партию карманных бластеров 411, наводнив черный рынок этим небольшим, но смертоносным оружием.</Description>
-    <Source Page="43">Fly Casual</Source>
+    <Source Page="43">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -139,7 +139,7 @@
       [H3]8-калиберный Дробовик Adostic Arms[h3]
 
 Мощный крупнокалиберный дробовик производства Adostic Arms, их 8-калиберный дробовик стреляет градом мелких стальных дробин. Хотя он основан на примитивной технологии дробовиков, его зверская останавливающая сила соперничает с тяжелым бластером. Изготовленный из современных легких материалов, дробовик оснащен сложной системой отдачи, которая уменьшает сильный отдачу при выстреле. Многие контрабандисты и свободные торговцы предпочитают это оружие бластерам за его способность обстреливать узкие коридоры и шлюзы звездолетов, не опасаясь случайно пробить корпус судна.</Description>
-    <Source Page="44">Fly Casual</Source>
+    <Source Page="44">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
     <Categories>
@@ -169,30 +169,14 @@
   </Weapon>
   <Weapon>
     <Key>A280</Key>
-    <Name>A280 Heavy Blaster Rifle</Name>
+    <Name>Тяжёлая бластерная винтовка A280 (A280 Heavy Blaster Rifle)</Name>
     <Description>
-      [H3]BlasTech A280 Heavy Blaster Rifle[h3]
-For nearly a century, the A280 C heavy blaster rifle
-has been one of BlasTech Industries’ top-selling military blasters and one of the galaxy's most ubiquitous
-service rifles. Before the Clone Wars, when various
-Republic systems were responsible for defending
-their own territories, the A280 C was the defacto
-official rifle used by planetary armies and private militias. While slightly bulky, it is praised for its incredible
-accuracy, range, penetrating power, and durability.
-[P]Before the Clone Wars, most soldiers trained on
-the A280 C. It wasn’t until more modular platforms,
-such as the DC-15 blaster rifle, were adopted by the
-Republic that the A280 C’s popularity began to wane.
-[P]As the Empire absorbed or disbanded local defense
-forces, decommissioned A280 C’s found their way to
-the Rebel Alliance, where this weapon quickly became
-a favorite for standard infantry, snipers, and Special
-Forces alike. Today, these weapons are cherished by
-many of their users, who work hard to keep them in
-service even as replacements grow harder to acquire.
-[P]Reduce the difficulty of Mechanics checks to repair
-a BlasTech A280 C heavy blaster rifle by 1 (to a minimum of [B]Simple (-)[b]).</Description>
-    <Source Page="43">Forged in Battle</Source>
+      [H3]Тяжёлая бластерная винтовка BlasTech A280[h3]
+На протяжении почти столетия тяжелая бластерная винтовка A280 C была одним из самых продаваемых военных бластеров BlasTech Industries и одной из самых распространенных служебных винтовок в галактике. До Войн клонов, когда различные системы Республики были ответственны за защиту своих территорий, A280 C была де-факто официальной винтовкой, используемой планетарными армиями и частными ополчениями. Несмотря на свою немного громоздкость, она ценится за невероятную точность, дальность, пробивную силу и долговечность.
+[P]До Войн клонов большинство солдат тренировались на A280 C. Только после того, как Республика приняла на вооружение более модульные платформы, такие как бластерная винтовка DC-15, популярность A280 C начала снижаться.
+[P]По мере того как Империя поглощала или распускала местные силы обороны, снятые с вооружения A280 C попали в руки Альянса повстанцев, где это оружие быстро стало любимым как для стандартной пехоты, так и для снайперов и спецназа. Сегодня эти оружия ценятся многими их пользователями, которые прилагают все усилия, чтобы сохранить их в строю, даже несмотря на то, что запчасти для них становится все труднее приобрести.
+[P]Уменьшите сложность проверки механики для ремонта тяжелого бластера BlasTech A280 C на 1 (до минимальной [B]Просто (-)[b]).</Description>
+    <Source Page="43">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -205,7 +189,7 @@ a BlasTech A280 C heavy blaster rifle by 1 (to a minimum of [B]Simple (-)[b]).</
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Reduce the difficulty of Mechanics checks to repair a BlasTech A280 heavy blaster rifle by 1 (to a minimum of [B]Simple [-][b]).</MiscDesc>
+        <MiscDesc>Уменьшите сложность проверки механики для ремонта тяжелого бластера BlasTech A280 C на 1 (до минимальной [B]Просто (-)[b]).</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGHVY</SkillKey>
@@ -229,12 +213,12 @@ a BlasTech A280 C heavy blaster rifle by 1 (to a minimum of [B]Simple (-)[b]).</
   </Weapon>
   <Weapon>
     <Key>A280CFEPISTOL</Key>
-    <Name>A280-CFE Convertible Heavy Blaster Pistol (Pistol Mode)</Name>
-    <Description>[H3]A280-CFE Convertible Heavy Blaster Pistol (Pistol Mode)[h3]
-The A280-CFE by BlasTech was designed during the Clone Wars for Galactic Republic intelligence agents. Based on the venerable A280, the CFE is sold as a heavy blaster pistol, albeit one with a few new tricks up its sleeve. A user can attach a number of accessories—a shoulder stock, longer precision barrel, multi-optic sight, gyrobalancer, etc.—to convert the pistol into a very serviceable sniper rifle. The pistol and accessories are sold as a package along with a sturdy, lockable reinforced polycarbonate carrying case. The A280's modular nature and versatility make the weapon easy to transport and conceal, an extremely attractive feature for agents and infiltrators.
-[P]A character can spend a maneuver to convert the CFE from pistol to rifle mode, or rifle to pistol mode. With the rifle accessories attached, the weapon's range becomes long, and it gains the Accurate 1 and Pierce 1 item qualities. Characters use the Ranged (Heavy) skill when firing the weapon in rifle mode.</Description>
+    <Name>A280-CFE Конвертируемый тяжелый бластерный пистолет (Режим пистолета)</Name>
+    <Description>[H3]A280-CFE Конвертируемый тяжелый бластерный пистолет (Режим пистолета)[h3]
+A280-CFE от BlasTech был разработан во время Войн клонов для агентов разведки Галактической Республики. Основанный на уважаемом A280, CFE продается как тяжелый бластерный пистолет, хотя и с несколькими новыми фишками. Пользователь может установить на него ряд аксессуаров - плечевой упор, удлиненный высокоточный ствол, мультиоптический прицел, гиробалансир и т. д. - чтобы превратить пистолет в очень удобную снайперскую винтовку. Пистолет и аксессуары продаются в комплекте с прочным, запирающимся чехлом из армированного поликарбона. Модульная конструкция и универсальность A280 делают это оружие легким для транспортировки и скрытого ношения, что чрезвычайно привлекательно для агентов и диверсантов.
+[P]Персонаж может потратить маневр, чтобы переключить CFE из "режима пистолета" в "режим винтовки" и наоборот. С установленными аксессуарами для винтовки дальность стрельбы оружия увеличивается, и оно приобретает качества Accurate 1 и Pierce 1. Персонажи используют навык "Дальний бой (тяжелое оружие)", когда стреляют из оружия в "режиме винтовки".</Description>
     <Sources>
-      <Source Page="38">Cyphers and Masks</Source>
+      <Source Page="38">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -260,18 +244,18 @@ The A280-CFE by BlasTech was designed during the Clone Wars for Galactic Republi
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>May spend a maneuver to convert to and from pistol and rifle mode.</MiscDesc>
+        <MiscDesc>Можно потратить маневр на переключение между режимами пистолета и винтовки.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>A280CFERIFLE</Key>
-    <Name>A280-CFE Convertible Heavy Blaster Pistol (Rifle Mode)</Name>
-    <Description>[H3]A280-CFE Convertible Heavy Blaster Pistol (Rifle Mode)[h3]
-The A280-CFE by BlasTech was designed during the Clone Wars for Galactic Republic intelligence agents. Based on the venerable A280, the CFE is sold as a heavy blaster pistol, albeit one with a few new tricks up its sleeve. A user can attach a number of accessories—a shoulder stock, longer precision barrel, multi-optic sight, gyrobalancer, etc.—to convert the pistol into a very serviceable sniper rifle. The pistol and accessories are sold as a package along with a sturdy, lockable reinforced polycarbonate carrying case. The A280's modular nature and versatility make the weapon easy to transport and conceal, an extremely attractive feature for agents and infiltrators.
-[P]A character can spend a maneuver to convert the CFE from pistol to rifle mode, or rifle to pistol mode. With the rifle accessories attached, the weapon's range becomes long, and it gains the Accurate 1 and Pierce 1 item qualities. Characters use the Ranged (Heavy) skill when firing the weapon in rifle mode.</Description>
+    <Name>A280-CFE Конвертируемый тяжелый бластерный пистолет (Режим винтовки)</Name>
+    <Description>[H3]A280-CFE Конвертируемый тяжелый бластерный пистолет (Режим винтовки)[h3]
+A280-CFE от BlasTech был разработан во время Войн клонов для агентов разведки Галактической Республики. Основанный на уважаемом A280, CFE продается как тяжелый бластерный пистолет, хотя и с несколькими новыми фишками. Пользователь может установить на него ряд аксессуаров - плечевой упор, удлиненный высокоточный ствол, мультиоптический прицел, гиробалансир и т. д. - чтобы превратить пистолет в очень удобную снайперскую винтовку. Пистолет и аксессуары продаются в комплекте с прочным, запирающимся чехлом из армированного поликарбона. Модульная конструкция и универсальность A280 делают это оружие легким для транспортировки и скрытого ношения, что чрезвычайно привлекательно для агентов и диверсантов.
+[P]Персонаж может потратить маневр, чтобы переключить CFE из "режима пистолета" в "режим винтовки" и наоборот. С установленными аксессуарами для винтовки дальность стрельбы оружия увеличивается, и оно приобретает качества Accurate 1 и Pierce 1. Персонажи используют навык "Дальний бой (тяжелое оружие)", когда стреляют из оружия в "режиме винтовки".</Description>
     <Sources>
-      <Source Page="38">Cyphers and Masks</Source>
+      <Source Page="38">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
@@ -305,7 +289,7 @@ The A280-CFE by BlasTech was designed during the Clone Wars for Galactic Republi
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>May spend a maneuver to convert to and from pistol and rifle mode.</MiscDesc>
+        <MiscDesc>Можно потратить маневр на переключение между режимами пистолета и винтовки.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
@@ -315,10 +299,10 @@ The A280-CFE by BlasTech was designed during the Clone Wars for Galactic Republi
     <Description>
       [H3]Czerka Arms A95 Stingbeam[h3]
 
-Small, easily-concealed energy weapons, stingbeams are among the smallest blasters available. Tiny enough to fit in the palm of the hand, stingbeams work along similar principles to a blaster, but instead of firing a beam of energized particles down a barrel, they focus the blast along a needle-like rod that protrudes between the user's fingers. Stingbeams can kill at close range, but their blasts quickly lose cohesion over distance.
+Небольшие, легко скрываемые энергетические оружия, Stingbeam являются одними из самых маленьких бластеров из существующих. Достаточно маленькие, чтобы поместиться на ладони, Stingbeam работают по принципу, схожему с бластером, но вместо того, чтобы стрелять лучом заряженных частиц из ствола, они фокусируют взрыв вдоль игольчатого стержня, который выступает между пальцами пользователя. Stingbeam могут убивать на близком расстоянии, но их взрывы быстро теряют силу на расстоянии.
 
-[P]Add [SE][SE] to a character's Perception checks to find a stingbeam on a person's body.</Description>
-    <Source Page="42">Fly Casual</Source>
+[P]Добавьте [SE][SE] к проверкам "Внимания" персонажа, чтобы найти Stingbeam на теле человека.</Description>
+    <Source Page="42">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -335,7 +319,7 @@ Small, easily-concealed energy weapons, stingbeams are among the smallest blaste
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add [SE][SE] to a character's Perception checks to find a stingbeam on a person's body.</MiscDesc>
+        <MiscDesc>Добавьте [SE][SE] к проверкам "Внимания" персонажа, чтобы найти Stingbeam на теле человека.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
@@ -355,12 +339,12 @@ Small, easily-concealed energy weapons, stingbeams are among the smallest blaste
   </Weapon>
   <Weapon>
     <Key>AB75BO</Key>
-    <Name>AB-75 Bo-Rifle</Name>
-    <Description>[H3]AB-75 Bo-Rifle (Ranged Mode)[h3]
-During the Republic, the Bo-Rifle was the ceremonial weapon of the Honor Guard of Lasan. These Lasat were impressive Warriors, and their bo-rifles were equally impressive. Designed to be used in both close quarters and at range, these weapons could quickly be converted from a high-powered blaster rifle to a double-headed staff. At each end of the staff, brilliant arcs of electricity crackled and spat. A skilled Lasat could use the electrified staff to shock opponents into submission; provided they hadn't bludgeoned them half to death first.
-[P]After the Empire invaded Lasan and wiped out the population, some high-ranking officers took these weapons as trophies. These days, the only place one is likely to find a bo-rifle is in the collection of some Imperial commander.
-[P]As a maneuver, the user can convert the bo-rifle from its ranged mode to melee mode. A bo-rifle requires two hands to wield.</Description>
-    <Source Page="46">Unlimited Power</Source>
+    <Name>Бо-винтовка AB-75 (AB-75 Bo-Rifle)</Name>
+    <Description>[H3]Бо-винтовка AB-75 (Режим стрельбы)[h3]
+Во времена Республики бо-винтовка была церемониальным оружием почетного караула Ласана. Ласаты были впечатляющими воинами, и их бо-винтовки были не менее впечатляющими. Разработанные для использования как в ближнем бою, так и на дальних дистанциях, эти оружия могли быстро превращаться из мощных бластерных винтовок в двусторонние посохи. На каждом конце посоха сверкали и искрились яркие электрические дуги. Опытный ласат мог использовать электрифицированный посох, чтобы оглушить противников и заставить их подчиниться, если, конечно, он не забил их до полусмерти.
+[P]После того как Империя вторглась на Ласан и уничтожила его население, некоторые высокопоставленные офицеры забрали это оружие в качестве трофеев. В наши дни единственное место, где можно найти бо-винтовку, - это коллекция какого-нибудь имперского командира.
+[P]В качестве маневра пользователь может переключить бо-винтовку из "режима стрельбы" в "режим ближнего боя". Для использования бо-винтовки требуются две руки.</Description>
+    <Source Page="46">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -385,12 +369,12 @@ During the Republic, the Bo-Rifle was the ceremonial weapon of the Honor Guard o
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>As a maneuver, may convert the bo-rifle to melee mode.</MiscDesc>
+        <MiscDesc>В качестве маневра пользователь может переключить бо-винтовку из "режима стрельбы" в "режим ближнего боя".</MiscDesc>
       </Mod>
     </BaseMods>
     <WeaponModifiers>
       <WeaponModifier>
-        <UnarmedName>AB-75 Bo-Rifle (Melee Mode)</UnarmedName>
+        <UnarmedName>Бо-винтовка AB-75 (AB-75 Bo-Rifle) (Режим ближ. боя)</UnarmedName>
         <SkillKey>MELEE</SkillKey>
         <DamageAdd>3</DamageAdd>
         <Crit>4</Crit>
@@ -410,14 +394,14 @@ During the Republic, the Bo-Rifle was the ceremonial weapon of the Honor Guard o
   </Weapon>
   <Weapon>
     <Key>ACML</Key>
-    <Name>Assault Concussion Missile Launcher</Name>
+    <Name>Ракетная установка с ударной ракетой (Assault Concussion Missile Launcher)</Name>
     <Description>
-      [H3]Assault Concussion Missile Launcher[h3]
+      [H3]Ракетная установка с ударной ракетой[h3]
 
-The assault concussion missile is a capital ship grade concussion missile in use by capital ships. Exponentially more powerful than smaller versions commonly used on starfighters, these heavy missiles are primarily used for planetary bombardment and anti-capital ship duty.
+Ударная ракета - это ракета ударного типа, используемая на крупных кораблях. Эти тяжелые ракеты, которые по мощности в разы превосходят более компактные версии, обычно используемые на звездных истребителях, в основном применяются для бомбардировки планет и борьбы с капитальными кораблями.
 
-[P]A standard assault concussion missile could severely damage a capital ship, with rarely more than a handful being needed to destroy a target completely.</Description>
-    <Source Page="188">Age of Rebellion Beta Rulebook</Source>
+[P]Стандартная ударная ракета может нанести серьезный ущерб крупному кораблю, и для полного уничтожения цели редко требуется более нескольких ракет.</Description>
+    <Source Page="188">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Missile</Category>
@@ -467,8 +451,8 @@ The assault concussion missile is a capital ship grade concussion missile in use
     <Description>
       [H3]ACP Array Gun[h3]
 
-A favorite weapon of pirates, the somewhat crude-looking Arakyd Accelerated Charged Particle Array Gun is a short-range blaster useful for clearing the halls and corridors of starships. With a specialized galven coil and prismatic crystal array at the end of the actuating module, blasts from an ACP Array split into a wide spray pattern on exiting the barrel. Though only effective at short ranges, in the narrow passageways and closed spaces of a starship, these weapons can be devastating and are frequently employed by shock troops and pirates during boarding actions. </Description>
-    <Source Page="42">Dangerous Covenants</Source>
+Любимое оружие пиратов, несколько грубоватый на вид разогнанный бластер с массивом заряженных частиц Arakyd - это бластер ближнего действия, полезный для очистки залов и коридоров звездолетов. Благодаря специальной гальванической катушке и призматическому кристаллическому массиву на конце приводного модуля, выстрелы из ACP рассеиваются в широком диапазоне при выходе из ствола. Хотя это оружие эффективно только на коротких дистанциях, в узких проходах и закрытых помещениях звездолета оно может наносить сокрушительный урон и часто используется штурмовыми отрядами и пиратами при абордаже.</Description>
+    <Source Page="42">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -513,8 +497,8 @@ A favorite weapon of pirates, the somewhat crude-looking Arakyd Accelerated Char
     <Description>
       [H3]Arakyd Industries ACP Repeater Gun[h3]
 
-The Accelerated Charged Particle repeater gun is a medium range blaster carbine capable of laying down a tremendous field of fire. Designed prior to the Clone Wars for use in urban and close combat firefights, the weapon was deemed underpowered for general use and saw limited assignment to commandos and other specialized units. However, the ACP repeater gun has enjoyed success in the private market, particularly among criminals, who appreciate the weapon's ability to spray a small area with bolts of deadly charged particles. So popular is the ACP repeater gun among Trandoshan mercenaries and Gank killers that it is often referred to as the "Trandoshan Chopper" or "Nar Shaddaa Grinder."</Description>
-    <Source Page="100">Lords of Nal Hutta</Source>
+Ускоренный пистолет с репиатером - это карабин средней дальности, способный создавать огромное поле огня. Разработанный до Войн клонов для использования в городских и ближних боях, этот пистолет был признан недостаточно мощным для общего использования и ограниченно применялся в коммандос и других специализированных подразделениях. Однако оружие ACP пользуется успехом на частном рынке, особенно среди преступников, которые ценят его способность обстреливать небольшую площадь смертоносными заряженными частицами. Оружие ACP настолько популярно среди наемников-трандошан и убийц-ганков, что его часто называют "трандошанским чоппером" или "вертушкой Нар-Шаддаа".</Description>
+    <Source Page="100">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
     <Damage>7</Damage>
@@ -643,7 +627,7 @@ the 'aKraB clip-point vibrodagger to slip between the
 armor plates of big game, allowing for up-close precision kills. Engineered to penetrate thick, armored
 hides, the vibrodagger’s ability to penetrate laminate
 armor with ease makes it perfect for taking out stormtroopers silently.</Description>
-    <Source Page="48">Forged in Battle</Source>
+    <Source Page="48">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -704,7 +688,7 @@ Some say the earliest precursors to the Jedi wielded true swords, not lightsaber
     <Key>ANTIAIR</Key>
     <Name>Anti-Air Rockets</Name>
     <Description>[H3]Anti-Air Rockets[h3]</Description>
-    <Source Page="62">Forged in Battle</Source>
+    <Source Page="62">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories />
@@ -735,7 +719,7 @@ Some say the earliest precursors to the Jedi wielded true swords, not lightsaber
     <Key>ANTIPERSLASER</Key>
     <Name>Anti-Personnel Laser</Name>
     <Description>[H3]Anti-Personnel Laser[h3]</Description>
-    <Source Page="62">Forged in Battle</Source>
+    <Source Page="62">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories />
@@ -908,7 +892,7 @@ Simple, deadly weapons deployed by countless military and paramilitary forces th
 Based on the traditional Camorrean war ax, the Arg'garok is a massive vibro-ax capable of inflicting horrific wounds. Favored by Camorrean warriors, these weapons are heavy and ungainly, measuring a meter and a half in length and requiring tremendous strength to properly wield in combat. In spite of the weapons' association with Gamorreans, Arg'garoks are highly valued as prestige weapons and can occasionally be found in the hands of Barabels or Houks in the employ of the Hutt kajidics—more physical and belligerent Hutts might even brandish such weapons themselves.
 
 [P]The Arg'garok requires two hands to wield.</Description>
-    <Source Page="103">Lords of Nal Hutta</Source>
+    <Source Page="103">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Cutting Edge Melee</Category>
@@ -949,7 +933,7 @@ The average sentient being can pick out visual details up to three kilometers aw
 [P]Since heavy industry never took hold on Sembla, Vurk sharpshooters still favor slugthrowers. Most famous is the arquebus, an older design kept current by skilled crafters. In its original form, the weapon was little more than a metal tube filled with explosive powder. Over time, sumptuous wooden stocks to brace against the shoulder became standard. The design became more streamlined and reliable as time went on. Modern versions are works of art unto themselves, often featuring intricate obsidian inlays.
 [P]Accurate at extreme distances, the weapon is well suited to patient aiming. A Vurk soldier's most devastating shots are the ones arranged with the most precision. Skeptics have long since explained this away in mundane ways. Longer prep time leads to steadier hands. Calculations of wind resistance are more accurate with more observation. Despite this, Vurk sages insist on a deeper meaning. The best sharpshooters never care about the odds. They trust in the will of the Force, and the Force guides their hands.
 [P]As a maneuver, a character wielding an arquebus may suffer up to 5 strain. The PC's next combat check with the arquebus gains Pierce with a rating equal to the strain suffered.</Description>
-    <Source Page="47">Unlimited Power</Source>
+    <Source Page="47">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
     <Categories>
@@ -989,7 +973,7 @@ The average sentient being can pick out visual details up to three kilometers aw
 Named after the binary star system from where they supposedly originated, Ascian daggers are finely weighted and balanced for throwing. Crafted of durasteel and honed to a mono-molecular edge, these blades are deadly in the hands of a skilled user.
 
 [P]When making an attack with an Ascian throwing dagger, a character does not increase the difficulty of the check for being engaged with his target as normal. The user adds his Brawn to the listed value (+ 1) to determine the damage dealt with this weapon.</Description>
-    <Source Page="45">Fly Casual</Source>
+    <Source Page="45">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -1030,7 +1014,7 @@ Like the Bo-Rifle, Ashla Staffs were one of the many items plundered by the Empi
 [P]Before the Fall of Lasan, many were quick to equate the Ashla Staff to a Jedi's lightsaber. This would not, by and large, be an accurate comparison. An Ashla Staff's construction might reflect on its owner in a similar way, but that would be the full extent of similarities. The staff might be tall and spry, or gnarled and bent. A Revered Master might fashion it from a single branch, once gifted to them by a Tholothian dignitary. What united these tools was their connection to Lasat mysticism. Among other qualities, they gave strength to Revered Masters during particularly grueling rituals.
 [P]These vibrant cultural expressions have become rare under the Empire. The Revered Masters who survived the Fall of Lasan have since passed on or disappeared. Some bequeathed their staffs to their descendants. Others sold them while fleeing the Empire. Many who own these implements now know little of their original purpose. All they know is that a mysterious power seems to flow through them. There is a flicker of destiny in everything the staff touches.
 [P]While wielding an Ashla Staff and making a Force power check, a player may spend 3 strain to add [LI] to the results.</Description>
-    <Source Page="49">Unlimited Power</Source>
+    <Source Page="49">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -1062,7 +1046,7 @@ Like the Bo-Rifle, Ashla Staffs were one of the many items plundered by the Empi
 This slugthrower offering from a relatively obscure manufacturer is notable for its high rate of fire. While certainly an effective weapon, its biggest advantage is perhaps also its greatest downfall, as the automatic weapon's high fire rate highlights the problems of ammunition capacity inherent in all slugthrower weapons. In order to make use of the weapon during any sort of extended engagement or operation, the user must weigh himself down with large quantities of ammunition, and reload often.
 
 The GM may spend [TH][TH] to cause a PC's assault carbine to run out of ammo.</Description>
-    <Source Page="45">Dangerous Covenants</Source>
+    <Source Page="45">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
     <Categories>
@@ -1144,7 +1128,7 @@ a base’s power grid or a similarly-sized generator), this
 weapon loses the Limited Ammo 8 quality. Wiring the
 weapon into a power source requires several minutes
 and an [B]Easy ([DI]) Mechanics check[b].</Description>
-    <Source Page="45">Forged in Battle</Source>
+    <Source Page="45">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -1356,7 +1340,7 @@ Baradium is one of the most dangerous and volatile explosives used in demolition
 
 [P]Baradium weapons deal damage on planetary scale, but their blast radius is measured in personal scale. If the demolitionist generates [DE] when setting up the device, it detonates immediately, dealing the device's damage (base plus additional damage) to everything in the current blast radius. Anything engaged with the device when it detonates should add +50 to any subsequent critical injury or critical hit rolls.</Description>
     <Sources>
-      <Source Page="55">Dangerous Covenants</Source>
+      <Source Page="55">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="41">Fully Operational</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -1537,7 +1521,7 @@ The standard beamdrill used by Corellia Mining Corporation, the J-7b has been in
       [H3]Berserker Rifle[h3]
 The berserker rifle was originally a custom weapon commonly used by bounty hunters in the Outer Rim and Unknown Regions. It gets its name from a misunderstood colloquial mish-mash of terms refering to bothe the lightning-jacks and blind  berserkers of the Stratos Distribution. Hundreds of years after its inception, a handful of weapons developers like Arakyd Industriesz Zoltan Arms, and even Imperial Munitions manufacture a variety of models.
 [P]At its core, the berserker rifle operates like a scaled-down version of the Wookiee bowcaster, using magnetic accelerator to stabilize and fire charged micro-slugs at incredible velocities. The weapon differs from the bowcaster by electrifying the slugs rather than encasing them in ionic particles, which has the potential to electrocute the ttarget, wracking them convulsions and possibly even igniting flammable articles of clothing or equipment.</Description>
-    <Source Page="46">Forged in Battle</Source>
+    <Source Page="46">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
     <Categories>
@@ -1623,7 +1607,7 @@ The BKX-4 is one of a number of grenades built by Baktoid Personal Ordnance, a s
       [H3]Blade-Breaker[h3]
 
 Designed to be used in conjunction with a vibrosword or other melee weapon, the blade-breaker is typically a small, serrated vibroblade or pronged dagger capable of catching and possibly even breaking an opponent's melee weapon. Equipped with an ultrasonic generator in the handle to increase the weapon's ability to shatter durasteel, a blade-breaker can quickly leave an opponent unarmed and at the mercy of its wielder.</Description>
-    <Source Page="46">Fly Casual</Source>
+    <Source Page="46">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -1661,7 +1645,7 @@ Designed to be used in conjunction with a vibrosword or other melee weapon, the 
       [H3]Greff-Timms ATA Pulse-Wave Blaster[h3]
 
 These ancient weapons were state-of-the-art thousands of years ago, prior to the development of the modern blaster. Operating on the same basic principle as a blaster, the pulse-wave blaster fires a short beam of intense energy at its target. However, this energy tends to dissipate quickly, making its effective range quite short. The destabilizing molecular effect produced by these weapons is similar to that of disruptors, resulting in particularly vicious wounds. While generally considered archaic, some rogues and criminals still appreciate the pulse-wave blaster's unpleasant capacity for mayhem.</Description>
-    <Source Page="100">Lords of Nal Hutta</Source>
+    <Source Page="100">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
     <Damage>5</Damage>
@@ -1697,7 +1681,7 @@ These ancient weapons were state-of-the-art thousands of years ago, prior to the
 Named after the legendary hero Boonta the Hutt, who allegedly carried a similar weapon, these specialized holdout blasters typically appear to be nothing more than ornate and ostentatious pieces of jewelry. Custom-made to the taste of individual Hutts, these garish blasters pack enough firepower to ensure that any would-be assassin who gets past the wearer's bodyguards does not live long enough to remain a threat. Some of these weapons are treasured family heirlooms, passed down from one Hutt to another for many generations.
 
 [P]Add [SE] to Perception checks to find a Boonta Blaster on a wearer's body. Remove [SE] from the wearer's Deception checks to explain away the weapon as purely ornamental or otherwise non-threatening. </Description>
-    <Source Page="100">Lords of Nal Hutta</Source>
+    <Source Page="100">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
     <Damage>6</Damage>
@@ -2174,7 +2158,7 @@ These anti-droid weapons work by combining the power pack of a blaster rifle wit
       [H3]Weequay Blaster Lance[h3]
 
 Designed for use in the endless expanse of white sand deserts on Sriluur, these unusual blasters have exceptionally long barrels, some nearly two meters in length. While not the most powerful blasters available, the particularly long range of these weapons makes them ideal for hunting in the desolate wastes and for desert warfare, in which enemies can be spotted at a great distance. Though blaster lances are somewhat cumbersome, many Weequay nonetheless carry them for their ability to hit virtually anything visible under the light of Quay.</Description>
-    <Source Page="100">Lords of Nal Hutta</Source>
+    <Source Page="100">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
     <Damage>8</Damage>
@@ -2932,7 +2916,7 @@ The Corellian Arms SKZ Sporting Blaster is a popular civilian weapon used for hu
 This unusual weapon consists of a heavy, armored glove incorporating what amounts to a light blaster pistol on the back of the wearer's hand. Impact-sensitive plating across the knuckles fires the blaster when the wearer lands a punch, delivering a devastating blast. While these weapons are undeniably effective, they are also dangerous for the wielder. Despite the fact that the impact-plating supposedly also shields the user, only the very brave or very reckless embrace the idea of a blaster impact just scant centimeters from their fingers. Even the toughest fighters can only withstand repeated blaster impacts on their knuckles for so long.
 
 [P]When using blast knuckles, every successful hit inflicts 1 strain on the wielder (in addition to any strain suffered due to check results). Blast knuckles cannot deal damage to a target's strain threshold.</Description>
-    <Source Page="48">Dangerous Covenants</Source>
+    <Source Page="48">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Brawling</Type>
     <Categories>
@@ -2984,7 +2968,7 @@ This unusual weapon consists of a heavy, armored glove incorporating what amount
 Of all viruses, epidemiologists most fear one strain: the blue shadow virus. The waterborne virus was long touted as the galaxy's most virulent agent. Incidents involving it also proved it to be the deadliest. Decades before the Clone Wars, outbreaks sent panic across dozens of systems. Worst of them all was the Candorian Scourge, claiming millions of lives in only 48 hours.
 [P]By the time of the Clone Wars, proper containment had eradicated the disease in the wild. Separatist scientists, inspired by the Scourge, re-engineered captive strains into a terrifying bio-weapon. Schematics recovered by the Jedi claim it to be airborne and almost incurable. While the Empire did its best to bury the plans, dissidents managed to leak them after a raid on the Jedi archives. From an official standpoint, the Rebellion condemns its use. From a practical standpoint, some of the more vicious cells have built them in secret. Luckily for the galaxy in general, nobody has yet managed to replicate the true danger of the blue shadow virus. However, some depraved individuals have managed to retro-engineer a fast-acting variant that dies off quickly but can kill scores of individuals before it vanishes.
 [P]When a blue shadow grenade detonates, all targets that suffer at least one wound from the grenade-or are within medium range of the detonation while not wearing a rebreather, sealed armor, or other form of environmental protection-must make a [B]Formidable ([DI][DI][DI][DI][DI]) Resilience check[b]. Targets suffer 2 wounds and 2 strain per [TH], and a Critical Injury with a + 50 modifier they fail the check. [DE] means that they must make the check again at the start of their next turn as the virus runs rampant through their system.</Description>
-    <Source Page="48">Unlimited Power</Source>
+    <Source Page="48">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Thrown</Type>
     <Categories />
@@ -3387,7 +3371,7 @@ The BT X-42 heavy flame projector, from BlasTech, is one of the most destructive
     <Description>[H3]Czerka Arms C-10 "Dragoneye Reaper" Heavy Blaster Pistol[h3]
 
 Based on a custom made design by the infamous bounty hunter Dragoneye, Czerka Arms C-10 heavy blaster pistol has become a popular sidearm for bounty hunters, smugglers, and other (ringers who value firepower over subtlety. Larger than most other heavy blasters, the Dragoneye Reaper is nearly as lethal as some blaster rifles, and users can easily modify it to suit their needs. While Czerka owns the rights to the Dragoneye Reaper, Caliban's Model X and SoroSuub "Renegade' heavy blaster pistols share many design elements and bear a striking resemblance to the C-10.</Description>
-    <Source Page="43">Fly Casual</Source>
+    <Source Page="43">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -3812,7 +3796,7 @@ Concussion grenades are powerful hand-held bombs that release a debilitating sho
 
 [P]If the user activates a concussion grenade's Disorient quality, the Disorient quality affects all characters at short range from the target (even if they are not damaged by the weapon).</Description>
     <Sources>
-      <Source Page="46">Dangerous Covenants</Source>
+      <Source Page="46">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="44">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -3883,8 +3867,8 @@ Like their hand-held grenade counterparts, concussion missiles unleash a powerfu
 
 [P]If the user activates a concussion missile's Disorient quality, the Disorient quality affects all characters at short range from the target (even if they are not damaged by the weapon). If the user activates a concussion missile's Concussive quality, the Concussive quality affects all characters engaged with the target (even if they are not damaged by the weapon).</Description>
     <Sources>
-      <Source Page="42">Dangerous Covenants</Source>
-      <Source Page="46">Dangerous Covenants</Source>
+      <Source Page="42">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
+      <Source Page="46">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -4326,7 +4310,7 @@ Produced by SoroSuub and popular with many Sullustan members of the Rebel Allian
 Small, lightweight, and easily concealed, BlasTech's CS14 is one of the galaxy's premier personal defense blasters. One of the smallest blaster pistols on the market, the CS14 is marketed primarily to detectives, investigators, and other individuals who need a powerful yet easy-to-conceal weapon for daily carry. Roughly the size and weight of a standard holdout blaster, the CS14 is built using lightweight polycarbonates and sensor-proof alloys. This makes the weapon nearly invisible to most common weapon scanners. On an individual with the right holster and clothing, it is very difficult to detect without an extremely thorough search. Since its introduction, state intelligence agencies throughout the galaxy have adopted the CS14 as a standard-issue weapon for field agents.
 [P]Finding a CS14 on an individual requires a [B]Daunting ([DI][DI][DI][DI]) Perception check[b]. A character must make a [B]Daunting ([DI][DI][DI][DI]) Computers check[b] to find the CS14 with a weapon scanner. The difficulty of the latter check can be reduced by one or two levels at the Game Master's discretion, depending on the type of scanner being used and the attentiveness of the operator.</Description>
     <Sources>
-      <Source Page="38">Cyphers and Masks</Source>
+      <Source Page="38">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -4383,7 +4367,7 @@ range. Further, the weapon becomes damaged two
 steps; from undamaged to Moderate, Minor to Major, or
 Moderate to Major (see page 172 of the [B]Age of Rebellion[b] Core Rulebook).The GM may spend additional [DE]
 to trigger one of the loaded grenade’s qualities.</Description>
-    <Source Page="47">Forged in Battle</Source>
+    <Source Page="47">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -4455,7 +4439,7 @@ Traditionally granted to Corellian naval officers upon being promoted from ensig
       [H3]CZ-28 Flamestrike[h3]
 
 A direct and blatant copy of the Merr-Sonn CR-28 flame cannon, the CZ-28 Flamestrike heavy weapon is a powerful flame projector with an effective range double that of standard flame projectors. This weapon is also about twice the size and weight of an ordinary flame projector, and as such is usually vehicle-mounted. However, individuals with the strength to wield it find few weapons as deadly and terrifying to their foes as a CZ-28 Flamestrike.</Description>
-    <Source Page="45">Dangerous Covenants</Source>
+    <Source Page="45">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -4513,7 +4497,7 @@ A direct and blatant copy of the Merr-Sonn CR-28 flame cannon, the CZ-28 Flamest
       [H3]SakTek D-29 Repulsor Rifle[h3]
 
 Manufactured by the Sakiyan corporation SakTek, this unusual personal weapon uses a repulsor generator to blast its target with a wave of concussive force. Employing essentially the same technology as a tractor beam, the D-29 fires an invisible ray of electromagnetic energy that violently pushes a target away, knocking down, disorienting, and stunning creatures without directly causing any serious lasting damage.</Description>
-    <Source Page="102">Lords of Nal Hutta</Source>
+    <Source Page="102">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>GUNN</SkillKey>
     <Damage>8</Damage>
@@ -4669,7 +4653,7 @@ These shaped detonite charges are favored for sabotage missions and clandestine 
       [H3]Detonite Charge[h3]
 Detonite is a powerful explosive used for demolitions work—and for sabotage. A detonite charge is not a weapon per se, and is not intended for use in combat situations. However, detonite charges are often used to set traps, and some sentients mine the site of an expected confrontation to gain the advantage. Detonite requires a trigger mechanism to set off, and each charge comes with a simple trigger that can be detonated via comlink or timer (times can be from one hour to one second).</Description>
     <Sources>
-      <Source Page="55">Dangerous Covenants</Source>
+      <Source Page="55">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="41">Fully Operational</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -4753,7 +4737,7 @@ Rebel marines often install a spread barrel modification to make it a deck sweep
 as the DH-17 short carbine. That, combined with the
 DH-17 carbine's auto-fire capabilities, allows troopers
 to blanket an entire starship corridor with blaster fire.</Description>
-    <Source Page="43">Forged in Battle</Source>
+    <Source Page="43">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -4826,7 +4810,7 @@ Blurring the line between blaster pistol and blaster carbine, the DH-17c short c
       [H3]DH-X Heavy Blaster Rifle[h3]
 
 The DH-X from BlasTech is a powerful weapon favored by mercenary soldiers with an appreciation for heavy weaponry. Amongst the largest heavy blaster rifles manufactured by BlasTech, the DH-X can drop most targets with a single shot. However, the power increase means a slower rate of fire. As such, the DH-X fills an important niche between blaster rifles and repeating blasters.</Description>
-    <Source Page="43">Dangerous Covenants</Source>
+    <Source Page="43">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -5001,7 +4985,7 @@ a specialized actuating module that processes a much higher volume of blaster ga
 These weighty, deadly pistols are a favorite of both smugglers and mercenaries. Powerful enough to punch straight through laminate armor, the DL-7H's reputation is well-deserved. In fact, the weapon packs so much power into a pistol that many worlds with otherwise lax blaster regulations have outlawed it. In order to boost damage, the DL-7H draws heavily from its power cell, draining it quickly. Another effect of the weapon's unique power draw is its lack of a stun setting.
 
 [P]The GM may spend [TH][TH] to cause a Player Character's DL-7H to run out of ammo.</Description>
-    <Source Page="41">Dangerous Covenants</Source>
+    <Source Page="41">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -5755,7 +5739,7 @@ Less a weapon than a device for mischievous pranksters, the energy slingshot is 
 In appearance and function, this useful tool is little more than a small shovel or spade, though common military versions feature a collapsible or foldable shaft for compact storage. Soldiers across the galaxy use this ubiquitous device to dig latrines, foxholes, and other makeshift entrenchments, and occasionally to neutralize alien fauna. Though the design seems simple, the edge of an entrenching tool is razor-sharp and made from hardened durasteel, making it a dangerous weapon.
 
 [P]Besides allowing the user to dig holes and entrenchments, the Imperial Army Entrenching Tool counts as a small improvised weapon that deals +2 damage instead of + 1, has a Crit Rating of 4, and does not break due to [DE] or [TH].</Description>
-    <Source Page="59">Dangerous Covenants</Source>
+    <Source Page="59">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories />
@@ -5844,7 +5828,7 @@ The FC1 is representative of most shoulder-braced flechette launchers. This bulk
 [P]Before firing the FC1, the firer must use the scope's built-in range finder to program a detonation range approximately 10 meters in front of the target for ideal dispersal of flechettes. This guarantees he hits the target with the blast. The anti-vehicle rounds of a flechette launcher have a much narrower spread, making them highly inaccurate against small targets. When used against targets of silhouette 1 or smaller and firing anti-vehicle rounds, the weapon gains the Inaccurate 3 quality.
 
 [P]An FC1 may be loaded with anti-personnel or anti-vehicle rounds, and can fire a total of four shots. Some mercenaries tend to load the FC1 with a mix of both, so that they can respond to any situation. In this case, the character should note what his weapon is loaded with, and use the appropriate profile with each shot. He still has to track total shots as per the Limited Ammo quality.</Description>
-    <Source Page="45">Dangerous Covenants</Source>
+    <Source Page="45">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -5920,7 +5904,7 @@ The FC1 is representative of most shoulder-braced flechette launchers. This bulk
 [P]Before firing the FC1, the firer must use the scope's built-in range finder to program a detonation range approximately 10 meters in front of the target for ideal dispersal of flechettes. This guarantees he hits the target with the blast. The anti-vehicle rounds of a flechette launcher have a much narrower spread, making them highly inaccurate against small targets. When used against targets of silhouette 1 or smaller and firing anti-vehicle rounds, the weapon gains the Inaccurate 3 quality.
 
 [P]An FC1 may be loaded with anti-personnel or anti-vehicle rounds, and can fire a total of four shots. Some mercenaries tend to load the FC1 with a mix of both, so that they can respond to any situation. In this case, the character should note what his weapon is loaded with, and use the appropriate profile with each shot. He still has to track total shots as per the Limited Ammo quality.</Description>
-    <Source Page="45">Dangerous Covenants</Source>
+    <Source Page="45">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -5985,7 +5969,7 @@ The FC1 is representative of most shoulder-braced flechette launchers. This bulk
       [H3]Felebreck Droid Disabler[h3]
 
 Produced by Felebreck Electrical Defense Systems, the Droid Disabler is a small but powerful ionization pistol intended to damage, rather than merely incapacitate, droids. Though ineffective at anything but very short ranges, the massive ion blast emitted by a Droid Disabler can permanently fuse the circuits of virtually any unshielded droid, leaving it nothing more than a heap of lifeless scrap. Though devastating to droids and cybernetics, the ion blast doesn't harm living tissue. Due to the compact size of the energy cell and the large power requirements of the weapon, the Droid Disabler can only be fired a few times before the energy pack needs to be replaced. </Description>
-    <Source Page="44">Fly Casual</Source>
+    <Source Page="44">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -6110,7 +6094,7 @@ Merr-Sonn's "Firecaller" model flame projectors have inspired almost as much fea
       [H3]Model C "Fiver" Pistol[h3]
 
 The Xet Model C incorporates a five-round internal cylinder magazine. Even by the standards of slugthrowers, this weapon is time-consuming to reload, as each high-caliber round must be inserted individually. Yet despite its limitations, the Model C is popular with some Hired Guns who find an aesthetic pleasure in its unusual operation. It must be said that the Model C is a dangerous weapon, at least for a slugthrower, with high stopping power due to its large-bore chamber. However, a combatant wielding a Model C must make every shot count if he hopes to triumph over an enemy with a more sophisticated weapon. Most consider this weapon a curiosity at best, a museum piece at worst.</Description>
-    <Source Page="45">Dangerous Covenants</Source>
+    <Source Page="45">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
     <Categories>
@@ -6484,7 +6468,7 @@ A great variety of grenades can be found throughout the galaxy, from hand-made e
 
 Designed for use against infantry rather than vehicles, a fragmentation missile functions much like a typical frag grenade, scattering shards of metal over a wide area, shredding tissue and shattering bone. Frag missiles are absolutely deadly to unarmored or lightly armored targets, and pose a considerable threat even to those protected by battle armor.</Description>
     <Sources>
-      <Source Page="42">Dangerous Covenants</Source>
+      <Source Page="42">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="46">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -6819,7 +6803,7 @@ These handheld, portable cutting torches are found throughout the galaxy in nume
       [H3]FWG-5 Flechette Pistol[h3]
 
 Manufactured by Malaxan Firepower Incorporated, the FWG-5 is a smaller, pistol-sized improvement on flechette launchers made by larger firms such as Golan Arms and the Salus Corporation. Firing a small canister or pellet filled with scores of tiny needle-like darts known as flechettes, the FWG-5 is a lethal and terrifying weapon. Effective even against armored targets, the pellets explode with tremendous energy upon hitting from their target, propelling the flechettes to tremendous speeds. Additionally, a laser-tracking system built into the weapon guides the pellets to their targets, allowing them to make minor adjustments in flight before showering their victims with a hail of deadly flechettes. Though outlawed in many systems, more than a few Smugglers keep an FWG-5 handy at all times.</Description>
-    <Source Page="44">Fly Casual</Source>
+    <Source Page="44">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
     <Categories>
@@ -6959,7 +6943,7 @@ The Tusken Raiders of Tatooine carry brutal staves made from desert tracti hardw
 The garrote has been the go-to weapon for quiet assassinations for millennia. An extremely simple and deceptively lethal weapon, a garrote is a length of cord or cable with a handle often attached at each end. The cable is wrapped around a target's throat and the handles are pulled tight at the back of the neck, cutting off air and either knocking out or suffocating the target. Garrotes are easy to conceal and can even be made in the field with readily available materials.
 [P]A character who makes a successful Brawl attack when using a garrote against a target can cause that target to become suffocated. Targets may attempt to break free of a garrote with an [B]opposed Brawl vs. Brawl check[b], adding [SE] for each round they have been caught.</Description>
     <Sources>
-      <Source Page="40">Cyphers and Masks</Source>
+      <Source Page="40">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>BRAWL</SkillKey>
@@ -7191,7 +7175,7 @@ Commonly thought of as tools for climbing or lifting cargo, the weapons division
 The Z50 from Malaxan Firepower Incorporated is a powerful weapon that can be readily handled by a single user. A grenade launcher fires explosive projectiles that have power equivalent to hand grenades. While less powerful and without the firing options of a missile tube, the Z50 is also much lighter and can be carried more easily. The grenades are also smaller, allowing smaller weapons to carry the same or more shots.
 
 [P]The listed price does not include ammunition. Grenades for a grenade launcher cost the same as equivalent hand grenades, though many merchants offer a 50 percent discount on cases of six. The weapon can fire any grenade, although the grenade launcher projectiles are different than hand grenades (grenade launcher projectiles also cannot be thrown, they must be fired from the grenade launcher). The character should specify what type of grenades he wants when purchasing them. The listed profile for the grenade launcher represents the weapon loaded with standard frag grenades (see the [B]Edge of the Empire[b] Core,Rulebook, page 160).</Description>
-    <Source Page="42">Dangerous Covenants</Source>
+    <Source Page="42">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -7596,7 +7580,7 @@ A hand grinder uses a rotating wheel coated with rough material to polish down s
       [H3]Herloss HBt-4 Hunting Blaster[h3]
 
 Larger and heavier than most other sporting blaster rifles, the Herloss HBt-4 hunting blaster packs a very heavy punch for a civilian blaster. Designed for hunting big game and the large, aggressive predators of the Outer Rim, the HBt-4 forgoes the long range of many sporting rifles in favor of a more concentrated blast that disperses relatively quickly. The HBt-4 is most commonly found on rough terrain or tropical worlds with heavy vegetation, where its shorter range is not a handicap. The hunting blaster has also found a place aboard some light freighters where its ready firepower provides an extra sense of security.</Description>
-    <Source Page="44">Fly Casual</Source>
+    <Source Page="44">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -7633,7 +7617,7 @@ Larger and heavier than most other sporting blaster rifles, the Herloss HBt-4 hu
 By the last days of the Clone Wars, most war materiel hewed to a handful of standards: blasters locked in drab plasteel chassis, formless body armor removing all soldiers' individuality. Tholoth, having prided itself on its cosmopolitan aesthetic for centuries, struggled with these developments. Their Defense Forces generally used imported materiel. It was more practical and more efficient, but it also carried an air of menace. To the Tholothians, clone troopers carried a sense of being eager to fire on any who stepped out of line.
 [P]Tholothian Defense Forces solved this tension with the development of their own weaponry. Weaponsmiths incorporated heartwood, a plant native to Tholoth, into unique weapons. These heartwood blasters were as much an aesthetic statement as they were deadly. The wooden chassis harkens back to the Tholoth seedpod practice-a reminder of the community to which the wielder belongs. Like Tholothian society in general, this sentiment reaches across the division of species. Anyone who wields a heartwood blaster can find comfort in remembering their home.
 [P]When wielding a heartwood blaster, a character may suffer strain up to their Force rating as a maneuver. If they do, they add an equal number of automatic [AD] to the next combat check they make that turn.</Description>
-    <Source Page="46">Unlimited Power</Source>
+    <Source Page="46">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -7729,7 +7713,7 @@ This big cannon throws a solid durasteel penetrator at hypersonic speeds over ex
       [H3]Imperial Heavy Repeater[h3]
 A suppression fire and crowd control weapon used by the Imperial Army, the Imperial heavy repeater fires ionized bursts of metallic bolts at an incredibly rapid rate. However, the rifle does have an alternate firing mode that allows the wielder to disengage the safeties unleashing a volley that catches multiple targets within a minor concussive blast. Its effectiveness even prompted Trandoshan mercenaries and other third-party arms manufactureers to create custom rifles fashioned after the Imperial heavy repeater for their own purposes.
 [P]As a maneuver, a character wielding an Imperial heavy repeater may prime the weapon to ecpend all of its emmunition in a single, devastating burst. The next time the weapon is fired this encounter, it counts as having the Blast 7 and Concussive 1 qualities but does not count as having the Auto-fire quality. After being discharged this way, the weapon runs out of ammunition (see page 172 of the [B]Age of Rebellion[b] Core Rulebook).</Description>
-    <Source Page="46">Forged in Battle</Source>
+    <Source Page="46">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
     <Categories>
@@ -7853,7 +7837,7 @@ High-explosive missiles use powerful shaped-charge warheads that give infantry l
 The High-Output Repeating Blaster from SoroSuub is a powerful and reliable weapon. Rarely seen outside of military forces, the HOB typically requires a crew of two to operate as an emplaced weapon, though it is possible for an individual of exceptional strength to carry the weapon. Remarkably, despite its high rate of fire and energy draw, the HOB's robust, simple construction makes somewhat easier to repair in the field, and it is amazingly easy to set up and take down. The cost of this weapon includes a tripod such as that found on page 193 of the [B]Edge of the Empire[b] Core Rules. Setting up this tripod weapon requires the crew to spend two preparation maneuvers, plus two more for the tripod.
 
 [P]Mechanics Checks to repair a HOB gain [BO]. </Description>
-    <Source Page="44">Dangerous Covenants</Source>
+    <Source Page="44">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -7916,7 +7900,7 @@ The High-Output Repeating Blaster from SoroSuub is a powerful and reliable weapo
       [H3]Mk.4 Heavy Frag Grenade[h3]
 
 Sporting a stronger detonite charge and larger surface area than other frag grenades, Golan Arms' heavy fragmentation grenade yields a consequently larger and more powerful blast, with a greater quantity of shrapnel dispersed over a wider area. Typically, only very large and physically strong individuals carry heavy frag grenades in lieu of standard models, as the increased bulk and weight is a not-inconsiderable hindrance for most users.</Description>
-    <Source Page="46">Dangerous Covenants</Source>
+    <Source Page="46">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -8045,7 +8029,7 @@ Despite the ubiquity of repulsorlift technology across the galaxy, the  particul
 
 Combining the fury of a flame projector with the range and power of a missile, an incendiary missile is a devastating weapon capable of wiping out entire squad's of infantry in a single blast. Some Hired Guns enjoy the particularly powerful effect of an incendiary missile on their enemies' morale. Few sights are as demoralizing as that of a missile incinerating one's comrades in a single fiery instant.</Description>
     <Sources>
-      <Source Page="42">Dangerous Covenants</Source>
+      <Source Page="42">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="46">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -8098,7 +8082,7 @@ Combining the fury of a flame projector with the range and power of a missile, a
       [H3]D-24 Inferno Grenade[h3]
 
 Restricted to military use or banned entirely on most worlds, the D-24 Inferno Grenade detonates in a fiery blast that inflicts terrible wounds and collateral damage. The extreme heat of the blast easily ignites flammable materials in the vicinity, causing unpredictable destruction far past the grenade's initial use. An inferno grenade causes chaos and panic amongst targets. The indiscriminate and fearsome nature of the weapon ensures only the most ruthless mercenaries and killers employ it.</Description>
-    <Source Page="46">Dangerous Covenants</Source>
+    <Source Page="46">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -8237,7 +8221,7 @@ Ion weapons are anti-ship and anti-vehicle weapons designed to disable rather th
 
 The detonation of an ion grenade is much like the blast of an ion gun. The advantage of an ion grenade is that all droids caught in the blast radius are affected, allowing the user to disable multiple mechanical targets at once. Great care must be taken in the vicinity of important technology. Many starship captains refuse to allow ion grenades aboard their vessel, even when providing transport to heavily armed mercenaries.</Description>
     <Sources>
-      <Source Page="46">Dangerous Covenants</Source>
+      <Source Page="46">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="44">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -8614,7 +8598,7 @@ The rarely seen ion torpedo fills a specialized niche that a great many ship com
       [H3]IR-5 "Intimidator" Blaster Pistol[h3]
 
 For those who operate on the edge of the law, firepower can be a valuable commodity. The Merr-Sonn Munitions IR-5 "Intimidator" can provide that in spades. Though slightly less powerful than most comparably-sized blaster pistols, the IR-5 has a rate of fire equivalent to that of a repeating blaster, a feature that earned the Intimidator its nickname. Restricted throughout the Corellian Sector, the IR-5 can nonetheless be found on the hip of many fringers who call Corellia home.</Description>
-    <Source Page="41">Dangerous Covenants</Source>
+    <Source Page="41">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -8654,7 +8638,7 @@ For those who operate on the edge of the law, firepower can be a valuable commod
 The Rebel Alliance obtains many of its weapons from battlefield salvage, military surplus, and black market dealers. In their search for new locations to establish hidden bases, Alliance scouts also discover abandoned Separatist weapons caches, where thousands of pristine, mass-produced weapons await distribution for their cause. Once used by the droid armies of the Confederacy, the J-10 dual blaster cannon is now common within outposts of the Rebellion.
 [P]Unfortunately, not all the weapons the Alliance obtains are of high quality. The J-10 dual blaster cannon is a more powerful version of the E-5 blaster carbine used by battle droid infantry. Like most Separatist equipment, the J-10 was produced on unregulated assembly lines run by droids inside factories where quantity was more important than quality. The J-10 is finicky at best—glitchy Calven pattern programming often leads to power fluctuations that overload the cannon, and imperfections in focusing crystals cause shots to drift without regular maintenance. Alliance technicians often  opt to replace the faulty cannons rather than conduct repairs.
 [P]The CM may spend [DI] or [TH][TH] from any combat check made with this weapon to have it overheat: the wielder suffers 2 strain and the weapon becomes damaged one step; from undamaged to Minor, Minor to Moderate, or Moderate to Major (see page 172 of the [B]Age of Rebellion[b] Core Rulebook).</Description>
-    <Source Page="45">Forged in Battle</Source>
+    <Source Page="45">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -8802,7 +8786,7 @@ Another favorite tool for nonlethal personnel control, knockout charges such as 
 
 It is not always necessary or even desirable to kill a threat in order to neutralize it. While stun weapons are the most common nonlethal method of disabling a foe, they are by no means the only way to subdue an opponent. Knockout grenades are one method of incapacitating multiple targets without causing permanent damage. Filled with a tranquilizer gas, these grenades can quickly subdue most living things caught in their blast radius, sending them into a deep sleep. Poachers sometimes use grenades such as these to capture wild, dangerous predators, and knockout grenades can even take down large creatures if used in sufficient quantity.
 [P]Knockout grenades have no effect on targets wearing breath masks or without respiratory systems.</Description>
-    <Source Page="45">Fly Casual</Source>
+    <Source Page="45">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -8917,7 +8901,7 @@ Kaminoan Weaponsmiths, a subsidiary of Kaminoan Armorsmiths Ltd., is a small wea
     <Description>
       [H3]Kyuzo Energy Bow[h3]
 Designed to be fired from a mount or a mobile platform, a Kyuzo energy bow is a massive bow that fires terrifyingly large, charged bolts. The Kyuzos of the Gyaryi clovoc are particularly renowned for their skilled archers, who use theor considerable might to draw these bows and their elite training to hit targets at incredible distance.</Description>
-    <Source Page="44">Forged in Battle</Source>
+    <Source Page="44">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -8968,7 +8952,7 @@ The weapon also gains the Limited Ammo 1 quality
 [P]Additionally, the wielder of a Kyuzo war shield may
 spend [AD][AD][AD] from any combat check to throw the
 weapon to cause the shield to ricochet back to her grasp.</Description>
-    <Source Page="48">Forged in Battle</Source>
+    <Source Page="48">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -9029,7 +9013,7 @@ The weapon also gains the Limited Ammo 1 quality
 [P]Additionally, the wielder of a Kyuzo war shield may
 spend [AD][AD][AD] from any combat check to throw the
 weapon to cause the shield to ricochet back to her grasp.</Description>
-    <Source Page="48">Forged in Battle</Source>
+    <Source Page="48">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Thrown</Type>
     <Categories>
@@ -9082,7 +9066,7 @@ weapon to cause the shield to ricochet back to her grasp.</Description>
 A terrifying weapon, the Tenloss L70 Acid Projector fires a stream of xenoboric acid capable of burning through virtually any material. The inert component chemicals are contained within two separate reservoirs within the L70, only mixing as the weapon is fired at its unfortunate target. For obvious reasons, these gruesome weapons are banned in most systems.
 
 [P]Acid projectors operate similarly to flame projectors, spraying targets in a narrow cone. When triggering the weapon's Burn quality, the user may choose to apply it to any one target hit by the attack; this quality may be triggered multiple times, affecting a different target each time. The GM can spend [TH][TH] or [DE] to apply the weapon's Burn quality to an ally hit by the original attack. Since the burn is chemical in nature, the Burn damage cannot be stopped by rolling around on the ground or jumping into water. </Description>
-    <Source Page="102">Lords of Nal Hutta</Source>
+    <Source Page="102">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
     <Damage>6</Damage>
@@ -9131,7 +9115,7 @@ A terrifying weapon, the Tenloss L70 Acid Projector fires a stream of xenoboric 
 A simple, inexpensive blaster pistol, the Liquidsilver L7 has developed a reputation among smugglers as a good weapon to have in a pinch. The L7's compact size, clean lines, and steel finish make the blaster fairly inconspicuous and easy to overlook, especially if stowed for quick and easy access on the wall of a cargo hold or beside the gangplank servos of a light freighter.
 
 [P]Add [SE][SE] to a character's Perception checks to notice a Liquidsilver L7 light blaster pistol stashed aboard a starship. </Description>
-    <Source Page="43">Fly Casual</Source>
+    <Source Page="43">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -9323,7 +9307,7 @@ The standard anti-ship weapon mounted to starships, laser cannons are found on n
       [H3]Point Defense Laser Cannon[h3]
 
 A point-defense cannon is a kind of fast-tracking starship emplacement, typically laser cannons or ion cannons, that are used to defend large starships against smaller starfighters. Point-defense cannons are also used to defend against missiles.</Description>
-    <Source Page="186">Age of Rebellion Beta Rulebook</Source>
+    <Source Page="186">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Laser</Category>
@@ -9747,7 +9731,7 @@ Imperial soldiers, Alliance heavy weapons specialists,
 and hired guns of all stripes frequently use concussion
 rifles to scatter enemy formations, neutralize entire
 squads, and even punch through duracrete walls.</Description>
-    <Source Page="47">Forged in Battle</Source>
+    <Source Page="47">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -10663,7 +10647,7 @@ Lightwhips are, perhaps, the rarest and most bizarre of the numerous lightsaber 
     <Description>
       [H3]Light Tractor Beam Coupler[h3]
    </Description>
-    <Source>Fly Casual</Source>
+    <Source>Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -10695,7 +10679,7 @@ A blaster being "lucky" is less about its manufacture and more about its behavio
 [P]Even in the clumsiest hands, there seems to be an unknown influence guiding the spacer's aim. To the trained Mystic, the Force's presence is obvious-the blaster almost hums with it. Even before dedicating themselves to the Force, a Mystic might be able to hear it.
 [P]Lucky blasters are rare in the galaxy at large. Their attunement to the Force seems to be completely random. There is no connection between the blasters that display this knack. There is no single factory, nor even one single planet, that can claim it is the source. Not even the Mystics who study them can explain how the blasters' attunement occurs. Those who wield these blasters can only trust in the Force, hoping that its will is being done.
 [P]When a character uses a single maneuver with a Lucky Blaster to Aim, they gain [BO][BO] on their next combat check. This can only occur once per round, and the PC may not use their second maneuver to aim again.</Description>
-    <Source Page="47">Unlimited Power</Source>
+    <Source Page="47">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -10732,7 +10716,7 @@ A blaster being "lucky" is less about its manufacture and more about its behavio
 When weapon designer Joran Raider, the man behind many of the galaxy's most successful blasters, left BlasTech to start his own small manufacturing firm, it was a blow to the arms giant. Rumors persist that several notorious bounty hunters contracted by BlasTech to eliminate its former employee were bought off by Raider with examples of what many believe to be the pinnacle of his craft, the Model-1 Nova Viper blaster pistol. Perfectly balanced, innovative, and tooled down to a fraction of a micrometer, Raider Arms customizes every Nova Viper sold for its buyer, from its grip to its finish. As such, Nova Viper blasters are highly sought after and cost nearly as much as a new speeder. The blaster's incredible precision comes with a hidden price as well, requiring careful maintenance and exceptional skill to repair. Nonetheless, a fringer who manages to obtain a Nova Viper would almost invariably count himself lucky and consider it among his most valued possessions.
 
 [P]Increase the difficulty of Mechanics checks to repair a Nova Viper or modify attachments on it by one.</Description>
-    <Source Page="43">Fly Casual</Source>
+    <Source Page="43">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -10863,7 +10847,7 @@ Typically carried by riot or military police, or security in particularly rowdy 
 Reliable, easy to maintain, and simple to modify, the Merr-Sonn Model 53 "Quicktrigger" blaster pistol has become popular among people living on the fringe. Though not the most powerful blaster available, the Quicktrigger can be readily customized with upgrades and attachments to suit the needs of individual users. Due to its simple design and rugged frame, the Model 53 is relatively easy to maintain and repair, and it rarely suffers more than minor damage from repeated firing.
 
 [P]Reduce the difficulty of Mechanics checks to repair a Model 53 or modify attachments on it by one.</Description>
-    <Source Page="43">Fly Casual</Source>
+    <Source Page="43">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -10977,7 +10961,7 @@ Known colloquially as the "hand cannon," Czerka's Cz M9 "Boomer" is a standout i
     <Name>Mass-Driver Cannon</Name>
     <Description>
       [H3]Mass-Driver Cannon[h3]</Description>
-    <Source Page="57">Forged in Battle</Source>
+    <Source Page="57">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories />
@@ -11003,7 +10987,7 @@ Known colloquially as the "hand cannon," Czerka's Cz M9 "Boomer" is a standout i
       [H3]Mass Driver Missile Launchers[h3]
 
 A mass driver is a type of projectile cannon. They inflict damage by hurling projectiles at high velocities, which imparts kinetic energy and force to the target upon impact. Damage is thus a result of the mass of the projectile and its velocity.</Description>
-    <Source Page="70">Dangerous Covenants</Source>
+    <Source Page="70">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -11569,7 +11553,7 @@ Seeker mines couple a powerful explosive charge with a simple guidance and drive
       [H3]MM-XT Mini-Missile Tube[h3]
 
 The mini-missile tube is a single-shot compact missile launcher designed for use on smaller vehicles, such as speeder bikes, landspeeders and smaller airspeeders. It may carry a variety of missile types (see [B]Table 2-8: Specialized Missiles and Rockets for Vehicles[b]), which are typically about a half-meter or less in length. The tube faces a single firing arc, though a turret mount is also available. It may be installed on any non-starship vehicle of silhouette size 2 or greater.</Description>
-    <Source Page="60">Dangerous Covenants</Source>
+    <Source Page="60">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -11604,7 +11588,7 @@ The mini-missile tube is a single-shot compact missile launcher designed for use
       [H3]Mini-Rocket Launcher[h3]
 
 A scaled-down missile for use in the mini-missile tube and banks mounted to vehicles of silhouette 2 or 3. See [B]Table 2-8[b] for specific types.</Description>
-    <Source Page="63">Dangerous Covenants</Source>
+    <Source Page="63">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Rocket</Category>
@@ -12011,7 +11995,7 @@ Missile tubes are heavy, portable devices that launch rocket-powered projectiles
       [H3]Concussion Missile (Mini)[h3]
 
 A scaled-down missile for use in the mini-missile tube and banks mounted to vehicles of silhouette 2 or 3. See [B]Table 2-8[b] for specific types.</Description>
-    <Source Page="60">Dangerous Covenants</Source>
+    <Source Page="60">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -12069,7 +12053,7 @@ A scaled-down missile for use in the mini-missile tube and banks mounted to vehi
       [H3]Decoy Missile[h3]
 
 This decoy missile, once launched, broadcasts an electromagnetic signature that draws off enemy missiles. To fire a decoy, make an [B]Easy ([DI]) Computers check[b]. If successful, any attacks against the ship firing the decoy using weapons with the Guided quality upgrade their difficulty by one (plus an additional upgrade for every additional [AD][AD]) while the decoy is active (one round per Vf). If a weapon with the Guided quality misses the target ship but generates [AD][AD][AD] or [TR], they hit the decoy instead; ending the effect.</Description>
-    <Source Page="60">Dangerous Covenants</Source>
+    <Source Page="60">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -12106,7 +12090,7 @@ This decoy missile, once launched, broadcasts an electromagnetic signature that 
       [H3]Missile Pack[h3]
 
 The missile bank launcher is a self-contained missile battery that holds eight to ten missiles designed to fire as a group or cluster. The bank fires half of its payload at a time. The missiles or rockets are designed to fire in a spread pattern. They depend on quantity far more than the accuracy of the individual weapons. The Arakyd Missile Pack typically faces a specific firing arc, selected at the time of installation. A turret-mounted variation requires an additional hard point. Standard missile banks may be mounted to vehicles of silhouette 2 or greater. Mini-missile variants may be mounted to a vehicle of silhouette 2.</Description>
-    <Source Page="60">Dangerous Covenants</Source>
+    <Source Page="60">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -12154,7 +12138,7 @@ The missile bank launcher is a self-contained missile battery that holds eight t
       [H3]Mini-Missile Pack[h3]
 
 The missile bank launcher is a self-contained missile battery that holds eight to ten missiles designed to fire as a group or cluster. The bank fires half of its payload at a time. The missiles or rockets are designed to fire in a spread pattern. They depend on quantity far more than the accuracy of the individual weapons. The Arakyd Missile Pack typically faces a specific firing arc, selected at the time of installation. A turret-mounted variation requires an additional hard point. Standard missile banks may be mounted to vehicles of silhouette 2 or greater. Mini-missile variants may be mounted to a vehicle of silhouette 2.</Description>
-    <Source Page="60">Dangerous Covenants</Source>
+    <Source Page="60">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -12202,7 +12186,7 @@ The missile bank launcher is a self-contained missile battery that holds eight t
       [H3]Jammer Missile[h3]
 
 This countermeasure follows but does not attempt to impact the target vehicle. Instead, it fires a jamming beam at the vehicle (see Jamming Beam, below) If the initial combat check is successful, the missile follows the target at close range for one round per [SU]. The missile adds [SE][SE] to the target's [B]Gunnery, Piloting, and Computers checks[b] (when the pilot is scanning with sensors). The missile's limited fuel means it self-destructs after 3 rounds. The missile can be shot down, but it has a silhouette of 1. Any damage destroys it.</Description>
-    <Source Page="60">Dangerous Covenants</Source>
+    <Source Page="60">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -12246,7 +12230,7 @@ This countermeasure follows but does not attempt to impact the target vehicle. I
       [H3]Jammer Missile (Mini)[h3]
 
 This countermeasure follows but does not attempt to impact the target vehicle. Instead, it fires a jamming beam at the vehicle (see Jamming Beam, below) If the initial combat check is successful, the missile follows the target at close range for one round per [SU]. The missile adds [SE][SE] to the target's [B]Gunnery, Piloting, and Computers checks[b] (when the pilot is scanning with sensors). The missile's limited fuel means it self-destructs after 3 rounds. The missile can be shot down, but it has a silhouette of 1. Any damage destroys it.</Description>
-    <Source Page="60">Dangerous Covenants</Source>
+    <Source Page="60">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -12290,7 +12274,7 @@ This countermeasure follows but does not attempt to impact the target vehicle. I
       [H3]Unguided Rocket[h3]
 
 A cheap, simple rocket with minimal guidance and stabilization systems. They are installed more often on vehicles than starships. Attackers add a [SE] to their [B]Gunnery skill checks[b] when using unguided rockets.</Description>
-    <Source Page="60">Dangerous Covenants</Source>
+    <Source Page="60">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -12341,7 +12325,7 @@ A cheap, simple rocket with minimal guidance and stabilization systems. They are
       [H3]Unguided Rocket (Mini)[h3]
 
 A cheap, simple rocket with minimal guidance and stabilization systems. They are installed more often on vehicles than starships. Attackers add a [SE] to their [B]Gunnery skill checks[b] when using unguided rockets.</Description>
-    <Source Page="60">Dangerous Covenants</Source>
+    <Source Page="60">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -12478,7 +12462,7 @@ Built by Golan Arms, the Mk VIII launcher is an uncommon weapon. Designed primar
 The MMD-18 is a larger, more durable version of Xana Exotic Arms' MSW-9 molecular stiletto. Roughly the size of a combat knife, the MMD-18 has a long and thin double-edged, crystalline matrix blade set into a simple polycarbonate handle with a short, straight quillon. The edges of the blade are honed to mono-molecular thickness, allowing them to cut through even the thickest armor. While this dagger is sturdier than the MSW-9, a wrong move or an awkward blow can still shatter the blade relatively easily.
 [P]Due to their inherent fragility, any combat check made while wielding one of these blades that generates either [TH][TH][TH] or [DE] shatters the blade.</Description>
     <Sources>
-      <Source Page="40">Cyphers and Masks</Source>
+      <Source Page="40">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -12713,7 +12697,7 @@ While the standard penetrator ammunition offered with the Model 38 works well in
       [H3]Model 44 Blaster Pistol[h3]
 
 Representative of blaster pistols across the galaxy, the Model 44 is a reliable pistol that is more than adequate for most situations. Merr-Sonn's Model 44 is well-suited to use aboard starships or in technological facilities, as it is less likely to damage vital systems than a more powerful blaster rifle, yet strong enough to penetrate laminate armor on a direct hit. As such, it is often used as a sidearm by mercenaries, security forces, and pirates. </Description>
-    <Source Page="41">Dangerous Covenants</Source>
+    <Source Page="41">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -12914,7 +12898,7 @@ Air rifles are not considered weapons on most planets in the galaxy, and the maj
 The Model 80 from Merr-Sonn Munitions is a rugged and dependable blaster pistol that many mercenaries tend to use as their primary weapon. It lacks the stopping power of a heavy blaster pistol, but still fires powerful energy bolts that can do a great deal of damage to their target. The weapon gains this stopping power at the expense of weight and portability. A bulky blaster, the Model 80 is a bit too heavy for a soldier to carry as a backup weapon and the various protuberances and the secondary scope makes it hard to draw quickly in a firefight.
 
 [P]The time taken to draw, holster, stow, or otherwise access this weapon cannot be reduced by talents, gear, or any other means.</Description>
-    <Source Page="41">Dangerous Covenants</Source>
+    <Source Page="41">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -13004,7 +12988,7 @@ Magma from Sembla has fascinated researchers for centuries. Among other traits, 
 [P]Vurk Rebel cells seeking to liberate Sembla are not the average citizen. Straining under the Empire's yoke, they've been quite keen to weaponize the planet's lava. A handful managed to make a breakthrough, using liberated Imperial research.
 [P]The resulting device is much like a grenade. While difficult to make elsewhere, Vurk Rebels have all they need to build them on Sembla. First, they use Imperial technology to stabilize and contain the magma. Early attempts cooled and congealed too fast, rendering them useless. To work, the devices need a small touch of the Force: Vurk sages skilled in alchemical arts imbue the containment unit with the Force to keep the molten rock from cooling.
 [P]A combatant can use the device much the same way as a grenade. On activation, a brief timer starts before the weapon activates. Instead of blasting itself apart, however, the magnet then adheres to a single target. When the timer runs out, the containment unit begins extruding its molten metal payload . The magma then chews through armor plating, scorching any organic tissue it touches.</Description>
-    <Source Page="48">Unlimited Power</Source>
+    <Source Page="48">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Thrown</Type>
     <Categories />
@@ -13135,7 +13119,7 @@ Popularly wielded by the Mon Calamari during the Battle of Mon Cala, the spear b
 Relics of the Morgukai, an ancient Nikto warrior society that hunted Jedi and Sith alike, these weapons are exceedingly rare. Crafted using lightsaber-resistant cortosis ore, the staves emit energy blades very similar to those of lightsabers. The Morgukai were declared an outlawed religious cult by the Galactic Empire and have long been thought extinct like the Jedi they once fought.
 
 [P]The cortosis staff requires two hands to wield.</Description>
-    <Source Page="104">Lords of Nal Hutta</Source>
+    <Source Page="104">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Bludgeoning Melee</Category>
@@ -13527,7 +13511,7 @@ The Palandrix Personal Protection Gear company has been a leading provider of pe
 Used by slavers across the galaxy to keep their "merchandise" in line, the neuronic whip is a terrible weapon banned on many worlds. A powerful electrical charge runs the length of this cruel wire whip, discharging when it strikes its target and sending painful impulses racing through its victim's nerve cells. The whip emits an ominous low humming sound when charged, exploding like the crack of a gunshot when it comes into contact its unfortunate target.
 
 [P]This weapon can be used to make melee attacks against targets at up to short range (the difficulty remains [B]Average [DI][DI][b]).</Description>
-    <Source Page="104">Lords of Nal Hutta</Source>
+    <Source Page="104">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
     </Categories>
@@ -13605,7 +13589,7 @@ The Nightsisters of Dathomir have always been an organization shrouded in secrec
 Xerrol Corporation's Nightstinger is one of the most unusual blaster rifles in the galaxy. Officially classified as a sporting weapon, the Nightstinger is a powerful, well-balanced rifle ostensibly designed to hunt big, dangerous creatures at long distances. While this is true, the Nightstinger can also, at the flick of a switch, fire completely invisible blaster bolts, an ability that makes these weapons illegal to own in most civilized parts of the galaxy. While Xerrol claims that the invisible bolt setting was designed for night hunting and stalking light-sensitive beasts, the fact that it allows a shooter to remain completely undetected while firing has not been overlooked by the galaxy's assassins and intelligence agents. The power requirements for firing the rifle in stealth mode are quite onerous, however, and its rate of fire becomes significantly reduced from the depletion of its power cells.
 [P]Switching the Nightstinger to stealth mode requires a maneuver. This makes locating the shooter by tracing the blaster bolt or spotting a muzzle blast effectively impossible. It also grants the weapon the Slow Firing 2 quality for the remainder of the encounter.</Description>
     <Sources>
-      <Source Page="39">Cyphers and Masks</Source>
+      <Source Page="39">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
@@ -13696,7 +13680,7 @@ Considered incredibly niche, obscure weapons with little combat utility, needler
 Like many items made by the Vurk, Semblan daggers tend to serve at least two functions. First, they are utilitarian knives, used as both tools and weapons. Second, the blade's iconic design has served as a meditation aid for centuries of Vurk sages.
 [P]In their most iconic examples, the dagger's blade curves back and forth as it tapers to a point. Vurk sages hold that these gentle undulations mirror the duality of their homeworld. The curving edges hearken to the planet's shallow seas, while obsidian inlays evoke the planet's volcanoes. For centuries, they would mediate on this contrast, searching for harmony. Even if other species lack that cultural context, studying the dagger still has uses.
 [P]When a Vurk makes a Discipline check at the end of an encounter to heal strain, they heal one additional strain as long as they are holding a Semblan dagger. At the GM's discretion, non-Vurk characters can also benefit from this if they have a thorough grounding in Vurk culture and the mentality to appreciate the meditative properties.</Description>
-    <Source Page="50">Unlimited Power</Source>
+    <Source Page="50">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -13729,7 +13713,7 @@ The OK-98 is unique in that the weapon features slots for two power packs. An on
 
 [P]A character using an OK-98 can ignore the first "out of ammo" [DE] result during a combat, just as with an extra power pack, without expending a maneuver.
 A modified OK-98 (requiring an [B]Easy ([DI]) Mechanics check[b]) increases weapon damage by 2, replacing the option to ignore the first "out of ammo" result. The GM can spend [DE] to have a modified OK-98 catastrophically overheat and explode, inflicting one hit from the weapon (dealing base damage) on the user and destroying the weapon after the attack has been resolved.</Description>
-    <Source Page="43">Dangerous Covenants</Source>
+    <Source Page="43">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -13768,7 +13752,7 @@ A modified OK-98 (requiring an [B]Easy ([DI]) Mechanics check[b]) increases weap
 Even for the eccentric designs of ancient Thisspias, the Ouro Blade is a strange weapon, with a long curved blade that arches out in a half-circle from the wielder's fists. Traditional fighting styles emphasize quick, cross-body slashes, and a skilled fighter can inflict dozens of shallow, painful cuts on their opponent in a matter of moments. While designed for off-hand use, the Ouro Blade is still effective as a primary weapon.
 [P]Despite its efficiency, changing attitudes on Thisspias sidelined the Oura Blade. Over time, the populace came to associate it with the excesses of the Blood Monarch's Royal Guard. Many Thisspiasians shunned traditional weapons, seeing them as shameful relics of bygone times. When Imperial governors outlawed the Blood Monarchy, that stance changed. Thisspiasian Rebel groups chose weapons like the Ouro Blade as their gear of choice. The fallen Blood Monarchy had become a poignant symbol of resistance.
 [P]After making a successful combat check with an Oura Blade, the wielder may spend [AD] to inflict an automatic hit on the target, doing the attack's base damage, and may do so multiple times.</Description>
-    <Source Page="50">Unlimited Power</Source>
+    <Source Page="50">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -13798,7 +13782,7 @@ Even for the eccentric designs of ancient Thisspias, the Ouro Blade is a strange
 War is a stressful pastime. Most sentient beings unaccustomed to battle choke up when an enemy charges them with a sword. Sometimes there isn't enough room or enough time to line up a shot. Weaponsmiths designed panic pistols-a kind of overpowered slugthrower-to solve such problems.
 [P]They provide a quick and definitive answer to anyone getting too close. This is not to say they do so with elegance. The weapons malfunction with more regularity than other, more standard slugthrowers. While its power is on par with a blaster, a panic pistol still isn't a sustainable alternative to melee weapons. A fighter with a broken weapon doesn't have much advantage over anyone.
 [P]While at engaged range, a character wielding a panic pistol does not add the +1 difficulty modifier for ranged attacks in melee. However, the GM may spend [TH][TH] to damage the weapon.</Description>
-    <Source Page="48">Unlimited Power</Source>
+    <Source Page="48">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
     <Categories>
@@ -14061,7 +14045,7 @@ Developed originally by an obscure cadre of artificers, these blades were popula
 
 A plasma grenade contains a store of blaster gas comparable to the load of a blaster pistol. When primed, an XCiter unit converts the gas to a highly energetic state. After three to sixty seconds, as selected by the user, the grenade activates the gas with a laser charge, detonating in highly explosive fashion. The resulting explosion is very similar in appearance and effect to a blaster bolt, but more powerful than even a heavy blaster and dispersed over a much larger area.</Description>
     <Sources>
-      <Source Page="46">Dangerous Covenants</Source>
+      <Source Page="46">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="45">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -14107,7 +14091,7 @@ A plasma grenade contains a store of blaster gas comparable to the load of a bla
 
 These destructive devices generate high-temperature plasma shock waves. The shock waves shatter anything nearby, and what is not destroyed by the shock waves is incinerated by the searing heat.
 [P]Plasma charges have the Burn 1 quality, and the quality increases by + 1 for every additional charge. </Description>
-    <Source Page="55">Dangerous Covenants</Source>
+    <Source Page="55">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -14134,7 +14118,7 @@ These destructive devices generate high-temperature plasma shock waves. The shoc
       [H3]SK-44 Plasma Missile[h3]
 
 When primed, a store of high-energy gas within the plasma warhead is converted into a highly volatile plasma state. The operation of a plasma missile is actually very similar to that of a blaster, and the resulting detonation is not unlike the impact of a blaster bolt, albeit magnified tenfold. The trade-off of this weapon is that the unstable warhead detonates after a brief flight time whether it hits its target or not, making the effective range relatively short.</Description>
-    <Source Page="42">Dangerous Covenants</Source>
+    <Source Page="42">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -14226,7 +14210,7 @@ While most would balk at using poison gas in combat, some bounty hunters and ass
 [P]Poison gas grenades can be loaded with up to 1 dose of neurotoxin, anesthetic, or neuroparalytic (see page 172 of the [B]Edge of the Empire[b] Core Rulebook) or other poison (such as those on page 109) that the GM deems suitable. Whenever the wielder successfully attacks a target with the weapon (whether or not he deals damage), the target also suffers the effects of being exposed to the poison.
 
 Unless used outdoors in a windy environment, the poison gas lingers for 2 rounds, affecting anyone caught in the cloud. If used in a closed, poorly ventilated space, such as a small room or narrow starship corridor, the gas lingers for 5 rounds instead. Poison gas grenades do not harm droids and other creatures that do not breathe air. Characters equipped with vacuum sealed suits, breath masks, respirators, or rebreathers are also unaffected by the poison gas. </Description>
-    <Source Page="102">Lords of Nal Hutta</Source>
+    <Source Page="102">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Ranged</Category>
@@ -14434,7 +14418,7 @@ The proton bomb is a large energy explosive device used in space combat and orbi
 Frequently used for demolitions work and in boarding actions, proton grenades are extremely powerful devices that rely on the same technology as the warheads of proton torpedoes, albeit on a much smaller scale. Nevertheless, proton grenades are exceeded only by thermal detonators for sheer destructive power in a hand-held package. Proton grenades feature a magnetic clamp and directed charge, so that they are better suited to breaching bulkheads or destroying facilities than as anti-personnel weapons. The devices are also highly prized in demolitions work because of the sympathetic qualities of the blast. Multiple grenades correctly linked together produce a much more powerful blast than each grenade separately.
 
 [P]When setting up an explosive device using proton grenades, the second grenade adds +20 damage, the third adds +30, the fourth adds +40, and the fifth adds +50, for a total of 150 damage for five grenades. After the fifth grenade, additional grenades do not add additional damage, but do increase the blast range by one range band per additional grenade.</Description>
-    <Source Page="55">Dangerous Covenants</Source>
+    <Source Page="55">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -14581,7 +14565,7 @@ is fired this encounter, it counts as having the Breach
 1 and Vicious 3 qualities. After being discharged this
 way, the weapon runs out of ammunition (see page
 172 of the [B]Age of Rebellion[b] Core Rulebook).</Description>
-    <Source Page="43">Forged in Battle</Source>
+    <Source Page="43">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -14727,7 +14711,7 @@ Sullust. It consists of a long, bulky rod tipped by a variable-angle plasma cutt
 A punch dagger, also known as a push dagger or gimlet knife, is a small, short-bladed knife attached to a T-shaped handle, or "gimlet." The user grasps the gimlet so the blade protrudes between his fingers. Easily-concealed, the punch dagger allows the user the put considerable force behind a thrust, often piercing thick clothing and simple armor. A favorite holdout weapon among gamblers, a punch dagger typically won't set off the weapons detectors used in many gambling dens and the backrooms of cantinas throughout the galaxy.
 
 [P]Add [SE][SE] to a character's Perception checks made to find a punch dagger on a person's body.</Description>
-    <Source Page="46">Fly Casual</Source>
+    <Source Page="46">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -14803,7 +14787,7 @@ Thisspiasians once viewed the giant ystervark as both worthy foe and revered del
 [P]In keeping with this motif, ancient warrior-sages created weapons in the beast's image. Their blend of metalwork and the Force even parallels that of modern alchemists. For 250 years, poisoned ystervark spears were the Royal Guard's most iconic weapon. As the Blood Monarchy's public influence fell, so too did the ystervark's. While Thisspiasians still respect both, the call for such weapons has diminished. Before the rise of the Empire, only the Quillbomb retained its mass appeal.
 [P]The device is not much larger than a closed fist, and wicked-looking spines litter its surface. On detonation, these spines rip through armor, burrowing deep into flesh. Each spine carries a dose of synthetic toxin, inspired by the ancient ystervark's venom. With its weak payload, the bomb is less focused on raw explosive power. Rather, it relies on driving at least one spine intact into a victim's body. The contagions used are often as quick as they are debilitating. One spine is enough to immediately impair motor functions. Any more will cause excruciating pain.
 [P]With the Blood Monarchy outlawed by the Empire, the Quillbomb is taking on a new life as a symbol of resistance. Rebels searching for urban weaponry have revitalized the production of these ancient weapons. The bombs are harder to detect than conventional explosives, perfect for saboteurs. Storm troopers are beginning to dread missions to quash Thisspiasian resistance. Once the subject of mockery, the Quillbomb's body count continues to rise. True to form, the bomb has damaged both body and mind of the Imperial war machine. Though nowhere close in size to the ancient ystervark, these bombs would do it proud.</Description>
-    <Source Page="48">Unlimited Power</Source>
+    <Source Page="48">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Thrown</Type>
     <Categories />
@@ -14864,7 +14848,7 @@ check with this weapon to have the wielder suffer a
 Critical Injury with -50 to the roll, to a minimum of
 one (see [B]Table 6-10: Critical Injury Result[b] on page
 231 of the [B]Age of Rebellion[b] Core Rulebook).</Description>
-    <Source Page="45">Forged in Battle</Source>
+    <Source Page="45">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -14921,7 +14905,7 @@ one (see [B]Table 6-10: Critical Injury Result[b] on page
 Redirection crystals are an invention of the Imperial Security Bureau. Produced in small numbers by the Imperial Department of Military Research for the ISB and various Imperial intelligence and wetworks teams, a redirection crystal is simply a container of pressurized Tibanna gas fitted with a focusing crystal and a short blaster barrel. When struck, typically by blaster or slugthrower fire, the canister ruptures and produces a blaster bolt through the attached barrel. The bolt the redirection crystal fires has a power output equal to a standard blaster rifle, but its range is significantly reduced. A redirection crystal is destroyed on use, leaving little behind to identify what it was. Redirection crystals are very popular among Imperial Intelligence agents, who often use them to obfuscate assassination scenes or frame others for crimes.
 [P]Setting up a redirection crystal requires a [B]Hard ([DI][DI][DI]) Skulduggery check[b]. Due to its size, hitting a redirection crystal requires a [B]Hard ([DI][DI][DI]) Ranged (Light)[b] or [B]Ranged (Heavy) check[b]. Redirection crystals have the following profile: (Damage 9; Critical 4; Range (Short); Limited Ammo 1). They cost 500 credits (R) and have a rarity of 9.</Description>
     <Sources>
-      <Source Page="40">Cyphers and Masks</Source>
+      <Source Page="40">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -15538,7 +15522,7 @@ Powerswords are large, heavy vibroswords equipped with high-output vibrofield ge
 
 The traditional melee weapon of the Wookiees, a Ryyk blade is a heavy, single-edged sword useful for clearing away both brush and enemies in the thick jungles of Kashyyyk. Though the weapon has changed little over the millennia, many Wookiees prefer the weapon of their ancestors to more technologically-advanced vibro-weapons.
 [P]The damage from the Superior quality is included in the profile.</Description>
-    <Source Page="48">Dangerous Covenants</Source>
+    <Source Page="48">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -15587,7 +15571,7 @@ The traditional melee weapon of the Wookiees, a Ryyk blade is a heavy, single-ed
 Sap gloves are produced by a number of companies throughout the galaxy. Made in a variety of styles for nearly every imaginable species, they are simply a pair of gloves with heavy plates, alloy pellets, sand, or some other dense, weighty material sewn into the fingers and back of the hand. Relatively innocuous when worn, sap gloves amplify a wearer's punch and act almost like brass knuckles. Sap gloves are popular among law enforcement and intelligence services throughout the galaxy, and their use is extremely common in the criminal underworld.
 [P]Spotting sap gloves on an individual requires a [B]Daunting ([DI][DI][DI][DI]) Perception check[b].</Description>
     <Sources>
-      <Source Page="40">Cyphers and Masks</Source>
+      <Source Page="40">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Brawling</Type>
@@ -15621,7 +15605,7 @@ Sap gloves are produced by a number of companies throughout the galaxy. Made in 
       [H3]BlasTech SE-14C Blaster Pistol[h3]
 Of all standard issue Imperial blasters, few pack as much bang per credit as the SE-14C blaster pistol. This weapon is the latest BlasTech Industries upgrade of the semi-automatic SR Combat Pistol that was used by the Seperatist droid army at the height of the Clone Wars. The Galactic Empire contracted BlasTech to produce an alternate model with fully-automatic capabilities, which resulted in the SE-14r Repeater Pistol. However, overheating stemming from prolonged discharges of that weapon would warp the barrel, causing potentially catastrophic malfunctions.
 [P]The SE-14C addresses the heat management issue by integrating the power pack into the back of the barrel. The clip, blaster gas, and barrel are changed out as a solid piece while reloading. A valve allows viable clips to be recharged during downtime to keep costs down. Although the Empire uses the SE-14C primarily as a sidearem, the blaster's intimidating reputation has made it popular among mercenaries and thieves.</Description>
-    <Source Page="42">Forged in Battle</Source>
+    <Source Page="42">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -15657,7 +15641,7 @@ Of all standard issue Imperial blasters, few pack as much bang per credit as the
 The BlasTech SE-14r, also known as the Imperial repeating pistol, combines the portability and ease of use of a blaster pistol with a high rate of fire. These weapons are carried as side arms by some Imperial officers (including some stormtrooper commanders) and pilots. Manufactured specifically for Imperial forces, some of these weapons inevitably find their way onto the black market, where they fetch a high price.
 
 [P]Due to its high rate of fire, the SE-14r is more likely to run out of ammo during an extended firelight or series of engagements. The GM may spend [TH][TH][TH] to cause a character's SE-14r to run out of ammo.</Description>
-    <Source Page="43">Dangerous Covenants</Source>
+    <Source Page="43">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -15765,7 +15749,7 @@ For all these reasons, and the fact that its slugs can
 penetrate most light laminate armors, the SH-9 is a
 favorite boot gun among Alliance SpecOps soldiers.
 [P]Add [SE] to Perception checks to find an SH-9 slugthrower pistol on a person's body. Add [SE] to Perception or Vigiliance checks made to locate a concealed shooter firing an SH-9 slugthrower pistol.</Description>
-    <Source Page="46">Forged in Battle</Source>
+    <Source Page="46">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
     <Categories>
@@ -15855,7 +15839,7 @@ the shaped thermal grenade to obliterate structures
 and punch through heavy armor. However, the sheer
 cost of these deadly explosives means that they are
 deployed sparingly, at least by supply-conscious organizations like the Alliance to Restore the Republic.</Description>
-    <Source Page="47">Forged in Battle</Source>
+    <Source Page="47">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -15928,7 +15912,7 @@ deployed sparingly, at least by supply-conscious organizations like the Alliance
       [H3]Shistavanen Combat Utility Vibroblade[h3]
 The wilds of Uvena Prime can be harsh and unforgiving, and have claimed countless Shistavanen hunters. For this reason, Shistavanen survivalists devised an item with every conceivable tool necessary to survive in the wilderness and in battle, dubbed the "Combat Utility Vibroblade". Shistavanens say that no respectable surivalist would be caught dead without this handy gadget, though their opinion is often somwhat biased. Still, each C.U.V. is a custom configuration, equipped with eight different tools of the owner's choosing, and as such these devices are extremely useful in the wilds. Containing anything from a fire starter to a hydrospanner to a water contaminant detector, the C.U.V. is many a survivalist's best friend.
 [P]The Combat Utility Vibroblade serves as a tool kit to allow Mechanics checks to repair devices and to "heal" droids, but adds [SE] to such checks. Additionally, it adds [BO] to the character's Survival checks.</Description>
-    <Source Page="48">Forged in Battle</Source>
+    <Source Page="48">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -15980,7 +15964,7 @@ SHOCK BOOTS
 Though shock gloves are fairly common among criminals and law enforcement personnel alike, shock boots are a specialty item crafted for those who are determined not to be caught defenseless under any circumstances. A solid kick from these boots activates the miniature power generators and electrical circuitry in their soles, delivering a paralyzing shock to an opponent. Generally indistinguishable from normal boots, few notice shock boots' dangerous capabilities until it's too late.
 
 [P]Shock boots are worn on the feet, and thus do not require a hand to wield. Add [SE] to a character's Perception checks to notice that shock boots are a weapon rather than merely normal footwear.</Description>
-    <Source Page="45">Fly Casual</Source>
+    <Source Page="45">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Brawling</Type>
     <Categories />
@@ -16252,7 +16236,7 @@ Though the Jedi Order was primarily known for its use of lightsabers, there have
 A particularly vicious slugthrower, the KD-30 "Dissuader" fires special ammunition filled with a particularly caustic acid capable of eating through armor, flesh, and bone. Outlawed in many "civilized" parts of the galaxy, the KD-30 is a disconcertingly common weapon in Hutt Space.
 
 [P]The acid in the Dissuader's ammunition continues to cause damage over time. A target struck by a round from the KD-30 suffers one wound, ignoring soak, at the beginning of his turn for the next two rounds.</Description>
-    <Source Page="102">Lords of Nal Hutta</Source>
+    <Source Page="102">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
     <Damage>4</Damage>
@@ -16694,7 +16678,7 @@ The Loronar spray rifle fires a highly pressurized stream of fluid. The fluid af
       [H3]SSB-1 Static Pistol[h3]
 
 Originally developed by long defunct Systech Corporation several thousand years ago, the design was recently revived by SoroSuub as the SSB-1 static blaster pistol. Firing a powerful bolt of electricity generated by high-energy piezoelectric crystals within the weapon, the static blaster is only useful at close ranges, but a couple of blasts can bring down a Wookiee or even a full-grown gundark. Due to the exceptionally low energy requirements to supercharge the crystals, energy packs in static pistols can power the weapon through thousands of firings. However, the internal alignment of the crystals is very exact, and the pistol can stop functioning if damaged or roughly handled.</Description>
-    <Source Page="45">Fly Casual</Source>
+    <Source Page="45">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -16837,7 +16821,7 @@ One of the smallest, most easily concealed weapons in the galaxy, the Prax Arms 
 [P]Each dart can be loaded with 1 dose of neuro-toxin, anesthetic, or neuroparalytic (see page 172 of the [B]Edge of the Empire[b] Core Rulebook) Or any other poison (such as those on page 109) the GM deems appropriate. Whenever the wielder successfully attacks a target with the weapon (whether or not he deals damage), the target also suffers the effects of being exposed to the poison.
 
 Add [SE][SE] to Perception checks to find a Stealth-2VX Palm Shooter on a wearer's body.</Description>
-    <Source Page="102">Lords of Nal Hutta</Source>
+    <Source Page="102">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
     <Damage>1</Damage>
@@ -16872,7 +16856,7 @@ Add [SE][SE] to Perception checks to find a Stealth-2VX Palm Shooter on a wearer
 The ST-M40 is a repeating blaster pistol based loosely on Merr-Sonn's best-selling DD6. Somewhere between a heavy blaster pistol and a blaster carbine, the ST-M40 is a medium-sized weapon with a short, heavily shrouded barrel and a folding shoulder stock. In combat, the ST-M40 features a select-fire setting that allows it to be fired as a single-shot, semiautomatic weapon or in full auto. Although its short barrel and auto-fire setting have a deleterious effect on the weapon's accuracy, the ST-M40 is wildly popular among special operations teams and vehicle crews for its size, durability, and ease of use.
 [P]During combat, GMs may make this weapon run out of ammunition by spending [TH][TH]. This is in addition to the standard spending of [DE].</Description>
     <Sources>
-      <Source Page="39">Cyphers and Masks</Source>
+      <Source Page="39">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -17388,7 +17372,7 @@ copies of the T-7 schematics escaped deletion, and private weapon manufacturers 
 [P]Like other disruptor weapons, T-7 ion disruptors may never benefit from upgrades or attachments that improve their range or grant multiple shots.
 [P]Whenever a living target is hit with a T-7 ion disruptor, any Critical Injury results in a “Crippled” effect, unless the roll on [B]Table 6-10: Critical Injury[b] Result on page 231 of the [B]Age of Rebellion[b] Core Rulebook would result in a more grievous injury.
 [P]Whenever a vehicle or starship is hit with a T-7 ion disruptor, any Critical Hit results in a “Component Hit” effect, unless the roll on [B]Table 7-9: Critical Hit[b] Result on page 258 of the [B]Age of Rebellion[b] Core Rulebook would result in a more serious effect.</Description>
-    <Source Page="44">Forged in Battle</Source>
+    <Source Page="44">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -17448,7 +17432,7 @@ copies of the T-7 schematics escaped deletion, and private weapon manufacturers 
 These devices were originally designed to extinguish fires aboard starships using a supercooling chemical agent, but independent operators quickly discovered that removing the safety nozzles from CryoBan projectors could turn them into lethal weapons. Many smugglers keep several of these stashed in strategic locations around their ships, both to put out fires and, if necessary, repel boarders.
 
 [P]CryoBan projectors can be used to fight fires. A character armed with a CryoBan projector adds [BO] to attempts to put out a fire. Assisted checks to extinguish the flames add one additional [BO] for each assist-ing character equipped with a CryoBan projector.</Description>
-    <Source Page="45">Fly Casual</Source>
+    <Source Page="45">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -17618,7 +17602,7 @@ Although unlikely to inflict significant damage upon initial impact, termite tor
 Though similar in appearance to a vibro-ax, the SoroSuub Model 7 operates on very different principles. The ax head is crafted from a superconductive durasteel alloy, with thermal coils concealed just beneath the surface, running to the power supply located under the blade. When activated, the ax blade quickly reaches temperatures in excess of 500 degrees. Even a glancing blow or near miss can ignite flammable materials, while a direct hit can incinerate flesh. Those wielding the weapon usually don heat-resistant garb, as their proximity to the blade can otherwise be quite unpleasant.
 
 [P]A therm-ax requires two hands to wield.</Description>
-    <Source Page="48">Dangerous Covenants</Source>
+    <Source Page="48">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -18012,7 +17996,7 @@ Tractor beams are modified shield generators that project a beam of energy that 
       [H3]Grappler 213 Tactical Tractor Beam[h3]
 
 A tactical tractor beam is a relatively small and low powered tractor beam system. While not strong enough to control an enemy craft's movement while it is able to maneuver, the tactical tractor beam can slow it down, reduce its maneuverability and disrupt its attacks. Some pilots find these devices provide an invaluable edge in dogfighting, but others believe the distraction they cause is more trouble than benefit.</Description>
-    <Source Page="62">Dangerous Covenants</Source>
+    <Source Page="62">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -18242,7 +18226,7 @@ Massive, heavy-caliber weapons with incredible energy requirements, turbolasers 
 Long spears used by the Nikto, tuskbeast pikes were originally developed to hunt the giant, mutated predators of Kintan. Though tuskbeasts are now extinct, many Nikto still carry these weapons. Traditionally, the polearms' hafts are carved from slain tuskbeasts' ivory and bone, often elaborately carved with sacred images and poetry from Nikto mythology.
 
 [P]The tuskbeast pike requires two hands to wield.</Description>
-    <Source Page="104">Lords of Nal Hutta</Source>
+    <Source Page="104">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
     </Categories>
@@ -18304,7 +18288,7 @@ This weapon, issued to clone military, police, shore patrol, and anti-riot units
 Initially designed by the Vacutech Combine—which ran out of capital and declared bankruptcy during the development of this weapon thanks to Imperial meddling—the Vac Attack is a small projectile launcher worn around the wrist like a chrono. It fires bursts of small, extremely sharp discs that can shred armor and flesh like a flechette. The weapon's spread can be adjusted so that it fires all of its discs in a single line or in a broad arc that can catch multiple targets. Entirely silent and easily concealable, the Mk-127 is often used for jobs in which silence and stealth are paramount.
 [P]Changing the weapon's spread from single to arc requires a maneuver and grants the weapon the Blast 6 item quality. If Blast is activated, the weapon's supply of discs is exhausted in the shot. When worn on both wrists, Mk-127s can be fired as if they were a single weapon with a regular combat check, gaining the Linked 2 quality. Noticing that an individual is wearing one or a pair of these weapons requires a [B]Hard ([DI][DI][DI]) Perception check[b]. At the Game Master's discretion, the discs can be coated with various toxins. Reloads for the Mk-127 contain four discs and cost 100 credits.</Description>
     <Sources>
-      <Source Page="39">Cyphers and Masks</Source>
+      <Source Page="39">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -18354,7 +18338,7 @@ Initially designed by the Vacutech Combine—which ran out of capital and declar
 Initially designed by the Vacutech Combine—which ran out of capital and declared bankruptcy during the development of this weapon thanks to Imperial meddling—the Vac Attack is a small projectile launcher worn around the wrist like a chrono. It fires bursts of small, extremely sharp discs that can shred armor and flesh like a flechette. The weapon's spread can be adjusted so that it fires all of its discs in a single line or in a broad arc that can catch multiple targets. Entirely silent and easily concealable, the Mk-127 is often used for jobs in which silence and stealth are paramount.
 [P]Changing the weapon's spread from single to arc requires a maneuver and grants the weapon the Blast 6 item quality. If Blast is activated, the weapon's supply of discs is exhausted in the shot. When worn on both wrists, Mk-127s can be fired as if they were a single weapon with a regular combat check, gaining the Linked 2 quality. Noticing that an individual is wearing one or a pair of these weapons requires a [B]Hard ([DI][DI][DI]) Perception check[b]. At the Game Master's discretion, the discs can be coated with various toxins. Reloads for the Mk-127 contain four discs and cost 100 credits.</Description>
     <Sources>
-      <Source Page="39">Cyphers and Masks</Source>
+      <Source Page="39">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -18410,7 +18394,7 @@ Initially designed by the Vacutech Combine—which ran out of capital and declar
 Falling somewhere between brass knuckles and a sword, vamblades are dagger-length blades extending from durasteel vambraces, which provide a degree of protection to the wielder's forearms in a knife fight, as well as mounting the blade itself. The S-1 from Prax Arms includes a magnetic locking mechanism, allowing the user to retract or extend the blade with a simple flick of his wrist. When retracted, the blade can easily be hidden under a heavy coat, robe, or similar garb, making these weapons a favorite of assassins.
 
 [P]Wrist blades are designed to be worn as a pair, and open up a whole range of combat options when used thus by a properly-trained fighter. When used as a pair, wrist blades gain the Sunder and Accurate 1 weapon qualities. (This applies even if they are not used with two weapon combat rules to gain an additional hit.) Vamblades cannot deal damage to a target's strain threshold.</Description>
-    <Source Page="48">Dangerous Covenants</Source>
+    <Source Page="48">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Brawling</Type>
     <Categories>
@@ -18457,7 +18441,7 @@ Falling somewhere between brass knuckles and a sword, vamblades are dagger-lengt
 Falling somewhere between brass knuckles and a sword, vamblades are dagger-length blades extending from durasteel vambraces, which provide a degree of protection to the wielder's forearms in a knife fight, as well as mounting the blade itself. The S-1 from Prax Arms includes a magnetic locking mechanism, allowing the user to retract or extend the blade with a simple flick of his wrist. When retracted, the blade can easily be hidden under a heavy coat, robe, or similar garb, making these weapons a favorite of assassins.
 
 [P]Wrist blades are designed to be worn as a pair, and open up a whole range of combat options when used thus by a properly-trained fighter. When used as a pair, wrist blades gain the Sunder and Accurate 1 weapon qualities. (This applies even if they are not used with two weapon combat rules to gain an additional hit.) Vamblades cannot deal damage to a target's strain threshold.</Description>
-    <Source Page="48">Dangerous Covenants</Source>
+    <Source Page="48">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Brawling</Type>
     <Categories>
@@ -18673,7 +18657,7 @@ that can serve as sniper weapons. The Verpine are a largely peaceful species, an
       [H3]Corondexx VES-700 Pulse Rifle[h3]
 
 Often used by urban riot police and bounty hunters, the Corondexx VES-700 pulse rifle has also found a place aboard many of the light freighters roaming the galaxy. Firing a rapid series of micro-bursts in a wide blast pattern, the pulse rifle is particularly effective in closed spaces, such as the corridors of a starship.</Description>
-    <Source Page="44">Fly Casual</Source>
+    <Source Page="44">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -18798,7 +18782,7 @@ A vibroknife is essentially a modded combat knife, but since they have proven so
 Most often found in the hands of the Weequay, these vibro-glaives consist of a heavy, single-edged head affixed to a pole up to two meters in length. Such weapons are particularly popular among the dark wolf beastmasters of Sriluur, who use the flat edge of the polearm to keep their charges in line, exploiting the glaive's reach to maintain a relatively safe distance from the lethal tails of the raquor'daan. The Weequay made use of vibro-glaives in their wars with the Houk, using these vicious weapons to even the odds in close combat.
 
 [P]The beastmaster's vibro-glaive requires two hands to wield. </Description>
-    <Source Page="103">Lords of Nal Hutta</Source>
+    <Source Page="103">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Cutting Edge Melee</Category>
@@ -18834,7 +18818,7 @@ Most often found in the hands of the Weequay, these vibro-glaives consist of a h
 The Czerka model VX is similar to other vibroswords, but with a much longer, heavier blade and an extended hilt accommodating a two-handed grip. Many skilled swordsmen favor the "Czerhander," which rivals a vibro-ax for hitting power, while granting the wielder greater control. The well-balanced blade allows for effective parrying, despite its size and weight.
 
 [P]A vibro-greatsword requires two hands to wield.</Description>
-    <Source Page="48">Dangerous Covenants</Source>
+    <Source Page="48">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -18887,7 +18871,7 @@ The Czerka model VX is similar to other vibroswords, but with a much longer, hea
 For those who like to let their fists do the talking, a set of vibroknucklers can ensure the last word. Worn like the more common brass knuckles, a small blade running the length of the wearer's knuckles vibrates at an ultrasonic rate when the user clenches his fist. Without changing his fighting style, a brawler equipped with vibroknucklers can easily inflict horrific and fatal wounds with simple punches.
 
 [P]Add [SE] to attempts to locate vibroknucklers concealed about an individual's body. Vibroknucklers cannot deal damage to a target's strain threshold. </Description>
-    <Source Page="48">Dangerous Covenants</Source>
+    <Source Page="48">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Brawling</Type>
     <Categories>
@@ -19070,7 +19054,7 @@ Seen in some of the more remote areas of the galaxy, especially in rougher and m
       [H3]Vibrorapier[h3]
 
 A long, slender-bladed vibrosword, a vibrorapier is extremely well-balanced and suited for professional artists of the blade. Designed primarily for thrusting, the vibrorapier can penetrate virtually any armor, making it an exceptionally deadly blade in the hands of trained sword-wielder. Unlike other vibroblades, which emit an audible hum, vibrorapiers are completely silent, making them useful for those who rely on stealth to survive.</Description>
-    <Source Page="46">Fly Casual</Source>
+    <Source Page="46">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -19307,7 +19291,7 @@ The VL-6 warhead launcher is a missile launcher developed by Krupx Munitions and
       [H3]Vodran Hunting Rifle[h3]
 
 These rifles, usually crafted by hand in local Vodran workshops, are commonly found in the hands of skilled dianoga hunters (or occasionally in the stomachs of dianogas). While not particularly advanced, these weapons are powerful enough to kill most predators that roam the swamps of Vodran. Cunning hunters often set up a blind in the lower branches of a mangle tree and wait for a dianoga to pop its eyestalk up from the murky waters, then blind the creature with a well-aimed shot before moving in to finish it off.</Description>
-    <Source Page="102">Lords of Nal Hutta</Source>
+    <Source Page="102">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
     <Damage>7</Damage>
@@ -19411,7 +19395,7 @@ A spear is essentially a blade at the end of a long pole, typically about two me
       [H3]VX "Sidewinder" Repeating Blaster[h3]
 
 Unlike other repeating blasters, the SoroSuub VX achieves its high rate of fire through the use of five rotating barrels. Each barrel features its own actuating blaster module, galven coil, and crystal housing, distributing wear and preventing excessive buildup of heat on any one barrel. Though designed for use with its included bipod (see page 188 of the [B]Edge of the Empire[b] Core Rules), a wielder with sufficient strength can carry and even fire the weapon on the move, albeit invariably with reduced accuracy. Users who intend to wield the VX in this way often attach a shoulder strap, although even then the weapon requires two hands to wield. </Description>
-    <Source Page="43">Dangerous Covenants</Source>
+    <Source Page="43">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -19635,7 +19619,7 @@ Incendiary grenades are relatively uncommon among the galaxy's militaries. Most 
 Wrist blasters are custom-made self-defense weapons worn by diplomats, espionage agents, businesspeople, and other individuals who need an inconspicuous personal defense weapon. Typically built into a bracelet or large-framed chrono, these weapons fire an extremely powerful blast at little more than arm's length. Good for only one shot, the blaster mechanism focuses all of its power into a single, high-powered blast that can penetrate most armor and can incapacitate or even kill the toughest opponent in the blink of an eye. Despite their utility, wrist blasters have a number of downsides. They are illegal on most worlds, although that doesn't stop individuals from using them. In addition, their range is pitifully short: users must be almost touching their target for the weapon to have any effect. Finally, since wrist blasters are only good for one shot, a user is put in a precarious situation if the blast fails to incapacitate or kill the intended target.
 [P]Noticing that an individual is wearing a wrist blaster requires a [B]Daunting ([DI][DI][DI]) Perception check[b]. At the Game Master's discretion, [TH][TH][TH] or [DE] can be spent on a user's Ranged (Light) check to have the weapon burn the user and deal 5 wounds.</Description>
     <Sources>
-      <Source Page="40">Cyphers and Masks</Source>
+      <Source Page="40">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -19841,7 +19825,7 @@ This extendable cudgel integrates a set of conductor contact vanes that can effe
 The Galactic Republic purchased many of its heavy weapons from Merr-Sonn Munitions during the last war, but the Z-6 rotary cannon was by far the most commonplace Merr-Sonn weapon on the battlefield. Due to its widespread use in the Clone Wars, the Z-6 is easily found on the black market and through weapons dealers. Rebel heavy weapon specialists frequently adopt the Z-6 as their weapon of choice, and Merr-Sonn still manufactures a steady supply for the Imperial millitary. With a single pull of the trigger, the Z-6 rotary blaster cannon releases a burst of a dozen shots, covering an area in a hail of blaster fire. However, the weapon is prone to overheating, especially when used overzealously to provide covering fire or otherwise suppress enemy forces for long periods of time.
 [P]The weapon can only be used in Auto-fire mode. The GM may spend [DE] or [TH][TH] from any combat check made with this weapon to have it overheat; the wielder suffers 2 strain and the weapon becomes damaged one step; from undamaged to Minor, Minor to Moderate, or Moderate to Major (see page 172 of the [B]Age of Rebellion[b] Core Rulebook).</Description>
     <Sources>
-      <Source Page="44">Forged in Battle</Source>
+      <Source Page="44">Дополнение: Закаленные в битве (Forged in Battle)</Source>
       <Source Page="52">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>

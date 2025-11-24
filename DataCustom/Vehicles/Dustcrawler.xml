@@ -9,7 +9,7 @@ Designed by the House of Tagge for mining operations on airless moons and large 
 The standard Dustcrawler features three connected cars, but Dustcrawlers are designed to be modular and customizable, so additional cars can be added to create a larger train. Adding cars to a Dustcrawler has the following effects upon the vehicle's statistics:
 [P]Each additional car adds 1 to the Dustcrawler's silhouette, an additional crew member (a conductor, who coordinates their car with the others), and an additional + 100 to encumbrance capacity. The passenger capacity increases by 10 for each additional car, and 2 additional hard points are added as well. Each car adds another 20,000 credits to the Dustcrawler's price.
 [P]Dustcrawlers of four or more cars are often found in use as mass transit vehicles in airless environments. For example, Polis Massa Base uses 5-car Dustcrawlers to ferry workers between the living quarters and the mining operation, carrying an entire shift of workers at a time.</Description>
-  <Source Page="60">Unlimited Power</Source>
+  <Source Page="60">Дополнение: Абсолютная власть (Unlimited Power)</Source>
   <Custom>DescOnly</Custom>
   <Type>Groundcar</Type>
   <Categories>

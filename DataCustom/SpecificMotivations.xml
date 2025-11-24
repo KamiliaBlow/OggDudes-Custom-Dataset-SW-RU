@@ -182,7 +182,7 @@ The Player Character makes all or part of his living off of illegal dealings of 
     <Name>The Force</Name>
     <Description>
       [H4]The Force[h4]</Description>
-    <Source Page="68">Age of Rebellion Beta Rulebook</Source>
+    <Source Page="68">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -199,7 +199,7 @@ The absolute and autocratic rule of the Emperor is an offense to this Player Cha
     <Name>Free Enterprise</Name>
     <Description>
       [H4]Free Enterprise[h4]</Description>
-    <Source Page="68">Age of Rebellion Beta Rulebook</Source>
+    <Source Page="68">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -225,7 +225,7 @@ The character has a strong, unshakable sense of right and wrong, and he sees the
     <Name>Liberty</Name>
     <Description>
       [H4]Liberty[h4]</Description>
-    <Source Page="68">Age of Rebellion Beta Rulebook</Source>
+    <Source Page="68">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -233,7 +233,7 @@ The character has a strong, unshakable sense of right and wrong, and he sees the
     <Name>Order</Name>
     <Description>
       [H4]Order[h4]</Description>
-    <Source Page="68">Age of Rebellion Beta Rulebook</Source>
+    <Source Page="68">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -678,7 +678,7 @@ The Player Character's family believes in the cause of the Alliance. Many of the
       [H4]Mayhem[h4]
  The character derives pleasure through destruction. He seldom passes up a chance to cause conflict and confusion in his work, even to the possible detriment of his own well-being. Extreme examples of this may even be forms of mental illness.</Description>
     <Sources>
-      <Source Page="34">Dangerous Covenants</Source>
+      <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="34">Stay on Target</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -690,7 +690,7 @@ The Player Character's family believes in the cause of the Alliance. Many of the
       [H4]Life Debt[h4]
 The character owes someone else, and owes them big. His life is in someone else's hands, and this debt requires him to fight. He may or may not enjoy this. but this motivation is so strong that it overrides his other desires.</Description>
     <Sources>
-      <Source Page="34">Dangerous Covenants</Source>
+      <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="34">Stay on Target</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -741,7 +741,7 @@ The character has long since lost his lust for battle, and fights not because he
       [H4]Violent Conquest[h4]
 The character is driven to conquer whatever and whomever he comes across. If they do not submit. he is more than willing to employ force against them.</Description>
     <Sources>
-      <Source Page="34">Dangerous Covenants</Source>
+      <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="34">Stay on Target</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -752,7 +752,7 @@ The character is driven to conquer whatever and whomever he comes across. If the
     <Description>
       [H4]Squadmates[h4]
 One can never truly know his colleagues until he serves with them in battle. While the character may be a bit distant from non-veterans, he is a true and loyal friend to anyone with whom he has fought.</Description>
-    <Source Page="34">Dangerous Covenants</Source>
+    <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -761,7 +761,7 @@ One can never truly know his colleagues until he serves with them in battle. Whi
     <Description>
       [H4]Blood Money[h4]
 Simply put, violence is this character's business, and that business is never in short supply. The character knows no other way to make his way in the galaxy, and thus treats his bloody work as any other job.</Description>
-    <Source Page="34">Dangerous Covenants</Source>
+    <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -771,7 +771,7 @@ Simply put, violence is this character's business, and that business is never in
       [H4]Honor in Battle[h4]
 The character holds true to a code of honor in warfare. This code could be an ancient tradition of one of the myriad civilizations in the galaxy or it could be his own personal beliefs. Whatever life case, his honor depends on following these tenets, even when it may be inconvenient.</Description>
     <Sources>
-      <Source Page="34">Dangerous Covenants</Source>
+      <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="34">Stay on Target</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -782,7 +782,7 @@ The character holds true to a code of honor in warfare. This code could be an an
     <Description>
       [H4]Best in the Field[h4]
 Be the best: that's the creed by which this character lives. In this case, he strives to be the best combatant. He wants to be the last one standing on the field of battle, the consummate warrior. He is willing to do whatever it takes to accomplish this.</Description>
-    <Source Page="34">Dangerous Covenants</Source>
+    <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -792,7 +792,7 @@ Be the best: that's the creed by which this character lives. In this case, he st
       [H4]Revenge[h4]
 The character is driven by one of the oldest and most primal causes in the Galaxy—the desire to avenge some real or perceived wrong the character has suffered. The character's hunger for vengeance may be justified or not. but it is a cold, heartless master that can drive the character to obsession.</Description>
     <Sources>
-      <Source Page="34">Dangerous Covenants</Source>
+      <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="34">Stay on Target</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -803,7 +803,7 @@ The character is driven by one of the oldest and most primal causes in the Galax
     <Description>
       [H4]Out of the Game[h4]
 The character works as a mercenary not because he loves the violence, but because he needs to earn enough to buy his way out. This could be trying to accumulate enough money to retire, pay off his debts, or even perform some action to repay a friend before he gives up his life of violence.</Description>
-    <Source Page="34">Dangerous Covenants</Source>
+    <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -813,7 +813,7 @@ The character works as a mercenary not because he loves the violence, but becaus
       [H4]TAdrenaline Junky[h4]
 Excitement, adventure; the character loves every bit of it. He doesn't fight for money, revenge, or a thirst for blood. He fights because he can't get enough of the incredible thrill of risking his life and coming out on top.</Description>
     <Sources>
-      <Source Page="34">Dangerous Covenants</Source>
+      <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="34">Stay on Target</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -877,7 +877,7 @@ The Player Character represents a faction, planet, or sector that is part of the
     <Name>Rescuer</Name>
     <Description>
       [H4]Rescuer[h4]</Description>
-    <Source Page="69">Age of Rebellion Beta Rulebook</Source>
+    <Source Page="69">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -885,7 +885,7 @@ The Player Character represents a faction, planet, or sector that is part of the
     <Name>Rival</Name>
     <Description>
       [H4]Rival[h4]</Description>
-    <Source Page="69">Age of Rebellion Beta Rulebook</Source>
+    <Source Page="69">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1900,7 +1900,7 @@ This character has lived a sheltered existence and views the galaxy at large as 
     <Description>
       [H4]Death[h4]
 What happens to beings when they die? Is death a necessary part of existence, or is something to be fought against at every opportunity? Can someone cheat death and, if so, what is the cost? These are the questions that drive the character.</Description>
-    <Source Page="35">Unlimited Power</Source>
+    <Source Page="35">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1909,7 +1909,7 @@ What happens to beings when they die? Is death a necessary part of existence, or
     <Description>
       [H4]Life[h4]
 Is life simply a biological and chemical creation? Or is it something more? Force users have an understanding that the Force is linked to life, and life to the Force. However, what it means to be a living being is still largely not understood. They also grapple with the question of life itself: should sentient beings be protected? Or does life serve no meaning beyond its own instincts and needs? Sometimes, life itself must be assumed as a burden or gift alike.</Description>
-    <Source Page="35">Unlimited Power</Source>
+    <Source Page="35">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1918,7 +1918,7 @@ Is life simply a biological and chemical creation? Or is it something more? Forc
     <Description>
       [H4]The Force[h4]
 What is the Force? How and why does it exist, and does it have a will of its own? Does the Force determine one’s actions, or obey one’s commands? Or is it both, and if that is true, how is that possible? Many ancient Jedi meditated on the mysteries of the Force, though to solve them all is likely impossible.</Description>
-    <Source Page="35">Unlimited Power</Source>
+    <Source Page="35">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1927,7 +1927,7 @@ What is the Force? How and why does it exist, and does it have a will of its own
     <Description>
       [H4]Destiny and Fate[h4]
 The character wants to know if destiny truly exists. Do all beings have a fate set down for them at the moment of their creation? Can one thwart their fate, or is it an exercise in futility? And if one fulfills their destiny, what then? Above all, the character wants to know what their own destiny is, and must decide whether to fulfill or avoid it.</Description>
-    <Source Page="35">Unlimited Power</Source>
+    <Source Page="35">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1936,7 +1936,7 @@ The character wants to know if destiny truly exists. Do all beings have a fate s
     <Description>
       [H4]Happiness[h4]
 What is happiness? What does it mean to be satisfied and happy with one’s life, and is it fair to obtain happiness while it is denied to others? The character strives to understand the true nature of happiness, and hopes that by unlocking this mystery, they may find happiness for themselves as well.</Description>
-    <Source Page="35">Unlimited Power</Source>
+    <Source Page="35">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1945,7 +1945,7 @@ What is happiness? What does it mean to be satisfied and happy with one’s life
     <Description>
       [H4]Balance[h4]
 Does the universe require balance? For every good thing in the galaxy, must there be a bad thing as well? Can the light ever win out over the darkness, or must they always be locked in eternal struggle? The character strives to discover these mysteries, and may see themself as duty-bound to bring balance to the galaxy, for good or for ill.</Description>
-    <Source Page="35">Unlimited Power</Source>
+    <Source Page="35">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1954,7 +1954,7 @@ Does the universe require balance? For every good thing in the galaxy, must ther
     <Description>
       [H4]Suffering[h4]
 Why is there suffering in the galaxy? If the Force exists, created by life, why does it allow beings on countless worlds to spend lives in agony and pain? In fact, how could any benevolent higher power allow suffering to exist? By understanding the nature of suffering, the character hopes to unlock its role in existence, and gain some insight into why some people must bear burdens of pain and unhappiness.</Description>
-    <Source Page="35">Unlimited Power</Source>
+    <Source Page="35">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1963,7 +1963,7 @@ Why is there suffering in the galaxy? If the Force exists, created by life, why 
     <Description>
       [H4]The Jedi[h4]
 The Jedi existed for thousands of years before being wiped out by the Sith and Darth Sidious. In that time, they grew and changed in many ways, until their origins were a mystery even to themselves. The character hopes that by uncovering the mysteries of the Jedi, they might finally understand the role this order played in the galaxy.</Description>
-    <Source Page="35">Unlimited Power</Source>
+    <Source Page="35">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1972,7 +1972,7 @@ The Jedi existed for thousands of years before being wiped out by the Sith and D
     <Description>
       [H4]Other Force Traditions[h4]
 The Jedi are not the only practitioners to try and understand, and even use, the Force. There have been many Force-using traditions throughout the galaxy, some of which still exist today. The character wishes to understand these other traditions. Perhaps they know some fundamental truth of the Force that the Jedi, or the Sith, never truly understood.</Description>
-    <Source Page="35">Unlimited Power</Source>
+    <Source Page="35">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1981,7 +1981,7 @@ The Jedi are not the only practitioners to try and understand, and even use, the
     <Description>
       [H4]The Dark Side of the Force[h4]
 What is the nature of evil? The character seeks to truly understand the Force’s dark side and, in doing so, hopes to gain some insight into what it means to be alive. The character may plot to use this knowledge to achieve their own aims, or hope to better understand how to combat the darkness. However, there is always the risk that by trying to understand evil, it may corrupt the character in some way.</Description>
-    <Source Page="35">Unlimited Power</Source>
+    <Source Page="35">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2207,7 +2207,7 @@ The Great Jedi Purge that started with Order 66 at the end of the Clone Wars dep
     <Name>Purpose</Name>
     <Description>
       [H4]Purpose[h4]</Description>
-    <Source Page="69">Age of Rebellion Beta Rulebook</Source>
+    <Source Page="69">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2260,7 +2260,7 @@ There are few actions more dangerous than taking on the forces of the Empire in 
     <Name>Lost Treasure</Name>
     <Description>
       [H4]Lost Treasure[h4]</Description>
-    <Source Page="69">Age of Rebellion Beta Rulebook</Source>
+    <Source Page="69">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2314,7 +2314,7 @@ The character maintains ties with a friend from his childhood. Although the two 
     <Description>
       [H4]Local Civilian[h4]
 Soldiers often form quick bonds with the people who live on worlds where they deploy. The connection may be with a farmer who sells produce to the troops, a local youth who shares a love of military technology, or a village elder whose venerable traditions strike a chord within the Soldier. This bond can be an asset, supplying the PC with unique information on the region, but can also cause the Soldier emotional strife if this friend is dragged into the war.</Description>
-    <Source Page="36">Forged in Battle</Source>
+    <Source Page="36">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2323,7 +2323,7 @@ Soldiers often form quick bonds with the people who live on worlds where they de
     <Description>
       [H4]Lover[h4]
 The Soldier might have a spouse or other romantic relationship back home or within the unit. This Soldier fights to ensure this person’s safety, and in the hopes of returning safely to this person once the Empire has been defeated.</Description>
-    <Source Page="36">Forged in Battle</Source>
+    <Source Page="36">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2377,7 +2377,7 @@ The character is close with a pet or animal companion of some sort. a relatively
     <Description>
       [H4]Rival[h4]
 The Soldier has a rivalry with someone, and whether this person is a friend or a foe, the Soldier frames everything as part of the grand, ongoing competition between the two.</Description>
-    <Source Page="36">Forged in Battle</Source>
+    <Source Page="36">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2395,7 +2395,7 @@ The character has one or more siblings with whom he maintains close contact. The
     <Description>
       [H4]Tech[h4]
 A Soldier might have one very specific piece of technology that is especially precious, such as a droid, a vehicle or customized rifle. The character works hard to safeguard it, and spends any spare time or money on maintaining, repairing, or upgrading this cherished machine.</Description>
-    <Source Page="36">Forged in Battle</Source>
+    <Source Page="36">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2404,7 +2404,7 @@ A Soldier might have one very specific piece of technology that is especially pr
     <Description>
       [H4]Credits[h4]
 The Smuggler just wants to get paid. Smuggling is a career after all, and no one works for free. He may be a very successful Smuggler, but is always greedy for more credits. Or maybe he's just scraping by and reliant on payment for each job before he can repair his ship, feed his crew, and move on to the next contract. Perhaps he wants what he's owed, fair and square, or maybe dreams of winning big in a sabacc game. In any case, he is in it for the money. Smuggling can be very lucrative if he goes about it the right way and has luck on his side. There is always the chance, particularly in illegal dealings, that the employer won't want to pay out such cases, the Smuggler with the Credits Motivation does everything he can to claim his due.</Description>
-    <Source Page="35">Fly Casual</Source>
+    <Source Page="35">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2413,7 +2413,7 @@ The Smuggler just wants to get paid. Smuggling is a career after all, and no one
     <Description>
       [H4]Independence[h4]
 Not everyone thrives under Imperial rule. For some, the ability to make their own decisions, and their own mistakes, means everything. This Smuggler wants to choose which jobs to take and which to pass on. He pays off debts as quickly as he can, so he is beholden to no one. Ultimately, he wants to be his own boss, which probably means owning his own ship and developing the skills to function independently.</Description>
-    <Source Page="35">Fly Casual</Source>
+    <Source Page="35">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2422,7 +2422,7 @@ Not everyone thrives under Imperial rule. For some, the ability to make their ow
     <Description>
       [H4]Power[h4]
 For this Smuggler, success means having the skills, knowledge, credits, prestige, or contacts to wield some real power in the galaxy. Power comes in many forms. He might want to head his own smuggling ring one day, or maybe he hopes to work his way up the ranks of a larger organization like the Black Sun. If he's a Charmer, he may feel powerful when manipulating others. If he's a Thief, it might be when he's taking their prized possessions. For any Smuggler with this Motivation, the thrill of being important, of having power over others as well as his own life, is what drives him.</Description>
-    <Source Page="35">Fly Casual</Source>
+    <Source Page="35">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2431,7 +2431,7 @@ For this Smuggler, success means having the skills, knowledge, credits, prestige
     <Description>
       [H4]Victory[h4]
 This Smuggler enjoys triumphing over others. He challenges himself to fly faster than anyone else, to deceive them, to shoot more accurately than they can, or to steal things out from under their nasal appendages. His need to be better than everyone else incites him to be the best Smuggler he can be, but since he might take on particularly dangerous jobs to prove that he can smuggle better than anyone else, this Motivation could also be his undoing.</Description>
-    <Source Page="35">Fly Casual</Source>
+    <Source Page="35">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2440,7 +2440,7 @@ This Smuggler enjoys triumphing over others. He challenges himself to fly faster
     <Description>
       [H4]Beating the Odds[h4]
 Smuggling is not an easy or safe career, but some Smugglers like the challenge of a difficult job, game, or situation. In this case it is true that the higher the risk the higher the reward, but the Smuggler still has some tricks up his sleeve to tip the odds more in his favor. When trying to beat the house during a high-stakes game, a Gambler can use skill or even cheat to appear lucky. The Gunslinger facing multiple opponents can use his particular talents to escape unscathed. This Smuggler makes his own luck. and his perilous career allows him to do so. The desired outcome is the satisfaction of succeeding despite the odds.</Description>
-    <Source Page="35">Fly Casual</Source>
+    <Source Page="35">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2449,7 +2449,7 @@ Smuggling is not an easy or safe career, but some Smugglers like the challenge o
     <Description>
       [H4]Fame[h4]
 This Smuggler wants to make a name for himself. He may take the most dangerous, difficult jobs or seemingly make the impossible happen. However, this means nothing to him unless someone witnesses his success and spreads the word afterwards. The jobs he takes must at least conclude in known space and, ideally, he has an audience when he presents the Hutt with the priceless cargo or reunites the wealthy merchant with his long-lost daughter. He wants the adventures that people will talk about from Coruscant to the Outer Rim and beyond.</Description>
-    <Source Page="35">Fly Casual</Source>
+    <Source Page="35">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2458,7 +2458,7 @@ This Smuggler wants to make a name for himself. He may take the most dangerous, 
     <Description>
       [H4]Esteem[h4]
 Sometimes a Smuggler just wants to be good at what he does and impress those around him. Similar to Fame, but on a more personal scale, an Esteem Motivation makes a Smuggler crave the good opinion of his peers or the desire of others. The Smuggler with this Motivation displays bravado in the face of danger, but he also works hard to ensure that his ship and crew are up to the challenging jobs he wants to take.</Description>
-    <Source Page="35">Fly Casual</Source>
+    <Source Page="35">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2467,7 +2467,7 @@ Sometimes a Smuggler just wants to be good at what he does and impress those aro
     <Description>
       [H4]Experience[h4]
 The galaxy is a vast and varied place, with a myriad of species and landscapes to encounter. The career of a Smuggler offers a chance to explore, make new contacts, and turn a profit at the same time. It is a great choice of career for anyone who wants to see the galaxy but lacks the funding to do so at his leisure. Any Smuggler who values experience will look for jobs that allow him to learn new skills, try new technology, visit new places, or meet new people. He also likely possesses an eclectic mix of skills and knowledge.</Description>
-    <Source Page="35">Fly Casual</Source>
+    <Source Page="35">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2476,7 +2476,7 @@ The galaxy is a vast and varied place, with a myriad of species and landscapes t
     <Description>
       [H4]Moral[h4]
 Sometimes helping others is a reward in itself. Altruism may be a rare virtue, but smuggling attracts all sorts, and being a criminal does not mean the Smuggler has no moral code. A Smuggler might get a kick out of helping others, or he hopes to change the galaxy one good deed at a time. Either way, he wants to feel good about himself based on his own criteria. Whether he gains recognition as a hero or not does not matter.</Description>
-    <Source Page="35">Fly Casual</Source>
+    <Source Page="35">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2485,7 +2485,7 @@ Sometimes helping others is a reward in itself. Altruism may be a rare virtue, b
     <Description>
       [H4]Excitement[h4]
 Anyone craving adventure and excitement could easily end up as a Smuggler. For some, the jobs are not work but opportunities for adventure. The career is not dangerous but exciting and challenging. Risking everything in a game of chance delights this character, facing off against an armed opponent thrills him, and pushing his ship to its limits fleeing Imperial forces leaves him laughing like a maniac. Anyone traveling with this Smuggler is in for a wild ride.</Description>
-    <Source Page="35">Fly Casual</Source>
+    <Source Page="35">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2494,7 +2494,7 @@ Anyone craving adventure and excitement could easily end up as a Smuggler. For s
     <Description>
       [H4]Falsification[h4]
 A secret is valuable only so long as people believe it to be true. As such, these Spies enjoy twisting facts and adding fictitious details, making it a better story but also one that enemy agents can easily (but erroneously) disprove.</Description>
-    <Source Page="32">Cyphers and Masks</Source>
+    <Source Page="32">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2503,7 +2503,7 @@ A secret is valuable only so long as people believe it to be true. As such, thes
     <Description>
       [H4]Retrieval[h4]
 Tradecraft often involves penetrating enemy security systems to gain access to secrets, and some find this the grandest game of all. Only when battling their opposite numbers and stealing their secrets do these Spies come alive.</Description>
-    <Source Page="32">Cyphers and Masks</Source>
+    <Source Page="32">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
 <SpecificMotivation>
@@ -2512,7 +2512,7 @@ Tradecraft often involves penetrating enemy security systems to gain access to s
     <Description>
       [H4]Detection[h4]
 The first step in learning the contents of a secret is to learn there is something secretive that actually exists. Seeking out areas where secrets exist drives these Spies, while the actual information may be of lesser concern.</Description>
-    <Source Page="32">Cyphers and Masks</Source>
+    <Source Page="32">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2521,7 +2521,7 @@ The first step in learning the contents of a secret is to learn there is somethi
     <Description>
       [H4]Extraction[h4]
 Sometimes the only way to learn a secret is to persuade those with the information to part with it. Spies motivated in this way often develop effective techniques for pulling secrets from Imperials, making themselves quite invaluable to the Alliance war effort.</Description>
-    <Source Page="32">Cyphers and Masks</Source>
+    <Source Page="32">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2530,7 +2530,7 @@ Sometimes the only way to learn a secret is to persuade those with the informati
     <Description>
       [H4]Classification[h4]
 By their very nature, secrets only exist when someone makes them so. The act of hiding information away or marking it as unfit for open dissemination is just as important as seeking it out for these Spies. Buried in multiple layers of operational security concerns, they decide who should and should not learn these secrets.</Description>
-    <Source Page="32">Cyphers and Masks</Source>
+    <Source Page="32">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2539,7 +2539,7 @@ By their very nature, secrets only exist when someone makes them so. The act of 
     <Description>
       [H4]Analysis[h4]
 Information often has no identifiable value, even if it is directly associated with important projects or people. Only when it is properly analyzed and contextualized can secrets be truly understood, and these Spies will sift through mounds of information from a variety of sources to fully grasp its importance.</Description>
-    <Source Page="32">Cyphers and Masks</Source>
+    <Source Page="32">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2548,7 +2548,7 @@ Information often has no identifiable value, even if it is directly associated w
     <Description>
       [H4]Security[h4]
 Without proper encryption or methods of physically securing information, secrecy is impossible. These Spies are consumed with means of security and ensuring that secrets stay hidden.</Description>
-    <Source Page="32">Cyphers and Masks</Source>
+    <Source Page="32">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2557,7 +2557,7 @@ Without proper encryption or methods of physically securing information, secrecy
     <Description>
       [H4]Revelation[h4]
 Secrets, especially Imperial ones, have rarely been kept for good reasons. Allowing everyone to know the truth of the Empire drives these Spies, who strive to uncover secrets wherever possible.</Description>
-    <Source Page="32">Cyphers and Masks</Source>
+    <Source Page="32">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2566,7 +2566,7 @@ Secrets, especially Imperial ones, have rarely been kept for good reasons. Allow
     <Description>
       [H4]Tracking[h4]
 No secret exists on its own. Each one has a lineage and pedigree showing associated locations and persons of interest. Learning the true nature of secrets can consume these Spies, driving them to trace secrets back across years and parsecs, often uncovering other secrets along the way.</Description>
-    <Source Page="32">Cyphers and Masks</Source>
+    <Source Page="32">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2575,7 +2575,7 @@ No secret exists on its own. Each one has a lineage and pedigree showing associa
     <Description>
       [H4]Preservation[h4]
 Often the only way to keep a secret from unwanted revelation is to eliminate any who come into contact with the information. Guarding secrets drives such Spies, who ensure few learn the secret and live to tell others.</Description>
-    <Source Page="32">Cyphers and Masks</Source>
+    <Source Page="32">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
 </SpecificMotivations>
