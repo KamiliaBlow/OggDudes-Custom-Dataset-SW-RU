@@ -955,7 +955,7 @@ Little more than a pair of folding or collapsible legs mounted beneath the barre
       [H3]Blade Drain[h3]
  The Blade drain attachment works by creating a small power drain when in contact with another lightsaber blade. Once attached to a lightsaber hilt and wired into the power supply, the blade drain attachment draws energy from the power supply of an opponent's lightsaber via the energy blade contact is made. The draw is momentary but significant enough to reduce the effectiveness of an opponent's lightsaber, making it less capable of dealing damage.
 [P]There is, however, a risk that the drawn power could overload the power supply of the wielder's own lightsaber as the excess power is stored, causing a catastrophic failure in the device. Users of this modification consider it a small price to pay for reducing the combat effectiveness of their foes, a trade off that could save lives. This attachment can only be applied to lightsabers.</Description>
-    <Source Page="50">Disciples of Harmony</Source>
+    <Source Page="50">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -1638,7 +1638,7 @@ Designed for permanent installation, a containment field generator consists of t
     <Description>
       [H3]Corrupted Crystal[h3]
 Even the best of the Jedi can fall. The Empire scours the galaxy looking for the Force sensitives to enfold in the dark side. Untutored pupils wander far from the light, lost on dark paths from which they may never return. Many of them have either found or constructed lightsabers of their own with such crystals as they could and, in the course of their fall or their time astray, have committed heinous acts suffused with the dark side of the Force. They bend the kyber crystals in their lightsabers to their will, leading to the bloody red hue or are redeemed, they leave behind a weapon and a crystal strongly associated with the dark side of the Force. These crystals must be purged of their evil to avoid letting them fall into other hands and corrupt them as well. Thus, a Force user may take on the task of reclaiming these crystals. A corrupted crystal is a lightsaber crystal.</Description>
-    <Source Page="52">Disciples of Harmony</Source>
+    <Source Page="52">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -1705,7 +1705,7 @@ Even the best of the Jedi can fall. The Empire scours the galaxy looking for the
     <Description>
       [H3]Cracked Crystal[h3]
 With the destruction of the Jedi, the Empire has begun to horde kyber crystals for itself, capturing and controlling traditional sources of the crystals in order to develop strange new weapons. Force users must look for non-traditional sources of lightsaber crystals wherever they may be found, regardless of their condition. For example, with the destruction of the Death Star, a new, if difficult to access, source of crystals has been revealed. At the heart of the great battle stations lay a giant kyber crystal powering the lasers that destroyed Alderaan. When the Alliance destroyed Alderaan. When the Alliance destroyed the Death Star, the crystal shattered in the resulting explosion and scattered itself across the open space of the Yavin system. Most of the shards are unusable, either too small or too damaged to function, and many of them succumbed to the gravity wells of the planets of the Yavin system. However, some few remain, quietly circling among the remaining debris fields, cracked and unstable, but functional. Special lightsaber modifications are needed to use such crystals properly, but to the willing Force user, they can be made into distinctive blades. A cracked crystal is a lightsaber crystal.</Description>
-    <Source Page="52">Disciples of Harmony</Source>
+    <Source Page="52">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -4368,7 +4368,7 @@ These are typically very small, easily concealed compartments hidden in places s
       [H3]Hilt Masking Kit[h3]
 Often, openly carrying a lightsaber causes undue comment and notice. Owners of such a weapon may have many reasons to want a subtler presence, yet still keep their lightsaber by their side. Perhaps they must enter an area known to be under heavy Imperial scrutiny, or the mere presence of an obvious weapon may sour delicate negotiations. Whatever the reason, Force users may make use of a hilt-masking kit to disguise their weapon.
 [P]Just as each lightsaber is unique to its user, so too is each hilt-masking kit; there is no "universal" kit. The needs of the moment, or the personal tastes of the Force user, dictate what form each kit takes. Sometimes a hilt may be disguised as a cane; at other time it could be hidden as a part of a more mundane weapon like a blaster rifle; it may even appear to be something much more ordinary, like  a pair of microbinoculars. The cost, rarity, and encumbrance of a hilt-masking kit are the same as that of the item it is meant to look like. Whatever form the masking takes, it provides two important qualities: it looks as little like a lightsaber as possible, and it provides quick and easy access to the full weapon when needed.</Description>
-    <Source Page="50">Disciples of Harmony</Source>
+    <Source Page="50">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -7934,7 +7934,7 @@ Many assassins who use melee weapons choose to improve the lethality of their bl
     <Description>
       [H3]Pommel Cap[h3]
 Force users, especially those walking a path closely attuned to the light side of the Force, often seek non-lethal means for incapacitating their opponents. The pommel cap provides just such a solution. The pommel cap is a small, weighted knob or other similar piece attached to the base of a lightsaber's hilt. The increased weight and reinforcement provided by the pommel cap make pommel strikes with the lightsaber more effective, and less likely to damage the lightsaber itself, than a strike with a bare hilt. The pommel cap not only enhances the ability of a Force user to provide a stunning blow, but it can also be used to store small items of necessity-most often an additional backup power cell, though any number of small items can prove useful to a Force user in need. The pommel cap screws into the base of a lightsaber, and competent wielders often incorporate its use into their fighting style as a matter of course. This attachment can be applied to lightsabers or any Melee weapon with a hilt.</Description>
-    <Source Page="51">Disciples of Harmony</Source>
+    <Source Page="51">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -9053,7 +9053,7 @@ Although it is possible to modify a ship's transponder signal, doing so is eithe
     <Description>
       [H3]Seeker Crystal[h3]
 No one seems to know where these crystals come from or how they make their way into the hands of their users. Rumors persist of markets so dark that none but a handful of beings know about them. Other rumors suggest that these crystals have an entirely different purpose and only incidentally happen to function as lightsaber crystals with unusual properties. Still others say they come from the deepest edges of the galaxy, from stars yet unknown. Whatever the case may be, those few that are known to exist have served their users well, allowing them to avoid ambush and surprise attack. Users of these crystals seem to instinctively know when they are being secretly observed or when their charges are in danger from hidden assassins. When ignited, blades produced by these crystals glow a soft pink color and connect users to the Force in such a way that they are able to detect those who hide nearby. While it is not a compass pointing the way to hidden beings, a wielder will know without a doubt that a concealed foe is near. A seeker crystal is a lightsaber crystal.</Description>
-    <Source Page="53">Disciples of Harmony</Source>
+    <Source Page="53">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -9603,7 +9603,7 @@ These are concealed compartments installed in starships, especially freighters a
     <Description>
       [H3]Solari Crystal[h3]
 As rare as this type of kyber crystal is, some do find their way into the hands of Force sensitives highly attuned to the light side of the Force. Tales of solari kyber crystals come from the ancient past, and they have long been thought to be mere myths. However, they do exist, and it is a lucky Force user who can find one and make use of it. Or perhaps it is the will of the Force that those most in tune with the light side should happen upon them. They are not put to use lightly, though, for they demand much of their wielder. In exchange, they provide unparalleled protection against incoming fire. A solari crystal causes a lightsaber's blade to widen, thereby making much more effective at deflecting blaster bolts. A solari crystal is a lightsaber crystal.</Description>
-    <Source Page="53">Disciples of Harmony</Source>
+    <Source Page="53">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -9926,7 +9926,7 @@ By removing redundant components and stripping down the body, it is possible to 
       [H3]Stun Blaster Attachment[h3]
 Force sensitives trained or experienced in other fields prior to embarking on their current path may feel more comfortable using a ranged weapon before resorting to their lightsabers. Others may have reason to disguise their lightsabers, yet retain immediate access to them. Still others reason that if the threat of an opponent can be eliminated at range, so much the better for all concerned. While carrying a blaster pistol is one solution, some prefer a melding of blaster and lightsaber, perhaps believing that a personal weapon best reflects the Force user when it represents all aspects of the user's life, both present and past. Still, the tenets of the Jedi Order apply, and life is to be preserved if at all possible. The stun blaster attachment is seen as an acceptable compromise in these situations.
 [P]By stripping down an otherwise functional stun blaster, wiring it into the power supply of a lightsaber hilt, and bolting the resulting device to that hilt, a Force user can make use of the blaster without relinquishing immediate access to the lightsaber. This cannibalized stun blaster has a shorter range. Due to the energy draw on the lightsaber's power supply, it cannot be used simultaneously with the blade, but it is often a useful addition to the wielder's weaponry. This attachment has saved more than one life on both ends of the lightsaber.</Description>
-    <Source Page="51">Disciples of Harmony</Source>
+    <Source Page="51">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>

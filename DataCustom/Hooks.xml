@@ -291,7 +291,7 @@ The galaxy is full of armies, from numerous planetary defense forces to the awes
       [H4]Failed Initiate[h4]
 Not all who served in the now-destroyed Jedi Order rose to the rank of Knight. In fact, a great many did not even achieve the status of Padawan. Whether their connection to the Force was judged too weak, they did not possess the maturity to become Padawans when the time came, or no Jedi Knight would accept them into their apprenticeship, they never rose beyond the rank of Initiate. While many of these failed initiates entered the Jedi Service Corps, where they could serve as aides to the order, some simply turned their backs on the organization they felt had abandoned them. With the Empire now ruling the galaxy and the Jedi Knights exterminated, the failed initiates travel the galaxy, finding their own path in the Force.
 [P]Other failed initiates received training in traditions outside the Jedi Order, taking lessons from hidden mentors and ecentric wizards before either striking out on their own or being forced into the life of a fugitive by the Galactic Empire or other organizations. They have a great potential, but their lack of understanding may place them on a dangerous path.</Description>
-    <Source Page="11">Disciples of Harmony</Source>
+    <Source Page="11">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -681,7 +681,7 @@ Ecstatics allowed the Force to flow through them uninhibited. These people inter
     <Description>
       [H4]Relic Seeker[h4]
 [P]The past lives on, even when all those who were there to witness it have become one with the Force. Whether holocrons, ancient lightsabers, or personal journals, relics of the past are some of the galaxy's strongest connections to its once-thriving Force-using traditions, which are now all but annihilated. Some Consulars recognize these relics as tangible and vital links to a bygone era and actively seek these treasures of insight in forgotten and abandoned places. More dangerous than finding them is keeping them, however. Those who are caught carrying a Jedi holocron, Sith artifact, or other trinket are instantly branded traitors by the Empire. They are hunted to the farthest reaches of the Outer Rim Territories, and even beyond. However, this does not stop the seekers of relics. Consulars know that if balance and peace are to return to the galaxy and those strong in the Force are to have a place in it, a connection to the past must be maintained-even strengthened-with the recovery of these lost artifacts. Relic seekers who discovers a dark side artifact may unknowingly be carrying the very thing that will undo them, in the hope that it can be protected from the prying eyes and machinations of greater evil.</Description>
-    <Source Page="12">Disciples of Harmony</Source>
+    <Source Page="12">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -709,7 +709,7 @@ It's entirely possible for a merchant to spend his whole career transporting and
     <Description>
       [H4]Rogue Scholar[h4]
 Knowledge can be a dangerous thing and rogue scholars know this. Emperor Palpatine builds his Galactic Empire on a foundation of ignorance and propaganda. Rogue scholars dedicate themselves to not only finding the truth but, more importantly, revealing it to those who believe the deception and propaganda fed to them by the Empire. The Force guides these characters in their quest for truth, and the truths they find can shed light on even the deepest darkness. However, Consulars acting as rogue scholars cannot simply shine a beacon into the void. That would most likely get them killed. Instead, they pass on these vital truths to those who can use the information in ways Consulars cannot. After planting the seed of knowledge, they patiently watch and sometimes guide, until it blossoms into the fullness of undeniability-a binding truth that no amount of Imperial deception can diminish.</Description>
-    <Source Page="11">Disciples of Harmony</Source>
+    <Source Page="11">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -850,7 +850,7 @@ In the [B]Edge of The Empire[b], it can be hard to avoid occasionally interactin
     <Description>
       [H4]Wandering Diplomat[h4]
 [P]Inner peace and tranquility are hallmarks of those adept in the ways of the Force, but they are by no means easy states to reach. Consulars recognize that peace can be found in all moments, by all people-some just need more help than others. Wandering diplomats use their skills in the Force to help beings they encounter resolve conflict through discussion, concession, and patience. Whether acting as an advisor to a planetary official, a negotiator for a trade guild, or simply a traveling peacekeeper, a wandering diplomat strives to help other beings find harmony in the midst of chaos and stem the tide of the violence and bloodshed in the galaxy.</Description>
-    <Source Page="13">Disciples of Harmony</Source>
+    <Source Page="13">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>

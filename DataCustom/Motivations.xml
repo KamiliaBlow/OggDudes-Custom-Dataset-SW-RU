@@ -300,7 +300,7 @@ Characters who select this Motivation have a deep and abiding trust in some recu
       [H4]Growth[h4]
 Consulars reject complacency, striving to make themselves and their surroundings better than they were the day before. This drive for improvement can manifest itself in many ways, from self-improvement to helping feuding families resolve their differences. Other Consulars take a broader view and work toward nothing less than galactic peace.
 [P]In some instances, the desire not just for their own growth, but that of the party, might run counter to the goals of allied characters. This can create some intra-party tension and conflict, which the Consular is uniquely equipped to resolve peacefully. Still, it is important to note that Consulars with the Growth Motivation may put it ahead of more immediate concerns, or even initiate debates over compromised ideals at inopportune moments.</Description>
-    <Source Page="31">Disciples of Harmony</Source>
+    <Source Page="31">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>GROWTH1</Key>

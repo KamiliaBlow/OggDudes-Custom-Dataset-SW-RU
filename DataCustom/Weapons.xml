@@ -447,7 +447,7 @@ A280-CFE от BlasTech был разработан во время Войн кл
   </Weapon>
   <Weapon>
     <Key>ACPARRAYGUN</Key>
-    <Name>ACP Array Gun</Name>
+    <Name>УЗЧ-пушка/обрез (ACP Array Gun)</Name>
     <Description>
       [H3]ACP Array Gun[h3]
 
@@ -493,11 +493,11 @@ A280-CFE от BlasTech был разработан во время Войн кл
   </Weapon>
   <Weapon>
     <Key>ACPREPEATER</Key>
-    <Name>ACP Repeater Gun</Name>
+    <Name>УЗЧ-автоматический (ACP Repeater Gun)</Name>
     <Description>
       [H3]Arakyd Industries ACP Repeater Gun[h3]
 
-Ускоренный пистолет с репиатером - это карабин средней дальности, способный создавать огромное поле огня. Разработанный до Войн клонов для использования в городских и ближних боях, этот пистолет был признан недостаточно мощным для общего использования и ограниченно применялся в коммандос и других специализированных подразделениях. Однако оружие ACP пользуется успехом на частном рынке, особенно среди преступников, которые ценят его способность обстреливать небольшую площадь смертоносными заряженными частицами. Оружие ACP настолько популярно среди наемников-трандошан и убийц-ганков, что его часто называют "трандошанским чоппером" или "вертушкой Нар-Шаддаа".</Description>
+Ускоренный пистолет с повторителем - это карабин средней дальности, способный создавать огромное поле огня. Разработанный до Войн клонов для использования в городских и ближних боях, этот пистолет был признан недостаточно мощным для общего использования и ограниченно применялся в коммандос и других специализированных подразделениях. Однако оружие ACP пользуется успехом на частном рынке, особенно среди преступников, которые ценят его способность обстреливать небольшую площадь смертоносными заряженными частицами. Оружие ACP настолько популярно среди наемников-трандошан и убийц-ганков, что его часто называют "трандошанским чоппером" или "вертушкой Нар-Шаддаа".</Description>
     <Source Page="100">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
@@ -533,8 +533,8 @@ A280-CFE от BlasTech был разработан во время Войн кл
     <Description>
       [H3]Alternating-Fire Concussion Missile Launcher[h3]
 
-The more common and less powerful of the two types of shipboard ordnance, concussion missiles are found on all manner of spacecraft, from tiny starfighters to capital ships. Roughly a meter long, a concussion missile employs special warheads, combining a hardened durasteel penetrator that uses kinetic force to pierce through a ship's armor and a shaped high-explosive charge that causes damage through both explosive force and concussive shock. Concussion missiles are primarily anti-fighter weapons, used to quickly deal crippling damage to starfighters and patrol boats, although they perform well against larger targets as well.</Description>
-    <Source Page="56">Stay on Target</Source>
+Ударные ракеты - более распространенный и менее мощный из двух типов корабельного вооружения - используются на всех типах космических кораблей, от крошечных звездных истребителей до крупных кораблей. Ударная ракета длиной около метра оснащена специальной боеголовкой, сочетающей в себе упрочненный проникающий элемент из дюрастали, который использует кинетическую энергию для пробития брони корабля, и кумулятивный заряд, наносящий урон как взрывной силой, так и ударной волной. Ударные ракеты в первую очередь являются оружием против истребителей, используемым для нанесения быстрого и серьезного урона звездным истребителям и патрульным катерам, хотя они также хорошо справляются с более крупными целями.</Description>
+    <Source Page="56">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Missile</Category>
@@ -572,13 +572,13 @@ The more common and less powerful of the two types of shipboard ordnance, concus
   </Weapon>
   <Weapon>
     <Key>AJ23RIF</Key>
-    <Name>AJ-23 Concussive Rifle</Name>
+    <Name>Ударная винтовка AJ-23 (AJ-23 Concussive Rifle)</Name>
     <Description>
       [H3]Merr-Sonn AJ-23 Concussive Rifle[h3]
-Crowd-control situations pose a significant and recurring issue for law enforcement. Security personnel never want to use an inappropriate level of defensive force. Innocent deaths must be avoided at all costs. However, inadequate solutions dramatically limit an officer's options.
-[P]The Merr-Sonn AJ-23 is a highly regarded solution for crowd-control situations. Its boxy shape and carbine size make it both distinctive and easy to wield. It also confers an intimidating appearance that screams force, ensuring that targets recognize the wielder is armed and ready to take action.
-[P]When fired, the AJ-23 releases a directed, but comparatively slow, blast of concussive force.  The force is sufficiently strong to knock down adults of most species but remains unlikely to cause serious injury. The fire pattern makes the weapon well suited to dealing with crowds but a poor solution for targeting a single perpetrator in a crowd.</Description>
-    <Source Page="42">Disciples of Harmony</Source>
+Ситуации, требующие контроля над толпой, представляют собой серьезную и повторяющуюся проблему для правоохранительных органов. Сотрудники служб безопасности никогда не хотят применять несоразмерную силу для защиты. Необходимо любой ценой избегать гибели невинных людей. Однако неадекватные решения значительно ограничивают возможности сотрудников.
+[P]Merr-Sonn AJ-23 - высоко ценимое решение для ситуаций, требующих контроля над толпой. Его квадратная форма и размер карабина делают его одновременно узнаваемым и удобным в обращении. Он также имеет устрашающий вид, который кричит о силе, гарантируя, что цели признают, что владелец оружия вооружен и готов к действию.
+[P]При выстреле AJ-23 выпускает направленный, но сравнительно медленный взрыв ударной силы. Эта сила достаточно сильна, чтобы сбить с ног взрослых особей большинства видов, но вряд ли может причинить серьезные травмы. Характер выстрела делает это оружие подходящим для борьбы с толпами, но плохим решением для поражения отдельного преступника в толпе.</Description>
+    <Source Page="42">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -619,14 +619,10 @@ Crowd-control situations pose a significant and recurring issue for law enforcem
   </Weapon>
   <Weapon>
     <Key>AKRABDAG</Key>
-    <Name>aKraB Clip-Point Vibrodagger</Name>
+    <Name>Виброкинжал aKraB Clip-Point (aKraB Clip-Point Vibrodagger)</Name>
     <Description>
       [H3]aKraB Clip-Point Vibrodagger[h3]
-Diehard survival enthusiasts from Toprawa created
-the 'aKraB clip-point vibrodagger to slip between the
-armor plates of big game, allowing for up-close precision kills. Engineered to penetrate thick, armored
-hides, the vibrodagger’s ability to penetrate laminate
-armor with ease makes it perfect for taking out stormtroopers silently.</Description>
+Заядлые любители выживания с Топравы создали виброкинжал 'aKraB' с клипсовым наконечником, который проникает между броневыми пластинами крупной дичи, позволяя убивать с близкого расстояния с высокой точностью. Разработанный для пробивания толстой бронированной кожи, виброкинжал с легкостью проникает через ламинатную броню, что делает его идеальным оружием для бесшумного уничтожения штурмовиков.</Description>
     <Source Page="48">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -655,13 +651,13 @@ armor with ease makes it perfect for taking out stormtroopers silently.</Descrip
   </Weapon>
   <Weapon>
     <Key>ANCIENTSWORD</Key>
-    <Name>Ancient Sword</Name>
+    <Name>Древний меч (Ancient Sword)</Name>
     <Description>
       [H3]Ancient Sword[h3]
 
-Some say the earliest precursors to the Jedi wielded true swords, not lightsabers, in their battles against evil These weapons possessed strikingly shaped blades and a unique balance that made them difficult to master for those used to wielding more mundane weapons. Some whisper that those early Force-sensitive warriors could somehow imbue these weapons with the Force, making them stronger, keener, and more deadly. Whatever the truth of these rumors, there are still examples of such swords in the galaxy today. Some are artfully crafted replicas or commissioned by specific warriors, while a Few are treasured heirlooms preserved from the mists of the distant past.
+Некоторые говорят, что самые первые предшественники джедаев в своих сражениях со злом использовали не световые мечи, а настоящие мечи. Эти оружия обладали лезвиями необычной формы и уникальным балансом, что затрудняло их освоение для тех, кто привык владеть более обычным оружием. Некоторые шепчут, что те ранние воины, чувствительные к Силе, могли каким-то образом наделять эти оружия Силой, делая их более сильными, острыми и смертоносными. Независимо от того, насколько правдивы эти слухи, в галактике до сих пор можно найти примеры таких мечей. Некоторые из них - искусно изготовленные копии или заказы конкретных воинов, а некоторые - ценные семейные реликвии, сохранившиеся из далекого прошлого.
 
-[BR][B]Models Include:[b] None.</Description>
+[BR][B]Модели включают:[b] Нет.</Description>
     <Source Page="172">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -686,7 +682,7 @@ Some say the earliest precursors to the Jedi wielded true swords, not lightsaber
   </Weapon>
   <Weapon>
     <Key>ANTIAIR</Key>
-    <Name>Anti-Air Rockets</Name>
+    <Name>Зенитные ракеты (Anti-Air Rockets)</Name>
     <Description>[H3]Anti-Air Rockets[h3]</Description>
     <Source Page="62">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
@@ -717,7 +713,7 @@ Some say the earliest precursors to the Jedi wielded true swords, not lightsaber
   </Weapon>
   <Weapon>
     <Key>ANTIPERSLASER</Key>
-    <Name>Anti-Personnel Laser</Name>
+    <Name>Противопехотный лазер (Anti-Personnel Laser)</Name>
     <Description>[H3]Anti-Personnel Laser[h3]</Description>
     <Source Page="62">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
@@ -740,17 +736,17 @@ Some say the earliest precursors to the Jedi wielded true swords, not lightsaber
   </Weapon>
   <Weapon>
     <Key>APGREN</Key>
-    <Name>Armor Piercing Grenade</Name>
+    <Name>Бронебойная граната (Armor Piercing Grenade)</Name>
     <Description>
       [H3]Armor-Piercing Grenade[h3]
 
-Armor-piercing grenades, commonly known as AP grenades, are offensive grenades designed to give an individual trooper respectable anti-armor capabilities. Used as both anti-armor and anti-materiel weapons, most AP grenades use precisely calibrated shaped charges housed in specially designed casings to focus all of their explosive force on one small area. This allows them to be deployed against armored vehicles or structures with little collateral damage to the surrounding area. Despite their tightly focused area of effect, AP grenades still have a decent blast area. One or two tossed into a squad of Imperial stormtroopers or other soldiers in heavy armor can cause more damage than a whole handful of frag grenades.
+Бронебойные гранаты, широко известные как ББ-гранаты, являются наступательными гранатами, предназначенными для обеспечения отдельного солдата значительными противотанковыми возможностями. Используемые в качестве противотанкового и антиматериального оружия, большинство ББ-гранат используют точно откалиброванные кумулятивные заряды, размещенные в специально разработанных корпусах, чтобы сконцентрировать всю свою взрывную силу на одной небольшой области. Это позволяет использовать их против бронированных транспортных средств или сооружений с минимальным сопутствующим ущербом для окружающей территории. Несмотря на узкую зону действия, ББ-гранаты все же имеют приличную зону взрыва. Одна или две гранаты, брошенные в отряд имперских штурмовиков или других солдат в тяжелой броне, могут нанести больше урона, чем целая горсть осколочных гранат.
 
-[P]Many AP grenades, especially those designed specifically for anti-armor and anti-materiel work, are equipped with either a magnetic or chemical adhesive system that allows them to be placed on walls, floors, and vehicle hulls for pinpoint demolitions and targeted sabotage.
+[P]Многие ББ-гранаты, особенно те, которые специально разработаны для борьбы с бронетехникой и материальными средствами, оснащены магнитной или химической клеевой системой, которая позволяет размещать их на стенах, полах и корпусах транспортных средств для точного уничтожения и целенаправленного саботажа.
 
-[P]Like frag grenades, AP grenades can be set to detonate on impact, set with a timer to detonate up to 3 rounds after being activated, or use a pressure detonator.
+[P]Как и осколочные гранаты, бронебойные гранаты могут быть настроены на взрыв при ударе, на взрыв через 3 раунда после активации с помощью таймера или на взрыв под давлением.
 
-[BR][B]Models Include:[b] Merr-Sonn Model 9 Armor Piercing Grenade, Merr-Sonn "Door Buster" Anti-Materiel Grenade. </Description>
+[BR][B]Модели включают:[b] Бронебойная граната Merr-Sonn Model 9, Антиматериальная граната Merr-Sonn "Door Buster".</Description>
     <Source Page="179">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -796,9 +792,9 @@ Armor-piercing grenades, commonly known as AP grenades, are offensive grenades d
   </Weapon>
   <Weapon>
     <Key>APM1GR</Key>
-    <Name>AP-M1 Armor Piercing Grenade</Name>
+    <Name>Бронебойная граната AP-M1 (AP-M1 Armor Piercing Grenade)</Name>
     <Description>[H3]AP-M1 Armor Piercing Grenade[h3]
-Merr-Sonn's AP-M1 armor piercing grenade is designed to give the common foot soldier light anti-armor capabilities in the field. Roughly the size of a clone's fist, the AP-M1 consists of a small shaped charge core encased in a plasteel casing. When it detonates, the grenade produces a highly focused blast that can crack open even the toughest armor. The AP-M1 can be thrown like a standard grenade or placed and held in position by an integral chemical adhesive system. This makes them well suited for precision demolition work as well as anti-vehicle and armor use.</Description>
+Бронебойная граната AP-M1 компании Merr-Sonn предназначена для обеспечения обычного пехотинца легким противотанковым оружием в полевых условиях. AP-M1, размером примерно с кулак клона, состоит из небольшого кумулятивного заряда, заключенного в корпус из пластика и стали. При взрыве граната производит высококонцентрированный взрыв, способный пробить даже самую прочную броню. AP-M1 можно бросать как обычную гранату или устанавливать и удерживать на месте с помощью встроенной химической клеевой системы. Это делает ее подходящей для точных подрывных работ, а также для борьбы с транспортными средствами и бронетехникой.</Description>
     <Sources>
       <Source Page="52">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
@@ -834,13 +830,13 @@ Merr-Sonn's AP-M1 armor piercing grenade is designed to give the common foot sol
   </Weapon>
   <Weapon>
     <Key>APMINE</Key>
-    <Name>Anti-Personnel Mine</Name>
+    <Name>Противопехотная мина (Anti-Personnel Mine)</Name>
     <Description>
       [H3]Anti-Personnel Mine[h3]
 
-Simple, deadly weapons deployed by countless military and paramilitary forces throughout the galaxy, anti-personnel mines are, outside of hand grenades, the most common portable ordnance in use. Cheap, easy to use, and frightfully efficient weapons, anti-personnel mines come in a number of forms, from simple explosive devices buried in the ground that detonate when stepped on to sophisticated weapons that fire blaster bolts, gouts of fire, clouds of shrapnel, or other deadly ordnance designed to shred squads of approaching infantry. Much smaller and lighter than anti-vehicle mines, one or two anti-personnel mines can easily be carried by a single trooper. They are usually deployed with their larger cousins around fortifications and on the battlefield to protect assets or disrupt enemy troop movement, or as part of booby traps or sabotage. The major drawback to anti-personnel mines is, much like flame projectors and thermal detonators, they can inadvertently target allies. In addition, the production and use of these weapons is banned on many worlds due to the fact that unexploded mines can remain active and ready to kill on battlefields well after the fighting is over.
+Простые, смертоносные оружия, используемые бесчисленными военными и военизированными формированиями по всей галактике, противопехотные мины являются, помимо ручных гранат, самым распространенным видом переносного боеприпаса. Дешевое, простое в использовании и ужасающе эффективное оружие, противопехотные мины бывают разных видов: от простых взрывных устройств, зарытых в землю и взрывающихся при нажатии, до сложных видов оружия, стреляющих бластерами, струями огня, облаками шрапнели или другими смертоносными боеприпасами, предназначенными для уничтожения приближающихся отрядов пехоты. Гораздо меньшие и легче противотанковых мин, одну или две противопехотные мины может легко нести один солдат. Обычно они развертываются вместе с более крупными аналогами вокруг укреплений и на поле боя для защиты объектов или срыва передвижения вражеских войск, а также в качестве части мин-ловушек или саботажа. Основным недостатком противопехотных мин, как и огнеметов и тепловых детонаторов, является то, что они могут случайно поразить союзников. Кроме того, производство и использование этого оружия запрещено во многих мирах из-за того, что неразорвавшиеся мины могут оставаться активными и готовыми к поражению на полях сражений еще долго после окончания боевых действий.
 
-[BR][B]Models Include:[b] Merr-Sonn LX-1 Laser Flechette Mine, Merr-Sonn SM-01 High Explosive Land Mine. </Description>
+[BR][B]Модели включают:[b] Лазерная мина флешетта Merr-Sonn LX-1, Высоко взрывчатая наземная мина Merr-Sonn SM-01. </Description>
     <Source Page="179">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -885,13 +881,13 @@ Simple, deadly weapons deployed by countless military and paramilitary forces th
   </Weapon>
   <Weapon>
     <Key>ARGGAROK</Key>
-    <Name>Arg'garok</Name>
+    <Name>Арг'гарок (Arg'garok)</Name>
     <Description>
       [H3]Arg'garok[h3]
 
-Based on the traditional Camorrean war ax, the Arg'garok is a massive vibro-ax capable of inflicting horrific wounds. Favored by Camorrean warriors, these weapons are heavy and ungainly, measuring a meter and a half in length and requiring tremendous strength to properly wield in combat. In spite of the weapons' association with Gamorreans, Arg'garoks are highly valued as prestige weapons and can occasionally be found in the hands of Barabels or Houks in the employ of the Hutt kajidics—more physical and belligerent Hutts might even brandish such weapons themselves.
+Основанный на традиционном гамморианском боевом топоре, Арг'гарок представляет собой массивный вибротопор, способный наносить ужасающие ранения. Эти оружия, любимые гаморреанскими воинами, тяжелые и неуклюжие, имеют длину полтора метра и требуют огромной силы, чтобы правильно ими владеть в бою. Несмотря на ассоциацию этого оружия с гаморреанцами, арг'гароки высоко ценятся как престижное оружие и иногда можно увидеть их в руках барабелов или хоуков, работающих на хаттов-каджидиков - более физически сильные и воинственные хатты могут даже сами размахивать таким оружием.
 
-[P]The Arg'garok requires two hands to wield.</Description>
+[P]Арг'гарок требует две руки для использования.</Description>
     <Source Page="103">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -927,12 +923,12 @@ Based on the traditional Camorrean war ax, the Arg'garok is a massive vibro-ax c
   </Weapon>
   <Weapon>
     <Key>ARQUBUS</Key>
-    <Name>Arquebus</Name>
+    <Name>Аркебуза (Arquebus)</Name>
     <Description>[H3]Arquebus[h3]
-The average sentient being can pick out visual details up to three kilometers away. Sembla's low landmasses and shallow seas provide excellent visibility. Taken together, these factors had a large influence on Vurk strategy. They favor long distance engagements, avoiding melee whenever possible. The lone soldier who wades into close range is liable to get gunned down without mercy.
-[P]Since heavy industry never took hold on Sembla, Vurk sharpshooters still favor slugthrowers. Most famous is the arquebus, an older design kept current by skilled crafters. In its original form, the weapon was little more than a metal tube filled with explosive powder. Over time, sumptuous wooden stocks to brace against the shoulder became standard. The design became more streamlined and reliable as time went on. Modern versions are works of art unto themselves, often featuring intricate obsidian inlays.
-[P]Accurate at extreme distances, the weapon is well suited to patient aiming. A Vurk soldier's most devastating shots are the ones arranged with the most precision. Skeptics have long since explained this away in mundane ways. Longer prep time leads to steadier hands. Calculations of wind resistance are more accurate with more observation. Despite this, Vurk sages insist on a deeper meaning. The best sharpshooters never care about the odds. They trust in the will of the Force, and the Force guides their hands.
-[P]As a maneuver, a character wielding an arquebus may suffer up to 5 strain. The PC's next combat check with the arquebus gains Pierce with a rating equal to the strain suffered.</Description>
+Среднее разумное существо может различать визуальные детали на расстоянии до трех километров. Низменные земли и мелкие моря Семблы обеспечивают отличную видимость. В совокупности эти факторы оказали большое влияние на стратегию Вурков. Они предпочитают сражения на большом расстоянии, по возможности избегая рукопашной. Одинокий солдат, который вступает в ближний бой, рискует быть безжалостно застреленным.
+[P]Поскольку тяжелая промышленность так и не прижилась на Сембле, снайперы Вурка по-прежнему предпочитают использовать метательные орудия. Наиболее известным из них является аркебуза, старинная конструкция, которая сохранилась благодаря мастерству опытных ремесленников. В своем первоначальном виде это оружие представляло собой не более чем металлическую трубу, наполненную взрывчатым порохом. Со временем стандартом стали роскошные деревянные приклады, которые прижимались к плечу. С течением времени конструкция стала более обтекаемой и надежной. Современные версии являются произведениями искусства сами по себе и часто украшены сложными инкрустациями из обсидиана.
+[P]Это оружие, точное на экстремальных дистанциях, хорошо подходит для терпеливого прицеливания. Самые разрушительные выстрелы солдата-вурка - это те, которые выполнены с максимальной точностью. Скептики давно объяснили это прозаическими причинами. Более длительная подготовка приводит к большей устойчивости рук. Расчеты сопротивления ветра становятся более точными при более тщательном наблюдении. Несмотря на это, мудрецы Вурка настаивают на более глубоком значении. Лучшие снайперы никогда не заботятся о шансах. Они доверяют воле Силы, и Сила направляет их руки.
+[P]В качестве маневра персонаж, владеющий аркебузой, может получить до 5 единиц "усталости". Следующая боевая проверка персонажа с аркебузой получает качество Pierce, равную полученной "усталости".</Description>
     <Source Page="47">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
@@ -960,19 +956,19 @@ The average sentient being can pick out visual details up to three kilometers aw
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>As a maneuver, wielder may suffer up to 5 strain.  Next attack with arquebus gains Pierce quality with rating equal to strain suffered.</MiscDesc>
+        <MiscDesc>В качестве маневра персонаж, владеющий аркебузой, может получить до 5 единиц "усталости". Следующая боевая проверка персонажа с аркебузой получает качество Pierce, равную полученной "усталости".</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>ASCIANTHROWDAG</Key>
-    <Name>Ascian Throwing Dagger</Name>
+    <Name>Асцианский метательный кинжал (Ascian Throwing Dagger)</Name>
     <Description>
       [H3]Ascian Throwing Dagger[h3]
 
-Named after the binary star system from where they supposedly originated, Ascian daggers are finely weighted and balanced for throwing. Crafted of durasteel and honed to a mono-molecular edge, these blades are deadly in the hands of a skilled user.
+Названные в честь двойной звездной системы, откуда они предположительно произошли, кинжалы Асциан отличаются тонким весом и сбалансированностью для метания. Изготовленные из дюрастали и заточенные до мономолекулярного уровня, эти клинки смертельно опасны в руках опытного пользователя.
 
-[P]When making an attack with an Ascian throwing dagger, a character does not increase the difficulty of the check for being engaged with his target as normal. The user adds his Brawn to the listed value (+ 1) to determine the damage dealt with this weapon.</Description>
+[P]При атаке Асцианским метательным кинжалом персонаж не увеличивает сложность проверки на взаимодействие с целью, как обычно. Пользователь добавляет свое "Телосложение" к указанному значению (+1), чтобы определить урон, наносимый этим оружием.</Description>
     <Source Page="45">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -987,7 +983,7 @@ Named after the binary star system from where they supposedly originated, Ascian
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>When attacking, do not increase the difficulty of the check for being engaged.</MiscDesc>
+        <MiscDesc>При атаке не увеличивайте сложность проверки на вступление в бой.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
@@ -1858,7 +1854,7 @@ BIasTech's DC-15A blaster carbine is the GAR’s standard-issue carbine. Every c
 The DR-45 cavalry blaster by Merr-Sonn is one of a line of convertible blaster carbines marketed to vehicle crews and beast riders. Based on Merr-Sonris popular DD6 blaster pistol, the DR-45, also called the Dragoon, is marketed as an all-in-one weapon providing the portability of a blaster pistol with the range and stopping power of a blaster carbine. To accomplish this, the base weapon, which is a long-barreled blaster pistol, can be fitted with a detachable polycarbonate shoulder stock and a range-extending augmented spin barrel to turn it into a respectably effective blaster carbine. The stock and barrel are fixed to the base weapon with sturdy quick-release mounts that allow an experienced user to mount or dismount the attachments quickly and easily. While not particularly common, Dragoon cavalry blasters are slowly finding a following among members of the Rebel Alliance who value their versatility, reliability, and stopping power.
 
 [P]Converting the DR-45 from a pistol to a carbine takes one maneuver and changes the weapon's combat skill from Ranged (Light) to Ranged (Heavy). Similarly, it takes one maneuver to convert the weapon back, restoring its combat skill to Ranged (Light).</Description>
-    <Source Page="40">Stay on Target</Source>
+    <Source Page="40">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
     <Damage>8</Damage>
@@ -1894,7 +1890,7 @@ The DR-45 cavalry blaster by Merr-Sonn is one of a line of convertible blaster c
 The E5 by Baktoid Armor Workshop is a carbine version of their venerable E-5 blaster rifle. Lighter and shorter than its full-sized cousin, the E5 was released in the beginning months of the Clone Wars and saw wide use among vehicle crews and special operatives of the Confederacy of Independent Systems. This weapon was also issued to B1 battle droids, and is the weapon with which those droids are most associated. Like its larger cousin the E-5 blaster rifle, the E5 carbine was based on an earlier BlasTech design which was reverse-engineered by weaponsmiths at Baktoid Armor Workshop for use with their 00M, B1, and BX series droids. It's a relatively reliable blaster that provides respectable stopping power in a small, easy-to-handle package. In addition to its lightened frame and shortened barrel, the E5 also features a foldable stock that further increases its usability. As they were largely designed for use by droids, vehicle crews, and rear-echelon troops, E5 carbines suffer from a few noticeable drawbacks. They are relatively inaccurate over long distances, and thanks to cost-cutting during development, many of their systems are built of substandard materials, making them comparatively fragile and prone to overheating during heavy use. While not particularly liked or well-respected weapons, E5 carbines are cheap and readily available, having been built by the hundreds of thousands during the Clone Wars. This makes them very attractive to more cash-strapped members of the Rebel Alliance.
 
 [P]During combat, the Game Master can spend [TH][TH][TH] or [DE] to force an E5 to overheat, damaging it by one step as if stuck by a weapon with the Sunder quality (see page 170 of the [B]Age of Rebellion[b] Core Rulebook). </Description>
-    <Source Page="41">Stay on Target</Source>
+    <Source Page="41">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
     <Damage>9</Damage>
@@ -2380,7 +2376,7 @@ A basic, cheap design manufactured by Corellian Arms, a subsidiary of the Corell
 The DR-45 cavalry blaster by Merr-Sonn is one of a line of convertible blaster carbines marketed to vehicle crews and beast riders. Based on Merr-Sonris popular DD6 blaster pistol, the DR-45, also called the Dragoon, is marketed as an all-in-one weapon providing the portability of a blaster pistol with the range and stopping power of a blaster carbine. To accomplish this, the base weapon, which is a long-barreled blaster pistol, can be fitted with a detachable polycarbonate shoulder stock and a range-extending augmented spin barrel to turn it into a respectably effective blaster carbine. The stock and barrel are fixed to the base weapon with sturdy quick-release mounts that allow an experienced user to mount or dismount the attachments quickly and easily. While not particularly common, Dragoon cavalry blasters are slowly finding a following among members of the Rebel Alliance who value their versatility, reliability, and stopping power.
 
 [P]Converting the DR-45 from a pistol to a carbine takes one maneuver and changes the weapon's combat skill from Ranged (Light) to Ranged (Heavy). Similarly, it takes one maneuver to convert the weapon back, restoring its combat skill to Ranged (Light).</Description>
-    <Source Page="40">Stay on Target</Source>
+    <Source Page="40">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
     <Damage>8</Damage>
@@ -2449,7 +2445,7 @@ Considered by many to be one of the finest production model blasters in the gala
 BlasTech's HH-50 is a heavy, double-barreled, large-frame blaster pistol designed mainly for hunting large and dangerous animals. Nearly the size of a blaster carbine, and sharing a number of parts and systems with the Clone Wars-era DC-15 blaster carbine, the HH-50 is the largest, heaviest, highest-output blaster pistol currently produced by BlasTech. Popular with beast riders, vehicle crews, and cavalry scouts, the HH-50 packs a blaster rifle's worth of stopping power into a relatively small and easy to use package. Using a patented dual-circuit galven pattern, an overcharged X-citer, and a powerful mix of blaster gases, the HH-50 fires both barrels with one pull of the trigger, allowing it to pierce the thickest hide. The downside to all of this stopping power is that the HH-50 is incredibly inefficient, even for a heavy blaster pistol, and tends to run its blaster gas chamber dry at the most inopportune times.
 
 [P]During combat, Game Masters may make an HH-50 run out of ammunition by spending [TH][TH]. This is in addition to the standard spending of [DE]. In addition, the Game Master can spend [TH][TH][TH] or [DE] to force an HH-50 to overheat, damaging it by one step as if stuck by a weapon with the Sunder quality (see page 170 of the [B]Age of Rebellion[b] Core Rulebook).</Description>
-    <Source Page="41">Stay on Target</Source>
+    <Source Page="41">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
     <Damage>7</Damage>
@@ -3081,7 +3077,7 @@ Sometimes a bounty hunter has to capture a foe alive rather than dead. Bolas and
       [H3]Borstel Neuronic Lash[h3]
 The neuronic whip has earned a reputation as the preferred weapon of slavers. Borstel's neutronic lash attempts to mitigate this negative impression both through its appearance and its overall function. Instead of using a metallic cable, the lash projects a flexible energy strand, which is only emitted from the hilt when activated. The insubstantial energy projection is incapable of causing physical injury to a target. However, it carries a signification electrical charge. This charge is capable of incappacitating most opponents.
 [P]This weapon can be used to make melee attacks against targets at up to short range (the difficulty remains [B]Average ([DI][DI])[b]).</Description>
-    <Source Page="44">Disciples of Harmony</Source>
+    <Source Page="44">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -4187,7 +4183,7 @@ The CR-8 is a high-performance blaster rifle designed for use by CorSec snipers 
 Tools capable of generating intense cold are critical when dealing with preservation but can also be useful in scientific endeavors, firefighting, and even some types of manufacturing. When these same tools are weaponized, they become potent, typically non-lethal weapons. This is particularly relevant for designs that are portable, including liquid-based and energy-based solutions.
 [P]When fired, the Loronar CryoBan rifle's beam dissipates the free energy of its target, effectively triggering an extreme drop in temperature. This makes inorganic substances far more brittle, leaving them more susceptible to damage from a physical strike. For living beings, the sudden drop in temperature causes a shock to the system that can be enough to incapacitate some targets.
 [P]When used to attack a target wearing armor that removes one or more [SE] due to extreme cold, the weapon's Pierce quality counts as 0. Characters who make a melee attack against a target struck by the Loronar CryoBan in the current round add [BO][BO] to the check.</Description>
-    <Source Page="42">Disciples of Harmony</Source>
+    <Source Page="42">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -6008,7 +6004,7 @@ Produced by Felebreck Electrical Defense Systems, the Droid Disabler is a small 
 Subtlety and discretion can be critical to effective use of a weapon. An easily disguised or concealed armament can be used as a means of last resort or might even be overlooked by opponents as something innocuous. Such weapons offer a vital opportunity to a defender who is otherwise unarmed.
 [P]The fear stick is only the size of a stylus or a hypodermic injector. Because it is not powered, weapon scanners calibrated for energy weapons do not detect it. Further, its payload is similar to many common pharmaceuticals, so it is unlikely to trigger a reaction to chemical scanners. The weapon injects a potent neurologic compound. This triggers a powerful fear response, sometimes leaving foes incapable of coherent thought or even incapacitating them entirely.
 [P]Add [SE][SE] to Perception checks to find a fear stick on a wearer's body. On a successful hit with a fear stick, the attacker may spend [TR] to force a living target to make a [B]Formidable ([DI][DI][DI][DI][DI]) fear check[b]. Fear sticks have no effect on droids or nonliving organisms.</Description>
-    <Source Page="44">Disciples of Harmony</Source>
+    <Source Page="44">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories />
@@ -6139,7 +6135,7 @@ The Xet Model C incorporates a five-round internal cylinder magazine. Even by th
 
 The concept behind flak cannons dates back to the earliest days of powered flight, and is among the simplest, most effective anti-fightercraft weapon systems in use today. Using a powerful mass driver, a flak cannon fires a large-caliber shell packed with thousands of dangerous, tiny objects such as shrapnel, micro-explosive pellets, or inert durasteel flechettes. Flak shells burst at a set distance and spread their contents in a dense cloud that can tear small, lightly armored airspeeders or starfighters to shreds in an instant.</Description>
     <Sources>
-      <Source Page="49">Stay on Target</Source>
+      <Source Page="49">Дополнение: Все по плану (Stay on Target)</Source>
       <Source Page="53">Lead by Example</Source>
       <Source Page="78">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
@@ -6183,7 +6179,7 @@ The concept behind flak cannons dates back to the earliest days of powered fligh
 
 The concept behind flak cannons dates back to the earliest days of powered flight, and is among the simplest, most effective anti-fightercraft weapon systems in use today. Using a powerful mass driver, a flak cannon fires a large-caliber shell packed with thousands of dangerous, tiny objects such as shrapnel, micro-explosive pellets, or inert durasteel flechettes. Flak shells burst at a set distance and spread their contents in a dense cloud that can tear small, lightly armored airspeeders or starfighters to shreds in an instant.</Description>
     <Sources>
-      <Source Page="49">Stay on Target</Source>
+      <Source Page="49">Дополнение: Все по плану (Stay on Target)</Source>
       <Source Page="53">Lead by Example</Source>
       <Source Page="78">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
@@ -6227,7 +6223,7 @@ The concept behind flak cannons dates back to the earliest days of powered fligh
 
 The concept behind flak cannons dates back to the earliest days of powered flight, and is among the simplest, most effective anti-fightercraft weapon systems in use today. Using a powerful mass driver, a flak cannon fires a large-caliber shell packed with thousands of dangerous, tiny objects such as shrapnel, micro-explosive pellets, or inert durasteel flechettes. Flak shells burst at a set distance and spread their contents in a dense cloud that can tear small, lightly armored airspeeders or starfighters to shreds in an instant.</Description>
     <Sources>
-      <Source Page="49">Stay on Target</Source>
+      <Source Page="49">Дополнение: Все по плану (Stay on Target)</Source>
       <Source Page="53">Lead by Example</Source>
       <Source Page="78">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
@@ -7950,7 +7946,7 @@ Sporting a stronger detonite charge and larger surface area than other frag gren
       [H3]Tenloss IDX-9 Ion Stunner[h3]
 An ion stunner disrupts living beings' neural pathways as well as the electronic components of droids and other technological devices. This offers an effective and non-lethal solution for security personnel dealing with threats from living beings as well as droids. However, because ion stunners can affect electronic sensors, criminals often use these weapons to disable security measures. Different governmental agencies take different legal views of these devices because of their alternative uses. All ion stunners incorporate distinctive dish on the barrel, required to focus the ionic flash on a target.
 [P]The Tenloss IDX-9 intergrates a collpsible focusing dish. This modification enables the sidearm to be worn in a normal blaster holster. However, when drawn and its safety disabled, the dish expands, assuming the weapon's characteristic profile. The conversation between holstered and active mode is instant, though most weapon jams with the Tenloss model are due to difficulties with this specialized focusing dish.</Description>
-    <Source Page="42">Disciples of Harmony</Source>
+    <Source Page="42">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -9814,7 +9810,7 @@ Much less technically sophisticated than a blaster, a longbow remains a deadly w
       [H3]Longeing Whip[h3]
 
 Used for guiding riderless beasts and driving teams of creatures, a longeing whip is an essential piece of a beast rider's kit. Made by companies such as Piccatech Ltd. and Xenovet, longeing whips typically consist of a hide or synthetic textile-wrapped composite haft between one and two meters in length. A thin, flexible lash extends from the haft another two meters and is used mainly to make noise to recall a wandering or distracted beast to its duty. Although mainly a tool, a longeing whip also makes a decent improvised weapon, especially in the hands of an experienced user. Its length and flexibility allows a user to keep a threat at a comfortable distance, and the lash can be used to distract and even entangle an assailant.</Description>
-    <Source Page="41">Stay on Target</Source>
+    <Source Page="41">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
     </Categories>
@@ -13968,7 +13964,7 @@ Czerka Arms sells "Peacekeeper" stun batons to law enforcement organizations acr
 SoroSuub's Persuader, officially known as the Model VIII Animal Shock Prod, uses the technology found in force pikes and shock batons to control large, thick-skinned beasts. A little over two meters long, the Persuader is a long, narrow rod with a thicker haft at one end and a multi-pronged tip at the other. The haft contains the prod's power cell and controls as well as the non-slip handgrips. When activated the Persuader emits a variable electrical charge with an intensity that can be adjusted from a light sting that gets a creature's attention to a powerful discharge that can knock a fully grown Wookiee unconscious or render a rampaging rancor meek and biddable.
 
 [P]Persuader Animal Shock Prods require two hands to wield. This weapon has the Slow-Firing 1 rule, representing its electrical charge having to recharge. On rounds during which it is recharging, if the character wants to attack with it, he can only use it as an improvised weapon (see page 225 of the [B]Age of Rebellion[b] Core Rulebook). </Description>
-    <Source Page="41">Stay on Target</Source>
+    <Source Page="41">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Powered Melee</Category>
@@ -14338,7 +14334,7 @@ Cadregg Armory is a newcomer to the arms manufacturing scene, but its initial of
       [H3]Proton Bomb Bay[h3]
 
 The proton bomb is a large energy explosive device used in space combat and orbital bombardment. They are most effective against fixed or slow moving targets such as fortifications, space stations, and capital ships. These energy weapons often emit the signature blue "glow" of proton torpedoes.</Description>
-    <Source Page="52">Stay on Target</Source>
+    <Source Page="52">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Proton Bomb</Category>
@@ -16555,7 +16551,7 @@ Rare and extremely deadly, sonic grenades use powerful sound generators, rather 
       [H3]Speizoc Arms Spore Stun Grenade[h3]
 An area effect weapon capable of stunning a group of opponents can be a vital tool in a crowd-control situation. Similarly, a person who places a high value on sentient life without killing them. When an individual is significantly out-numbered, a stun grenade can turn the tide of battle in an ethically acceptable way.
 [P]Speizoc Arms spore stun grenades deploy a cloud of active stun spores when detonated. Harvested from a carnivorous plant, these spores are a powerful soporific for most life forms. An environmentally sealed suit provides complete protection against the spores, but any unsealed armor is of little use against the spore cloud. The spores act extremely quickly when inhaled, but they can also take effect after contact with the target's skin.</Description>
-    <Source Page="43">Disciples of Harmony</Source>
+    <Source Page="43">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -16595,7 +16591,7 @@ An area effect weapon capable of stunning a group of opponents can be a vital to
       [H3]Tenloss Spray Foam Grenade[h3]
 Tenloss's spray foam grenades are ten-centimeter plastic spheres sealed with a low-powered energy field and equipped with a timer activator. When the timer finishes counting down, the field deactivates, exposing the chemical reagents within it to each other. This triggers a sudden chemical reaction. The liquid inside expands, forming a foam polymer. This can expand to fill a volume of up to three cubic meters, entombing anything that happens to be within that space. The polymer is unstable, however, and it begins to break down after only a few minutes of atmospheric exposure. Until that breakdown completes, it is quite rigid, presenting an effective means to temporarily incapacitate an opponent.
 [P]A spray foam grenade's Ensnare quality triggers automatically on any target the weapon hits, with no need to spend [AD].</Description>
-    <Source Page="43">Disciples of Harmony</Source>
+    <Source Page="43">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -16633,7 +16629,7 @@ Tenloss's spray foam grenades are ten-centimeter plastic spheres sealed with a l
       [H3]Loronar Spray Rifle[h3]
 The Loronar spray rifle fires a highly pressurized stream of fluid. The fluid affects its target by carrying a powerful sedative suspended in an organic solvent. That substance is easily absorbed through the skin, carrying the sedative directly into the target's bloodstream. In addition to penetrating the skin of almost all known species, the fluid is capable of penetrating many types of armor, including ones designed to be environmentally sealed. This makes the spray rifle a useful weapon against targets wearing equipment that could stop an airborne sedative. However, because the stream must be carefully targeted, it is less effective against crowds than a non-lethal gas attack.
 [P]The spray rifle's ammunition is stored in a transparent metallic canister, which attaches as a clip. The weapon also has a one-liter cylindrical tank that stores the compressed air used to propel its payload. This is normally refilled from a preasure canister after firing three to four canisters of ammunition.</Description>
-    <Source Page="43">Disciples of Harmony</Source>
+    <Source Page="43">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -19249,7 +19245,7 @@ Many galactic civilizations have long taken to improving the simple but effectiv
       [H3]VL-6 Warhead Launcher System[h3]
 
 The VL-6 warhead launcher is a missile launcher developed by Krupx Munitions and installed aboard Kuat Drive Yards escort carriers. </Description>
-    <Source Page="61">Stay on Target</Source>
+    <Source Page="61">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories />
@@ -19788,7 +19784,7 @@ This missile contains a device allowing the target's movements to be tracked reg
     <Description>
       [H3]Z6 Riot Baton[h3]
 This extendable cudgel integrates a set of conductor contact vanes that can effectively subdue a target. The Z6 model was designed to partially collapse. This enables the wielder to carrier it at the waist with minimal inconvenience. When activated, the same power supply triggers an energy field that stabilizes the baton at its full ninety-centimeter size. In addition to serving as a shock prod, the energy field is capable of deflecting an attack from a plasma weapon, such as a lightsaber.</Description>
-    <Source Page="44">Disciples of Harmony</Source>
+    <Source Page="44">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>

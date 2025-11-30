@@ -34,7 +34,7 @@ An ambitious character sets a lofty goal for himself and then strives to accompl
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey>IMPATIENCE</WeakKey>
       </MoralityPair>
       <MoralityPair>
@@ -83,7 +83,7 @@ There is a fine line between showing mercy to one's foes and letting evil fester
     <Description>
       [H4]Apathy (Weakness)[h4]
 The character's skills at detached observation can often lead to cold pragmatism in which the emotional cost of choices is not taken into consideration.</Description>
-    <Source Page="15">Disciples of Harmony</Source>
+    <Source Page="15">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -120,7 +120,7 @@ In all things, the character is quite determined and steadfast. No matter the si
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -157,7 +157,7 @@ The characters bravery is quite remarkable. Whether facing down a charging ranco
         <WeakKey>DEFIANCE</WeakKey>
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -194,7 +194,7 @@ The character works well as part of a team whether leading or following, remaini
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
     </Pairs>
@@ -215,7 +215,7 @@ The character possesses commendable prudence, willing to always look before he l
         <WeakKey>INDECISION</WeakKey>
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey>INDECISION</WeakKey>
       </MoralityPair>
       <MoralityPair>
@@ -252,7 +252,7 @@ This doesn't simply cover confidence or positivity, but also an unshakable faith
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -267,7 +267,7 @@ This doesn't simply cover confidence or positivity, but also an unshakable faith
     <Description>
       [H4]Charity (Strength)[h4]
 The character gives endlessly, both in counsel and of his own possessions, without any though of reward. By providing to those who are less fortunate than herself, she is able to bring harmony and ease the burden of others.</Description>
-    <Source Page="15">Disciples of Harmony</Source>
+    <Source Page="15">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>MARTYR</WeakKey>
@@ -318,7 +318,7 @@ Certainty relies on faith, Clarity relies on knowledge. These Mystics know witho
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -333,7 +333,7 @@ Certainty relies on faith, Clarity relies on knowledge. These Mystics know witho
     <Description>
       [H4]Cleverness (Strength)[h4]
 By observing beings and situations in an unorthodox manner, the character gains a new and unique understanding. This allows the character to approach problems from an unexpected angle and produce original solutions.</Description>
-    <Source Page="15">Disciples of Harmony</Source>
+    <Source Page="15">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>SOPH</WeakKey>
@@ -427,7 +427,7 @@ The character insists on a standard that no one can bear. This includes the cond
     <Description>
       [H4]Condescension (Weakness)[h4]
 The character often treats less patient beings like children and dismisses their concerns. As a result, the character may overlook valuable insight from friends and allies.</Description>
-    <Source Page="15">Disciples of Harmony</Source>
+    <Source Page="15">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -455,7 +455,7 @@ The character believes in their own abilities, knowing exactly what is possible 
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
     </Pairs>
@@ -504,7 +504,7 @@ The character does not act before being sure of all the facts or assessing an op
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
     </Pairs>
@@ -529,7 +529,7 @@ The character does not act before being sure of all the facts or assessing an op
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -566,7 +566,7 @@ The character makes quick decisions and sees them through without hesitating. Be
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
     </Pairs>
@@ -631,7 +631,7 @@ The character is driven to learn new things, to seek out and discover new inform
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -704,7 +704,7 @@ Rigorous mental and physical discipline comes naturally to the character. He doe
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey>INTOLERANCE</WeakKey>
       </MoralityPair>
       <MoralityPair>
@@ -768,7 +768,7 @@ The character easily understands and even feels the emotions of those nearby, ev
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -806,7 +806,7 @@ The character is always ready to try something new, and he approaches all of his
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -853,7 +853,7 @@ This Mystic has a kind of mentor-like love, the good feeling that comes with gui
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -882,7 +882,7 @@ There is strength in living a simple life, not just in eschewing possessions but
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -959,7 +959,7 @@ The character has a personal moral code, and never crosses the line it delineate
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
     </Pairs>
@@ -988,7 +988,7 @@ The Force is so much bigger than any one individual, and Mystics know they are m
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1021,7 +1021,7 @@ The character believes the galaxy is fundamentally good, and fights to keep it s
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
     </Pairs>
@@ -1066,7 +1066,7 @@ The character believes in relying on himself. He does not count on others to per
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1123,7 +1123,7 @@ Despite, or because of, Mystics' ability to see into the past and the future, so
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1158,7 +1158,7 @@ The character strives for just and deliberate actions in his life, and in his in
         <WeakKey>MERCILESSNESS</WeakKey>
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1216,7 +1216,7 @@ This character is morally and ethically flexible and judges situations and other
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1235,7 +1235,7 @@ This character is morally and ethically flexible and judges situations and other
     <Description>
       [H4]Martyrdom (Weakness)[h4]
 The character gets frustrated when others do not recognize the sacrifices she has made. Such characters see those they have aided as ungrateful, or worse, unworthy of the things they have been given.</Description>
-    <Source Page="15">Disciples of Harmony</Source>
+    <Source Page="15">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -1273,7 +1273,7 @@ The character shows mercy toward his foes, dealing with them fairly and honorabl
         <WeakKey>WEARINESS</WeakKey>
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey>NAIVETE</WeakKey>
       </MoralityPair>
       <MoralityPair>
@@ -1306,7 +1306,7 @@ The character eschews credit and thanks. After all, anyone can do this work. Thi
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1371,7 +1371,7 @@ Disciplined characters may fall into the trap of simple stubbornness if they are
     <Description>
       [H4]Patience (Strength)[h4]
 The character faces delay and obstruction with a calm mind, recognizing that in time all things will reveal themselves as the Force wills it. The character keeps a steady mind in even the most frustrating circumstances.</Description>
-    <Source Page="15">Disciples of Harmony</Source>
+    <Source Page="15">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>CONDES</WeakKey>
@@ -1425,7 +1425,7 @@ Pride can be a powerful emotion, and can push a character to impressive feats of
     <Description>
       [H4]Reason (Strength)[h4]
 The character is able to look at situations objectively, and observe the natural state of things without being influenced by strong emotions.</Description>
-    <Source Page="15">Disciples of Harmony</Source>
+    <Source Page="15">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>APATHYW</WeakKey>
@@ -1492,7 +1492,7 @@ The character takes anger and instead of suppressing it, uses it to fuel work. P
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1521,7 +1521,7 @@ Knowing one's place sometimes means becoming complacent, becoming unable to chan
     <Description>
       [H4]Sophism (Weakness)[h4]
 The character can sometimes spend far too long considering a matter, unable to find the confidence necessary to make a hard choice. Faced with a situation that demands immediate reaction, the character is unable to make any choice at all.</Description>
-    <Source Page="15">Disciples of Harmony</Source>
+    <Source Page="15">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -1569,7 +1569,7 @@ The character genuinely feels for others, sharing their pain and so acting to re
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
     </Pairs>
@@ -1594,7 +1594,7 @@ This character believes in giving everyone the benefit of the doubt. The good th
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1664,7 +1664,7 @@ The Mystic gains a form of happiness and satisfaction in good works and knowing 
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1693,7 +1693,7 @@ In a city, every day provides a new adventure. This keeps the character connecte
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Disciples of Harmony</Name>
+        <Name>Дополнение: Последователи гармонии (Disciples of Harmony)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
