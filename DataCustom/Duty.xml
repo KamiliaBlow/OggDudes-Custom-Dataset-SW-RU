@@ -6,7 +6,7 @@
     <Description>
       [H4]Air Superiority[h4]
 The Player Character knows that keeping the skies clear of enemies is often a deciding factor in achieving victory. PCs that pilot starfighters and airspeeders, operate ground-based anti-air emplacements, or even hold the reigns of a flying beast are all dedicated to providing close air support and top cover for ground forces, and denying the enemy the same advantage.</Description>
-    <Source Page="19">Stay on Target</Source>
+    <Source Page="19">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -37,7 +37,7 @@ instances of hazing and initiation within the ranks, and overconfidence in the f
     <Description>
       [H4]Chemical/Biological Analysis[h4]
 The Player Character identifies environmental problems from sources either biological (alien flora and fauna, viruses, bacteria) or chemical (toxic gases, poisons, heavy metals in the soil), The Engineer understands that environments can damage delicate machinery, make it seize up, or cause it to perform under spec. The environment can also affect the construction and destruction of structures, and harm or hinder soldiers who have to march through the terrain.</Description>
-    <Source Page="17">Fully Operational</Source>
+    <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -46,7 +46,7 @@ The Player Character identifies environmental problems from sources either biolo
     <Description>
       [H4]Civilian Outreach[h4]
 The PC believes that the Alliance fights for the civilians. That includes spearheading urban repair as well as communicating with the local population to coordinate and establish supply agreements and recruit new trainee mechanics. The Engineer's work doesn't change, merely the focus. Sometimes, Engineers integrate themselves with the civilian populace to provide technological resources, work with them in resisting the Empire, or prevent civilians from receiving retribution due to Alliance actions.</Description>
-    <Source Page="17">Fully Operational</Source>
+    <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -109,7 +109,7 @@ Characters with this Duty serve as cryptographers, secure communications special
     <Description>
       [H4]Disaster Relief[h4]
 While similar to Civilian Outreach, Disaster Relief involves procuring and delivering medical supplies, food, water, and temporary shelters after natural or artificial disasters. This PC destroys fallen buildings to clear areas for traffic and repairs buildings to provide safe places to congregate. Ground vehicles, ships, and droids need to be repaired or repurposed to handle rubble and tight urban environments. These Engineers try to help get civilians' live back to normal.</Description>
-    <Source Page="17">Fully Operational</Source>
+    <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -150,7 +150,7 @@ knows it’s been soundly beaten, though the Commander must take care not to res
     <Description>
       [H4]Environmental Manipulation[h4]
 These PCs use their skills to alter the environment to clear the way or obstruct passage. This includes constructing and destroying bridges, burrowing around natural and artificial obstructions, and improving or impeding movement. These Engineers also manipulate the environment of outer space, exciting the ions in a nebula to provide sensor cover or harnessing the electromagnetic core of an asteroid to protect a fleet from a solar flare.</Description>
-    <Source Page="17">Fully Operational</Source>
+    <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -159,7 +159,7 @@ These PCs use their skills to alter the environment to clear the way or obstruct
     <Description>
       [H4]Field Training[h4]
 The PC trains new Engineers and rank-and-file soldiers to use new and old specialty equipment. Some bases schedule classes and provide classroom space so that Engineers can become full-time instructors. Most Alliance outposts don't have these luxuries, however, so Engineers teach by training in the field. Field training includes teaching civilians with potential, either to assist their own communities or to serve as contracted help for the Alliance.</Description>
-    <Source Page="17">Fully Operational</Source>
+    <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -169,7 +169,7 @@ The PC trains new Engineers and rank-and-file soldiers to use new and old specia
       [H4]Ground Superiority[h4]
 No matter how good air support might be, battles are eventually decided on the ground. This PC knows that taking out enemy infantry and armor in combat from turrets, armored walkers and speeders, mechanized cavalry, and even traditional, mounted cavalry is what holds the line and wins the day. This PC is always on the lookout for key enemy ground assets to disable and destroy.
 </Description>
-    <Source Page="19">Stay on Target</Source>
+    <Source Page="19">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -245,7 +245,7 @@ While the troops of the Rebel Alliance know their cause to be just, the hopeless
     <Description>
       [H4]Munitions[h4]
 This includes the maintenance and use of ammunition and weapons that should detonate at the appropriate time, or at least shouldn't do so while within the soldier's gun or vehicle. Work with munitions also includes placing minefields, disarming explosives. and setting explosives to destroy environmental obstacles or enemy fortifications. Those who work with vehicles, starships, or droids often modify the machines to handle and use specialized munitions.</Description>
-    <Source Page="17">Fully Operational</Source>
+    <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -273,7 +273,7 @@ More than machines, credits, or information, the people of the Alliance are the 
       [H4]Placard Hunter[h4]
 This PC seeks out the most skilled and famous Imperials on the battlefield, and takes them out head on. These duels are often recorded and released on shadowfeeds as a part of Rebel propaganda efforts to showcase how vulnerable the Empire is to Rebel assaults. Whether the PC sees this Duty as a means of testing himself or a way to help larger Rebel efforts, he is likely to be seen abandoning his mission objectives if a tempting enough target is fleeing the scene.</Description>
     <Sources>
-      <Source Page="19">Stay on Target</Source>
+      <Source Page="19">Дополнение: Все по плану (Stay on Target)</Source>
       <Source Page="17">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -314,7 +314,7 @@ While Imperial stormtroopers might appear fearless and disciplined, others withi
     <Description>
       [H4]Research and Development[h4]
 Engineers also partake in research and development for technologies and other applied solutions. Necessity is the parent of invention, and every situation, enemy, and environment creates new necessities. Research can include stealing technology from the enemy or finding it in a ruin. These characters set aside time and resources to keep their base evolving, growing, and learning; that knowledge can also be passed on to other Engineers at other bases.</Description>
-    <Source Page="17">Fully Operational</Source>
+    <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -344,7 +344,7 @@ Every engagement with the Empire is a war of attrition, and that is a war the Re
     <Description>
       [H4]Rescue and Recovery/Evac[h4]
 This PC prepares and plans the logistics and execution of rescue operations of both civilians and military personnel. While similar to the Transportation Duty, this work includes defense training, medical support, survival training, observation, and rapid deployment operations. These Engineers live and die by their comms; they need to communicate exactly where they and their personnel are and where they need to be at a moment's notice.</Description>
-    <Source Page="17">Fully Operational</Source>
+    <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -382,7 +382,7 @@ The largest and most powerful military force in the history of the galaxy is als
     <Description>
       [H4]Siege Engineering[h4]
 Engineers often set up and build defensive fortifications (bunkers, trenches, and walls) , artillery (gun towers, and weapon reinforcements), and orbital defense platforms (ground attack satellites, anti-ship satellites, and orbital flak). Natural formations such as caves, ancient temples, canyons, and even asteroid fields can form the basis of an outpost. This PC emphasizes the importance of this kind of constructive support in warfare.</Description>
-    <Source Page="17">Fully Operational</Source>
+    <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -410,7 +410,7 @@ Individually, the lone agents of the Alliance don't stand a chance against the c
     <Description>
       [H4]Surveying the Enemy[h4]
 This PC focuses on the technical aspects of scouting. the gathering of geographical knowledge, and the mapping of data via the use of sensors, drones, droids, and satellites. This includes constructing physical and electronic camouflage to hide a Rebel base and any vehicle movements from Empire scouts. More destructive methods include eliminating similar enemy systems with electromagnetic devices, damaging probes or satellites, and providing snipers and anti-aircraft ordnance data useful in targeting enemy units.</Description>
-    <Source Page="17">Fully Operational</Source>
+    <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -437,7 +437,7 @@ There is no more prolific or productive time for technological developments than
     <Description>
       [H4]Tech Superiority[h4]
 As a stick jockey, this PC knows that while having the best-trained crew is the most important thing, having that crew on the best combat platforms is a very close second. If not for Rebels focused on maintaining tech superiority, the Alliance never would have acquired X-wings, or created the A-wing or B-wing starfighters. These PCs are always looking to bring new designs, schematics, and the engineers that create them back to base.</Description>
-    <Source Page="19">Stay on Target</Source>
+    <Source Page="19">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -446,7 +446,7 @@ As a stick jockey, this PC knows that while having the best-trained crew is the 
     <Description>
       [H4]Testing[h4]
 The Alliance often must procure new supplies and technologies from less-than-reputable sources. This PC tests first and tests often. The moment an Engineer neglects safety checks, devices become a dangerous uncertainty. Stolen Imperial technology also carries the risk of sabotage. This PC tests researched technologies and methodologies in controlled labs, during live-fire exercises, and in the middle of battle.</Description>
-    <Source Page="17">Fully Operational</Source>
+    <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
@@ -455,7 +455,7 @@ The Alliance often must procure new supplies and technologies from less-than-rep
     <Description>
       [H4]Transportation[h4]
 This PC takes on the responsibility of establishing protected routes to and from a base and the front lines. The Alliance uses a wide variety of transports, ranging from swift airspeeders, agile corvettes, and blocky freighters to slow, wheeled haulers and even pack animals. The character might also recruit private or public civilian transportation organizations. While an army marches on its stomach, this PC would rather it rode instead.</Description>
-    <Source Page="17">Fully Operational</Source>
+    <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>

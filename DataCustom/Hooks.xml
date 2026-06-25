@@ -10,7 +10,7 @@ For the student who seeks history, science, and other knowledge beyond the halls
 [P]Most academics learn quickly that life out in the Rim requires adaptation and versatility. One learns how to fight, how to survive, and many other skills as necessary if he doesn't want to end up a footnote in someone's journal. One also learns to make the right kinds of friends, trading knowledge for protection and expertise for mutual benefit.</Description>
     <Sources>
       <Source Page="13">Enter the Unknown</Source>
-      <Source Page="12">Fully Operational</Source>
+      <Source Page="12">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -152,7 +152,7 @@ The reasons for pursuing a life of crime are as varied as the types of crime one
 [P]Naturally, the farther one travels from the center of Imperial power, the easier a life of criminal activity can be. Criminals may well become Explorers due to sheer necessity, mastering the skills and talents required to find places to hide, ways to pursue their agendas, and means to survive and thrive.
 [P]Additionally, the life of a criminal is not often one that is consciously chosen; instead, it is thrust upon a person because he has a horrible streak of bad luck, winding up in the wrong place at the wrong time. Grasping at any means of survival is the natural response, yet it can be nearly impossible to escape the life of a criminal once that path is chosen.</Description>
     <Sources>
-      <Source Page="13">Stay on Target</Source>
+      <Source Page="13">Дополнение: Все по плану (Stay on Target)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -218,7 +218,7 @@ Some people have a creative drive that cannot be stilled, and craft works that n
       [H4]Eccentric[h4]
 Eccentrics pursue engineering and science with reckless abandon. Though often highly trained professionals, they are unfettered by orthodox thinking, common sense, and even morality. They see endless possibilities in their chosen field, and they are inveterate inventors and innovators. Eccentrics constantly strive to push barriers and break molds, often to the detriment of themselves and those around them. They are the mad scientists of the galaxy, the cranks and dreamers who are too flighty or erratic for traditional academia but whose knowledge and skills, combined with their imaginations and ambition, make for powerful allies and dangerous enemies.
 [P]There are few eccentrics in the Imperial military, as the rigid conformity and draconian punishments drive out or grind down such individuals. The Alliance, however, has more than its fair share of oddballs. dreamers, and cranks. Attracted to the cause by their freethinking nature, eccentrics from all manner of scientific and engineering disciplines have found their way into the Alliance. They are often brilliant, insufferable, and difficult to work with. On the other hand, they have developed numerous surprisingly successful technologies and weapon systems.</Description>
-    <Source Page="13">Fully Operational</Source>
+    <Source Page="13">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -448,7 +448,7 @@ Bounty hunters are, at their core, exceedingly mercenary. While many bounty hunt
       [H4]Journeyman[h4]
 Whereas academics tend to be primarily concerned with theory, journeymen take a more practical approach. Journeymen travel the galaxy, lending a hand where needed and making themselves useful to the general populace. They are licensed professionals, often with advanced degrees and unimpeachable credentials, who prefer to make direct use of their knowledge and skills rather than theorize or teach classes.
 [P]Journeymen are often quite mercenary at heart. They wander at will, taking work where they can find it and dropping it when something better comes along. Many find homes among private militaries, tipping the scales in their employers' favor in conflicts. Some, however, are driven by something more than money. These are more dedicated to helping the needy and doing what is right than to personal gain. Many of these altruistic individuals serve in the Alliance military, fighting the Empire with tools, brains, and guts rather than blasters or starfighters.</Description>
-    <Source Page="14">Fully Operational</Source>
+    <Source Page="14">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -739,7 +739,7 @@ Once they make the decision to oppose the terror and atrocities of the Empire, m
       [H4]Bush Pilot[h4]
 Most agriworlds in the galaxy are the same: vast fields used to grow crops or graze herds, with long distances between neighbors. The farmers and ranchers of the galaxy typically use airspeeders as utility vehicles for crop dusting, herding, and transport into town. The bored youth of most quiet agriworlds almost universally chase adventure by buzzing the fields and threading the canyons of their homeworlds, imagining they are anywhere else in the galaxy. These young bush pilots often meet up and race through dangerous terrain unsupervised, and are among the most underrated pilots in the galaxy thanks to their extremely informal training.
 [P]Perhaps the most famous bush pilot in the galaxy is Luke Skywalker, who honed his skills flying a T-16 Skyhopper across Tatooine's Beggar's Canyon and moisture farms with his friends. Skywalker went on to become the hero of the Battle of Yavin and a key leader in the elite Rogue Squadron. Countless pilots of the Rebellion come From similar, humble origins, and sometimes their lack of formal training enables them to surprise opponents trained in traditional combat tactics. </Description>
-    <Source Page="14">Stay on Target</Source>
+    <Source Page="14">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -751,7 +751,7 @@ While many think of the Clone Wars as a conflict between Jedi-led clone armies a
 [P]The Clone Wars gave many Aces the chance to establish heroic legacies, which thrust them into prominent military or political roles in the subsequent Galactic Empire. Others quietly retired, any lust for combat they might have once possessed satisfied ten-fold. On the other hand, most Separatist veterans languished in exile on the Outer Rim or rotted in Imperial prisons. When the Rebellion against the Empire took shape, a number of veteran Aces defected from the Empire, came out of retirement, or were freed by the Rebels to assist in their struggle.
 [P]The list of Clone Wars veterans among Rebel ranks is extensive, including Garven Dreis, immortalized for his sacrifice at the Battle of Yavin under the call sign Red Leader. During the Clone Wars, Dreis was a local defense force pilot at Virujansi, and flew alongside Anakin Skywalker.</Description>
     <Sources>
-      <Source Page="15">Stay on Target</Source>
+      <Source Page="15">Дополнение: Все по плану (Stay on Target)</Source>
       <Source Page="16">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -763,7 +763,7 @@ While many think of the Clone Wars as a conflict between Jedi-led clone armies a
       [H4]Entertainer[h4]
 Among civilians, there are few events more popular than a day at the racetrack. Spectators gather from across the planet to witness some of the bravest beings in the galaxy compete to find out who is the fastest. Between races, competitors often participate in exhibitions to hone their skills, test their vehicles, and dazzle spectators with heart-stopping maneuvers.
 [P]Most competition pilots are peaceful, living only for the thrill of victory, and for feeling that unique bond with their vehicle that only comes from pushing it to the limit with daredevil stunts and holo finishes. However, if pushed into choosing a side in the Galactic Civil War, entertainers possess the precise control over their vehicles required to make them lethal combatants. </Description>
-    <Source Page="13">Stay on Target</Source>
+    <Source Page="13">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -774,7 +774,7 @@ Among civilians, there are few events more popular than a day at the racetrack. 
 Imperial academies at Carida, Raithal, Corulag, and Prefsbelt turn out a never-ending stream of officers, stormtroopers, and pilots for the Empire. The academy teaches standard Imperial tactics and maneuvers, so that graduates can assimilate into military units throughout Imperial space. The program weans out undesirables by design, and a fair percentage of each class of trainees washes out.
 [P]While the curriculum emphasizes loyalty to the Empire, many cadets find themselves unable to execute what they see as unjust orders. These graduates often desert or defect to the Rebellion. A famous example is the mutiny of the Rand Ecliptic, which was led by recent academy graduates Biggs Darklighter and Derek "Hobbie" Klivian. Once in command of the vessel, Biggs, Hobbie, and a number of other sympathetic TIE pilots joined up with the Rebellion.</Description>
     <Sources>
-      <Source Page="16">Stay on Target</Source>
+      <Source Page="16">Дополнение: Все по плану (Stay on Target)</Source>
       <Source Page="15">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -785,7 +785,7 @@ Imperial academies at Carida, Raithal, Corulag, and Prefsbelt turn out a never-e
     <Description>
       [H4]Prototype Tester[h4]
 The tester's job is to stress new, experimental vehicles until they break. He pushes the limits until all the various ceilings and tolerances are defined, refined, and improved. Then, he tries to break the vehicle all over again so corporations can put out a reliable, thoroughly tested vehicle. When an Ace comes from a prototype testing background, he brings nerves of durasteel and more than a little luck with him. Of all the Ace backgrounds, the tester is the most experienced at dealing with a malfunctioning vehicle and making emergency landings.</Description>
-    <Source Page="14">Stay on Target</Source>
+    <Source Page="14">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -805,7 +805,7 @@ The lives of Seekers can be about more than just establishing their own path. So
       [H4]Talented Amateur[h4]
 Talented amateurs are almost the polar opposite of the academics, with little to no formal training. Instead, they are passionate autodidacts, self-taught tinkerers, or innate savants. While they typically cannot compare to professionals, they are often more creative in their approaches and think outside the bow more easily than those steeping in rigid and hide-bound academia.
 [P]These talented and driven amateurs can be found throughout the galaxy. From the far reaches of the Outer Rim, to glittering Coruscant, amateurs live wherever machines and technology are readily available. While those who serve in the Rebel Alliance are from an incredibly diverse cross section of galactic species, cultures, and societies, they are bound together by passion and a common love of learning.</Description>
-    <Source Page="15">Fully Operational</Source>
+    <Source Page="15">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>

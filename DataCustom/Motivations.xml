@@ -140,7 +140,7 @@ The Motivations presented in the [B]Edge of the Empire[b] Core Rulebook necessar
 There are quite a few options for different Motivations found in the Core Rulebook. However, since these Motivations have to serve a wide variety of characters, they are broad by necessity. [B]Dangerous Covenants[b] includes a number of Motivations tailored specifically for the Hired Gun career and its specializations. These new Motivations are grouped into the category of Conflicts.</Description>
     <Sources>
       <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
-      <Source Page="34">Stay on Target</Source>
+      <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
@@ -322,7 +322,7 @@ Consulars reject complacency, striving to make themselves and their surroundings
       [H4]Improvements[h4]
 For Engineers, there is nothing that cannot be improved with a bit of thought and effort. This conviction reinforces many in striving toward ending the Empire and replacing it with improved governance. The technological impetus carries over into the personal lives of most Engineers as well. Motivations related to these concepts help to determine why Engineers joined the Alliance and how they behave in combat and social challenges.
     </Description>
-    <Source Page="31">Fully Operational</Source>
+    <Source Page="31">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>IMPROVE1</Key>
@@ -389,7 +389,7 @@ Aleen is a world of hidden depths. The presence of monumental sculptures on the 
 [P]Their respective atmospheres being deadly to one another, the Aleena and the Kindalo have maintained a rigid separation since the undertaking of a compact between their peoples sometime in the distant past. The Aleena have enshrined this separation in the tenets of their faith, while the more prosaic Kindalo have made it
 one of the few absolute laws in their otherwise anarchic political system.
 [P]Aleen has one major satellite, a rocky yellow moon devoid of any atmosphere, called “Trohlu” by the Aleena (it is unknown whether the Kindalo are even aware of the moon’s existence). The Empire maintains a listening station and observation post on this moon, but it has otherwise taken a surprisingly hands-off approach to the planet.</Description>
-    <Source Page="114">Nexus of Power</Source>
+    <Source Page="114">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>LOCALEENENAM</Key>
@@ -405,7 +405,7 @@ Auratera is situated in one of the oldest civilized areas of the galaxy, in the 
 [P]Most of the world’s population had fled Sith invaders and had not returned. The number of inhabitants had plummeted, and those who remained had enough of the Sith. They and the Jedi secretly altered official Republic records and star maps to misclassify the system in astronavigational databases as one rendered uninhabitable during the war. Though the Jedi retained the correct data, the deception has remained in place ever since, passing from Republic to Imperial charts.
 [P]Currently, Auratera has only a few widely scattered isolationist towns and settlements. In hiding themselves from the galaxy, they have cut ties with the few remaining trading partners they had when the last Sith Empire fell. Many
 settlements have reverted to more primitive technology to make themselves self-sufficient. While vehicles are common in the settlements, starships are a rare commodity. Having no central world government, the different communities govern themselves as they like. There is some trade between groups, and each year a ship or two quietly visits nearby systems to purchase supplies, parts, and vehicles, and to check in on galactic events.</Description>
-    <Source Page="114">Nexus of Power</Source>
+    <Source Page="114">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>LOCAURAISO</Key>
@@ -423,7 +423,7 @@ Bardottan culture is highly religious, centering on a mystic tradition called �
 [P]One of the main reasons to visit Bardotta is its natural beauty; the planet is a soaring landscape of dramatic
 mountain ranges, warm seas, lush forests, and long beaches. It has few hostile native species of animals. The planet’s smaller size and distance from its star give it a mild climate and a slightly lower gravity than that of many other worlds.
 [P]Bardottan traders prefer to do most of their business on-world. Markets are flush with cloth, tapestries, and works of art of every type. Trade is carefully regulated, although a few less-scrupulous merchants do exist.</Description>
-    <Source Page="114">Nexus of Power</Source>
+    <Source Page="114">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>LOCBARDPRES</Key>
@@ -441,7 +441,7 @@ Devaron’s dense jungles are dominated by monstrously thick vines growing in a 
 [P]Devaronian cities usually feature low structures built on cleared ground or amid some of the less dense vegetation. Most are located in mountainous terrain. They provide the technical and industrial needs of a modern society, but development is strictly controlled by the government and largely restrained to what Devaronian society requires. Devaron is largely a subsistence world, exporting very little,
 and concentrating imports on goods difficult to create or obtain on the planet.
 [P]While Devaronians are no more or less well known than other species for their connection to the Force, Devaron features a significant vergence within the deep jungle. The Jedi Temple of Eedit there was a longstanding place of learning, meditation, and training. Though not large, the temple and vergence provide Force users with opportunities to learn resilience while strengthening or rebuilding spirit. The temple grounds were heavily damaged during the Clone Wars, and the Imperials finished the job by bombing and blasting them to pieces. However, the ruins still stand, mostly forgotten in the jungle. (See page 78 for more on the Jedi Temple of Eedit.)</Description>
-    <Source Page="114">Nexus of Power</Source>
+    <Source Page="114">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>LOCDEVMAT</Key>
@@ -457,7 +457,7 @@ Iktotch is a rocky moon orbiting the world of Iktotchon, and is one of the galax
 [P]A species with such powerful precognitive abilities is a natural threat to the Empire. The Imperials have blockaded the world and have severely limited Iktotchi travel, though those who wish to do so are relatively few in number. In fact, many Iktotchi returned to their homeworld when the Empire was established. Their visions of the future warned them that Imperial worlds weren’t safe for them. Imperial isolation of Iktotch is so extreme that the world doesn’t have an Imperial Governor, and citizens are essentially left to fend for themselves.
 [P]Though formidable, the blockade is not total. Daring pilots run the blockade regularly to smuggle in items restricted by the Empire, as well as more commonly illegal items. Typical visitors require permits to enter the system and additional ones to land on Iktotch. Both are very hard to obtain. Imperials conduct more customs searches on
 ships entering and leaving than they do in most other star systems. Acquiring a permit ahead of time can save some hassle, though it rarely eliminates at least a cursory glance over a vehicle. Ships without permits tend to be boarded, investigated, and impounded for indefinite periods of time.</Description>
-    <Source Page="114">Nexus of Power</Source>
+    <Source Page="114">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>LOCIKTOVIS</Key>
@@ -474,7 +474,7 @@ Lothal is a relatively nondescript, sparsely populated frontier world located in
 [P]Lothal’s plains are dotted with spires of striped, layered rock, which make for a distinctive site rising out of the seas of golden grass. The size of these rocks varies from a few meters to dozens of meters tall. In places, the rock formations cluster together, creating tangled mazes of canyons and ravines between each of the conical spires. Despite local (and now Imperial) efforts, some of these rock formations end up as hideouts for criminals, smugglers, and even Rebel sympathizers.
 [P]Although the planet has been settled for some time, the only major metropolitan center is the literally named Capital City. Most of the population is scattered among a host of farming communities and small towns all across the prairies and savannahs that stretch across the interior of Lothal’s continents.
 [P]For much of its history, Lothal has been an agricultural world, exporting grain-based foodstuffs, nerf-meat, and leather products to its galactic neighbors. However, ever since the Empire has taken control of Lothal, it has begun introducing various heavy industries to the planet. Now Lothal helps produce starships and their components, including TIE fighters to help reinforce the Empire’s war machine.</Description>
-    <Source Page="114">Nexus of Power</Source>
+    <Source Page="114">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>LOCLOTHUPPOV</Key>
@@ -490,7 +490,7 @@ Lothal is a relatively nondescript, sparsely populated frontier world located in
 Naboo is a wealthy, cultured world located in the Mid Rim Territories. The capital world of the Chommell sector, Naboo was a member of the Galactic Senate for nearly a thousand years, until the Senate was disbanded by Emperor Palpatine. In that time, this civic-minded world turned out a number of well-respected legislators who worked tirelessly to improve the lot not only of their homeworld, but of the galaxy at large.
 [P]The third planet of the Naboo system, Naboo orbits a healthy, main sequence yellow star that is also named Naboo. Three small moons—Ohma-D’un, Rori, and a nameless mass that is little more than an overgrown asteroid—house small colonies as well as a handful of offworld and orbital shipyards and factories. Naboo is a geological oddity, with a planetary makeup that defies scientific classification. On the surface, it seems a commonplace world, if one blessed with an overabundance of natural beauty. Naboo’s geography is a mix of grassy plains, lakes, rivers, and low hills, with some small mountain ranges. Beneath Naboo’s surface, however, the planet is anything but common.
 [P]Naboo’s core is a massive, seething ball of molten matter classified by scientists long ago as plasma. This plasmic core surrounds a small, exceedingly dense solid core composed of common ores. Throughout the countless millennia of the planet’s existence, the volatile plasma has eaten away at the planet’s substance, honeycombing the world with labyrinths of tunnels, vents, and chambers. Over time, these abyssal labyrinths filled with seawater, leading to the formation of vast underground oceans and rivers. As a result, Naboo is essentially hollow, with a thin crust covering a planetwide network of waterways. These waterways were extensively mapped long ago by the aquatic Gungans, who use the tunnels to travel undetected to and from virtually any point on the planet’s surface. It is rumored that insurgent cells operate in the subsurface labyrinths, striking wherever they like and retreating deep underground, where they are safe from Imperial reprisals.</Description>
-    <Source Page="114">Nexus of Power</Source>
+    <Source Page="114">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>LOCNABOOENVOY</Key>
@@ -507,7 +507,7 @@ An ancient world that legend suggests is tied to the origins of the Jedi, Ossus 
 [P]The Cron Drift asteroid field is an astronomically new feature to the Auril sector, estimated to have occurred thousands of years ago, and the powerful gravitational fluctuations within it make it nearly impossible to traverse. The danger hasn’t stopped thrill-seekers from trying to find a way through the drift. Thousands of expeditions for Ossus have departed and never returned, presumably suffering some catastrophic hyperspace mishap in the Cron Drift. However, others swear they have reached Ossus, presenting astrogation charts and recovered artifacts as proof, though almost none have stood up to basic academic scrutiny. Nonetheless, scoundrels along the Perlemian Trade Route near the Cron Drift prey on the naive and desperate by selling forged star charts and artifacts.
 [P]The Imperials have no official stance on the veracity of Ossus’s existence, but the Imperial Navy actively restricts traffic to the Cron Drift, and it has hyperspace checkpoints at the best jump points from the Perlemian Trade Route. Less patrolled, however, are the nearby Salin Corridor and Tion Cluster, where an entire cottage industry supporting treasure hunters exists on worlds like Belderone and Foran Tutha.
 [P]Legends tell of Jedi survivors who hid deep within the caves of the Eocho Mountains, and of their Force-sensitive descendants, the Ysanna. According to these accounts, the planet is still recovering, and powerful lightning storms ravage the surface. Force-sensitive shamans among the Ysanna, known as storm shepherds, have learned to predict the lighting storms, allowing their tribes to return to the surface to grow food.</Description>
-    <Source Page="114">Nexus of Power</Source>
+    <Source Page="114">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>LOCOSSUSARCH</Key>
@@ -523,7 +523,7 @@ Weik is a fierce and untamed wilderness world, located in Wild Space far from es
 [P]Weik is a rough and mountainous world that orbits on the outer edge of its star’s habitable zone. Thus, even the equatorial regions tend to have mild summers and winters ranging from chilly to downright cold. The temperate zones see colder temperatures and bone-chilling winter months with many meters of snow. In addition, towering mountain ranges crisscross Weik’s continents and divide its small, deep seas. They funnel and focus weather patterns into terrifying storms.
 [P]All this helps ensure that the planet’s population remains scattered and disparate, unable to unite behind a single culture. Weik’s population has had thousands of years to scatter across the world, and some of the initial diaspora occurred while the original colonists still had access to some measure of their technology.
 [P]Although Weik’s indigenous population seems large, the planet’s feudal culture tends to mean that population is spread out across large areas, with vast tracts of wilderness separating communities. Travel from one community to the next can take weeks or even months. Whether venturing through narrow mountain passes on slow caravans or braving the turbulent seas on wooden sailing ships, the simple act of traveling from one city-state to another can all-too-easily become a harrowing adventure.</Description>
-    <Source Page="114">Nexus of Power</Source>
+    <Source Page="114">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>LOCWEIKFORREV</Key>

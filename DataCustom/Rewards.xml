@@ -542,7 +542,7 @@ In [B]Age of Rebellion[b], a maker's mark represents an Engineer character's uni
 
 See Pages 95-96 of Fully Operational for additional information on Maker's Mark. </Description>
     <Sources>
-      <Source Page="95">Fully Operational</Source>
+      <Source Page="95">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <RewardTitle>rteMakersMark</RewardTitle>
@@ -668,7 +668,7 @@ Proven expertise is available to Engineer PCs at the GM's discretion. In order t
 See page 95 of the Fully Operational Sourcebook for more details.
     </Description>
     <Sources>
-      <Source Page="95">Fully Operational</Source>
+      <Source Page="95">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <RewardTitle>rteProvenExpertise</RewardTitle>

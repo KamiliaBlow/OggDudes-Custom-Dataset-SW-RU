@@ -3102,7 +3102,7 @@
       [H3]Vehicle Assembly[h3]
       Obtain the results of the final assembly for silhouettes 0 or 1 vehicles.
     </Description>
-    <Source Page="85">Fully Operational</Source>
+    <Source Page="85">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleAssembly</TempType>
     <TimeHours>24</TimeHours>
     <CheckSkills>
@@ -3125,7 +3125,7 @@
       Obtain the results of the final assembly for silhouette 2 vehicles.[P]
       [B]Additional Resources Needed:[b] 1,000 credits for additional supplies
     </Description>
-    <Source Page="85">Fully Operational</Source>
+    <Source Page="85">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleAssembly</TempType>
     <TimeHours>48</TimeHours>
     <CheckSkills>
@@ -3148,7 +3148,7 @@
       Obtain the results of the final assembly for silhouette 3 vehicles.[P]
       [B]Additional Resources Needed:[b] 10,000 credits for additional supplies
     </Description>
-    <Source Page="85">Fully Operational</Source>
+    <Source Page="85">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleAssembly</TempType>
     <TimeHours>120</TimeHours>
     <CheckSkills>
@@ -3171,7 +3171,7 @@
       Obtain the results of the final assembly for silhouette 4 vehicles.[P]
       [B]Additional Resources Needed:[b] A team of 5 or more, 25,000 credits for additional supplies
     </Description>
-    <Source Page="85">Fully Operational</Source>
+    <Source Page="85">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleAssembly</TempType>
     <TimeHours>240</TimeHours>
     <CheckSkills>
@@ -3195,7 +3195,7 @@
       Obtain the results of the final assembly for silhouette 5 or 6 vehicles.[P]
       [B]Additional Resources Needed:[b] A team of 100 or more, 100,000 credits for additional supplies
     </Description>
-    <Source Page="85">Fully Operational</Source>
+    <Source Page="85">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleAssembly</TempType>
     <TimeHours>1200</TimeHours>
     <CheckSkills>
@@ -3219,7 +3219,7 @@
       Obtain the results of the final assembly for silhouette 7 to 9 vehicles.[P]
       [B]Additional Resources Needed:[b] A team of 5,000 or more, 2,000,000 credits for additional supplies
     </Description>
-    <Source Page="85">Fully Operational</Source>
+    <Source Page="85">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleAssembly</TempType>
     <TimeHours>2400</TimeHours>
     <CheckSkills>
@@ -3242,7 +3242,7 @@
       [H3]Electron Baffled Engine[h3]
       This is an Electron Baffled Engine vehicle engine template.
     </Description>
-    <Source Page="81">Fully Operational</Source>
+    <Source Page="81">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleEngine</TempType>
     <TimeHours>48</TimeHours>
     <CheckSkills>
@@ -3263,7 +3263,7 @@
       [H3]Fusial Thrust Engine[h3]
       This is a Fusial Thrust Engine vehicle engine template.
     </Description>
-    <Source Page="82">Fully Operational</Source>
+    <Source Page="82">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleEngine</TempType>
     <TimeHours>60</TimeHours>
     <CheckSkills>
@@ -3284,7 +3284,7 @@
       [H3]Ion Drive Array[h3]
       This is an Ion Drive Array vehicle engine template.
     </Description>
-    <Source Page="82">Fully Operational</Source>
+    <Source Page="82">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleEngine</TempType>
     <TimeHours>120</TimeHours>
     <CheckSkills>
@@ -3305,7 +3305,7 @@
       [H3]Ion Turbine Engine[h3]
       This is an Ion Turbine Engine vehicle engine template.
     </Description>
-    <Source Page="82">Fully Operational</Source>
+    <Source Page="82">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleEngine</TempType>
     <TimeHours>48</TimeHours>
     <CheckSkills>
@@ -3326,7 +3326,7 @@
       [H3]High-Performance Repulsor Cluster[h3]
       This is a High-Performance Repulsor Cluster vehicle engine template.
     </Description>
-    <Source Page="82">Fully Operational</Source>
+    <Source Page="82">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleEngine</TempType>
     <TimeHours>120</TimeHours>
     <CheckSkills>
@@ -3347,7 +3347,7 @@
       [H3]Single Ion Coil[h3]
       This is a Single Ion Coil vehicle engine template.
     </Description>
-    <Source Page="81">Fully Operational</Source>
+    <Source Page="81">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleEngine</TempType>
     <TimeHours>24</TimeHours>
     <CheckSkills>
@@ -3368,7 +3368,7 @@
       [H3]Airspeeder[h3]
       This is a Airspeeder vehicle template.  Please enter the description of the finished vehicle here.
     </Description>
-    <Source Page="79">Fully Operational</Source>
+    <Source Page="79">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleFrame</TempType>
     <TimeHours>24</TimeHours>
     <CheckSkills>
@@ -3408,7 +3408,7 @@
       [H3]Corvette[h3]
       This is a Corvette vehicle template.  Please enter the description of the finished vehicle here.
     </Description>
-    <Source Page="80">Fully Operational</Source>
+    <Source Page="80">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleFrame</TempType>
     <TimeHours>480</TimeHours>
     <CheckSkills>
@@ -3449,7 +3449,7 @@
       [H3]Custom Vehicle[h3]
       This is a custom vehicle template.  This will create a vehicle from the frame of an existing vehicle.  Please enter the description of the finished vehicle here.
     </Description>
-    <Source Page="79">Fully Operational</Source>
+    <Source Page="79">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleFrame</TempType>
     <TimeHours>0</TimeHours>
     <CheckSkills>
@@ -3469,7 +3469,7 @@
       [H3]Destroyer[h3]
       This is a Destroyer vehicle template.  Please enter the description of the finished vehicle here.
     </Description>
-    <Source Page="80">Fully Operational</Source>
+    <Source Page="80">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleFrame</TempType>
     <TimeHours>1200</TimeHours>
     <CheckSkills>
@@ -3510,7 +3510,7 @@
       [H3]Freighter[h3]
       This is a Freighter vehicle template.  Please enter the description of the finished vehicle here.
     </Description>
-    <Source Page="79">Fully Operational</Source>
+    <Source Page="79">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleFrame</TempType>
     <TimeHours>240</TimeHours>
     <CheckSkills>
@@ -3550,7 +3550,7 @@
       [H3]Frigate[h3]
       This is a Frigate vehicle template.  Please enter the description of the finished vehicle here.
     </Description>
-    <Source Page="80">Fully Operational</Source>
+    <Source Page="80">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleFrame</TempType>
     <TimeHours>480</TimeHours>
     <CheckSkills>
@@ -3591,7 +3591,7 @@
       [H3]Heavy Cruiser[h3]
       This is a Heavy Cruiser vehicle template.  Please enter the description of the finished vehicle here.
     </Description>
-    <Source Page="80">Fully Operational</Source>
+    <Source Page="80">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleFrame</TempType>
     <TimeHours>1200</TimeHours>
     <CheckSkills>
@@ -3632,7 +3632,7 @@
       [H3]Landspeeder[h3]
       This is a Landspeeder vehicle template.  Please enter the description of the finished vehicle here.
     </Description>
-    <Source Page="78">Fully Operational</Source>
+    <Source Page="78">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleFrame</TempType>
     <TimeHours>24</TimeHours>
     <CheckSkills>
@@ -3672,7 +3672,7 @@
       [H3]Shuttle[h3]
       This is a Shuttle vehicle template.  Please enter the description of the finished vehicle here.
     </Description>
-    <Source Page="79">Fully Operational</Source>
+    <Source Page="79">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleFrame</TempType>
     <TimeHours>240</TimeHours>
     <CheckSkills>
@@ -3712,7 +3712,7 @@
       [H3]Speeder Bike[h3]
       This is a speeder bike vehicle template.  Please enter the description of the finished vehicle here.
     </Description>
-    <Source Page="78">Fully Operational</Source>
+    <Source Page="78">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleFrame</TempType>
     <TimeHours>12</TimeHours>
     <CheckSkills>
@@ -3752,7 +3752,7 @@
       [H3]Starfighter[h3]
       This is a Starfighter vehicle template.  Please enter the description of the finished vehicle here.
     </Description>
-    <Source Page="79">Fully Operational</Source>
+    <Source Page="79">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleFrame</TempType>
     <TimeHours>72</TimeHours>
     <CheckSkills>
@@ -3792,7 +3792,7 @@
       [H3]Space Station[h3]
       This is a Space Station vehicle template.  Please enter the description of the finished vehicle here.
     </Description>
-    <Source Page="81">Fully Operational</Source>
+    <Source Page="81">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleFrame</TempType>
     <TimeHours>2400</TimeHours>
     <CheckSkills>
@@ -3838,7 +3838,7 @@
       [H3]Walker[h3]
       This is a Walker vehicle template.  Please enter the description of the finished vehicle here.
     </Description>
-    <Source Page="79">Fully Operational</Source>
+    <Source Page="79">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleFrame</TempType>
     <TimeHours>72</TimeHours>
     <CheckSkills>
@@ -3877,7 +3877,7 @@
       [H3]Expanded-Capacity Holds[h3]
       This is an Expanded-Capacity Holds vehicle hull template.
     </Description>
-    <Source Page="83">Fully Operational</Source>
+    <Source Page="83">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleHull</TempType>
     <TimeHours>24</TimeHours>
     <TimePerSilhouette>true</TimePerSilhouette>
@@ -3899,7 +3899,7 @@
       [H3]Combat Plating[h3]
       This is a Combat Plating Hull vehicle hull template.
     </Description>
-    <Source Page="83">Fully Operational</Source>
+    <Source Page="83">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleHull</TempType>
     <TimeHours>96</TimeHours>
     <TimePerSilhouette>true</TimePerSilhouette>
@@ -3921,7 +3921,7 @@
       [H3]Deflective Plating[h3]
       This is a Deflective Plating Hull vehicle hull template.
     </Description>
-    <Source Page="83">Fully Operational</Source>
+    <Source Page="83">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleHull</TempType>
     <TimeHours>72</TimeHours>
     <TimePerSilhouette>true</TimePerSilhouette>
@@ -3943,7 +3943,7 @@
       [H3]Lightly Armored Hull[h3]
       This is a Lightly Armored Hull vehicle hull template.
     </Description>
-    <Source Page="83">Fully Operational</Source>
+    <Source Page="83">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleHull</TempType>
     <TimeHours>48</TimeHours>
     <TimePerSilhouette>true</TimePerSilhouette>
@@ -3965,7 +3965,7 @@
       [H3]Sleek Carapace[h3]
       This is a Sleek Carapace vehicle hull template.
     </Description>
-    <Source Page="82">Fully Operational</Source>
+    <Source Page="82">Дополнение: Полная оперативность (Fully Operational)</Source>
     <TempType>ctVehicleHull</TempType>
     <TimeHours>24</TimeHours>
     <TimePerSilhouette>true</TimePerSilhouette>

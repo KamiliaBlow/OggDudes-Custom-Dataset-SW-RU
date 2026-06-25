@@ -315,7 +315,7 @@ The Anq 3.6 is a computer/fire control system that allows the Pathfinder's senso
     <Description>
       [H3]Armored Computer Core[h3]
 It's a tragic fact that all too often, the brave members of the Alliance fail to return from a mission. Nevertheless, even a failed mission can provide useful data for the cause and prevent such deaths in the future. In such cases, an armored computer core provides an opportunity for the Rebellion to recover a record of the mission from even the most devastated wrecks. Layers of laminamium plating, redundant data backups, and sometimes even an ejection failsafe ensure the survival of a computer core storing astrogation data, a record of ship activity, and-assuming mission leaders fulfill their duty-a log of the mission. Should the worst come to pass, the armored computer core can survive the ship's complete destruction, and is practically indistinguishable from the debris.</Description>
-    <Source Page="60">Fully Operational</Source>
+    <Source Page="60">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>1100</Price>
@@ -507,7 +507,7 @@ Astromech sockets are typically found in starfighters, shuttles, and the occasio
 [P]Aftermarket astromech sockets can only be installed on ships or vehicles of silhouette 3 or higher. After a lengthy and involved installation process requiring heavy modifications to both the ship's hull and its onboard systems, the ship and pilot gain all the benefits of an astromech droid when one is installed in the socket. These benefits range from enhanced damage control to the ability to make hyperspace jump calculations. When installed on larger starships, this attachment represents can represent more than a single socket. These ships often employ an entire bay capable of housing multiple astromechs and deploying them to the outer surface of the ship to aid in repairs.
 
 [P][B]Models Include:[b] Industrial Automaton Mk. I Astromech Socket.</Description>
-    <Source Page="63">Stay on Target</Source>
+    <Source Page="63">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>3000</Price>
@@ -652,7 +652,7 @@ Using an updated and streamlined galven pattern and heavy-duty static pulse adap
       [H3]Automated Weapon Mounting[h3]
 Used by elite special forces across the galaxy-and the occasional bounty hunter-an automated weapon mounting is a sophisticated pseudocybernetic that allows the user to fire a blaster or other handheld weapon while keeping both hands free, possibly for additional weapons. Automated harnesses are most commonly shoulder mounted, although a variety of models are available, some incorporating articulated appendages of up to a half meter in length. Sappers and combat engineers often find automated weapon mountings particularly useful , particularly when combined with a droid brain targeting system, as the mountings allow them to effect battlefield repairs without leaving themselves vulnerable. An automated weapon mounting may be activated by voice or neural link. For obvious reasons, these attachments are rarely seen outside of a battlefield, and they are outlawed on most worlds.
 [P]A weapon must also be modified in order to be armor-mounted, requiring one hard point.</Description>
-    <Source Page="53">Fully Operational</Source>
+    <Source Page="53">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>3000</Price>
@@ -1826,7 +1826,7 @@ When a terrible mining accident destroyed Jedha City, the galaxy lost one of the
       [H3]Electron Baffled Engine[h3]
 Baffled engines not only offer increased speed due to their vectoring mechanisms, but also add additional defense to the aft sections of a ship.</Description>
     <Sources>
-      <Source Page="81">Fully Operational</Source>
+      <Source Page="81">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -1882,7 +1882,7 @@ Baffled engines not only offer increased speed due to their vectoring mechanisms
       [H3]Fusial Thrust Engine[h3]
 Fusial engines are common in starfighters, where high speed is often the most important factor.</Description>
     <Sources>
-      <Source Page="82">Fully Operational</Source>
+      <Source Page="82">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -1934,7 +1934,7 @@ Fusial engines are common in starfighters, where high speed is often the most im
       [H3]Ion Drive Array[h3]
 Ion drive arrays provide excellent speed as well as plenty of opportunities for modification.</Description>
     <Sources>
-      <Source Page="82">Fully Operational</Source>
+      <Source Page="82">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -1993,7 +1993,7 @@ Ion drive arrays provide excellent speed as well as plenty of opportunities for 
       [H3]Ion Turbine Engine[h3]
 Reliable and compact, these engines are often found in freighters seeking power without sacrificing space.</Description>
     <Sources>
-      <Source Page="82">Fully Operational</Source>
+      <Source Page="82">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -2049,7 +2049,7 @@ Reliable and compact, these engines are often found in freighters seeking power 
       [H3]High-Performance Repulsor Cluster[h3]
 While bulkier than other engines, repulsor clusters can offer high speed and increased protection for vehicles operating within a planetary atmosphere. This engine type cannot be mounted on starships.</Description>
     <Sources>
-      <Source Page="82">Fully Operational</Source>
+      <Source Page="82">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -2100,7 +2100,7 @@ While bulkier than other engines, repulsor clusters can offer high speed and inc
       [H3]Single Ion Coil[h3]
 Perhaps the most basic of sublight drives, these engines are still attractive due to their price.</Description>
     <Sources>
-      <Source Page="81">Fully Operational</Source>
+      <Source Page="81">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -2151,7 +2151,7 @@ Perhaps the most basic of sublight drives, these engines are still attractive du
       [H3]Combat Plating[h3]
 Combat plating offers perhaps the best protection a hull can provide, but reduces the steering to glacial levels of responsiveness.</Description>
     <Sources>
-      <Source Page="83">Fully Operational</Source>
+      <Source Page="83">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -2194,7 +2194,7 @@ Combat plating offers perhaps the best protection a hull can provide, but reduce
       [H3]Deflective Plating[h3]
 Hulls featuring these protective plates give a trade off between defense and maneuverability</Description>
     <Sources>
-      <Source Page="83">Fully Operational</Source>
+      <Source Page="83">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -2237,7 +2237,7 @@ Hulls featuring these protective plates give a trade off between defense and man
       [H3]Expanded-Capacity Holds[h3]
 Used for freighters, this hull allows for additional cargo space and the promise of paying passengers.</Description>
     <Sources>
-      <Source Page="83">Fully Operational</Source>
+      <Source Page="83">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -2288,7 +2288,7 @@ Used for freighters, this hull allows for additional cargo space and the promise
       [H3]Light Armored Hull[h3]
 The improved armor in this hull increases survivability.</Description>
     <Sources>
-      <Source Page="83">Fully Operational</Source>
+      <Source Page="83">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -2335,7 +2335,7 @@ The improved armor in this hull increases survivability.</Description>
       [H3]Sleek Carapace[h3]
 This hull sacrifices speed for maneuverability, and often provides for increased attractiveness.</Description>
     <Sources>
-      <Source Page="82">Fully Operational</Source>
+      <Source Page="82">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -2737,7 +2737,7 @@ Small, dull, and brittle, Dragite gems are found in the caves and caverns of the
     <Description>
       [H3]Droid Brain Defense System[h3]
 An extremely unusual upgrade generally reserved for powered armor suits, a droid brain defense system uses a full sensor suite to alert wearers to and help them avoid threats. The most basic models simply warn the user of threats and indicate ideal cover positions through a haptic interface or by voice. More advanced models incorporate a system of complex motors or even repulsor generators throughout the armor to literally throw the wearer out of the way of incoming fire. These droids often develop highly paranoid personalities, and their earnest attempts to protect their master even outside of combat can prove highly inconvenient.</Description>
-    <Source Page="53">Fully Operational</Source>
+    <Source Page="53">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>5000</Price>
@@ -2764,7 +2764,7 @@ An extremely unusual upgrade generally reserved for powered armor suits, a droid
 Weapons manufacturers, combat engineers, and sabotage specialists are constantly inventing new triggers and detonators for explosive devices of all kinds, in order to provide for every conceivable situation. One of the most sophisticated and uncommon triggers makes use of an actual droid brain. Whereas timers, proximity detectors, and other common detonators are all effective within their narrow parameters, a droid brain is adaptable for nearly any situation or plan. A droid brain is able to abide by extremely specific trigger conditions and to follow complex instructions. For instance, users might instruct a detonite charge to wait thirty minutes after several specific individuals have entered a facility before igniting, or tell their frag grenade to avenge them should they fall in battle.
 [P]Droid brain detonators are intensely loyal, even by droid standards, but they tend to develop distinct personality quirks over their relatively short existences. Some are annoyingly chipper and enthusiastic, perhaps owing to additional layers of obedience programming, while others exhibit anything from childlike naivete to nihilistic moroseness. This attachment can be applied to any grenade or explosive device.
 </Description>
-    <Source Page="51">Fully Operational</Source>
+    <Source Page="51">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -2787,7 +2787,7 @@ Weapons manufacturers, combat engineers, and sabotage specialists are constantly
       [H3]Droid Targeting System[h3]
 Although droids are most commonly thought of as autonomous mobile constructs, the advanced artificial intelligence of droid brains has been used in a variety of other applications for thousands of years. A specialized droid mind equipped with sensors and miniaturized gyromotors can improve the accuracy of even the most experienced sentient marksman.
 [P]Many soldiers look down on the use of such systems, while others find the vibrations as the droid subtly adjusts their aim to be frustrating, to say the least. Droid targeting systems are known for their often bossy and impatient personalities. This attachment can be applied to any personal ranged weapon.</Description>
-    <Source Page="51">Fully Operational</Source>
+    <Source Page="51">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <Price>3200</Price>
@@ -3292,7 +3292,7 @@ attachment can be applied to any blaster.</Description>
 [B]EOD-Mk II Upgrade Options:[b] EOD-MK II suits lack any standard modification options, but can be upgraded with two valuable attachments. These attachments are integrated load-bearing gear and a data link for controlling EOD and demolitions remotes, such as the EOD-Mk IV. As the suits are designed for these upgrades, neither takes up any hard points for the armor, but each upgrade can only be taken once.
 [P]The data link allows the wearer to control a single EOD remote and costs an extra 300 credits with a rarity of 4.</Description>
     <Sources>
-      <Source Page="43">Fully Operational</Source>
+      <Source Page="43">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
@@ -3316,7 +3316,7 @@ attachment can be applied to any blaster.</Description>
 [B]EOD-Mk II Upgrade Options:[b] EOD-MK II suits lack any standard modification options, but can be upgraded with two valuable attachments. These attachments are integrated load-bearing gear and a data link for controlling EOD and demolitions remotes, such as the EOD-Mk IV. As the suits are designed for these upgrades, neither takes up any hard points for the armor, but each upgrade can only be taken once.
 [P]Integrated load-bearing gear reduces the suit's encumbrance by 3, and costs an additional 700 credits with a rarity of 3.</Description>
     <Sources>
-      <Source Page="43">Fully Operational</Source>
+      <Source Page="43">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
@@ -3648,7 +3648,7 @@ A smoke generator creates thick black or grey smoke that inhibits line of sight.
     <Name>Hyperdrive Class 4 Module</Name>
     <Description>[H3]Hyperdrive Class 4 Module[h3]
 Compared to sublight engines, hyperdrive modules require less thrust ducting and other complex integration work. Thus, they are handled as a starship attachment.</Description>
-    <Source Page="82">Fully Operational</Source>
+    <Source Page="82">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>AddedItem</Custom>
     <Type>Vehicle</Type>
     <CategoryLimit>
@@ -3688,7 +3688,7 @@ Compared to sublight engines, hyperdrive modules require less thrust ducting and
     <Name>Hyperdrive Class 8 Module</Name>
     <Description>[H3]Hyperdrive Class 8 Module[h3]
 Compared to sublight engines, hyperdrive modules require less thrust ducting and other complex integration work. Thus, they are handled as a starship attachment.</Description>
-    <Source Page="82">Fully Operational</Source>
+    <Source Page="82">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>AddedItem</Custom>
     <Type>Vehicle</Type>
     <CategoryLimit>
@@ -3941,7 +3941,7 @@ Gravity mine launchers, and their accompanying gravity mines, are small anti-veh
 [P]The character piloting or operating the weapons on a vehicle equipped with a gravity mine launcher can deploy a single gravity mine anywhere on the ground within close range by spending an action. Once the mine is deployed, it automatically attaches to any other starship or vehicle using repulsorlifts that comes within close range of it. For every 1 mine attached to a vehicle that uses the Piloting (Planetary) skill, that vehicle reduces its speed by 1. For every 2 mines attached to a starship that uses the Piloting (Space) skill, that starship reduces its speed by 1. An attached mine can be removed with an [B]Average ([DI][DI]) Mechanics check[b].
 
 [P][B]Models Include:[b] SoroSuub X80a UltraMass Gravity Pulse Generator, Taim &amp; Bak Model 19 micro-gravity well mines.</Description>
-    <Source Page="64">Stay on Target</Source>
+    <Source Page="64">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>3500</Price>
@@ -3967,7 +3967,7 @@ Gravity mine launchers, and their accompanying gravity mines, are small anti-veh
     <Description>
       [H3]Grenade Cling[h3]
 While some anti-vehicle explosive devices and some concussion grenades are equipped with an electromagnetic clamp as a standard feature, such capabilities are rare among anti-personnel grenades. With the addition of an electromagnet, adhesive polymer, plastoid webbing, or any of a dozen other measures, nearly any grenade or bomb can be made to latch onto its target, preventing escape and ensuring its destruction. The attachment can be added to any grenade or explosive device.</Description>
-    <Source Page="52">Fully Operational</Source>
+    <Source Page="52">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -4131,7 +4131,7 @@ Some starships or vehicles can be converted to carry additional, smaller vehicle
 The demands put on a ship or vehicle's electrical system, both by the systems connected to it and by daily wear-and-tear, are enormous. Anything that draws power from a ship or vehicle's reactor, from the pilot's datapad charger to the onboard weapon systems, puts strain on every cable, every breaker, every bus plate between the system and the power source. Hardened circuits covers a variety of electrical transmission gear that, when installed, improve a vehicle or ship's power system and allow it to handle heavier-than-normal power loads.
 
 [P][B]Models Include:[b] Santhe/Sienar Model 30 Heavy-Duty Dielectric Power Bus, Fabritech Triple-Phase Thermal-Magnetic Circuit Breakers, Corellian Engineering Corporation SF/6 Hybrid Switchgear Module.</Description>
-    <Source Page="64">Stay on Target</Source>
+    <Source Page="64">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>4500</Price>
@@ -4522,7 +4522,7 @@ Brosso Mk. IX Tactical holoprojector, Chedak Communications
 Even the cheapest, most unreliable starships are durable items built to withstand the incredible amounts of abuse heaped on them by decades in space. Hull or keel reinforcement is an easy way to improve a vehicle or vessel's durability. Extremely old vessels, such as most of those fielded by the Rebel Alliance, can also benefit from a hull or keel reinforcement by shoring up damaged or fatigued hull members and adding support bracing at strategic locations.
 
 [P][B]Models Include:[b] Various models.</Description>
-    <Source Page="64">Stay on Target</Source>
+    <Source Page="64">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>2500</Price>
@@ -6603,7 +6603,7 @@ An optimized energy cell or expanded gas reserve allows a blaster to achieve a m
     <Description>
       [H3]Ordnance Impeller[h3]
 Over the millennia, tinkerers, weapon designers, and desperate fighters have come up with countless delivery systems for explosives, from missile tubes to combat droids. One less-popular approach that nonetheless endures among certain demolitions experts is the use of a modified grenade or detonite charge capable of self-propulsion. Such modifications are almost always unique, although certain small droids and other devices are a popular basis, despite manufacturer warnings. From a proton grenade with wheels to a hovering thermal detonator, these makeshift devices-when successful-allow unparalleled control of an explosive device from a considerable distance. This is generally achieved via a small holocam and remote-control unit, although the addition of a droid brain detonator can be exceedingly effective. This weapon attachment can be applied to any grenade or explosive device with an encumbrance value of 3 or less.</Description>
-    <Source Page="52">Fully Operational</Source>
+    <Source Page="52">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -6707,7 +6707,7 @@ People living on the fringes of galactic society - and those involved in crimina
     <Description>
       [H3]Overcharged Shields[h3]
 Most shield arrays have the potential to generate a stronger field. However, this has the potential to damage the array itself, leaving the ship with no protection. Despite the risks. some shipboard engineers modify the shields to allow for increased output with only a few moments' tinkering in the midst of combat, banking on the extra defense to allow them to escape or defeat the enemy before suffering the repercussions.</Description>
-    <Source Page="61">Fully Operational</Source>
+    <Source Page="61">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>4000</Price>
@@ -7467,7 +7467,7 @@ Like electronic countermeasures, physical counter-measures are designed to fool 
 [P]While any ship equipped with physical counter-measures carries enough to get them through most encounters, engaging in a long, drawn-out fight can quickly deplete a launcher's store of countermeasures. Game Masters may spend [AD][AD] or [TR] on Gunnery checks made using missiles, rockets, or torpedoes targeting the starship to cause a countermeasure launcher to run out of its load of flares, chaff, or anti-warhead missiles, effectively disabling it until the end of the encounter.
 
 [P][B]Models Include:[b] Loronar Defense Industries A4M "Pepperbox" anti-warhead micro-missile pack, Oriolanis Defense Systems XM-130 chaff dispenser, Conner Ship Systems MJU-9G "Phoenix" Flare Dispenser.</Description>
-    <Source Page="64">Stay on Target</Source>
+    <Source Page="64">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>2200</Price>
@@ -7500,7 +7500,7 @@ More advanced and sophisticated than standard autopilot systems, a specialized a
 [P][B]Models Include:[b] Go-Corp CD-12a autopilot droid brain.</Description>
     <Sources>
       <Source Page="62">Дополнение: Непринужденный полет (Fly Casual)</Source>
-      <Source Page="61">Fully Operational</Source>
+      <Source Page="61">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -7620,7 +7620,7 @@ While the Jedi of old disdained blasters, modern Force users often need every ad
     <Description>
       [H3]Plasma Drill[h3]
 Originally developed for asteroid mining, a plasma drill is a superheated auger capable of boring through virtually any material, given enough time. Although a plasma drill is rarely effective as a weapon, commanders and engineers alike have recognized myriad other uses for a vehicle mounting one, from tunneling under enemy fortifications to excavating hidden underground facilities for their own use. </Description>
-    <Source Page="61">Fully Operational</Source>
+    <Source Page="61">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>4000</Price>
@@ -7992,7 +7992,7 @@ Podracing attracts a wide range of pilots, from those who delight in testing the
     <Description>
       [H3]Proximity Detonator[h3]
 Although certain models of mines include proximity detonators as standard, some desire this feature for grenades and other explosive devices. A proximity detonator adds an alternative trigger method: rather than detonating via a timer or on impact, the grenade only detonates when it detects the movement of a being or creature nearby. With the addition of a proximity detonator, a simple frag grenade becomes a deadly trap. A well-placed concussion grenade can incapacitate an entire squad of pursuing stormtroopers, giving Rebels better chances for escape. This weapon attachment can be applied to any grenade or explosive device.</Description>
-    <Source Page="52">Fully Operational</Source>
+    <Source Page="52">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -8045,7 +8045,7 @@ While true cloaking devices are all but unheard of and limited to capital ships,
       [H3]Predictive Targeting Array[h3]
 
 When making an auto-fire attack with the ship's auto-blasters, do not increase the difficulty of the attack by one.</Description>
-    <Source Page="143">Suns of Fortune</Source>
+    <Source Page="143">Дополнение: Солнце Фортуны (Suns of Fortune)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>2000</Price>
@@ -8117,7 +8117,7 @@ The galaxy contains many perils, but one of the most common is radiation. From t
 For the most part, collisions with other ships, vehicles, or obstacles are to be avoided at all costs. There are times, however, when a desperate situation calls for a desperate measure and a pilot or driver must use his vehicle as a weapon. A number of bolt-on accessories for ships and vehicles are produced by major vehicle manufacturers that protect and reinforce prows or forward sections against collision. Items such as bantha bars, sloped fenders known colloquially as "nerfcatchers," and custom-fit reinforced hull plating are all examples of the rich after market dedicated to protecting a vehicle in case of collision.
 
 [P][B]Models Include:[b] Various models.</Description>
-    <Source Page="65">Stay on Target</Source>
+    <Source Page="65">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>6500</Price>
@@ -8364,7 +8364,7 @@ Through a delicate system of motion sensors and miniaturized motors built into a
     <Description>
       [H3]Reinforced Armor Plating[h3]
 Over the millennia, manufacturers and shipwrights across the galaxy have developed countless esoteric methods of protecting a vehicle or starship, from deflector screens to proton shields to ion diffusers. Still, for many Alliance engineers, it's hard to beat extra durasteel layers for cost-effective protection.</Description>
-    <Source Page="61">Fully Operational</Source>
+    <Source Page="61">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>4000</Price>
@@ -8565,7 +8565,7 @@ A repulsorlift enhancement increases the output of a standard airspeeder's repul
     <Description>
       [H3]Repulsorlift Boost[h3]
 Some obstacles are insurmountable for even the most versatile and powerful of factory-standard repulsor field generators. For tinkerers willing to ignore a whole host of safety warnings-and likely a few laws-most repulsor field generators can be pushed past factory limits, allowing for a drastic, if brief, increase in lift. Such an increase can allow the vehicle to "jump" over objects, gaps, or enemy vehicles or to higher ground. Some field mechanics have even been known to add specially overcharged repulsor fields to vehicles that rely on a different method of propulsion, just in case. More than one team of Rebel soldiers has escaped certain death in the face of overwhelming Imperial opposition, thanks to just such modifications.</Description>
-    <Source Page="61">Fully Operational</Source>
+    <Source Page="61">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>1000</Price>
@@ -8592,7 +8592,7 @@ Some obstacles are insurmountable for even the most versatile and powerful of fa
     <Description>
       [H3]Repulsor Pack[h3]
 While lacking the range and power of a true jetpack, a repulsor pack provides a reliable-and less terrifying-alternative for those new to the realm of personal flight devices. A repulsor pack allows for controlled descents from nearly any height, as well as hovering speeds of up to thirty-five kilometers per hour, its name being something of a misnomer, a repulsor pack actually consists of a number of small, relatively low-powered repulsor lifts mounted to the user's torso and limbs. Although the sight of an experienced user gliding through the air is quite impressive, the learning curve is steep. Perhaps due to the importance of leg movement in most packs for controlling movement and speed, the devices are sometimes disparagingly called "jet pants."</Description>
-    <Source Page="53">Fully Operational</Source>
+    <Source Page="53">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>2500</Price>
@@ -9155,7 +9155,7 @@ Some sentients on the fringes of galactic civilization live a life of near-const
     <Description>
       [H3]Sensor Baffler[h3]
 Using combination of broad-spectrum transmissions and low-power targeted ion pulses, a sensor baffler confuses enemy sensors, preventing them from determining a ship's precise location. A sensor baffler is not a passive system, but actively confuses enemy sensors, providing contradictory and nonsensical readings. As a result, the system does not truly conceal the ship's presence from enemies. Even inexperienced sensor operators can easily see that something is interfering with their system, but they are frustratingly unable to pinpoint the source. A sensor baffler does not include optical camouflage, and it has no effect on visible detection. Despite its shortcomings, a sensor baffler has lower power requirements and requires a less-sophisticated manufacturing process than a true cloaking device. This makes it an attractive alternative to those nearly unheard-of devices, and one available to a wider variety of ship types.</Description>
-    <Source Page="62">Fully Operational</Source>
+    <Source Page="62">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>8000</Price>
@@ -9481,7 +9481,7 @@ Shock pulse emitters operate along principles similar to a blaster's stun settin
 An old shipbuilding technology perfected millennia ago, slave circuits allow ship owners to operate their ships, or various systems within their ships, via remote control. Occasionally referred to as the "Electronic Co-Pilot" or "Instant Backseater," slave circuits run all of a ship's systems through a central system bus that can be activated and deactivated via voice command through a comlink-like device called a "beckon call." Basic slave rigs allow a user to remotely activate a ship's systems and bring it to complete operational readiness, or to shut those systems down and lock out all users until a security code is entered. More advanced models allow the user to call the ship to his present location, and even allow it to fight its way there with moderate success. While popular in many circles, slave circuits are often mistrusted by ship owners.
 
 [P][B]Models Include:[b] Corellian Engineering Corporation "Savant" Ship Slave Rig, Incom ST-9x.4 "Backseater" Starfighter Slave System.</Description>
-    <Source Page="65">Stay on Target</Source>
+    <Source Page="65">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>10000</Price>
@@ -10142,7 +10142,7 @@ Even the simplest weapon can benefit from a craftsman's touch. A skilled weapons
 
 Boosts the engines of a swoop and also removes excess weight from the chassis.
     </Description>
-    <Source>Suns of Fortune</Source>
+    <Source>Дополнение: Солнце Фортуны (Suns of Fortune)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <TypeLimit>
@@ -10842,7 +10842,7 @@ A very common practice on starships and in more violent, less reputable races, u
     <Description>
       [H3]Utility Arm[h3]
 For some species, it's a mystery how humans and their ilk get by with only two arms. In fact, it's often said that the first armor-mounted utility arm was invented by a Dug Engineer, although another tale attributes its origin to a cybernetics manufacturer with a product surplus. Regardless of its origin, the utility arm is now a common tool for Engineers and technicians of all species. Mounted on a harness or suit of combat armor, a utility arm is a mechanical appendage similar in function to many cybernetic and droid arms and ending in a manipulating "hand." Although utility arms are most often used to increase workshop productivity, combatants of all kinds have found them useful on the battlefield.</Description>
-    <Source Page="53">Fully Operational</Source>
+    <Source Page="53">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>2000</Price>
@@ -11342,7 +11342,7 @@ powerful mixture of chemicals in the harness can be
 dangerous to the minds of sentient beings. Attaching
 the harness to a sentient being can result in permanent
 brain damage and even death.</Description>
-    <Source Page="44">Stay on Target</Source>
+    <Source Page="44">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Type>Mount</Type>
     <TypeLimit>
@@ -11528,7 +11528,7 @@ Most civilian vehicles are not designed for heavy modification. However, dedicat
 [P][I]Note: This attachment contains several custom effects that degrade the vehicle's performance. These are included as optional mods. Talk with your GM about which degradation to choose for your vehicle.[i]
     </Description>
     <Sources>
-      <Source Page="74">Fully Operational</Source>
+      <Source Page="74">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -12195,7 +12195,7 @@ After working on the item, vehicle, or ship, the character’s comprehension of 
 [P][I]Note:  Use this attachment on armor when you select the "Reverse Engineering" result from the chart on page 71.[i]
     </Description>
     <Sources>
-      <Source Page="71">Fully Operational</Source>
+      <Source Page="71">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
@@ -12220,7 +12220,7 @@ After working on the item, vehicle, or ship, the character’s comprehension of 
 [P][I]Note:  Use this attachment on weapons when you select the "Reverse Engineering" result from the chart on page 71.[i]
     </Description>
     <Sources>
-      <Source Page="71">Fully Operational</Source>
+      <Source Page="71">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -12245,7 +12245,7 @@ After working on the item, vehicle, or ship, the character’s comprehension of 
 [P][I]Note:  Use this attachment on gear when you select the "Reverse Engineering" result from the chart on page 71.[i]
     </Description>
     <Sources>
-      <Source Page="71">Fully Operational</Source>
+      <Source Page="71">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Gear</Type>
@@ -12270,7 +12270,7 @@ After working on the item, vehicle, or ship, the character’s comprehension of 
 [P][I]Note:  Use this attachment on vehicles when you select the "Reverse Engineering" result from the chart on page 71.[i]
     </Description>
     <Sources>
-      <Source Page="71">Fully Operational</Source>
+      <Source Page="71">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>

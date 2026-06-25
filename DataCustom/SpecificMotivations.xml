@@ -679,7 +679,7 @@ The Player Character's family believes in the cause of the Alliance. Many of the
  The character derives pleasure through destruction. He seldom passes up a chance to cause conflict and confusion in his work, even to the possible detriment of his own well-being. Extreme examples of this may even be forms of mental illness.</Description>
     <Sources>
       <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
-      <Source Page="34">Stay on Target</Source>
+      <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
@@ -691,7 +691,7 @@ The Player Character's family believes in the cause of the Alliance. Many of the
 The character owes someone else, and owes them big. His life is in someone else's hands, and this debt requires him to fight. He may or may not enjoy this. but this motivation is so strong that it overrides his other desires.</Description>
     <Sources>
       <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
-      <Source Page="34">Stay on Target</Source>
+      <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
@@ -702,7 +702,7 @@ The character owes someone else, and owes them big. His life is in someone else'
       [H4]Squadron[h4]
 An Ace can never truly know his brothers-in-arms until he serves with them in battle. While the character
 may be a bit cold and distant toward non-veterans, he is a true and loyal friend to anyone that has fought at his side.</Description>
-    <Source Page="34">Stay on Target</Source>
+    <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -711,7 +711,7 @@ may be a bit cold and distant toward non-veterans, he is a true and loyal friend
     <Description>
       [H4]Professional[h4]
 Simply put, violence is this character's business, and that business is never in short supply. The character knows no other way to make his way in the galaxy. and thus treats his lethal work as any other job.</Description>
-    <Source Page="34">Stay on Target</Source>
+    <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -722,7 +722,7 @@ Simply put, violence is this character's business, and that business is never in
 Be the best; that's the creed by which this character lives. In this case, he strives to be the best
 combatant. He wants to be the last one standing on the field of battle, the consummate warrior. He is willing to do
 whatever it takes to accomplish this.</Description>
-    <Source Page="34">Stay on Target</Source>
+    <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -731,7 +731,7 @@ whatever it takes to accomplish this.</Description>
     <Description>
       [H4]Retirement[h4]
 The character has long since lost his lust for battle, and fights not because he loves the violence, but because he is very close to being able to safely retire. This could represent awaiting the end of an enlistment, accumulating credits to pay off a debt, repaying a favor, or awaiting an opportunity to clear his name before he gives up his life of violence.</Description>
-    <Source Page="34">Stay on Target</Source>
+    <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -742,7 +742,7 @@ The character has long since lost his lust for battle, and fights not because he
 The character is driven to conquer whatever and whomever he comes across. If they do not submit. he is more than willing to employ force against them.</Description>
     <Sources>
       <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
-      <Source Page="34">Stay on Target</Source>
+      <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
@@ -772,7 +772,7 @@ Simply put, violence is this character's business, and that business is never in
 The character holds true to a code of honor in warfare. This code could be an ancient tradition of one of the myriad civilizations in the galaxy or it could be his own personal beliefs. Whatever life case, his honor depends on following these tenets, even when it may be inconvenient.</Description>
     <Sources>
       <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
-      <Source Page="34">Stay on Target</Source>
+      <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
@@ -793,7 +793,7 @@ Be the best: that's the creed by which this character lives. In this case, he st
 The character is driven by one of the oldest and most primal causes in the Galaxy—the desire to avenge some real or perceived wrong the character has suffered. The character's hunger for vengeance may be justified or not. but it is a cold, heartless master that can drive the character to obsession.</Description>
     <Sources>
       <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
-      <Source Page="34">Stay on Target</Source>
+      <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
@@ -814,7 +814,7 @@ The character works as a mercenary not because he loves the violence, but becaus
 Excitement, adventure; the character loves every bit of it. He doesn't fight for money, revenge, or a thirst for blood. He fights because he can't get enough of the incredible thrill of risking his life and coming out on top.</Description>
     <Sources>
       <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
-      <Source Page="34">Stay on Target</Source>
+      <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
@@ -1428,7 +1428,7 @@ Most Consulars aspire to be wise leaders or advisors, enabling those in their or
       [H4]Accuracy[h4]
 Precision is important, in everything from sensors to weapons. These Engineers can become passionate over increasing exactness in all things, and might hate the Empire all the more for the way it twists truths and rewrites history.
     </Description>
-    <Source Page="32">Fully Operational</Source>
+    <Source Page="32">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1438,7 +1438,7 @@ Precision is important, in everything from sensors to weapons. These Engineers c
       [H4]Efficiency[h4]
 Fuel and materiel are always being wasted, and these Engineers are driven to eliminate such losses at every opportunity. The Empire wastes lives and productivity, adding yet another reason for its elimination.
     </Description>
-    <Source Page="32">Fully Operational</Source>
+    <Source Page="32">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1447,7 +1447,7 @@ Fuel and materiel are always being wasted, and these Engineers are driven to eli
     <Description>
       [H4]Challenge[h4]
 It would be easier to leave things as they are, but these Engineers view difficulty as part of the reward and a sign of their prowess. Similarly, the struggle against the Empire is perhaps the most important challenge they face.</Description>
-    <Source Page="32">Fully Operational</Source>
+    <Source Page="32">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1457,7 +1457,7 @@ It would be easier to leave things as they are, but these Engineers view difficu
       [H4]Lethality[h4]
 It is clear to these Engineers that the more deadly the weapon, the better it is. They may also strive to make themselves as dangerous as possible through martial training and physical conditioning.
     </Description>
-    <Source Page="32">Fully Operational</Source>
+    <Source Page="32">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1466,7 +1466,7 @@ It is clear to these Engineers that the more deadly the weapon, the better it is
     <Description>
       [H4]Aesthetics[h4]
 These Engineers search for ways to make their creations as pleasing to look at as they are effective; some apply this personality to improve their social interactions and thus garner more support for their efforts.</Description>
-    <Source Page="32">Fully Operational</Source>
+    <Source Page="32">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1476,7 +1476,7 @@ These Engineers search for ways to make their creations as pleasing to look at a
       [H4]Reliability[h4]
 Weapons and ships that won't work cannot serve the Rebellion, so Engineers cannot allow them to become or remain unreliable. Increasing dependability not only aids in the war, but increases morale and fighting effectiveness.
     </Description>
-    <Source Page="32">Fully Operational</Source>
+    <Source Page="32">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1486,7 +1486,7 @@ Weapons and ships that won't work cannot serve the Rebellion, so Engineers canno
       [H4]Flexibility[h4]
 Good Engineers work toward making sure everything - from tools to tanks - can be used in a variety of ways. These Engineers might also seek to improve themselves so that they are able to perform a wide variety of tasks.
     </Description>
-    <Source Page="32">Fully Operational</Source>
+    <Source Page="32">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1495,7 +1495,7 @@ Good Engineers work toward making sure everything - from tools to tanks - can be
     <Description>
       [H4]Durability[h4]
 Replacement items are always an issue, so everything in the Rebellion must last as long as possible. Engineers are always working to ensure weapons and vehicles function longer and to craft defenses to ensure they survive to fight another day.</Description>
-    <Source Page="32">Fully Operational</Source>
+    <Source Page="32">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1504,7 +1504,7 @@ Replacement items are always an issue, so everything in the Rebellion must last 
     <Description>
       [H4]Makeshift[h4]
 Anyone can improve things given sufficient resources, but true artisans can take whatever might be around and craft mechanical art. While Rebels are often starved for parts, these Engineers might deliberately use improvised items to create personal works.</Description>
-    <Source Page="32">Fully Operational</Source>
+    <Source Page="32">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1513,7 +1513,7 @@ Anyone can improve things given sufficient resources, but true artisans can take
     <Description>
       [H4]Simplicity[h4]
 The best items are the ones that perform their functions in a basic manner, and Engineers work to eliminate anything that stands in the way of this goal. Lives are also lived best this way, but the Empire's harsh oversight of all aspects of its citizenry is in direct opposition to the ideal.</Description>
-    <Source Page="32">Fully Operational</Source>
+    <Source Page="32">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1702,7 +1702,7 @@ The character hates to let anything go to waste and tries to devise ways of recy
     <Description>
       [H4]Enamored of the Kindalo[h4]
 This character is fascinated by the legends of the underground Kindalo culture, and wants to learn everything about it. This may cause problems among the locals when the character starts to disturb forbidden holy sites.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1711,7 +1711,7 @@ This character is fascinated by the legends of the underground Kindalo culture, 
     <Description>
       [H4]Follower of Orphne[h4]
 The character encountered the mystic Orphne and had a life-changing experience. The PC will talk about it to anyone who will listen, and continues to seek out mystic experiences that will further change her life.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1720,7 +1720,7 @@ The character encountered the mystic Orphne and had a life-changing experience. 
     <Description>
       [H4]Isolationist[h4]
 This character wants to ensure that the wider galaxy continues to fail to notice Auratera, and goes to great lengths to ensure its secrecy.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1729,7 +1729,7 @@ This character wants to ensure that the wider galaxy continues to fail to notice
     <Description>
       [H4]Study of the Past[h4]
 The collection of different archaeological constructions at the Auratera vergence fascinates the character, inspiring the PC to become something of an amateur archaeologist.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1738,7 +1738,7 @@ The collection of different archaeological constructions at the Auratera vergenc
     <Description>
       [H4]Frangawl Sympathizer[h4]
 This character believes the old ways are the best. The PC harbors secret beliefs in the Frangawl traditions, and although not a Frangawl cultist, would turn a blind eye if the cult were to attempt to stage another return.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1747,7 +1747,7 @@ This character believes the old ways are the best. The PC harbors secret beliefs
     <Description>
       [H4]Mendicant[h4]
 This character has taken a vow of poverty and wanders the galaxy, hoping to build a deeper connection with the Force by renouncing unimportant things. The PC may rely on the good will of others, but will repay the favor in any way possible.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1756,7 +1756,7 @@ This character has taken a vow of poverty and wanders the galaxy, hoping to buil
     <Description>
       [H4]Preservationist[h4]
 The character believes Bardottan history to be extremely important—and potentially at risk. The PC will do anything to preserve historical sites and artifacts, and will personally hunt down those who sell such things offworld.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1765,7 +1765,7 @@ The character believes Bardottan history to be extremely important—and potenti
     <Description>
       [H4]Matriarch[h4]
 This character is a staunch supporter of Devaron’s matriarchal society. Whether female or male, the character believes that male beings should defer to females in important matters, and will only grudgingly accept male leaders under great duress.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1774,7 +1774,7 @@ This character is a staunch supporter of Devaron’s matriarchal society. Whethe
     <Description>
       [H4]Collaborator[h4]
 This native of Iktotch actively worked with Imperial agents to assist with the moon’s occupation. Whether regretting these actions or not, the character is reviled by the Iktotchi and will always be an outsider to them.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1783,7 +1783,7 @@ This native of Iktotch actively worked with Imperial agents to assist with the m
     <Description>
       [H4]Exile[h4]
 This character was part of the Iktotchi exodus before the Empire seized control of the galaxy and blockaded Iktotchon. The character longs for the day when it becomes possible to return home—when the Empire is no longer a threat to the beloved moon.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1792,7 +1792,7 @@ This character was part of the Iktotchi exodus before the Empire seized control 
     <Description>
       [H4]Visions of the Future[h4]
 This character believes—correctly or incorrectly—that she has a sense of precognition that allows him to anticipate the future. She insists on providing this information to her companions and becomes greatly distressed when it is not acted upon.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1801,7 +1801,7 @@ This character believes—correctly or incorrectly—that she has a sense of pre
     <Description>
       [H4]Revolutionary[h4]
 Sickened by the Empire’s oppression, this character wants nothing more than to join a revolution to remove the Imperial presence from Lothal once and for all. The PC may want to concentrate efforts on local sabotage or to journey into the galaxy to join a larger cause.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1810,7 +1810,7 @@ Sickened by the Empire’s oppression, this character wants nothing more than to
     <Description>
       [H4]Up from Poverty[h4]
 This character has spent her entire life living in Lothal’s squalor, and wants nothing more than to drag himself out of it. Credits, riches, her own ship—any status symbol at all to help him forget lean nights of eating old leather and grass.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1819,7 +1819,7 @@ This character has spent her entire life living in Lothal’s squalor, and wants
     <Description>
       [H4]War Profiteer[h4]
 For a few Lothalians, the Imperial occupation has been incredibly lucrative. This character has colluded with the Empire in some way, to great personal gain, and will do anything to protect this wealth.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1828,7 +1828,7 @@ For a few Lothalians, the Imperial occupation has been incredibly lucrative. Thi
     <Description>
       [H4]Envoy[h4]
 The character seeks to mend the differences between the Naboo and Gungan peoples. The PC may attempt this through political means, or by engineering an event that might lead to unification.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1837,7 +1837,7 @@ The character seeks to mend the differences between the Naboo and Gungan peoples
     <Description>
       [H4]Gungan Rights[h4]
 The character believes the Gungans are an oppressed minority on Naboo and seeks to establish them either as equals or as superior to the Naboo. The PC may be outspoken in this belief to the point of obnoxiousness, or may harbor it deep inside, fearing to express it.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1846,7 +1846,7 @@ The character believes the Gungans are an oppressed minority on Naboo and seeks 
     <Description>
       [H4]Poet[h4]
 The character wants to experience the beauty and majesty of galactic life, then return home and express the experiences in word or in song. The PC may recklessly pursue beauty and experiences where others would be more cautious.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1855,7 +1855,7 @@ The character wants to experience the beauty and majesty of galactic life, then 
     <Description>
       [H4]Archaeologist[h4]
 The character is aware of the ancient history of Ossus, and actively engages in scholarship and fieldwork to uncover more of the planet’s secrets.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1864,7 +1864,7 @@ The character is aware of the ancient history of Ossus, and actively engages in 
     <Description>
       [H4]Plunderer[h4]
 The past means nothing to this character, apart from an easy way to make some quick credits. Artifacts, old texts, even the location of a hidden antiquity site—all of these things are merely means to the end of increasing wealth.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1873,7 +1873,7 @@ The past means nothing to this character, apart from an easy way to make some qu
     <Description>
       [H4]Caste Member[h4]
  This character knows her place within the social hierarchy, and doesn’t easily tolerate beings who do not. She is quick to point out beings she believes have jumped above their station—or those who are acting beneath their station.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1882,7 +1882,7 @@ The past means nothing to this character, apart from an easy way to make some qu
     <Description>
       [H4]Force-Reverent[h4]
 This character views any Force user as a powerful wizard, capable of wreaking great destruction or being an immense help. The PC displays a level of respect bordering on obsequiousness to any Force user. A Force-using character with this Motivation sees the Force as indistinguishable from magic; upon encountering other Force users, the PC may attempt to teach them rituals, spells, and chants so they can “harness” their power.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1891,7 +1891,7 @@ This character views any Force user as a powerful wizard, capable of wreaking gr
     <Description>
       [H4]Wide-Eyed Wanderer[h4]
 This character has lived a sheltered existence and views the galaxy at large as a scary and nearly magical place. Blasters are confounding, droids may be devils in disguise, and travel between the stars is akin to dark sorcery. Flowever, all this only serves to interest the character more, inducing a hunger to travel in this strange and wondrous galaxy.</Description>
-    <Source Page="115">Nexus of Power</Source>
+    <Source Page="115">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>

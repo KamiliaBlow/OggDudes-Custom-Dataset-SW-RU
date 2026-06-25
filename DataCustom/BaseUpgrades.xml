@@ -298,7 +298,7 @@ This upgrade may be purchased three additional times, each time selecting a diff
 The facility includes a large, reinforced room along with a wide passageway so that small vehicles can be stored inside and kept out of sight from Imperial eyes.[BR]
 This upgrade allows four vehicles of silhouette 2 or smaller to be secured inside the base.[BR]
 This upgrade may be purchased one additional time. </Description>
-    <Source Page="75">Fully Operational</Source>
+    <Source Page="75">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>2</PurchaseCount>
     <MonthlyProfit>0</MonthlyProfit>
@@ -316,7 +316,7 @@ This upgrade may be purchased one additional time. </Description>
     <Description>[H4]Civilian Refit:  Infirmary[h4]
 The facility includes a basic infirmary stocked to handle basic medical crises. The infirmary has cots and treatment space tor three patients, medical supplies (allowing characters to perform Medicine checks without penalty), and one bacta tank with supplies of bacta. [BR]
 This upgrade may be taken up to two additional times, increasing the number of patients it can accommodate by three and the number of bacta tanks by one each time.     </Description>
-    <Source Page="75">Fully Operational</Source>
+    <Source Page="75">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>3</PurchaseCount>
     <MonthlyProfit>0</MonthlyProfit>
@@ -334,7 +334,7 @@ This upgrade may be taken up to two additional times, increasing the number of p
     <Description>[H4]Civilian Refit:  Repair Room[h4]
 The facility has a tool room filled with spare parts and salvaged components gathered from junk yards and firefights. This allows characters to perform Mechanics checks to repair and modify weapons and armor without penalty. [AD][AD] can be spent as [SU] on such checks here, but the GM can spend [DE] to exhaust its contents and the characters must spend 100 credits to restock the room before using it again.[P]
 This upgrade can only be taken once. </Description>
-    <Source Page="75">Fully Operational</Source>
+    <Source Page="75">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>1</PurchaseCount>
     <MonthlyProfit>0</MonthlyProfit>
@@ -355,7 +355,7 @@ The once-civilian facility's security improves somewhat, better protecting the R
 [BR]• The building's walls are fitted with scanner baffles and sound deadening insulation, which increase the difficulty of checks to detect life signs, movement, sounds, and other signs of activity within once.
 [BR]• The facility gains security cameras that can be monitored on terminals throughout the facility.
 [BR]• The facility has a disguised entrance set along a rubble-strewn wall or seemingly solid window paneling, detectable only though a [B]Hard ([DI][DI][DI]) Perception check[b]. [P]This upgrade may be purchased four additional times, each time with a different option selected.    </Description>
-    <Source Page="75">Fully Operational</Source>
+    <Source Page="75">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>5</PurchaseCount>
     <MonthlyProfit>0</MonthlyProfit>
@@ -418,7 +418,7 @@ The once-civilian facility's security improves somewhat, better protecting the R
 Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check[b] and roughly 2 hours of narrative time.
 [P]A center can hold roughly twenty depending on its configuration. and grants the occupants [BO] on Computers, Leadership, and Vigilance checks. Only one command center can be purchased per base.
 </Description>
-    <Source Page="45">Fully Operational</Source>
+    <Source Page="45">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>AddedItem</Custom>
     <PurchaseCount>1</PurchaseCount>
     <Cost>
@@ -432,7 +432,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
 Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check[b] and roughly 2 hours of narrative time.
 [P]These facilities usually take the form of simple buildings with an open floor area; a large. lockable bay door wide enough for vehicles to easily move through; and two smaller entry doors. They can hold a number of vehicles with a combined silhouette of 12 and no single vehicle larger than silhouette 4. Each also includes a full set of mechanics' tools (allowing characters to perform Mechanics checks to heal droids or repair vehicles or starships without penalty), and an oil bath for droids. When used to repair starships or vehicles stored inside, the character repairs 1 additional hull trauma or 2 additional system strain on a successful check.
 [P]If purchased multiple times. they can be used as separate vehicle storage facilities. Alternatively, up to two additional units may be combined together with the original one to increase the silhouette limit by 10 per additional unit (although the maximum single vehicle size remains at Silhouette 4).</Description>
-    <Source Page="45">Fully Operational</Source>
+    <Source Page="45">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>AddedItem</Custom>
     <PurchaseCount>3</PurchaseCount>
     <Cost>
@@ -1219,7 +1219,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
     <Description>[H4]Delvin Constructs MILBAR F-221 Modular Barracks[h4]
 Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check[b] and roughly 2 hours of narrative time.
 [P]Modular barracks come in many configurations for easy tailoring to a unit's specific needs. The F-221 model is a medium-sized building made to hold a platoon-sized unit and that unit's equipment. The barracks include a large common area; smaller rooms for offices, lounges, and refreshers; climate control; and an environmental sealing system proof against chemical and biological attacks.</Description>
-    <Source Page="45">Fully Operational</Source>
+    <Source Page="45">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>AddedItem</Custom>
     <PurchaseCount>1</PurchaseCount>
     <Cost>
