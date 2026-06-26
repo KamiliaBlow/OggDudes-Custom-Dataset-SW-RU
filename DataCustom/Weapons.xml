@@ -1523,11 +1523,11 @@ A280-CFE от BlasTech был разработан во время Войн кл
   </Weapon>
   <Weapon>
     <Key>BKX4SHOCKGREN</Key>
-    <Name>BKX-4 "Shockwave" Grenade</Name>
+    <Name>Шоковая Граната BKX-4 (BKX-4 "Shockwave" Grenade)</Name>
     <Description>
       [H3]BKX-4 "Shockwave" Grenade[h3]
-The BKX-4 is one of a number of grenades built by Baktoid Personal Ordnance, a subsidiary of Baktoid Armor Workshop. Like its closest competitor, the Merr-Sonn G2, the BKX-4 causes damage with overpressure and shockwaves rather than shrapnel, baradium, or incendiary chemicals. The broad blast and shockwave caused by a detonating BKX-4 is strong enough to kill multiple unarmored targets and can seriously damage structures, machinery, and materiel. These grenades are popular with combat engineers, who use them to clear bunkers, sabotage installations, and generally cause immense amounts of mayhem and destruction.
-[P]If the user activates this grenade's Disorient or Knockdown qualities, these qualities affect all characters at short range from the target (even if they are not damaged by the weapon).</Description>
+BKX-4 - одна из целого ряда гранат, производимых компанией Baktoid Personal Ordnance, дочерним предприятием Baktoid Armor Workshop. Подобно своему ближайшему конкуренту, Merr-Sonn G2, BKX-4 наносит урон за счет избыточного давления и ударных волн, а не осколков, барадия или зажигательных химикатов. Мощный взрыв и ударная волна, возникающие при детонации BKX-4, достаточно сильны, чтобы убить несколько небронированных целей, и способны нанести серьезный ущерб строениям, механизмам и материальным средствам. Эти гранаты весьма популярны среди боевых инженеров, которые применяют их для зачистки бункеров, диверсий на объектах и просто для того, чтобы сеять колоссальный хаос и разрушения.
+[P]Если пользователь активирует свойства Disorient или Knockdown данной гранаты, эти свойства воздействуют на всех персонажей, находящихся на короткой дистанции от цели (даже если они не получили урон от оружия).</Description>
     <Source Page="39">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Thrown</Type>
@@ -1542,7 +1542,7 @@ The BKX-4 is one of a number of grenades built by Baktoid Personal Ordnance, a s
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>If Disorient or Knockdown qualities are activated, they affect all characters at short range, even if not damaged.</MiscDesc>
+        <MiscDesc>Если активируются свойства Disorient или Knockdown они воздействуют на всех персонажей на короткой дистанции, даже если те не получили урона.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
@@ -1571,11 +1571,11 @@ The BKX-4 is one of a number of grenades built by Baktoid Personal Ordnance, a s
   </Weapon>
   <Weapon>
     <Key>BLADEBREAKER</Key>
-    <Name>Blade-Breaker</Name>
+    <Name>Мечелом (Blade-Breaker)</Name>
     <Description>
       [H3]Blade-Breaker[h3]
 
-Designed to be used in conjunction with a vibrosword or other melee weapon, the blade-breaker is typically a small, serrated vibroblade or pronged dagger capable of catching and possibly even breaking an opponent's melee weapon. Equipped with an ultrasonic generator in the handle to increase the weapon's ability to shatter durasteel, a blade-breaker can quickly leave an opponent unarmed and at the mercy of its wielder.</Description>
+Разработанный для использования в паре с вибромечом или другим оружием ближнего боя, мечелом обычно представляет собой небольшой зубчатый виброклинок или кинжал с раздвоенным острием, способный перехватить и, возможно, даже сломать оружие противника. Оснащенный ультразвуковым генератором в рукояти, усиливающим способность оружия сокрушать дюрасталь, мечелом способен быстро обезоружить противника, оставив его на милость владельца.</Description>
     <Source Page="46">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -1609,11 +1609,11 @@ Designed to be used in conjunction with a vibrosword or other melee weapon, the 
   </Weapon>
   <Weapon>
     <Key>BLASTATAPULSE</Key>
-    <Name>Greff-Timms ATA Pulse-Wave Blaster</Name>
+    <Name>Импульсно-волновой бластер Greff-Timms ATA (Greff-Timms ATA Pulse-Wave Blaster)</Name>
     <Description>
       [H3]Greff-Timms ATA Pulse-Wave Blaster[h3]
 
-These ancient weapons were state-of-the-art thousands of years ago, prior to the development of the modern blaster. Operating on the same basic principle as a blaster, the pulse-wave blaster fires a short beam of intense energy at its target. However, this energy tends to dissipate quickly, making its effective range quite short. The destabilizing molecular effect produced by these weapons is similar to that of disruptors, resulting in particularly vicious wounds. While generally considered archaic, some rogues and criminals still appreciate the pulse-wave blaster's unpleasant capacity for mayhem.</Description>
+Это древнее оружие считалось передовым тысячи лет назад, еще до появления современных бластеров. Действуя по тому же базовому принципу, что и обычный бластер, импульсно-волновой бластер выпускает в цель короткий луч колоссальной энергии. Однако эта энергия имеет свойство быстро рассеиваться, из-за чего эффективная дальность стрельбы оказывается весьма небольшой. Дестабилизирующий молекулярный эффект, создаваемый этим оружием, схож с действием дизрапторов, что приводит к особенно ужасающим ранениям. И хотя это оружие повсеместно считается архаичным, некоторые негодяи и преступники по-прежнему ценят импульсно-волновой бластер за его пугающую способность сеять хаос и разрушения.</Description>
     <Source Page="100">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -1643,13 +1643,13 @@ These ancient weapons were state-of-the-art thousands of years ago, prior to the
   </Weapon>
   <Weapon>
     <Key>BLASTBOONTA</Key>
-    <Name>Boonta Blaster</Name>
+    <Name>Бунта бластер (Boonta Blaster)</Name>
     <Description>
       [H3]Boonta Blaster[h3]
 
-Named after the legendary hero Boonta the Hutt, who allegedly carried a similar weapon, these specialized holdout blasters typically appear to be nothing more than ornate and ostentatious pieces of jewelry. Custom-made to the taste of individual Hutts, these garish blasters pack enough firepower to ensure that any would-be assassin who gets past the wearer's bodyguards does not live long enough to remain a threat. Some of these weapons are treasured family heirlooms, passed down from one Hutt to another for many generations.
+Эти специализированные бластеры скрытого ношения, названные в честь легендарного героя Хаттов, Бунты, который, по преданию, носил подобное оружие, внешне обычно выглядят не более чем богато украшенными и вычурными ювелирными изделиями. Изготавливаемые на заказ по индивидуальным вкусам Хаттов, эти броские бластеры обладают достаточной огневой мощью, чтобы любой потенциальный убийца, которому удалось прорваться сквозь охрану владельца, не прожил достаточно долго, чтобы остаться угрозой. Некоторые из этих образцов являются бесценными семейными реликвиями, передающимися из поколения в поколение от одного Хатта к другому
 
-[P]Add [SE] to Perception checks to find a Boonta Blaster on a wearer's body. Remove [SE] from the wearer's Deception checks to explain away the weapon as purely ornamental or otherwise non-threatening. </Description>
+[P]Добавьте [SE] к проверкам "Внимания" для обнаружения Бунта бластера на теле владельца. Уберите [SE] из проверок "Обмана" владельца, чтобы выдать это оружие за сугубо декоративное или иным образом не представляющее угрозы изделие. </Description>
     <Source Page="100">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -1675,21 +1675,21 @@ Named after the legendary hero Boonta the Hutt, who allegedly carried a similar 
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add [SETBACK] to Perception checks to find a Boonta Blaster on a wearer's body.</MiscDesc>
+        <MiscDesc>Добавьте [SETBACK] к проверкам "Внимания" для обнаружения Бунта бластера на теле владельца.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Remove [SETBACK] from the wearer's Deception checks to explain away the Boonta Blaster as purely ornamental or otherwise non-threatening.</MiscDesc>
+        <MiscDesc>Уберите [SETBACK] из проверок "Обмана" владельца, чтобы выдать это оружие за сугубо декоративное или иным образом не представляющее угрозы изделие.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>BLASTCANHVY</Key>
-    <Name>Heavy Blaster Cannon</Name>
+    <Name>Тяжелая бластерная пушка (Heavy Blaster Cannon)</Name>
     <Description>
       [H3]Heavy Blaster Cannon[h3]
 
-Known colloquially as "flash cannons," blaster cannons are heavy, crew-served versions of the common personal blaster. Although they are less powerful than laser cannons, blaster cannons are highly effective against infantry and light vehicles and are typically found mounted to atmospheric vehicles or smaller spaceships. Blaster cannons come in several versions of varying power.</Description>
+В просторечии именуемые "светопушка", бластерные пушки представляют собой тяжелые расчетные версии обычных персональных бластеров. И хотя они уступают в мощи лазерным пушкам, бластерные пушки весьма эффективны против пехоты и легкой техники и обычно устанавливаются на атмосферные транспортные средства или небольшие космические корабли. Бластерные пушки выпускаются в нескольких модификациях различной мощности.</Description>
     <Sources>
       <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -1715,11 +1715,11 @@ Known colloquially as "flash cannons," blaster cannons are heavy, crew-served ve
   </Weapon>
   <Weapon>
     <Key>BLASTCANLT</Key>
-    <Name>Light Blaster Cannon</Name>
+    <Name>Легкая бластерная пушка (Light Blaster Cannon)</Name>
     <Description>
       [H3]Light Blaster Cannon[h3]
 
-Known colloquially as "flash cannons," blaster cannons are heavy, crew-served versions of the common personal blaster. Although they are less powerful than laser cannons, blaster cannons are highly effective against infantry and light vehicles and are typically found mounted to atmospheric vehicles or smaller spaceships. Blaster cannons come in several versions of varying power.</Description>
+В просторечии именуемые "светопушка", бластерные пушки представляют собой тяжелые расчетные версии обычных персональных бластеров. И хотя они уступают в мощи лазерным пушкам, бластерные пушки весьма эффективны против пехоты и легкой техники и обычно устанавливаются на атмосферные транспортные средства или небольшие космические корабли. Бластерные пушки выпускаются в нескольких модификациях различной мощности.</Description>
     <Sources>
       <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -1745,14 +1745,14 @@ Known colloquially as "flash cannons," blaster cannons are heavy, crew-served ve
   </Weapon>
   <Weapon>
     <Key>BLASTCARB</Key>
-    <Name>Blaster Carbine</Name>
+    <Name>Бластерный карабин (Blaster Carbine)</Name>
     <Description>
       [H3]Blaster Carbine[h3]
 
-The rifle or carbine blaster is the typical firearm of soldiers and heavy security forces around the galaxy. Their longer barrels propel bolts much farther than blaster pistols, and their heavier cartridges typically trigger a more powerful blast of particles.
+Бластерная винтовка или карабин - это стандартное стрелковое оружие солдат и подразделений тяжелой охраны по всей галактике. Их удлиненные стволы позволяют посылать бластерные заряды на гораздо большее расстояние, чем у бластерных пистолетов, а более тяжелые картриджи обеспечивают более мощный выброс частиц.
 
-[P]Stormtroopers in service of the Empire carry E-11 blaster rifles with folding stocks. At short range, the rifle can be fired one-handed—just as if it were a heavy pistol. The stock is extended when firing at more distant targets so that the trooper can better stabilize his aim.
-[BR][B]Models Include[b]: E-11 Blaster Rifle (multiple manufacturers), BlasTech A280 Blaster Rifle. </Description>
+[P]Штурмовики, несущие службу в Империи, вооружены бластерными винтовками E-11 со складными прикладами. На короткой дистанции из такой винтовки можно стрелять с одной руки - точно так же, как из тяжелого пистолета. Приклад откидывается при стрельбе по более удаленным целям, чтобы боец мог надежнее стабилизировать прицеливание.
+[BR][B]Модели включают[b]: Бластерная винтовка E-11 (различные производители), Бластерная винтовка BlasTech A280. </Description>
     <Sources>
       <Source Page="162">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="175">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -1782,9 +1782,9 @@ The rifle or carbine blaster is the typical firearm of soldiers and heavy securi
   </Weapon>
   <Weapon>
     <Key>BLASTCARBDC15A</Key>
-    <Name>DC-15A Blaster Carbine</Name>
+    <Name>Бластерный карабин DC-15A (DC-15A Blaster Carbine)</Name>
     <Description>[H3]DC-15A Blaster Carbine[h3]
-BIasTech's DC-15A blaster carbine is the GAR’s standard-issue carbine. Every clone, from the greenest recruit to the most seasoned special operator, can use the DC-15A from the moment they are decanted. A lighter, shorter-ranged cousin of the heavy and cantankerous DC-15. The DC-15A is accurate, easy to handle, and as reliable as a chrono.</Description>
+Бластерный карабин DC-15A компании BlasTech является стандартным штатным карабином Великой Армии Республики. Каждый клон, от самого неопытного новобранца до матерого бойца спец подразделения, способен обращаться с DC-15A с самого момента извлечения из чана. Этот карабин - более легкий и короткобойный собрат тяжелой и своенравной винтовки DC-15. Сам же DC-15A отличается высокой точностью, простотой в обращении и надежностью, сравнимой с надежностью хронометра.</Description>
     <Sources>
       <Source Page="51">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
@@ -1820,13 +1820,13 @@ BIasTech's DC-15A blaster carbine is the GAR’s standard-issue carbine. Every c
   </Weapon>
   <Weapon>
     <Key>BLASTCARBDR45</Key>
-    <Name>DR-45 "Dragoon" Cavalry Blaster (Carbine Mode)</Name>
+    <Name>Наступательный бластер DR-45 "Dragoon" (Режим карабина)</Name>
     <Description>
       [H3]DR-45 "Dragoon" Calvalry Blaster (Carbine Mode)[h3]
 
-The DR-45 cavalry blaster by Merr-Sonn is one of a line of convertible blaster carbines marketed to vehicle crews and beast riders. Based on Merr-Sonris popular DD6 blaster pistol, the DR-45, also called the Dragoon, is marketed as an all-in-one weapon providing the portability of a blaster pistol with the range and stopping power of a blaster carbine. To accomplish this, the base weapon, which is a long-barreled blaster pistol, can be fitted with a detachable polycarbonate shoulder stock and a range-extending augmented spin barrel to turn it into a respectably effective blaster carbine. The stock and barrel are fixed to the base weapon with sturdy quick-release mounts that allow an experienced user to mount or dismount the attachments quickly and easily. While not particularly common, Dragoon cavalry blasters are slowly finding a following among members of the Rebel Alliance who value their versatility, reliability, and stopping power.
+Наступательный бластер DR-45 от компании Merr-Sonn - это один из ряда трансформируемых бластерных карабинов, предназначенных для экипажей техники и наездников. Созданный на базе популярного бластерного пистолета DD6 от Merr-Sonn, DR-45, также известный как "Dragoon", позиционируется как универсальное оружие «всё в одном», сочетающее компактность бластерного пистолета с дальностью и останавливающим действием бластерного карабина. Для этого базовое оружие, представляющее собой длинноствольный бластерный пистолет, может быть оснащено съемным поликарбонатным плечевым прикладом и усиленным стволом с закруткой, увеличивающим дальность стрельбы, что превращает его в весьма эффективный бластерный карабин. Приклад и ствол крепятся к базовому оружию с помощью надежных быстросъемных креплений, позволяющих опытному пользователю быстро и легко устанавливать или снимать навесное оборудование. Хотя эти кавалерийские бластеры не особо распространены, они постепенно завоевывают популярность среди членов Альянса Повстанцев, ценящих их универсальность, надежность и останавливающее действие.
 
-[P]Converting the DR-45 from a pistol to a carbine takes one maneuver and changes the weapon's combat skill from Ranged (Light) to Ranged (Heavy). Similarly, it takes one maneuver to convert the weapon back, restoring its combat skill to Ranged (Light).</Description>
+[P]Переоборудование DR-45 из пистолета в карабин требует совершения одного маневра и меняет навык владения оружием с "Дальний бой (легкое оружие)" на "Дальний бой (легкое оружие)". Аналогично, для обратной трансформации оружия и возврата навыка к "Дальний бой (легкое оружие)" также требуется один маневр.</Description>
     <Source Page="40">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
@@ -1856,13 +1856,13 @@ The DR-45 cavalry blaster by Merr-Sonn is one of a line of convertible blaster c
   </Weapon>
   <Weapon>
     <Key>BLASTCARBE5</Key>
-    <Name>E5 Blaster Carbine</Name>
+    <Name>Бластерный карабин E5 (E5 Blaster Carbine)</Name>
     <Description>
       [H3]E5 Blaster Carbine[h3]
 
-The E5 by Baktoid Armor Workshop is a carbine version of their venerable E-5 blaster rifle. Lighter and shorter than its full-sized cousin, the E5 was released in the beginning months of the Clone Wars and saw wide use among vehicle crews and special operatives of the Confederacy of Independent Systems. This weapon was also issued to B1 battle droids, and is the weapon with which those droids are most associated. Like its larger cousin the E-5 blaster rifle, the E5 carbine was based on an earlier BlasTech design which was reverse-engineered by weaponsmiths at Baktoid Armor Workshop for use with their 00M, B1, and BX series droids. It's a relatively reliable blaster that provides respectable stopping power in a small, easy-to-handle package. In addition to its lightened frame and shortened barrel, the E5 also features a foldable stock that further increases its usability. As they were largely designed for use by droids, vehicle crews, and rear-echelon troops, E5 carbines suffer from a few noticeable drawbacks. They are relatively inaccurate over long distances, and thanks to cost-cutting during development, many of their systems are built of substandard materials, making them comparatively fragile and prone to overheating during heavy use. While not particularly liked or well-respected weapons, E5 carbines are cheap and readily available, having been built by the hundreds of thousands during the Clone Wars. This makes them very attractive to more cash-strapped members of the Rebel Alliance.
+Карабин E5 от компании Baktoid Armor Workshop - это укороченная версия их прославленной бластерной винтовки E-5. Более легкий и короткий, чем его полноразмерный собрат, E5 был выпущен в первые месяцы Войн клонов и получил широкое распространение среди экипажей техники и бойцов спец. подразделений Конфедерации Независимых Систем. Этим оружием также оснащались боевые дроиды B1, и именно с ним эти дроиды ассоциируются больше всего. Как и его более крупный аналог, бластерная винтовка E-5, карабин E5 был создан на основе более ранней разработки BlasTech, которую оружейники Baktoid Armor Workshop подвергли обратному проектированию для использования с дроидами серий 00M, B1 и BX. Это относительно надежный бластер, обеспечивающий достойное останавливающее действие в компактном и удобном формате. Помимо облегченной рамы и укороченного ствола, E5 также оснащен складным прикладом, что еще больше повышает удобство его использования. Поскольку эти карабины разрабатывались в основном для дроидов, экипажей техники и войск тылового эшелона, они имеют ряд заметных недостатков. Они довольно неточны на больших дистанциях, а из-за экономии средств при разработке многие их узлы изготовлены из низкокачественных материалов, что делает их сравнительно хрупкими и склонными к перегреву при интенсивной стрельбе. И хотя это не самое любимое и уважаемое оружие, карабины E5 дешевы и общедоступны, поскольку во время Войн клонов их выпустили сотнями тысяч экземпляров. Это делает их весьма привлекательными для стесненных в средствах членов Альянса Повстанцев.
 
-[P]During combat, the Game Master can spend [TH][TH][TH] or [DE] to force an E5 to overheat, damaging it by one step as if stuck by a weapon with the Sunder quality (see page 170 of the [B]Age of Rebellion[b] Core Rulebook). </Description>
+[P]В ходе боя ГМ может потратить [TH][TH][TH] или [DE], чтобы вызвать перегрев E5, повредив его на одну ступень, как если бы он был поражен оружием со свойством "Sunder" (см. страницу 170 книги правил [B]Age of Rebellion[b]). </Description>
     <Source Page="41">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
@@ -1892,12 +1892,12 @@ The E5 by Baktoid Armor Workshop is a carbine version of their venerable E-5 bla
   </Weapon>
   <Weapon>
     <Key>BLASTCARBGEO</Key>
-    <Name>Geonosian Blaster Carbine</Name>
+    <Name>Джеонозийский бластерный карабин (Geonosian Blaster Carbine)</Name>
     <Description>
       [H3]Geonosian Blaster Carbine[h3]
 
-The Geonosian carbine was the carbine version of the Geonosian sonic blaster. It worked on the same principles, firing sonic blasts as opposed to blaster bolts.</Description>
-    <Source Page="33">Long Arm of the Hutt</Source>
+Джеонозийский карабин представлял собой укороченную версию джеонозийского звукового бластера. Он работал по тому же принципу, выпуская звуковые заряды вместо стандартных бластерных сгустков.</Description>
+    <Source Page="33">Модуль приключения - Длинная рука Хатта (Long Arm of the Hutt)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
     <Damage>9</Damage>
@@ -1923,11 +1923,11 @@ The Geonosian carbine was the carbine version of the Geonosian sonic blaster. It
   </Weapon>
   <Weapon>
     <Key>BLASTDC17</Key>
-    <Name>DC-17 Hand Blaster</Name>
+    <Name>Ручной бластер DC-17 (DC-17 Hand Blaster)</Name>
     <Description>[H3]DC-17 Hand Blaster[h3]
-The standard-issue sidearm of the GAR, BlasTech's DC-17 is one of the most rugged and reliable blaster pistols produced. Typically issued to vehicle crews, weapon teams, and officers, these heavy blaster pistols pack incredible stopping power into a relatively small package. They are lightweight and well balanced, and they have a very respectable rate of fire. Recently, ARC troopers and other special forces teams have taken to carrying the DC-17 as a backup weapon and for close-quarters combat.
+Стандартный табельный бластер Великой Армии Республики, DC-17 от BlasTech является одним из самых прочных и надежных выпускаемых бластерных пистолетов. Обычно он выдается экипажам техники, орудийным расчетам и офицерам; эти тяжелые бластерные пистолеты обладают невероятным останавливающим действием, заключенным в относительно компактный корпус. Они легкие, отлично сбалансированы и имеют весьма достойный темп стрельбы. В последнее время ЭРК-солдаты и бойцы других подразделений спецназа, стали брать DC-17 в качестве запасного оружия и для ближнего боя.
 
-[P]Game Masters may spend [TH][TH][TH] (in addition to [DE]) to make a DC-17 run out of ammo during combat.
+[P]ГМ может потратить [TH][TH][TH] (в дополнение к [DE]), чтобы в ходе боя DC-17 остался без боеприпасов.
 </Description>
     <Sources>
       <Source Page="51">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
@@ -1960,19 +1960,19 @@ The standard-issue sidearm of the GAR, BlasTech's DC-17 is one of the most rugge
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>May run out of ammo on a [TH][TH][TH], as well as a [DE].</MiscDesc>
+        <MiscDesc>Боезапас может закончиться при выпадении [TH][TH][TH], в дополнении к [DE].</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>BLASTHOLD</Key>
-    <Name>Holdout Blaster</Name>
+    <Name>Скрытный карманный бластер (Holdout Blaster)</Name>
     <Description>
       [H3]Holdout Blaster[h3]
 
-The smallest of blasters are easy to conceal but still pack a powerful punch. What they sacrifice most is range, due to their short barrel and lesser charge. Add [SE] to a character's Perception check when attempting to find a hold-out pistol on a person's body.
+Самые компактные из бластеров легко скрыть, и при этом они обладают внушительной убойной силой. Главное, чем приходится жертвовать, - это дальность стрельбы из-за короткого ствола и уменьшенного энергетического заряда. Добавьте [SE] к проверке "Внимания" персонажа при попытке обнаружить пистолет скрытого ношения на теле.
 
-[BR][B]Models Include[b]: Imperial Army Scout Trooper Blaster Pistol, Merr-Sonn 02 Holdout. </Description>
+[BR][B]Модели включают[b]: Бластерный пистолет разведчика Имперской армии, Скрытный карманный бластер Merr-Sonn 02. </Description>
     <Sources>
       <Source Page="161">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="174">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -2003,12 +2003,12 @@ The smallest of blasters are easy to conceal but still pack a powerful punch. Wh
   </Weapon>
   <Weapon>
     <Key>BLASTHOLDTT24</Key>
-    <Name>TT24 Holdout Blaster</Name>
+    <Name>Скрытный карманный бластер TT24 (TT24 Holdout Blaster)</Name>
     <Description>
       [H3]TT24 Holdout Blaster[h3]
 
-TT24 holdout blaster is a make of Hold-out blaster available during the Galactic Civil War between the Galactic Empire and the Alliance to Restore the Republic. The blasters can be set to a stun setting if needed.</Description>
-    <Source Page="26">Beyond the Rim</Source>
+TT24 - это одна из моделей бластеров скрытого ношения, доступная в период Галактической гражданской войны между Галактической Империей и Альянсом за восстановление Республики. При необходимости этот бластер можно переключить в режим оглушения.</Description>
+    <Source Page="26">Модуль приключения - За пределами кольца (Beyond the Rim)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
     <Damage>6</Damage>
@@ -2034,15 +2034,15 @@ TT24 holdout blaster is a make of Hold-out blaster available during the Galactic
   </Weapon>
   <Weapon>
     <Key>BLASTHVYREP</Key>
-    <Name>Heavy Repeating Blaster</Name>
+    <Name>Тяжелый автоматический бластер (Heavy Repeating Blaster)</Name>
     <Description>
       [H3]Heavy Repeating Blaster[h3]
 
-These deadly weapons are designed to destroy light machinery, armored targets, or opponents in light cover. Heavy repeating blasters (such as the E-Web blaster favored by Imperial stormtroopers) are truly support weapons. They are set up on tripods and powered by portable generators. They require a two-man team, with one soldier serving as the gunner and the other handling the generator and power couplings. In military units, the second operator often monitors a communications array attached to the generator for selection of targets.
+Это смертоносное оружие предназначено для уничтожения легкой техники, бронированных целей или противников в легких укрытиях. Тяжелые автоматические бластеры (такие как бластер E-Web, состоящий на вооружении имперских штурмовиков) являются поистине оружием поддержки. Они устанавливаются на треноги и питаются от портативных генераторов. Для их обслуживания требуется расчет из двух человек: один боец выполняет роль наводчика, а другой обслуживает генератор и силовые кабели. В военных подразделениях второй оператор часто следит за коммуникационным массивом, подключенным к генератору, для выбора целей.
 
-[P]Heavy repeaters are far too unwieldy to fire effectively without a tripod, unless the bearer has truly remarkable strength. Setting up a tripod weapon requires the crew to spend three actions. The cost of the weapon includes a tripod such as the one found on page 193.
+[P]Тяжелые автоматические бластеры слишком громоздки для эффективной стрельбы без треноги, если только их владелец не обладает поистине незаурядной силой. Развертывание оружия на треноге требует от расчета затраты трех действий. Стоимость оружия включает треногу, подобную той, что описана на странице 193.
 
-[BR][B]Models Include[b]: BlasTech E-Web Repeating Blaster.</Description>
+[BR][B]Модели включают[b]: Автоматический бластер BlasTech E-Web.</Description>
     <Sources>
       <Source Page="162">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="176">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -2529,7 +2529,7 @@ Produced by Corellian Arms, the CR-2 heavy blaster pistol is a somewhat outdated
       [H3]Geonosian Heavy Blaster Pistol[h3]
 
 The Geonosian Heavy Blaster Pistol was Geonosian version of the Heavy Blaster Pistol.</Description>
-    <Source Page="33">Long Arm of the Hutt</Source>
+    <Source Page="33">Модуль приключения - Длинная рука Хатта (Long Arm of the Hutt)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
     <Damage>7</Damage>
@@ -2783,7 +2783,7 @@ A modular rifle that the Drearian Defense Conglomerate designed for the Confeder
       [H3]Geonosian Blaster Rifle[h3]
 
 The Geonosian Heavy Blaster Rifle was Geonosian version of the Heavy Blaster Rifle.</Description>
-    <Source Page="33">Long Arm of the Hutt</Source>
+    <Source Page="33">Модуль приключения - Длинная рука Хатта (Long Arm of the Hutt)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
     <Damage>9</Damage>
