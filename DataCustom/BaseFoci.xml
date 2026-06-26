@@ -37,7 +37,7 @@
       [H4]Meeting Center[h4]
 
 At times, emissaries require a clandestine location where they can meet discreetly with representatives of groups that oppose the Empire. Bases that serve as private, secure meeting centers must have Improved Security. Additionally, they might benefit from a Landing Bay or an Armory.</Description>
-    <Source Page="88">Desperate Allies</Source>
+    <Source Page="88">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <CareerSkillKeys>
     </CareerSkillKeys>
@@ -78,7 +78,7 @@ At times, emissaries require a clandestine location where they can meet discreet
     <Name>Research Facility</Name>
     <Description>
       [H4]Research Facility[h4]</Description>
-    <Source Page="88">Desperate Allies</Source>
+    <Source Page="88">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <CareerSkillKeys>
     </CareerSkillKeys>
@@ -106,7 +106,7 @@ At times, emissaries require a clandestine location where they can meet discreet
       [H4]Safe House[h4]
 
 Some bases are designed to accommodate a small number of people deep within enemy territory providing them with a place for private communications as well as a facility to store contraband. A safe house would benefit from Improved Security and, in some instances, a Medical Facility.</Description>
-    <Source Page="88">Desperate Allies</Source>
+    <Source Page="88">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <CareerSkillKeys>
     </CareerSkillKeys>
@@ -157,7 +157,7 @@ Some bases are designed to accommodate a small number of people deep within enem
       [H4]Training Camp[h4]
 
 A training camp prepares units in essential tactics. Some trainees might have already undergone some level of orientation, but often they are largely untrained. A training camp requires a Training Facility. Depending on the nature of the training, the base might also require an Armory, a Mechanic's Garage, a Landing Bay, or a Supply Depot.</Description>
-    <Source Page="88">Desperate Allies</Source>
+    <Source Page="88">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <CareerSkillKeys>
     </CareerSkillKeys>
@@ -168,7 +168,7 @@ A training camp prepares units in essential tactics. Some trainees might have al
     <Description>
       [H4]Weapon Depot[h4]
 </Description>
-    <Source Page="88">Desperate Allies</Source>
+    <Source Page="88">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <CareerSkillKeys>
     </CareerSkillKeys>

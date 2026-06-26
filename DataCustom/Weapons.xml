@@ -3374,7 +3374,7 @@ Based on a custom made design by the infamous bounty hunter Dragoneye, Czerka Ar
 The presentation of weapons in various rituals has a strong root in many cultures, especially those with a militaristic past. Such practices usually stem from ancient history, so exchanges usually incorporate seemingly anachronistic armaments such as swords, axes, spears, or other such items. Such an award often signifies a high honor to the recipient, and many choose to include them in their formal dress for all future occasions. Naturally, given how highly prized such items are, they also often feature correspondingly high craftsmanship, with superior killing power in addition to beautiful design.
 
 [P]A character adds [BO] when attempting to convince others to allow him to retain his ceremonial blade.</Description>
-    <Source Page="46">Desperate Allies</Source>
+    <Source Page="46">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Cutting Edge Melee</Category>
@@ -4552,7 +4552,7 @@ This ancient weapon is unlike any other known lightsaber. Its hilt emits a thin 
       [H3]Defender Sporting Blaster Pistol[h3]
 
 Producing a number of high-quality blaster weapons, the Drearian Defense Conglomerate is especially known for supplying the Corporate Sector Authority. However, several of their models have achieved popularity among the aristocracy and nobility. The DDC Defender pistol is typically used in honor duels and hunting, but it offers a number of distinct advantages for other uses. Its small size and simple disassembly method make it easily concealable, and the weapon also boasts automatic minor-malfunction repair and an unusually large number of shots per charge. While not the strongest of weapons, those who master it for hunting and dueling find their skills transfer well to more deadly contexts.</Description>
-    <Source Page="44">Desperate Allies</Source>
+    <Source Page="44">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -5549,7 +5549,7 @@ An electromag-pulse disruptor is a device is a slim stylus used to short out ele
 The ELG-3A differs slightly from the Merr-Sonn 02 model of blaster pistol, but shares the traits of being lightweight and distinctively elegant in design. Considered by many to be a "diplomat's blaster," the ELG-3A was particularly popular among Naboo's Royal Security Force. Like a holdout blaster, the weapon is easily concealable, but its longer barrel gives it better precision than many holdout pistols—a necessary trait given that the weapon's relatively light power necessitates especially accurate marksmanship to ensure fatal wounds.
 
 [P]Add [SE][SE] to a characters Perception checks to find an ELG-3A on a person's body.</Description>
-    <Source Page="44">Desperate Allies</Source>
+    <Source Page="44">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -6109,7 +6109,7 @@ The Xet Model C incorporates a five-round internal cylinder magazine. Even by th
 The concept behind flak cannons dates back to the earliest days of powered flight, and is among the simplest, most effective anti-fightercraft weapon systems in use today. Using a powerful mass driver, a flak cannon fires a large-caliber shell packed with thousands of dangerous, tiny objects such as shrapnel, micro-explosive pellets, or inert durasteel flechettes. Flak shells burst at a set distance and spread their contents in a dense cloud that can tear small, lightly armored airspeeders or starfighters to shreds in an instant.</Description>
     <Sources>
       <Source Page="49">Дополнение: Все по плану (Stay on Target)</Source>
-      <Source Page="53">Lead by Example</Source>
+      <Source Page="53">Дополнение: Лидерство на примере (Lead by Example)</Source>
       <Source Page="78">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -6153,7 +6153,7 @@ The concept behind flak cannons dates back to the earliest days of powered fligh
 The concept behind flak cannons dates back to the earliest days of powered flight, and is among the simplest, most effective anti-fightercraft weapon systems in use today. Using a powerful mass driver, a flak cannon fires a large-caliber shell packed with thousands of dangerous, tiny objects such as shrapnel, micro-explosive pellets, or inert durasteel flechettes. Flak shells burst at a set distance and spread their contents in a dense cloud that can tear small, lightly armored airspeeders or starfighters to shreds in an instant.</Description>
     <Sources>
       <Source Page="49">Дополнение: Все по плану (Stay on Target)</Source>
-      <Source Page="53">Lead by Example</Source>
+      <Source Page="53">Дополнение: Лидерство на примере (Lead by Example)</Source>
       <Source Page="78">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -6197,7 +6197,7 @@ The concept behind flak cannons dates back to the earliest days of powered fligh
 The concept behind flak cannons dates back to the earliest days of powered flight, and is among the simplest, most effective anti-fightercraft weapon systems in use today. Using a powerful mass driver, a flak cannon fires a large-caliber shell packed with thousands of dangerous, tiny objects such as shrapnel, micro-explosive pellets, or inert durasteel flechettes. Flak shells burst at a set distance and spread their contents in a dense cloud that can tear small, lightly armored airspeeders or starfighters to shreds in an instant.</Description>
     <Sources>
       <Source Page="49">Дополнение: Все по плану (Stay on Target)</Source>
-      <Source Page="53">Lead by Example</Source>
+      <Source Page="53">Дополнение: Лидерство на примере (Lead by Example)</Source>
       <Source Page="78">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -7723,7 +7723,7 @@ A suppression fire and crowd control weapon used by the Imperial Army, the Imper
 When discovered in a compromising position, an operative might prefer a nonlethal means to disable foes, particularly if those foes are left with little beyond a clouded recollection of events. Goseia Heavy Industries Concern "Mercy" grenades—more often called nightmare grenades in the criminal underworld—fill this need, emitting a hallucinogenic gas that distorts perceptions, provokes intense visual illusions, impairs memory, and creates intense feelings of paranoia and dread. Nightmare grenades are generally held to be less reliable than their explosive counterparts because the effect of the gas varies wildly, and because species that do not need to breath are unaffected by them.
 
 [P]A character hit by a "Mercy" grenade must make a [B]Hard ([DI][DI][DI]) Resilience check[b]. If he fails the check, he later has an incomplete or inaccurate memory of events that transpire during that encounter. Additionally, he becomes disoriented for 1 round per [TH] on the check. </Description>
-    <Source Page="45">Desperate Allies</Source>
+    <Source Page="45">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -8285,7 +8285,7 @@ Ion weapons are anti-ship and anti-vehicle weapons designed to disable rather th
     <Description>
       [H3]Long-Barrelled Ion Cannon[h3]
     </Description>
-    <Source Page="53">Lead by Example</Source>
+    <Source Page="53">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Ion</Category>
@@ -8722,7 +8722,7 @@ Vicious combatants rely on sharp blades to slice and gash their foes. They're al
 Another favorite tool for nonlethal personnel control, knockout charges such as Brennkeyes Syndicate safety mines allow the user to safely concentrate on other tasks while being assured early warning in the case of unwanted guests—at least, those who need to breath. Smaller and more easily concealed than their lethal counterparts, the mines are typically placed at head height and triggered via laser tripwire. Upon detonation, a knockout mine releases a flash of light and a neuroparalytic that halts organics who inhale it.
 
 [P]A character hit by a knockout mine must make a [B]Hard ([DI][DI][DI])  Resilience check[b]. If he fails, he becomes immobilized until the end of the encounter. </Description>
-    <Source Page="45">Desperate Allies</Source>
+    <Source Page="45">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -11267,7 +11267,7 @@ Diplomats rarely fare as well as their allies in extended firefights or brawls, 
 [P]Add [SE] to a character's Perception checks to find a military holdout blaster on a person's body. During combat, GMs may make a military holdout blaster run out of ammunition by spending [TH][TH][TH]. This is in addition to the standard spending of [DE], as discussed on page 218 of the [B]Age of Rebellion[b] Core Rulebook.
 
 [BR][B]Models include:[b] Czerka Arms 411, BlasTech C-91. </Description>
-    <Source Page="44">Desperate Allies</Source>
+    <Source Page="44">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -13366,7 +13366,7 @@ Morellian Weapons Conglomerate MWC-35c heavy repeating blaster cannon is one of 
       [H3]Merr-Sonn N-4 Noise Grenade[h3]
 
 When confronted with a hostile situation, a quick escape is sometimes the wisest course of action. Other times, fatally wounding individuals might cause a diplomatic disaster or have other repercussions. In such situations, nonlethal grenades are the best recourse, providing a relatively cheap area-of-effect alternative to a stun shot. When deployed, Merr-Sonn N-4 noise grenades and other similar weapons release a horrendous burst of sound across the spectrum, causing temporary but incredibly intense pain in most sentient species. The cacophony typically lasts for only a few seconds, but the lingering effects give the user a chance to escape or seize the initiative.</Description>
-    <Source Page="44">Desperate Allies</Source>
+    <Source Page="44">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -13409,7 +13409,7 @@ When confronted with a hostile situation, a quick escape is sometimes the wisest
 To all appearances, needle gloves look like typical hand coverings. Indeed, they differ so little from actual gloves that they offer very little in combat, with a sole exception: by making a specific hand gesture, the wearer can extend an ultra-thin needle that is otherwise practically undetectable.
 
 [P]Needle Gloves may be loaded with 1 dose of neurotoxin, anesthetic, neuroparalytic (see page 188 of the [B]Age of Rebellion[b] Core Rulebook), or any other poison the GM deems appropriate. Whenever the wielder successfully attacks a target with the weapon (even if he deals no damage), the target also suffers the effects of being exposed to the poison. Add [SE][SE][SE] to a character's Perception checks to determine that a set of needle gloves contain a lethal weapon.</Description>
-    <Source Page="46">Desperate Allies</Source>
+    <Source Page="46">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Type>Brawling</Type>
     <Categories>
@@ -16748,7 +16748,7 @@ Contracted by the Republice specifically for use by the Senate Guard, the Mk II 
 Although worlds vary by custom, a great majority use historical or symbolic regalia and accessories to distinguish their diplomats, envoys, and other such luminaries from simple common folk. These items take a wide variety of forms, but many cultures often grant such figures a rod of office, walking staff, or a similarly grandiose stick. Because it is a symbol of office, such implements rarely set off weapon detectors, and their holders are rarely required them to surrender them as they would blasters, vibroknives, and the like. Some foresighted individuals use this to their advantage and train using their staff of office as a blunt-force weapon for worst-case scenarios.
 
 [P]A staff of office requires two hands to wield. A character adds [BO][BO] when attempting to convincing others to allow him to retain his staff of office. </Description>
-    <Source Page="46">Desperate Allies</Source>
+    <Source Page="46">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Bludgeoning Melee</Category>
@@ -17030,7 +17030,7 @@ Popular among all manner of individuals from nobles to vagabonds, vibroblades ar
 Add [SE][SE] to a character's Perception checks to find a stealth vibroknife on a person's body.
 
 [BR][B]Models include:[b] Palandrix Compact Utility Blade. </Description>
-    <Source Page="46">Desperate Allies</Source>
+    <Source Page="46">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Cutting Edge Melee</Category>
@@ -17302,7 +17302,7 @@ A traditional accessory of aristocracy who occasionally need to instill an impor
 [P]Add [SE] to a character's Perception checks to determine that a sword cane is actually a lethal weapon.
 
 [BR][B]Models include:[b] SoroSuub Elegance-4 Cane, Drolan Platted Sword Cane.</Description>
-    <Source Page="47">Desperate Allies</Source>
+    <Source Page="47">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Cutting Edge Melee</Category>
@@ -19506,7 +19506,7 @@ Technicians need not only the ability to cut metal apart quickly, but the capaci
 Although information is sometimes committed to flimsiplast or other forms of physical storage, most data storage utilizes electronic media. Overwhelming physical damage can eliminate memory banks and similar devices, but expert slicing can sometimes reconstitute and extract viable data. For more certain methods of data erasure, agents turn to devices like SoroSuub Wipe-3 data-purge grenades. These small, one-use devices release a focused pulse that scrambles data, usually without destroying hardware.
 
 [P]Any computer or similar device hit by a data-purge grenade loses all programming, memory, or any other kind of electronically stored data, but remains otherwise undamaged. A droid hit by a data-purge grenade must make a [B]Hard ([DI][DI][DI]) Resilience check[b] or suffer 1 strain, plus 1 additional strain per [FA]. At the GM's discretion, [TH][TH][TH] or [DE] on the check can cause the droid to lose portions of its memory. </Description>
-    <Source Page="45">Desperate Allies</Source>
+    <Source Page="45">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>

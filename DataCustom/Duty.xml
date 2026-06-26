@@ -2,50 +2,46 @@
 <Duties>
   <Duty>
     <Key>AIRSUP</Key>
-    <Name>Air Superiority</Name>
+    <Name>Господство в воздухе (Air Superiority)</Name>
     <Description>
       [H4]Air Superiority[h4]
-The Player Character knows that keeping the skies clear of enemies is often a deciding factor in achieving victory. PCs that pilot starfighters and airspeeders, operate ground-based anti-air emplacements, or even hold the reigns of a flying beast are all dedicated to providing close air support and top cover for ground forces, and denying the enemy the same advantage.</Description>
+Персонаж игрока знает, что очищение неба от противника часто является решающим фактором в достижении победы. Персонажи игроков, пилотирующие старфайтеры и аэроспидеры, управляющие наземными зенитными установками или даже держащие поводья летающих зверей, - все они нацелены на оказание непосредственной авиационной поддержки и обеспечение прикрытия с воздуха для наземных войск, а также на то, чтобы лишить противника этого преимущества.</Description>
     <Source Page="19">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>ANTIISB</Key>
-    <Name>Anti-ISB Efforts</Name>
+    <Name>Противодействие ИББ (Anti-ISB Efforts)</Name>
     <Description>
       [H4]Anti-ISB Efforts[h4]
-The Empire has a vast information network headed by the Imperial Security Bureau, or ISB. Characters with this Duty focus their efforts on undermining this network with actions that specifically target the ISB, such as feeding false information to its known moles, recovering captured prisoners from ISB detention calls, developing profiles of ISB agents, and ensuring that the hated agency spends its resources chasing dead-end leads.</Description>
+Империя располагает обширной информационной сетью, во главе которой стоит Имперское бюро безопасности, или ИББ. Персонажи, несущие этот Долг, сосредотачивают свои усилия на подрыве работы данной сети, совершая действия, прицельно направленные против ИББ, такие как вброс дезинформации известным кротам, освобождение пленных из застенков ИББ, составление досье на агентов бюро и направление ресурсов этого ненавистного ведомства на преследование по заведомо ложным следам.</Description>
     <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>CAMAR</Key>
-    <Name>Camaraderie</Name>
+    <Name>Боевое товарищество (Camaraderie)</Name>
     <Description>
       [H4]Camaraderie[h4]
-Each fighting unit is a family of sorts, and this is equally true within the ranks of the Alliance military. These
-Commanders seek to bring the troops together in a way that fosters trust, respect, and pride. By fostering the bonds that
-develop between comrades in combat, Commanders are able to strengthen morale and drive their people to fight harder
-and better than other, similar units. Unfortunately, camaraderie can have unfortunate results—alienation from fellow units,
-instances of hazing and initiation within the ranks, and overconfidence in the face of overwhelming odds.</Description>
-    <Source Page="17">Lead by Example</Source>
+Каждое боевое подразделение - это своего рода семья, и в рядах вооруженных сил Альянса это не менее верно. Командующие, выбравшие этот Долг, стремятся сплотить личный состав, воспитывая доверие, уважение и гордость. Поддерживая узы, возникающие между товарищами по оружию в бою, они способны поднять боевой дух и заставить своих людей сражаться упорнее и лучше, чем бойцы других, аналогичных подразделений. К сожалению, у такого сплочения могут быть и прискорбные последствия: отчуждение от других частей, случаи дедовщины и ритуалов посвящения в рядах, а также чрезмерная самоуверенность перед лицом подавляющего превосходства противника.</Description>
+    <Source Page="17">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>CHEMBIO</Key>
-    <Name>Chemical/Biological Analysis</Name>
+    <Name>Химико-биологический анализ (Chemical/Biological Analysis)</Name>
     <Description>
       [H4]Chemical/Biological Analysis[h4]
-The Player Character identifies environmental problems from sources either biological (alien flora and fauna, viruses, bacteria) or chemical (toxic gases, poisons, heavy metals in the soil), The Engineer understands that environments can damage delicate machinery, make it seize up, or cause it to perform under spec. The environment can also affect the construction and destruction of structures, and harm or hinder soldiers who have to march through the terrain.</Description>
+Персонаж игрока выявляет опасности, таящиеся в окружающей среде и вызванные биологическими (инопланетная флора и фауна, вирусы, бактерии) или химическими (токсичные газы, яды, тяжелые металлы в почве) факторами. Инженер понимает, что условия окружающей среды способны повредить сложную технику, привести к ее заклиниванию или снижению рабочих характеристик ниже номинальных. Окружающая среда также влияет на возведение и разрушение сооружений, а также способна нанести урон солдатам или затруднить их марш по данной местности.</Description>
     <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>CIVOUT</Key>
-    <Name>Civilian Outreach</Name>
+    <Name>Работа с гражданским населением (Civilian Outreach)</Name>
     <Description>
       [H4]Civilian Outreach[h4]
-The PC believes that the Alliance fights for the civilians. That includes spearheading urban repair as well as communicating with the local population to coordinate and establish supply agreements and recruit new trainee mechanics. The Engineer's work doesn't change, merely the focus. Sometimes, Engineers integrate themselves with the civilian populace to provide technological resources, work with them in resisting the Empire, or prevent civilians from receiving retribution due to Alliance actions.</Description>
+Персонаж игрока убежден, что Альянс сражается ради гражданского населения. Это включает руководство восстановлением городов, а также работу с местными жителями для координации действий, заключения договоров о снабжении и привлечения новых стажеров-механиков. Суть работы Инженера не меняется, меняется лишь ее направленность. Порой Инженеры внедряются в гражданское население, чтобы предоставлять технологические ресурсы, помогать им в сопротивлении Империи или предотвращать карательные акции против мирных жителей, спровоцированные действиями Альянса.</Description>
     <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
@@ -54,224 +50,213 @@ The PC believes that the Alliance fights for the civilians. That includes spearh
     <Name>Clear Skies</Name>
     <Description>
       [H4]Clear Skies[h4]
-The PC recognizes the danger that infantry units face from enemy air power. A pair of TIE fighters can turn certain victory on the ground into disaster. This PC always has a plan to take out any enemy air support, whether through the judicious use of portable launchers, jammers, camouflage, concealing terrain, or even anti-air emplacement weapons.</Description>
+Персонаж игрока осознает опасность, которой пехотные подразделения подвергаются со стороны вражеской авиации. Пара тай файтеров способна превратить верную победу на земле в катастрофу. У такого персонажа всегда есть план по нейтрализации любой вражеской воздушной поддержки, будь то посредством грамотного применения переносных пусковых установок, генераторов помех, маскировки, использования скрытой местности или даже стационарных зенитных установок.</Description>
     <Source Page="17">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>COMBATVICTORY</Key>
-    <Name>Combat Victory</Name>
+    <Name>Боевая победа (Combat Victory)</Name>
     <Description>
       [H4]Combat Victory[h4]
-The Player Character is driven to show that the Alliance can hold its own against Imperial forces in any troop vs. troop engagement. He wants to engage the Empire's military—their best, whenever possible—and provide more victories for the Alliance to tout to the galaxy as proof it can ultimately win the war. This means daring raids, excellent tactics, and acquiring the best firepower possible.</Description>
-    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+Персонаж игрока движим желанием доказать, что Альянс способен на равных противостоять имперским силам в любом столкновении регулярных войск. Он стремится вступать в схватку с вооруженными силами Империи - по возможности, с её элитными подразделениями - и добывать новые победы для Альянса, чтобы возвещать о них на всю Галактику как о неопровержимом доказательстве того, что в конечном итоге Альянс способен выиграть эту войну. Это подразумевает дерзкие рейды, безупречную тактику и применение максимально мощного вооружения.</Description>
+    <Source Page="47">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>COMM</Key>
-    <Name>Communications</Name>
+    <Name>Коммуникации (Communications)</Name>
     <Description>
       [H4]Communications[h4]
-Player Characters with this Duty understand that the Empire maintains its stranglehold on the galaxy via a strong communications network. Whether working locally or across the galaxy, they specialize in deciphering Imperial communications as well as encrypting and concealing Rebel transmissions. Often these PCs are on the forefront of innovative communication methods, such as using special patterns on fabrics to alert agents of enemy activities of inserting code into Imperial broadcasts to pass secret messages to sleeper agents.</Description>
+Персонажи игроков, несущие этот Долг, понимают, что Империя удерживает Галактику в железных тисках благодаря мощной сети связи. Действуя как на местном уровне, так и в масштабах всей Галактики, они специализируются на расшифровке имперских коммуникаций, а также шифровании и маскировке передач повстанцев. Зачастую такие персонажи находятся на передовых рубежах внедрения инновационных методов связи, таких как использование особых узоров на тканях для оповещения агентов о действиях противника или внедрение скрытых кодов в имперские трансляции для передачи тайных посланий спящим агентам.</Description>
     <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>COMMFAC</Key>
-    <Name>Communication Facilitation</Name>
+    <Name>Обеспечение взаимодействия (Communication Facilitation)</Name>
     <Description>
       [H4]Communication Facilitation[h4]
-The Rebel Alliance is a scattered, often inconsistent organization. Alliance Command occasionally gathers the fleet for big, critical strikes, but usually individual Rebel cells work independently. The PC acts as an intermediary between leadership and other Rebel cells, ensuring that his group is coordinated with others, preventing accidental collisions.</Description>
-    <Source Page="17">Desperate Allies</Source>
+Альянс Повстанцев - разрозненная и зачастую несогласованная организация. Командование Альянса время от времени собирает флот для нанесения масштабных и критически важных ударов, однако, как правило, отдельные повстанческие ячейки действуют автономно. Персонаж игрока выступает посредником между руководством и другими ячейками, обеспечивая координацию действий своей группы с остальными и предотвращая случайные столкновения.</Description>
+    <Source Page="17">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>COUNTERINTELLIGENCE</Key>
-    <Name>Counter Intelligence</Name>
+    <Name>Контрразведка (Counter Intelligence)</Name>
     <Description>
       [H4]Counter Intelligence[h4]
-The PC knows that the survival of the Alliance depends upon its ability to hide from the Empire and avoid complete destruction at the hands of its overwhelming military superiority. To this end, he wants to hunt down and eliminate enemy agents and threats, feed false information to Imperial intelligence networks, and cover the movements of all Alliance assets from observation and reporting.</Description>
-    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+Персонаж игрока знает, что выживание Альянса зависит от его способности скрываться от Империи и избегать полного уничтожения со стороны её подавляющей военной мощи. С этой целью он стремится выслеживать и нейтрализовывать вражеских агентов и угрозы, вбрасывать дезинформацию в имперские разведывательные сети и скрывать передвижения всех сил и средств Альянса от вражеского наблюдения и донесений.</Description>
+    <Source Page="47">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>COUNTERMEAS</Key>
-    <Name>Countermeasures</Name>
+    <Name>Контрмеры (Countermeasures)</Name>
     <Description>
       [H4]Countermeasures[h4]
-Characters with this Duty serve as cryptographers, secure communications specialists, and data manipulators. Whether spreading false transmissions across subspace or the HoloNet, crafting new electronic protection to keep Rebel data secure, or slicing into Imperial transmissions and data vaults, they are phantoms in the code, capable of weaving digital misdirection while ensuring Rebel electronics remain secure.</Description>
+Персонажи, несущие этот Долг, выступают в роли криптографов, специалистов по защищенной связи и манипуляторов данными. Будь то трансляция ложных сигналов через подпространство или HoloNet, разработка новых средств электронной защиты для обеспечения сохранности данных Альянса, или взлом имперских каналов связи и хранилищ данных, эти персонажи подобны призракам в коде. Они способны плести паутину цифрового обмана, гарантируя при этом надежность повстанческих электронных систем.</Description>
     <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>DISREL</Key>
-    <Name>Disaster Relief</Name>
+    <Name>Ликвидация последствий катастроф (Disaster Relief)</Name>
     <Description>
       [H4]Disaster Relief[h4]
-While similar to Civilian Outreach, Disaster Relief involves procuring and delivering medical supplies, food, water, and temporary shelters after natural or artificial disasters. This PC destroys fallen buildings to clear areas for traffic and repairs buildings to provide safe places to congregate. Ground vehicles, ships, and droids need to be repaired or repurposed to handle rubble and tight urban environments. These Engineers try to help get civilians' live back to normal.</Description>
+Хотя этот долг схож с работой с гражданским населением, ликвидация последствий катастроф включает в себя закупку и доставку медикаментов, продовольствия, воды и временных укрытий после природных или техногенных бедствий. Персонаж игрока разбирает руины обрушившихся зданий, чтобы расчистить пути для проезда, и ремонтирует уцелевшие строения, обеспечивая безопасные места для сбора людей. Наземные транспортные средства, корабли и дроиды требуют ремонта или переоборудования для работы с завалами и в условиях тесной городской застройки. Эти Инженеры стремятся помочь мирным жителям вернуть их жизнь в привычное русло.</Description>
     <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>DOUBLEAGENT</Key>
-    <Name>Double Agent Recruitment</Name>
+    <Name>Вербовка двойных агентов (Double Agent Recruitment)</Name>
     <Description>
       [H4]Double Agent Recruitment[h4]
-PCs selecting this Duty focus on turning Imperial personnel—especially its spies—into Rebellion assets. By playing on the sentiments of those who remain idealistic about the betterment of the galaxy, they gain valuable insight from individuals in positions of trust within the Empire. When that fails, tactics such as blackmail, extortion, and other coercive efforts may be necessary in these desperate times.</Description>
+Персонажи игроков, выбравшие этот Долг, сосредотачивают свои усилия на том, чтобы обращать сотрудников Империи - особенно её шпионов - в агентов Повстанцев. Воздействуя на чувства тех, кто сохраняет идеалистические надежды на процветание Галактики, они добывают ценные сведения от лиц, занимающих доверенные посты в Империи. Если же это не приносит результатов, в эти отчаянные времена могут потребоваться такие методы, как шантаж, вымогательство и иные меры принуждения.</Description>
     <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>DROIDRETASK</Key>
-    <Name>Droid Retasking</Name>
+    <Name>Перепрограммирование дроидов (Droid Retasking)</Name>
     <Description>
       [H4]Droid Retasking[h4]
-While the Empire seems to have an infinite number of organic beings in its service, droids also play a critical role in almost all Imperial operations. PCs with this Duty focus their efforts on disabling and reprogramming these droids to gather intelligence or even setting them against their Imperial masters. By attacking this vulnerable and often-overlooked Imperial resource, such PCs provide vital aid to the Rebel Alliance.</Description>
+Хотя кажется, что на службе у Империи состоит бесчисленное множество органических существ, дроиды также играют важнейшую роль практически во всех её операциях. Персонажи игроков, несущие этот Долг, сосредотачивают свои усилия на выведении из строя и перепрограммировании этих дроидов для сбора разведданных или даже натравливания их на своих имперских хозяев. Нанося удары по этому уязвимому и зачастую недооцениваемому ресурсу Империи, такие персонажи оказывают неоценимую помощь Альянсу Повстанцев.</Description>
     <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>ENEMYDEMOR</Key>
-    <Name>Enemy Demoralization</Name>
+    <Name>Деморализация противника (Enemy Demoralization)</Name>
     <Description>
       [H4]Enemy Demoralization[h4]
-Undermining enemies' psychological ability to wage war is just as important as defeating them in
-battle. Commanders realize this, and do their best to ensure that the Empire suffers every defeat on a psychological level.
-By fostering a unit's notoriety, a Commanders can ensure that that its reputation precedes it among the enemy, thereby
-weakening the enemy’s resolve before a fight even begins. Once a battle is won, a Commander must ensure that the enemy
-knows it’s been soundly beaten, though the Commander must take care not to resort to the Empire's brand of brutality.
-</Description>
-    <Source Page="17">Lead by Example</Source>
+Подрыв психологической способности противника вести войну не менее важен, чем его разгром в бою. Командиры осознают это и делают всё возможное, чтобы Империя переживала каждое своё поражение ещё и на психологическом уровне. Культивируя грозную славу подразделения, Командующий может добиться того, чтобы его репутация шла впереди него в глазах врага, тем самым ослабляя решимость противника еще до начала сражения. Одержав победу, Командующий должен позаботиться о том, чтобы враг осознал масштаб своего сокрушительного поражения, однако при этом ему следует избегать жестокости в имперском духе.</Description>
+    <Source Page="17">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>ENVMANIP</Key>
-    <Name>Environmental Manipulation</Name>
+    <Name>Управление окружающей средой (Environmental Manipulation)</Name>
     <Description>
       [H4]Environmental Manipulation[h4]
-These PCs use their skills to alter the environment to clear the way or obstruct passage. This includes constructing and destroying bridges, burrowing around natural and artificial obstructions, and improving or impeding movement. These Engineers also manipulate the environment of outer space, exciting the ions in a nebula to provide sensor cover or harnessing the electromagnetic core of an asteroid to protect a fleet from a solar flare.</Description>
+Персонажи игроков применяют свои навыки для изменения окружающей среды, чтобы расчистить путь или преградить его. Сюда входит возведение и разрушение мостов, прокладка тоннелей в обход естественных и искусственных препятствий, а также облегчение или затруднение передвижения. Эти Инженеры также воздействуют на среду открытого космоса: они возбуждают ионы в туманности для маскировки от сенсоров или задействуют электромагнитное ядро астероида, чтобы защитить флот от солнечной вспышки.</Description>
     <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>FIELDTRAIN</Key>
-    <Name>Field Training</Name>
+    <Name>Полевая подготовка (Field Training)</Name>
     <Description>
       [H4]Field Training[h4]
-The PC trains new Engineers and rank-and-file soldiers to use new and old specialty equipment. Some bases schedule classes and provide classroom space so that Engineers can become full-time instructors. Most Alliance outposts don't have these luxuries, however, so Engineers teach by training in the field. Field training includes teaching civilians with potential, either to assist their own communities or to serve as contracted help for the Alliance.</Description>
+Персонаж игрока обучает новых Инженеров и рядовых солдат обращению с новым и старым специальным оборудованием. На некоторых базах составляется расписание занятий и выделяются учебные классы, чтобы Инженеры могли работать штатными инструкторами. Однако у большинства аванпостов Альянса нет таких удобств, поэтому Инженеры проводят обучение непосредственно в полевых условиях. Полевая подготовка включает в себя обучение перспективных гражданских лиц, чтобы те могли либо помогать своим общинам, либо служить Альянсу по контракту.</Description>
     <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>GROUNDSUP</Key>
-    <Name>Ground Superiority</Name>
+    <Name>Господство на земле (Ground Superiority)</Name>
     <Description>
       [H4]Ground Superiority[h4]
-No matter how good air support might be, battles are eventually decided on the ground. This PC knows that taking out enemy infantry and armor in combat from turrets, armored walkers and speeders, mechanized cavalry, and even traditional, mounted cavalry is what holds the line and wins the day. This PC is always on the lookout for key enemy ground assets to disable and destroy.
-</Description>
+Каким бы эффективным ни было прикрытие с воздуха, исход сражений в конечном итоге решается на земле. Этот персонаж игрока знает, что уничтожение вражеской пехоты и бронетехники в бою с помощью турелей, бронированных шагоходов и спидеров, механизированной кавалерии и даже традиционной конницы - это именно то, что удерживает позиции и приносит победу. Этот персонаж всегда выискивает ключевые наземные цели противника, чтобы вывести их из строя и уничтожить.</Description>
     <Source Page="19">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>INSECURITY</Key>
-    <Name>Internal Security (Cyphers and Masks)</Name>
+    <Name>Внутренняя безопасность (Internal Security (Cyphers and Masks))</Name>
     <Description>[H4]Internal Security[h4]
-Deceivers know their own kind. PCs with this Duty focus on protecting the Alliance from moles, double agents, and traitors. They also help maintain safety by ensuring that strongholds, outposts, and safe houses remain undetected by the Empire. This sometimes includes ensuring that supply lines for these locations are maintained and kept secret.</Description>
+Десиденты узнают своих. Персонажи игроков, несущие этот Долг, сосредотачивают свои усилия на защите Альянса от кротов, двойных агентов и предателей. Они также способствуют поддержанию безопасности, следя за тем, чтобы укрепленные базы, аванпосты и тайные убежища оставались незамеченными Империей. Порой это также включает обеспечение бесперебойного и скрытного функционирования линий снабжения для этих объектов</Description>
     <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>AddedItem</Custom>
   </Duty>
   <Duty>
     <Key>INTELLIGENCE</Key>
-    <Name>Intelligence</Name>
+    <Name>Разведка (Intelligence)</Name>
     <Description>
       [H4]Intelligence[h4]
-The PC knows that every victory hinges on knowing as much about the Empire's military might and other assets as possible. He is driven to gather any and all potentially useful data, wishing to locate vital and vulnerable targets for Rebellion forces to strike at. He not only wants to know what the Imperial military factions are up to, but also the state of technological research, economic policies, and other aspects of Imperial strength.
-</Description>
-    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+Персонаж игрока знает, что любая победа зависит от того, насколько полно ему известны военная мощь и прочие ресурсы Империи. Им движет стремление собрать любые потенциально полезные данные, чтобы выявлять жизненно важные и уязвимые цели для ударов сил Альянса. Ему важно знать не только о планах и действиях военных фракций Империи, но и о состоянии технологических разработок, экономической политике и других аспектах имперского могущества.</Description>
+    <Source Page="47">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>INTERNALSECURITY</Key>
-    <Name>Internal Security</Name>
+    <Name>Внутренняя безопасность (Internal Security)</Name>
     <Description>
       [H4]Internal Security[h4]
-The most dangerous threat to the Alliance comes from within its own ranks. Any Rebel soldier, operative, or ally could be an insidious threat waiting to take an action at a critical moment to bring entire operations crashing down, costing lives and assets. Knowing that vigilance against these threats is the truest form of devotion to the cause of the Alliance, the PC watches for any and all signs of betrayal.</Description>
-    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+Самая опасная угроза для Альянса исходит из его собственных рядов. Любой солдат, оперативник или союзник повстанцев может оказаться коварной угрозой, выжидающей критического момента, чтобы одним действием обрушить ход целых операций, обернувшись человеческими жертвами и материальными потерями. Понимая, что неусыпная бдительность перед лицом подобных угроз является истинным проявлением преданности делу Альянса, персонаж игрока выискивает любые, даже самые незначительные признаки предательства.</Description>
+    <Source Page="47">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>INTERORESIST</Key>
-    <Name>Interrogation Resistance</Name>
+    <Name>Сопротивление допросу (Interrogation Resistance)</Name>
     <Description>
       [H4]Interrogation Resistance[h4]
-Even the most skilled Rebel agent can be captured and subjected to Imperial interrogation. PCs with this Duty specialize in ensuring that they and their fellow Rebels have the physical and mental fortitude to endure interrogation. They also work to ensure that information critical to the Alliance is compartmentalized and secure, so that agents who are unable to resist Imperial questioning don't compromise the entire Rebellion.</Description>
+Даже самый искусный агент повстанцев может быть пленен и подвергнут имперскому допросу. Персонажи игроков, несущие этот Долг, специализируются на обеспечении того, чтобы они сами и их товарищи-повстанцы обладали физической и психической стойкостью, необходимой для того, чтобы выдержать допрос. Они также следят за тем, чтобы жизненно важная для Альянса информация была строго сегментирована и надежно защищена, дабы агенты, не способные устоять перед имперскими допросами, не скомпрометировали всё Повстанческое движение.</Description>
     <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>LEGENDCRAFT</Key>
-    <Name>Legend Crafting</Name>
+    <Name>Создание легенд (Legend Crafting)</Name>
     <Description>
       [H4]Legend Crafting[h4]
-PCs selecting this Duty work to create fictitious histories and evidence to back up an infiltrating Spy's cover identity. Known as legends, these false histories help Spies assume a cover identity that becomes a fully realized person and can be easily presented to others. These efforts usually also include planting falsified information or doctored holos into Imperial databases, so that anyone researching the Spy's cover identity will find a host of data that corroborates the legend, enough to pass rigorous examination.</Description>
+Персонажи игроков, выбравшие этот Долг, занимаются созданием вымышленных биографий и сбором доказательной базы для подкрепления легенды внедряемого шпиона. Эти выдуманные истории, именуемые легендами, помогают шпионам принять чужую личность, создавая образ настолько проработанного и цельного человека, что его можно без труда представить окружающим. Подобная работа обычно также включает внедрение фальшивой информации или подделанных холозаписей в имперские базы данных, чтобы любой, кто решит проверить личность шпиона, обнаружил массу данных, подтверждающих легенду и достаточных для прохождения самой строгой проверки.</Description>
     <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>LOSSPREV</Key>
-    <Name>Loss Prevention</Name>
+    <Name>Минимизация потерь (Loss Prevention)</Name>
     <Description>
       [H4]Loss Prevention[h4]
-Ensuring that their troops are as safe as possible under battlefield conditions is these Commanders'
-primary concern. They never send their troops into hopeless situations in which defeat is certain, preferring instead to
-preserve their unit’s strength for meaningful battles if sacrifices must be made. If taken too far, this ideology can result
-in weak commanding officers who lose ground because they aren’t even willing to try. They may gain a reputation for
-cowardice, which harms both discipline and their own chances for advancement.</Description>
-    <Source Page="17">Lead by Example</Source>
+Обеспечение максимальной безопасности своих войск в боевых условиях является главной заботой этих Командующих. Они никогда не отправляют своих солдат в безнадежные ситуации, где поражение предрешено, предпочитая вместо этого беречь силы своего подразделения для значимых сражений, когда приходится идти на жертвы. Если довести эту идеологию до крайности, она может привести к появлению слабых командующих, которые сдают позиции, потому что не желают даже пытаться. Они могут заработать репутацию трусов, что пагубно сказывается как на дисциплине, так и на их собственных шансах на повышение.</Description>
+    <Source Page="17">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>MORALE</Key>
-    <Name>Morale</Name>
+    <Name>Боевой дух (Morale)</Name>
     <Description>
       [H4]Morale[h4]
-While the troops of the Rebel Alliance know their cause to be just, the hopeless odds stacked against them can be demoralizing. This PC knows that to have any hope of victory, the freedom fighters have to keep their spirits up, and works to help with this via well-timed jokes or inspirational gestures such as flying the Rebellion's insignia on the battlefield.</Description>
+Хотя бойцы Альянса Повстанцев знают, что их дело правое, кажущаяся безнадёжность шансов может подорвать их моральный дух. Этот персонаж игрока понимает, что для достижения хотя бы призрачной надежды на победу борцам за свободу необходимо сохранять высокий боевой дух, и способствует этому с помощью уместных шуток или воодушевляющих жестов, таких как демонстрация символики Альянса прямо на поле боя.</Description>
     <Source Page="17">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>MUNITIONS</Key>
-    <Name>Munitions</Name>
+    <Name>Боеприпасы (Munitions)</Name>
     <Description>
       [H4]Munitions[h4]
-This includes the maintenance and use of ammunition and weapons that should detonate at the appropriate time, or at least shouldn't do so while within the soldier's gun or vehicle. Work with munitions also includes placing minefields, disarming explosives. and setting explosives to destroy environmental obstacles or enemy fortifications. Those who work with vehicles, starships, or droids often modify the machines to handle and use specialized munitions.</Description>
+Сюда входит обслуживание и применение боеприпасов и взрывных устройств, которые должны детонировать в строго отведенное время, или, по крайней мере, не срабатывать преждевременно, находясь в стволе оружия или внутри боевой техники солдата. Работа с боеприпасами также включает установку минных полей, обезвреживание взрывных устройств и закладку зарядов для уничтожения препятствий на местности или вражеских укреплений. Те, кто работает с техникой, звездолетами или дроидами, зачастую модифицируют свои машины для обращения со специализированными боеприпасами и их применения.</Description>
     <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>OPPLAN</Key>
-    <Name>Operation Planning</Name>
+    <Name>Планирование операций (Operation Planning)</Name>
     <Description>
       [H4]Operation Planning[h4]
-Efficient use of resources is a key to the success of the Rebel Alliance. Rebel strikes must be carefully organized to be as effective as possible, while consuming minimal supplies. The Rebellion can tolerate few losses. The PC recognizes this and takes it upon himself to ensure that each mission is engineered for success, with nothing forgotten or wasted.</Description>
-    <Source Page="17">Desperate Allies</Source>
+Эффективное использование ресурсов - ключ к успеху Альянса Повстанцев. Удары повстанцев необходимо тщательно организовывать, добиваясь максимальной результативности при минимальном расходе материальных средств. Альянс может позволить себе лишь незначительные потери. Персонаж игрока осознает это и берет на себя ответственность за то, чтобы каждая миссия была скрупулезно спланирована для достижения успеха, без единой упущенной детали и без лишних затрат.</Description>
+    <Source Page="17">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>PERSONNEL</Key>
-    <Name>Personnel</Name>
+    <Name>Личный состав (Personnel)</Name>
     <Description>
       [H4]Personnel[h4]
-More than machines, credits, or information, the people of the Alliance are the most important and vital assets there are, and the Player Character knows this. He is devoted to seeing to their safety, well-being, and capacity for success. No one should ever be left behind; the most successful missions might not achieve every goal, but they are successful nonetheless when no one dies.</Description>
-    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+Персонаж игрока знает, что люди Альянса - это самый важный и ценный ресурс, куда более значимый, чем машины, кредиты или информация. Он всецело посвящает себя заботе об их безопасности, благополучии и обеспечении условий для достижения успеха. Никого нельзя оставлять позади; даже если в ходе миссии не все цели будут достигнуты, она всё равно считается успешной, если никто не погиб.</Description>
+    <Source Page="47">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>PLACHUNT</Key>
-    <Name>Placard Hunter</Name>
+    <Name>Охотник за плакатами (Placard Hunter)</Name>
     <Description>
       [H4]Placard Hunter[h4]
-This PC seeks out the most skilled and famous Imperials on the battlefield, and takes them out head on. These duels are often recorded and released on shadowfeeds as a part of Rebel propaganda efforts to showcase how vulnerable the Empire is to Rebel assaults. Whether the PC sees this Duty as a means of testing himself or a way to help larger Rebel efforts, he is likely to be seen abandoning his mission objectives if a tempting enough target is fleeing the scene.</Description>
+Этот персонаж игрока выискивает на поле боя самых искусных и известных имперцев и вступает с ними в открытый бой. Эти дуэли нередко записываются и транслируются по теневым каналам в рамках пропагандистских усилий Повстанцев, призванных продемонстрировать, насколько уязвима Империя перед ударами Альянса. И независимо от того, считает ли персонаж этот Долг способом проверить свои силы или вкладом в общие усилия Повстанцев, его вполне могут застать за тем, как он бросает выполнение задач миссии ради погони за достаточно лакомой целью, пытающейся скрыться с места боя.</Description>
     <Sources>
       <Source Page="19">Дополнение: Все по плану (Stay on Target)</Source>
       <Source Page="17">Дополнение: Закаленные в битве (Forged in Battle)</Source>
@@ -280,28 +265,28 @@ This PC seeks out the most skilled and famous Imperials on the battlefield, and 
   </Duty>
   <Duty>
     <Key>POLITICALSUPPORT</Key>
-    <Name>Political Support</Name>
+    <Name>Политическая поддержка (Political Support)</Name>
     <Description>
       [H4]Political Support[h4]
-Every blaster, starfighter, and thermal detonator in the galaxy is useless without the political will to truly challenge and overthrow Palpatine and his New Order. The Player Character understands this all too well and is determined to see to it that as many factions, systems, and sectors as possible come to the side—and the aid of— the Alliance against the Empire.</Description>
-    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+Любой бластер, старфайтер и термальный детонатор в галактике бесполезен без политической воли, необходимой для того, чтобы по-настоящему бросить вызов Палпатину и его Новому Порядку и свергнуть его. Персонаж игрока прекрасно это осознает и полон решимости добиться того, чтобы как можно больше фракций, систем и секторов встали на сторону Альянса и оказали ему помощь в борьбе против Империи.</Description>
+    <Source Page="47">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>PSYCHOWAR</Key>
-    <Name>Psychological Warfare (Cyphers and Masks)</Name>
+    <Name>Психологическая война (Psychological Warfare (Cyphers and Masks))</Name>
     <Description>
       [H4]Psychological Warfare[h4]
-Fear is not only the purview of the Empire. PCs with this Duty attempt to spread fear among enemy forces in an effort to weaken morale and destroy the discipline that is the hallmark of the Imperial Army and Navy. They also regularly combat Imperial propaganda and look within the ranks of the Empire itself for personnel who might easily be swayed into joining the Rebellion. </Description>
+Страх - не исключительная прерогатива Империи. Персонажи игроков, несущие эту Обязанность, пытаются всеять страх в рядах вражеских войск, чтобы подорвать их боевой дух и сломить дисциплину, являющуюся отличительной чертой Имперской армии и флота. Они также регулярно противостоят имперской пропаганде и выискивают в самих рядах Империи тех, кого можно было бы легко склонить на сторону Альянса. </Description>
     <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>AddedItem</Custom>
   </Duty>
   <Duty>
     <Key>PSYCHWAR</Key>
-    <Name>Psychological Warfare</Name>
+    <Name>Психологическая война (Psychological Warfare)</Name>
     <Description>
       [H4]Psychological Warfare[h4]
-While Imperial stormtroopers might appear fearless and disciplined, others within the Imperial Army and Officer Corps aren't as willing to die for the Emperor. Some PCs recognize that it is possible to intimidate, confuse, or frighten an enemy to gain an advantage in an engagement, or avoid one altogether.</Description>
+И хотя имперские штурмовики могут казаться бесстрашными и образцово дисциплинированными, прочие солдаты Имперской армии и офицеры не столь готовы отдать жизнь за Императора. Некоторые персонажи игроков осознают, что противника можно запугать, дезориентировать или устрашить, чтобы получить преимущество в столкновении или и вовсе избежать его.</Description>
     <Sources>
       <Source Page="17">Дополнение: Закаленные в битве (Forged in Battle)</Source>
       <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
@@ -310,160 +295,158 @@ While Imperial stormtroopers might appear fearless and disciplined, others withi
   </Duty>
   <Duty>
     <Key>RANDD</Key>
-    <Name>Research and Development</Name>
+    <Name>Исследования и разработки (Research and Development)</Name>
     <Description>
       [H4]Research and Development[h4]
-Engineers also partake in research and development for technologies and other applied solutions. Necessity is the parent of invention, and every situation, enemy, and environment creates new necessities. Research can include stealing technology from the enemy or finding it in a ruin. These characters set aside time and resources to keep their base evolving, growing, and learning; that knowledge can also be passed on to other Engineers at other bases.</Description>
+Инженеры также участвуют в исследованиях и разработках новых технологий и иных прикладных решений. Нужда - мать изобретений, и каждая новая ситуация, каждый противник и каждая окружающая среда порождают новые потребности. Исследования могут включать кражу технологий у противника или их обнаружение в руинах. Эти персонажи выделяют время и ресурсы для того, чтобы их база продолжала развиваться, расти и накапливать опыт; полученные знания также могут передаваться другим Инженерам на других базах.</Description>
     <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>REBELBASE</Key>
-    <Name>Rebel Base</Name>
+    <Name>База повстанцев (Rebel Base)</Name>
     <Description>
       [H4]Rebel Base[h4]
-[P]If a campaign is centered around a Rebel Base, then, at the GM’s discretion, one or more of the characters may choose to have a Rebel Base be his Duty. This Duty behaves much like any other, and the CM can use the following as guidance for how to reflect it in the story. If multiple characters choose to have this be their Duty (or one of them, anyway), the CM should consider condensing it into a group Duty. A group Duty is tracked cumulatively. Whenever a group Duty triggers, it counts as triggering for all characters who share in it.
-Generally, when one or more characters' Rebel Base Duty triggers, the narrative events should relate to that facility and its inhabitants. [P]At times, this could be relatively mundane. The bonus to the PCs’ wound thresholds might come from the base staff recognizing their hard work or even doing something special to make the team more at home. Alternatively, when it triggers, it might mean that the story focuses on the base itself in some way. Perhaps the base comes under attack, for instance, and the PCs’ increased wound thresholds represent their desire to protect their home. Much like any other Duty, a Rebel Base Duty provides the CM with plenty of narrative hooks.
-[P]Alternatively or in addition to any narrative ramifications, the GM can use the Rebel Base Duty triggering to offer the PCs chances to upgrade their stronghold. If the PCs are at the base, this could mean that an opportunity comes to them. Perhaps a smuggler reaches the base, offering to trade various important supplies for protection from bounty hunters, or a group of fresh recruits arrives and the PCs must train them to work as support staff and soldiers on the base. If this Duty triggers while the PCs are off-base, it might mean that they run across a unique chance to improve the base, recruit a new staff member, or get much-needed supplies. At the GM’s discretion, when the Rebel base Duty triggers, the GM can offer the PCs an opportunity to acquire one of the base upgrades found on pages 88-89 without paying the normal price in credits for it.
-    </Description>
-    <Source Page="87">Desperate Allies</Source>
+[P]Если кампания сосредоточена вокруг базы повстанцев, то по усмотрению ГМа один или несколько персонажей могут выбрать Базу повстанцев в качестве своего Долга. Этот Долг работает почти так же, как и любой другой, и ГМ может использовать следующие указания в качестве руководства по её отражению в сюжете. Если несколько персонажей выберут этот Долг (или хотя бы один из них), ГМу стоит рассмотреть возможность объединения его в Групповой Долг. Групповой Долг отслеживается суммарно. Каждый раз, когда срабатывает групповой долг, это считается срабатыванием для всех персонажей, которые в ней участвуют
+Как правило, когда срабатывает Долг "База повстанцев" у одного или нескольких персонажей, сюжетные события должны быть связаны с этим объектом и его обитателями. [P]Иногда это может быть довольно обыденным. Бонус к порогам ранений персонажей игроков может объясняться тем, что персонал базы отмечает их усердную работу или даже делает что-то особенное, чтобы команда чувствовала себя как дома. С другой стороны, срабатывание может означать, что сюжет каким-то образом фокусируется на самой базе. Например, база может подвергнуться нападению, и возросшие пороги ранений персонажей отражают их стремление защитить свой дом. Как и любой друго Долг, "База повстанцев" предоставляет ГМу множество сюжетных зацепок.
+[P]Альтернативно или в дополнение к любым сюжетным последствиям, ГМ может использовать срабатывание Долга "База повстанцев", чтобы предложить персонажам игроков шанс улучшить их укрепленную базу. Если персонажи находятся на базе, это может означать, что возможность приходит к ним сама. Возможно, на базу прибывает контрабандист, предлагающий обменять различные важные припасы на защиту от охотников за головами, или прибывает группа свежих новобранцев, и персонажам приходится обучать их работе в качестве вспомогательного персонала и солдат базы. Если этот Долг срабатывает, пока персонажи находятся вне базы, это может означать, что им выпадает уникальный шанс улучшить базу, завербовать нового сотрудника или добыть столь необходимые припасы. По усмотрению ГМа, при срабатывании Долга "База повстанцев", он может предложить персонажам возможность приобрести одно из улучшений базы, описанных на страницах 88-89, не платя за него обычную цену в кредитах.</Description>
+    <Source Page="87">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>RECRUITING</Key>
-    <Name>Recruiting</Name>
+    <Name>Вербовка (Recruiting)</Name>
     <Description>
       [H4]Recruiting[h4]
-Every engagement with the Empire is a war of attrition, and that is a war the Rebellion simply cannot win. Nonetheless, more people must be found to serve, and they are needed in every capacity. Not only does the Alliance military need more soldiers and pilots, it needs more technicians, engineers, mechanics, scientists, doctors, slicers. and just about every other kind of worker. This Player Character understands the risks of recruitment, as well as the needs, and is constantly on the lookout for allies who are both talented and trustworthy.</Description>
-    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+Каждое столкновение с Империей превращается в войну на истощение, а такую войну Альянс просто не в силах выиграть. Тем не менее, необходимо находить всё новых людей для службы, и они требуются на любых должностях. Вооруженным силам Альянса нужны не только новые солдаты и пилоты, но и техники, инженеры, механики, ученые, врачи, слайсеры и представители практически любых других профессий. Этот персонаж игрока осознает риски, связанные с вербовкой, равно как и насущные нужды Альянса, и потому неусыпно ищет союзников, отличающихся как талантом, так и надежностью.</Description>
+    <Source Page="47">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>RESCUEREC</Key>
-    <Name>Rescue and Recovery/Evac</Name>
+    <Name>Спасение и эвакуация (Rescue and Recovery/Evac)</Name>
     <Description>
       [H4]Rescue and Recovery/Evac[h4]
-This PC prepares and plans the logistics and execution of rescue operations of both civilians and military personnel. While similar to the Transportation Duty, this work includes defense training, medical support, survival training, observation, and rapid deployment operations. These Engineers live and die by their comms; they need to communicate exactly where they and their personnel are and where they need to be at a moment's notice.</Description>
+Персонаж игрока занимается подготовкой и планированием логистики и проведения спасательных операций как для гражданского населения, так и для военнослужащих. Хотя эта работа схожа с Долгом "Транспортировка", она также включает обучение основам обороны, оказание медицинской поддержки, подготовку по выживанию, ведение наблюдения и проведение операций по быстрому развертыванию. Жизнь и смерть этих Инженеров зависят от надежной связи: они должны в любую секунду точно докладывать, где находятся они сами и их подопечные, и куда им необходимо срочно выдвинуться.</Description>
     <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>RESOURCEACQ</Key>
-    <Name>Resource Acquisition (Cyphers and Masks)</Name>
+    <Name>Добыча ресурсов (Resource Acquisition (Cyphers and Masks))</Name>
     <Description>
       [H4]Resource Acquisition[h4]
-Blasters and bacta are important for survival, but Spies with this Duty endeavor to acquire other resources to aid the Alliance. These include enemy uniforms, Imperial credentials, and other tools of deception. Spies with this Duty are certainly glad to acquire medical supplies, weapons, and other necessities, but their skill set allows them to obtain equipment more suited to subtle missions. </Description>
+Бластеры и бакта важны для выживания, но Шпионы, несущие этот Долг, стремятся добывать и другие ресурсы на благо Альянса. К ним относятся вражеская форма, имперские удостоверения и другие средства обмана. Шпионы, выполняющие эту Обязанность, безусловно, рады заполучить медицинские припасы, оружие и прочие предметы первой необходимости, однако их навыки позволяют им добывать снаряжение, куда лучше подходящее для тайных операций. </Description>
     <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>AddedItem</Custom>
   </Duty>
   <Duty>
     <Key>RESOURCEACQUISITION</Key>
-    <Name>Resource Acquisition</Name>
+    <Name>Добыча ресурсов (Resource Acquisition)</Name>
     <Description>
       [H4]Resource Acquisition[h4]
-There are never enough supplies to fully support those fighting against the juggernaut that is the Empire, and this PC knows it very well. He is determined to seek out new sources of raw materials, food, clothing, weapons, armor, and equipment of all kinds. One spare crate of medpacs can save quite a few lives, and a handful of comlinks can mean the difference between success and failure on a mission. He will trade, beg, borrow, and steal anything for the cause.
+Припасов никогда не хватает, чтобы в полной мере обеспечить тех, кто сражается против несокрушимого колосса Империи, и персонаж игрока знает это как никто другой. Он полон решимости изыскивать новые источники сырья, продовольствия, одежды, оружия, брони и снаряжения всех видов. Один лишний ящик медпакетов может спасти немало жизней, а горстка комлинков способна решить, чем закончится миссия - успехом или провалом. Ради дела он пойдет на всё: будет выменивать, выпрашивать, занимать и воровать что угодно.
 </Description>
-    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+    <Source Page="47">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>SABOTAGE</Key>
-    <Name>Sabotage</Name>
+    <Name>Саботаж (Sabotage)</Name>
     <Description>
       [H4]Sabotage[h4]
-The largest and most powerful military force in the history of the galaxy is also the most vulnerable to acts of destruction and asset denial. The character is focused on disrupting Imperial operations in any way possible, whether it's the manufacture of weapons, troop movements, supply shipments, banking systems, or any other key operation, in order to make the Empire act more slowly and less capably. Truly showy acts of destruction also work to erode a population's will to support the Empire, or so the PC often believes (though the Alliance expressly forbids actual acts of terrorism).
+Самая крупная и мощная военная сила в истории галактики в то же время наиболее уязвима для актов разрушения и диверсий, лишающих её материальных ресурсов. Этот персонаж сосредотачивает свои усилия на срыве имперских операций любыми возможными способами: будь то производство оружия, переброска войск, поставки снаряжения, функционирование банковских систем или любые другие ключевые направления, - дабы заставить Империю действовать медленнее и менее эффективно. Поистине зрелищные акты разрушения также способствуют подрыву стремления населения поддерживать Империю, во что персонаж зачастую искренне верит (хотя Альянс категорически запрещает любые акты терроризма).
 </Description>
-    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+    <Source Page="47">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>SIEGEENG</Key>
-    <Name>Siege Engineering</Name>
+    <Name>Осадная инженерия (Siege Engineering)</Name>
     <Description>
       [H4]Siege Engineering[h4]
-Engineers often set up and build defensive fortifications (bunkers, trenches, and walls) , artillery (gun towers, and weapon reinforcements), and orbital defense platforms (ground attack satellites, anti-ship satellites, and orbital flak). Natural formations such as caves, ancient temples, canyons, and even asteroid fields can form the basis of an outpost. This PC emphasizes the importance of this kind of constructive support in warfare.</Description>
+Инженеры часто возводят и обустраивают оборонительные укрепления (бункеры, траншеи и стены), артиллерийские системы (орудийные башни и усиленные огневые позиции) и платформы орбитальной обороны (спутники для ударов по наземным целям, противокорабельные спутники и орбитальные зенитные установки). Природные образования, такие как пещеры, древние храмы, каньоны и даже пояса астероидов, могут служить основой для аванпоста. Этот персонаж игрока подчеркивает важность такого рода инженерного обеспечения в ведении войны.</Description>
     <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>SPACESUPERIORITY</Key>
-    <Name>Space Superiority</Name>
+    <Name>Господство в космосе (Space Superiority)</Name>
     <Description>
       [H4]Space Superiority[h4]
-As the Combat Victory-driven PC feels about troop conflicts, so this Player Character feels about ship-to-ship combat and naval engagements. To him, the war will ultimately be decided in the stars, and what the Alliance lacks in sheer numbers, it more than makes up for in the quality and tenacity of its pilots. Every single space battle is an opportunity to show the rest of the galaxy that the Alliance not only can win the war, but is destined to do so.
-</Description>
-    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+Как персонаж, движимый "Боевой победой", относится к наземным сражениям, так этот персонаж игрока относится к космическим боям и флотским операциям. Он убежден, что исход войны в конечном счете решится среди звезд, и то, чего Альянсу не хватает в численном превосходстве, он с лихвой компенсирует мастерством и стойкостью своих пилотов. Каждый космический бой - это возможность доказать остальной галактике, что Альянс не просто способен выиграть эту войну, но что победа ему предначертана.</Description>
+    <Source Page="47">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>SUPPORT</Key>
-    <Name>Support</Name>
+    <Name>Поддержка (Support)</Name>
     <Description>
       [H4]Support[h4]
-Individually, the lone agents of the Alliance don't stand a chance against the combined might of the Galactic Empire. Only by working together can they hope to achieve a victory in this civil war. This PC is devoted to helping fellow Rebels fulfill their Duties by providing whatever assistance they need. Although he might not get the same amount of reward or recognition as the people he is helping, the PC has many more opportunities than his fellows to fulfill his Duty to the Rebellion.</Description>
-    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+В одиночку агенты Альянса не имеют ни единого шанса против объединенной мощи Галактической Империи. Лишь действуя сообща, они могут надеяться на победу в этой гражданской войне. Этот персонаж игрока всецело посвящает себя помощи товарищам-повстанцам в выполнении их Долга, оказывая им любую необходимую поддержку. И хотя он может не снискать таких же наград и признания, как те, кому он помогает, у этого персонажа открывается гораздо больше возможностей для выполнения своего Долга перед Альянсом, чем у его соратников.</Description>
+    <Source Page="47">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>SURVEYENEMY</Key>
-    <Name>Surveying the Enemy</Name>
+    <Name>Разведка позиций противника (Surveying the Enemy)</Name>
     <Description>
       [H4]Surveying the Enemy[h4]
-This PC focuses on the technical aspects of scouting. the gathering of geographical knowledge, and the mapping of data via the use of sensors, drones, droids, and satellites. This includes constructing physical and electronic camouflage to hide a Rebel base and any vehicle movements from Empire scouts. More destructive methods include eliminating similar enemy systems with electromagnetic devices, damaging probes or satellites, and providing snipers and anti-aircraft ordnance data useful in targeting enemy units.</Description>
+Этот персонаж игрока сосредотачивается на технических аспектах разведки, сборе географических сведений и картографировании данных с помощью датчиков, беспилотников, дроидов и спутников. Это включает в себя создание физической и электронной маскировки для сокрытия баз повстанцев и любых перемещений техники от имперских разведчиков. Более разрушительные методы включают подавление аналогичных вражеских систем с помощью электромагнитных устройств, выведение из строя разведывательных зондов или спутников, а также предоставление снайперам и расчетам зенитных комплексов точных данных, необходимых для наведения на вражеские подразделения.</Description>
     <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>TACTINSIGHT</Key>
-    <Name>Tactical Insight</Name>
+    <Name>Тактическое предвидение (Tactical Insight)</Name>
     <Description>
       [H4]Tactical Insight[h4]
-Wars are sometimes won before a battle is ever fought. These PCs specialize in gathering information on Imperial military tactics and using these secrets to exploit weaknesses in the Empire's deployment plans and combat strategies. They also attempt to undermine Imperial tactics by planting false intelligence in Imperial battlefield reports or allowing fabricated reports on Rebel troop movements to "fall into enemy hands."</Description>
+Войны порой выигрываются ещё до начала сражения. Эти персонажи игроков специализируются на сборе сведений о военной тактике Империи и использовании этих секретов для выявления уязвимостей в планах развертывания и боевых стратегиях противника. Они также стремятся сорвать имперские тактические замыслы, внедряя ложные разведданные в боевые донесения Империи или подстраивая всё так, чтобы сфабрикованные отчеты о передвижениях войск повстанцев "попали в руки врага".</Description>
     <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>TECHPROCUREMENT</Key>
-    <Name>Tech Procurement</Name>
+    <Name>Добыча технологий (Tech Procurement)</Name>
     <Description>
       [H4]Tech Procurement[h4]
-There is no more prolific or productive time for technological developments than during a war, and this one is no exception. This Player Character sees the true opportunity for Alliance victory in the hands of scientists, engineers, and technicians. Not only can they get the most performance from existing machines and resources, but they can design and develop new ships, weapons, medical techniques, and equipment that can provide the vital edge necessary to survive against the Empire's might. The way this PC sees it, stealing the best developments of the Empire is a crucial way to even the odds.</Description>
-    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+Нет более плодотворного и продуктивного периода для технологических разработок, чем во время войны, и нынешняя - не исключение. Этот персонаж игрока полагает, что истинный ключ к победе Альянса находится в руках ученых, инженеров и техников. Они способны не только выжать максимум из имеющейся техники и ресурсов, но и проектировать и создавать новые корабли, оружие, медицинские методики и снаряжение, способные обеспечить то самое жизненно важное преимущество, необходимое для выживания перед лицом имперского могущества. По мнению этого персонажа, кража лучших разработок Империи - это важнейший способ уравнять шансы.</Description>
+    <Source Page="47">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>TECHSUPERIORITY</Key>
-    <Name>Tech Superiority</Name>
+    <Name>Технологическое превосходство (Tech Superiority)</Name>
     <Description>
       [H4]Tech Superiority[h4]
-As a stick jockey, this PC knows that while having the best-trained crew is the most important thing, having that crew on the best combat platforms is a very close second. If not for Rebels focused on maintaining tech superiority, the Alliance never would have acquired X-wings, or created the A-wing or B-wing starfighters. These PCs are always looking to bring new designs, schematics, and the engineers that create them back to base.</Description>
+Будучи пилотом, этот персонаж игрока знает: хотя наилучшим образом подготовленный экипаж важнее всего, обеспечение этого экипажа лучшими боевыми машинами является вторым по важности фактором, идущим вплотную к первому. Если бы не повстанцы, сосредоточенные на обеспечении технологического превосходства, Альянс никогда не заполучил бы истребители X-wing и не создал бы звездные истребители A-wing и B-wing. Эти персонажи игроков постоянно ищут возможности доставить на базу новые конструкторские разработки, чертежи и инженеров, их создавших.</Description>
     <Source Page="19">Дополнение: Все по плану (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>TESTING</Key>
-    <Name>Testing</Name>
+    <Name>Испытания (Testing)</Name>
     <Description>
       [H4]Testing[h4]
-The Alliance often must procure new supplies and technologies from less-than-reputable sources. This PC tests first and tests often. The moment an Engineer neglects safety checks, devices become a dangerous uncertainty. Stolen Imperial technology also carries the risk of sabotage. This PC tests researched technologies and methodologies in controlled labs, during live-fire exercises, and in the middle of battle.</Description>
+Альянсу часто приходится добывать новые припасы и технологии из не самых благонадежных источников. Этот персонаж испытывает всё в первую очередь и делает это постоянно. Стоит Инженеру пренебречь проверками безопасности, как устройства превращаются в источник непредсказуемой опасности. Краденые имперские технологии также таят в себе риск саботажа. Этот персонаж испытывает изученные технологии и методики в контролируемых лабораторных условиях, на учениях с боевой стрельбой и прямо в разгар сражения.</Description>
     <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>TRANSPORT</Key>
-    <Name>Transportation</Name>
+    <Name>Транспортировка (Transportation)</Name>
     <Description>
       [H4]Transportation[h4]
-This PC takes on the responsibility of establishing protected routes to and from a base and the front lines. The Alliance uses a wide variety of transports, ranging from swift airspeeders, agile corvettes, and blocky freighters to slow, wheeled haulers and even pack animals. The character might also recruit private or public civilian transportation organizations. While an army marches on its stomach, this PC would rather it rode instead.</Description>
+Этот персонаж берет на себя ответственность за организацию защищенных маршрутов между базой и линией фронта. Альянс использует самые разные транспортные средства: от быстрых аэроспидеров, маневренных корветов и неуклюжих грузовых кораблей до тихоходных колесных тягачей и даже вьючных животных. Персонаж также может привлекать к сотрудничеству частные или государственные гражданские транспортные организации. Хотя и говорят, что армия марширует на желудке, этот персонаж предпочел бы, чтобы она передвигалась на транспорте.</Description>
     <Source Page="17">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Duty>
   <Duty>
     <Key>WETWORK</Key>
-    <Name>Wetwork</Name>
+    <Name>Грязные дела (Wetwork)</Name>
     <Description>
       [H4]Wetwork[h4]
-PCs with this Duty know that sometimes questionable, if not downright immoral, acts must be committed in the name of the greater good. The quiet death of a single key individual, after all, can save many lives or keep important secrets buried for good. They're willing to do the unthinkable for the cause, and eliminate or assassinate critical Imperial personnel to prevent or undo a greater evil.</Description>
+Персонажи игроков, несущие этот Долг, знают, что иногда во имя высшего блага приходится идти на сомнительные, если не откровенно аморальные, шаги. Ведь безмолвная смерть одной ключевой фигуры способна, в конечном счете, спасти множество жизней или навсегда похоронить важные тайны. Они готовы на немыслимое ради общего дела, устраняя или ликвидируя важнейших сотрудников Империи, чтобы предотвратить или отвести куда большее зло.</Description>
     <Source Page="17">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Duty>

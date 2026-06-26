@@ -1237,7 +1237,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
 [P]Equipment and tools necessary to keep gear in good repair are also present (allowing characters to perform Mechanics checks to repair and modify weapons and armor without penalty). The facility is also stocked with any weapons and equipment that would have a modified rarity of 5 or lower. Access to gear with a higher rarity is subject to GM discretion.
 
 [P]This upgrade can be taken only once.</Description>
-    <Source Page="89">Desperate Allies</Source>
+    <Source Page="89">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>1</PurchaseCount>
     <MonthlyProfit>0</MonthlyProfit>
@@ -1258,7 +1258,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
 [P]This facility grants occupants [BO] on Computers, Leadership, and Vigilance checks.
 
 [P]This upgrade can only be taken once.</Description>
-    <Source Page="89">Desperate Allies</Source>
+    <Source Page="89">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>1</PurchaseCount>
     <MonthlyProfit>0</MonthlyProfit>
@@ -1278,7 +1278,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
 [B]Upgrade Description:[b] The size and scope of the Rebel base grows, increasing the scale of operations. If the facility is a safe house, increase the number of rooms available within the facility. If it is focused upon research or training, then increase the number of workers and available technology. A facility devoted to maintaining weapons, vehicles, or other equipment could have its capacity similarly increased.
 
 [P]Once per month, each PC can leverage the bases new expanded resources when attempting to acquire a piece of equipment. For purposes of that check, the item's rarity is decreased by 1 for each time this upgrade has been selected. This upgrade may be taken up to four additional times.</Description>
-    <Source Page="88">Desperate Allies</Source>
+    <Source Page="88">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <MonthlyProfit>0</MonthlyProfit>
     <ProfitPerPC>false</ProfitPerPC>
@@ -1302,7 +1302,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
 [P]The hangar holds a number of vehicles with a combined silhouette of 30 and no single vehicle larger than silhouette 5. It also includes a full set of mechanics' tools (allowing characters to perform Mechanics checks to heal droids or repair vehicles or starships without penalty), and an oil bath for droids. When used to repair starships or vehicles, the character repairs 2 additional hull trauma or 2 additional system strain on a successful check.
 
 [P]This upgrade may be taken up to two additional times, either to add additional landing bays or to increase the combined silhouette limit of the original bay by 15 (although the maximum vehicle size remains at silhouette 5).</Description>
-    <Source Page="89">Desperate Allies</Source>
+    <Source Page="89">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>3</PurchaseCount>
     <Cost>
@@ -1323,7 +1323,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
 [P]A laboratory includes a full suite of scientific implements (allowing characters to perform Computers, Knowledge, Medicine, and Mechanics checks for experimental purposes without penalty). Additionally, characters in a laboratory add [AD][AD] to such checks thanks to the safety equipment.
 
 [P]This upgrade can only be taken once.</Description>
-    <Source Page="89">Desperate Allies</Source>
+    <Source Page="89">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>1</PurchaseCount>
     <MonthlyProfit>0</MonthlyProfit>
@@ -1347,7 +1347,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
 [P]This upgrade may be taken up to three times, increasing the number of patients it can accommodate by five and the number of baste tanks by one each time.
 
 </Description>
-    <Source Page="89">Desperate Allies</Source>
+    <Source Page="89">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>3</PurchaseCount>
     <Cost>
@@ -1375,7 +1375,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
 
 [P]This upgrade may be taken up to two additional times, with a different NPC being chosen each time.
 </Description>
-    <Source Page="89">Desperate Allies</Source>
+    <Source Page="89">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>3</PurchaseCount>
     <Cost>
@@ -1741,7 +1741,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
 
 [P]This upgrade can only be taken once.
 </Description>
-    <Source Page="89">Desperate Allies</Source>
+    <Source Page="89">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>1</PurchaseCount>
     <MonthlyProfit>0</MonthlyProfit>
@@ -1771,7 +1771,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
 [P]• The base gains a concealed heavy repeating blaster turret that covers the main entrance and has a Gunnery skill of 2 and an Agility of 0 (if unassisted, it rolls [AB][AB] for Gunnery checks).
 
 [P]This upgrade may be purchased two additional times, each time selecting a different option. </Description>
-    <Source Page="88">Desperate Allies</Source>
+    <Source Page="88">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>3</PurchaseCount>
     <Cost>
@@ -1937,7 +1937,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
 
 [P]This upgrade can be taken only once.
 </Description>
-    <Source Page="89">Desperate Allies</Source>
+    <Source Page="89">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>1</PurchaseCount>
     <MonthlyProfit>0</MonthlyProfit>

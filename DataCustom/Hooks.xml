@@ -23,7 +23,7 @@ The vast majority of the sentient beings of the galaxy have no desire to join th
 [P]Unfortunately for some hapless individuals, the galaxy has other plans. Cases of mistaken identity can result in innocents becoming wanted for crimes they never even considered. Receiving goods marked for Alliance use may find one or more PCs fleeing for their lives from Imperial agents or hired mercenaries. A friend's—or even casual acquaintance's—involvement with the Rebellion can saddle a character with unintended guilt by association. Of course, there are times when people simply find themselves in the wrong place at the wrong time and have no choice but to become heroes.
 [P]Alternately, unexpected situations may cause an epiphany for someone who was previously not interested in getting involved. While it may be easy to ignore tales of injustice and atrocity when they happen far away from an individual's daily life, many individuals have altogether different reactions when they come face-to-face with the horror of the Empire's policies. Apathy is difficult to maintain when someone watches another sentient executed for seeking out, a family enslaved because of their species, or an entire population wiped out for political expediency.
 [P]In such situations, a person's apathy can quickly turn to anger. That anger, in turn, often turns to action, usually with violent and irrevocable consequences. Once steps are taken toward open and direct opposition, such a character has joined the Rebellion in spirit, even if not yet in fact.</Description>
-    <Source Page="45">Age of Rebellion Core Rulebook</Source>
+    <Source Page="45">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -131,7 +131,7 @@ Some characters take to tinkering as children or as adolescents, displaying a pr
     <Description>
       [H4]Citizen Soldier[h4]
 Citizen soldiers are commoners from across the galaxy who fight to protect their families, their planets, and their people. Though many such individuals serve in the ranks of the Rebel Alliance, only a handful reveal themselves to be exemplary leaders, especially in times of great strife. For these people, the Rebel Alliance is a temporary but absolute obligation; the only things that might end their service are victory or death.</Description>
-    <Source Page="14">Lead by Example</Source>
+    <Source Page="14">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -179,7 +179,7 @@ Some of the most prized possessions of a Smuggler are the stories he can tell, b
     <Description>
       [H4]Defector[h4]
 Prior to joining the Rebel Alliance, defector characters were among the ranks of an enemy. Their former master was most likely the Empire, but even criminal organizations or regional governments that have crossed swords with the Alliance are possible. [P]For whatever reason—a moral quandary, disillusionment, or disgrace—such characters have defected from their original organization and offered their loyalty to the Alliance. Though accepted by the Rebels, defectors have yet to earn their complete trust. To make matters worse, defectors are fugitives who face certain death should they be captured by their former masters.</Description>
-    <Source Page="13">Lead by Example</Source>
+    <Source Page="13">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -208,7 +208,7 @@ Having realized he has some untapped power at his disposal, the character now wi
       [H4]Dissident Artist[h4]
 Some people have a creative drive that cannot be stilled, and craft works that not only give expression to their thoughts and emotions but also push others to question their own positions. The PC has always been an uncompromising artist, and his controversial works eventually drew the ire of the Empire. In the face of pressure to tone down his creations, the PC refused to compromise his art and redoubled his efforts, challenging the establishment and inspiring the resistance. He became wanted as a political dissident of the Empire, but is now a welcome asset to the Alliance.
 [P]The value of an artist should not be underestimated. The character might possess an uncanny insight into how people of all species think, or he might have honed his skills and ingenuity through countless crafts and creations. Further, many artists have a level of celebrity that gives them unique access to people and places across the galaxy.</Description>
-    <Source Page="15">Desperate Allies</Source>
+    <Source Page="15">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -300,7 +300,7 @@ Not all who served in the now-destroyed Jedi Order rose to the rank of Knight. I
     <Description>
       [H4]The Failed Leader[h4]
 Not everyone is born to lead. Many individuals are thrust into positions of power against their will, or discover their shortcomings as leaders when it’s too late. These characters are such souls, who, through lack of skill or blatant misfortune, have failed in their attempts to command their people. Whether they have learned from their mistakes, or even recognize the mistakes for what they are, can be a pivotal decision when creating such Commanders. What remains to be seen is how they use the lessons they’ve learned, if they’ve learned them at all, and whether they can earn back the respect they’ve lost—that of their peers, as well as their own.</Description>
-    <Source Page="15">Lead by Example</Source>
+    <Source Page="15">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -419,7 +419,7 @@ While those victimized by the Empire make up a significant portion of rebel forc
       [H4]Imperial Outcast[h4]
 For obedient citizens of the Empire, success is said to come from joining the forces of law and order. Whether through Officer School, or as a bureaucrat in one of many local puppet governments, or merely as a low-level desk jockey, people from all worlds are encouraged to contribute to their government and reap the rewards of status and power. The PC started down this road, but events conspired to change his path. Perhaps the character became disillusioned with the chain of authority after being given an unsavory order, or he became a victim of the corruption and discrimination rampant within the Empire.
 [P]Forgetting the mindset that comes from years of training in the Empire is no simple task, and the character is likely to feel isolated, like a traitor who abandoned everything he had. However, he is likely to find, amid the ranks of the Rebel Alliance, others who began as the Empire's brightest and eventually realized that they, too, had to leave. </Description>
-    <Source Page="12">Desperate Allies</Source>
+    <Source Page="12">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -429,7 +429,7 @@ For obedient citizens of the Empire, success is said to come from joining the fo
       [H4]Industrialist[h4]
 The galaxy is home to a dazzling array of shipyards, factories, and industrial complexes manufacturing all manner of equipment, such as weapons, droids, capital ships, mundane tools, and luxury items. The PC comes from a life of work in such operations, perhaps employed as a labor captain, shift supervisor, bureaucrat, or possibly even as the partial or sole owner of such a corporation. Running an operation that makes and distributes complicated equipment is no easy task, but the PC has made a career of making sure everyone in the business operates in unison to get things built. An astute knowledge of resource management can prove a boon to the beleaguered Alliance.
 [P]Unfortunately, many of the challenges facing the Alliance come to rest at the industrialist's doorstep. The Rebel forces are disparate, poorly funded, and frequently constrained to operating in secret. In sec-tors where the Empire's control is tight and regulations are strict, the character must reach into the depths of his experience to make ends meet.</Description>
-    <Source Page="14">Desperate Allies</Source>
+    <Source Page="14">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -534,7 +534,7 @@ Military groups create effective Warriors. Characters with a military background
       [H4]Minority Voice[h4]
 The Empire has built much of its power by taking advantage of conflict, ostracizing and exploiting smaller populations for its own gain. Some species, such as the Wookiees, are enslaved on their own worlds. Others are merely denied the privileges of the common citizen. Rather than choose to accept this injustice silently, the PC spoke up for a group victimized by the Empire's abuses. As a champion who fights for fairness for these outcasts, the PC highlights the injustices brought upon them. The Empire does not tolerate dissent, but the Rebel Alliance welcomes such voices.
 [P]The minority voice is likely to be an outspoken member of the Alliance. With a specific cause to champion, the character has good reason to push the group to do more to help those in need.</Description>
-    <Source Page="13">Desperate Allies</Source>
+    <Source Page="13">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -545,7 +545,7 @@ The Empire has built much of its power by taking advantage of conflict, ostraciz
 Under the guidance of such wise administrators as Mon Mothma, the Alliance began recruiting efforts very early in its inception. Those skilled in the ways of intelligence, oration, and sheer talent scouting were employed from the start to build growing networks dedicated to finding those who had cause to oppose the Empire as well as the capability and the will to take action against it. As the conflict grows, so, too, does this network dedicated to finding bodies to fill the ranks and serve the needs of the Alliance.
 [P]A Player Character may well be a part of the Rebellion because he was discovered by someone in this network—someone who saw his potential and recognized his willingness to fight against the current regime imposed by Emperor Palpatine. It might not even have been someone normally tasked with recruitment who found the PC; chance encounters by those connected to the Alliance with those who might be able to help occur all the time, and risks are frequently taken if it means an opportunity to gain the services of a capable and savvy ally.
 [P]The cellular nature of most Alliance operations minimizes the risk of betrayal fairly well. Such recruits are tested considerably before they are ever given access to sensitive material or plans, and their awareness of the extent of the network they are connected to is kept to a minimum until they have truly earned the trust of their superiors.</Description>
-    <Source Page="44">Age of Rebellion Core Rulebook</Source>
+    <Source Page="44">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -729,7 +729,7 @@ One of the most powerful motivations in a character's life can be his parents or
 Once they make the decision to oppose the terror and atrocities of the Empire, many individuals go looking for a way to contact and join up with the Rebellion. As badly as the Alliance needs people, though, it's not necessarily easy to find Alliance members to talk to about signing on. The vastly superior forces and assets of the Empire make it very dangerous for anyone to openly support the Alliance, as many planets and people discovered in the immediate aftermath of the Declaration of Rebellion. Imperial Intelligence and related agencies—not to mention countless bounty hunters—are constantly searching for any and all beings connected to the Rebellion, so secrecy is paramount to survival.
 [P]As such, finding a way to join the Alliance's efforts against the Empire can be a quest all its own. It could even be the basis for the start of an [B]Age of Rebellion[b] campaign. Hopefuls need to do a lot of research, investigation, and sneaking around to discover clues about the Rebellion and to avoid the attention of Imperial agents. At the same time, they must prove themselves capable and trustworthy to anyone with whom they might make contact. Such an endeavor is a very tense, very delicate game of cat and mouse at first; the searchers might even fall under Alliance observation for a time, not knowing they are being observed and judged while they continue to try to find a way in.
 [P]Many who want to join the Rebellion do so in rather dramatic fashion, taking it upon themselves to simply start striking against Imperial forces and assets. Such acts can be foolhardy and stupid, but they can also be brave and daring. If the would-be Rebels manage to succeed without getting themselves killed in the process, they may well draw the attention of Alliance operatives who are willing to talk to them about joining.</Description>
-    <Source Page="45">Age of Rebellion Core Rulebook</Source>
+    <Source Page="45">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>

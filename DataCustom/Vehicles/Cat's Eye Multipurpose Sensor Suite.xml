@@ -50,7 +50,7 @@ its operators make to detect incoming orbital air traffic
 within its range, and it adds [SE][SE] t o Stealth checks made
 by land units approaching the device and operator.
 [P][I]Disclaimer: This is a piece of field equipment found in the Lead by Example Sourcebook.  It is created as a stationary "vehicle" because it is the most appropriate format.  While any mods or benefits are per the official source, the actual vehicle stats are an interpretation only and are not official.  Feel free to modify them if you think any changes are required.[i]</Description>
-  <Source Page="46">Lead by Example</Source>
+  <Source Page="46">Дополнение: Лидерство на примере (Lead by Example)</Source>
   <Custom>DescOnly</Custom>
   <Type>Field Equipment</Type>
   <Categories />

@@ -38,7 +38,7 @@ A character with this Motivation is driven by a specific goal. This Motivation i
     <Description>
       [H4]Belief[h4]
 A Player Character with a Motivation from this type is driven by a set of beliefs that form how he sees the galaxy and his role in it. He serves the Alliance because his beliefs support the goals of the Rebellion or are absolutely in contradiction with those of the Empire. He might not need to spread his beliefs to others, but he will epitomize those beliefs in word and deed, and he hopes that his beliefs will have a hand in building what will arise after the Empire falls.</Description>
-    <Source Page="105">Age of Rebellion Core Rulebook</Source>
+    <Source Page="105">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>BELREPUBLIC</Key>
@@ -166,7 +166,7 @@ There are quite a few options for different Motivations found in the Core Rulebo
     <Description>
       [H4]Connections[h4]
 The Player Character has some kind of connection or relationship to the Alliance that draws him to its cause. He might not have had any desire to fight in the Rebellion otherwise, joining only because the Connection he is tied to is a part of it or because serving the Alliance somehow enhances the Connection. Over time, his commitment to the Rebellion could become more personally ingrained, but it all begins with the desires or influences of another.</Description>
-    <Source Page="106">Age of Rebellion Core Rulebook</Source>
+    <Source Page="106">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>CONPOLITICAL</Key>
@@ -213,7 +213,7 @@ Survival is always the first thing on every Colonist's mind—self-preservation,
 Diplomats play many roles in the Rebel Alliance, including leaders, motivators, and facilitators. Their words and actions stir comrades to action, guiding them in the right direction. Diplomats articulate the reasons for the Rebellion's existence, and they direct the Rebellion's success. Anyone can make an impassioned speech, but a Diplomat makes speeches that move hearts, minds, servos, and starships.
 [P]A Diplomat's Motivation is the source of the passion and counsel he shares. Where other Player Characters may be driven by vague ideals or desires, a Diplomat sometimes possesses the self-awareness to express his Motivation as a Creed, a singular thought that becomes his goal to enforce or espouse. This concept is entwined with the core of the character, inseparable from his identity. Even though the character may experience conflicting emotions and find predicaments that cause him to question his values, at the end of the day, his Creed is the code he lives by.
 [P]Unlike other types of Motivation, the concrete nature of Creeds and the articulate nature of the Diplomat enable a character to express his Creed directly in words. Players should look for opportunities for their characters to mention their Creeds to others or proclaim their Creeds when the pressure is on. Of course, a character might instead opt to keep his Creed to himself; to some, such matters are very personal.</Description>
-    <Source Page="36">Desperate Allies</Source>
+    <Source Page="36">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>CREEDSM1</Key>
@@ -257,7 +257,7 @@ What drives an Explorer? What sends someone from the relative comfort and securi
     <Description>
       [H4]Drive[h4]
 The [B]Age of Rebellion[b] Core Rulebook includes an ample list of Motivations, broken into three distinct types: Beliefs, Connections, and Quests. When a character is created, players either freely choose Motivations for their characters or roll randomly on the Motivation tables to select them. The rules for determining a character’s Motivation can be found starting on page 104 of the [B]Age of Rebellion[b]Core Rulebook.</Description>
-    <Source Page="37">Lead by Example</Source>
+    <Source Page="37">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>DRIVEGUILT</Key>
@@ -602,7 +602,7 @@ Seekers are often driven individuals and their Motivations might dominate their 
     <Description>
       [H4]Quest[h4]
 A Player Character with this type of Motivation seeks something specific from his participation in the Rebel-lion. He joined as a means to complete his Quest, and he believes that serving the Alliance or defeating the Empire will result in the achievement of his ultimate goal. Some Quests have a specific object or person that is the target, while others are more open-ended and may never be fully complete. The quest might be the primary drive for the PC, yet he could also come to embrace the larger goals of the Rebellion as equally important, or perhaps ascendant over his own needs.</Description>
-    <Source Page="106">Age of Rebellion Core Rulebook</Source>
+    <Source Page="106">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>QUEREDEM</Key>

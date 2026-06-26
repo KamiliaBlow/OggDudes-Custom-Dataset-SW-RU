@@ -386,7 +386,7 @@ The number of common military and civilian decorations bestowed by the Alliance 
 [P]Please see page 95 of the Lead by Example Sourcebook for details.
     </Description>
     <Sources>
-      <Source Page="95">Lead by Example</Source>
+      <Source Page="95">Дополнение: Лидерство на примере (Lead by Example)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <OptionChoices>
@@ -572,7 +572,7 @@ Awards granted by Alliance High Command for distinguished service or conspicuous
 [P]Please see page 92 of the Lead by Example Sourcebook for details.
     </Description>
     <Sources>
-      <Source Page="92">Lead by Example</Source>
+      <Source Page="92">Дополнение: Лидерство на примере (Lead by Example)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <OptionChoices>
@@ -621,7 +621,7 @@ Campaign medals and ribbons are issued to personnel who are or have served in sp
 [P]Please see page 95 of the Lead by Example Sourcebook for details.
     </Description>
     <Sources>
-      <Source Page="95">Lead by Example</Source>
+      <Source Page="95">Дополнение: Лидерство на примере (Lead by Example)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <OptionChoices>

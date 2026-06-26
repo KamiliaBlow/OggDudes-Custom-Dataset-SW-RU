@@ -426,7 +426,7 @@ Armor inserts are thin, flexible, plasteel and ballistic gel plates that can be 
       [H3]Advanced Subspace Encryption Array[h3]
 
 The Empire's tight grip on the HoloNet forces the Rebellion to rely primarily on subspace transceivers for communications. However. subspace transceivers have a much more limited range than HoloNet transmissions, requiring frequent relays across additional networks before reaching the intended recipient. Risk of interception of a relayed transmission limits Rebel operations, forcing them to rely on courier ships and secret comm stations for long-range communication. However, ships with advanced encryption algorithms can send coded transmissions that blend with normal traffic, rendering them nearly undetectable and all but indecipherable even if they are intercepted.</Description>
-    <Source Page="65">Desperate Allies</Source>
+    <Source Page="65">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>6000</Price>
@@ -538,7 +538,7 @@ The Sureshot Advanced Targeting Array by Taim Bak is a good example of a targeti
 [P][B]Models Include:[b] Taim &amp; Bak LR-375a "Sureshot" Advanced Targeting Array, Fabritech KR-770 "Sharpshooter Targeting Computer, Koensayr Manufacturing 840.z Holo-Targeting Suite, Fabritech ANx 42.a "Snapshot" Targeting Computer.</Description>
     <Sources>
       <Source Page="269">Edge of the Empire Core Rulebook</Source>
-      <Source Page="286">Age of Rebellion Core Rulebook</Source>
+      <Source Page="286">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="269">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -606,7 +606,7 @@ Using an updated and streamlined galven pattern and heavy-duty static pulse adap
 [P][B]Models Include:[b] Dolmax 243X "Penetrator Augmented Spin Barrel, Arakyd HH780 HotShot Barrel, BlasTech Model 213 Perforator Barrel.</Description>
     <Sources>
       <Source Page="188">Edge of the Empire Core Rulebook</Source>
-      <Source Page="200">Age of Rebellion Core Rulebook</Source>
+      <Source Page="200">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -756,7 +756,7 @@ Balance is key in a well-constructed melee weapon. Professional weaponsmiths can
 [P][B]Models Include:[b] None.</Description>
     <Sources>
       <Source Page="188">Edge of the Empire Core Rulebook</Source>
-      <Source Page="200">Age of Rebellion Core Rulebook</Source>
+      <Source Page="200">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -925,7 +925,7 @@ Little more than a pair of folding or collapsible legs mounted beneath the barre
 [P][B]Models Include:[b] Galactic Arms XA Classic Bipod, Czerka M20 Marksman Bipod.</Description>
     <Sources>
       <Source Page="188">Edge of the Empire Core Rulebook</Source>
-      <Source Page="200">Age of Rebellion Core Rulebook</Source>
+      <Source Page="200">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="192">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -994,7 +994,7 @@ A Blaster Actuating Module is a blaster modification popular with mercenaries, b
 [P][B]Models Include:[b] SoroSuub X440 "Hammer Blaster Actuating Module, Dolmax Heavy Blaster Actuator, Arakyd 97R Enhanced Blaster Actuating Module.</Description>
     <Sources>
       <Source Page="188">Edge of the Empire Core Rulebook</Source>
-      <Source Page="200">Age of Rebellion Core Rulebook</Source>
+      <Source Page="200">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -1283,7 +1283,7 @@ Commanders a venue in which to issue orders personally
 and en masse to the troops and pilots under their
 command.
 [P][B]Models Include:[b] None.</Description>
-    <Source Page="58">Lead by Example</Source>
+    <Source Page="58">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>2500</Price>
@@ -2500,7 +2500,7 @@ Although uncommon and even considered archaic in this day and age, some armorers
 [P][B]Models Include:[b] Numerous variants.</Description>
     <Sources>
       <Source Page="194">Edge of the Empire Core Rulebook</Source>
-      <Source Page="205">Age of Rebellion Core Rulebook</Source>
+      <Source Page="205">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
@@ -2856,7 +2856,7 @@ Produced by numerous starship manufacturers, these armor plates are made from a 
 [P][B]Models Include:[b] Ferro-Magnesium Armor Plate, Cerro-Ablative Sheets.</Description>
     <Sources>
       <Source Page="269">Edge of the Empire Core Rulebook</Source>
-      <Source Page="286">Age of Rebellion Core Rulebook</Source>
+      <Source Page="286">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="269">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -2887,7 +2887,7 @@ Designed to blind and deafen enemy ships, electronic countermeasures suites such
 [P][B]Models Include:[b] Fabritech 995 "Stormcloud" Electronic Countermeasures Suite, Miradyne 4x_Phantom Short-Range Sensor Jammer (starfighters only), KDY 220-SIG Tactical Combat Jammer (capital ships only).</Description>
     <Sources>
       <Source Page="269">Edge of the Empire Core Rulebook</Source>
-      <Source Page="286">Age of Rebellion Core Rulebook</Source>
+      <Source Page="286">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="269">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -2960,7 +2960,7 @@ compartments and staffed by a dedicated crew.
 Miradyne A5x.4 “Oracle” ECCM suite (starfighters
 and shuttles only), KDY Advanced Capital ECCM suite
 (gunships, cruisers, and battleships only).</Description>
-    <Source Page="59">Lead by Example</Source>
+    <Source Page="59">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>3500</Price>
@@ -3225,7 +3225,7 @@ they must turn to their own shipwrights, or modify
 acquired ships appropriately. Diplomats often take
 the additional step of adapting their ships to be capable of replicating a wide range of environments, the
 better to make passengers and guests feel at home.</Description>
-    <Source Page="64">Desperate Allies</Source>
+    <Source Page="64">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>7500</Price>
@@ -3343,7 +3343,7 @@ Built into a helmet, this system provides an individual with a host of specializ
 [P][B]Models Include:[b] BioTech MULTI Enhanced Vision System, Atlas Corp Full-Spectrum Optical Enhancer, Neuro-Saav Anq-Y Enhanced Optics Suite.</Description>
     <Sources>
       <Source Page="194">Edge of the Empire Core Rulebook</Source>
-      <Source Page="206">Age of Rebellion Core Rulebook</Source>
+      <Source Page="206">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
@@ -3503,7 +3503,7 @@ Little more than a vertical handgrip affixed below the barrel of a rifle-sized w
 [P][B]Models Include:[b] Galactic Arms Model 94 Forearm Grip, Dolmax 14A Detachable Pistol Grip, Merr-Sonn AG44S Ergonomic Tactical Foregrip.</Description>
     <Sources>
       <Source Page="190">Edge of the Empire Core Rulebook</Source>
-      <Source Page="201">Age of Rebellion Core Rulebook</Source>
+      <Source Page="201">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -3546,7 +3546,7 @@ An old assassin's trick, this is the simple act of removing the front sight of a
 [P][B]Models Include:[b] None.</Description>
     <Sources>
       <Source Page="190">Edge of the Empire Core Rulebook</Source>
-      <Source Page="201">Age of Rebellion Core Rulebook</Source>
+      <Source Page="201">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -4099,7 +4099,7 @@ Some starships or vehicles can be converted to carry additional, smaller vehicle
 [P][B]Models Include:[b] None.</Description>
     <Sources>
       <Source Page="271">Edge of the Empire Core Rulebook</Source>
-      <Source Page="287">Age of Rebellion Core Rulebook</Source>
+      <Source Page="287">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="270">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -4185,7 +4185,7 @@ Hydraulic control circuits are a throwback to an earlier era of shipbuilding. In
 [P][B]Models Include:[b] Corellian Engineering Hydraulic Control Circuits, Santhe/Sienar Hardened Circuitry, Fabritech Insulated Circuitry. </Description>
     <Sources>
       <Source Page="270">Edge of the Empire Core Rulebook</Source>
-      <Source Page="286">Age of Rebellion Core Rulebook</Source>
+      <Source Page="286">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="270">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -4231,7 +4231,7 @@ Like thermal shielding, cold shielding is installed in armor to protect the wear
 [P][B]Models Include:[b] Atlas Corp DL87 "Frostback" Armor Enhancement, Min-Dal Model 00 Heating System.</Description>
     <Sources>
       <Source Page="194">Edge of the Empire Core Rulebook</Source>
-      <Source Page="206">Age of Rebellion Core Rulebook</Source>
+      <Source Page="206">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="201">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -4396,7 +4396,7 @@ Often, openly carrying a lightsaber causes undue comment and notice. Owners of s
       [H3]Holonet Pirate Array[h3]
 
 Life in the galaxy has arisen in all manner of biomes, from the deep seas of Mon Cala to the Ithorian jungles, and every possible climate in between. Most starship life-support systems create an environment in the median range, neither too hot nor too cold, neither too humid nor too dry. When members of a particular species need unique accommodations, they must turn to their own shipwrights, or modify acquired ships appropriately. Diplomats often take the additional step of adapting their ships to be capable of replicating a wide range of environments, the better to make passengers and guests feel at home.</Description>
-    <Source Page="65">Desperate Allies</Source>
+    <Source Page="65">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>25000</Price>
@@ -4490,7 +4490,7 @@ provide unparalleled battlespace awareness.
 [P][B]Models Include:[b] Imlok Technologies ARENA-2500,
 Brosso Mk. IX Tactical holoprojector, Chedak Communications
 “Omni-View" LS-220 holo-tank.</Description>
-    <Source Page="59">Lead by Example</Source>
+    <Source Page="59">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>5000</Price>
@@ -4614,7 +4614,7 @@ Upgraded hyperdrive generators increase a vessel's speed through hyperspace, all
 [P][B]Models Include:[b] Isu-Sim SSPO5 Hyperdrive Generator, SFS S/ig-30 Hyperdrive System, KDY JumpStar Hyperdrive Generator.</Description>
     <Sources>
       <Source Page="271">Edge of the Empire Core Rulebook</Source>
-      <Source Page="286">Age of Rebellion Core Rulebook</Source>
+      <Source Page="286">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="270">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -5042,7 +5042,7 @@ A fast, powerful sublight engine, high output ion turbines increase a ship's raw
 [P][B]Models Include:[b] Girodyne Ter40 High-Output Ion Turbine, Sienar Fleet Systems SFS-220 Ion Drives, Koensayr Manufacturing R800 Ion Ramjet.</Description>
     <Sources>
       <Source Page="271">Edge of the Empire Core Rulebook</Source>
-      <Source Page="286">Age of Rebellion Core Rulebook</Source>
+      <Source Page="286">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="269">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -5100,7 +5100,7 @@ Jump boots are, essentially, a single-use jetpack built into a thick boots and a
 The character chooses one personal weapon or piece of armor per rank of Jury Rigged. He may increase the damage of the weapon by one; decrease the Advantage cost on its Critical, or any single other effect by one to a minimum of one; or increase armor's ranged or melee defense by one. Alternatively, he can decrease the encumbrance of the item by two to a minimum of one. The bonus only applies so long as the character is using the item. If the item is ever loss or destroyed, the character may apply Jury Rigged to a new personal weapon or piece or armor.</Description>
     <Sources>
       <Source Page="138">Edge of the Empire Core Rulebook</Source>
-      <Source Page="150">Age of Rebellion Core Rulebook</Source>
+      <Source Page="150">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
@@ -5129,7 +5129,7 @@ The character chooses one personal weapon or piece of armor per rank of Jury Rig
 The character chooses one personal weapon or piece of armor per rank of Jury Rigged. He may increase the damage of the weapon by one; decrease the Advantage cost on its Critical, or any single other effect by one to a minimum of one; or increase armor's ranged or melee defense by one. Alternatively, he can decrease the encumbrance of the item by two to a minimum of one. The bonus only applies so long as the character is using the item. If the item is ever loss or destroyed, the character may apply Jury Rigged to a new personal weapon or piece or armor.</Description>
     <Sources>
       <Source Page="138">Edge of the Empire Core Rulebook</Source>
-      <Source Page="150">Age of Rebellion Core Rulebook</Source>
+      <Source Page="150">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -5478,7 +5478,7 @@ Low-friction coatings work by lowering the coefficient of friction against solid
       [H3]Luxury Passenger Compartments[h3]
 
 Corrupt Imperial officials and powerful crime lords are more likely than Rebels to enjoy opulent living standards. However, Rebels who have regular contact with the rich and powerful sometimes find a little extravagance to be a purely practical investment. While scented air recyclers, a galley stocked with Corellian brandy, and other luxuries have little measurable effect on the Rebel war effort, the intangible benefits offered by a display of confidence and power should not be underestimated.</Description>
-    <Source Page="65">Desperate Allies</Source>
+    <Source Page="65">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>2000</Price>
@@ -5576,7 +5576,7 @@ Merr-Sonn's KX765 Marksman Barrel was designed to meet the needs of the finger f
 [P][B]Models Include:[b] Merr-Sonn KX756 Marksman Barrel, SoroSuub WQ80 "Long-shot" Barrel, Arakyd 3300 Hawkeye Sharpshooter's Barrel.</Description>
     <Sources>
       <Source Page="190">Edge of the Empire Core Rulebook</Source>
-      <Source Page="202">Age of Rebellion Core Rulebook</Source>
+      <Source Page="202">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -6119,7 +6119,7 @@ Even vibroweapons can benefit from an edge sharpened to molecular thickness and 
 [P][B]Models Include:[b] None listed.</Description>
     <Sources>
       <Source Page="190">Edge of the Empire Core Rulebook</Source>
-      <Source Page="202">Age of Rebellion Core Rulebook</Source>
+      <Source Page="202">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="194">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -6263,7 +6263,7 @@ A complex and sophisticated piece of equipment, the multi-optic sight is a wonde
 [P][B]Models Include:[b] Galactic Arms Model 44 Combat Optical Enhancer, SoroSuub XAD Omnisight, Merr-Sonn 480.z1 "Beholder" Multi-Optic Sight.</Description>
     <Sources>
       <Source Page="191">Edge of the Empire Core Rulebook</Source>
-      <Source Page="202">Age of Rebellion Core Rulebook</Source>
+      <Source Page="202">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="51">Savage Spirits</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -6490,7 +6490,7 @@ Popular with both military scouts and assassins, optical camouflage systems are 
 [P][B]Models Include:[b] BioTech "Flicker" Displacement Field, Atlas Corp "Smokescreen" Stealth System, Merr-Sonn "Ghost" Optical Camouflage System.</Description>
     <Sources>
       <Source Page="195">Edge of the Empire Core Rulebook</Source>
-      <Source Page="206">Age of Rebellion Core Rulebook</Source>
+      <Source Page="206">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="51">Savage Spirits</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -8746,7 +8746,7 @@ A good defense is crucial to keeping a starship operational in the rough and tum
 [P][B]Models include:[b] Phoah-Kingsmeyer 721a AEGIS Shield Generator, KDY 880 Palisade Shield Generator, Sienar SH-2/a.Z Shield Reinforcement.</Description>
     <Sources>
       <Source Page="270">Edge of the Empire Core Rulebook</Source>
-      <Source Page="287">Age of Rebellion Core Rulebook</Source>
+      <Source Page="287">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="270">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -8778,7 +8778,7 @@ Any piece of armor can benefit from retooling at the hands of a superior craftsm
 [P][B]Models Include:[b] Numerous Variants.</Description>
     <Sources>
       <Source Page="195">Edge of the Empire Core Rulebook</Source>
-      <Source Page="206">Age of Rebellion Core Rulebook</Source>
+      <Source Page="206">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="201">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -8879,7 +8879,7 @@ Commonly applied to blaster rifles and carbines, BlasTech's "Scattergun" Spread 
 [P][B]Models Include:[b] BlasTech 8405 "Scattergun" Spread Barrel, SoroSuub 800 "Blunderbuss" barrel, Arakyd Model 70 "Chain Lightning" Spread Barrel.</Description>
     <Sources>
       <Source Page="191">Edge of the Empire Core Rulebook</Source>
-      <Source Page="203">Age of Rebellion Core Rulebook</Source>
+      <Source Page="203">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -8969,7 +8969,7 @@ The simplicity of this modification belies its viciousness. Adding a serrated ed
 [P][B]Models Include:[b] None.</Description>
     <Sources>
       <Source Page="191">Edge of the Empire Core Rulebook</Source>
-      <Source Page="203">Age of Rebellion Core Rulebook</Source>
+      <Source Page="203">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="194">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -9206,7 +9206,7 @@ Strength enhancing systems easily converts a suit of full armor into a power-ass
 [P][B]Models Include:[b] Industrial Automaton Xr5 Power Assist, BioTech "Brute Strength Enhancer, Atlas Corp Myomer Strength Enhancing System.</Description>
     <Sources>
       <Source Page="194">Edge of the Empire Core Rulebook</Source>
-      <Source Page="206">Age of Rebellion Core Rulebook</Source>
+      <Source Page="206">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
@@ -9300,7 +9300,7 @@ Shortened barrels are a handy modification used by spies, plain-clothes law enfo
 [P][B]Models Include:[b] Arakyd SB4 "Stubber", SoroSuub SBSS Reduced Length Barrel.</Description>
     <Sources>
       <Source Page="191">Edge of the Empire Core Rulebook</Source>
-      <Source Page="203">Age of Rebellion Core Rulebook</Source>
+      <Source Page="203">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -10014,7 +10014,7 @@ Add this attachment to any blaster pistol or carbine to make it stun-only.  A bl
     </Description>
     <Sources>
       <Source Page="160">Edge of the Empire Core Rulebook</Source>
-      <Source Page="174">Age of Rebellion Core Rulebook</Source>
+      <Source Page="174">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="167">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -10120,7 +10120,7 @@ Even the simplest weapon can benefit from a craftsman's touch. A skilled weapons
 [P][B]Models Include:[b] None.</Description>
     <Sources>
       <Source Page="191">Edge of the Empire Core Rulebook</Source>
-      <Source Page="203">Age of Rebellion Core Rulebook</Source>
+      <Source Page="203">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="194">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -10183,7 +10183,7 @@ a squadron, and they provide the squadron leader
 with a number of command and control options to
 enhance the squadron’s performance.
 [P][B]Models Include:[b] Various models.</Description>
-    <Source Page="59">Lead by Example</Source>
+    <Source Page="59">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>4200</Price>
@@ -10300,7 +10300,7 @@ processors, a TCCS takes in and analyzes battlespace
 data to provide Alliance commanders with all of the
 data needed to make good strategic decisions in battle.
 [P][B]Models Include:[b] Various models.</Description>
-    <Source Page="59">Lead by Example</Source>
+    <Source Page="59">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>8500</Price>
@@ -10419,7 +10419,7 @@ Popular with marksmen and snipers, this attachment consists of a long tube attac
 [P][B]Models Include:[b] Merr-Sonn 80Z Telescopic Optical Sight, Zikon Optics Model 40 Marksman Scope.</Description>
     <Sources>
       <Source Page="192">Edge of the Empire Core Rulebook</Source>
-      <Source Page="203">Age of Rebellion Core Rulebook</Source>
+      <Source Page="203">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="195">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -10519,7 +10519,7 @@ Designed for use with the heaviest man-portable weapons, tripods are a common si
 [P][B]Models Include:[b] BlasTech 3R Heavy Weapon Tripod Mount.</Description>
     <Sources>
       <Source Page="193">Edge of the Empire Core Rulebook</Source>
-      <Source Page="204">Age of Rebellion Core Rulebook</Source>
+      <Source Page="204">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="195">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -10558,7 +10558,7 @@ Utilizing both active and passive cooling systems, along with an insulated body 
 [P][B]Models Include:[b] Atlas Corp Model 451 Heat Exchanger, Min-Dal 3100 Firebrand Suit, Kaminoan Armorsmiths Thermal Shielding System.</Description>
     <Sources>
       <Source Page="194">Edge of the Empire Core Rulebook</Source>
-      <Source Page="207">Age of Rebellion Core Rulebook</Source>
+      <Source Page="207">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="201">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -10592,7 +10592,7 @@ Uncommon but highly effective, the Firestorm by Czerka is a small, under-barrel 
 [P][B]Models Include:[b] Czerka "Firestorm" Under-barrel Flame Projector, Merr-Sonn XR14 Sunsear Flame Projector, SoroSuub "Inferno" Auxiliary Flamer.</Description>
     <Sources>
       <Source Page="192">Edge of the Empire Core Rulebook</Source>
-      <Source Page="204">Age of Rebellion Core Rulebook</Source>
+      <Source Page="204">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -10649,7 +10649,7 @@ Under-barrel grenade launchers are designed to give soldiers or squads heavy ant
 [P][B]Models Include:[b] Czerka "Thumper" Under-barrel Grenade Launcher, SoroSuub XA203 Auxiliary Grenade Launcher, Zone Control "Viper" Under-Barrel Grenade Launcher.</Description>
     <Sources>
       <Source Page="191">Edge of the Empire Core Rulebook</Source>
-      <Source Page="205">Age of Rebellion Core Rulebook</Source>
+      <Source Page="205">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -10699,7 +10699,7 @@ This upgrade reflects the simple act of mounting more or heavier weapons on a st
 
 [P][B]Models Include:[b] Arakyd Flex Tube Proton Torpedo Launcher, ArMek SW-6 Heavy Ion Cannon.</Description>
     <Sources>
-      <Source Page="287">Age of Rebellion Core Rulebook</Source>
+      <Source Page="287">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="271">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -10892,7 +10892,7 @@ Full body armor can be designed to be sealed against a vacuum, allowing the user
 [P][B]Models Include:[b] Numerous Variants.</Description>
     <Sources>
       <Source Page="195">Edge of the Empire Core Rulebook</Source>
-      <Source Page="207">Age of Rebellion Core Rulebook</Source>
+      <Source Page="207">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="57">Keeping the Peace</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -11132,7 +11132,7 @@ Weapons designed to bludgeon foes to unconsciousness or death often benefit from
 [P][B]Models Include:[b] None.</Description>
     <Sources>
       <Source Page="193">Edge of the Empire Core Rulebook</Source>
-      <Source Page="205">Age of Rebellion Core Rulebook</Source>
+      <Source Page="205">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="195">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -11172,7 +11172,7 @@ Designed to allow a single sentient to field even the heaviest man-portable weap
 [P][B]Models Include:[b] Arakyd WW480 "Goliath" Weapon Harness, Galactic Arms HR12 Power Harness, SoroSuub "Little Giant" Heavy Weapon Power Assist.</Description>
     <Sources>
       <Source Page="193">Edge of the Empire Core Rulebook</Source>
-      <Source Page="205">Age of Rebellion Core Rulebook</Source>
+      <Source Page="205">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -11207,7 +11207,7 @@ Slings are lengths of hide or synthetic fabric designed to allow easy handling o
 [P][B]Models Include:[b] Custom-tooled Bantha hide sling, Tactical three-point sling, Quick-release one-point drop sling.</Description>
     <Sources>
       <Source Page="193">Edge of the Empire Core Rulebook</Source>
-      <Source Page="205">Age of Rebellion Core Rulebook</Source>
+      <Source Page="205">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="195">Force and Destiny Core Rulebook</Source>
     </Sources>
     <Custom>DescOnly</Custom>
