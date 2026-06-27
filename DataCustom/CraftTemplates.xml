@@ -583,7 +583,7 @@
       [H3]Augmentative Armor[h3]
       This is an armor template.  Please enter the description of the finished armor here.
     </Description>
-    <Source Page="90">Keeping the Peace</Source>
+    <Source Page="90">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <TempType>ctArmor</TempType>
     <TimeHours>120</TimeHours>
     <CheckSkills>
@@ -619,7 +619,7 @@
       [H3]Combat Armor[h3]
       This is an armor template.  Please enter the description of the finished armor here.
     </Description>
-    <Source Page="90">Keeping the Peace</Source>
+    <Source Page="90">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <TempType>ctArmor</TempType>
     <TimeHours>48</TimeHours>
     <CheckSkills>
@@ -653,7 +653,7 @@
       [H3]Customizable Armor[h3]
       This is an armor template.  Please enter the description of the finished armor here.
     </Description>
-    <Source Page="90">Keeping the Peace</Source>
+    <Source Page="90">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <TempType>ctArmor</TempType>
     <TimeHours>16</TimeHours>
     <CheckSkills>
@@ -683,7 +683,7 @@
       [H3]Deflective Armor[h3]
       This is an armor template.  Please enter the description of the finished armor here.
     </Description>
-    <Source Page="90">Keeping the Peace</Source>
+    <Source Page="90">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <TempType>ctArmor</TempType>
     <TimeHours>24</TimeHours>
     <CheckSkills>
@@ -714,7 +714,7 @@
       [H3]Light Armor[h3]
       This is an armor template.  Please enter the description of the finished armor here.
     </Description>
-    <Source Page="90">Keeping the Peace</Source>
+    <Source Page="90">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <TempType>ctArmor</TempType>
     <TimeHours>12</TimeHours>
     <CheckSkills>
@@ -748,7 +748,7 @@
       [H3]Reinforced Clothing[h3]
       This is an armor template.  Please enter the description of the finished armor here.
     </Description>
-    <Source Page="90">Keeping the Peace</Source>
+    <Source Page="90">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <TempType>ctArmor</TempType>
     <MaterialCost>25</MaterialCost>
     <MaterialRarity>0</MaterialRarity>
@@ -783,7 +783,7 @@
       [H3]Segmented Armor[h3]
       This is an armor template.  Please enter the description of the finished armor here.
     </Description>
-    <Source Page="90">Keeping the Peace</Source>
+    <Source Page="90">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <TempType>ctArmor</TempType>
     <TimeHours>72</TimeHours>
     <CheckSkills>
@@ -819,7 +819,7 @@
       [H3]Blunt Weapon[h3]
       This is a brawl weapon template.  Examples include clubs and staves.  Please enter the description of the finished weapon here.
     </Description>
-    <Source Page="76">Special Modifications</Source>
+    <Source Page="76">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctMeleeBrawl</TempType>
     <TimeHours>6</TimeHours>
     <CheckSkills>
@@ -861,7 +861,7 @@
       [H3]Fist Weapon[h3]
       This is a brawl weapon template.  Examples include brass knuckles and punch daggers.  Please enter the description of the finished weapon here.
     </Description>
-    <Source Page="76">Special Modifications</Source>
+    <Source Page="76">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctMeleeBrawl</TempType>
     <TimeHours>4</TimeHours>
     <CheckSkills>
@@ -903,7 +903,7 @@
       [H3]Cybernetic Appendage (Agility)[h3]
       This is a cybernetic template.  Examples include enhanced arms and legs.  Please enter the description of the finished cybernetic here.
     </Description>
-    <Source Page="85">Special Modifications</Source>
+    <Source Page="85">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctCyber</TempType>
     <TimeHours>48</TimeHours>
     <CheckSkills>
@@ -935,7 +935,7 @@
       [H3]Cybernetic Appendage (Brawn)[h3]
       This is a cybernetic template.  Examples include enhanced arms and legs.  Please enter the description of the finished cybernetic here.
     </Description>
-    <Source Page="85">Special Modifications</Source>
+    <Source Page="85">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctCyber</TempType>
     <TimeHours>48</TimeHours>
     <CheckSkills>
@@ -967,7 +967,7 @@
       [H3]Cybernetic Implant[h3]
       This is a cybernetic template.  Examples include brain implants and enhanced senses.  Please enter the description of the finished cybernetic here.
     </Description>
-    <Source Page="85">Special Modifications</Source>
+    <Source Page="85">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctCyber</TempType>
     <TimeHours>48</TimeHours>
     <CheckSkills>
@@ -998,7 +998,7 @@
       [H3]Prosthetic Replacement[h3]
       This is a cybernetic template.  Examples include prosthetic limbs or organs.  Please enter the description of the finished cybernetic here.
     </Description>
-    <Source Page="85">Special Modifications</Source>
+    <Source Page="85">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctCyber</TempType>
     <TimeHours>12</TimeHours>
     <CheckSkills>
@@ -1023,7 +1023,7 @@
     <Description>
       This is a droid chassis.  Please enter the description of the finished droid here.
     </Description>
-    <Source Page="80">Special Modifications</Source>
+    <Source Page="80">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctDroid</TempType>
     <TimeHours>240</TimeHours>
     <CheckSkills>
@@ -1110,7 +1110,7 @@
     <Description>
       This is a droid chassis.  Please enter the description of the finished droid here.
     </Description>
-    <Source Page="80">Special Modifications</Source>
+    <Source Page="80">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctDroid</TempType>
     <TimeHours>48</TimeHours>
     <CheckSkills>
@@ -1199,7 +1199,7 @@
       [H3]Combat Directives[h3]
       Droids with these directives are typically used for security purposes.
     </Description>
-    <Source Page="82">Special Modifications</Source>
+    <Source Page="82">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctDroidDirect</TempType>
     <TimeHours>16</TimeHours>
     <CheckSkills>
@@ -1232,7 +1232,7 @@
       [H3]Elimination Directives[h3]
       Droids with these directives are typically used for assassination.
     </Description>
-    <Source Page="82">Special Modifications</Source>
+    <Source Page="82">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctDroidDirect</TempType>
     <TimeHours>168</TimeHours>
     <CheckSkills>
@@ -1296,7 +1296,7 @@
       [H3]Healing Directives[h3]
       Droids with these directives are typically used for medical purposes.
     </Description>
-    <Source Page="82">Special Modifications</Source>
+    <Source Page="82">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctDroidDirect</TempType>
     <TimeHours>72</TimeHours>
     <CheckSkills>
@@ -1342,7 +1342,7 @@
       [H3]Labor Directives[h3]
       Droids with these directives are typically obsessed with their single area of expertise.
     </Description>
-    <Source Page="82">Special Modifications</Source>
+    <Source Page="82">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctDroidDirect</TempType>
     <TimeHours>8</TimeHours>
     <CheckSkills>
@@ -1369,7 +1369,7 @@
       [H3]Navigation Directives[h3]
       Droids with these directives are typically used for astronavigation purposes.
     </Description>
-    <Source Page="82">Special Modifications</Source>
+    <Source Page="82">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctDroidDirect</TempType>
     <TimeHours>72</TimeHours>
     <CheckSkills>
@@ -1421,7 +1421,7 @@
       [H3]Repair Directives[h3]
       Droids with these directives are typically used to repair machines.
     </Description>
-    <Source Page="82">Special Modifications</Source>
+    <Source Page="82">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctDroidDirect</TempType>
     <TimeHours>24</TimeHours>
     <CheckSkills>
@@ -1467,7 +1467,7 @@
       [H3]Translation Directives[h3]
       Droids with these directives are typically used for etiquette and protocol.
     </Description>
-    <Source Page="82">Special Modifications</Source>
+    <Source Page="82">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctDroidDirect</TempType>
     <TimeHours>24</TimeHours>
     <CheckSkills>
@@ -1503,7 +1503,7 @@
     <Description>
       This is a droid chassis.  Please enter the description of the finished droid here.
     </Description>
-    <Source Page="80">Special Modifications</Source>
+    <Source Page="80">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctDroid</TempType>
     <TimeHours>48</TimeHours>
     <CheckSkills>
@@ -1591,7 +1591,7 @@
     <Description>
       This is a droid chassis.  Please enter the description of the finished droid here.
     </Description>
-    <Source Page="80">Special Modifications</Source>
+    <Source Page="80">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctDroid</TempType>
     <TimeHours>24</TimeHours>
     <CheckSkills>
@@ -1680,7 +1680,7 @@
     <Description>
       This is a droid chassis.  Please enter the description of the finished droid here.
     </Description>
-    <Source Page="80">Special Modifications</Source>
+    <Source Page="80">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctDroid</TempType>
     <TimeHours>56</TimeHours>
     <CheckSkills>
@@ -1871,7 +1871,7 @@
       [H3]Precision Instrument[h3]
       This is a gadget template.  Examples include microscopes, thermal cloaks, and scanner goggles.  Please enter the description of the finished gadget here.
     </Description>
-    <Source Page="84">Special Modifications</Source>
+    <Source Page="84">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctGadget</TempType>
     <TimeHours>16</TimeHours>
     <CheckSkills>
@@ -1907,7 +1907,7 @@
       [H3]Simple Tool[h3]
       This is a gadget template.  Examples include climbing gear, datapads, handscanners, medpacks, toolkits, and slicer gear.  Please enter the description of the finished gadget here.
     </Description>
-    <Source Page="84">Special Modifications</Source>
+    <Source Page="84">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctGadget</TempType>
     <TimeHours>2</TimeHours>
     <CheckSkills>
@@ -1943,7 +1943,7 @@
       [H3]Specialist Tool[h3]
       This is a gadget template.  Examples include bacta tanks, scanner dishes, table saws, and welding gear.  Please enter the description of the finished gadget here.
     </Description>
-    <Source Page="84">Special Modifications</Source>
+    <Source Page="84">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctGadget</TempType>
     <TimeHours>10</TimeHours>
     <CheckSkills>
@@ -1979,7 +1979,7 @@
       [H3]Defensive Lightsaber[h3]
       This is a lightsaber hilt template.  Examples include the guard shoto.  Please enter the description of the finished lightsaber here.
     </Description>
-    <Source Page="85">Endless Vigil</Source>
+    <Source Page="85">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <TempType>ctLightsaber</TempType>
     <TimeHours>12</TimeHours>
     <CheckSkills>
@@ -2031,7 +2031,7 @@
       [H3]Defensive Lightsaber Hilt[h3]
       This is a lightsaber hilt template.  Examples include the guard shoto.  Please enter the description of the finished lightsaber here.
     </Description>
-    <Source Page="85">Endless Vigil</Source>
+    <Source Page="85">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <TempType>ctLightsaber</TempType>
     <TimeHours>12</TimeHours>
     <CheckSkills>
@@ -2078,7 +2078,7 @@
       [H3]Double-Bladed Lightsaber[h3]
       This is a lightsaber template.  Examples include the double-bladed lightsaber and Temple Guard lightsaber pike.  Please enter the description of the finished lightsaber here.
     </Description>
-    <Source Page="85">Endless Vigil</Source>
+    <Source Page="85">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <TempType>ctLightsaber</TempType>
     <TimeHours>12</TimeHours>
     <CheckSkills>
@@ -2129,7 +2129,7 @@
       [H3]Double-Bladed Lightsaber Hilt[h3]
       This is a lightsaber hilt template.  Examples include the double-bladed lightsaber and Temple Guard lightsaber pike.  Please enter the description of the finished lightsaber here.
     </Description>
-    <Source Page="85">Endless Vigil</Source>
+    <Source Page="85">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <TempType>ctLightsaber</TempType>
     <TimeHours>12</TimeHours>
     <CheckSkills>
@@ -2175,7 +2175,7 @@
       [H3]Pole Lightsaber[h3]
       This is a lightsaber template.  Examples include the lightsaber pike and long-handle lightsaber.  Please enter the description of the finished lightsaber here.
     </Description>
-    <Source Page="85">Endless Vigil</Source>
+    <Source Page="85">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <TempType>ctLightsaber</TempType>
     <TimeHours>12</TimeHours>
     <CheckSkills>
@@ -2225,7 +2225,7 @@
       [H3]Pole Lightsaber Hilt[h3]
       This is a lightsaber template.  Examples include the lightsaber pike and long-handle lightsaber.  Please enter the description of the finished lightsaber here.
     </Description>
-    <Source Page="85">Endless Vigil</Source>
+    <Source Page="85">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <TempType>ctLightsaber</TempType>
     <TimeHours>12</TimeHours>
     <CheckSkills>
@@ -2270,7 +2270,7 @@
       [H3]Precision Lightsaber[h3]
       This is a lightsaber hilt template.  Examples include shoto, dagger lightsaber, and lightfoil.  Please enter the description of the finished lightsaber here.
     </Description>
-    <Source Page="85">Endless Vigil</Source>
+    <Source Page="85">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <TempType>ctLightsaber</TempType>
     <TimeHours>12</TimeHours>
     <CheckSkills>
@@ -2322,7 +2322,7 @@
       [H3]Precision Lightsaber Hilt[h3]
       This is a lightsaber hilt template.  Examples include shoto, dagger lightsaber, and lightfoil.  Please enter the description of the finished lightsaber here.
     </Description>
-    <Source Page="85">Endless Vigil</Source>
+    <Source Page="85">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <TempType>ctLightsaber</TempType>
     <TimeHours>12</TimeHours>
     <CheckSkills>
@@ -2369,7 +2369,7 @@
       [H3]Standard Lightsaber[h3]
       This is a lightsaber hilt template.  Please enter the description of the finished lightsaber here.
     </Description>
-    <Source Page="85">Endless Vigil</Source>
+    <Source Page="85">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <TempType>ctLightsaber</TempType>
     <TimeHours>6</TimeHours>
     <CheckSkills>
@@ -2411,7 +2411,7 @@
       [H3]Standard Lightsaber Hilt[h3]
       This is a lightsaber hilt template.  Please enter the description of the finished lightsaber here.
     </Description>
-    <Source Page="85">Endless Vigil</Source>
+    <Source Page="85">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <TempType>ctLightsaber</TempType>
     <TimeHours>6</TimeHours>
     <CheckSkills>
@@ -2446,7 +2446,7 @@
       [H3]Bladed Weapon[h3]
       This is a melee weapon template.  Examples include axes, knives, and swords.  Please enter the description of the finished weapon here.
     </Description>
-    <Source Page="76">Special Modifications</Source>
+    <Source Page="76">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctMeleeBrawl</TempType>
     <TimeHours>16</TimeHours>
     <CheckSkills>
@@ -2484,7 +2484,7 @@
       [H3]Powered Melee Weapon[h3]
       This is a melee weapon template.  Examples include electrostaves and force pikes.  Please enter the description of the finished weapon here.
     </Description>
-    <Source Page="76">Special Modifications</Source>
+    <Source Page="76">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctMeleeBrawl</TempType>
     <TimeHours>48</TimeHours>
     <CheckSkills>
@@ -2524,7 +2524,7 @@
       [H3]Powered Melee Weapon (Bludgeoning)[h3]
       This is a melee weapon template.  Examples include electrostaves.  Please enter the description of the finished weapon here.
     </Description>
-    <Source Page="76">Special Modifications</Source>
+    <Source Page="76">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctMeleeBrawl</TempType>
     <TimeHours>48</TimeHours>
     <CheckSkills>
@@ -2565,7 +2565,7 @@
       [H3]Powered Melee Weapon (Cutting Edge)[h3]
       This is a melee weapon template.  Examples include force pikes.  Please enter the description of the finished weapon here.
     </Description>
-    <Source Page="76">Special Modifications</Source>
+    <Source Page="76">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctMeleeBrawl</TempType>
     <TimeHours>48</TimeHours>
     <CheckSkills>
@@ -2606,7 +2606,7 @@
       [H3]Shield[h3]
       This is a shield template.  Examples include bucklers and riot shields.  Please enter the description of the finished shield here.
     </Description>
-    <Source Page="76">Special Modifications</Source>
+    <Source Page="76">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctMeleeBrawl</TempType>
     <TimeHours>8</TimeHours>
     <CheckSkills>
@@ -2649,7 +2649,7 @@
       [H3]Vibro-weapon[h3]
       This is a melee weapon template.  Examples include vibro-axes, vibroknives, and vibroswords.  Please enter the description of the finished weapon here.
     </Description>
-    <Source Page="76">Special Modifications</Source>
+    <Source Page="76">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctMeleeBrawl</TempType>
     <TimeHours>24</TimeHours>
     <CheckSkills>
@@ -2694,7 +2694,7 @@
       [H3]Energy Pistol[h3]
       This is a ranged weapon template.  Examples include blaster pistols.  Please enter the description of the finished weapon here.
     </Description>
-    <Source Page="78">Special Modifications</Source>
+    <Source Page="78">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctRanged</TempType>
     <TimeHours>12</TimeHours>
     <CheckSkills>
@@ -2730,7 +2730,7 @@
       [H3]Energy Rifle[h3]
       This is a ranged weapon template.  Examples include blaster rifles.  Please enter the description of the finished weapon here.
     </Description>
-    <Source Page="78">Special Modifications</Source>
+    <Source Page="78">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctRanged</TempType>
     <TimeHours>16</TimeHours>
     <CheckSkills>
@@ -2766,7 +2766,7 @@
       [H3]Heavy Energy Rifle[h3]
       This is a ranged weapon template.  Examples include heavy blaster rifles and disruptor rifles.  Please enter the description of the finished weapon here.
     </Description>
-    <Source Page="78">Special Modifications</Source>
+    <Source Page="78">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctRanged</TempType>
     <TimeHours>24</TimeHours>
     <CheckSkills>
@@ -2808,7 +2808,7 @@
       [H3]Grenade[h3]
       This is a ranged weapon template.  Examples include frag grenades and stun grenades.  Please enter the description of the finished weapon here.
     </Description>
-    <Source Page="78">Special Modifications</Source>
+    <Source Page="78">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctRanged</TempType>
     <TimeHours>2</TimeHours>
     <CheckSkills>
@@ -2851,7 +2851,7 @@
       [H3]Mine[h3]
       This is a weapon template.  Examples include anti-personnel mines and ion mines.  Please enter the description of the finished weapon here.
     </Description>
-    <Source Page="78">Special Modifications</Source>
+    <Source Page="78">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctRanged</TempType>
     <TimeHours>4</TimeHours>
     <CheckSkills>
@@ -2894,7 +2894,7 @@
       [H3]Missile[h3]
       This is a ranged weapon template.  Examples include missiles and micro torpedoes.  Please enter the description of the finished weapon here.
     </Description>
-    <Source Page="78">Special Modifications</Source>
+    <Source Page="78">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctRanged</TempType>
     <TimeHours>4</TimeHours>
     <CheckSkills>
@@ -2953,7 +2953,7 @@
       [H3]Missile Launcher[h3]
       This is a ranged weapon template.  Examples include missile and torpedo launchers.  Please enter the description of the finished weapon here.
     </Description>
-    <Source Page="78">Special Modifications</Source>
+    <Source Page="78">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctRanged</TempType>
     <TimeHours>16</TimeHours>
     <CheckSkills>
@@ -2986,7 +2986,7 @@
       [H3]Simple Projectile Weapon[h3]
       This is a ranged weapon template.  Examples include bows, slings, and javelins.  Please enter the description of the finished weapon here.
     </Description>
-    <Source Page="78">Special Modifications</Source>
+    <Source Page="78">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctRanged</TempType>
     <TimeHours>4</TimeHours>
     <CheckSkills>
@@ -3027,7 +3027,7 @@
       [H3]Solid Projectile Pistol[h3]
       This is a ranged weapon template.  Examples include slugthrower pistols and flechette pistols.  Please enter the description of the finished weapon here.
     </Description>
-    <Source Page="78">Special Modifications</Source>
+    <Source Page="78">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctRanged</TempType>
     <TimeHours>8</TimeHours>
     <CheckSkills>
@@ -3062,7 +3062,7 @@
       [H3]Solid Projectile Rifle[h3]
       This is a ranged weapon template.  Examples include slugthrower rifles and rail guns.  Please enter the description of the finished weapon here.
     </Description>
-    <Source Page="78">Special Modifications</Source>
+    <Source Page="78">Дополнение: Особые модификации (Special Modifications)</Source>
     <TempType>ctRanged</TempType>
     <TimeHours>8</TimeHours>
     <CheckSkills>

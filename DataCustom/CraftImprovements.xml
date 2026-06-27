@@ -687,7 +687,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMATT</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Integral Attachment</Name>
     <Description>
       Add +1 hard point to armor, then install one applicable armor attachment that requires 1 hard point.
@@ -702,7 +702,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMCOMPLEX</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Complex</Name>
     <Description>
       The armor is difficult to repair.  Increase difficulty of checks to repair armor by {0}.</Description>
@@ -717,7 +717,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMDIFCUST</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Difficult to Customize</Name>
     <Description>
       Increase the difficulty of checks to modify attachments on this armor by {0}.
@@ -733,7 +733,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMDUP</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Duplicate</Name>
     <Description>
       Create one additional, identical set of armor at no cost.</Description>
@@ -745,7 +745,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMEFFCONST</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Efficient Construction</Name>
     <Description>
       Retain supplies worth 50% of the Material Price.
@@ -759,7 +759,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMEXH</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Exhausting Effort</Name>
     <Description>
       Suffer 3 strain when finished with construction.
@@ -772,7 +772,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMEXPENSIVE</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Expensive</Name>
     <Description>
       Whenever armor becomes damaged, the cost to repair is doubled.
@@ -789,7 +789,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMFIT</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Poor Fit</Name>
     <Description>
       Donning and doffing this armor requires one additional action.
@@ -806,7 +806,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMFLAW</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Unexpected Flaw</Name>
     <Description>
       GM may spend 1 Destiny point to cause armor to fail and suffer major damage.  This can be exploited only once.
@@ -826,7 +826,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMFRAG</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Fragile</Name>
     <Description>
       Whenever armor becomes damaged, the damage always counts as moderate unless it would be worse.
@@ -843,7 +843,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMHP</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Extra Hard Point</Name>
     <Description>
       Add 1 hard point to armor.
@@ -856,7 +856,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMHVY</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Heavy</Name>
     <Description>
       Increase encumbrance by 1.
@@ -868,7 +868,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMLESSON</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Lessons Learned</Name>
     <Description>
       Reduce difficulty of next crafting check by 1.
@@ -880,7 +880,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMLIGHT</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Lightweight</Name>
     <Description>
       Reduce encumbrance by 1.
@@ -892,7 +892,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMMDEF</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Extra Melee Defense</Name>
     <Description>
       Add +1 melee defense to armor.
@@ -910,7 +910,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMPRAC</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Practice Makes Perfect</Name>
     <Description>
       Character learns something valuable and gains [BO] on next check with same skill.
@@ -922,7 +922,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMRDEF</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Extra Ranged Defense</Name>
     <Description>
       Add +1 ranged defense to armor.
@@ -940,7 +940,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMRESTR</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Restrictive</Name>
     <Description>
       Wearer adds automatic [TH] to checks with selected skill.</Description>
@@ -962,7 +962,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMSCHEM</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Armor Schematic</Name>
     <Description>
       Permanently reduce difficulty of checks to create armor using this template by {0} (to a minimum of [B]Simple [-][b]).
@@ -975,7 +975,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMSEAL</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Sealable</Name>
     <Description>
       Armor can take the Vacuum Sealed attachment.
@@ -994,7 +994,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMSHORTAGE</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Supply Shortage</Name>
     <Description>
       Cannot finish until more supplies are acquired costing 25% of Material Price.
@@ -1008,7 +1008,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMSOAK</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Extra Soak</Name>
     <Description>Add +1 soak to armor.</Description>
     <CostAdvThr>4</CostAdvThr>
@@ -1019,7 +1019,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMSPECEMB</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Special Embellishment</Name>
     <Description>
       Add automatic [AD] to a chosen skill.
@@ -1043,7 +1043,7 @@
   <CraftImprovement>
     <TempType>ctArmor</TempType>
     <Key>IMPARMWEARTEAR</Key>
-    <Source Page="91">Keeping the Peace</Source>
+    <Source Page="91">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Name>Wear and Tear</Name>
     <Description>
       The tools used to make this armor are damaged {0} step(s).
@@ -1056,7 +1056,7 @@
   <CraftImprovement>
     <TempType>ctCyber</TempType>
     <Key>IMPCYBERDIFFINS</Key>
-    <Source Page="85">Special Modifications</Source>
+    <Source Page="85">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Difficult to Install</Name>
     <Description>
       Increase difficulty of checks to install this cybernetic by {0}.</Description>
@@ -1071,7 +1071,7 @@
   <CraftImprovement>
     <TempType>ctCyber</TempType>
     <Key>IMPCYBEREXH</Key>
-    <Source Page="85">Special Modifications</Source>
+    <Source Page="85">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Exhausting Effort</Name>
     <Description>
       Suffer 3 strain when finished with construction.
@@ -1083,7 +1083,7 @@
   <CraftImprovement>
     <TempType>ctCyber</TempType>
     <Key>IMPCYBERINTTOOL</Key>
-    <Source Page="85">Special Modifications</Source>
+    <Source Page="85">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Integrated Tool</Name>
     <Description>
       Allows character to make checks with a chosen skill.  It can also count as the right tool for the job.
@@ -1098,7 +1098,7 @@
   <CraftImprovement>
     <TempType>ctCyber</TempType>
     <Key>IMPCYBERINWEAP</Key>
-    <Source Page="85">Special Modifications</Source>
+    <Source Page="85">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Inbuilt Weapon</Name>
     <Description>
       Choose a weapon encumbrance 2 or less that the character possesses.  This weapon will be built into the cybernetic.
@@ -1112,7 +1112,7 @@
   <CraftImprovement>
     <TempType>ctCyber</TempType>
     <Key>IMPCYBERION</Key>
-    <Source Page="85">Special Modifications</Source>
+    <Source Page="85">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Ion-Shielded</Name>
     <Description>
       This cybernetic does not shut down as normal when affected by weapons with the Ion quality.
@@ -1132,7 +1132,7 @@
   <CraftImprovement>
     <TempType>ctCyber</TempType>
     <Key>IMPCYBERPRAC</Key>
-    <Source Page="85">Special Modifications</Source>
+    <Source Page="85">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Practice Makes Perfect</Name>
     <Description>
       Character learns something valuable and gains [BO] on next check with same skill.
@@ -1144,7 +1144,7 @@
   <CraftImprovement>
     <TempType>ctCyber</TempType>
     <Key>IMPCYBERSEVFEED</Key>
-    <Source Page="85">Special Modifications</Source>
+    <Source Page="85">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Severe Feedback</Name>
     <Description>
       When making checks using this cybernetic, character implanted with it suffers 1 strain.
@@ -1163,7 +1163,7 @@
   <CraftImprovement>
     <TempType>ctCyber</TempType>
     <Key>IMPCYBERTAIL</Key>
-    <Source Page="85">Special Modifications</Source>
+    <Source Page="85">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Tailored</Name>
     <Description>
       If built for a specific being, this cybernetic does not require a check to be installed in that being.
@@ -1174,7 +1174,7 @@
   <CraftImprovement>
     <TempType>ctCyber</TempType>
     <Key>IMPCYBERUNOB</Key>
-    <Source Page="85">Special Modifications</Source>
+    <Source Page="85">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Unobtrusive</Name>
     <Description>
       Add [SE] to checks to determine that the character has the cybernetic installed.
@@ -1190,7 +1190,7 @@
   <CraftImprovement>
     <TempType>ctCyber</TempType>
     <Key>IMPCYBERWEARTEAR</Key>
-    <Source Page="85">Special Modifications</Source>
+    <Source Page="85">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Wear and Tear</Name>
     <Description>
       The tools used to craft this cybernetic are damaged {0} step(s).
@@ -1203,7 +1203,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDARMORPL</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Armor Plating</Name>
     <Description>Increase droid's soak by 1.</Description>
     <CostAdvThr>3</CostAdvThr>
@@ -1214,7 +1214,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDDEFLCARAP</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Deflective Carapace</Name>
     <Description>
       Increase droid's melee defense by {0}.
@@ -1227,7 +1227,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDDELMECH</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Delicate Mechanisms</Name>
     <Description>
       Increase difficulty of checks to repair this droid by {0}.
@@ -1244,7 +1244,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDDIFFCUST</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Difficult to Customize</Name>
     <Description>
       Increase difficulty of checks to install cybernetics on this droid by {0}.
@@ -1261,7 +1261,7 @@
   <CraftImprovement>
     <TempType>ctDroidDirect</TempType>
     <Key>IMPDROIDDIRADAPPROG</Key>
-    <Source Page="83">Special Modifications</Source>
+    <Source Page="83">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Adaptive Programming</Name>
       <Description>
         Add 1 rank to a skill the droid already possesses.
@@ -1274,7 +1274,7 @@
   <CraftImprovement>
     <TempType>ctDroidDirect</TempType>
     <Key>IMPDROIDDIRARCHFUNC</Key>
-    <Source Page="83">Special Modifications</Source>
+    <Source Page="83">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Archival Functions</Name>
     <Description>
       Add one new Knowledge skill.
@@ -1290,7 +1290,7 @@
   <CraftImprovement>
     <TempType>ctDroidDirect</TempType>
     <Key>IMPDROIDDIRBEHOPT</Key>
-    <Source Page="83">Special Modifications</Source>
+    <Source Page="83">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Behavioral Optimization</Name>
     <Description>
       Add 1 rank to a ranked talent the droid already possesses.
@@ -1303,7 +1303,7 @@
   <CraftImprovement>
     <TempType>ctDroidDirect</TempType>
     <Key>IMPDROIDDIRBROADUTIL</Key>
-    <Source Page="83">Special Modifications</Source>
+    <Source Page="83">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Broad Utility</Name>
     <Description>
       Add one new General skill.
@@ -1319,7 +1319,7 @@
   <CraftImprovement>
     <TempType>ctDroidDirect</TempType>
     <Key>IMPDROIDDIRDEFPROG</Key>
-    <Source Page="83">Special Modifications</Source>
+    <Source Page="83">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Defensive Programming</Name>
     <Description>
       Add one new Combat skill.
@@ -1335,7 +1335,7 @@
   <CraftImprovement>
     <TempType>ctDroidDirect</TempType>
     <Key>IMPDROIDDIRECCEN</Key>
-    <Source Page="83">Special Modifications</Source>
+    <Source Page="83">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Eccentric</Name>
     <Description>
       Add one random negative personality quirk.
@@ -1348,7 +1348,7 @@
   <CraftImprovement>
     <TempType>ctDroidDirect</TempType>
     <Key>IMPDROIDDIRLIMPROG</Key>
-    <Source Page="83">Special Modifications</Source>
+    <Source Page="83">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Limited Programming</Name>
     <Description>
       Upgrade the difficulty of skill checks droid has no ranks in by 1.
@@ -1365,7 +1365,7 @@
   <CraftImprovement>
     <TempType>ctDroidDirect</TempType>
     <Key>IMPDROIDDIRNQUIRK</Key>
-    <Source Page="83">Special Modifications</Source>
+    <Source Page="83">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Negative Quirk</Name>
     <Description>
       Add one negative personality quirk.
@@ -1378,7 +1378,7 @@
   <CraftImprovement>
     <TempType>ctDroidDirect</TempType>
     <Key>IMPDROIDDIRPOORLIST</Key>
-    <Source Page="83">Special Modifications</Source>
+    <Source Page="83">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Poor Listening Skills</Name>
     <Description>
       Add [SE][SE] to checks to give this droid orders.
@@ -1396,7 +1396,7 @@
   <CraftImprovement>
     <TempType>ctDroidDirect</TempType>
     <Key>IMPDROIDDIRPQUIRK</Key>
-    <Source Page="83">Special Modifications</Source>
+    <Source Page="83">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Positive Quirk</Name>
     <Description>
       Droid gets one positive personality quirk.
@@ -1409,7 +1409,7 @@
   <CraftImprovement>
     <TempType>ctDroidDirect</TempType>
     <Key>IMPDROIDDIRRPQUIRK</Key>
-    <Source Page="83">Special Modifications</Source>
+    <Source Page="83">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Random Positive Quirk</Name>
     <Description>
       Droid gets one random positive personality trait.
@@ -1422,7 +1422,7 @@
   <CraftImprovement>
     <TempType>ctDroidDirect</TempType>
     <Key>IMPDROIDDIRSCHEM</Key>
-    <Source Page="83">Special Modifications</Source>
+    <Source Page="83">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Program Pattern</Name>
     <Description>
       Permanently reduce difficulty of checks to program directive using this template by {0} (to a minimum of [B]Simple [-][b]).
@@ -1438,7 +1438,7 @@
   <CraftImprovement>
     <TempType>ctDroidDirect</TempType>
     <Key>IMPDROIDDIRUNKFLAW</Key>
-    <Source Page="83">Special Modifications</Source>
+    <Source Page="83">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Unknown Flaw</Name>
     <Description>
       GM secretly adds {0} negative personality trait.
@@ -1451,7 +1451,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDDOPP</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Doppelganger</Name>
     <Description>Create 1 additional identical droid as part of the construction process.</Description>
     <AffectsCost>false</AffectsCost>
@@ -1464,7 +1464,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDERATCORE</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Erratic Power Core</Name>
     <Description>
       May spend [DE] to have droid shut down until end of encounter.
@@ -1482,7 +1482,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDEXH</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Exhausting Effort</Name>
     <Description>
       Suffer 3 strain when finished with construction.
@@ -1494,7 +1494,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDLESSON</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Lessons Learned</Name>
     <Description>
       Reduce difficulty of next crafting check by 1.
@@ -1506,7 +1506,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDMODHARD</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Modular Hardware</Name>
     <Description>Choose one cybernetic implant. The droid is already installed with this implant.</Description>
     <CostAdvThr>3</CostAdvThr>
@@ -1517,7 +1517,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDNARRPROF</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Narrow Profile</Name>
     <Description>
       Increase droid's ranged defense by {0}.
@@ -1530,7 +1530,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDPRAC</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Practice Makes Perfect</Name>
     <Description>
       Character learns something valuable and gains [BO] on next check with same skill.
@@ -1542,7 +1542,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDREINFCHAS</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Reinforced Chassis</Name>
     <Description>
       Increase droid's wound threshold by {0}.
@@ -1554,7 +1554,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDSCHEM</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Chassis Schematic</Name>
     <Description>
       Permanently reduce difficulty of checks to create droid using this template by {0} (to a minimum of [B]Simple [-][b]).
@@ -1566,7 +1566,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDSIZE</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Unusual Size (Larger)</Name>
     <Description>Increase droid's silhouette by 1.</Description>
     <CostAdvThr>3</CostAdvThr>
@@ -1577,7 +1577,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDSIZED</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Unusual Size (Smaller)</Name>
     <Description>Decrease droid's silhouette by 1.</Description>
     <CostAdvThr>3</CostAdvThr>
@@ -1588,7 +1588,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDSPECHARD</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Specialized Hardware</Name>
     <Description>
       Droid suffers [SE] on skill checks for skills without a rank.
@@ -1605,7 +1605,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDSUPHARD</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Superior Hardware</Name>
     <Description>Increase any 1 of the droid's characteristics by 1.</Description>
     <CostAdvThr>4</CostAdvThr>
@@ -1615,7 +1615,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDUNOB</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Unobtrusive</Name>
     <Description>
       Droid gains {0} rank of the Indistinguishable talent.
@@ -1628,7 +1628,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDVOLACORE</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Volatile Power Core</Name>
     <Description>
       When a Critical Injury kills the droid, it explodes.
@@ -1649,7 +1649,7 @@
   <CraftImprovement>
     <TempType>ctDroid</TempType>
     <Key>IMPDROIDWEARTEAR</Key>
-    <Source Page="81">Special Modifications</Source>
+    <Source Page="81">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Wear and Tear</Name>
     <Description>
       The tools used to make this armor are damaged {0} step(s).
@@ -1801,7 +1801,7 @@
   <CraftImprovement>
     <TempType>ctGadget</TempType>
     <Key>IMPGADGCOMP</Key>
-    <Source Page="84">Special Modifications</Source>
+    <Source Page="84">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Compact</Name>
     <Description>
       Gadget with encumbrance of 3 or less adds [SE] to checks for others to find this item on the wearer's person (max of [SE][SE][SE]).
@@ -1814,7 +1814,7 @@
   <CraftImprovement>
     <TempType>ctGadget</TempType>
     <Key>IMPGADGCRAFT</Key>
-    <Source Page="84">Special Modifications</Source>
+    <Source Page="84">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Supreme Craftsmanship</Name>
     <Description>
       Choose a General skill.  Upgrade checks with that skill made with this tool once.
@@ -1832,7 +1832,7 @@
   <CraftImprovement>
     <TempType>ctGadget</TempType>
     <Key>IMPGADGDELICATE</Key>
-    <Source Page="84">Special Modifications</Source>
+    <Source Page="84">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Delicate</Name>
     <Description>
       A [TH][TH] or [DE] result on any check may cause gadget to be damaged one level.</Description>
@@ -1848,7 +1848,7 @@
   <CraftImprovement>
     <TempType>ctGadget</TempType>
     <Key>IMPGADGDIFFREP</Key>
-    <Source Page="84">Special Modifications</Source>
+    <Source Page="84">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Difficult to Repair</Name>
     <Description>
       Increase difficulty of checks to repair gadget by 1.</Description>
@@ -1863,7 +1863,7 @@
   <CraftImprovement>
     <TempType>ctGadget</TempType>
     <Key>IMPGADGEFFCONST</Key>
-    <Source Page="84">Special Modifications</Source>
+    <Source Page="84">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Efficient Construction</Name>
     <Description>
       Retain supplies worth 50% of the Material Price.
@@ -1877,7 +1877,7 @@
   <CraftImprovement>
     <TempType>ctGadget</TempType>
     <Key>IMPGADGEXH</Key>
-    <Source Page="84">Special Modifications</Source>
+    <Source Page="84">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Exhausting Effort</Name>
     <Description>
       Suffer 3 strain when finished with construction.
@@ -1889,7 +1889,7 @@
   <CraftImprovement>
     <TempType>ctGadget</TempType>
     <Key>IMPGADGFAULT</Key>
-    <Source Page="84">Special Modifications</Source>
+    <Source Page="84">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Faulty</Name>
     <Description>
       Upgrade difficulty of checks made using this gadget once.
@@ -1909,7 +1909,7 @@
   <CraftImprovement>
     <TempType>ctGadget</TempType>
     <Key>IMPGADGFRAGILE</Key>
-    <Source Page="84">Special Modifications</Source>
+    <Source Page="84">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Fragile</Name>
     <Description>
       Whenever gadget becomes damaged one step, it becomes damaged two steps instead.
@@ -1926,7 +1926,7 @@
   <CraftImprovement>
     <TempType>ctGadget</TempType>
     <Key>IMPGADGHVY</Key>
-    <Source Page="84">Special Modifications</Source>
+    <Source Page="84">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Heavy</Name>
     <Description>
       Increase encumbrance by 1.
@@ -1938,7 +1938,7 @@
   <CraftImprovement>
     <TempType>ctGadget</TempType>
     <Key>IMPGADGINWEAP</Key>
-    <Source Page="84">Special Modifications</Source>
+    <Source Page="84">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Inbuilt Weapon</Name>
     <Description>
       Choose a weapon encumbrance 2 or less that the character possesses.  This weapon will be built into the item.
@@ -1952,7 +1952,7 @@
   <CraftImprovement>
     <TempType>ctGadget</TempType>
     <Key>IMPGADGLESSON</Key>
-    <Source Page="84">Special Modifications</Source>
+    <Source Page="84">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Lessons Learned</Name>
     <Description>
       Reduce difficulty of next crafting check by 1.
@@ -1964,7 +1964,7 @@
   <CraftImprovement>
     <TempType>ctGadget</TempType>
     <Key>IMPGADGLIGHT</Key>
-    <Source Page="84">Special Modifications</Source>
+    <Source Page="84">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Lightweight</Name>
     <Description>
       Reduce encumbrance by 1.
@@ -1976,7 +1976,7 @@
   <CraftImprovement>
     <TempType>ctGadget</TempType>
     <Key>IMPGADGPRAC</Key>
-    <Source Page="84">Special Modifications</Source>
+    <Source Page="84">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Practice Makes Perfect</Name>
     <Description>
       Character learns something valuable and gains [BO] on next check with same skill.
@@ -1988,7 +1988,7 @@
   <CraftImprovement>
     <TempType>ctGadget</TempType>
     <Key>IMPGADGSAFETY</Key>
-    <Source Page="84">Special Modifications</Source>
+    <Source Page="84">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Safety Features</Name>
     <Description>
       Add automatic [AD] to checks made with chosen skill.
@@ -2002,7 +2002,7 @@
   <CraftImprovement>
     <TempType>ctGadget</TempType>
     <Key>IMPGADGUNPRES</Key>
-    <Source Page="84">Special Modifications</Source>
+    <Source Page="84">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Unpresentable</Name>
     <Description>
       Decrease base price of this item by 50%.</Description>
@@ -2015,7 +2015,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABER2H</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Two-Handed</Name>
     <Description>
       The lightsaber becomes two-handed, increasing damage and encumbrance.
@@ -2035,7 +2035,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERACCI</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Tragic Accident</Name>
     <Description>
       Character suffers a Critical Injury upon completing the construction of the lightsaber.
@@ -2048,7 +2048,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERATT</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Integral Attachment</Name>
     <Description>
       Add +1 hard point to lightsaber, then install one applicable attachment that requires 1 hard point.
@@ -2063,7 +2063,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERAWK</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Awkward Grip</Name>
     <Description>
       Lightsaber gains the Unwieldy 2 quality, or increases the Unwieldy quality by 1.
@@ -2080,7 +2080,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERCG</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Crossguard</Name>
     <Description>
       Lightsaber gains a crossguard.
@@ -2093,7 +2093,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERCUST</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Customizable</Name>
     <Description>
       Increase the lightsaber's hard points by 1.
@@ -2106,7 +2106,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERCW</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Counterweight</Name>
     <Description>
       Increases encumbrance, gains Cumbersome instead of Unwieldy.
@@ -2119,7 +2119,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERDB</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Delicate Balance</Name>
     <Description>
       Gains Unwieldy instead of Cumbersome.
@@ -2132,7 +2132,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERDISG</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Disguised</Name>
     <Description>
       Add [SE] to checks to identify the lightsaber.
@@ -2148,7 +2148,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERENBLEED</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Energy Bleed</Name>
     <Description>
       Lightsaber gains the Stun 2 quality, or increases the Stun quality by 2.
@@ -2165,7 +2165,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERERRATIC</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Erratic</Name>
     <Description>
       GM may spend [DE] to damage hilt and wielder.
@@ -2182,7 +2182,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABEREXH</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Exhausting Effort</Name>
     <Description>
       Suffer 3 strain when finished with construction.
@@ -2194,7 +2194,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERFAULT</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Faulty Inlay</Name>
     <Description>
       Increase difficulty of modifying lightsaber crystals
@@ -2211,7 +2211,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERFRAG</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Fragile Casing</Name>
     <Description>
       Increase difficulty of checks to repair lightsaber by 1.
@@ -2227,7 +2227,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERFTE</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Fine-Tuned Emitter</Name>
     <Description>
       Add automatic [AD] to combat checks.
@@ -2245,7 +2245,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERHORR</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Horrible Accident</Name>
     <Description>
       (On a failed check) Hilt explodes, causing Critical Injury at +20 and destroying all materials.
@@ -2261,7 +2261,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERHVY</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Heavy</Name>
     <Description>
       Increase encumbrance by 1.
@@ -2273,7 +2273,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERINBUILT</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Inbuilt</Name>
     <Description>
       Choose an item of encumbrance 1 or more that the character possesses.  This lightsaber will be built into that item.
@@ -2286,7 +2286,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERLEARN</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Learning Experience</Name>
     <Description>
       (On a failed check) Crafter learns valuable techniques and gains [BO] on the next attempt to craft the hilt.  Does not need to purchase new materials.
@@ -2299,7 +2299,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERLIGHT</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Lightweight</Name>
     <Description>
       Reduce encumbrance by 1.
@@ -2311,7 +2311,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERME</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Misaligned Emitter</Name>
     <Description>
       Lightsaber requires a maneuver to ignite.
@@ -2328,7 +2328,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERODD</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Oddly Weighted</Name>
     <Description>
       Lightsaber gains the Cumbersome 2 quality, or increases the Cumbersome quality by 1.
@@ -2346,7 +2346,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERPD</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Personalized Design</Name>
     <Description>
       Crafter adds automatic [SU] on successful checks.  Others add [TH].
@@ -2363,7 +2363,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERPERS</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Personalized Inlay</Name>
     <Description>
       Reduce difficulty of checks to modify installed crystals  by 1.
@@ -2380,7 +2380,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERPF</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Poor Focusing Lens</Name>
     <Description>
       Lightsaber gains Inaccurate quality, or decreases its Accurate quality.
@@ -2392,7 +2392,7 @@
   <CraftImprovement>
     <TempType>ctLightsaber</TempType>
     <Key>IMPLTSABERUNST</Key>
-    <Source Page="87">Endless Vigil</Source>
+    <Source Page="87">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Name>Unstable</Name>
     <Description>
       GM may spend [DE] from combat checks to short out lightsaber.
@@ -2409,7 +2409,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEE2H</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Two-Handed</Name>
     <Description>
       The weapon becomes two-handed, increasing damage and encumbrance.
@@ -2422,7 +2422,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEACCQ</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Accurate Quality</Name>
     <Description>
       This weapon gains the Accurate 1 quality, or increases Accurate quality by 1 (to a maximum of 3).
@@ -2440,7 +2440,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEATT</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Integral Attachment</Name>
     <Description>
       Add +1 hard point to weapon, then install one applicable weapon attachment that requires 1 hard point.
@@ -2455,7 +2455,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEBRITT</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Brittle</Name>
     <Description>
       On a [DE] result from a combat check, weapon becomes damaged one level.</Description>
@@ -2470,7 +2470,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEECONCQ</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Concussive Quality</Name>
     <Description>
       This weapon gains the Concussive 1 quality.
@@ -2488,7 +2488,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEECUMBQ</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Cumbersome Quality</Name>
     <Description>
       This weapon gains the Cumbersome 1 quality, or increases Cumbersome quality by 1.
@@ -2505,7 +2505,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEECUST</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Customizable</Name>
     <Description>
       Increase the weapon's hard points by 1.
@@ -2518,7 +2518,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEDEFLQ</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Deflection Quality</Name>
     <Description>
       This weapon gains the Deflection 1 quality, or increases Deflection quality by 1 (to a maximum of 3).
@@ -2536,7 +2536,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEDEFQ</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Defensive Quality</Name>
     <Description>
       This weapon gains the Defensive 1 quality, or increases Defensive quality by 1 (to a maximum of 3).
@@ -2554,7 +2554,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEDESTR</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Destructive</Name>
     <Description>
       Increases weapon's damage by 1.
@@ -2567,7 +2567,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEDIFFREP</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Difficult to Repair</Name>
     <Description>
       The weapon is difficult to repair.  Increase difficulty of checks to repair weapon by 1.</Description>
@@ -2582,7 +2582,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEEFFCONST</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Efficient Construction</Name>
     <Description>
       Retain supplies worth 50% of the Material Price.
@@ -2596,7 +2596,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEENSQ</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Ensnare Quality</Name>
     <Description>
       This weapon gains the Ensnare 1 quality, or increases Ensnare quality by 1.
@@ -2613,7 +2613,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEEXH</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Exhausting Effort</Name>
     <Description>
       Suffer 3 strain when finished with construction.
@@ -2625,7 +2625,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEFLAW</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Hidden Flaw</Name>
     <Description>
       GM may spend 1 Destiny point to cause weapon to fracture or break, suffering major damage.  This can be exploited only once.
@@ -2645,7 +2645,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEHARDMOD</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Hard to Modify</Name>
     <Description>
       Increase the difficulty of checks to modify attachments on this weapon by 1.
@@ -2661,7 +2661,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEHVY</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Heavy</Name>
     <Description>
       Increase encumbrance by 1.
@@ -2673,7 +2673,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEINACCQ</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Inaccurate Quality</Name>
     <Description>
       This weapon gains the Inaccurate 1 quality, or increases Inaccurate quality by 1.
@@ -2690,7 +2690,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEKNOCK</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Knockdown Quality</Name>
     <Description>
       This weapon gains the Knockdown quality.
@@ -2708,7 +2708,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEELESSON</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Lessons Learned</Name>
     <Description>
       Reduce difficulty of next crafting check by 1.
@@ -2720,7 +2720,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEELETHAL</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Lethal</Name>
     <Description>
       Decreases weapon's critical rating by 1.
@@ -2733,7 +2733,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEELIGHT</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Lightweight</Name>
     <Description>
       Reduce encumbrance by 1.
@@ -2745,7 +2745,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEPIERCEQ</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Pierce Quality</Name>
     <Description>
       This weapon gains the Pierce 1 quality, or increases Pierce quality by 1.
@@ -2762,7 +2762,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEPRAC</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Practice Makes Perfect</Name>
     <Description>
       Character learns something valuable and gains [BO] on next check with same skill.
@@ -2774,7 +2774,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEESCHEM</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Schematic</Name>
     <Description>
       Permanently reduce difficulty of checks to create weapons using this template by {0} (to a minimum of [B]Simple [-][b]).
@@ -2786,7 +2786,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEESTUNQ</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Stun Quality</Name>
     <Description>
       This weapon gains the Stun 1 quality, or increases Stun quality by 1.
@@ -2803,7 +2803,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEESUNDQ</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Sunder Quality</Name>
     <Description>
       This weapon gains the Sunder quality.
@@ -2821,7 +2821,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEVICQ</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Vicious Quality</Name>
     <Description>
       This weapon gains the Vicious 1 quality, or increases Vicious quality by 1 (to a maximum of 5).
@@ -2839,7 +2839,7 @@
   <CraftImprovement>
     <TempType>ctMeleeBrawl</TempType>
     <Key>IMPMELEEWEARTEAR</Key>
-    <Source Page="77">Special Modifications</Source>
+    <Source Page="77">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Wear and Tear</Name>
     <Description>
       The tools used to make this armor are damaged {0} step(s).
@@ -2852,7 +2852,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDACCQ</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Accurate Quality</Name>
     <Description>
       This weapon gains the Accurate 1 quality, or increases Accurate quality by 1 (to a maximum of 3).
@@ -2870,7 +2870,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDAMMOINEFF</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Ammunition-Inefficient</Name>
     <Description>
       [TH][TH][TH] may cause weapon to run out of ammunition.
@@ -2887,7 +2887,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDATT</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Integral Attachment</Name>
     <Description>
       Add +1 hard point to weapon, then install one applicable weapon attachment that requires 1 hard point.
@@ -2902,7 +2902,7 @@
     <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDAUTOFQ</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Auto-Fire Quality</Name>
     <Description>
       This weapon gains the Auto-Fire quality.
@@ -2919,7 +2919,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDBLASTQ</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Blast Quality</Name>
     <Description>
       This weapon gains the Blast 5 quality, or increases Blast quality by 2.
@@ -2937,7 +2937,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDBURNQ</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Burn Quality</Name>
     <Description>
       This weapon gains the Burn 1 quality, or increases Burn quality by 1.
@@ -2954,7 +2954,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDCONCQ</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Concussive Quality</Name>
     <Description>
       This weapon gains the Concussive 1 quality.
@@ -2972,7 +2972,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDCUMBQ</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Cumbersome Quality</Name>
     <Description>
       This weapon gains the Cumbersome 1 quality, or increases Cumbersome quality by 1.
@@ -2989,7 +2989,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDCUST</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Customizable</Name>
     <Description>
       Increase the weapon's hard points by 1.
@@ -3002,7 +3002,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDDESTR</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Destructive</Name>
     <Description>
       Increases weapon's damage by 1.
@@ -3015,7 +3015,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDDIFFREP</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Difficult to Repair</Name>
     <Description>
       The weapon is difficult to repair.  Increase difficulty of checks to repair weapon by 1.</Description>
@@ -3030,7 +3030,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDDISORQ</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Disorient Quality</Name>
     <Description>
       This weapon gains the Disorient 1 quality, or increases Disorient quality by 1.
@@ -3047,7 +3047,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDEFFCONST</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Efficient Construction</Name>
     <Description>
       Retain supplies worth 50% of the Material Price.
@@ -3061,7 +3061,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDENSQ</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Ensnare Quality</Name>
     <Description>
       This weapon gains the Ensnare 1 quality, or increases Ensnare quality by 1.
@@ -3078,7 +3078,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
       <Key>IMPRANGEDEXH</Key>
-      <Source Page="79">Special Modifications</Source>
+      <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
       <Name>Exhausting Effort</Name>
     <Description>
       Suffer 3 strain when finished with construction.
@@ -3090,7 +3090,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDEXMAG</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Expanded Magazine</Name>
     <Description>
       If weapon has Limited Ammo, increase by {0}.
@@ -3102,7 +3102,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDEXPENSIVE</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Expensive</Name>
     <Description>
       Whenever weapon becomes damaged, the cost to repair is doubled.
@@ -3119,7 +3119,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDHARDMOD</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Hard to Modify</Name>
     <Description>
       Increase the difficulty of checks to modify attachments on this weapon by 1.
@@ -3135,7 +3135,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDHVY</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Heavy</Name>
     <Description>
       Increase encumbrance by 1.
@@ -3147,7 +3147,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDINACCQ</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Inaccurate Quality</Name>
     <Description>
       This weapon gains the Inaccurate 1 quality, or increases Inaccurate quality by 1.
@@ -3164,7 +3164,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDINCRANGE</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Increase Range</Name>
     <Description>
       Increase the weapon's range by {0} range band.
@@ -3177,7 +3177,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDIONQ</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Ion Quality</Name>
     <Description>
       This weapon gains the Ion quality.
@@ -3194,7 +3194,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDKNOCKQ</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Knockdown Quality</Name>
     <Description>
       This weapon gains the Knockdown quality.
@@ -3211,7 +3211,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDLESSON</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Lessons Learned</Name>
     <Description>
       Reduce difficulty of next crafting check by 1.
@@ -3223,7 +3223,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDLETHAL</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Lethal</Name>
     <Description>
       Reduce weapon's critical rating by 1.
@@ -3236,7 +3236,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDLIGHT</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Lightweight</Name>
     <Description>
       Reduce encumbrance by 1.
@@ -3248,7 +3248,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDLIMAMMOQ</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Limited Ammo Quality</Name>
     <Description>
       If weapon has Limited Ammo, decrease by {0}.  If not, gains Limited Ammo 3.
@@ -3260,7 +3260,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDPIERCEQ</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Pierce Quality</Name>
     <Description>
       This weapon gains the Pierce 1 quality, or increases Pierce quality by 1.
@@ -3277,7 +3277,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDPRAC</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Practice Makes Perfect</Name>
     <Description>
       Character learns something valuable and gains [BO] on next check with same skill.
@@ -3289,7 +3289,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDPREPQ</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Prepare Quality</Name>
     <Description>
       This weapon gains the Prepare 1 quality, or increases Prepare quality by 1.
@@ -3306,7 +3306,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDSCHEM</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Schematic</Name>
     <Description>
       Permanently reduce difficulty of checks to create weapon using this template by {0} (to a minimum of [B]Simple [-][b]).
@@ -3319,7 +3319,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDSLOWQ</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Slow-Firing Quality</Name>
     <Description>
       This weapon gains the Slow-Firing 1 quality, or increases Slow-Firing quality by 1.
@@ -3336,7 +3336,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDSTUNQ</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Stun Quality</Name>
     <Description>
       This weapon gains the Stun 3 quality, or increases Stun quality by 1.
@@ -3353,7 +3353,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDSTUNSETQ</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Stun Setting Quality</Name>
     <Description>
       This weapon gains the Stun Setting quality.
@@ -3370,7 +3370,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDVICQ</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Vicious Quality</Name>
     <Description>
       This weapon gains the Vicious 1 quality, or increases Vicious quality by 1 (to a maximum of 5).
@@ -3388,7 +3388,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDVOLA</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Dangerously Volatile</Name>
     <Description>
       GM may spend [DE] from any combat check to have this weapon explode.
@@ -3408,7 +3408,7 @@
   <CraftImprovement>
     <TempType>ctRanged</TempType>
     <Key>IMPRANGEDWEARTEAR</Key>
-    <Source Page="79">Special Modifications</Source>
+    <Source Page="79">Дополнение: Особые модификации (Special Modifications)</Source>
     <Name>Wear and Tear</Name>
     <Description>
       The tools used to make this armor are damaged {0} step(s).

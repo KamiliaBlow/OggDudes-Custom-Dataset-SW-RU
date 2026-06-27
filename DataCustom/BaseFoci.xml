@@ -181,7 +181,7 @@ A training camp prepares units in essential tactics. Some trainees might have al
       [H4]Computer Shop[h4]
 [B]Party Career Skill:[b] Computers
 [P]Shop dealing with computer repairs and services.</Description>
-    <Source Page="94">Special Modifications</Source>
+    <Source Page="94">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <CareerSkillKeys>
       <Key>COMP</Key>
@@ -195,7 +195,7 @@ A training camp prepares units in essential tactics. Some trainees might have al
 [B]Party Career Skill:[b] Mechanics
 [P]Workshop dealing in all kinds of repairs.
     </Description>
-    <Source Page="94">Special Modifications</Source>
+    <Source Page="94">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <CareerSkillKeys>
       <Key>MECH</Key>
@@ -209,7 +209,7 @@ A training camp prepares units in essential tactics. Some trainees might have al
 [B]Party Career Skill:[b] Cybernetics
 [P]Shop dealing in the construction and maintenance of cybernetic limbs.
     </Description>
-    <Source Page="94">Special Modifications</Source>
+    <Source Page="94">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <CareerSkillKeys>
       <Key>MED</Key>

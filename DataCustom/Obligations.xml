@@ -6,7 +6,7 @@
     <Description>
       [H4]Addiction[h4]
 The character has a strong addiction he must keep feeding. Whether it's a physical addiction to stims, dust, or alcohol, or a mental addiction such as gambling, law-breaking, or priceless antiques, the character devotes a lot of time, energy, and resources to pursuing or obtaining the object of his addiction. Avoiding this Obligation has an almost immediate result - withdrawal. The exact nature depends on the addiction, but the character finds it increasingly difficult to concentrate on even mundane tasks, often reflected in the GM adding anywhere from [SE] to [SE][SE][SE] to skill checks.</Description>
-    <Source Page="39">Edge of the Empire Core Rulebook</Source>
+    <Source Page="39">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -53,7 +53,7 @@ as simple as unexpected bills or an afternoon of repairing moisture vaporators o
       [H4]Betrayal[h4]
 This Obligation can work in one of two ways: either the character is the target of a deep and personal betrayal, or the character is the one who betrayed others. Whether it's as simple as a betrayed confidence or broken promise or as serious as treason or mutiny, the betrayal eats away at the character and affects his everyday life. The target of the betrayal may seek answers, compensation, or simply revenge.</Description>
     <Sources>
-      <Source Page="39">Edge of the Empire Core Rulebook</Source>
+      <Source Page="39">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="17">Дополнение: Непринужденный полет (Fly Casual)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -64,7 +64,7 @@ This Obligation can work in one of two ways: either the character is the target 
     <Description>
       [H4]Blackmail[h4]
 Someone has discovered one of the PC's dirty secrets and is using that knowledge for some sort of gain. To make matters worse, the blackmailer possesses evidence that could possibly leak out - a holovid, bank records, a weapon used during a crime, and so on. In order to keep the secret safe, the character must do what he is told, although the blackmailer is savvy enough to keep the demand simple enough to maintain the blackmail for as long as possible, generally demanding money or favors.</Description>
-    <Source Page="39">Edge of the Empire Core Rulebook</Source>
+    <Source Page="39">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -74,7 +74,7 @@ Someone has discovered one of the PC's dirty secrets and is using that knowledge
       [H4]Bounty[h4]
 For some reason, the character has a price on his head. This may be in the form of a legal warrant or contract by criminals, collection agencies, or even someone who felt his honor violated in some way. What he did to earn this mark is up to his background, and the severity of his actions can be based on the size of his Obligation.</Description>
     <Sources>
-      <Source Page="39">Edge of the Empire Core Rulebook</Source>
+      <Source Page="39">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="17">Дополнение: Далекие горизонты (Far Horizons)</Source>
       <Source Page="17">Дополнение: Непринужденный полет (Fly Casual)</Source>
     </Sources>
@@ -96,7 +96,7 @@ In the pursuit of a past contract, the character was careless. He accidentally d
       [H4]Contract[h4]
 The PC has a pressing contract to fulfill, whether it is legally binding or an informal deal. The contract may be for providing, installing or repairing technical items, or on call services. Fulfilling terms of the contract reduces the character's obligation, while putting them off or incurring expenses for the sake of fulfilling the contract might increase it.</Description>
     <Sources>
-      <Source Page="18">Special Modifications</Source>
+      <Source Page="18">Дополнение: Особые модификации (Special Modifications)</Source>
       <Source Page="19">No Disintegrations</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -116,7 +116,7 @@ The Colonist has entered into a long-term contract with a corporation or governm
     <Description>
       [H4]Crew[h4]
 The PC has an Obligation to keep a work crew or ship's complement safe, healthy and in work. Whether or not the PC usually travels with the work crew, this character serves as a mediator between the crew and outside individuals. The PC might owe the debt due from a time the crew saved the PC's career or even life through hard work and sacrifice.</Description>
-    <Source Page="18">Special Modifications</Source>
+    <Source Page="18">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -126,7 +126,7 @@ The PC has an Obligation to keep a work crew or ship's complement safe, healthy 
       [H4]Criminal[h4]
 The character has a criminal record, or was accused of a crime (perhaps one he didn't even commit), and is somehow embroiled in the legal system. Obligation may be settled by paying ongoing legal costs, making attempts to bury evidence, or efforts to prove his innocence.</Description>
     <Sources>
-      <Source Page="39">Edge of the Empire Core Rulebook</Source>
+      <Source Page="39">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="17">Дополнение: Непринужденный полет (Fly Casual)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -138,7 +138,7 @@ The character has a criminal record, or was accused of a crime (perhaps one he d
       [H4]Debt[h4]
  The character owes someone a great deal, whether that debt consists of money or something else. Perhaps the PC has a huge gambling debt to a Hutt, is indebted to the Czerka Corporation for his starship, owes a wealthy family for patronage, or has some other serious financial obligation. To make matters worse, depending on who owns the debt, even fully paying it off might not get the character completely off the hook - if the character can get that money, he can surely get more.</Description>
     <Sources>
-      <Source Page="39">Edge of the Empire Core Rulebook</Source>
+      <Source Page="39">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="17">Дополнение: Далекие горизонты (Far Horizons)</Source>
       <Source Page="17">Дополнение: Непринужденный полет (Fly Casual)</Source>
     </Sources>
@@ -159,7 +159,7 @@ The Colonist did something shameful, often some social taboo that isn't quite il
     <Description>
       [H4]Dutybound:[h4]
 The PC has a deep sense of duty that he feels compelled to fulfill, such as military service, making good on a contract, or following some sort of thieves' code. Unlike the Oath Obligation (see below), a Dutybound character has some legal or ritualistic bind to an organization or cause making it extremely difficult or detrimental if he fails to live up to that commitment.</Description>
-    <Source Page="39">Edge of the Empire Core Rulebook</Source>
+    <Source Page="39">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -177,7 +177,7 @@ Going up against politically connected members of the Galactic Empire is a good 
     <Description>
       [H4]Failed Installation/Repair[h4]
 A botched modification, installation, or repair job has publicly damaged the character's reputation and rendered the device, droid or vehicle inoperable. The PC must take action to restore the damaged item, and find a way to socially engineer a return to good standing in the public eye.</Description>
-    <Source Page="18">Special Modifications</Source>
+    <Source Page="18">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -187,7 +187,7 @@ A botched modification, installation, or repair job has publicly damaged the cha
       [H4]Family[h4]
 The character has deep ties with his family that require a great deal of time and attention. This could include providing care for or assistance to siblings or parents, the management of an inheritance, trust, or family business, or simply mediating between squabbling family members.</Description>
     <Sources>
-      <Source Page="39">Edge of the Empire Core Rulebook</Source>
+      <Source Page="39">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="17">Дополнение: Далекие горизонты (Far Horizons)</Source>
       <Source Page="17">Дополнение: Непринужденный полет (Fly Casual)</Source>
     </Sources>
@@ -209,7 +209,7 @@ The character's reputation casts a long shadow. Perhaps the PC took a famous and
       [H4]Favor[h4]
 The PC owes a big favor. Perhaps officials looked the other way when he smuggled in goods, or a friend got him out of prison. Regardless, the favors are stacking up, and soon he's going to be asked to pay them back or return the favor. This favor may be called in a little at a time, prolonging the Obligation.</Description>
     <Sources>
-      <Source Page="39">Edge of the Empire Core Rulebook</Source>
+      <Source Page="39">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="17">Дополнение: Далекие горизонты (Far Horizons)</Source>
       <Source Page="17">Дополнение: Непринужденный полет (Fly Casual)</Source>
     </Sources>
@@ -221,7 +221,7 @@ The PC owes a big favor. Perhaps officials looked the other way when he smuggled
     <Description>
       [H4]Fervor[h4]
 The character is possessed of a powerful drive to act based on religious or spiritual beliefs. As an Obligation, Fervor means that he cannot resist acting in accordance with his beliefs and teachings. He may even have those who support him in some way (thus explaining the resources he potentially attains due to the Obligation), further exhorting him to follow "the Way" they all revere. Consider the Archaeologist who seeks temples dedicated to a lost god or the Big-Game Hunter who truly believes that it his divine destiny to eradicate "monsters" throughout the galaxy.</Description>
-    <Source Page="19">Enter the Unknown</Source>
+    <Source Page="19">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -266,7 +266,7 @@ If a Smuggler has Notoriety Obligation, then he will be unable to travel incogni
     <Description>
       [H4]Oath[h4]
 The character has sworn some sort of oath that dictates his thoughts and actions, shaping his moral view of the world. This could be an oath to a deity, a way of living (such as the Jedi Code), or a willingness to sacrifice for the betterment of some group or cause. Whatever the case, the Oath should be both serious and make life difficult in some ways for the character. It is a personal and deep undertaking, possibly without a truly obtainable end goal in sight. Characters who do not live up to this oath face an internal and moral struggle.</Description>
-    <Source Page="39">Edge of the Empire Core Rulebook</Source>
+    <Source Page="39">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -275,7 +275,7 @@ The character has sworn some sort of oath that dictates his thoughts and actions
     <Description>
       [H4]Obsession[h4]
 The PC has some unhealthy obsession that tends to interfere in his life, whether with a celebrity, a region, a political movement, a cultural icon, or some other facet of society or life. He must pursue this, possibly to the detriment of his health, finances, or well-being. A character with this Obligation tends to get along well with others that share his interest, but is looked at with pity, amusement, or even a bit of fear from others who don't understand.</Description>
-    <Source Page="39">Edge of the Empire Core Rulebook</Source>
+    <Source Page="39">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -312,7 +312,7 @@ The character claimed to be someone else, taking credit for his accomplishments 
       [H4]Responsibility[h4]
 A character with the Responsibility Obligation feels a strong sense of accountability or relationship to a person, place, or thing (a responsibility to kin falls under Family Obligation described above). This could include a strong connection to a mentor, a strong desire to care for orphans in a given location, or taking on the needs of an under-represented minority.</Description>
     <Sources>
-      <Source Page="39">Edge of the Empire Core Rulebook</Source>
+      <Source Page="39">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="17">Дополнение: Далекие горизонты (Far Horizons)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -350,7 +350,7 @@ Although the Smuggler might act like he's his own boss, he is actually the prope
     <Description>
       [H4]Sponsorship[h4]
 This represents a legitimate faction that has placed a great deal of resources in the hands of a character (or a team) for some established purpose. For many Explorers, it is the common Obligation they will incur. It could be a mercantile consortium that sponsors a Trader in order to open up trade with a new planet or civilization or an Imperial agency sponsoring a Scout to investigate a newly discovered star and its planets. Archaeologists are frequently sponsored by academies or other scholastically minded organizations for their expeditions, and Big-Game Hunters may well be sponsored by a conservation group to thin a particular population of beasts... or sponsored by less savory firms to completely eradicate a particular life-form.</Description>
-    <Source Page="19">Enter the Unknown</Source>
+    <Source Page="19">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -377,7 +377,7 @@ The Smuggler is under contract to obtain rare goods, transport volatile cargo, o
     <Description>
       [H4]Unfinished Business[h4]
 The PC is working on a long-term project such as a complex computer program or a light freighter refit. It may be personal or commissioned work. While long breaks may be acceptable, the Obligation cannot be totally fulfilled until the unfinished business is complete and it weighs heavily on the PC's mind whenever the character chooses to postpone working on it for any reason.</Description>
-    <Source Page="18">Special Modifications</Source>
+    <Source Page="18">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>

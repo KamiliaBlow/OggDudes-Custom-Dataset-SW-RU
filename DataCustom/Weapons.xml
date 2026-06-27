@@ -2594,7 +2594,7 @@ The BlasTech Industries Relby-K23 blaster pistol is a sidearm banned from civili
       [H3]BlasTech DL-19C Blaster Pistol[h3]
 BlasTech's venerable DL-18 is one of the more common blaster pistols across the galaxy, and has been a considerable success for BlasTech for years. The DL-19C is a mcuh more specialised weapon, targeted at a niche market of weapon hobbyists, perfectionists and others who want the ability to adjust every aspect of the weapon to their personal taste, from the sensitivity of the trigger, to the shape of the barrel, to the energy outflow from the charge pack. While these guns are produced in limited number, discerning firearms enthusiasts often recognise each other based on possession of this weapon.
 [P]When a character applies the Jury Rigged talent to this weapon, he may select one additional option from the talent's list and apply it to the weapon. The character cannot select the same option twice.</Description>
-    <Source Page="44">Special Modifications</Source>
+    <Source Page="44">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -2746,7 +2746,7 @@ The DC-15 was, before the introduction of the DC-15A carbine, the standard issue
 A modular rifle that the Drearian Defense Conglomerate designed for the Confederacy of Independent Systems during the Clone Wars, the MR6 comes with an electromagnetic rail system that enables the user to reconfigure the weapon quickly for different situations. The "rails" (actually electromagnetic strips along the body of the rifle) allow a user to quickly swap attachments even in the heat of battle. Due to the high cost of the weapon, the Seperatists never purchased more than an experimental manufacturing run before moving on to cheaper alternatives. Nontheless, a few of these rare guns remain in circulation, in the hands of collectors or mercenaries who need a versatile weapon that fulfills a wide variety of needs.
 [P]A character may make an [B]Average ([DI][DI]) Mechanics check[b] to add or remove an attachment to a DDC-MR6 as an action rather than spending the usual time required to remove attachment (see [B]Removing Attachments[b], on page 93).
     </Description>
-    <Source Page="44">Special Modifications</Source>
+    <Source Page="44">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
     <Damage>7</Damage>
@@ -4105,7 +4105,7 @@ The making and use of cortosis swords is, perhaps, as old as the making and use 
 The CR-8 is a high-performance blaster rifle designed for use by CorSec snipers and secret agents. Built to exacting specifications by Corellian Arms, the CR-8 is a long, deadly looking weapon designed for pinpoint accuracy at very long ranges. Just shy of two meters in length, the CR-8 is equipped with a precision barrel, lightweight, matte finish composite furniture, and a highpowered sight. It also features an integrated energy damper that reduces its report and muzzle flash. The weapon's firing system uses a supercharged actuator, upgraded XCiter, and a high-output proprietary blaster gas. These modifications increase power and reduce beam refraction and degradation, allowing the weapon to accurately hit targets at ranges well beyond normal blaster rifle range. The downside is that the weapon produces an inordinate amount of heat, which it must offset with a low rate of fire.
 [P]Perhaps the CR-8's most unique aspect is its transportability, the weapon is designed to be broken down into its core components quickly  and easily. with just a few moments of work, the CR-8 can be disassembled into five separate components: berrel, stock, reciever, sight, and energy damper. Obstensibly, this feature was added to the weapon to assist in carrying and storing it. As an added side effect, however, the takedown feature makes these weapons extremely easy to hide and very attractive for professional killers. A CR-8 is nearly impossible to find when hidden, thanks to the takedown feature and its unique finish.
 [P]When a CR-8 is properly broken down and concealed add [SE][SE] to a character's Perception checks made to find it on a person's body.</Description>
-    <Source Page="40">Savage Spirits</Source>
+    <Source Page="40">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -4203,7 +4203,7 @@ Tools capable of generating intense cold are critical when dealing with preserva
       [H3]Rodian Cryogen Whip[h3]
 [P]Developed by Rodian hunters as an offensive weapon, the cryogen whip appears to be little more than an offensive whip with an outer coating of metal rungs. The cryogen whip's relatively mundane outer appearance belies the fact that supercooled cryogen circulates at its core, chilling the outer panels When properly used, the whip generates a stunning blast and a loud, earsplitting crack. The whip's coils also conduct the cryogen's frigid temperature, leaving targets covered in frostbitten welts and cuts.
 [P]This weapon can be used to make melee attacks against targets at up to short range (the difficulty remains Average ([DI][DI])).</Description>
-    <Source Page="45">Keeping the Peace</Source>
+    <Source Page="45">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories />
@@ -4990,7 +4990,7 @@ These weighty, deadly pistols are a favorite of both smugglers and mercenaries. 
       [H3]Blastech DLS-12 Heavy Blaster Carbine[h3]
 [P]The DLS-12 is a specialized version of the larger DLT-19 heavy blaster rifle. While it possesses many of the same features at the DLT-19, the DLS-12's barrel has been shortened to reduce its bulk. Obviously, the shorter barrel results in reduced range, but given that it is designed for close assault, this is not considered a major drawback.
 [P]Designed during the last few months of the Clone Wars, the DLS-12 saw limited use by Republic forces. Republic (and, later Imperial) troops tended to eschew it in favor of heavy blaster rifles, though some specialized units prefer its shorter range and lighter weight. As a result, surplus heavy blaster carbines have found their way into arsenals across the galaxy. </Description>
-    <Source Page="42">Keeping the Peace</Source>
+    <Source Page="42">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -5244,7 +5244,7 @@ The E-11D is the standard-issue longarm of the death troopers. Designed for the 
 Developed from the venerable E-11 blaster rifle, BlasTech's E-11s was designed primarily as a dedicated marksman's rifle for use by the Galactic Empire. A large, sleek, and deadly-looking weapon, the E-11s is nearly as long as a grown human is tall, with a shroud-ed barrel that makes up fully half of its length. Excellent balance and precision-fit components help compensate for this, however, and the E-11 s is quite easy to carry and shoot for a weapon of its size. The E-1Is is incredibly popular among the Empire's scout and reconnaissance forces, whose missions typically see them operating in conditions where the long range and pinpoint accuracy of a dedicated sniper weapon can be used to their fullest potential. In the field, the E-11s grants a small reconnaissance squad incredible reach and allows them to project their force at ranges unmatched by most military units. Officially, the E-11 s carries a restricted rating, limiting it to governmental, military, and law-enforcement use only. That being said, more than a few of these powerful rifles have fallen out of the backs of speeder trucks, so to speak. Those that have found their way into civilian hands make for excellent hunting and sniping weapons, and their performance nearly makes up for the serious risks involved in owning them.
 
 [P]E-11s rifles are equipped with relatively light-weight, matte-finish composite furniture that absorbs light, a fixed stock, and a powerful multioptical telescopic sight. The rifle's firing mechanism uses a supercharged actuating module, upgraded exciter, and extremely volatile, highly compressed blaster gasses to increase the range and penetration of the blaster bolt. This extra power has the added side effect of reducing refraction and beam degradation, allowing it to maintain both its penetration and stopping power at incredible range. While this makes for a powerful weapon, especially in the hands of a talented marksman, it also makes for a weapon that consumes quite a bit of energy and as such has a limited ammunition capacity (a rarity in blasters). These rifles also emit an enormous amount of heat when firing, thanks to their supercharged firing systems. To compensate for this, the E-11 s has a slow rate of fire to allow for cool-down, and the barrel is insulated with a triple-redundant nitrogen cooling system. </Description>
-    <Source Page="38">Enter the Unknown</Source>
+    <Source Page="38">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -5435,7 +5435,7 @@ Electrostaffs first saw widespread use during the Clone Wars among Separatist fo
       [H3]Electromag-Pulse Disruptor[h3]
 An electromag-pulse disruptor is a device is a slim stylus used to short out electronic equipment. While some Technicians who work with droids or computer systems that might run out of control need such a device to anyone who ends up in a combat situation. In the Core Worlds, machinists rarely need to concern themselves with such risks, but in the Outer Rim, where marauders and pirates about, possession of such a device can mean the difference between life and death.
 [P]Add [BO][BO] to any check the character makes to sabotage electronics or computers. Add [SE] to a character's perception checks made to find this weapon on a person's body.</Description>
-    <Source Page="44">Special Modifications</Source>
+    <Source Page="44">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>MELEE</SkillKey>
     <Damage>5</Damage>
@@ -5475,7 +5475,7 @@ An electromag-pulse disruptor is a device is a slim stylus used to short out ele
     <Description>
       [H3]Electronet[h3]
 [P]Electronets were once preferred by the Republic Scout Service when capturing newly discovered animals on alien worlds. They have since become popular with bounty hunters and law enforcers the galaxy over. Constructed of duracord with interwoven stun threads or beads, electrones can be manually draped over targets to ensnare them They are also capable of being loaded into net guns for ranged applications, or used as ground traps by canny hunters. Traditional activation of an electronet is accomplished with a handheld transmitter to avoid unintenionally stunning the user. Alternatively, a user might wear insulated glives to protect against the nets incapacitating charge. </Description>
-    <Source Page="44">Keeping the Peace</Source>
+    <Source Page="44">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Thrown</Type>
     <Categories />
@@ -5586,7 +5586,7 @@ The ELG-3A differs slightly from the Merr-Sonn 02 model of blaster pistol, but s
       [H3]Energy Buckler[h3]
 [P]An energy buckler consists of a metallic disc worn on the wielder's wrist. Once active, the disk projects a small, circular shield that can be used to block melee attacks. Given the nature of the energy shield, it can also be used a s a melee weapon to bash targets with a stunning blow. Though an active energy buckletr projects of a relatively nondescript circular energy field, the projecter disks themselves are often decorated to appear as mundane jewelry. An energy buckler has steep power requirements and can only be used for a short period of time before it must be recharged.
 [P]When the wielder is using an energy buckler, the GM can spend any [DE] the wielder generates on a combat check to have the energy buckler run out of power; it ceases to function until the end of the encounter or until recharged.</Description>
-    <Source Page="45">Keeping the Peace</Source>
+    <Source Page="45">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -5636,7 +5636,7 @@ The ELG-3A differs slightly from the Merr-Sonn 02 model of blaster pistol, but s
 [P]If he is mounted, the wielder of an energy lance may use his steed’s Brawn rating to determine the damage of this weapon instead of his own Brawn rating. If the wielder is not mounted, the weapon has the Cumbersome 3 quality.</Description>
     <Sources>
       <Source Page="108">Strongholds of Resistance</Source>
-      <Source Page="44">Savage Spirits</Source>
+      <Source Page="44">Дополнение: Дикие духи (Savage Spirits)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>MELEE</SkillKey>
@@ -5751,7 +5751,7 @@ In appearance and function, this useful tool is little more than a small shovel 
 Nearly as ubiquitous as combat knives, explorer's knives are indespensable tools for professional foresters. Made by a variety of weapon and tool manufacturers, explorer;s knives typically have a long, serrated, clip-point blade mounted in a sturdy, reinforced plasteel hilt and are sold with a synthetic nylamesh sheath. Contained within the knife's seath and hollow, watertight handle are the contents of a miniature emergency survival kit. While the contents vary by manufacturer, they typically include a fire starter, tweezers, small sharp blade, magnetic compass, fishing hooks and line, monowire saw, needle and thread, length of high-tensile synthetic cord, small whetstone, and other bits of small survival gear. While an explorer's knife is not neceassarily as well stocked as a full survival kit, it does work very well as an emergency backup or as a supplement to a more fully stocked kit – and, of course, it is a potent weapon to boot.
 [P]An explorer's knife grants [BO] to all Survival checks.</Description>
     <Sources>
-      <Source Page="43">Savage Spirits</Source>
+      <Source Page="43">Дополнение: Дикие духи (Savage Spirits)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>MELEE</SkillKey>
@@ -6484,7 +6484,7 @@ Designed for use against infantry rather than vehicles, a fragmentation missile 
 Traditional, projectile-throwing bow weapons are a rarity in the galaxy. They are considered even more archaic and inefficient than slugthrowers, and are rarely seen outside of museums or the collections of passionate enthusiasts. Even the vaunted bowcaster used by Wookiees is an energy weapon, despite its antiquated appearance. There are times, however, when the simplicity, portability, and reliablity of a bow—not to mention its near silence of operation and broad selection of ammunition types—are exactly what a given situation requires.
 [P]The FS19 by Field Sports is one of the better bows sold throughout the galaxy. Roughly half as long as a grown human is tall, the FS19 uses a system of pulleys and cams to increase an archer's leverage and strength, therefore producing a more powerful and efficent weapon in a small easy-to-use package. The bow itself is built from plasteel-reinforced polycarbonates, which give it incredible strength, and the string is a polyfiber nylamesh weave designed to minimize stretch and sag.
 [P]The basic ammunition used with the FS19 is Field Sports' Mk IV "Broadhead" arrow, which consists of a meter-long plasteel shaft with a sharp, bladed point at one end and synthetic, spin-stabilizing fletching on the other. These arrows are cheap to replace; the GM who wishes to set a price could charge 1 credit per arrow. In addition, Field Sports produces a line of other arrows for use with the FS19 that increase the weapon's versatility. [B]Table 2—1: Ranged Weapons[b], on page 47, gives the base profile for the standard arrows that come with the weapon as with the profiles for the non-standard arrows for the bow.</Description>
-    <Source Page="41">Savage Spirits</Source>
+    <Source Page="41">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Ranged</Category>
@@ -6525,7 +6525,7 @@ Traditional, projectile-throwing bow weapons are a rarity in the galaxy. They ar
 Traditional, projectile-throwing bow weapons are a rarity in the galaxy. They are considered even more archaic and inefficient than slugthrowers, and are rarely seen outside of museums or the collections of passionate enthusiasts. Even the vaunted bowcaster used by Wookiees is an energy weapon, despite its antiquated appearance. There are times, however, when the simplicity, portability, and reliablity of a bow—not to mention its near silence of operation and broad selection of ammunition types—are exactly what a given situation requires.
 [P]The FS19 by Field Sports is one of the better bows sold throughout the galaxy. Roughly half as long as a grown human is tall, the FS19 uses a system of pulleys and cams to increase an archer's leverage and strength, therefore producing a more powerful and efficent weapon in a small easy-to-use package. The bow itself is built from plasteel-reinforced polycarbonates, which give it incredible strength, and the string is a polyfiber nylamesh weave designed to minimize stretch and sag.
 [P]The basic ammunition used with the FS19 is Field Sports' Mk IV "Broadhead" arrow, which consists of a meter-long plasteel shaft with a sharp, bladed point at one end and synthetic, spin-stabilizing fletching on the other. These arrows are cheap to replace; the GM who wishes to set a price could charge 1 credit per arrow. In addition, Field Sports produces a line of other arrows for use with the FS19 that increase the weapon's versatility. [B]Table 2—1: Ranged Weapons[b], on page 47, gives the base profile for the standard arrows that come with the weapon as with the profiles for the non-standard arrows for the bow.</Description>
-    <Source Page="41">Savage Spirits</Source>
+    <Source Page="41">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Ranged</Category>
@@ -6562,7 +6562,7 @@ Traditional, projectile-throwing bow weapons are a rarity in the galaxy. They ar
 Traditional, projectile-throwing bow weapons are a rarity in the galaxy. They are considered even more archaic and inefficient than slugthrowers, and are rarely seen outside of museums or the collections of passionate enthusiasts. Even the vaunted bowcaster used by Wookiees is an energy weapon, despite its antiquated appearance. There are times, however, when the simplicity, portability, and reliablity of a bow—not to mention its near silence of operation and broad selection of ammunition types—are exactly what a given situation requires.
 [P]The FS19 by Field Sports is one of the better bows sold throughout the galaxy. Roughly half as long as a grown human is tall, the FS19 uses a system of pulleys and cams to increase an archer's leverage and strength, therefore producing a more powerful and efficent weapon in a small easy-to-use package. The bow itself is built from plasteel-reinforced polycarbonates, which give it incredible strength, and the string is a polyfiber nylamesh weave designed to minimize stretch and sag.
 [P]The basic ammunition used with the FS19 is Field Sports' Mk IV "Broadhead" arrow, which consists of a meter-long plasteel shaft with a sharp, bladed point at one end and synthetic, spin-stabilizing fletching on the other. These arrows are cheap to replace; the GM who wishes to set a price could charge 1 credit per arrow. In addition, Field Sports produces a line of other arrows for use with the FS19 that increase the weapon's versatility. [B]Table 2—1: Ranged Weapons[b], on page 47, gives the base profile for the standard arrows that come with the weapon as with the profiles for the non-standard arrows for the bow.</Description>
-    <Source Page="41">Savage Spirits</Source>
+    <Source Page="41">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Ranged</Category>
@@ -6599,7 +6599,7 @@ Traditional, projectile-throwing bow weapons are a rarity in the galaxy. They ar
 Traditional, projectile-throwing bow weapons are a rarity in the galaxy. They are considered even more archaic and inefficient than slugthrowers, and are rarely seen outside of museums or the collections of passionate enthusiasts. Even the vaunted bowcaster used by Wookiees is an energy weapon, despite its antiquated appearance. There are times, however, when the simplicity, portability, and reliablity of a bow—not to mention its near silence of operation and broad selection of ammunition types—are exactly what a given situation requires.
 [P]The FS19 by Field Sports is one of the better bows sold throughout the galaxy. Roughly half as long as a grown human is tall, the FS19 uses a system of pulleys and cams to increase an archer's leverage and strength, therefore producing a more powerful and efficent weapon in a small easy-to-use package. The bow itself is built from plasteel-reinforced polycarbonates, which give it incredible strength, and the string is a polyfiber nylamesh weave designed to minimize stretch and sag.
 [P]The basic ammunition used with the FS19 is Field Sports' Mk IV "Broadhead" arrow, which consists of a meter-long plasteel shaft with a sharp, bladed point at one end and synthetic, spin-stabilizing fletching on the other. These arrows are cheap to replace; the GM who wishes to set a price could charge 1 credit per arrow. In addition, Field Sports produces a line of other arrows for use with the FS19 that increase the weapon's versatility. [B]Table 2—1: Ranged Weapons[b], on page 47, gives the base profile for the standard arrows that come with the weapon as with the profiles for the non-standard arrows for the bow.</Description>
-    <Source Page="41">Savage Spirits</Source>
+    <Source Page="41">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Ranged</Category>
@@ -6636,7 +6636,7 @@ Traditional, projectile-throwing bow weapons are a rarity in the galaxy. They ar
 Traditional, projectile-throwing bow weapons are a rarity in the galaxy. They are considered even more archaic and inefficient than slugthrowers, and are rarely seen outside of museums or the collections of passionate enthusiasts. Even the vaunted bowcaster used by Wookiees is an energy weapon, despite its antiquated appearance. There are times, however, when the simplicity, portability, and reliablity of a bow—not to mention its near silence of operation and broad selection of ammunition types—are exactly what a given situation requires.
 [P]The FS19 by Field Sports is one of the better bows sold throughout the galaxy. Roughly half as long as a grown human is tall, the FS19 uses a system of pulleys and cams to increase an archer's leverage and strength, therefore producing a more powerful and efficent weapon in a small easy-to-use package. The bow itself is built from plasteel-reinforced polycarbonates, which give it incredible strength, and the string is a polyfiber nylamesh weave designed to minimize stretch and sag.
 [P]The basic ammunition used with the FS19 is Field Sports' Mk IV "Broadhead" arrow, which consists of a meter-long plasteel shaft with a sharp, bladed point at one end and synthetic, spin-stabilizing fletching on the other. These arrows are cheap to replace; the GM who wishes to set a price could charge 1 credit per arrow. In addition, Field Sports produces a line of other arrows for use with the FS19 that increase the weapon's versatility. [B]Table 2—1: Ranged Weapons[b], on page 47, gives the base profile for the standard arrows that come with the weapon as with the profiles for the non-standard arrows for the bow.</Description>
-    <Source Page="41">Savage Spirits</Source>
+    <Source Page="41">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Ranged</Category>
@@ -7018,7 +7018,7 @@ Merr-Sonn's ingenious G-20 Glop Grenade is a reusable, less-than-lethal antipers
 [P]While glop grenades are ostensibly rated as nonlethal, accidents do happen, and they have been known to cause death due to suffocation or, in extremely rare cases, allergic reactions to the foam. Whenever a target is hit with a glop grenade, he must make an [B]Easy ([DI]) Coordination check[b] to keep the foam from filling his breathing passages. Failure on the skill check indicates that the foam has cut off the target's air, and he immediately suffers the effects of suffocation as detailed on page 214 of the [B]Edge of the Empire[b] Core Rulebook.
 
 [P]Glop grenades that are recovered after use can be refilled with special pressurized hypoinjectors that transfer the foam from a sealed container into the grenade's reservoir without exposing it to the atmosphere. This requires an [B]Easy ([DI]) Ranged (Light) check[b] to complete. Failure on the check indicates that the foam has been ruined, and any net [TH] gained on a failed skill check means that some mishap with the filling system occurs and the user is engulfed in quickly hardening goo. This doesn't require an attack roll, but it does require the user to make an [B]Easy ([DI]) Coordination check[b] to avoid getting the goo in his nose or mouth per the rules above. Purchase of a Glop Grenade includes the hypoinjector and five refill canisters. Additional refill canisters can be purchased for 100 credits apiece and have a rarity of 6. </Description>
-    <Source Page="42">Enter the Unknown</Source>
+    <Source Page="42">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -7465,7 +7465,7 @@ The KS-23 is yet another popular slugthrowing design by Czerka Arms. A rarity ev
 
 [P]Thanks to its rugged construction and powerful ammunition, the KS-23 has gained a wide following in the Outer Rim. Easy to maintain and repair and built from high-quality, resilient materials, the Hammer stands up exceedingly well to the kinds of abuse equipment suffers in the wild places of the galaxy. Used primarily by big-game hunters, these weapons have also found their way into the armories of explorers, smugglers, pirates, and even some planetary law-enforcement agencies who appreciate their power and utility.</Description>
     <Type>Slugthrower</Type>
-    <Source Page="41">Enter the Unknown</Source>
+    <Source Page="41">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
       <Category>Carbine</Category>
@@ -7506,7 +7506,7 @@ The KS-23 is yet another popular slugthrowing design by Czerka Arms. A rarity ev
       [H3]Hand Grinder[h3]
 A hand grinder uses a rotating wheel coated with rough material to polish down spurs and marks on metal surfaces. This can be extremely helpful when trying to get mechanical components to fit perfectly, whether these are the armoured plates of a starship hull or the joints of a droid. While not as effective as a vibrosaw in terms of raw cutting power, it is perhaps even more intimidating.
 [P]A hand grinder adds automatic [AD] to crafting checks that involve shaping large pieces of hardened material. A hand grinder requires two hands to use as a weapon.</Description>
-    <Source Page="47">Special Modifications</Source>
+    <Source Page="47">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <Type>Tool</Type>
     <Categories>
@@ -8424,7 +8424,7 @@ Used to disable escaped or malfunctioning froids, thee slender lengths of metal 
     <Description>
       [H3]Ion Thruster Gun[h3]
 Ion thrusters are used in many different engines, from those of airspeeders to the drives of grand starships. Most Technicians have at least one or two of these devices sitting around their workspaces at any given time and a hanger is liable to contain many thrusters. As many Technicians can tell you, however, the biggest difference between a powerful engine and a gun is where they happen to be pointed. A retrofitted ion thruster's actual capacity for damage is low due to the diffuse nature of the blast, but it knock objects over, and the ion signature disrupts droids and electronics.</Description>
-    <Source Page="45">Special Modifications</Source>
+    <Source Page="45">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <Type>Tool</Type>
     <Categories>
@@ -8800,7 +8800,7 @@ It is not always necessary or even desirable to kill a threat in order to neutra
       [H3]Palandrix KO-2 Heavy Stun Pistol[h3]
 [P]Known colloquially as a "coma pistol", the Palandrix KO-2 stands head and shoulders above other stun pistols in both power and range. Though as large as a typical heavy blaster pistol, the KO-2 is streamlined and lightweight due to the use of orbital alloys and high-density plastics in its construction. Given its size, the weapon is an intimidating sight in the hands of a trained professional.
 [P]Primarily used by law enforcement organizations requiring an effective, non-lethal alternative to traditional blaster weapons, the KO-2 is generally seen only in the Core Worlds. The weapon has only recently seen use in the Outer RIm, and is generally harder to find the farther one gets from the galactic center. despire its relative obscurity, the KO-2 continues to gain high marks for effectiveness and reliability.</Description>
-    <Source Page="42">Keeping the Peace</Source>
+    <Source Page="42">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -9347,7 +9347,7 @@ Quad lasers are dedicated anti-starfighter-weapons consisting of four small-cali
 Stun rifles are rare weapons in the galaxy, perceived by most to be of limited utility. Possessing low-intensity blast-actuating modulators and using a lower yield mix of blast gasses than other, more lethal blaster rifles, stun rifles are capable of only nonlethal stunning blasts. Most of these weapons are used in law enforcement, corrections, and occasionally in bounty hunting, fields in which the need to keep targets alive is often of paramount importance. They are typically short ranged, and their bolts have a broad spread to catch as many targets in their blast as possible. While this is effective in close quarters or in large crowds, in open terrain their effectiveness is sadly reduced. To counter this, and to corner the market in long-range stun blasters, BlasTech recently released the all-new LBR-9 Stun Rifle.
 
 [P]Based on the current model DL-87 Firespray stun rifle, the LBR-9 is a long-barreled, light-framed blaster rifle fitted with composite furniture and simple iron sights. Using the majority of the Firespray's firing system with an upgraded galven pattern designed to fit the longer barrel, the LBR-9 can fire a concentrated, high-penetration stun bolt with a range and accuracy commensurate with other, more lethal weapons in its class. With its optimized and upgraded galven pattern and a patented mix of blaster gasses, the LBR-9 packs quite a punch and typically needs only one or two shots to knock a target out of commission. Only recently brought to market and largely sold to Core Systems' planetary law-enforcement agencies, few of these specialized weapons have found their way to the fringes of civilized space. Those that do are quickly snatched up by both beast and bounty hunters for their precise handling characteristics and nonlethal nature, and they are gaining a reputation as finely made, accurate, and dependable weapons.</Description>
-    <Source Page="39">Enter the Unknown</Source>
+    <Source Page="39">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -10099,7 +10099,7 @@ Used for guiding riderless beasts and driving teams of creatures, a longeing whi
 [P]Similar to the shoto lightsaber, the guard shoto or lightsaber tonfa, is a lightsaber with its grip set perpendicular to the blade, allowing the wielder to rapidly switch betweek attack and defense, deflecting bolts and blows one moment and lashing out with circular attacks of blinding speed the next. While these versatile weapons are extremely difficult to master, they can be startlingly effective, especially when paired with cortosis gauntlets to protect against slips of the blade.
 [P]The lightsaber is a guard shoto hilt containing an unmodded Illum lightsaber crystal (see page 197 of the Книга правил: Сила и судьба). This crystal occupies two of the weapons hardpoints.
 [P]When installing a lightsaber crystal into a guard shoto, decrease the damage of that lightsaber crystal by 1.</Description>
-    <Source Page="46">Keeping the Peace</Source>
+    <Source Page="46">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Lightsaber</Type>
     <Categories>
@@ -10147,7 +10147,7 @@ Used for guiding riderless beasts and driving teams of creatures, a longeing whi
 [P]Similar to the shoto lightsaber, the guard shoto or lightsaber tonfa, is a lightsaber with its grip set perpendicular to the blade, allowing the wielder to rapidly switch betweek attack and defense, deflecting bolts and blows one moment and lashing out with circular attacks of blinding speed the next. While these versatile weapons are extremely difficult to master, they can be startlingly effective, especially when paired with cortosis gauntlets to protect against slips of the blade.
 [P]The lightsaber is a guard shoto hilt containing an unmodded Illum lightsaber crystal (see page 197 of the Книга правил: Сила и судьба). This crystal occupies two of the weapons hardpoints.
 [P]When installing a lightsaber crystal into a guard shoto, decrease the damage of that lightsaber crystal by 1.</Description>
-    <Source Page="46">Keeping the Peace</Source>
+    <Source Page="46">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Lightsaber</Type>
     <Categories>
@@ -10431,7 +10431,7 @@ The soul of each lightsaber is its crystal. The Jedi of old tested their youngli
 [P]For the purposes of gameplay, this weapon is treated as having a single crystal. This lightsaber is a double-bladed lightsaber hilt containing an unmodded Illum crystal (see page 197 of the Книга правил: Сила и судьба). This crystal occupies two of the weapon's hardpoints.
 [P]When purchasing attachments for this weapon (including crystals), each attachment costs double the listed price. This represents the fact that the double-bladed saber generally requires two of each attachment (one for each end). However, when installing and modding these attachments, follow all normal rules.
 [P]A Temple Guard Lightsaber pike requires two hands to wield.</Description>
-    <Source Page="46">Keeping the Peace</Source>
+    <Source Page="46">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Lightsaber</Type>
     <Categories>
@@ -10484,7 +10484,7 @@ The soul of each lightsaber is its crystal. The Jedi of old tested their youngli
 [P]For the purposes of gameplay, this weapon is treated as having a single crystal. This lightsaber is a double-bladed lightsaber hilt containing an unmodded Illum crystal (see page 197 of the Книга правил: Сила и судьба). This crystal occupies two of the weapon's hardpoints.
 [P]When purchasing attachments for this weapon (including crystals), each attachment costs double the listed price. This represents the fact that the double-bladed saber generally requires two of each attachment (one for each end). However, when installing and modding these attachments, follow all normal rules.
 [P]A Temple Guard Lightsaber pike requires two hands to wield.</Description>
-    <Source Page="46">Keeping the Peace</Source>
+    <Source Page="46">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Lightsaber</Type>
     <Categories>
@@ -10730,7 +10730,7 @@ When weapon designer Joran Raider, the man behind many of the galaxy's most succ
       [H3]BlasTech M-300 Hunting Blaster[h3]
 The M-300 is one of BlasTech's most popular civilian blaster rifles. Nicknamed the "Hunting Blaster", this weapon is designed to meet the needs of serious hunters and others who make their livings in the wilderness. Built to withstand the rigors the rigors of backcountry life, the M-300 is lightweight and rugged. It has a reinforced, weather-sealed, polycarbonate frame that easily stands up to heavy impacts, extremes of heat and cold, and hazardous environments with little effect on performance. A specially designed precison barrel provides the M-300 with unparalleled accuracy and range for a weapon of its class. In addition, the M-300's galven circuitry and gas XCiter system produce a more intense, coherent blaster beam, which gives the weapon enough punch to drop even the toughest beast. The M-300 also comes equipped with a sling and integral, non-removabble telescopic optical sight to enhance its performance and ease of use.
 [P]Reduce the difficulty of combat checks made with this weapon by one against targets at long or extreme range.</Description>
-    <Source Page="40">Savage Spirits</Source>
+    <Source Page="40">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -12462,7 +12462,7 @@ The Stalker is Merr-Sonn Munitions' answer to LaserHone's surprisingly popular H
 [P]While it is lighter and decidedly cheaper than LaserHone's weaponm the Stalker suffers from a few drawbacks. In an effort to keep weight and cost down, Merr-Sonn used the standard model vibrofield generator found in all of their vibro weapons and equipped the Stalker with only the simplest noise-reduction system. This means that while the vibrofield generator's sound output is greatly reduced it makes enough noise to alert most creatures to the user's presence, which makes hunting with the weapon a challenge. Despite this, the Stalker's popularlity continues to grow and it is seen as an affordable alternative to its heavier more expensive competition.
 [P]The Stalker vibrospear requires two hands to use. The GM may spend [TH][TH] from any combat check with this weapon to have it produce a loud noise, spooking nearby animals, alerting foes and adding [SE][SE] to the user's next Survival check in this area to hunt or track prey.</Description>
     <Sources>
-      <Source Page="43">Savage Spirits</Source>
+      <Source Page="43">Дополнение: Дикие духи (Savage Spirits)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>MELEE</SkillKey>
@@ -12570,7 +12570,7 @@ For millennia, Czerka Arms has maintained a reputation as a purveyor of fine arm
 [P]New rifles must be ordered in person from a certified Czerka Arms dealer, at which time the customer is measured for fit and his shooting style is analyzed in an on-site simulator. This allows the Czerka Arms rep to determine the best possible configuration for the rifle in relation to its new owner and to offer advice on further customization.
 
 [P]Once the rifle is completed and delivered, it is as closely matched to the new shooter's stance, stature, and habits as art and artifice can make it. This makes the rifles incredibly accurate at any range, as the custom fit and frame makes the Model 38 point and shoot as if it were an extension of the shooter's body. Most Model 38 rifles in the Outer Rim are owned by hunters and marksmen for hire who ordered them directly from Czerka. There are some of these highly prized rifles on the used market, although they typically need serious modification before a new owner can use them to their full potential. If purchased used, a Czerka Model 38 loses the Accurate 2 quality until the rifle can be modified to fit the new shooter (requiring a [B]Hard ([DI][DI][DI]) Mechanics check[b]).</Description>
-    <Source Page="40">Enter the Unknown</Source>
+    <Source Page="40">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
     <Categories>
@@ -12617,7 +12617,7 @@ For millennia, Czerka Arms has maintained a reputation as a purveyor of fine arm
       [H3]Model 38 Sharpshooter's Rifle (Detonator Round)[h3]
 
 While the standard penetrator ammunition offered with the Model 38 works well in most situations, sometimes a shooter needs a little extra punch to fell his prey. To this end, Czerka offers the Detonator Round for use with the Model 38. Instead of the coated penetrator bullet, Detonator Rounds have a metal coated shaped charge bullet that explodes on contact with its target. When used with the Model 38, these rounds have the following effect on the weapon's stats: Remove the Pierce quality and add the Blast (5) quality and Knockdown quality. Detonator Rounds cost 450 credits for a box of rounds, and have a rarity of 7. If the weapon ever runs out of ammo, a new box of rounds must be purchased to reload it.</Description>
-    <Source Page="41">Enter the Unknown</Source>
+    <Source Page="41">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
     <Categories>
@@ -12740,7 +12740,7 @@ The Model 4 Thunderhead by Czerka is a relatively new entry into the galactic ar
     <Name>Model 57 "Homesteader" Hunting Rifle</Name>
     <Description>
       [H3]Czerka Arms Model 57 "Homesteader" Hunting Rifle[h3]With a reputation for sturdy, reliable, no nonsense products, Czerka Arms has produced slugthrowers for the civilian and millitary market for millenia. The Model 57, known colloquially as the "Homesteader" is one of Czerka Arms' "Legacy Arms" series slugthrower rifles. Built with the explorer, scout, and survivalist in mind, the Homesteader is one of the finest slugthrowing hunting rifles on the market. The Model 57 has a touch, semi-automatic feed system designed to withstand the rigors of hard use in a variety of harsh environments and can maintain its performance even after bing buried in sand or submerged in water for extended periods. While it is heavier than most weapons of its class, owing to sturdy construction and natural wood stocks the Homesteader remains popular due to its reliablity and accuracy and generous factory service plans.</Description>
-    <Source Page="41">Savage Spirits</Source>
+    <Source Page="41">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
     <Damage>7</Damage>
@@ -12774,7 +12774,7 @@ The Model 4 Thunderhead by Czerka is a relatively new entry into the galactic ar
     <Description>
       [H3]Czerka Arms Model 57 "Homesteader" Hunting Rifle (Detonator)[h3]
 With a reputation for sturdy, reliable, no nonsense products, Czerka Arms has produced slugthrowers for the civilian and millitary market for millenia. The Model 57, known colloquially as the "Homesteader" is one of Czerka Arms' "Legacy Arms" series slugthrower rifles. Built with the explorer, scout, and survivalist in mind, the Homesteader is one of the finest slugthrowing hunting rifles on the market. The Model 57 has a touch, semi-automatic feed system designed to withstand the rigors of hard use in a variety of harsh environments and can maintain its performance even after bing buried in sand or submerged in water for extended periods. While it is heavier than most weapons of its class, owing to sturdy construction and natural wood stocks the Homesteader remains popular due to its reliablity and accuracy and generous factory service plans.</Description>
-    <Source Page="41">Savage Spirits</Source>
+    <Source Page="41">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
     <Damage>7</Damage>
@@ -12821,8 +12821,8 @@ Air rifles are not considered weapons on most planets in the galaxy, and the maj
 
 [P]One of the most common air rifles on the market is the Model 77 from Field Sports, a trusted name in air-weapon production. Known colloquially as the Sandman, thanks to the unique effects of its standard ammunition, the Model 77 is a lightweight, long-barreled air gun similar in silhouette and stature to a sporting blaster. Made primarily of polycarbonate with fibermesh reinforcement, the Model 77 was initially marketed as a nonlethal weapon for animal control and law enforcement. It fires tiny, spin-stabilized darts with laser-honed tips capable of piercing the thickest hide from a detachable clip that is quick and easy to reload. Each dart contains a dose of tranquilizer agent that induces unconsciousness. In addition, the Model 77's darts can be loaded with the heavy-duty "SmartTranq" tranquilizer with an active ingredient that adapts itself upon contact with the target's bloodstream to be as effective as possible no matter what the species. Sandman air rifles have a well-deserved reputation for accuracy and reliability. In the Outer Rim many are used by bounty hunters and big-game hunters who need to take prey alive in order to collect their payments.</Description>
     <Sources>
-      <Source Page="39">Enter the Unknown</Source>
-      <Source Page="41">Savage Spirits</Source>
+      <Source Page="39">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
+      <Source Page="41">Дополнение: Дикие духи (Savage Spirits)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
@@ -13167,7 +13167,7 @@ Proton rifles are heavy, powerful, long-range weapons originalIy designed for bi
 Another MSW-series mono-molecular blade offering by Xana Exotic Arms, the MSW-12 NanoDagger is a larger, deadlier version of the MSW-9 Molecular Stiletto. Resembling a common combat or ability blade, the NanoDagger's blade is made of a synthetic crystaline matrix embedded with super dense alloys that resist wear, chipping, blunting, and breakage. It has a mono-molecular edge that can slice through some of the toughest materials, and it can cause vicious, slow heating wounds on most being in the galaxy. Despite its reinforcement, like all mono-molecular blades produced by Xana, the NanoDagger's blade has an alarming tendancy to break under certain conditions.
 [P]The GM may spend [TH][TH][TH] or [DE] from any combat check made with this weapon to have it become damaged one step (from undamaged to minor, minor to moderate, moderate to major, etc.) as described on page 166 of the [B]Force and Destiny[b] Core Rulebook.</Description>
     <Sources>
-      <Source Page="44">Savage Spirits</Source>
+      <Source Page="44">Дополнение: Дикие духи (Savage Spirits)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>MELEE</SkillKey>
@@ -13207,7 +13207,7 @@ Another MSW-series mono-molecular blade offering by Xana Exotic Arms, the MSW-12
 The multi-goo gun, an all-in-one spray injector, has a self-cleaning element that allows Technicians to switch out lubricant, adhesive or acid cartridges with no loss in function. The device apeals to many machinists' natural affinity for efficiency, enabling users to switch between substances quickly without stopping their work, rather than having to stop, clean their spray injectors and load them with a new substance at each step of a project.
 [P]A character using this tool gains automatic [AD] on Mechanics checks to repair droids, vehicles or starships.
 [P]The GM may spend [TH][TH] or [DE] on a Mechanics or combat check made using a multi-goo gun to have all of its spray cartridges run out; it cannot be used at all untill refulled. A pack that includes replacements for all three substances costs 20 credits and has a rarity of 2. Placing a refill pack in a multi-goo gun requires an action.</Description>
-    <Source Page="45">Special Modifications</Source>
+    <Source Page="45">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <Type>Tool</Type>
     <Categories>
@@ -13444,8 +13444,8 @@ The Palandrix Personal Protection Gear company has been a leading provider of pe
 
 [P]Heavy and squat, the Aranea is roughly the size of a small blaster carbine with a wide-gauge, rifled barrel, and lightweight polycarbonate furniture. Officially classified as a grenade launcher, the A014 is a single-shot, break-action, breach-loading weapon that fires entangling munitions as opposed to slugs or blaster bolts. The 40mm spin-stabilized ammunition used by the Aranea contains a tightly packed, weighted, finemesh net constructed from synthetic ArachSilk made by CorChemCo. Upon firing, the shells fired by this weapon burst open at a preset range and release the net, the spin of the round causing the net to unfurl and the weights spreading it to its maximum width. With its incredibly strong tensile strength and the ability to tighten around an opponent as he struggles, the Aranea's nets make excellent tools for capturing animal and sentient targets alive. </Description>
     <Sources>
-      <Source Page="42">Enter the Unknown</Source>
-      <Source Page="41">Savage Spirits</Source>
+      <Source Page="42">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
+      <Source Page="41">Дополнение: Дикие духи (Savage Spirits)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -13516,7 +13516,7 @@ Used by slavers across the galaxy to keep their "merchandise" in line, the neuro
       [H3]Nightsister Energy Bow[h3]
 The Nightsisters of Dathomir have always been an organization shrouded in secrecy, an organization of warrior-assassins dedicated to the dark side. Their shamans have been said to practice magicks strange to the Jedi and even the Sith, and their warriors are most famous for wielding weapons that are in equal parts strange and deadly. While their order is rumored to have been destroyed at the end of the Clone Wars by those few who ever knew of its existence, artifacts of their culture remain.
 [P]Among these is the energy bows, which uses an energized string to launch a deadly bolt of plasma that can penetrate all but the thickest armor with pinpoint accuracy. The bow string feeds into a grip that protects the user's hands from the crackling plasma, though it is still a treacherous weapon in the hands of an imprecise user. As with a lightsaber, a user who lets the Force guide each bolt can be extraordinarily lethal with this bow, landing miraculous shots and bringing down with almost unmatched ease.</Description>
-    <Source Page="40">Savage Spirits</Source>
+    <Source Page="40">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -13787,7 +13787,7 @@ War is a stressful pastime. Most sentient beings unaccustomed to battle choke up
     <Description>
       [H3]Parrying Dagger[h3]
 [P]Typically used in the off hand, the traditional parrying dagger consists of a slim, double-edged blade with a wide (sometimes forked) guard or a basket hilt for hand protection. In addition to possessing defensive utility, a parrying dagger can be used offensively, often as part of a feint or riposte. Traditional on many worlds where advanced technology is rare or melee duels are part of the culture, such blades can be found across the galaxy.      </Description>
-    <Source Page="45">Keeping the Peace</Source>
+    <Source Page="45">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -13818,7 +13818,7 @@ War is a stressful pastime. Most sentient beings unaccustomed to battle choke up
     <Description>
       [H3]Parrying Vibroblade[h3]
 [P]The parrying vibroblade is a high-tech version of the parrying dagger. Pairing a high-frequency vibroblade with the wide crossguard or basket hilt of a parrying dagger, a parrying vibroblade is a dealy addition to any duelist's arsenal. Even against weapons not easily deflected directly, such as lightsabers, an off-hand vibroblade can force attackers to consider strikes cautiously, lest they leave themselves vulnerable to counterattacks with the short blade.</Description>
-    <Source Page="45">Keeping the Peace</Source>
+    <Source Page="45">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -14227,7 +14227,7 @@ Unless used outdoors in a windy environment, the poison gas lingers for 2 rounds
 LaserHone's Trailbreaker is a versatile piece of equipment designed for exploration, search and rescue, and wilderness survival. Each consists of a long, thin, low-profile axe blade mounted to a sturdy fibermesh reinforced plasteel haft roughly two meters in length. It is popular among scouts and explorers who appreciate its utility both as a tool and as a weapon. The Trailbreaker's length and sturdy build make it both a fine walking staff and an excellent tool for prying, propping, and levering large objects. The head of the axe, sporting a finely honed, monomolecular edge, can cut through undergrowth, small trees, and even flesh and bone with relative ease. In the right hands, the Trailbreaker is an extremely potent, versatile tool, and its popularity increases with every sale.
 [P]The Trailbreaker poleaxe requires two hands to use.</Description>
     <Sources>
-      <Source Page="43">Savage Spirits</Source>
+      <Source Page="43">Дополнение: Дикие духи (Savage Spirits)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>MELEE</SkillKey>
@@ -14580,7 +14580,7 @@ way, the weapon runs out of ammunition (see page
 Makers of the venerable G2-GE beamdrill, Karflo Corporation is a Corporate Sector-based conglomerate with interests in industrial mining, droid production, and planetary exploration. Their G-series beamdrills are used throughout the galaxy in industries as widely varied as computer production and deep-space asteroid mining. They use variable-strength continuous-beam plasma projectors to burn through earth, stone, metals, and nearly any organic or inorganic substance in their path. They can perform any kind of cutting or burning task, from gently melting lightweight polymers to vaporizing waste materials and industrial byproducts. Recently, Karflo Corporation has been exploring smaller, more portable versions of their powerful beamdrills for use by planetary explorers and archaeologists. Their first attempt at this market is the G9-GP Pulse Drill.
 
 [P]The G9-GP is a handheld, low-powered, precision beamdrill designed for work in excavation and light duty mining. They appear as long, bulky rods with a tank at one end and a variable-angle plasma cutter at the other. The beam emitted by the G9-GP is a rapidly pulsing plasma beam around a millimeter thick with an adjustable range that allows it to cut through relatively thick material. While they are primarily tools, their plasma beams make excellent improvised weapons in an emergency, and more than a few explorers have had their lives or limbs saved from a surprise attack by quick application of the pulse drill.</Description>
-    <Source Page="43">Enter the Unknown</Source>
+    <Source Page="43">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -15103,7 +15103,7 @@ A peculiar and deadly weapon originating in the gladiatorial arenas of Rodia, th
       [H3]Repulsor Gun[h3]
 Bored Technicians sometimes take a repulsor engine, add a charge capacitor and simple trigger mechinism and use it to amuse themselves during  lean periods.  Most often used to knock over empty caf containers, the repulsor gun still packs a mean punch.
 [P]On a [DE] result, the repulsor gun backfires; the user is knocked prone and suffers the disoriented condition for 2 rounds.</Description>
-    <Source Page="46">Special Modifications</Source>
+    <Source Page="46">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <Type>Tool</Type>
     <Categories>
@@ -15269,7 +15269,7 @@ Carried throughout the galaxy by law enforcement officers responding to riots an
       [H3]Rivet Gun[h3]
 Most rivet guns work around the principle of a basic pneumatic hammer, and fire bolts into vehicle plating. Of course, some rivet guns are more-potent than others, based on the thickness of the plating they are intended to secure. As such, a Technician can easily adapt a more powerful rivet gunt into a serviceable slugthrower by ignoring a few of the safety operating protocols, such as "keep cartridge pressure at or beneath printed factory settings" and never point the rivet gun at living creatures or droids". While rivet guns are hardly combat weapons, and thus only function up close and with minimal accuracy, no wise sentient would completely ignore the threat presented by an irate Technician carrying one.
 [P]A rivet gun reduces the difficulty of Mechanics checks to reapair Critical Hits on vehicles and starships by 1 (to a minimum of [B]Simple (-)[b]).</Description>
-    <Source Page="46">Special Modifications</Source>
+    <Source Page="46">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <Type>Tool</Type>
     <Categories>
@@ -15664,7 +15664,7 @@ The BlasTech SE-14r, also known as the Imperial repeating pistol, combines the p
       [H3]Security S-5 Heavy Blaster Pistol[h3]
 [P]A pistol designed and manufactured by Theed Arms on Naboo, the Security S-5 is a reliable, versatile weapon. During the Clone Wars, it was a preferred weapon of the Royal Naboo Security Forces, and it remains a popular choice for private security groups, bodyguards and other blaster conoisseurs. Its under-barrel dart launcher can be configured to launch solid projectiles of various sorts; on eparticularly common choice is a grappling hook attached to a cable, which wielders can use to anchor themselves to nearby objects, swing across gaps, and safely descend into drops.
 [P]As an action, a character may make an Average ([DI][DI]) Ranged (Light) check to secure the grappling hook to an object within medium range. On success, as an action, he may reel in the cord, pullin ghimself to the object (or, if the object is unsecured and lighter than he is, pulling it to him). A character may use the grappling hook to pull another character aloft with him; if he does, he must make an Average ([DI][DI]) Athletics check to avoid losing his grip on either his partner or his gun.</Description>
-    <Source Page="43">Keeping the Peace</Source>
+    <Source Page="43">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -15845,7 +15845,7 @@ deployed sparingly, at least by supply-conscious organizations like the Alliance
       [H3]Shield Gauntlet[h3]
 [P]Shield gauntlets are specialized defensive items popularized by the Kilian Rangers of Kilia IV. Appearing to be little more than a high-tech gauntlet, a shield gauntlet projects a protective, concave energy field of indistinct coloration. Though these unique items are used primarily by members of the Kilian Rangers, both as a defensive item and as a reminder of their oath to defend themselves and their families, a handful of shield gauntlets have found their way into the hands of collectors, black marketeers, and Force sensitives.
 [P]A shield gauntlet counts as a Lightsaber weapon for the purposes of the Reflect talent (see page 150 of the Книга правил: Сила и судьба).</Description>
-    <Source Page="44">Keeping the Peace</Source>
+    <Source Page="44">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Brawling</Type>
     <Categories>
@@ -16121,7 +16121,7 @@ Though the Jedi Order was primarily known for its use of lightsabers, there have
 [P]The Site-145 replica blaster pistol automatically features the Force-attuned resonater weapon attachment (see page 54 of Keeping the Peace).
       [P][I]The HP for this weapon should be used to attach a Force-attuned resonator attachment only.[i]
     </Description>
-    <Source Page="43">Keeping the Peace</Source>
+    <Source Page="43">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -16155,7 +16155,7 @@ Though the Jedi Order was primarily known for its use of lightsabers, there have
 [P]The shields used by Sith warriors in ages past can still be found, though they are rare in the extreme. Resembling ordinary shields at first glance, Sith shields are crafted from an alchemical alloy and are often decorated with unsettling carvings, reliefs and runes. They are virtually inpenetrable, even to lightsabers, and these shields are incredbily deadly in the hands of a trained dark side adept. When used in combat by a Force user, Sith shields absorb the hate of combatants around them, drawing upon the building fury of their users and any foes engaged in the struggle.
 [P]Whenever a Force-sensitive wielder of a Sith shield sufers a hit in combat, he may commit [FO] to channel his fury into the shield as an out of turn incidental. Over multiple attacks, he may commit multiple [FO] this way, up to a total number [FO] no greater than his force rating.
 [P]AS an action, the wielder may uncommit all [FO] committed to the Sith shield to unleash the stored power in a torrent of hate. When he does so, he gains Conflict equal to the number of [FO] he had committed to the shield and then he makes a Force power check with that many [FO]. He may spend [FP] to inflict 1 wound and 1 strain (these ignore soak) on each other character within short range of him; he may activate this multiple times, inflicting 1 additional wound and 1 additional strain each time.</Description>
-    <Source Page="45">Keeping the Peace</Source>
+    <Source Page="45">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -16401,7 +16401,7 @@ A peculiar weapon, the Selonian shard shooter is a relatively compact slugthrowe
     <Description>
       [H3]Snap Baton[h3]
 [P]Snap batons are light, collapsible truncheons often employed by law enforcers and bounty hunters. With little more than a flick of the wrist, the baton can be extended to its full one-meter length. Once extended, the baton's weighted end can be used to inflict serious injusry on opponents. Due to the nature of the baton's construction, it provides a colid and punishing weapon in a very small package. Collapsing a snap baton requires that a stud be depressed while the wielder pushed it back into the handle. </Description>
-    <Source Page="45">Keeping the Peace</Source>
+    <Source Page="45">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -18891,7 +18891,7 @@ For those who like to let their fists do the talking, a set of vibroknucklers ca
       [H3]Vibro-Machete[h3]
 Produced by manufacturers of vibro-tools and weapons such as LaserHone and Merr-Sonn, the vibro-machete is one of the most common vibro-augmented blades on the galactic market. Designed and sold primarily as an agricultural tool, each has a long single-edged, cleaver-like blade between 30 and 45 centimeters long. The weight and balance of the blade combined with the long cutting edge make it perfectly suited for clearing undergrowth in dense alien forests and jungles, butchering large animals, and countless other wilderness tasks. The vibro-machete also makes for an excellent weapon, the heavy blade and vibro field emitter making short work of the unprotected and lightly armored opponants.</Description>
     <Sources>
-      <Source Page="43">Savage Spirits</Source>
+      <Source Page="43">Дополнение: Дикие духи (Savage Spirits)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SkillKey>MELEE</SkillKey>
@@ -19063,7 +19063,7 @@ Creel Wood Logging Corporation is a small, privately owned logging concern found
 [P]Loud and extremely challenging to use, the Mk. VIII is a heavy vibrosaw that can cut through the toughest undergrowth or fell the tallest trees. They are heavy, awkward brutes that, in the hands of the inexperienced or inattentive, can cause more damage to the user than to the surrounding flora. The Mk. VIII consists of a blocky chassis containing the saw's controls, two SureGrip handles, a power pack, a drive motor, and a vibrofield generator. The blade mounted to the front of the chassis is long and thin, ringed by a rotating, high-speed, diamond-toothed chain whose already impressive cutting ability is further augmented by a powerful vibrofield. Although not designed as such, the Mk. VIII can be used as a weapon in an emergency, its blade slicing through flesh and bone as easily as root and branch. Caution must be used when doing so, however, as even the slightest miscalculation or misstep can result in the user receiving gruesome injuries from his own saw.
 
 [P]If the user generates [DE] when using the Mk. VIII as a weapon, he hits himself with the attack instead of his target (even if the attack would normally miss). The Mk. VIII requires two hands to use. </Description>
-    <Source Page="43">Enter the Unknown</Source>
+    <Source Page="43">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Hands>whTwoHanded</Hands>
@@ -19129,7 +19129,7 @@ The Huntsman by LaserHone, a maker of fine vibroweapons based in the Corporate S
 [P]The Huntsman's haft is a super-dense plasteel alloy embedded with sound-deadening materials and laced with foil-fiber reinforcements. Incredibly strong and flexible, the Huntsman can parry nearly any incoming blow, from the claws of a powerful beast to the slashing edge of a vibro-ax. The blade is a long, thin, leaf-shaped affair made from a laser-honed steel alloy with a molecular edge that can pass through steel and stone as easy as through flesh and muscle. At the base of the blade where it meets the haft, two thick posts extend for a few centimeters perpendicular to the haft to prevent particularly recalcitrant beasts from charging up the haft after being stabbed and attacking the spear's wielder. While it is more of a niche weapon with limited appeal, many professional scouts and hunters appreciate the deadly simplicity of the Huntsman and the challenge of hunting untamed beasts in ways similar to their ancient forebears.
 
 [P]The vibrospear requires two hands to wield.</Description>
-    <Source Page="43">Enter the Unknown</Source>
+    <Source Page="43">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Hands>whTwoHanded</Hands>
@@ -19462,7 +19462,7 @@ The greatsword requires two hands to wield.</Description>
 Technicians need not only the ability to cut metal apart quickly, but the capacity to fuse back together. A welding rod works on a simple principle, generating a jet of focused heat that liquefies small parts of two or more pieces of metal, creating a sturdy bond between the formerly separate pieces. The heat involved is in this process is extremely dangerous to organic creatures and can even sear clean through the much sturdier limbs of droids. For good reason, welding rods are typically sold with instruction manuals that highlight the danger involved in their use - which some Technicians choose to actively ignore when threatened in their workshops.
 [P]A welding rod adds automatic [SU] to Mechanics checks checks to repair droids, vehicles and starships.
 [P]The GM may spend [DE] on any check made with a welding rod to inflict a Critically Injury (see page 216 of the [B]Edge of The Empire[b] Core Rulebook) on the user.</Description>
-    <Source Page="47">Special Modifications</Source>
+    <Source Page="47">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <Type>Tool</Type>
     <Categories>
@@ -19685,7 +19685,7 @@ CryoBan is one of a number of chemical compounds used in the carbon freezing pro
 Lightweight and easy to use, SoroSuub's X-30 Lancer is one of the most popular sporting blasters on the market. Designed with competition shooters and pistol hunters in mind, the Lancer is optimized for range, accuracy, and stopping power. Built to SoroSuub's exacting standards, the Lancer is a sleek, modern-looking blaster pistol with a long barrel and a weighted, finely balanced stock. Firing a blaster bolt that is well out of scale for a weapon its size, it uses a custom-formulated, highly volatile mix of blaster gasses and a supercharged actuating module to fire intense, highly concentrated bolts accurately over long distances. Superior galven patterns in the barrel reduce beam degradation and dispersal, allowing the pistol to maintain effectiveness well past the range of other weapons of its class.
 
 [P]In the Outer Rim, Lancer pistols are relatively common, especially among those who need a powerful weapon in a lightweight package. Many speeders and atmospheric craft have one of these fine pistols tucked away in an easy-to-reach storage locker, and many starships include them in their escape pods and emergency kits as a defensive weapon. They are also especially popular among explorers and scholars for their easy handling characteristics, as well as by those big-game hunters who enjoy the challenge of pistol hunting. </Description>
-    <Source Page="38">Enter the Unknown</Source>
+    <Source Page="38">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>

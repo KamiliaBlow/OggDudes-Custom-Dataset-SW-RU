@@ -95,9 +95,9 @@
     <Name>Pilot</Name>
     <Description />
     <Sources>
-      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="237">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="248">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="241">Force and Destiny Core Rulebook</Source>
+      <Source Page="241">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Actions>
       <Key>ACCDEC</Key>

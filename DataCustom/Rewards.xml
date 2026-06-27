@@ -10,7 +10,7 @@
 [P]Подробности смотрите на странице 94 дополнения "Рыцари судьбы".
     </Description>
     <Sources>
-      <Source Page="94">Knights of Fate</Source>
+      <Source Page="94">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <RewardTitle>rteName</RewardTitle>
@@ -57,7 +57,7 @@
 [P]Подробности смотрите на странице 94 дополнения "Рыцари судьбы".
     </Description>
     <Sources>
-      <Source Page="94">Knights of Fate</Source>
+      <Source Page="94">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <RewardTitle>rteName</RewardTitle>
@@ -428,7 +428,7 @@ Followers often have a degree of technical training from a past career. Once per
 [P]Please see page 95 of the Knights of Fate Sourcebook for details.
     </Description>
     <Sources>
-      <Source Page="95">Knights of Fate</Source>
+      <Source Page="95">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <RewardTitle>rteName</RewardTitle>
@@ -475,7 +475,7 @@ To acquire a title, a character must pay the XP cost indicated. Titles must be a
 [P]Please see page 92 of the Knights of Fate Sourcebook for details.
     </Description>
     <Sources>
-      <Source Page="92">Knights of Fate</Source>
+      <Source Page="92">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <OptionChoices>
@@ -706,7 +706,7 @@ At the end of a plot arc or adventure, if the PCs were publicly associated with 
 Please see page 92 of the Keeping the Peace Sourcebook, or page 95 of the Fly Casual Sourcebook, for details.
     </Description>
     <Sources>
-      <Source Page="92">Keeping the Peace</Source>
+      <Source Page="92">Дополнение: Поддержание мира (Keeping the Peace)</Source>
       <Source Page="95">Дополнение: Непринужденный полет (Fly Casual)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -765,7 +765,7 @@ Mechanically, schools improve all checks made by allies, apprentices, and follow
 [P]Please see page 95 of the Knights of Fate Sourcebook for details.
     </Description>
     <Sources>
-      <Source Page="95">Knights of Fate</Source>
+      <Source Page="95">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <RewardTitle>rteName</RewardTitle>

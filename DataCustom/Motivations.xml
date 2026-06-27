@@ -7,8 +7,8 @@
       [H4]Ambition[h4]
 A character with this Motivation is driven by a specific goal. This Motivation is internal and often abstract, and possibly selfish in nature. A character with the Ambition Motivation wants to better himself in some way—gaining love, status, power, or spiritual knowledge, for example. The player should determine the character's ultimate goal and why he does things the way that he does to get there.</Description>
     <Sources>
-      <Source Page="95">Edge of the Empire Core Rulebook</Source>
-      <Source Page="105">Force and Destiny Core Rulebook</Source>
+      <Source Page="95">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="105">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
@@ -64,8 +64,8 @@ A Player Character with a Motivation from this type is driven by a set of belief
       [H4]Cause[h4]
 Where the Ambition Motivation deals with an internal drive, the Cause Motivation is typically an external group or concept on which the character focuses. The Motivation is something so important that the character is willing to take risks or operate outside his comfort zone. Although this Motivation focuses on the needs of others, belief in a cause need not be altruistic by nature or for the common good—the cause could support some tenets that are dangerous or harmful to others, in fact.</Description>
     <Sources>
-      <Source Page="96">Edge of the Empire Core Rulebook</Source>
-      <Source Page="105">Force and Destiny Core Rulebook</Source>
+      <Source Page="96">Книга правил: Край Империи (Edge of the Empire)</Source>
+      <Source Page="105">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
@@ -96,7 +96,7 @@ Where the Ambition Motivation deals with an internal drive, the Cause Motivation
     <Description>
       [H4]Challenges[h4]
 A Warrior is defined by the ability and willingness to fight. It is in the Warrior's nature to rise to challenges, and these challenges test the Warrior's mettle and hone their skills. It is by seeking out and overcoming challenges that a Warrior improves. The challenges a Warrior faces are not all on a battlefield, but a Warrior approaches challenges of every type with the same determination and zeal.</Description>
-    <Source Page="32">Knights of Fate</Source>
+    <Source Page="32">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>CHALLENGE1</Key>
@@ -236,7 +236,7 @@ Diplomats play many roles in the Rebel Alliance, including leaders, motivators, 
 What drives an Explorer? What sends someone from the relative comfort and security of civilization into the vast void of space? What commits him to delving into the hidden places to seek that which has been lost? What moves him to hunt the most dangerous creatures ever encountered? What compels him to grab the stick of a pile of bolts, plastics, and rusted metal and push the machine beyond its breaking point over the most treacherous terrain imaginable?
 [P]Explorers often have at the core of their very being an unyielding passion for Discovery: the powerful call to find something out there in the galaxy is their true Motivation. An Explorer may wish to discover the limits of a machine, the capabilities of an infamous beast, the lost secrets of an ancient civilization, the mercantile potential of a hidden society, the resources of a newly discovered planet, or the uncounted opportunities among the limitless stars.
 [P]Often, what happens after making a Discovery is far less important than the journey to make it in the first place. Explorers regularly turn the task of exploiting and managing their Discoveries over to others (though usually at a tidy profit to themselves). Staying put is anathema to the Explorer; there are always new Discoveries out there waiting for him.</Description>
-    <Source Page="31">Enter the Unknown</Source>
+    <Source Page="31">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>DISCOVERYSM1</Key>
@@ -278,7 +278,7 @@ The [B]Age of Rebellion[b] Core Rulebook includes an ample list of Motivations, 
     <Description>
       [H4]Faith[h4]
 Characters who select this Motivation have a deep and abiding trust in some recurring facet of galactic existence. They dedicate their lives to spreading this belief, in the hope that they can bring other beings to come to a similar understanding. In many cases. their proselytization becomes a central focus. In other cases, spreading their belief is far less important than simply reveling in it.</Description>
-    <Source Page="105">Force and Destiny Core Rulebook</Source>
+    <Source Page="105">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>FAINAT</Key>
@@ -343,7 +343,7 @@ For Engineers, there is nothing that cannot be improved with a bit of thought an
     <Description>
       [H4]Injustice[h4]
 Similar to the Cause category of Motivation as presented in the [B]Force and Destiny[b] Core Rulebook, the new Injustice category represents social ills that motivate Sentinels. Unlike Causes, which can span worlds, Injustices (at least in the context of a Sentinel's Motivation) are less broad and affect a specific and known population. Injustices are abstract as a concept, but specific instances are concrete, as there is always a group of people suffering from the injustice.</Description>
-    <Source Page="32">Endless Vigil</Source>
+    <Source Page="32">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>INJUSTICE1</Key>
@@ -364,7 +364,7 @@ Similar to the Cause category of Motivation as presented in the [B]Force and Des
     <Description>
       [H4]Innovation[h4]
 The [B]Edge of the Empire[b] Core Rulebook includes many Motivations, broken up into three categories: Ambition, Causes, and Relationships. [B]Special Modifications[b] adds a new, Technician-centric list of Motivations called Innovations. Though this category and its entries were created specifically for Technicians, characters of other careers may also use Innovation at the GM's discretion.</Description>
-    <Source Page="36">Special Modifications</Source>
+    <Source Page="36">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>INNOVFAB</Key>
@@ -559,7 +559,7 @@ Any being can be motivated by their ambition or a cause, but a Mystic tends to b
 [P]Any being can be motivated by a belief or desire, but a Guardian is a special kind of person - one who puts preservation first, and often acts in the interests of others. In this case, sometimes a Guardian's driving force is represented by a promise that the Guardian has made, an oath of allegiance or fealty to a specific person, institution or concept.
 [P]A Guardian with an Oath always acts with this promise in mind, and defying it or subverting it weighs heavily on the character's mind. In rare cases, a Guardian might even strive to uphold an Oath against the express wishes of the person or organization the pledge represents.
 </Description>
-    <Source Page="32">Keeping the Peace</Source>
+    <Source Page="32">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>OATHJUSTICE</Key>
@@ -581,7 +581,7 @@ Any being can be motivated by their ambition or a cause, but a Mystic tends to b
       [H4]Pursuit[h4]
 Seekers are often driven individuals and their Motivations might dominate their desires and goals. These goals can be as common as Wealth or Happiness; or more specific such as Vengeance, or ongoing ones such as Exploration. Pursuits can help Seekers to improve themselves as well, becoming better in dealing death or connecting to the Force. Players can use Pursuits to guide and strengthen the narrative gameplay for their Seeker characters.
 [P]During character creation, players can choose the Motivation that fits their character, or they can roll randomly for one. To choose randomly from the expanded list, they first roll on [B]Table 1-2: Random Seeker Motivation[b] instead of using the corresponding [B]Table 2-3: Random Motivation[b] from page 105 of the [B]Force and Destiny[b] Core Rulebook. Players who roll Pursuit then roll again [B]Table 1-3: Specific Pursuits[b] to determine which Pursuit the appropriate table in the [B]Force and Destiny[b] Core Rulebook for the category rolled.</Description>
-    <Source Page="32">Savage Spirits</Source>
+    <Source Page="32">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>PURSUIT1</Key>
@@ -624,7 +624,7 @@ A Player Character with this type of Motivation seeks something specific from hi
     <Name>Relationship</Name>
     <Description>[H4]Relationship[h4]
 This Motivation focuses on a character's relationship with a specific person, creature, or even place. The relationship could be loving, respectful, and nurturing or antagonistic, competitive, or one-sided. The character looks out for the subject's best interests and will set aside his own needs to help when needed. This Motivation could be deeply personal or highly public.</Description>
-    <Source Page="96">Edge of the Empire Core Rulebook</Source>
+    <Source Page="96">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
     <SpecificMotivations>
       <Key>RELORIGIN</Key>

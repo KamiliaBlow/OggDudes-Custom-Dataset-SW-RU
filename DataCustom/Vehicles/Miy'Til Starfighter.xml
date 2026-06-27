@@ -4,7 +4,7 @@
   <Name>Miy'Til Starfighter</Name>
   <Description>[H3]Miy'Til Starfighter[h3]
 The Miy'Til serves as the primary multi-role starfighter in the Hapes Consortium. Its relatively smaller size necessitates many miniaturized components but the the craft nonetheless boasts firepower and maneuverability comparable to its Rebel Alliance and Imperial counterparts. A more advanced "command" version of the fighter has been seen occasionally, but its increased firepower came at a proportionally steeper cost. Usually employed only in light border skirmishes, several more intense engagements have shown the ship can withstand longer deployments if possible.</Description>
-  <Source Page="61">Keeping the Peace</Source>
+  <Source Page="61">Дополнение: Поддержание мира (Keeping the Peace)</Source>
   <Custom>DescOnly</Custom>
   <Type>Starfighter</Type>
   <Categories>

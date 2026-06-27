@@ -2,155 +2,154 @@
 <Hooks>
   <Hook>
     <Key>ACADEMIC</Key>
-    <Name>Academic</Name>
+    <Name>Академик (Academic)</Name>
     <Description>
       [H4]Academic[h4]
-For the student who seeks history, science, and other knowledge beyond the halls of academia, the stars can be an undeniable siren's song. First-hand experience can mean the difference between theoretical knowledge and true understanding, and the academic who understands the importance of the latter is the true master of his field.
-[P]True exploration requires an appreciation for all that is already known, as well as a desire to add to that knowledge. An Explorer with a strong foundation in academia is armed with the knowledge to see himself and his team safely through many situations in which ignorance is a lethal failing. Big guns, fast ships, and all the credits in the galaxy cannot overcome a problem if there isn't sufficient understanding of what the problem is.
-[P]Most academics learn quickly that life out in the Rim requires adaptation and versatility. One learns how to fight, how to survive, and many other skills as necessary if he doesn't want to end up a footnote in someone's journal. One also learns to make the right kinds of friends, trading knowledge for protection and expertise for mutual benefit.</Description>
+Для исследователя, жаждущего познать историю, науку и иные области знаний за пределами академических стен, зов звезд подобен неодолимой песне сирены. Личный опыт способен стать той самой гранью, что отделяет сухую теорию от подлинного понимания, и тот учёный, кто осознаёт важность этого опыта, становится истинным мастером своего дела.
+[P]Истинное исследование требует уважения ко всему уже известному и стремления приумножить эти знания. Исследователь с прочным академическим базисом вооружён знаниями, которые позволяют ему и его команде благополучно выпутываться из множества ситуаций, где невежество оборачивается смертельной ошибкой. Самые мощные орудия, самые быстрые корабли и все кредиты в галактике не помогут справиться с проблемой, если нет чёткого понимания её сути.
+[P]Большинство учёных быстро усваивают, что жизнь на Окраине требует умения адаптироваться и быть универсалом. Приходится учиться сражаться, выживать и осваивать множество других необходимых навыков, если не хочешь закончить свои дни в качестве сноски в чьём-нибудь научном журнале. Также приходится учиться заводить нужные знакомства, обменивая знания на защиту, а узкоспециальные навыки - на взаимную выгоду.</Description>
     <Sources>
-      <Source Page="13">Enter the Unknown</Source>
+      <Source Page="13">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
       <Source Page="12">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>ACCREB</Key>
-    <Name>The Accidental Rebel</Name>
+    <Name>Повстанец поневоле (The Accidental Rebel)</Name>
     <Description>
       [H4]The Accidental Rebel[h4]
-The vast majority of the sentient beings of the galaxy have no desire to join the Alliance or serve in the Rebellion. They may not be ardent supporters of the Empire, but this doesn't mean they are willing to drop everything in their lives to go blasting away at hordes of stormtroopers or weaving a dilapidated starship through swarms of TIE fighters. They would rather go about their business and live their lives, hopefully out of the way of any battles or other trouble.
-[P]Unfortunately for some hapless individuals, the galaxy has other plans. Cases of mistaken identity can result in innocents becoming wanted for crimes they never even considered. Receiving goods marked for Alliance use may find one or more PCs fleeing for their lives from Imperial agents or hired mercenaries. A friend's—or even casual acquaintance's—involvement with the Rebellion can saddle a character with unintended guilt by association. Of course, there are times when people simply find themselves in the wrong place at the wrong time and have no choice but to become heroes.
-[P]Alternately, unexpected situations may cause an epiphany for someone who was previously not interested in getting involved. While it may be easy to ignore tales of injustice and atrocity when they happen far away from an individual's daily life, many individuals have altogether different reactions when they come face-to-face with the horror of the Empire's policies. Apathy is difficult to maintain when someone watches another sentient executed for seeking out, a family enslaved because of their species, or an entire population wiped out for political expediency.
-[P]In such situations, a person's apathy can quickly turn to anger. That anger, in turn, often turns to action, usually with violent and irrevocable consequences. Once steps are taken toward open and direct opposition, such a character has joined the Rebellion in spirit, even if not yet in fact.</Description>
+Подавляющее большинство разумных существ галактики не испытывает ни малейшего желания вступать в Альянс или служить в рядах Повстанцев. Возможно, они и не являются ярыми сторонниками Империи, но это вовсе не значит, что они готовы бросить все свои дела, чтобы начать отстреливать орды штурмовиков или лавировать на потрепанном звездолете среди роев Тай-файтеров. Они предпочли бы заниматься своими делами и жить своей жизнью, в идеале - подальше от любых сражений и прочих неприятностей.
+[P]К несчастью для некоторых незадачливых особ, у галактики на их счет свои планы. Ошибки в опознании могут привести к тому, что ни в чем не повинные люди станут разыскиваемыми за преступления, о которых они даже не помышляли. Получение грузов, предназначенных для нужд Альянса, может обернуться для одного или нескольких персонажей игроков бегством наперегонки со смертью от имперских агентов или наемников. Причастность друга - или даже просто знакомого - к движению Повстанцев может повесить на персонажа незаслуженное обвинение из-за его связей. И, конечно же, бывают случаи, когда люди просто оказываются не в том месте и не в то время, и у них не остается иного выбора, кроме как стать героями.
+[P]Кроме того, неожиданные ситуации могут привести к прозрению тех, кто ранее не желал вмешиваться в происходящее. Хотя легко игнорировать рассказы о несправедливости и зверствах, когда они происходят вдали от повседневной жизни человека, многие люди реагируют совершенно иначе, когда сталкиваются лицом к лицу с ужасами имперской политики. Невозможно сохранять безразличие, когда видишь, как казнят другого разумного за поиски правды, как целую семью обращают в рабство из-за их расы, или как уничтожают целое население ради политической целесообразности.
+[P]В подобных ситуациях безразличие человека может быстро смениться гневом. Этот гнев, в свою очередь, часто перерастает в действие, обычно имеющее жестокие и необратимые последствия. Как только сделаны шаги к открытому и прямому противостоянию, такой персонаж уже присоединился к Альянсу в душе, даже если еще не стал им на деле.</Description>
     <Source Page="45">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>ACTIV</Key>
-    <Name>Activist</Name>
+    <Name>Активист (Activist)</Name>
     <Description>
       [H4]Activist[h4]
-Many Sentinels start off as activists in some form of another. Even unawaked to the Force, activists find themselves fighting injustice through social and legal pressure. They spread awareness, organize bodies of experts, and push for new laws. on planets that have (or claim to have) progressive rights and equalities, activistswork out in the open—or at least not in hiding. On more oppressive planets, activists work queitly in the shadows but are no less effective. Those who fall to the dark side give in to their rage and desperation, their activism turning destructive for desctruction's sake or even becoming murderous in the name of justice.</Description>
-    <Source Page="10">Endless Vigil</Source>
+Многие Стражи начинают свой путь как активисты в той или иной форме. Даже не пробудившие Силу, такие активисты борются с несправедливостью, используя общественное и правовое давление. Они привлекают внимание к проблемам, организуют экспертные коллегии и добиваются принятия новых законов. На планетах, где существуют (или, по крайней мере, провозглашаются) прогрессивные права и равенство, активисты действуют открыто - или, как минимум, не прячутся. На планетах с более репрессивным режимом активисты работают скрытно, в тени, но от этого не менее эффективно. Те же, кто обращается к темной стороне, поддаются гневу и отчаянию: их активизм перерастает в разрушительство ради самого разрушения или даже в убийства во имя справедливости.</Description>
+    <Source Page="10">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>ANCIENTORDER</Key>
-    <Name>Ancient Order</Name>
+    <Name>Древний орден (Ancient Order)</Name>
     <Description>
       [H4]Ancient Order[h4]
-[P]Some characters become Guardians because they are chosen to follow an order with a long history, which naturally prepares them for their eventual role. Such characters have likely known their intended destiny for a long time, many trained from birth. Their teachers may have also been Force-sensitive, or they might have been completely unaware of the mystical powers their students possessed. No matter how an individual Guardian reached this place, The PC's skills are a natural fit for this specific role that years of training entail.
-[P]Guardians of this sort tend to be guided by a concrete code passed down by their ancestors or predecessors, though invariably, some rebel against even the most ironclad of laws and codes of honor.</Description>
-    <Source Page="12">Keeping the Peace</Source>
+[P]Некоторые персонажи становятся Стражами, будучи избранными для служения в ордене с многовековой историей, что естественным образом подготавливает их к их грядущему предназначению. Подобные персонажи, скорее всего, давно знают о своей судьбе, и многие из них проходят обучение с самого рождения. Их наставники также могли быть чувствительны к Силе, либо же совершенно не подозревать о мистических способностях, которыми обладали их ученики. И независимо от того, как именно отдельный Страж пришел к этому, навыки персонажа игрока как нельзя лучше соответствуют той особой роли, к которой его готовили долгие годы тренировок.
+[P]Стражи подобного толка, как правило, руководствуются в своих действиях четким кодексом, переданным им их предками или предшественниками, хотя, что неизбежно, некоторые из них восстают даже против самых незыблемых законов и кодексов чести.</Description>
+    <Source Page="12">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>ANTIQ</Key>
-    <Name>Antiquarian</Name>
+    <Name>Антиквар (Antiquarian)</Name>
     <Description>
       [H4]Antiquarian[h4]
-Technology often seems an inherently progressive idea, and to many people it represents only efforts to build and improve upon the things of the past. However, some Technicians are actually deeply engaged in the past. The galaxy is unfathomably ancient, and over countless millenia, thousands of species have lived and discovered new ways to transform their environments to their needs. At first glance, manufacturing techniques used only in a single community on a backwater world might seem less advanced than those used in a vast starship constuction facility. However, these unique methods may produce results that are not directly comparable, or may even perform certain tasks better than their "modern" counterparts. The metallurgy of some societies whose members have never left their homeworlds have been found to surpass the industrial standards used to fabricate starship hulls due to the specialized techniques used by these enclaves. Other cultures have found inventive solutions to problems the wider galaxy never even thought to address, from creative energy solusions in absence of traditional fuels, to esoteric weapons that function on principles that still evade even the sharpest researchers and academics.
-</Description>
-    <Source Page="13">Special Modifications</Source>
+Технологии часто воспринимаются как сугубо прогрессивное явление, и для многих людей они означают лишь стремление создавать новое и совершенствовать достижения прошлого. Однако некоторые Техники, напротив, глубоко погружены в изучение прошлого. Галактика невообразимо стара, и за бесчисленные тысячелетия, тысячи разумных видов жили, развивались и открывали новые способы адаптации окружающей среды под свои нужды. На первый взгляд, производственные методы, применяемые лишь в одном поселении на захолустной планете, могут показаться менее совершенными, чем технологии, используемые на гигантских верфях по строительству звездолетов. Однако эти уникальные методики могут давать результаты, не поддающиеся прямому сравнению, или даже справляться с определенными задачами лучше, чем их "современные" аналоги. Выяснилось, что металлургия некоторых обществ, чьи представители никогда не покидали пределов своих родных миров, способна превзойти общегалактические промышленные стандарты изготовления корпусов звездолетов благодаря специфическим методам, применяемым в этих изолированных анклавах. Другие культуры нашли остроумные решения для проблем, о которых остальная Галактика даже не задумывалась: от нетривиальных способов получения энергии в условиях отсутствия традиционного топлива до эзотерического оружия, функционирующего на принципах, которые до сих пор не поддаются осмыслению даже самыми проницательными исследователями и учеными.</Description>
+    <Source Page="13">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>ARISTO</Key>
-    <Name>Aristocrat</Name>
+    <Name>Аристократ (Aristocrat)</Name>
     <Description>
       [H4]Aristocrat[h4]
-Aristocrats have (or had) money and perhaps a title. They may belong to an actual aristocracy, come from moneyed families or bear historic names that grant them privileges, even if only token privileges. Somtimes these privileges oppress another group. Like elected or appointed officials, aristocrats are bolstered by their position and hampered by the conservatism of the system it is part of. In this case, cultural pressures rather than bureaucratic ones maintain the status quo. Sentinels with this background may still have family and friend who search for them, providing a resource, a source of conflict, and an emotional tie that enemies might exploit.</Description>
-    <Source Page="11">Endless Vigil</Source>
+Аристократы располагают (или располагали) состоянием и, возможно, титулом. Они могут принадлежать к подлинной аристократии, происходить из состоятельных семей или носить исторические имена, дарующие им привилегии, пусть даже и чисто символические. Порой эти привилегии оборачиваются угнетением других групп. Подобно выборным или назначенным чиновникам, аристократы опираются на свое положение, но при этом скованы консерватизмом системы, частью которой они являются. В данном случае статус-кво поддерживается не бюрократическим, а культурным давлением. У Стражей с таким прошлым могут остаться семья и друзья, которые их разыскивают. Это может стать как ценным ресурсом, так и источником конфликтов, а также эмоциональной связью, которой способны воспользоваться враги.</Description>
+    <Source Page="11">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>ARTIST</Key>
-    <Name>Artist</Name>
+    <Name>Художник (Artist)</Name>
     <Description>
 	  [H4]Artist[h4]
-The Force grants people thoughts, visions, and emotions that some can't process, so they turn to other means to communicate these ideas. These artists often find themselves frustrated, driven to express an idea bigger than the artistic medium. While most artists create in order to find an audience, Mystic artists create to find answers. The answers can be personal, to seek enlightenment. The answers can be social, motivating others to be and do better. Because of art's emotional nature, however, artists can be tempted to the dark side. These artists use their work to shock, provoke, and upset-not to illustrate a greater truth, but to enhance those dark feelings, reinforcing hate and anger.</Description>
+Сила наделяет людей мыслями, видениями и эмоциями, которые порою не поддаются обычному осмыслению, и тогда они обращаются к иным средствам, чтобы выразить эти идеи. Такие творцы часто испытывают внутреннее противоречие, ибо их движет стремление выразить концепцию, превосходящую рамки любого художественного средства. И если большинство авторов создают свои произведения ради публики, то художники-Мистики творят в поисках ответов. Эти ответы могут быть сугубо личными, связанными со стремлением к просветлению. А могут носить общественный характер, побуждая окружающих к самосовершенствованию и созиданию. Однако из-за эмоциональной природы искусства творцы могут поддаться соблазну темной стороны. Такие художники используют свои работы, чтобы шокировать, провоцировать и тревожить - не ради иллюстрации высшей истины, а чтобы усиливать эти мрачные чувства, разжигая ненависть и гнев.</Description>
     <Source Page="10">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>AUGUR</Key>
-    <Name>Augur</Name>
+    <Name>Прорицатель (Augur)</Name>
     <Description>
 	  [H4]Augur[h4]
-Augurs served a straightforward function: they exposed the truth to those who listened. They could have been anything from a fortune-teller to a psychologist, offering insights on what people should do, but also revealing hidden truths to help people make their own decisions. Some augurs received academic or institutionalized training, while others simply had an uncanny intuition (such as a village elder or community leader). Most were content with this role. The few who had the humility to delve deeper discovered the Force as the source of their wisdom.
-[P]Augurs who fell to the dark side encouraged their victims' darkest desires and instincts, enhancing their anger and pushing them toward violence. These augurs sometimes inflicted harm on others, mistaking pain, deprivaton. and violence for a means to understanding.</Description>
+Прорицатели выполняли вполне определенную функцию: они открывали истину тем, кто был готов их слушать. Они могли быть кем угодно: от гадалки до психолога. Они давали советы о том, как людям следует поступать, но также раскрывали скрытые истины, помогая им принимать собственные решения. Некоторые прорицатели проходили академическое или институциональное обучение, тогда как другие просто обладали поразительной интуицией (как, например, старейшины деревень или лидеры общин). Большинство вполне довольствовалось такой ролью. Лишь немногие, кому хватило смирения познать суть глубже, открывали для себя Силу как истинный источник своей мудрости.
+[P]Прорицатели, обратившиеся к темной стороне, поощряли самые мрачные желания и инстинкты своих жертв, разжигая их гнев и толкая их на путь насилия. Такие прорицатели порой причиняли страдания другим, ошибочно принимая боль, лишения и насилие за путь к постижению истины.</Description>
     <Source Page="12">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>AVENGER</Key>
-    <Name>The Avenger</Name>
+    <Name>Мститель (The Avenger)</Name>
     <Description>
       [H4]The Avenger[h4]
-Some say a man who seeks vengeance should dig two graves: one for his target, and one for himself. However, these words never seem to reach the beings who need to hear it most. Following the one that wronged him, this character is in pursuit of righteous vengeance, leaving everything else he knew and loved behind. He lives a life of quiet desperation, planning his revenge and stalking his prey. The character does what he has to do to survive until he delivers retribution. He is proud to wield a blaster for any employer, especially if that gets him closer to his goal.
-[P]Characters with this backstory should consider choosing their Obligation (with GM approval) instead of rolling randomly, so that it aligns with their background. Alternately, they can tie their Motivation into their background instead.</Description>
+Говорят, что тот, кто жаждет мести, должен вырыть две могилы: одну для своей жертвы, а другую - для себя. Однако эти слова, похоже, никогда не доходят до тех, кому их следовало бы услышать в первую очередь. Преследуя того, кто причинил ему зло, этот персонаж движим жаждой праведной мести, оставив позади всё, что он знал и любил. Его жизнь полна безмолвного отчаяния; он вынашивает планы возмездия и выслеживает свою добычу. Персонаж делает всё необходимое для выживания, пока не свершит расплату. Он с гордостью владеет бластером и готов служить любому нанимателю, особенно если это приблизит его к заветной цели.
+[P]Персонажам с такой предысторией следует рассмотреть возможность самостоятельного выбора своего Долга (с одобрения ГМа) вместо случайного определения, чтобы тот соответствовал их прошлому. В качестве альтернативы, они могут связать со своим прошлым свою Мотивацию.</Description>
     <Sources>
       <Source Page="14">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="12">Дополнение: Закаленные в битве (Forged in Battle)</Source>
-      <Source Page="12">Knights of Fate</Source>
+      <Source Page="12">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>BATTLEADER</Key>
-    <Name>Battlefield Leader</Name>
+    <Name>Полевой лидер (Battlefield Leader)</Name>
     <Description>
       [H4]Battlefield Leader[h4]
-[P]Being the first to battle necessarily means putting oneself in harm's way. A Guardian who jumps into the fray first and leads every charge has likely taken a lifetime's worth of hits. Guardians of this sort often leap before they look, and consider risks to themselves to be acceptable as long as they can protect the ones they lead in battle.
-[P]Characters of this sort also tend to make moral judgments on the fly, doing what they see as right in the moment rather than binding themselves to any specific code. Still, some - especially those who go on to command - develop a concrete philosophy of right or wrong over time, based on their own past experiences rather than ancient texts.</Description>
-    <Source Page="14">Keeping the Peace</Source>
+[P]Быть первым в бою неизбежно означает подставлять себя под удар. Защитник, который первым бросается в гущу схватки и ведет за собой в каждой атаке, наверняка уже получил свою пожизненную норму ударов. Защитники подобного толка часто бросаются в бой не глядя, считая риск для себя вполне приемлемым до тех пор, пока это позволяет защитить тех, кого они ведут в бой.
+[P]Персонажи такого типа также склонны выносить нравственные суждения на ходу, поступая так, как считают правильным в данную минуту, вместо того чтобы связывать себя каким-либо конкретным кодексом. И всё же некоторые из них - особенно те, кто со временем берет на себя командование - вырабатывают четкую философию добра и зла, опираясь на личный опыт, а не на древние трактаты.</Description>
+    <Source Page="14">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>BORNENG</Key>
-    <Name>Born Engineer</Name>
+    <Name>Прирожденный инженер (Born Engineer)</Name>
     <Description>
       [H4]Born Engineer[h4]
-Some characters take to tinkering as children or as adolescents, displaying a prodigious skill with technology at a young age. A Born Engineer's precocious skill might have been learned from an influential mentor while growing up. The mentor could be a parent, an older sibling, a neighborhood mechanic, or a formal instructor. Alternatively, such a character could be a loner or misfit in a family or community that is focused on other aspects of life. Whether the character is carrying on the legacy of a mentor or fighting against tradition will have a substantial impact on the way the PC views technology. A character who honors a beloved teacher by continuing that person's craft will take considerable pride in technical prowess, while a PC who was scorned for early success might still be ashamed of these skills on some level.</Description>
-    <Source Page="14">Special Modifications</Source>
+Некоторые персонажи увлекаются возней с техникой еще в детстве или в юности, проявляя не по годам выдающиеся способности в области технологий. Ранние навыки Прирожденного Инженера могли сформироваться под влиянием авторитетного наставника в период взросления. Этим наставником мог быть родитель, старший брат или сестра, соседский механик или профессиональный инструктор. С другой стороны, такой персонаж мог быть одиночкой или изгоем в семье или общине, чьи интересы лежали в совершенно иных плоскостях. То, продолжает ли персонаж наследие своего наставника или идет против традиций, окажет существенное влияние на его отношение к технологиям. Персонаж, который чтит память любимого учителя, продолжая его дело, будет искренне гордиться своим техническим мастерством, тогда как тот, кого подвергали насмешкам за ранние успехи, может на каком-то уровне до сих пор стыдиться своих способностей.</Description>
+    <Source Page="14">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>BORNNBRED</Key>
-    <Name>Born and Bred</Name>
+    <Name>Прирожденный контрабандист (Born and Bred)</Name>
     <Description>
       [H4]Born and Bred[h4]
- Some Smugglers have never been anything else. They may come from a long line of Smugglers. They may not know where they came from, but were forced into the life of a Smuggler before they were old enough to make a decision for themselves. Either way, smuggling is all this Smuggler knows, and he does it well.</Description>
+ Некоторые контрабандисты не знают иного ремесла. Они могут происходить из целой династии контрабандистов. Они могут не знать своего происхождения, но были втянуты в контрабандный промысел еще до того, как повзрослели достаточно, чтобы принимать решения самостоятельно. Как бы то ни было, контрабанда - это всё, что знает такой контрабандист, и он мастерски владеет этим ремеслом.</Description>
     <Source Page="15">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>CITSOLD</Key>
-    <Name>Citizen Soldier</Name>
+    <Name>Гражданский ополченец (Citizen Soldier)</Name>
     <Description>
       [H4]Citizen Soldier[h4]
-Citizen soldiers are commoners from across the galaxy who fight to protect their families, their planets, and their people. Though many such individuals serve in the ranks of the Rebel Alliance, only a handful reveal themselves to be exemplary leaders, especially in times of great strife. For these people, the Rebel Alliance is a temporary but absolute obligation; the only things that might end their service are victory or death.</Description>
+Гражданские ополченцы - это простые люди со всех уголков галактики, которые сражаются, чтобы защитить свои семьи, свои планеты и свой народ. И хотя многие из них служат в рядах Альянса Повстанцев, лишь единицы проявляют себя как выдающиеся лидеры, особенно в годы тяжелейших испытаний. Для этих людей Альянс Повстанцев - это временный, но безоговорочное обязательство; и лишь победа или смерть могут положить конец их службе.</Description>
     <Source Page="14">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>CONARTIST</Key>
-    <Name>Con Artist</Name>
+    <Name>Мошенник (Con Artist)</Name>
     <Description>
 	  [H4]Con Artist[h4]
-Force sensitives don't necessarily need to come from a background of enlightenment and self-reflection. Especially during these tumultuous times, Mystics can emerge even from a history of gambling, trickery, and swindling. Some used their abilities to con the wealthy or powerful, rationalizing that two wrongs do make a right. Others pulled cons to make a living while doing what they could to mitigate harm. A few did their best to ignore their conscience. What united these con artists wasn't their criminal skills, but a nagging sense that life could offer something greater. While a criminal life doesn't usually lead to enlightenment, when these con artists sought  answers, they found them rather quickly. After all, they could recognize a good con, and when the Force turned out to be the real thing, they became ardent true believers.</Description>
+Чувствительные к Силе не обязательно приходят к ней через просветление и самоанализ. Особенно в эти смутные времена Мистиками могут стать даже те, чье прошлое связано с азартными играми, обманом и мошенничеством. Некоторые использовали свои способности, чтобы обводить вокруг пальца богачей и власть имущих, оправдывая себя тем, что два зла в сумме дают благо. Другие проворачивали аферы, чтобы заработать на жизнь, стараясь при этом свести причиняемый вред к минимуму. А некоторые старались изо всех сил заглушить голос совести. Всех этих мошенников объединяло не их криминальное мастерство, а не покидавшее их чувство, что жизнь способна предложить нечто большее. И хотя криминальная жизнь обычно не ведет к просветлению, стоило этим аферистам начать искать ответы, как они находили их на удивление быстро. В конце концов, они толк знали в искусном обмане, и когда Сила оказалась подлинной реальностью, они стали её горячими и искренними приверженцами.</Description>
     <Source Page="13">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>CRIMINAL</Key>
-    <Name>Criminal</Name>
+    <Name>Преступник (Criminal)</Name>
     <Description>
       [H4]Criminal[h4]
-The reasons for pursuing a life of crime are as varied as the types of crime one can commit. Some are born into it. Some find it the only way to survive. Some are anxious to grab the "quick score" rather than work for a living. Some pursue crime as a way of life, understanding that it is a profession like any other and indeed one that requires immense skill and a little luck.
-[P]Naturally, the farther one travels from the center of Imperial power, the easier a life of criminal activity can be. Criminals may well become Explorers due to sheer necessity, mastering the skills and talents required to find places to hide, ways to pursue their agendas, and means to survive and thrive.
-[P]Additionally, the life of a criminal is not often one that is consciously chosen; instead, it is thrust upon a person because he has a horrible streak of bad luck, winding up in the wrong place at the wrong time. Grasping at any means of survival is the natural response, yet it can be nearly impossible to escape the life of a criminal once that path is chosen.</Description>
+Причины, по которым люди избирают криминальный путь, так же разнообразны, как и виды преступлений, которые можно совершить. Некоторые рождаются в этом мире. Для некоторых это единственный способ выжить. Некоторые жаждут сорвать "быстрый куш" вместо того, чтобы честно зарабатывать на жизнь. А некоторые избирают криминал своим образом жизни, понимая, что это такая же профессия, как и любая другая, и что она действительно требует огромного мастерства и толики удачи.
+[P]Естественно, чем дальше человек удаляется от центра имперской власти, тем легче даётся ему преступный промысел. В силу суровой необходимости преступники вполне могут стать Исследователями, овладевая навыками и талантами, необходимыми для поиска укрытий, реализации своих планов, а также средств для выживания и преуспевания.
+[P]Кроме того, путь преступника нередко не является результатом осознанного выбора; скорее, он навязывается человеку волей судьбы и полосы жутких неудач, когда тот оказывается не в том месте и не в то время. Естественной реакцией становится хвататься за любые средства выживания, однако, ступив на эту стезю, вырваться из криминального мира бывает практически невозможно.</Description>
     <Sources>
       <Source Page="13">Дополнение: Все по плану (Stay on Target)</Source>
     </Sources>
@@ -158,126 +157,125 @@ The reasons for pursuing a life of crime are as varied as the types of crime one
   </Hook>
   <Hook>
     <Key>CRUSADER</Key>
-    <Name>Crusader</Name>
+    <Name>Крестоносец (Crusader)</Name>
     <Description>[H4]Crusader[h4]
-These Warriors may have encountered someone who chose them to champion a cause. Initially, such Warriors might have been reluctant and needed persuading, or perhaps they have always felt compelled to stand up for a just cause. Whatever hardships these characters have witnessed, they have only hardened their resolve to fight for change and make the galaxy a better place. These Warriors like to take personal responsibility and to incite others to do the same. They are natural leaders, activists, and moralists who rouse the masses and encourage them to take a stand against tyranny. Depending on these characters' morals, their crusade might be anything from forcing corrupt merchants to offer fair prices to struggling locals, to overthrowing an unjust regime, to reclaiming some stolen relic of Jedi heritage. Crusaders do not accept defeat, and they take up arms against those who refuse to settle issues peacefully.</Description>
-    <Source Page="12">Knights of Fate</Source>
+Эти Воины могли встретить того, кто выбрал их в качестве защитников некоего дела. Поначалу такие Воины могли колебаться, и их приходилось убеждать, а возможно, они всегда чувствовали внутренний зов выступать за правое дело. Какие бы трудности ни довелось пережить этим персонажам, они лишь закалили их решимость бороться за перемены и сделать галактику лучше. Эти Воины любят брать на себя личную ответственность и побуждать других поступать так же. Они - прирожденные лидеры, активисты и хранители морали, которые поднимают массы и вдохновляют их на борьбу с тиранией. В зависимости от моральных устоев этих персонажей, их крестовый поход может быть чем угодно: от принуждения коррумпированных торговцев назначать справедливые цены для нуждающихся местных жителей до свержения несправедливого режима или возвращения какой-нибудь украденной реликвии наследия джедаев. Крестоносцы не признают поражений и берутся за оружие против тех, кто отказывается решать вопросы мирным путем.</Description>
+    <Source Page="12">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>CYNIC</Key>
-    <Name>Cynical</Name>
+    <Name>Циник (Cynical)</Name>
     <Description>
       [H4]Cynical[h4]
-Some of the most prized possessions of a Smuggler are the stories he can tell, both tales of his exploits and rumors he has heard on his travels. The cynical Smuggler has one definitive story: the moment that not only changed the course of his life but his whole view of the galaxy. Due to a traumatic even, this Smuggler carries a big chip on his shoulder. He's lost faith in law, order, or people in general. In a galaxy of infinite possibilities, this event could be anything from the destruction of his homeworld to a personal betrayal.</Description>
+Одни из самых ценных сокровищ контрабандиста - это истории, которые он может поведать: как рассказы о собственных подвигах, так и слухи, подхваченные в странствиях. У циничного контрабандиста есть одна определяющая история: момент, который не только изменил ход его жизни, но и полностью перевернул его взгляд на Галактику. Пережив тяжелейшее потрясение, этот контрабандист затаил глубокую обиду на весь мир. Он утратил веру в закон, порядок и людей в целом. В Галактике, полной бесконечных возможностей, таким событием может оказаться что угодно: от уничтожения его родного мира до личного предательства.</Description>
     <Source Page="14">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>DEFECTOR</Key>
-    <Name>Defector</Name>
+    <Name>Перебежчик (Defector)</Name>
     <Description>
       [H4]Defector[h4]
-Prior to joining the Rebel Alliance, defector characters were among the ranks of an enemy. Their former master was most likely the Empire, but even criminal organizations or regional governments that have crossed swords with the Alliance are possible. [P]For whatever reason—a moral quandary, disillusionment, or disgrace—such characters have defected from their original organization and offered their loyalty to the Alliance. Though accepted by the Rebels, defectors have yet to earn their complete trust. To make matters worse, defectors are fugitives who face certain death should they be captured by their former masters.</Description>
+До вступления в Альянс Повстанцев персонажи-перебежчики служили в рядах врага. Скорее всего, их бывшим господином была Империя, но это также могли быть преступные организации или региональные правительства, скрещивавшие мечи с Альянсом. [P]По какой бы то ни было причине - будь то моральная дилемма, разочарование или опала, - такие персонажи покинули ряды своей прежней организации и предложили Альянсу свою верность. И хотя повстанцы приняли перебежчиков, те еще не заслужили их полного доверия. Хуже того, перебежчики являются беглецами, которым грозит неминуемая смерть в случае пленения их бывшими хозяевами.</Description>
     <Source Page="13">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>DESUND</Key>
-    <Name>Desire for Understanding</Name>
+    <Name>Стремление к пониманию (Desire for Understanding)</Name>
     <Description>
       [H4]Desire for Understanding[h4]
-Having realized he has some untapped power at his disposal, the character now wishes to know what this power is. Simple research on his home planet or via the HoloNet has yielded nothing, so he must set out into the wider galaxy to see what he can learn about his odd abilities..</Description>
-    <Source Page="47">Force and Destiny Core Rulebook</Source>
+Осознав, что в его распоряжении находится некая неиспользованная сила, персонаж теперь жаждет постигнуть её природу. Простейшие изыскания на родной планете или через HoloNet не дали никаких результатов, поэтому ему приходится отправляться в путешествие по просторам Галактики, чтобы узнать как можно больше о своих необычных способностях.</Description>
+    <Source Page="47">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>DISADV</Key>
-    <Name>Disadvantaged</Name>
+    <Name>Обделённый (Disadvantaged)</Name>
     <Description>
       [H4]Disadvantaged[h4]
- For most beings in the galaxy, life is a constant battle for survival. Whether on a planet under strict Imperial rule or some backwater moon far from any trade route, the career of a Smuggler becomes an attractive prospect, a way of exchanging the familiar daily struggle for a life full of potential. Work as a Smuggler is not easy, but the dream of one great score to set him up forever keeps him running the hyperlanes.
-[P]The Smuggler with a disadvantage background is tough and a little rough around the edges. He may have lived in poverty, been a slave, worked for an oppressive employer, or otherwise had it hard growing up.</Description>
+Для большинства существ в галактике жизнь - это постоянная борьба за выживание. Будь то на планете под строгим имперским игом или на какой-нибудь захолустной луне вдали от торговых путей, профессия контрабандиста представляется заманчивой перспективой - способом обменять привычную ежедневную борьбу на жизнь, полную новых возможностей. Работа контрабандиста не из лёгких, но мечта об одном большом деле, которое обеспечит его на всю оставшуюся жизнь, заставляет его без устали курсировать по гипертрассам.
+[P]Контрабандист с подобным прошлым - человек закалённый и слегка грубоватый. Возможно, он жил в нищете, был рабом, батрачил на безжалостного нанимателя или просто ему выпала тяжёлая доля с юных лет.</Description>
     <Source Page="13">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>DISSART</Key>
-    <Name>Dissident Artist</Name>
+    <Name>Художник-диссидент (Dissident Artist)</Name>
     <Description>
       [H4]Dissident Artist[h4]
-Some people have a creative drive that cannot be stilled, and craft works that not only give expression to their thoughts and emotions but also push others to question their own positions. The PC has always been an uncompromising artist, and his controversial works eventually drew the ire of the Empire. In the face of pressure to tone down his creations, the PC refused to compromise his art and redoubled his efforts, challenging the establishment and inspiring the resistance. He became wanted as a political dissident of the Empire, but is now a welcome asset to the Alliance.
-[P]The value of an artist should not be underestimated. The character might possess an uncanny insight into how people of all species think, or he might have honed his skills and ingenuity through countless crafts and creations. Further, many artists have a level of celebrity that gives them unique access to people and places across the galaxy.</Description>
+Некоторые люди движимы неукротимым творческим порывом, создавая произведения, которые не только выражают их мысли и чувства, но и побуждают окружающих пересматривать собственные убеждения. Персонаж игрока всегда был бескомпромиссным творцом, и его скандальные работы в конечном итоге навлекли на себя гнев Империи. Столкнувшись с давлением, требовавшим смягчить его творения, персонаж отказался идти на компромисс со своим искусством и лишь удвоил усилия, бросая вызов устоявшемуся порядку и вдохновляя движение сопротивления. Он стал разыскиваемым Империей политическим диссидентом, но теперь является желанным приобретением для Альянса.
+[P]Ценность творца не стоит недооценивать. Персонаж может обладать поразительным чутьем, позволяющим понимать ход мыслей представителей любых рас, либо же отточить свои навыки и изобретательность благодаря бесчисленным ремеслам и творениям. Кроме того, многие художники обладают такой степенью известности, которая открывает им уникальный доступ к людям и местам по всей галактике.</Description>
     <Source Page="15">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>ECCENTRIC</Key>
-    <Name>Eccentric</Name>
+    <Name>Эксцентрик (Eccentric)</Name>
     <Description>
       [H4]Eccentric[h4]
-Eccentrics pursue engineering and science with reckless abandon. Though often highly trained professionals, they are unfettered by orthodox thinking, common sense, and even morality. They see endless possibilities in their chosen field, and they are inveterate inventors and innovators. Eccentrics constantly strive to push barriers and break molds, often to the detriment of themselves and those around them. They are the mad scientists of the galaxy, the cranks and dreamers who are too flighty or erratic for traditional academia but whose knowledge and skills, combined with their imaginations and ambition, make for powerful allies and dangerous enemies.
-[P]There are few eccentrics in the Imperial military, as the rigid conformity and draconian punishments drive out or grind down such individuals. The Alliance, however, has more than its fair share of oddballs. dreamers, and cranks. Attracted to the cause by their freethinking nature, eccentrics from all manner of scientific and engineering disciplines have found their way into the Alliance. They are often brilliant, insufferable, and difficult to work with. On the other hand, they have developed numerous surprisingly successful technologies and weapon systems.</Description>
+Эксцентрики с безрассудным рвением отдаются инженерному делу и науке. И хотя зачастую это высококлассные специалисты, их не сковывают ортодоксальное мышление, здравый смысл и даже мораль. Они видят безграничные возможности в выбранной сфере и являются заядлыми изобретателями и новаторами. Эксцентрики постоянно стремятся раздвигать границы и ломать устоявшиеся шаблоны, зачастую во вред себе и окружающим. Это безумные ученые галактики, чудаки и мечтатели, слишком непостоянные и непредсказуемые для традиционной академической среды, но чьи знания и навыки, помноженные на богатое воображение и амбиции, делают их могущественными союзниками и опасными врагами.
+[P]В Имперской армии немного эксцентриков, поскольку жесткие рамки единообразия и драконовские наказания либо выживают, либо ломают таких личностей. Однако в Альянсе предостаточно чудаков, мечтателей и сумасбродов. Привлеченные к общему делу своей свободолюбивой натурой, эксцентрики из самых разных научных и инженерных областей пробили себе дорогу в ряды Альянса. Зачастую они гениальны, невыносимы, и с ними трудно работать. Но с другой стороны, они создали множество удивительно успешных технологий и оружейных систем.</Description>
     <Source Page="13">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>ECONOMIST</Key>
-    <Name>Economist</Name>
+    <Name>Экономист (Economist)</Name>
     <Description>
 	  [H4]Economist[h4]
-Economics is the study of resource allocation, but deep in its heart, it is the study of people and their choices. These proto-Mystics saw patterns, an invisible hand that moved resources to people in need, enriched planets, and connected disparate communities, defying the black-and-white morality of a profit spreadsheet. Cold economic theories and practices can clash with the warmth and light of the Force, however. If a policy can make five million people ten times as wealthy, but at the oppression of one million, could that be argued as good policy? What promotes a fall to the dark side more than turning suffering into mere numbers to be manipulated?</Description>
+Экономика - это наука о распределении ресурсов, но в своей основе это учение о людях и их выборе. Эти прото-Мистики видели закономерности, некую невидимую руку, что направляет ресурсы к нуждающимся, обогащает планеты и связывает разрозненные общины, бросая вызов черно-белой морали финансовых отчетов. Однако холодные экономические теории и практики могут вступать в противоречие с теплом и светом Силы. Если некая политика позволяет увеличить благосостояние пяти миллионов человек в десять раз, но ценой угнетения миллиона других, можно ли считать такую политику благой? Что сильнее толкает к падению на темную сторону, как не превращение чужих страданий в сухие цифры для манипуляций?</Description>
     <Source Page="13">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>ENEMIES</Key>
-    <Name>Enemies and Antagonists</Name>
+    <Name>Враги и антагонисты (Enemies and Antagonists)</Name>
     <Description>
       [H4]Enemies and Antagonists[h4]
-Simply put, the character rubbed someone the wrong way and found himself fleeing his former life. Even if the player decides that the enemy may not be the source of an Obligation, or may not be around any more to cause the character grief, this could be used as a hook to reintroduce the enemy later on in a campaign.
-    </Description>
-    <Source Page="38">Edge of the Empire Core Rulebook</Source>
+Проще говоря, персонаж перешел дорогу не тому человеку и был вынужден пуститься в бега, оставив прежнюю жизнь. Даже если игрок решит, что этот враг не является источником его Обязательства, или что противника уже нет в живых и он не может больше досаждать персонажу, эту ситуацию всё равно можно использовать как сюжетную зацепку, чтобы вновь ввести этого врага в сюжет кампании на более позднем этапе.</Description>
+    <Source Page="38">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>ENTREPRENEUR</Key>
-    <Name>Entrepreneur</Name>
+    <Name>Предприниматель (Entrepreneur)</Name>
     <Description>
       [H4]Entrepreneur[h4]
-The galaxy is overflowing with opportunities for those willing to search for them. The best of those opportunities - especially for someone with more imagination than money - can be found far from the galactic center, where societies and technology are still developing.
-[P]A successful Entrepreneur in the outer reaches will surround himself with a team possessed of various skills. He may have a business plan, or he may simply seize upon whatever jumps out at him as he explores his environment. Regardless, Entrepreneurs who leave the safety and security of the Core Worlds are true pioneers, and they have to be adaptable and quick on their feet to survive, much less to thrive.
-[P]The old saying about larger risks being necessary for larger rewards holds especially true for the Entrepreneur who explores opportunities in the far corners of the galaxy. Of course, without a great deal of luck and a few allies, the penalty for failure can be quite lethal.</Description>
-    <Source Page="15">Enter the Unknown</Source>
+Галактика переполнена возможностями для тех, кто готов их искать. Самые лакомые из них - особенно для тех, у кого воображения больше, чем денег, - таятся вдали от галактического центра, где общество и технологии всё ещё находятся в стадии становления.
+[P]Успешный Предприниматель на дальних рубежах соберет вокруг себя команду, обладающую самыми разнообразными навыками. У него может быть готовый бизнес-план, а может он просто будет хвататься за любую подвернувшуюся возможность по мере изучения окружающей обстановки. Как бы то ни было, Предприниматели, покидающие безопасные и защищенные Миры Ядра, - истинные первопроходцы, и чтобы просто выжить, не говоря уже о процветании, им приходится быть невероятно гибкими и быстро ориентироваться в любой ситуации.
+[P]Старая поговорка о том, что большая награда требует большого риска, особенно верна для Предпринимателя, исследующего возможности в дальних уголках галактики. Разумеется, без большой доли удачи и пары надежных союзников расплата за неудачу может оказаться смертельной.</Description>
+    <Source Page="15">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>EXILE</Key>
-    <Name>Exile</Name>
+    <Name>Изгнанник (Exile)</Name>
     <Description>
       [H4]Exile[h4]
-While many Seekers choose their paths, some are set upon them by events beyond their control. Whether they are cast adrift by the will of the Force or just cruel chance is difficult to say, but these new circumstances demeand that Seekers adapt quickly. They might be constantly on the run from the past they left behind, dodging bounty hunters, Imperials, or even their own family and fromer friends. Alternatively, these characters might simply be cut off from what was once their home, unable to return becasue of the events that precipitated their departure.
-[P]Although most exiles long for their past life to some degree. This longing is rarely more than bittersweet. By leaving the past behind, they have freed themselves from what once was and have plunged into a crucible of new adventures that call with an intesity their old life rarely offered. Any one might have to reluctantly leave their home, but the best Seekers are those who leave and never look back.</Description>
-    <Source Page="12">Savage Spirits</Source>
+Хотя многие Искатели сами выбирают свой путь, некоторых на него направляют события, не зависящие от их воли. Трудно сказать, оказались ли они в свободном плавании по воле Силы или просто из-за жестокой случайности, но новые обстоятельства требуют от Искателей быстрой адаптации. Они могут постоянно скрываться от прошлого, которое оставили позади, уклоняясь от охотников за головами, имперцев или даже собственных родственников и бывших друзей. В качестве альтернативы, эти персонажи могут быть просто отрезаны от того, что когда-то было их домом, не в силах вернуться из-за событий, послуживших причиной их бегства.
+[P]Хотя большинство изгнанников в той или иной степени тоскуют по прошлой жизни, это чувство редко бывает чем-то большим, чем горько-сладкая ностальгия. Оставив прошлое позади, они освободили себя от того, что было, и окунулись в горнило новых приключений, которые зовут их с такой силой, какую их прежняя жизнь редко могла предложить. Любого могут вынудить неохотно покинуть свой дом, но лучшие Искатели - это те, кто уходит и никогда не оглядывается назад.</Description>
+    <Source Page="12">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>EXIMP</Key>
-    <Name>Ex-Imperial Operator</Name>
+    <Name>Имперский экс-оперативник (Ex-Imperial Operator)</Name>
     <Description>
       [H4]Ex-Imperial Operator[h4]
-The Empire's bureaucracy and its military employ billions of beings. The vast majority are happy with their lot in life, even under the harsh rule of the Emperor.
-[P]Yet there are plenty who, for one reason or another, find themselves departed from their service. Some are simply fired. Others leave Imperial service hoping for something more. More than a few find reasons to escape serving the Empire because their freedom, or even their very lives, depend on it.
-[P]The safety of such a move depends a great deal upon what kind of role the character played within the Empire before his departure. A minor functionary with little access to important information will probably be able to simply quit or resign, moving on to private pursuits. Someone who knows where bodies are buried and who did what to whom as the Empire rose to power, however, may find his way out very difficult indeed.</Description>
-    <Source Page="16">Enter the Unknown</Source>
+В бюрократическом аппарате и военных структурах Империи служат миллиарды разумных существ. Подавляющее большинство довольно своей участью, даже в условиях сурового правления Императора.
+[P]Однако немало и тех, кто по тем или иным причинам покидает свои посты. Одних просто увольняют. Другие уходят с имперской службы в надежде на нечто большее. А весьма многие находят причины бежать из имперских рядов, поскольку на кону стоит их свобода или даже сама жизнь.
+[P]Безопасность такого шага в огромной степени зависит от того, какую роль персонаж играл в структурах Империи до своего ухода. Мелкий чиновник, не обладающий допуском к важной информации, вероятно, сможет просто уволиться или подать в отставку, чтобы заняться частными делами. Однако тому, кто знает, где зарыты трупы, и кто что с кем творил, пока Империя рвалась к власти, путь на волю может оказаться поистине тернистым.</Description>
+    <Source Page="16">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>EXMILITARY</Key>
-    <Name>Ex-Military</Name>
+    <Name>Бывший военный (Ex-Military)</Name>
     <Description>
       [H4]Ex-Military[h4]
-The galaxy is full of armies, from numerous planetary defense forces to the awesome might of the Imperial Military. Countless millions of sentients fight in the ranks of these forces, but countless more have served their time and left the military. While some manage the transition back to civilian life, many former soldiers find that their most marketable skill is their fighting ability. For them, mercenary work or even criminal enterprise is a lucrative (if dangerous) career choice.</Description>
+Галактика полна армий: от многочисленных планетарных сил обороны до грозной военной мощи Империи. Бесчисленные миллионы разумных существ сражаются в рядах этих вооруженных формирований, но еще больше тех, кто отслужил положенный срок и уволился в запас. И хотя некоторым удается успешно вернуться к гражданской жизни, многие бывшие солдаты обнаруживают, что их самый востребованный навык - это умение сражаться. Для них служба наемником или даже криминальный промысел становятся выгодным, пусть и опасным, выбором карьеры.</Description>
     <Sources>
       <Source Page="13">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="14">Дополнение: Непринужденный полет (Fly Casual)</Source>
@@ -286,80 +284,80 @@ The galaxy is full of armies, from numerous planetary defense forces to the awes
   </Hook>
   <Hook>
     <Key>FAILEDINIT</Key>
-    <Name>Failed Initiate</Name>
+    <Name>Неудавшийся послушник (Failed Initiate)</Name>
     <Description>
       [H4]Failed Initiate[h4]
-Not all who served in the now-destroyed Jedi Order rose to the rank of Knight. In fact, a great many did not even achieve the status of Padawan. Whether their connection to the Force was judged too weak, they did not possess the maturity to become Padawans when the time came, or no Jedi Knight would accept them into their apprenticeship, they never rose beyond the rank of Initiate. While many of these failed initiates entered the Jedi Service Corps, where they could serve as aides to the order, some simply turned their backs on the organization they felt had abandoned them. With the Empire now ruling the galaxy and the Jedi Knights exterminated, the failed initiates travel the galaxy, finding their own path in the Force.
-[P]Other failed initiates received training in traditions outside the Jedi Order, taking lessons from hidden mentors and ecentric wizards before either striking out on their own or being forced into the life of a fugitive by the Galactic Empire or other organizations. They have a great potential, but their lack of understanding may place them on a dangerous path.</Description>
+Не все, кто служил в ныне уничтоженном Ордене джедаев, достигли звания рыцаря. Более того, многие из них так и не достигли даже статуса падавана. Будь то потому, что их связь с Силой сочли слишком слабой, им не хватило зрелости, чтобы стать падаванами в положенный срок, или ни один рыцарь-джедай не согласился взять их в ученики, они так и не поднялись выше звания послушника. И хотя многие из этих несостоявшихся послушников вступили в Служебный корпус Ордена, где могли помогать джедаям в качестве помощников, некоторые просто отвернулись от организации, которая, как им казалось, бросила их. Теперь, когда Империя правит галактикой, а рыцари-джедаи истреблены, эти несостоявшиеся послушники странствуют по просторам космоса, ища свой собственный путь в Силе.
+[P]Другие несостоявшиеся послушники получили подготовку в рамках традиций, чуждых Ордену джедаев, беря уроки у скрытных наставников и эксцентричных магов, прежде чем либо пуститься в самостоятельное плавание, либо быть вынужденными стать беглецами из-за Галактической Империи или иных организаций. В них заложен огромный потенциал, но недостаток понимания может привести их на опасный путь.</Description>
     <Source Page="11">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>FAILLEAD</Key>
-    <Name>The Failed Leader</Name>
+    <Name>Несостоявшийся лидер (The Failed Leader)</Name>
     <Description>
       [H4]The Failed Leader[h4]
-Not everyone is born to lead. Many individuals are thrust into positions of power against their will, or discover their shortcomings as leaders when it’s too late. These characters are such souls, who, through lack of skill or blatant misfortune, have failed in their attempts to command their people. Whether they have learned from their mistakes, or even recognize the mistakes for what they are, can be a pivotal decision when creating such Commanders. What remains to be seen is how they use the lessons they’ve learned, if they’ve learned them at all, and whether they can earn back the respect they’ve lost—that of their peers, as well as their own.</Description>
+Не каждому суждено стать лидером. Многие оказываются у власти против своей воли, либо осознают свои недостатки как руководители, когда уже слишком поздно. Эти персонажи - именно такие люди, которые из-за нехватки навыков или по воле слепого рока потерпели крах в попытках вести за собой свой народ. То, извлекли ли они уроки из своих ошибок и осознают ли их вообще, может стать ключевым моментом при создании таких Командиров. Остается лишь узнать, как они распорядятся полученными уроками, если вообще их извлекли, и смогут ли вернуть утраченное уважение - как со стороны своих соратников, так и в собственных глазах.</Description>
     <Source Page="15">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>FALLENNOBLE</Key>
-    <Name>Fallen Noble</Name>
+    <Name>Падший аристократ (Fallen Noble)</Name>
     <Description>
       [H4]Fallen Noble[h4]
-There are millions - perhaps billions - of noble families throughout the galaxy, and quite a few of them have black sheep. An aristocrat with a poor reputation finds life in the Core Worlds difficult, perhaps even impossible. The outer reaches offer opportunities for redemption, or at least a chance to start over, for the noble who needs to escape scandal or worse.
-[P]Nobles rarely have to pursue any kind of profession. Many, however, enjoy various hobbies and intellectual pursuits, which they invariably learn how to parley into an actual occupation once forced out of their comfortable lifestyles. Naturally, a noble may have to engage in a great deal of on-the-job training to really understand his pursuits. Necessity can be a wonderful motivator in such circumstances.
-[P]Whether others even know if one is a noble has a lot to do with the measures he takes to maintain that secret. He may decide that being open about it will somehow give him advantages when dealing with others. If he's smart, however, he will likely go out of his way to suppress that part of his background, preferring to avoid attention on his troubled past.</Description>
-    <Source Page="16">Enter the Unknown</Source>
+В галактике насчитываются миллионы, а то и миллиарды благородных семейств, и во многих из них найдется своя паршивая овца. Аристократу с подмоченной репутацией жизнь в Мирах Ядра дается нелегко, а порой и вовсе оказывается невозможной. Дальние Рубежи дарят шанс на искупление или хотя бы возможность начать всё с чистого листа тому, кому необходимо бежать от скандала или от чего-нибудь похуже.
+[P]Аристократам редко приходится осваивать какую-либо профессию ради куска хлеба. Однако многие из них увлекаются различными хобби и интеллектуальными изысканиями, и, лишившись беззаботной жизни, неизменно учатся превращать эти увлечения в источник заработка. Разумеется, бывшему дворянину придется пройти через суровую школу жизни и набраться опыта прямо на практике, чтобы по-настоящему освоить новое ремесло. В подобных обстоятельствах нужда становится прекрасным стимулом.
+[P]То, догадываются ли окружающие о его благородном происхождении, во многом зависит от того, насколько тщательно он хранит эту тайну. Он может решить, что откровенность в этом вопросе даст ему определенные преимущества при общении с людьми. Однако, если он достаточно умен, то, скорее всего, приложит все усилия, чтобы скрыть эту часть своей биографии, предпочитая не привлекать лишнего внимания к своему тревожному прошлому.</Description>
+    <Source Page="16">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>FLAW</Key>
-    <Name>A Failure of Character</Name>
+    <Name>Изъян характера (A Failure of Character)</Name>
     <Description>
 	  [H4]A Failure of Character[h4]
-Some inherent flaw in the character causes him to leave behind the life he knew for the unknown. This background hook ties in well with some Obligations such as Addiction, Obsession, or Betrayal. Regardless of the cause, the character finds himself shut out from his former society, left to deal with his own problems. However, the character may view this in a positive light, seeing himself freed from the pressures of scrutiny or keeping on the move to leave trouble behind.</Description>
-    <Source Page="38">Edge of the Empire Core Rulebook</Source>
+Некий присущий ему недостаток заставляет персонажа оставить привычную жизнь и шагнуть в неизвестность. Эта зацепка предыстории отлично сочетается с такими Обязательствами, как "Зависимость", "Одержимость" или "Предательство". И вне зависимости от причины, персонаж оказывается отлучен от своего прежнего общества и остается один на один со своими проблемами. Впрочем, он может смотреть на это и в позитивном ключе, считая себя избавленным от гнета пристального надзора и необходимости постоянно быть в бегах, чтобы оставлять неприятности позади.</Description>
+    <Source Page="38">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>FLEEEMP</Key>
-    <Name>Fleeing the Empire</Name>
+    <Name>Бегство от Империи (Fleeing the Empire)</Name>
     <Description>
       [H4]Fleeing the Empire[h4]
-The Empire hunts down Force users diligently and enthusiastically. The character may have betrayed his affinity to the Force in some way, perhaps by anticipating someone's thoughts or saving someone's life by stopping a crashing speeder with his mind. Whatever the cause, the character is now hunted by Imperial agents and must flee his former life or be destroyed.</Description>
-    <Source Page="47">Force and Destiny Core Rulebook</Source>
+Империя усердно и рьяно выслеживает чувствительных к Силе. Персонаж мог тем или иным образом выдать свою связь с Силой - например, предугадав чьи-то мысли или спас кому-то жизнь, остановив падающий спидер силой разума. Какова бы ни была причина, теперь за персонажем охотятся агенты Империи, и он вынужден бежать, оставив прежнюю жизнь позади, иначе его ждет неминуемая гибель.</Description>
+    <Source Page="47">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>FREERUNNER</Key>
-    <Name>Freerunner</Name>
+    <Name>Фрираннер (Freerunner)</Name>
     <Description>
 	  [H4]Freerunner[h4]
-Freerunners turn movement into a highly skilled and specialized art form, using speed, strength, and agility to traverse terrain and cityscapes via quick, unexpected, and sometimes risky routes. To keep moving, they use any reachable surface, whether horizontal, vertical, or somewhere in between. They rapidly cross otherwise impassable or difficult terrain, and their fast and erratic movements make pursuit extremely difficult, if not impossible, for untrained pursuers.
-[P]Freerunner-style drivers and pilots use their techniques to achieve similar results in vehicles and starships. Some were once stunt pilots or drivers trained to use their abilities in live and recorded performances. Other might have received formal training in tactical driving as bodyguards or security personnel.
-[P]With a high degree of training and talent, drivers might spin a vehicle around in a nearly impossibly small amount of space. They can make spectacular jumps while rotating the vehicle about its axis in death-defying and gut-wrenching fashion.
-[P]Species that are light, quick, and agile typically make the best freerunners. Their lighter weight means they can land and climb on weaker structures and smaller surfaces. However, strong and athletic species can achieve similar results when using their muscles to make longer leaps or knock aside obstacles.</Description>
+Фрираннеры превращают перемещение в отточенное и специализированное искусство, используя скорость, силу и ловкость для преодоления природного ландшафта и городской застройки по быстрым, неожиданным, а порой и рискованным маршрутам. Чтобы не останавливаться, они используют любую доступную поверхность - горизонтальную, вертикальную или расположенную под любым промежуточным углом. Они стремительно преодолевают труднопроходимую или вовсе непроходимую местность, а их быстрые и непредсказуемые движения делают преследование крайне сложным, если не вовсе невозможным, для неподготовленных преследователей.
+[P]Водители и пилоты, работающие в стиле фрираннеров, применяют свои навыки для достижения аналогичных результатов, управляя наземным транспортом и звездолетами. Некоторые из них в прошлом были пилотами-каскадерами или гонщиками, обученными использовать свои способности на живых выступлениях и киносъемках. Другие могли пройти официальную подготовку по тактическому вождению в качестве телохранителей или сотрудников служб безопасности.
+[P]Обладая высоким уровнем подготовки и таланта, такие водители способны развернуть транспортное средство практически на невероятно малом пространстве. Они могут совершать эффектные прыжки, вращая машину вокруг своей оси с головокружительными и захватывающими дух трюками, бросающими вызов смерти.
+[P]Представители легких, быстрых и ловких рас, как правило, становятся лучшими фрираннерами. Их меньший вес позволяет им приземляться и карабкаться по более хрупким конструкциям и небольшим выступам. Впрочем, сильные и атлетичные расы могут добиваться схожих результатов, используя свою мускульную силу для совершения более длинных прыжков или чтобы отбрасывать препятствия в сторону.</Description>
     <Source Page="12">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>FUGITIVE</Key>
-    <Name>The Fugitive</Name>
+    <Name>Беглец (The Fugitive)</Name>
     <Description>
       [H4]The Fugitive[h4]
-The galaxy is full of those on the run from something or someone. Some people may be pursued by bounty hunters, while others may be fleeing local governments, corporations, or even the Empire. Many of these people are guilty of their accused crimes, while others are innocent victims of a miscarriage of justice. In either case, colonies provide a safe haven where a person can hide, reinvent themselves, and start over in life.</Description>
+Галактика полна тех, кто скрывается от чего-то или кого-то. Одних могут преследовать охотники за головами, другие бегут от местных правительств, корпораций или даже от самой Империи. Многие из этих людей действительно виновны в инкриминируемых им преступлениях, тогда как другие являются невинными жертвами судебной ошибки. В любом случае колонии служат надежным убежищем, где человек может спрятаться, обрести новую личность и начать жизнь с чистого листа.</Description>
     <Source Page="13">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
     <Key>GANGL</Key>
-    <Name>Gang Leader</Name>
+    <Name>Главарь банды (Gang Leader)</Name>
     <Description>
       [H4]Gang Leader[h4]
-Gang leaders don't always organize their groups purely for violence. Some toughs gather together to protect themselves and support each other. Other gangs mobilize to become the unofficial police of a neighborhood, espeically in places where law enforcement refuses to patrol. Gangs are sometimes a symptom of a city suffering from the disease of an injustice, be it poverty or local persecution. They are only as violent and corrupt as their leaders, though, and those led by Sentinels might be the best forces of good in a city.</Description>
-    <Source Page="12">Endless Vigil</Source>
+Главари банд не всегда организуют свои группировки исключительно ради насилия. Некоторые головорезы объединяются, чтобы защитить себя и поддерживать друг друга. Другие банды мобилизуются, чтобы стать негласной полицией района, особенно в тех местах, где правоохранительные органы отказываются патрулировать улицы. Банды порой становятся симптомом болезни города, страдающего от несправедливости, будь то нищета или местные притеснения. Впрочем, степень их жестокости и коррумпированности зависит лишь от их лидеров, и те из них, что возглавляются Стражами, вполне могут стать главной силой добра в городе.</Description>
+    <Source Page="12">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -368,7 +366,7 @@ Gang leaders don't always organize their groups purely for violence. Some toughs
     <Description>
       [H4]With Great Power...[h4]
 Some individuals cannot stand idly by while watching the evils the Empire inflicts on the galaxy. The character knows he's been given a gift that few others have. To squander it while innocents suffer would be the height of irresponsibility.</Description>
-    <Source Page="47">Force and Destiny Core Rulebook</Source>
+    <Source Page="47">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -386,9 +384,9 @@ Some individuals cannot stand idly by while watching the evils the Empire inflic
     <Name>A Higher Calling</Name>
     <Description>[H4]A Higher Calling[h4]
 Even in the rough-and-tumble world of [B]Edge of the Empire[b], there are those who strive to change the galaxy - often for the better, but sometimes for the worse. Perhaps the character has made a vow to help others, which works nicely into the Oath Obligation. A character may receive some sort of sign that tells him to leave behind his former life and make his way to the fringes of the galaxy to serve this higher calling.</Description>
-    <Source Page="37">Edge of the Empire Core Rulebook</Source>
+    <Source Page="37">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Sources>
-      <Source Page="37">Edge of the Empire Core Rulebook</Source>
+      <Source Page="37">Книга правил: Край Империи (Edge of the Empire)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -457,7 +455,7 @@ Whereas academics tend to be primarily concerned with theory, journeymen take a 
     <Description>
       [H4]Laborer[h4]
 Laborers start off in menial occupations essential but less-valued skills and often involve repetitive, physical work. They often suffer economic injustices on the lower rung of the socioeconomic ladder. Labor leaders fit the Activist background better, so this background often reflects those who grew up in humbler circumstances. a laborer's strugg;es can be about moral corruption but can also include fighting against despair and drudgery.</Description>
-    <Source Page="13">Endless Vigil</Source>
+    <Source Page="13">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -513,7 +511,7 @@ Not every Soldier of the Rebellion fights for the high and mighty ideals of the 
 </Description>
     <Sources>
       <Source Page="15">Дополнение: Закаленные в битве (Forged in Battle)</Source>
-      <Source Page="14">Knights of Fate</Source>
+      <Source Page="14">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -524,7 +522,7 @@ Not every Soldier of the Rebellion fights for the high and mighty ideals of the 
       [H4]Military[h4]
 Military groups create effective Warriors. Characters with a military background are likely to be highly skilled and disciplined, having trained with an organized planetary militia or in the army of the Empire itself. Warriors who have left the military may have gone into hiding because of emerging Force abilities, or they may have simply lost the stomach for the Empire’s domination; either way, they retain all the skills and knowledge their training provided. No longer soldiers with colleagues to fight alongside, these characters are lone Warriors who may either harbor bitterness or revel in newfound freedom.
     </Description>
-    <Source Page="14">Knights of Fate</Source>
+    <Source Page="14">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -554,7 +552,7 @@ Under the guidance of such wise administrators as Mon Mothma, the Alliance began
     <Description>
       [H4]Official[h4]
 Officials once worked in the system, either in the local bureaucracy, law enforcement, a religious organization, or the Empire itself. From their chairs and desks, they had access to those in power, but ironically, they had  little power themselves, being cogs in a machine built of procedures, red tape, and calcified culture. In an organization hostile to Force users, the official's title became a collar, and the positon a leash, forcing the official to abandon this rigid life if the pursuit of something more meaningful is desired.</Description>
-    <Source Page="14">Endless Vigil</Source>
+    <Source Page="14">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -563,9 +561,9 @@ Officials once worked in the system, either in the local bureaucracy, law enforc
     <Description>
       [H4]Opportunity Knocks[h4]
 The simplest reason for a character to live on the fringes of society is the basic desire to grasp some opportunity or challenge oneself. A character from a hard, poor background may strive to better himself and jumps at the first chance to improve his lot. A well-off character may be bored with the steady rhythms of high society or realizes that his chances for advancement must come from his own hard work rather than waiting for things to occur. Lastly, this could be as simple as making a spur of the moment decision to board a starship bound for some far-flung part of the galaxy.</Description>
-    <Source Page="37">Edge of the Empire Core Rulebook</Source>
+    <Source Page="37">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Sources>
-      <Source Page="37">Edge of the Empire Core Rulebook</Source>
+      <Source Page="37">Книга правил: Край Империи (Edge of the Empire)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -585,7 +583,7 @@ Founding a colony is hard work, but a generation or two later, when the hardest 
     [H4]Outlaw Agent[h4]
 [P]Not all heroes are able to work exclusively for the forces of good. Sometimes, the only choice is between perpetuating the Empire's oppression and joining a criminal group in opposing it. Some beings are even conscripted forcefully into illegal operations.
 [P]Still, working under the umbrella of a criminal empire does not mean that a character cannot help others. This sort of Guardian excels at making the best of a bad situation. Guardians such as these might have codes of personal honor adopted from the organizations they served, or they might see the idea of honor among criminals as a mere pretense that killers such as themselves use to play at being civilized.</Description>
-    <Source Page="14">Keeping the Peace</Source>
+    <Source Page="14">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -644,7 +642,7 @@ Spies are frequently after information that isn’t simply stored in Imperial da
     <Description>
       [H4]Quester[h4]
 Sometimes, Seekers are not content to bide their time in the fringes of society or to follow the guidence of the Force to hidden wisdom. They might do those things out of necessity, but more often than not, Seekers set their own goals establishing new trails for thei own reasons. Such Seekers, find a reason to go out into the galaxy, whether to wilderness, cityscape, or deep space areas, and track down a new secret, treasure, or target. Then, having found what they were looking for, they set their sights on a new goal. Questing Seekers are always in motion, pushing the boundaries of their lives and the galaxy alike. These Seeker aren't easily defined by their pasts, but rather by the missions they seek out new challenges and the methods by which they pursue them.</Description>
-    <Source Page="13">Savage Spirits</Source>
+    <Source Page="13">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -653,7 +651,7 @@ Sometimes, Seekers are not content to bide their time in the fringes of society 
     <Description>
       [H4]Recluse[h4]
 Not all Seekers avoid the centres of galactic activity because they are pursuing particular goals or need to be on the run. For some, dwelling on the fringes of the galaxy is all they have ever known. Their paths may eventually lead them into contact with wider society but they bear the indelible imprint of their origins as outsiders. These Seekers may have come from a society largely undiscovered by other species, or they may have simply been born into a remote area that recieves few visitors. In rare cases, they might possibly be the descendants of other Force users, who fled the Imperial purge or even earlier calamities, and have grown up deliberately cut off from the outside world.</Description>
-    <Source Page="14">Savage Spirits</Source>
+    <Source Page="14">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -662,7 +660,7 @@ Not all Seekers avoid the centres of galactic activity because they are pursuing
     <Description>
       [H4]Refugee[h4]
 Refugees have escaped violence, starvation, and persecution only to face similar problems in their new home. In some cases, cities are unprepared to handle an influx of refugees and have no social services set up to accommodate them. In extreme instances, governments separate refugees from the rest of the population and cut them off from economic opportunities. On other worlds, differences in culture create tenrions among the populations, and refugees face violence from the citizenry rather than the government.</Description>
-    <Source Page="14">Endless Vigil</Source>
+    <Source Page="14">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -795,7 +793,7 @@ The tester's job is to stress new, experimental vehicles until they break. He pu
       [H4]Survivor[h4]
 The lives of Seekers can be about more than just establishing their own path. Some Seekers find themselves directly in the paths of others, whether caight up in galactic turmoil, hunted by deadly predators, or always being in the wrong place at the wrong time. For these intrepid soulds their path is about taking everything the galaxy can throw their way and moving onward in spite of it.
 [P]These natural survivors might view themselves as unlucky, or they might be too stubborn to admit any alternative route. A rare few even seek out increasingly difficult challenges through whcih to prove themselves. Whatever the reason for their trials their journey forward forges them into some of the toughest and most determined individuals in the galaxy.</Description>
-    <Source Page="14">Savage Spirits</Source>
+    <Source Page="14">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -814,7 +812,7 @@ Talented amateurs are almost the polar opposite of the academics, with little to
     <Description>
       [H4]Tech Designer[h4]
 Some Technicians believe that no matter what problem a being faces, the answer always lies in building a better solution, If a starship engine is powerful, it can be made more compact. If a cybernetic amr is as precise as an organic one, it can be made even more exact. Technology transforms the galazy, and those at the cutting edge of design have the power to create a future in their own image.</Description>
-    <Source Page="15">Special Modifications</Source>
+    <Source Page="15">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -832,7 +830,7 @@ The hunting of sentient beings is said by some to be the most thrilling and trea
     <Description>
       [H4]Ultimate Abilities[h4]
 Some characters see their strange abilities as a sign that they are destined for greatness. They can do things that others around them cannot. Clearly, this means they are a cut above the general population. To leave their life behind is merely the first step in a journey that may see them rise to become the ultimate power in the universe. Whether or not they use that power for good—or for evil—remains to be seen.</Description>
-    <Source Page="47">Force and Destiny Core Rulebook</Source>
+    <Source Page="47">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -841,7 +839,7 @@ Some characters see their strange abilities as a sign that they are destined for
     <Description>
       [H4]Underworld Tech Expert[h4]
 In the [B]Edge of The Empire[b], it can be hard to avoid occasionally interacting with criminal enterprises and underworld culture. Many Technicians support and are supported by shady characters, if not by outright criminals. Specialised underwolrd techs can be highly prized when they fulfull a critical role in a larger organisation, bu the average Mechanic or Droid Tech is sometimes regarded as more expendable than a reliable enforcer. The character might be trying to escape difficult decisions from the past or seeking to advance within a particular criminal organisation.</Description>
-    <Source Page="16">Special Modifications</Source>
+    <Source Page="16">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -860,8 +858,8 @@ In the [B]Edge of The Empire[b], it can be hard to avoid occasionally interactin
       [H4]Wanderer[h4]
 Curiosity? Boredom? Tragic circumstances? A desire for something more? Whatever it is that drives someone to wander away from his home and set out among the stars, it must be a powerful force to overcome the fear of the unknown. Most beings are simply overwhelmed by the sheer vastness of the galaxy, much less the uncountable dangers they must face each day as they ramble across the hyperlanes from planet to planet. The hardy soul who does so merely because he is drawn to is either exceptionally brave or a touch mad. Perhaps he is both.</Description>
     <Sources>
-      <Source Page="18">Enter the Unknown</Source>
-      <Source Page="15">Savage Spirits</Source>
+      <Source Page="18">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
+      <Source Page="15">Дополнение: Дикие духи (Savage Spirits)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </Hook>
@@ -872,7 +870,7 @@ Curiosity? Boredom? Tragic circumstances? A desire for something more? Whatever 
       [H4]Wayfarer[h4]
 [P]Some who follow the path of the Guardian are not content, or able to stay in one place. The galaxy is a big place, with countless planets, all sorts of strange creatures and civilizations, and naturally, innumerable beings who need protection. Guardians who follow the winds - or the call of the Force - often find others counting on them.  A wayfaring Guardian rises to the occasion, but neither allies nor accolades can keep this character rooted. After all, hyperspace is calling just as surely as the voices of the weak, the powerless, and the oppressed.
 [P]Indeed, perhaps the need to protect others keeps this Guardian traveling - lingering too long in one place risks drawing the wrath of the Empire upon the very people the Guardian sought to safeguard. Guardians of this sort often follow only the call of their own conscience, unbound by structured regulations or explicit codes. Still, there are always exceptions; some who wander do so to fulfill oaths, uphold obligations, or pursue more esoteric ends.</Description>
-    <Source Page="15">Keeping the Peace</Source>
+    <Source Page="15">Дополнение: Поддержание мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>
@@ -881,7 +879,7 @@ Curiosity? Boredom? Tragic circumstances? A desire for something more? Whatever 
     <Description>
       [H4]Wrong Place, Wrong Time[h4]
 The character finds himself embroiled in a life of adventure through no fault of his own. He could have been captured by pirates, the sole survivor of a deadly plague, or even something as mundane as being unemployed and forced to find some new way to bring in the credits. Regardless of the method for the character's push from society, he finds it nearly impossible to return to the way that things used to be. The character must quickly adapt to his new and dangerous situation.</Description>
-    <Source Page="38">Edge of the Empire Core Rulebook</Source>
+    <Source Page="38">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
   </Hook>
   <Hook>

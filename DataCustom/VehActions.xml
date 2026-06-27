@@ -5,9 +5,9 @@
     <Name>Accelerate/Decelerate</Name>
     <Description>The pilot may increase or decrease the ship or vehicle's current speed by one, to a minimum of zero or a maximum of the ship's maximum speed rating.</Description>
     <Sources>
-      <Source Page="232">Edge of the Empire Core Rulebook</Source>
+      <Source Page="232">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="245">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="238">Force and Destiny Core Rulebook</Source>
+      <Source Page="238">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaManeuver</ActionTypeValue>
@@ -25,9 +25,9 @@
     <Name>Angle Deflector Shields</Name>
     <Description>Using this maneuver, a crewmember with access to the shield controls can reassign up to one point of Defense from one defense zone to another. For example, a player could shore up a vessel's forward defense zone with a point from its aft defense zone. This maneuver only works if the ship or vehicle had defense that can be reassigned, as with deflector shield.</Description>
     <Sources>
-      <Source Page="233">Edge of the Empire Core Rulebook</Source>
+      <Source Page="233">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="246">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="239">Force and Destiny Core Rulebook</Source>
+      <Source Page="239">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaManeuver</ActionTypeValue>
@@ -66,9 +66,9 @@
     <Name>Boost Shields</Name>
     <Description>The crewmember re-routes power from other systems to boost the defensive systems a vehicle. This only works if a vehicle already has a defense rating. On a successful check, the vehicle suffers 1 system strain, and increases the defense of one defense zone by one until the beginning of his next turn. Additional [SU] increase the duration by one round per [SU].</Description>
     <Sources>
-      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="237">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="248">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="241">Force and Destiny Core Rulebook</Source>
+      <Source Page="241">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaAction</ActionTypeValue>
@@ -89,9 +89,9 @@
 
 [P]Each weapon on a starship or vehicle may only be fired a maximum of once per round unless a rule specifically allows otherwise.</Description>
     <Sources>
-      <Source Page="234">Edge of the Empire Core Rulebook</Source>
+      <Source Page="234">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="249">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="241">Force and Destiny Core Rulebook</Source>
+      <Source Page="241">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaAction</ActionTypeValue>
@@ -129,9 +129,9 @@
     <Name>Copilot</Name>
     <Description>The crewmember serves as the vehicle's copilot, managing systems and auxiliary equipment to allow the pilot to focus on flying or driving. On a successful check, each success downgrades the difficulty of the pilot's next piloting check by 1.</Description>
     <Sources>
-      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="237">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="248">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="241">Force and Destiny Core Rulebook</Source>
+      <Source Page="241">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaAction</ActionTypeValue>
@@ -157,9 +157,9 @@ per success) per encounter. The difficulty of the Mechanics check is determined 
 
 [P]Characters can also use this action to repair Critical Hits the ship is suffering from. The difficulty of repairing a Critical Hit is listed on [B]Table 7-9 : Critical Hit Result.[b] Checks to repair Critical Hits can be attempted multiple times, until the Critical Hit is repaired.</Description>
     <Sources>
-      <Source Page="233">Edge of the Empire Core Rulebook</Source>
+      <Source Page="233">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="247">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="240">Force and Destiny Core Rulebook</Source>
+      <Source Page="240">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaAction</ActionTypeValue>
@@ -177,9 +177,9 @@ per success) per encounter. The difficulty of the Mechanics check is determined 
     <Name>Evasive Maneuvers</Name>
     <Description>Evasive Maneuvers reflects a pilot's efforts to avoid incoming fire, collision, or other calamity. Executing Evasive Maneuvers upgrades the difficulty of the dice pool once for all attacks made against the ship until the end of the pilot's next turn. While this makes the ship executing the starship maneuver harder to hit, it also makes it harder for the ship executing the starship maneuver to hit anything else. Executing Evasive Maneuvers likewise upgrades the difficulty of the dice pool once for all attacks made by the ship until the end of the pilot's next turn. Evasive Maneuvers can only be undertaken by ships or vehicles of silhouette 4 or lower. Anything larger is typically too slow or awkward to perform Evasive Maneuvers.</Description>
     <Sources>
-      <Source Page="232">Edge of the Empire Core Rulebook</Source>
+      <Source Page="232">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="245">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="238">Force and Destiny Core Rulebook</Source>
+      <Source Page="238">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaManeuver</ActionTypeValue>
@@ -198,9 +198,9 @@ per success) per encounter. The difficulty of the Mechanics check is determined 
     <Name>Fire Discipline</Name>
     <Description>The crewmember forgoes fighting to analyze the opponents' tactics and direct his fellows to greater accuracy with their weapons fire. If successful, the next crewmember firing a weapon aboard the ship can add [BO] his check. Each additional [SU][SU] grants this to an additional crewmember. In addition. the crewmember may spend [AD][AD][AD] to allow every hit from shipboard weapons to inflict 1 system strain on their target as well as regular damage until the beginning of his next turn as the carefully timed shots pummel shields and overload systems.</Description>
     <Sources>
-      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="237">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="248">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="241">Force and Destiny Core Rulebook</Source>
+      <Source Page="241">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaAction</ActionTypeValue>
@@ -225,9 +225,9 @@ per success) per encounter. The difficulty of the Mechanics check is determined 
 &lt;li&gt;[B]Speed 2-4:[b] One starship maneuver to move within close range of a target or object, to move from close to short range, or from short to close range. Two starship maneuvers to move from close to medium, or medium to close range.
 &lt;li&gt;[B]Speed 5-6:[b] One starship maneuver to move within close range of a target or object, to move from close to medium range, or from medium to close range. Two starship maneuvers to move from close to long, or long to close range.</Description>
     <Sources>
-      <Source Page="232">Edge of the Empire Core Rulebook</Source>
+      <Source Page="232">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="245">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="238">Force and Destiny Core Rulebook</Source>
+      <Source Page="238">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaManeuver</ActionTypeValue>
@@ -247,9 +247,9 @@ per success) per encounter. The difficulty of the Mechanics check is determined 
 
 [P]Once the advantage has been gained, on the following turn, the opponent may attempt to cancel out the advantage by using Gain the Advantage as well. This works as described earlier, but his check is one step more difficult for each time he or his opponent has successfully Gained the Advantage against the other.</Description>
     <Sources>
-      <Source Page="234">Edge of the Empire Core Rulebook</Source>
+      <Source Page="234">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="247">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="240">Force and Destiny Core Rulebook</Source>
+      <Source Page="240">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaAction</ActionTypeValue>
@@ -270,9 +270,9 @@ per success) per encounter. The difficulty of the Mechanics check is determined 
     <Name>Jamming</Name>
     <Description>The crewmember uses the vehicle's systems to jam the communications of enemy vehicles. On a successful check, the enemy most make a [B]Average ([DI][DI]) Computers check[b] to use their communication systems. The difficulty increases by one for each additional [SU][SU], and the jamming affects an additional target for each [AD] spent.</Description>
     <Sources>
-      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="237">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="248">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="241">Force and Destiny Core Rulebook</Source>
+      <Source Page="241">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaAction</ActionTypeValue>
@@ -291,9 +291,9 @@ per success) per encounter. The difficulty of the Mechanics check is determined 
     <Name>Manual Repairs</Name>
     <Description>In some cases, repairs can be as simple as a sturdy metal plate welded over a damaged system. If the GM allows and the crewmember has the proper tools for the job, they can attempt to use the Damage Control action with Athletics rather than Mechanics. If successful, they may remove one point of hull trauma from the ship, plus one additional point for each additional [SU][SU]. Remember, this follows the limitations to Damage Control, and thus may only be attempted once per encounter.</Description>
     <Sources>
-      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="237">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="248">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="241">Force and Destiny Core Rulebook</Source>
+      <Source Page="241">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaAction</ActionTypeValue>
@@ -390,9 +390,9 @@ per success) per encounter. The difficulty of the Mechanics check is determined 
     <Name>Plot Course</Name>
     <Description>The crewmember studies the terrain ahead and plots a course that should take the vehicle safely through it. On a successful check, each success reduces the [SE] suffered for difficult terrain by 1.</Description>
     <Sources>
-      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="237">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="248">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="241">Force and Destiny Core Rulebook</Source>
+      <Source Page="241">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaAction</ActionTypeValue>
@@ -416,9 +416,9 @@ per success) per encounter. The difficulty of the Mechanics check is determined 
 
 [P]This starship maneuver is restricted to ships of silhouette 4 or lower, as larger vessels have too much mass to accelerate so quickly.</Description>
     <Sources>
-      <Source Page="233">Edge of the Empire Core Rulebook</Source>
+      <Source Page="233">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="246">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="239">Force and Destiny Core Rulebook</Source>
+      <Source Page="239">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaManeuver</ActionTypeValue>
@@ -436,9 +436,9 @@ per success) per encounter. The difficulty of the Mechanics check is determined 
     <Name>Scan the Enemy</Name>
     <Description>The crewmember uses the ship's scanners to study the enemy. If successful, he learns what weapons the ship has, any modifications, and their system strain and hull trauma thresholds. If he spends [AD][AD] he can also learn their current system strain and hull trauma levels.</Description>
     <Sources>
-      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="237">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="248">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="241">Force and Destiny Core Rulebook</Source>
+      <Source Page="241">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaAction</ActionTypeValue>
@@ -457,9 +457,9 @@ per success) per encounter. The difficulty of the Mechanics check is determined 
     <Name>Slice Enemy's Systems</Name>
     <Description>The crewmember uses powerful shipboard computers to attempt to disrupt the systems of an enemy vehicle. If successful, he reduces the defense of one zone on the target vehicle for one round per [SU]. A [TR] may be spent to disable a weapon system for one round, and [AD][AD] may be spent to inflict one system strain on the target vehicle.</Description>
     <Sources>
-      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="237">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="248">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="241">Force and Destiny Core Rulebook</Source>
+      <Source Page="241">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaAction</ActionTypeValue>
@@ -478,9 +478,9 @@ per success) per encounter. The difficulty of the Mechanics check is determined 
     <Name>Spoof Missiles</Name>
     <Description>The crewmember tracks incoming attacks and uses vehicle systems to disrupt their tracking systems, or even times incoming missiles and drops flares and chaff at the opportune moment. If successful, any attacks against the crewmember's ship or vehicle using weapons with the Guided quality upgrade their difficulty by one (plus an additional upgrade for every additional [AD][AD]) until the start of the crewmember's next turn.</Description>
     <Sources>
-      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="237">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="248">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="241">Force and Destiny Core Rulebook</Source>
+      <Source Page="241">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaAction</ActionTypeValue>
@@ -500,9 +500,9 @@ per success) per encounter. The difficulty of the Mechanics check is determined 
     <Name>Дополнение: Все по плану (Stay on Target)</Name>
     <Description>This reflects a pilot's concentration and his ability to shut out combat-related stresses and distractions to make sure a target is hit or an adversary destroyed. Until the end of the pilot's next turn, all combat checks from the vehicle or vessel executing this maneuver upgrade the Ability dice in their pool once. Unfortunately, while he is concentrating so hard on his target, the pilot blocks out all other threats and is an easier target for opponents. Any combat checks made targeting a ship executing this starship maneuver upgrades the Ability dice in their pool once until the end of the pilot's next round. This starship maneuver is restricted to small vessels like starfighters and patrol boats, and only ships or vehicles of silhouette 4 or lower can Stay on Target.</Description>
     <Sources>
-      <Source Page="233">Edge of the Empire Core Rulebook</Source>
+      <Source Page="233">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="245">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="239">Force and Destiny Core Rulebook</Source>
+      <Source Page="239">Книга правил: Сила и судьба (Force and Destiny)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaManeuver</ActionTypeValue>

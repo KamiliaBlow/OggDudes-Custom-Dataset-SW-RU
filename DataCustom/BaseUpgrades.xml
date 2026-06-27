@@ -1963,7 +1963,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
       [H4]Emergency Containment Measures[h4]
       Downgrade the difficulty of checks with the workshop's focus skill once. This benefit can only be selected once.
     </Description>
-    <Source Page="95">Special Modifications</Source>
+    <Source Page="95">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>1</PurchaseCount>
     <MonthlyProfit>0</MonthlyProfit>
@@ -1981,7 +1981,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
       [H4]Comforts of Home[h4]
       When the PC suffers strain in the workshop, the character suffers 2 less strain, to a minimum of 1. This does not apply to strain suffered voluntarily. This advanced benefit can be selected any number of times and its effects are cumulative.
     </Description>
-    <Source Page="95">Special Modifications</Source>
+    <Source Page="95">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>0</PurchaseCount>
     <MonthlyProfit>0</MonthlyProfit>
@@ -1999,7 +1999,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
       [H4]Low-Grav Workspace[h4]
       With access to a low or zero gravity work area as part of a workshop, a Technician can smelt metals and create pharmaceuticals with unique processes difficult to reproduce under the effects of gravity. The character adds automatic [AD] Mechanics and Medicine checks in the workshop. This advanced benefit can only be selected once.
     </Description>
-    <Source Page="95">Special Modifications</Source>
+    <Source Page="95">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>1</PurchaseCount>
     <MonthlyProfit>0</MonthlyProfit>
@@ -2018,7 +2018,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
       Whenever the character fails a Crafting check in the workshop, half the Material price is automatically reclaimed. With the proper use of [AD] or auxiliary equipment, the character can reclaim a maximum of the full value of the Material Price. This advanced benefit can only be selected once.
 
     </Description>
-    <Source Page="95">Special Modifications</Source>
+    <Source Page="95">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>1</PurchaseCount>
     <MonthlyProfit>0</MonthlyProfit>
@@ -2037,7 +2037,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
       The character may spend [AD][AD] from any check in the workshop using its focus skill to record data for later use. At the GM's discretion, this grants additional [BO] to similar future checks. This advanced benefit can only be selected once.
 
     </Description>
-    <Source Page="95">Special Modifications</Source>
+    <Source Page="95">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>1</PurchaseCount>
     <MonthlyProfit>0</MonthlyProfit>
@@ -2054,7 +2054,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
     <Description>
       [H4]Additional Workspace[h4]
 [B]Upgrade Description:[b] The character chooses one additional focus skill for the workshop. This advanced benefit can be selected any number of times, and its effects are cumulative.</Description>
-    <Source Page="95">Special Modifications</Source>
+    <Source Page="95">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>0</PurchaseCount>
     <MonthlyProfit>0</MonthlyProfit>
@@ -2073,7 +2073,7 @@ Setting up one modular base structure requires an [B]Easy ([DI]) Athletics check
       Reduce the rarity of any materials the character wishes to acquire for a crafting project in the workshop by one (to a minimum of 0). If this reduces the rarity of a material to 0, the character does not need to acquire it and is considered to already have it on hand. This advanced benefit can be selected any number of times, and its effects are cumulative.
 
     </Description>
-    <Source Page="95">Special Modifications</Source>
+    <Source Page="95">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <PurchaseCount>0</PurchaseCount>
     <MonthlyProfit>0</MonthlyProfit>
