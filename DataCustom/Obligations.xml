@@ -97,7 +97,7 @@ In the pursuit of a past contract, the character was careless. He accidentally d
 The PC has a pressing contract to fulfill, whether it is legally binding or an informal deal. The contract may be for providing, installing or repairing technical items, or on call services. Fulfilling terms of the contract reduces the character's obligation, while putting them off or incurring expenses for the sake of fulfilling the contract might increase it.</Description>
     <Sources>
       <Source Page="18">Дополнение: Особые модификации (Special Modifications)</Source>
-      <Source Page="19">No Disintegrations</Source>
+      <Source Page="19">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </Obligation>
@@ -199,7 +199,7 @@ The character has deep ties with his family that require a great deal of time an
     <Description>
       [H4]Fame[h4]
 The character's reputation casts a long shadow. Perhaps the PC took a famous and difficult bounty, or owns a recognizable and deadly ship, or has beaten another well-known hunter to the punch in the past. Whatever the case, it is hard for the character to move unnoticed throughout the galaxy. This makes covert operations more difficult, but also means that informants are more likely to spill what they know when the PC arrives.</Description>
-    <Source Page="19">No Disintegrations</Source>
+    <Source Page="19">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -248,7 +248,7 @@ The Smuggler just can't help it, he has to take the most dangerous jobs and play
     <Description>
       [H4]Keeper of the Faith[h4]
 Much to many other freelancers' amusement, this character has sworn to faithfully uphold both the spirit and the letter of some code of honor. The PC believes very strongly in these edicts and adheres to them with an almost religious fervor. The character never knowingly breaks any of the rules laid down in the code, and may turn on colleagues who do so.</Description>
-    <Source Page="19">No Disintegrations</Source>
+    <Source Page="19">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -323,7 +323,7 @@ A character with the Responsibility Obligation feels a strong sense of accountab
     <Description>
       [H4]Rule Breaker[h4]
 Either the character very publicly and flagrantly broke one of the rules laid down in the bounty hunter's code, or everyone wrongly believes she did. Whatever the case, this breach of the rules of the code affects the character's personal and professional life in a very real way. Contracts dry up, colleagues refuse to speak to or help the character, or the character is treated in a condescending or irritatingly sympathetic manner.</Description>
-    <Source Page="19">No Disintegrations</Source>
+    <Source Page="19">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -359,7 +359,7 @@ This represents a legitimate faction that has placed a great deal of resources i
     <Description>
       [H4]Thrill Seeker[h4]
 Some people are addicted to alcohol or chems, others to gambling or other seedy vices. This character, however, is a confirmed adrenaline junkie, and chooses bounties not by their challenge or price, but by how exciting or dangerous they are. Avoiding the Obligation—perhaps by being a responsible business operator and considering every job's cost benefit analysis—results in an almost immediate case of excitement withdrawal. when inactive, the character is edgy, moody, easily distracted, and generally unpleasant to be around.</Description>
-    <Source Page="19">No Disintegrations</Source>
+    <Source Page="19">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>
@@ -386,7 +386,7 @@ The PC is working on a long-term project such as a complex computer program or a
     <Description>
       [H4]Vigilante[h4]
 The character has seen the wheels of justice grind up the innocent and let the guilty walk free. The character has sworn to take the law—or a version of it, at any rate—and bring  justice to those who deserve it. When taking on contracts, this character tends to pursue the most hardened criminals.</Description>
-    <Source Page="19">No Disintegrations</Source>
+    <Source Page="19">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
   </Obligation>
   <Obligation>

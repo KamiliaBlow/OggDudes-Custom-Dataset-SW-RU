@@ -1613,7 +1613,7 @@ Holdout blasters and vibroknives are easy enough to hide, but when characters wi
       [H3]Containment Field[h3]
 Designed for permanent installation, a containment field generator consists of two flat, cylindrical generators—one bolted to the floor, the other to the ceiling— that hold a single individual captive in a powerful stasis field. Individuals held in a containment field. Individuals held in a containment field wear magnetic binders and are suspended in mid-air, completely isolated from the world around them. When held in  a containment field, individuals are usually fitted with bio-signs monitors due to the field's distressing habit of causing heart attacks, brain damage, or death if it is not tuned correctly. This attachment can be installed on any vessel of silhouette 4 or higher.
 [BR][B]Models Include:[b] Gordarl Weaponsmiths A1 Containment Field.</Description>
-    <Source Page="64">No Disintegrations</Source>
+    <Source Page="64">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>7500</Price>
@@ -3166,7 +3166,7 @@ As one might well guess from their name, speeders are swift craft by nature. For
       [H3]Enhanced Prison Lockup[h3]
 A prisoner lockup is an aftermarket modification that provides a ship with a comprehensive prisoner handling and transporting system. It includes two cells that hold one human-sized individual each, with sufficient life support and basic necessities. The kit also includes numerous security systems for the lockup itself an the ship at large. Cameras and motion sensors are installed and powerful electronic locks are fitted to hatches and doors throughout the ship. This attachment can be installed on any vessel capable of carrying prisoners.
 [BR][B]Models Include:[b] Various models.</Description>
-    <Source Page="64">No Disintegrations</Source>
+    <Source Page="64">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>3500</Price>
@@ -4741,7 +4741,7 @@ As a result of their transient lifestyles, most smugglers must bring their own e
       [H3]Integrated Holsters[h3]
 By mounting their holsters into the framework of their armor, combatants can ensure no one can catch them unarmed. Not only does the wearer have easy access to these weapons at all times, but powered servos an other systems can be set up to assist the wearer in drawing or stowing these weapons more rapidly. A character with  a fully tooled set of integrated holsters has access to a hidden arsenal that can overwhelm most foes.
 [BR][B]Models Include:[b] BlasTech "Personal Armory" Gear.</Description>
-    <Source Page="52">No Disintegrations</Source>
+    <Source Page="52">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>300</Price>
@@ -5672,7 +5672,7 @@ Mephite crystals are rare, lustrous kyber crystals found in a handful of places 
 Micro-rockets are flexible (if dangerous) weapons favored as secondary arms by many bounty hunters (see [B]Micro-Rockets[b] on page 46), and generally fired from a mount installed in the wielder's armor. This attachment can be installed on any armor.
 [BR][B]Models Include:[b] BlasTech Mag-Clip Micro-Rocket Mounting, Goseia HIC "Last Word" Launch/Targeter System, countless custom variants.
     </Description>
-    <Source Page="52">No Disintegrations</Source>
+    <Source Page="52">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>800</Price>
@@ -5721,7 +5721,7 @@ Micro-rockets are flexible (if dangerous) weapons favored as secondary arms by m
       [H3]Staged Rocket Booster[h3]
 The limitations of size mean that most micro-rockets lack the fuel capacity to reach distant targets. However, high-yield fuel cells, advanced filtration systems, or staged boosters added to the rockets can all increase a rocket's effective range substantially. Of course, the term "effective range" becomes something of a misnomer with rockets modified in this way, as the additional fuel risks unbalancing the rocket's flight path, and the increased range comes with an increased chance of misjudgment on the part of the user. However, the chance to deliver a hefty payload beyond the reach of equivalent retribution is worth the risk to many. This attachment can be installed on any micro-rocket.
 [P][B]Models Include:[b] SoroSuub HV-33 Fuel Filter.</Description>
-    <Source Page="47">No Disintegrations</Source>
+    <Source Page="47">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -5758,7 +5758,7 @@ The limitations of size mean that most micro-rockets lack the fuel capacity to r
       [H3]Rocket Guidance System[h3]
 Most micro-rockets are fired directly at their target, relying on the firer's aim and the rocket's acceleration to ensure a direct hit. For those who prefer more insurance that their rockets land precisely where intended, packages of sensors, limited fuel cell expansions, and adjustable maneuvering fins allow for rockets to be modified into maneuvering fins allow for rockets to be modified into "smart" weapons that continue to seek their designated target in the event of an initial miss or misfire. These systems enable users to get more reliable performance out of their rockets while at the same time minimizing the collateral damage. This attachment can be installed on any micro-rocket.
 [P][B]Models Include:[b] Phar Co. "Vornskr" Guidance Package, Merr-Sonn "Outreach" Target Sensor.</Description>
-    <Source Page="47">No Disintegrations</Source>
+    <Source Page="47">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -5792,7 +5792,7 @@ Most micro-rockets are fired directly at their target, relying on the firer's ai
       [H3]Under-Barrel Micro-Rocket Rack[h3]
 Micro-rockets can be fired in a plethora of ways, and some hunters mount them on their other weapons, giving these arms a deadly secondary fire mode (see [B]Micro-Rockets[b] on page 46). This attachment can be installed on any ranged weapon.
 [P][B]Models Include:[b] Blastech "Finisher" Rocket Rack, TaggeCo Under-Barrel Rocket Battery.</Description>
-    <Source Page="51">No Disintegrations</Source>
+    <Source Page="51">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -6014,7 +6014,7 @@ the user’s checks to resist extreme heat or cold.</Description>
       [H3]Minelayer[h3]
 Minelayers, and their accompanying ordnance, are anti-ship weapons sold by numerous major galactic arms manufacturers. Mines are typically deployed in defensive positions, used to deny areas to vehicle traffic or to create fire lanes for weapon emplacements, but they can also be used offensively in a manner similar to missile or torpedo launchers. They come in a variety of styles—from simple concussion mines to sophisticated gravity mines—and grant a small vessel such as a starfighter or patrol boat, a damage capacity well out of proportion to its size. This attachment can be installed on any starship.
 [BR][B]Models Include:[b] GSI M-L4 Seeker. Czerka Arms Mk. IX Proton Mine.</Description>
-    <Source Page="64">No Disintegrations</Source>
+    <Source Page="64">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>4000</Price>
@@ -6082,7 +6082,7 @@ This uncommon attachment provides the user with the option for a single explosiv
       [H3]Marked-Target Firing Lock[h3]
 In the chaos of a firefight, shots can go astray, damaging property or bystanders. While some hunters do not care about the carnage they cause, this kind of haphazard damage is a liability, courting attention from the law or revenge from those who suffer in the crossfire. To mitigate this risk, some bounty hunters invest in firing locks on their blasters, allowing them to designate specific targets for the weapons. Once the systems' sensors have recognized a target, the weapons refuse to fire without a clear shot, minimizing the chance of collateral damage. This attachment can be installed on any ranged weapon that does not possess the Blast or Auto-fire quality.
 [P][B]Models Include:[b] BlasTech "Surefire" Safety Sensor, Cadregg Armory Model-87 Weapon Sensor.</Description>
-    <Source Page="51">No Disintegrations</Source>
+    <Source Page="51">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -8510,7 +8510,7 @@ By removing or deactivating weapon safeties and other features a gun can more ea
       [H3]Repulsor-Assisted Lifting[h3]
 Although more common among factory or warehouse labor crews than in battle, repulsor-assist systems have gained some popularity among bounty hunters who need to haul in heavy catches. The systems operate through a series of miniaturized repulsorlift generators placed at key joints throughout the armor, easing the weight of attached suits, as well as any loads they might support. Of course, the repulsorlift generators are tuned to reduce weight and pressure rather than exert force on their own, so some hunters prefer powered armor suits with lesser lifting capabilities but more general applications for their servos. This attachment can only be used with laminate armor and other full-body hard armor suits.
 [P][B]Models Include:[b] Guldak Heavy Industries Personal Repulsor Fitting.</Description>
-    <Source Page="52">No Disintegrations</Source>
+    <Source Page="52">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <CategoryLimit>
@@ -9424,7 +9424,7 @@ Practitioners of Form V sometimes use a reverse grip on their lightsabers to ass
       [H3]Shock Pulse Emitter[h3]
 Shock pulse emitters operate along principles similar to a blaster's stun setting, but at much shorter effective range—a range short enough to be of little use as weapons in themselves. However, when shock pulse emitters are integrated into weapons intended for close combat to begin with, they become effective combat tools to debilitate opponents and make a finishing blow easier to land. This attachment can be installed on any Melee or Brawl weapon.
 [P][B]Models Include:[b] Corellian Personal Defense Stun Pad.</Description>
-    <Source Page="51">No Disintegrations</Source>
+    <Source Page="51">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <SkillLimit>
@@ -10444,7 +10444,7 @@ Popular with marksmen and snipers, this attachment consists of a long tube attac
       [H3]Tracking System[h3]
 Through a series of specialized computer systems and sensors, this attachment collects and processes data from the wearer's surroundings to follow and predict the movements of designated targets. A heads-up display integrated into a helmet or visor feeds the wearer this information onto an overly of their surroundings. The systems are not limited to local targets, either, but can follow signals from distant communicators or tags and process optimal routes towards them. Tracking systems in armor are typically designed to operate alongside similar equipment, and are often able to integrate with other systems to a greater effect than the sum of their parts. This attachment can be installed on any armor.
 [P][B]Models Include:[b] Galkor Solutions W-7 Locator Array.</Description>
-    <Source Page="52">No Disintegrations</Source>
+    <Source Page="52">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>1000</Price>
@@ -10924,7 +10924,7 @@ Full body armor can be designed to be sealed against a vacuum, allowing the user
       [H3]Vaksai Modification Package[h3]
 A prefabricated kit of starship modifications sold by TransGalMeg for their Kihraxz modular light starfighter, this package includes upgraded engines and flight control systems, a heavier weapons loadout, and a higher-out-put shield generator. While expensive, those Kihraxz pilots who can afford it swear by the added survivability and firepower it provides, allowing the fighter to engage heavier targets and emerge victorious.
 [P][B]Models Include:[b] Vaksai Modification Package.</Description>
-    <Source Page="60">No Disintegrations</Source>
+    <Source Page="60">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <ItemLimit>

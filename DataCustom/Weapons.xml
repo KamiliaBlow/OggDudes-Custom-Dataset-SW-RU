@@ -6020,7 +6020,7 @@ Subtlety and discretion can be critical to effective use of a weapon. An easily 
       [H3]"Firecaller" Light Flame Projector[h3]
 Merr-Sonn's "Firecaller" model flame projectors have inspired almost as much fear and revulsion among those who have encountered them as disruptors, despite the long and infamous history of disintegrators. Under a galactic government more concerned with sapient rights and well-being than the Empire, authorities might have banned these dreadful weapons already; some individual planetary governments have taken that step on their own. As such, Firecallers have tremendous appeal to criminals, bounty hunters, and those who are drawn towards such a repuation.
 [P]The reason for the Firecallers' infamy lies in its unconventional fuel, an accelerite derivative abandoned by the company's starship designers as too unstable for use in their work. The highly flammable chemical substance burns at an incredibly high temperature and for an extended period compared to the typical fuels used in flame projectors. Although each blast from these weapons releases only a small spray of the chemical in order to prevent dangerous blowback, even this limited exposure causes devastating wounds over time as it burns its way through armor and protective gear to inflict terrible harm on now-exposed flesh.</Description>
-    <Source Page="44">No Disintegrations</Source>
+    <Source Page="44">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -7099,7 +7099,7 @@ Introduced during the waning years of the Galactic Republic, SoroSuub's GLX Fire
     <Description>
       [H3]Grapnel-Harpoon Launcher[h3]
 Commonly thought of as tools for climbing or lifting cargo, the weapons division of Pharr Co. instead produces grapnel launchers with the balance and targeting capablities necessary for combat use, allowing their users entangle opponents in a binding cord. Although sometimes used by thieves who don't like the idea of their victems fighting back, these grapnel guns see more use by bounty hunters or even law enforcement agents, assisting in the capture of their quarries. Although viewed as a non-lethal option, the magnetic firing mechanism of a grapnel is powerful enough to inflict injuries on the targets it ensnares. Generally, such wounds are superficial, and thus don't threaten the target's life—or more importantly, the bounty hunter's chances of getting paid in full.</Description>
-    <Source Page="45">No Disintegrations</Source>
+    <Source Page="45">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -7952,7 +7952,7 @@ An ion stunner disrupts living beings' neural pathways as well as the electronic
       [H3]Nova Design "Impact" Repulsor Cannon[h3]
 Despite the ubiquity of repulsorlift technology across the galaxy, the  particular variant of design that resulted in repulsor cannons rarely sees production or use outside of specialty weapon manufacturers such as Nova Design Arms. Produced by a company specializing in unusual armaments as an alternative to stun or riot blasters, the weapons have a reputation as inferior options for a non-lethal weapon. The gravitic disruptions the weapons create are capable of disabling a target from nearly any action if focused properly, but this disabling effect only lasts as long as the weapons remain focused on their targets.
 [P]Some cunning bounty hunters have adopted these weapons as tools to disable a target while partners or associates move in with binders for a clean capture. As such, lone hunters rarely use this weapon, but it is a relatively common sight in the hands of bounty hunters who regularly work with a posse, especially as a backup weapon or a specialist tool they bring along only for specific jobs. It enables bounty hunter teams to use various unconventional tactics to bring in difficult targets, so it has a popular following in spite of its limitations.</Description>
-    <Source Page="45">No Disintegrations</Source>
+    <Source Page="45">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -8388,7 +8388,7 @@ Ion weapons are anti-ship and anti-vehicle weapons designed to disable rather th
     <Description>
       [H3]Ion Pike[h3]
 Used to disable escaped or malfunctioning froids, thee slender lengths of metal are flexible enough to be slipped between armor plating to reach vulnerable power sources and circuit banks, and are capable of releasing a powerful ion charge once they make contact. Using the weapons properly requires a great deal of practice, and slipping the probes past armor plates during the heat of a conflict or chase is difficult even for an experienced wielder. However, those who have seen someone slip up to a haywire industrial droid and bypass layers of protective plating to diable it harbor no further doubt that the pikes have their uses.</Description>
-    <Source Page="48">No Disintegrations</Source>
+    <Source Page="48">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -11062,7 +11062,7 @@ A mass driver is a type of projectile cannon. They inflict damage by hurling pro
     <Description>
       [H3]Anti-Armor Micro-Rocket[h3]
 When faced with heavily protected targets, or even light vehicles, warheads with shaped explosive charges allow a bounty hunter to make short work of normally impressive defenses. While micro-rockets of any variety are insufficent to deal with truly hardened targets such as military walkers or speeder tanks, anti-amor charges are more than up to the task of dealing with war droids or combat swoops, let alone an armored soldier or bodyguard.</Description>
-    <Source Page="46">No Disintegrations</Source>
+    <Source Page="46">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -11094,7 +11094,7 @@ When faced with heavily protected targets, or even light vehicles, warheads with
     <Description>
       [H3]Explosive Micro-Rocket[h3]
 The most common variety of micro-rockets have simple, high-explosive warheads that provide the maximum amount of force possible for the miniaturized weapons. While other warheads may be more suited to specific kinds of targets, most hunters find an explosive rocket rarely fails to make an impression.</Description>
-    <Source Page="46">No Disintegrations</Source>
+    <Source Page="46">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -11126,7 +11126,7 @@ The most common variety of micro-rockets have simple, high-explosive warheads th
     <Description>
       [H3]Flechette Micro-Rocket[h3]
 The warheads of flechette rockets detonate just before impact, releasing a cloud of razor-edged metal shards to lacerate the target, or anyone unfortunate enough to be nearby. They lack the penetration of an explosive charge, much less a dedicated anti-armor warhead, but the flechettes inflict devastating wounds nevertheless. Bounty hunters who hunt huge beasts or predators sometimes favor flechette rockets, as they can disable such creatures over several volleys.</Description>
-    <Source Page="46">No Disintegrations</Source>
+    <Source Page="46">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -11162,7 +11162,7 @@ The warheads of flechette rockets detonate just before impact, releasing a cloud
     <Description>
       [H3]Incendiary Micro-Rocket[h3]
 Incendiary warheads are loaded with flammable chemical mixtures that offer the devastating effects of a flame projector at in a miniaturized package. Ruthless bounty hunters have used incendiary rockets to pliterally smoke their targets out of their hiding places. The risk of losing the bounty in the ensuing fire is considerable, and many consider the inevitable collateral damage highly unprofessional, but none deny the fear that the tactic inspires.</Description>
-    <Source Page="46">No Disintegrations</Source>
+    <Source Page="46">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -11199,7 +11199,7 @@ Incendiary warheads are loaded with flammable chemical mixtures that offer the d
       [H3]Ion Micro-Rocket[h3]
 Bounties on droids are not common, but they are frequently profitable, as any droid considered irreplaceable enough to mark in such a fashion is often extremely valuable. As such, some bounty hunters invest in ion pulse warheads for their micro-rockets, which can disable droids without permanent damage. The power of an ion rocket can can even create a power surge in unshielded non-sentient equipment that burns out capacitors or damages circuits.
 [P]The Sunder quality of an ion micro-rocket can only be activated to damage powered equipment, such as sensors, blasters, or vibro-blades. It cannot be used to damage items that operate without power, as they have no circuitry to disrupt.</Description>
-    <Source Page="47">No Disintegrations</Source>
+    <Source Page="47">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -11234,7 +11234,7 @@ Bounties on droids are not common, but they are frequently profitable, as any dr
       [H3]Micro-Rocket Launcher Pistol[h3]
 While micro-rockets are frequently mounted on armor or other weapons, there are pistol weapons designed exclusively to fire these devasting rounds
 [P]Up to 3 micro-rockets can be loaded in the launcher. While a micro-rocket is loaded, it replaces the damage, critical rating, and item qualities of the launcher.</Description>
-    <Source Page="47">No Disintegrations</Source>
+    <Source Page="47">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
     <Categories>
@@ -11307,7 +11307,7 @@ Diplomats rarely fare as well as their allies in extended firefights or brawls, 
     <Description>
       [H3]Concussion Mine[h3]
 Typically deployed as anti-fighter measures, concussion mines use a potent explosve to creat a powerful shockwave capable of cracking open the toughest hulls.</Description>
-    <Source Page="64">No Disintegrations</Source>
+    <Source Page="64">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -11343,7 +11343,7 @@ Typically deployed as anti-fighter measures, concussion mines use a potent explo
       [H3]Firecracker Mine[h3]
 Deployed in groups, firecracker mines emit intense bursts of light, noise, and radiation when they explode. This suppresses sensors and comms of any ship within range, making these mines excellent for offensive and defensive purposes.
 [P]When a vessel is struck by a firecracker mine each of its crew and occupants suffers the disoriented condition (see page 218 of the [B]Edge of the Empire[b] Core Rulebook) for 3 rounds.</Description>
-    <Source Page="64">No Disintegrations</Source>
+    <Source Page="64">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -11380,7 +11380,7 @@ Deployed in groups, firecracker mines emit intense bursts of light, noise, and r
       [H3]Gravity Mine[h3]
 Gravity mines are another non-lethal type of mine designed to interfere with a ship's systems rather than destroy it, When they detonate, gravity mines release a powerful localized gravitic field bubble out to long range. Gravity mines are typically deployed around space stations and other sensitive areas, and are often used along with orbital weapon emplacements.
 [P]After the mine detonates, it creates a gravitic bubble out to long range; ships cannot enter hyperspace until they use the recuired maneuvers to travel beyond the bubble.</Description>
-    <Source Page="64">No Disintegrations</Source>
+    <Source Page="64">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -11412,7 +11412,7 @@ Gravity mines are another non-lethal type of mine designed to interfere with a s
     <Description>
       [H3]Ion Mine[h3]
 Very popular among bounty hunters and law enforcement agencies, ion mines use a powerful ion warhead to disable a ship rather than outright destroy it. This allows the vessel and its crew to be easily recovered for capture or questioning.</Description>
-    <Source Page="64">No Disintegrations</Source>
+    <Source Page="64">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -11446,7 +11446,7 @@ Very popular among bounty hunters and law enforcement agencies, ion mines use a 
     <Description>
       [H3]Connor Net Mine[h3]
 Designed to envelop and ionize a single ship, Conner nets have been known to catch even skilled pilots off-guard.</Description>
-    <Source Page="64">No Disintegrations</Source>
+    <Source Page="64">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -11477,7 +11477,7 @@ Designed to envelop and ionize a single ship, Conner nets have been known to cat
       [H3]Seeker Mine[h3]
 Seeker mines couple a powerful explosive charge with a simple guidance and drive system to make an incredibly lethal piece of ordnance. When a ship enters their sensor range, seeker mines activate and pursue their target.
 [P]If the pilot of a ship targeted by a seeker mine succeeds on the [B]Piloting (Space) check[b], the character who set the mine may spend [SE][SE] from the check to force the pilot to repeat that check with the difficulty reduced by 1 (to a minimum of [B]Simple (-)[b]) at the beginning of his next turn, with the standard consequences for failure.</Description>
-    <Source Page="64">No Disintegrations</Source>
+    <Source Page="64">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -13897,7 +13897,7 @@ One of the more popular pistols on the market, Merr-Sonn's PB08 was designed as 
       [H3]Czerka "Peacekeeper" Stun Baton[h3]
 Czerka Arms sells "Peacekeeper" stun batons to law enforcement organizations across the galaxy, but they also see substantial sales to private buyers. While primarily marketed as a non-lethal weapon ideal for peacekeeping or self-defense, the truth is that the weapons are heavy lengths of metal with powerful shock capabilities that augment their use as bludgeons rather than raplacing them.
 [P]While the goal of most similar weapons is to subdue with a minimum of force or damage, anyone dropped by "Peacemaker" batons is likely to feel the effects afterward. This has led to a number of more conscientious groups blacklisting the weapons or discontinuing their use, but many others have no such compunctions. Some Imperial governers have placed mass orders for the weapons to keep their populations in line, while many bounty hunters have turned to the weapons as an option that allows them to skirt laws or circumvent clients' requests regarding use of force or lethal weaponry.</Description>
-    <Source Page="48">No Disintegrations</Source>
+    <Source Page="48">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -14266,7 +14266,7 @@ LaserHone's Trailbreaker is a versatile piece of equipment designed for explorat
 Cadregg Armory is a newcomer to the arms manufacturing scene, but its initial offerings have been impressive enough to keep many eyes on what they produce next. One of the first weapons the company produced was the "Precision-X" series, now highly coveted weapons sought by everyone from sport shooters to assassins. The company can hardly maintain a stock of these specialized rifles, so high is the demand for their unique capabilities.
 [P]The Precision-X blasters use a series of multiple cycling chambers to excite the blaster gas used so that it produces extraordinarily intense beams. The blasters' shots are only somewhat more powerful than those of typical carbines, but the blasts maintain an extraordinary coherence over long ranges, allowing them to punch through light armor and maintain full stopping power well past the limitations of a typical rifle. The effects of these cycling chambers even extend to the blaster's stun setting, making it ideal for bounty hunters trying to bring in a target alive.
 [P]When this weapon's stun setting is used to deal stun damage, its range changes to medium instead of short (and cannot be increased).</Description>
-    <Source Page="44">No Disintegrations</Source>
+    <Source Page="44">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -17111,7 +17111,7 @@ A large, vicious harpoon gun, the styanax lance has been used by countless gener
 Although just as heavy and unwieldly as many more lethal weapons, riot blasters lack stopping power in the traditional sense, as these bulky blaster varients are very unlikely to do lasting harm. Instead, riot blasters are built to enhance the effectiveness of the stun setting common to blaster weapons. The "Subduer-9" model is noteworthy for it can maintain a coherent stun blast over a wide area, reducing the risk of collateral damage or unintended injury to the target.
 [P]Given these capabilites, many peacekeeping forces equip their troops with riot blasters, or at least keep the powerful weapons on hand for major civil disturbances. While obviously preferable to the alternative, the willingness with which some Imperial commanders deploy the weapons at the slightest provocation has given them an unsavory repuation in the eyes of many. Nevertheless, they are a welcome addition to the armory of any hunter who prefers to take targets alive and avoid incental harm to others.
     </Description>
-    <Source Page="44">No Disintegrations</Source>
+    <Source Page="44">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
