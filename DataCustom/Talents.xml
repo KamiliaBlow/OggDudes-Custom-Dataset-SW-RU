@@ -2736,7 +2736,7 @@
     <Key>IDEALIST</Key>
     <Name>Идеалист</Name>
     <Description>Вы можете получить 1 "усталость", чтобы добавить [AD] к проверке навыка.</Description>
-    <Source Page="62">Jewel of Yavin</Source>
+    <Source Page="62">Модуль приключения: Жемчужина Явина (Jewel of Yavin)</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taIncidental</ActivationValue>

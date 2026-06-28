@@ -576,7 +576,7 @@ The Sureshot Advanced Targeting Array by Taim Bak is a good example of a targeti
 This uncommon upgrade installs redundant systems within the electronics of an airspeeder, allowing it to be pushed beyond standard limits without risk of overload. Most teams find it simpler to replace any damaged components between races, ensuring that a pilot has fresh equipment for each race, rather than risk over-complicating the vehicle's systems. Augmented buffer may only be attached to vehicles of silhouette 2 or lower.
 
 [P][B]Models Include:[b] None.</Description>
-    <Source Page="47">Jewel of Yavin</Source>
+    <Source Page="47">Модуль приключения: Жемчужина Явина (Jewel of Yavin)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>750</Price>
@@ -1101,7 +1101,7 @@ Though generally not as loud as slugthrowers, blasters usually emit an audible c
 [P][B]Models Include:[b] Merr-Sohn DS9 Blast Suppressor, Czerka "Whispershot" Silencer.</Description>
     <Sources>
       <Source Page="106">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
-      <Source Page="110">Strongholds of Resistance</Source>
+      <Source Page="110">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
@@ -2918,7 +2918,7 @@ Designed to blind and deafen enemy ships, electronic countermeasures suites such
       [P]Blocks sensors within range when active, counting the Tallanx’s silhouette as 2. Immediately notifies all ships in a star system, or within 100 kilometers if planetside, to the Tollonx’s existence.
       [P][I]This is an optional no-cost attachment for the Tallanx-Class Stealth Fighter and the Darvro-Class Light Freighter.[i]
     </Description>
-    <Source Page="118">Strongholds of Resistance</Source>
+    <Source Page="118">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <ItemLimit>
@@ -2986,7 +2986,7 @@ and shuttles only), KDY Advanced Capital ECCM suite
       [H3]Electronic Sighting System[h3]
 [P]By adding a small electronic device to the top of a blaster or other ranged weapon, a small holographic crosshair is projected a meter out from the weapon’s barrel. This increases accuracy by reducing the time it takes for the user to aim. Unfortunately, the holographic crosshair is readily visible to anyone on the weapon’s receiving end, especially in conditions of darkness or low light. This attachment can be used on any ranged weapon that could logically benefit from the addition of a sight.
     </Description>
-    <Source Page="110">Strongholds of Resistance</Source>
+    <Source Page="110">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -3882,7 +3882,7 @@ These kyber crystals grow in nearly invisible formations on a handful of far flu
 [P]Reduces the range band of enemy ships’ passive sensors by 1 (to a minimum of close range) for detecting the Tallanx. In order to function, all power from shields and weapons must be channeled into the cloaking device. Rerouting power takes one action.
       [P][I]This is an optional no-cost attachment for the Tallanx-Class Stealth Fighter and the Darvro-Class Light Freighter.[i]
     </Description>
-    <Source Page="118">Strongholds of Resistance</Source>
+    <Source Page="118">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <ItemLimit>
@@ -5551,7 +5551,7 @@ Developed in cooperation with CorChemCo, SmartTranq is an adaptable synthetic tr
 Small thrusters attached to the exterior chassis of a vehicle increase how responsive it is during flight. The application of these varies considerably, from the crude strapping of rocket or jet packs to the outside of a vehicle to the careful addition of a completely separate fuel line to grant extended use. Maneuvering thrusters may only be attached to vehicles of silhouette 2 or lower.
 
 [P][B]Models Include:[b] Arakyd Aerodrive Thruster Augmentation System, SoroSuub CornerTech Maneuvering Thruster.</Description>
-    <Source Page="47">Jewel of Yavin</Source>
+    <Source Page="47">Модуль приключения: Жемчужина Явина (Jewel of Yavin)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>500</Price>
@@ -8545,7 +8545,7 @@ Although more common among factory or warehouse labor crews than in battle, repu
 A repulsorlift enhancement increases the output of a standard airspeeder's repulsorlift engine considerably. Vehicles with this upgrade deplete their fuel cells at a dramatically increased rate. Since most races are relatively short in duration, and those that are longer have the opportunity to use a pit crew to recharge their cells, this makes them an extremely popular choice with most racing teams. Installing this attachment requires an [B]Average ([DI][DI]) Mechanics check[b]. Repulsor enhancements may only be attached to vehicles of silhouette 2 or lower.
 
 [P][B]Models Include:[b] None.</Description>
-    <Source Page="47">Jewel of Yavin</Source>
+    <Source Page="47">Модуль приключения: Жемчужина Явина (Jewel of Yavin)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>2500</Price>
@@ -9458,7 +9458,7 @@ Shock pulse emitters operate along principles similar to a blaster's stun settin
       [H3]Weapon Signature Reduction[h3]
 [P]Both the Empire and the galactic security industry use weapon scanners that are capable of detecting a wide variety of weapon components. Even when broken down into several pieces, blasters and other ranged weapons are still liable to be detected, due to the specific technologies and substances that allow them to function as lethal weapons.
 [P]In order to skirt such inspection and ensure that hidden weapons remain obscured from prying eyes, covert agents have devised modifications that mask or otherwise diminish such signatures in a weapon’s components. Though physical searches still pose some risk of discovery, weapon signature reduction guarantees that scanning equipment used to detect weapons is rendered less effective. Unfortunately, weapon signature reduction is only effective on weapons with an encumbrance rating of 5 or less. </Description>
-    <Source Page="110">Strongholds of Resistance</Source>
+    <Source Page="110">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <Price>1000</Price>
@@ -9757,7 +9757,7 @@ Originally developed to overcome personal cloaking devices and other sensor-baff
     <Description>
       [H3]Space Slug Abilities[h3]
 Additional Rules for Enormous Space Slug.</Description>
-    <Source>Strongholds of Resistance</Source>
+    <Source>Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <ItemLimit>
@@ -10824,7 +10824,7 @@ The Kyber crystal is the heart of a lightsaber, but as with the hearts of organi
 A very common practice on starships and in more violent, less reputable races, upgraded weapons are actually something of a liability in the Cloud City Grand Prix. Given that the destruction of enemy vessels is strictly prohibited, overly powerful weapons can result not only in disqualification but prosecution as well. Installing this attachment requires a [B]Hard ([DI][DI][DI]) Mechanics check[b]. This upgrade may only be attached to vehicles of silhouette 2 or lower.
 
 [P][B]Models Include:[b] None.</Description>
-    <Source Page="48">Jewel of Yavin</Source>
+    <Source Page="48">Модуль приключения: Жемчужина Явина (Jewel of Yavin)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>1000</Price>
