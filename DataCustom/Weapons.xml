@@ -3210,11 +3210,11 @@ BR-219 - это редкий и сверхмощный тяжелый бласт
   </Weapon>
   <Weapon>
     <Key>BROADSABER</Key>
-    <Name>Broadsaber</Name>
-    <Description>[H3]Broadsaber[h3]
-Through specialized focusing lenses and emitters, this lightsaber hilt produces a blade that is broader and flatter than a standard lightsaber's cylindrical blade, lending it a profile closer to that of a traditional metal sword. This form provides a larger overall surface for the massless plasma blade, while forgoing the advantages or a truly omnidirectional cutting edge. Broadsabers never gained much popularity among the Jedi Order, with many masters dismissing the variant as less elegant than other lightsabers. However, broad sabers lend themselves well to the techniques of Shii-Cho, grounded as those are in traditional swordplay, and so the variant found some use among masters of Form I.
-[P]This weapon's profile represents a broadsaber hilt containing an unmodded Ilum crystal. This crystal occupies two of the weapon's hard points.
-[P]When installing a lightsaber crystal into a broadsaber, increase the damage of that lightsaber crystal by 1.</Description>
+    <Name>Световой меч с широким клинком (Broadsaber)</Name>
+    <Description>[H3]Световой меч с широким клинком[h3]
+Благодаря специализированным фокусирующим линзам и эмиттерам, рукоять этого светового меча создает клинок, который шире и плосче, чем цилиндрический клинок стандартного светового меча, придавая ему профиль, более близкий к традиционному металлическому мечу. Такая форма обеспечивает большую общую площадь для безмассового плазменного клинка, но лишает его преимуществ поистине всенаправленной режущей кромки. Широкие световые мечи так и не снискали особой популярности в Ордене джедаев, поскольку многие мастера считали эту разновидность менее изящной, чем другие световые мечи. Однако световые мечи с широким клинком, прекрасно подходят для техник Шии-Чо, которые, как известно, основаны на традиционном фехтовании, и потому эта разновидность нашла некоторое применение среди мастеров Формы I.
+[P]Профиль этого оружия представляет собой рукоять светового меча с широким клинком с немодифицированным Илумским кристаллом. Этот кристалл занимает две точки крепления оружия.
+[P]При установке кристалла светового меча в световой меч с широким клинком увеличьте урон этого кристалла на 1.</Description>
     <Source Page="43">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Lightsaber</Type>
@@ -3248,10 +3248,10 @@ Through specialized focusing lenses and emitters, this lightsaber hilt produces 
   </Weapon>
   <Weapon>
     <Key>BROADSABERHILT</Key>
-    <Name>Broadsaber Hilt</Name>
-    <Description>[H3]Broadsaber Hilt[h3]
-Through specialized focusing lenses and emitters, this lightsaber hilt produces a blade that is broader and flatter than a standard lightsaber's cylindrical blade, lending it a profile closer to that of a traditional metal sword. This form provides a larger overall surface for the massless plasma blade, while forgoing the advantages or a truly omnidirectional cutting edge. Broadsabers never gained much popularity among the Jedi Order, with many masters dismissing the variant as less elegant than other lightsabers. However, broad sabers lend themselves well to the techniques of Shii-Cho, grounded as those are in traditional swordplay, and so the variant found some use among masters of Form I.
-[P]When installing a lightsaber crystal into a broadsaber, increase the damage of that lightsaber crystal by 1.</Description>
+    <Name>Световой меч с широким клинком (Рукоять) (Broadsaber Hilt)</Name>
+    <Description>[H3]Световой меч с широким клинком (Рукоять)[h3]
+Благодаря специализированным фокусирующим линзам и эмиттерам, рукоять этого светового меча создает клинок, который шире и плосче, чем цилиндрический клинок стандартного светового меча, придавая ему профиль, более близкий к традиционному металлическому мечу. Такая форма обеспечивает большую общую площадь для безмассового плазменного клинка, но лишает его преимуществ поистине всенаправленной режущей кромки. Широкие световые мечи так и не снискали особой популярности в Ордене джедаев, поскольку многие мастера считали эту разновидность менее изящной, чем другие световые мечи. Однако световые мечи с широким клинком, прекрасно подходят для техник Шии-Чо, которые, как известно, основаны на традиционном фехтовании, и потому эта разновидность нашла некоторое применение среди мастеров Формы I.
+[P]При установке кристалла светового меча в световой меч с широким клинком увеличьте урон этого кристалла на 1.</Description>
     <Source Page="43">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Lightsaber</Type>
@@ -3283,14 +3283,13 @@ Through specialized focusing lenses and emitters, this lightsaber hilt produces 
   </Weapon>
   <Weapon>
     <Key>BTX42FLAME</Key>
-    <Name>BT X-42 Heavy Flame Projector</Name>
-    <Description>[H3]BT X-42 Heavy Flame Projector[h3]
-The BT X-42 heavy flame projector, from BlasTech, is one of the most destructive and terrifying weapons in the GAR's arsenal. Carried by specially trained clone Flame troopers, this weapon is used primarily against massed, unarmored opponents in an anti-personnel role. It is also well suited to clearing rooms and bunkers, denying areas, and destroying enemy materiel.
+    <Name>Тяжелый огнемет BT X-42 (BT X-42 Heavy Flame Projector)</Name>
+    <Description>[H3]Тяжелый огнемет BT X-42[h3]
+Тяжелый огнемет BT X-42 от BlasTech - один из самых разрушительных и устрашающих видов оружия в арсенале Великой Армии Республики. Находясь на вооружении специально обученных клонов-огнеметчиков, это оружие используется преимущественно в качестве противопехотного средства против скоплений небронированных противников. Оно также отлично подходит для зачистки помещений и бункеров, блокирования зон и уничтожения материально-технических средств противника.
 
-[P]Like most flame projectors, the X-42 can he as dangerous to friends as to enemies and has a nasty reputation for overheating or even exploding when damaged
+[P]Как и большинство огнеметов, X-42 может быть столь же опасен для союзников, как и для врагов, и дурно славится своей склонностью к перегреву или даже взрыву при получении повреждений.
 
-[P]Game Masters can spend [TH][TH][TH] to cause the weapon to overheat, leaving it inoperable for three turns, or [DE] to have the weapon explode. An exploding X-42 deals full damage to the user and Blast damage to anything engaged with them.
-</Description>
+[P]ГМ может потратить [TH][TH][TH] из броска игрока, чтобы вызвать перегрев оружия, сделав его неработоспособным на 3 хода, или [DE], чтобы заставить оружие взорваться. Взрывающийся X-42 наносит полный урон владельцу и урон от взрыва всем, кто находится с ним в ближнем бою.</Description>
     <Sources>
       <Source Page="52">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
@@ -3324,19 +3323,19 @@ The BT X-42 heavy flame projector, from BlasTech, is one of the most destructive
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>GM may spend [TH][TH][TH] to have it overheat and inoperable for three turns.</MiscDesc>
+        <MiscDesc>ГМ может потратить [TH][TH][TH], чтобы вызвать перегрев оружия, сделав его неработоспособным на 3 хода.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>GM may spend [DE] to have it explode, dealing full damage to user and Blast damage to anything engaged with user.</MiscDesc>
+        <MiscDesc>ГМ может потратить [DE] заставить оружие взорваться, нанося полный урон владельцу и урон от взрыва всем, кто находится с ним в ближнем бою.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>C10DRAGONEYE</Key>
-    <Name>C-10 "Dragoneye Reaper" Heavy Blaster Pistol</Name>
-    <Description>[H3]Czerka Arms C-10 "Dragoneye Reaper" Heavy Blaster Pistol[h3]
+    <Name>Тяжелый бластерный пистолет C-10 "Dragoneye Reaper" (C-10 "Dragoneye Reaper" Heavy Blaster Pistol)</Name>
+    <Description>[H3]Тяжелый бластерный пистолет C-10 "Dragoneye Reaper"[h3]
 
-Based on a custom made design by the infamous bounty hunter Dragoneye, Czerka Arms C-10 heavy blaster pistol has become a popular sidearm for bounty hunters, smugglers, and other (ringers who value firepower over subtlety. Larger than most other heavy blasters, the Dragoneye Reaper is nearly as lethal as some blaster rifles, and users can easily modify it to suit their needs. While Czerka owns the rights to the Dragoneye Reaper, Caliban's Model X and SoroSuub "Renegade' heavy blaster pistols share many design elements and bear a striking resemblance to the C-10.</Description>
+Созданный на основе уникальной разработки печально известного охотника за головами по прозвищу "Dragoneye", тяжелый бластерный пистолет C-10 от Czerka Arms стал популярным личным оружием среди охотников за головами, контрабандистов и других стрелков, ценящих огневую мощь превыше скрытности. Превышая по размерам большинство других тяжелых бластерных пистолетов, "Dragoneye Reaper" почти так же смертоносен, как некоторые бластерные винтовки, и владельцы могут легко модифицировать его под свои нужды. И хотя права на "Dragoneye Reaper" принадлежат компании Czerka, тяжелые бластерные пистолеты Model X от Caliban и "Renegade" от SoroSuub имеют с ним множество общих конструктивных элементов и поразительно похожи на C-10.</Description>
     <Source Page="43">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -3364,13 +3363,13 @@ Based on a custom made design by the infamous bounty hunter Dragoneye, Czerka Ar
   </Weapon>
   <Weapon>
     <Key>CERBLADE</Key>
-    <Name>Ceremonial Blade</Name>
+    <Name>Церемониальный кинжал (Ceremonial Blade)</Name>
     <Description>
-      [H3]Ceremonial Blade[h3]
+      [H3]Церемониальный кинжал[h3]
 
-The presentation of weapons in various rituals has a strong root in many cultures, especially those with a militaristic past. Such practices usually stem from ancient history, so exchanges usually incorporate seemingly anachronistic armaments such as swords, axes, spears, or other such items. Such an award often signifies a high honor to the recipient, and many choose to include them in their formal dress for all future occasions. Naturally, given how highly prized such items are, they also often feature correspondingly high craftsmanship, with superior killing power in addition to beautiful design.
+Вручение оружия в ходе различных ритуалов имеет глубокие корни во многих культурах, особенно с милитаристским прошлым. Подобные обычаи обычно берут начало в глубокой древности, поэтому при обмене дарами, как правило, используются кажущиеся анахронизмом виды вооружения, такие как мечи, топоры, копья или тому подобное. Подобная награда часто является знаком высочайшей чести для получателя, и многие предпочитают включать её в свой парадный наряд для всех будущих торжественных случаев. Естественно, учитывая, насколько высоко ценятся подобные предметы, они зачастую отличаются и соответствующим уровнем мастерства изготовления, сочетая в себе выдающуюся смертоносность и безупречный дизайн.
 
-[P]A character adds [BO] when attempting to convince others to allow him to retain his ceremonial blade.</Description>
+[P]Персонаж добавляет [BO] при попытке убедить других позволить ему оставить при себе свой церемониальный клинок.</Description>
     <Source Page="46">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -3389,7 +3388,7 @@ The presentation of weapons in various rituals has a strong root in many culture
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add [BOOST] when attempting to convince others to allow him to retain his ceremonial blade.</MiscDesc>
+        <MiscDesc>Добавьте [BOOST] при попытке убедить других позволить ему оставить при себе свой церемониальный клинок.</MiscDesc>
       </Mod>
     </BaseMods>
     <Qualities>
@@ -3401,11 +3400,11 @@ The presentation of weapons in various rituals has a strong root in many culture
   </Weapon>
   <Weapon>
     <Key>CHAFFGUN</Key>
-    <Name>Caltrop-5 Chaff Gun</Name>
-    <Description>[H3]Arakyd Industries Caltrop-5 Chaff Gun[h3]
-The Caltrop-5 by Arakyd Industries is ostensibly a physical countermeasures system that uses clouds of alloy splinters to spoof sensors. When activated, the Caltrop-5 fires a canister that bursts after a set distance, creating a massive, glittering cloud of durasteel shrapnel that confounds missile guidance systems and makes vessels using them difficult to target. The chaff cloud also makes a frightfully potent anti-ship weapon, as discovered by Jadthu-class pilots during the Battle of Haruun Kat when fast-moving vulture droid starfighters were chewed up by clouds of Caltrop-5 chaff.
-[P]As a physical countermeasures system, the Caltrop-5 upgrades the difficulty of all Gunnery checks and checks triggered by the Guided quality made using missiles, rockets, or torpedoes targeting the starship once.
-[P]In addition, it upgrades the difficulty of Piloting checks for other ships within close range once. [DE] on a Piloting check may be spent to inflict a Critical Hit on that pilot's ship.</Description>
+    <Name>Дипольная пушка Caltrop-5 Arakyd Industries (Caltrop-5 Chaff Gun)</Name>
+    <Description>[H3]Дипольная пушка Caltrop-5 Arakyd Industries[h3]
+Дипольная пушка Caltrop-5 от Arakyd Industries - это, по сути, система физических средств противодействия, использующая облака осколков сплава для обмана сенсоров. При активации Caltrop-5 выстреливает контейнером, который разрывается на заданной дистанции, создавая огромное, сверкающее облако дюрасталевой шрапнели, которое сбивает с толку системы наведения ракет и затрудняет прицеливание по использующим их судам. Облако дипольных отражателей также оказалось страшным по эффективности противокорабельным оружием, как обнаружили пилоты класса "Джадху" во время Битвы при Харуун-Кэл, когда быстроходные звездные истребители дроиды-стервятники были буквально перемолоты облаками шрапнели из Caltrop-5.
+[P]Как система физических контрмер, Caltrop-5 повышает сложность всех проверок "Артиллерии" на 1, и проверок, инициируемых свойством "Guided" при использовании ракет, реактивных снарядов или торпед, нацеленных на данный звездолет.
+[P]Кроме того, она повышает сложность проверок "Пилотирования" на 1 для других кораблей, находящихся на ближней дистанции. [DE] полученный при проверке "Пилотирования" может быть потрачен на нанесение "Критического попадания" по кораблю этого пилота.</Description>
     <Source Page="60">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>AddedItem</Custom>
     <Type>Vehicle</Type>
@@ -3415,15 +3414,15 @@ The Caltrop-5 by Arakyd Industries is ostensibly a physical countermeasures syst
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Upgrade the difficulty of all Gunnery checks and checks triggered by the Guided quality made using missiles, rockets, or torpedoes targeting the starship once.</MiscDesc>
+        <MiscDesc>Повышает сложность всех проверок "Артиллерии" на 1, и проверок, инициируемых свойством "Guided" при использовании ракет, реактивных снарядов или торпед, нацеленных на данный звездолет.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Upgrade the difficulty of Piloting checks for other ships within close range once.</MiscDesc>
+        <MiscDesc>Повышает сложность проверок "Пилотирования" на 1 для других кораблей, находящихся на ближней дистанции.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>[DE] on a Piloting check may be spent to inflict a Critical Hit on that pilot's ship.</MiscDesc>
+        <MiscDesc>[DE] полученный при проверке "Пилотирования" может быть потрачен на нанесение "Критического попадания" по кораблю этого пилота.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>GUNN</SkillKey>
@@ -3432,8 +3431,8 @@ The Caltrop-5 by Arakyd Industries is ostensibly a physical countermeasures syst
   </Weapon>
   <Weapon>
     <Key>CLUSTERBOMB</Key>
-    <Name>Cluster Bomb Launcher</Name>
-    <Description>[H3]Cluster Bomb Launcher[h3]</Description>
+    <Name>Пусковая установка кластерных бомб (Cluster Bomb Launcher)</Name>
+    <Description>[H3]Пусковая установка кластерных бомб[h3]</Description>
     <Source Page="119">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -3461,10 +3460,10 @@ The Caltrop-5 by Arakyd Industries is ostensibly a physical countermeasures syst
   </Weapon>
   <Weapon>
     <Key>CLW</Key>
-    <Name>Composite Laser Weapon</Name>
-    <Description>[H3]Composite Laser Weapon[h3]
-Quarrie has designed a unique fire-linking system that draws power from all weapon systems-along with the shields, engines, and numerous other systems by accident-to create an ersatz energy weapon he calls the composite laser weapon, or CLW. Although wildly unstable and prone to knocking half the ship’s systems offline when used, the CLW provides the Blade Wing with a weapon equal to light turbolaser in power and armor-piercing capabilities. Using the CLW is always a risk, and it was deleted from the B-wing before that ship went into production.</Description>
-    <Source Page="125">Dawn of Rebellion</Source>
+    <Name>Композитное лазерное оружие (Composite Laser Weapon)</Name>
+    <Description>[H3]Композитное лазерное оружие[h3]
+Кварри разработал уникальную систему синхронизации огня, которая забирает энергию от всех оружейных систем - причем непреднамеренно перехватывая питание также у щитов, двигателей и множества других систем, - чтобы создать суррогатное энергетическое оружие, которое он назвал композитным лазерным оружием, или CLW. И хотя это оружие крайне нестабильно и при применении способно отключить половину систем корабля, CLW обеспечивает "Blade Wing" огневую мощь и бронебойные характеристики на уровне легкого турболазера. Применение CLW всегда сопряжено с риском, и его исключили из конструкции Б-вингов еще до того, как этот корабль был запущен в серийное производство.</Description>
+    <Source Page="125">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -3495,15 +3494,15 @@ Quarrie has designed a unique fire-linking system that draws power from all weap
   </Weapon>
   <Weapon>
     <Key>CML</Key>
-    <Name>Concussion Missile Launcher</Name>
+    <Name>Пусковая установка фугасных ракет (Concussion Missile Launcher)</Name>
     <Description>
-      [H3]Concussion Missile Launcher[h3]
+      [H3]Пусковая установка фугасных ракет[h3]
 
-The more common and less powerful of the two types of shipboard ordnance, concussion missiles are found on all manner of spacecraft, from tiny starfighters to capital ships. Roughly a meter long, a concussion missile employs special warheads, combining a hardened durasteel penetrator that uses kinetic force to pierce through a ship's armor and a shaped high-explosive charge that causes damage through both explosive force and concussive shock. Concussion missiles are primarily anti-fighter weapons, used to quickly deal crippling damage to starfighters and patrol boats, although they perform well against larger targets as well.
+Фугасные ракеты, более распространенные и менее мощные из двух типов корабельного ракетного вооружения, встречаются на самых разных космических аппаратах: от крошечных звездных истребителей до крупных боевых кораблей. Имея длину около метра, фугасная ракета оснащена специальными боеголовками, сочетающими в себе твердосплавный дюрасталевый бронебойный наконечник, пробивающий броню корабля за счет кинетической энергии, и кумулятивный фугасный заряд, наносящий урон как взрывной волной, так и мощным сотрясающим ударом. Фугасные ракеты являются в первую очередь противоистребительным оружием, используемым для быстрого нанесения калечащих ударов по звездным истребителям и патрульным катерам, хотя они также неплохо показывают себя и против более крупных целей.
 
-[P]Concussion grenades are primarily a personal scale weapon, although many military ground vehicles mount concussion grenade launchers that fire larger anti-infantry or anti-armor versions. Concussion grenade launchers are typically relatively short range ballistic weapons, and thus are useless in space combat.
+[P]Фугасные гранаты относятся преимущественно к оружию личного масштаба, хотя на многих военных наземных машинах устанавливаются гранатометы, стреляющие более крупными противопехотными или противоброневыми вариантами. Гранатометы для фугасных гранат, как правило, являются баллистическим оружием относительно малой дальности, а потому бесполезны в космическом бою.
 
-[P]Additional concussion missiles cost 500 credits each and are Restricted. </Description>
+[P]Дополнительные фугасные ракеты стоят по 500 кредитов за штуку и относятся к параметру "Ограниченный". </Description>
     <Sources>
       <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -3549,11 +3548,11 @@ The more common and less powerful of the two types of shipboard ordnance, concus
   </Weapon>
   <Weapon>
     <Key>CMLHK</Key>
-    <Name>Hunter Killer Concussion Missile Launcher</Name>
+    <Name>Пусковая установка фугасных ракет "Hunter Killer" (Hunter Killer Concussion Missile Launcher)</Name>
     <Description>
-      [H3]Hunter Killer Concussion Missile Launcher[h3]
+      [H3]Пусковая установка фугасных ракет "Hunter Killer"[h3]
 
-A concussion missile is a short-range, winged or wingless anti-vehicle missile generally deployed by starship or vehicle mounted launchers. There are a wide range of concussion missiles, varying in speed, maneuverability, and destructive capability.</Description>
+Фугасная ракета - это ракета малой дальности, крылатая или бескрылая, предназначенная для поражения техники и обычно запускаемая с пусковых установок звездолетов или наземных транспортных средств. Существует множество разновидностей фугасных ракет, различающихся по скорости, маневренности и разрушительной мощи.</Description>
     <Source Page="107">Дополнение: Солнце Фортуны (Suns of Fortune)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -3596,15 +3595,15 @@ A concussion missile is a short-range, winged or wingless anti-vehicle missile g
   </Weapon>
   <Weapon>
     <Key>CMLORD</Key>
-    <Name>Concussion Missile</Name>
+    <Name>Фугасная ракета (Concussion Missile)</Name>
     <Description>
-      [H3]Concussion Missile Launcher[h3]
+      [H3]Пусковая установка фугасной ракеты[h3]
 
-The more common and less powerful of the two types of shipboard ordnance, concussion missiles are found on all manner of spacecraft, from tiny starfighters to capital ships. Roughly a meter long, a concussion missile employs special warheads, combining a hardened durasteel penetrator that uses kinetic force to pierce through a ship's armor and a shaped high-explosive charge that causes damage through both explosive force and concussive shock. Concussion missiles are primarily anti-fighter weapons, used to quickly deal crippling damage to starfighters and patrol boats, although they perform well against larger targets as well.
+Фугасные ракеты, более распространенные и менее мощные из двух типов корабельного ракетного вооружения, встречаются на самых разных космических аппаратах: от крошечных звездных истребителей до крупных боевых кораблей. Имея длину около метра, фугасная ракета оснащена специальными боеголовками, сочетающими в себе твердосплавный дюрасталевый бронебойный наконечник, пробивающий броню корабля за счет кинетической энергии, и кумулятивный ударный заряд, наносящий урон как взрывной волной, так и мощным сотрясающим ударом. Фугасные ракеты являются в первую очередь противоистребительным оружием, используемым для быстрого нанесения калечащих ударов по звездным истребителям и патрульным катерам, хотя они также неплохо показывают себя и против более крупных целей.
 
-[P]Concussion grenades are primarily a personal scale weapon, although many military ground vehicles mount concussion grenade launchers that fire larger anti-infantry or anti-armor versions. Concussion grenade launchers are typically relatively short range ballistic weapons, and thus are useless in space combat.
+[P]Фугасные гранаты относятся преимущественно к оружию личного масштаба, хотя на многих военных наземных машинах устанавливаются гранатометы, стреляющие более крупными противопехотными или противоброневыми вариантами. Гранатометы для ударных гранат, как правило, являются баллистическим оружием относительно малой дальности, а потому бесполезны в космическом бою.
 
-[P]Additional concussion missiles cost 500 credits each and are Restricted. </Description>
+[P]Дополнительные фугасные ракеты стоят по 500 кредитов за штуку и относятся к параметру "Ограниченный". </Description>
     <Sources>
       <Source Page="229">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="242">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -3646,13 +3645,13 @@ The more common and less powerful of the two types of shipboard ordnance, concus
   </Weapon>
   <Weapon>
     <Key>COMPBOW</Key>
-    <Name>Corellian Compound Bow</Name>
+    <Name>Кореллианский блочный лук (Corellian Compound Bow)</Name>
     <Description>
-      [H3]Corellian Compound Bow[h3]
+      [H3]Кореллианский блочный лук[h3]
 
-A massive bow made of composite materials, the compound bow uses a system of cams and cables to lever the arms and reduce the draw weight when fully drawn, allowing for longer, more accurate aiming. This is almost a necessity for Corellian bows, since their draw weights tend to be in the range of 55 to 85 kilograms. Some Corellians consider drawing a bow a true test of a man's strength, and bows with draw weights of less than 50 kilograms are general considered children's models. The impressive tension stored in a Corellian compound bow allows the broadhead arrows fired from one to deliver a tremendous amount of kinetic force.
+Массивный лук, изготовленный из композитных материалов, блочный лук использует систему блоков и тросов для распределения нагрузки на плечи и снижения усилия натяжения при полном взводе, что позволяет целиться дольше и точнее. Для кореллианских луков это практически необходимость, поскольку сила их натяжения обычно составляет от 55 до 85 килограммов. Некоторые кореллианцы считают натяжение лука истинным испытанием мужской силы, а луки с усилием натяжения менее 50 килограммов обычно считаются детскими моделями. Впечатляющая энергия натяжения, накапливаемая в кореллианском блочном луке, позволяет стрелам с широкими наконечниками, выпущенными из него, передавать колоссальную кинетическую энергию.
 
-[P]Regular arrows are cheap to replace; if the GM needs to set a price he can charge I credit per arrow. These bows can also be used to fire special explosive tipped or stun arrows instead of the normal broad-head arrows. If these arrows are used, use the secondary profile given on [B]Table 3-1[b].</Description>
+[P]Обычные стрелы дешевы в замене; если ГМу нужно установить цену, он может назначить 1 кредит за стрелу. Из этих луков также можно стрелять специальными стрелами с взрывными или оглушающими наконечниками вместо обычных стрел с широкими наконечниками. При использовании таких стрел следует применять вторичный профиль, приведенный в [B]Таблице 3-1[b].</Description>
     <Source Page="97">Дополнение: Солнце Фортуны (Suns of Fortune)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -3687,13 +3686,13 @@ A massive bow made of composite materials, the compound bow uses a system of cam
   </Weapon>
   <Weapon>
     <Key>COMPBOWEXP</Key>
-    <Name>Corellian Compound Bow (Explosive Tipped)</Name>
+    <Name>Кореллианский блочный лук (Взрывной наконечник) (Corellian Compound Bow (Explosive Tipped))</Name>
     <Description>
-      [H3]Corellian Compound Bow (Explosive Tipped)[h3]
+      [H3]Кореллианский блочный лук (Взрывной наконечник)[h3]
 
-A massive bow made of composite materials, the compound bow uses a system of cams and cables to lever the arms and reduce the draw weight when fully drawn, allowing for longer, more accurate aiming. This is almost a necessity for Corellian bows, since their draw weights tend to be in the range of 55 to 85 kilograms. Some Corellians consider drawing a bow a true test of a man's strength, and bows with draw weights of less than 50 kilograms are general considered children's models. The impressive tension stored in a Corellian compound bow allows the broadhead arrows fired from one to deliver a tremendous amount of kinetic force.
+Массивный лук, изготовленный из композитных материалов, блочный лук использует систему блоков и тросов для распределения нагрузки на плечи и снижения усилия натяжения при полном взводе, что позволяет целиться дольше и точнее. Для кореллианских луков это практически необходимость, поскольку сила их натяжения обычно составляет от 55 до 85 килограммов. Некоторые кореллианцы считают натяжение лука истинным испытанием мужской силы, а луки с усилием натяжения менее 50 килограммов обычно считаются детскими моделями. Впечатляющая энергия натяжения, накапливаемая в кореллианском блочном луке, позволяет стрелам с широкими наконечниками, выпущенными из него, передавать колоссальную кинетическую энергию.
 
-[P]Regular arrows are cheap to replace; if the GM needs to set a price he can charge I credit per arrow. These bows can also be used to fire special explosive tipped or stun arrows instead of the normal broad-head arrows. If these arrows are used, use the secondary profile given on [B]Table 3-1[b].</Description>
+[P]Обычные стрелы дешевы в замене; если ГМу нужно установить цену, он может назначить 1 кредит за стрелу. Из этих луков также можно стрелять специальными стрелами с взрывными или оглушающими наконечниками вместо обычных стрел с широкими наконечниками. При использовании таких стрел следует применять вторичный профиль, приведенный в [B]Таблице 3-1[b].</Description>
     <Source Page="97">Дополнение: Солнце Фортуны (Suns of Fortune)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -3721,13 +3720,13 @@ A massive bow made of composite materials, the compound bow uses a system of cam
   </Weapon>
   <Weapon>
     <Key>COMPBOWSTUN</Key>
-    <Name>Corellian Compound Bow (Stun)</Name>
+    <Name>Кореллианский блочный лук (Оглушение) (Corellian Compound Bow (Stun))</Name>
     <Description>
-      [H3]Corellian Compound Bow (Stun)[h3]
+      [H3]Кореллианский блочный лук (Оглушение)[h3]
 
-A massive bow made of composite materials, the compound bow uses a system of cams and cables to lever the arms and reduce the draw weight when fully drawn, allowing for longer, more accurate aiming. This is almost a necessity for Corellian bows, since their draw weights tend to be in the range of 55 to 85 kilograms. Some Corellians consider drawing a bow a true test of a man's strength, and bows with draw weights of less than 50 kilograms are general considered children's models. The impressive tension stored in a Corellian compound bow allows the broadhead arrows fired from one to deliver a tremendous amount of kinetic force.
+Массивный лук, изготовленный из композитных материалов, блочный лук использует систему блоков и тросов для распределения нагрузки на плечи и снижения усилия натяжения при полном взводе, что позволяет целиться дольше и точнее. Для кореллианских луков это практически необходимость, поскольку сила их натяжения обычно составляет от 55 до 85 килограммов. Некоторые кореллианцы считают натяжение лука истинным испытанием мужской силы, а луки с усилием натяжения менее 50 килограммов обычно считаются детскими моделями. Впечатляющая энергия натяжения, накапливаемая в кореллианском блочном луке, позволяет стрелам с широкими наконечниками, выпущенными из него, передавать колоссальную кинетическую энергию.
 
-[P]Regular arrows are cheap to replace; if the GM needs to set a price he can charge I credit per arrow. These bows can also be used to fire special explosive tipped or stun arrows instead of the normal broad-head arrows. If these arrows are used, use the secondary profile given on [B]Table 3-1[b].</Description>
+[P]Обычные стрелы дешевы в замене; если ГМу нужно установить цену, он может назначить 1 кредит за стрелу. Из этих луков также можно стрелять специальными стрелами с взрывными или оглушающими наконечниками вместо обычных стрел с широкими наконечниками. При использовании таких стрел следует применять вторичный профиль, приведенный в [B]Таблице 3-1[b].</Description>
     <Source Page="97">Дополнение: Солнце Фортуны (Suns of Fortune)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -3754,13 +3753,13 @@ A massive bow made of composite materials, the compound bow uses a system of cam
   </Weapon>
   <Weapon>
     <Key>CONCGREND</Key>
-    <Name>G2 Concussion Grenade</Name>
+    <Name>Фугасная граната G2 (G2 Concussion Grenade)</Name>
     <Description>
-      [H3]G2 Concussion Grenade[h3]
+      [H3]Фугасная граната G2[h3]
 
-Concussion grenades are powerful hand-held bombs that release a debilitating shock wave over the surrounding area. The detonation of a concussion grenade is strong enough to maim or even kill an unarmored target, while the shock wave released can incapacitate any foes within the grenade's blast radius. Some concussion grenades are designed to simply kill, while others focus on incapacitation. The G2 is an example of the latter, designed to disorient any foes it does not eliminate.
+Фугасные гранаты - это мощные ручные бомбы, создающие в окружающей зоне разрушительную ударную волну. Взрыв фугасной гранаты достаточно силен, чтобы покалечить или даже убить небронированную цель, а высвобождаемая ударная волна способна вывести из строя любых противников в радиусе поражения. Одни фугасные гранаты предназначены исключительно для уничтожения, тогда как другие делают упор на выведение врага из строя. G2 является примером последних и создана для того, чтобы дезориентировать любых противников, которых она не уничтожит.
 
-[P]If the user activates a concussion grenade's Disorient quality, the Disorient quality affects all characters at short range from the target (even if they are not damaged by the weapon).</Description>
+[P]Если пользователь активирует свойство "Disorient" фугасной гранаты, это свойство воздействует на всех персонажей в пределах короткой дистанции от цели (даже если они не получили урона от оружия).</Description>
     <Sources>
       <Source Page="46">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="44">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
@@ -3818,20 +3817,20 @@ Concussion grenades are powerful hand-held bombs that release a debilitating sho
         <Key />
         <Count>1</Count>
         <Index>0</Index>
-        <MiscDesc>Disorient affects all characters in Short range, even if not damaged.</MiscDesc>
+        <MiscDesc>Эффект дезориентации действует на всех персонажей в ближнем бою, даже если они не получили урона.</MiscDesc>
         <DefZone />
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>CONCMISSILEMK10</Key>
-    <Name>Mk.10 Concussion Missile</Name>
+    <Name>Фугасная ракета Mk.10 (Mk.10 Concussion Missile)</Name>
     <Description>
-      [H3]Mk.10 Concussion Missile[h3]
+      [H3]Фугасная ракета Mk.10[h3]
 
-Like their hand-held grenade counterparts, concussion missiles unleash a powerful blast and accompanying shock wave strong enough to incapacitate or injure targets outside of the initial blast radius. Numerous varieties of concussion missiles are available from different manufacturers, with some advertised as a non-lethal countermeasure, and others as anti-armor weapons. The Golan Arms Mk.10 is an anti-personnel weapon.
+Подобно своим ручным аналогам, фугасные ракеты создают мощную взрывную волну и сопровождающий её ударный фронт, способные вывести из строя или ранить цели даже за пределами первоначального радиуса поражения. Различные производители выпускают множество разновидностей фугасных ракет: одни рекламируются как нелетальное средство подавления, другие - как противоброневое оружие. Mk.10 от Golan Arms представляет собой противопехотное оружие.
 
-[P]If the user activates a concussion missile's Disorient quality, the Disorient quality affects all characters at short range from the target (even if they are not damaged by the weapon). If the user activates a concussion missile's Concussive quality, the Concussive quality affects all characters engaged with the target (even if they are not damaged by the weapon).</Description>
+[P]Если пользователь активирует свойство "Disorient" фугасной ракеты, это свойство воздействует на всех персонажей, находящихся на короткой дистанции от цели (даже если они не получили урона от оружия). Если пользователь активирует свойство "Concussive" фугасной ракеты, это свойство воздействует на всех персонажей, сцепившихся с целью (даже если они не получили урона от оружия).</Description>
     <Sources>
       <Source Page="42">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="46">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
@@ -3890,22 +3889,22 @@ Like their hand-held grenade counterparts, concussion missiles unleash a powerfu
         <Key />
         <Count>1</Count>
         <Index>0</Index>
-        <MiscDesc>Disorient affects all characters in Short range, even if not damaged.  Concussive affects all Engaged characters, even if not damaged.</MiscDesc>
+        <MiscDesc>Эффект "Disorient" действует на всех персонажей в ближнем бою, даже если они не получили урона. Эффект "Concussive" действует на всех персонажей, участвующих в бою, даже если они не получили урона.</MiscDesc>
         <DefZone />
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>CONGRENLAUNCH</Key>
-    <Name>Concussion Grenade Launcher</Name>
+    <Name>Фугасный гранатомет (Concussion Grenade Launcher)</Name>
     <Description>
-      [H3]Concussion Grenade Launcher[h3]
+      [H3]Фугасный гранатомет[h3]
 
-The more common and less powerful of the two types of shipboard ordnance, concussion missiles are found on all manner of spacecraft, from tiny starfighters to capital ships. Roughly a meter long, a concussion missile employs special warheads, combining a hardened durasteel penetrator that uses kinetic force to pierce through a ship's armor and a shaped high-explosive charge that causes damage through both explosive force and concussive shock. Concussion missiles are primarily anti-fighter weapons, used to quickly deal crippling damage to starfighters and patrol boats, although they perform well against larger targets as well.
+Фугасные ракеты, более распространенные и менее мощные из двух типов корабельного ракетного вооружения, встречаются на самых разных космических аппаратах: от крошечных звездных истребителей до крупных боевых кораблей. Имея длину около метра, фугасная ракета оснащена специальными боеголовками, сочетающими в себе твердосплавный дюрасталевый бронебойный наконечник, пробивающий броню корабля за счет кинетической энергии, и кумулятивный фугасный заряд, наносящий урон как взрывной волной, так и мощным сотрясающим ударом. Фугасные ракеты являются в первую очередь противоистребительным оружием, используемым для быстрого нанесения калечащих ударов по звездным истребителям и патрульным катерам, хотя они также неплохо показывают себя и против более крупных целей.
 
-[P]Concussion grenades are primarily a personal scale weapon, although many military ground vehicles mount concussion grenade launchers that fire larger anti-infantry or anti-armor versions. Concussion grenade launchers are typically relatively short range ballistic weapons, and thus are useless in space combat.
+[P]Фугасные гранаты относятся преимущественно к оружию личного масштаба, хотя на многих военных наземных машинах устанавливаются гранатометы, стреляющие более крупными противопехотными или противоброневыми вариантами. Гранатометы для фугасных гранат, как правило, являются баллистическим оружием относительно малой дальности, а потому бесполезны в космическом бою.
 
-[P]Additional concussion missiles cost 500 credits each and are Restricted. </Description>
+[P]Дополнительные фугасные ракеты стоят по 500 кредитов за штуку и относятся к параметру "Ограниченный". </Description>
     <Sources>
       <Source Page="253">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="265">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -3941,11 +3940,10 @@ The more common and less powerful of the two types of shipboard ordnance, concus
   </Weapon>
   <Weapon>
     <Key>CONTENERAXE</Key>
-    <Name>Contained Energy Axe</Name>
-    <Description>[H3]Contained Energy Axe[h3]
-Until activated, a contained energy axe is easily mistaken for a common vibro-axe. However, rather than relying on ultrasonic vibrations for its cutting power, a contained energy axe houses a diatium power generator that, when activated, produces a magnetically contained energy blade along the edge of the axe head. While the hefty axe relies on raw strength to inflict much of its damage, the addition of a centimeter of coherent plasma along its cutting edge allows the weapon to slice through nearly any material with ease.
-[P]A contained energy axe can use appropriate Melee weapon
-attachments, but not lightsaber attachments.</Description>
+    <Name>Энергетический топор (Contained Energy Axe)</Name>
+    <Description>[H3]Энергетический топор[h3]
+Пока он не активирован, энергетический топор легко спутать с обычным вибротопором. Однако вместо того чтобы полагаться на ультразвуковые вибрации для своей режущей мощи, этот топор оснащен диатиевым генератором питания, который при активации создает магнитно удерживаемый энергетический клинок вдоль режущей кромки топора. И хотя этот массивный топор наносит основной урон за счет чистой физической силы, слой когерентной плазмы толщиной в сантиметр, проходящий вдоль его режущей кромки, позволяет оружию с легкостью рассекать практически любой материал.
+[P]Энергетический топор может использовать подходящие навесные модули для оружия ближнего боя, но не поддерживает навесные модули для световых мечей.</Description>
     <Source Page="43">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Lightsaber</Type>
@@ -3983,12 +3981,11 @@ attachments, but not lightsaber attachments.</Description>
   </Weapon>
   <Weapon>
     <Key>CORALPIKE</Key>
-    <Name>Coral Pike</Name>
+    <Name>Коралловая пика (Coral Pike)</Name>
     <Description>
-      [H3]Mon Calamari Coral Pike[h3]
-The coral pike is an ancient weapon of the Mon Calamari people. Despite its status as a ceremonial weapon, the coral pike is an effective Melee weapon that combines elements of a force pike with Mon Calamari craftsmanship. Coral pike blades are crafted from a particularly dense breed of coral native only to Mon Cala. Once a craftsperson has defined the general shape of the blade, it is sharpened to a nearly monomolecular edge using precise lasers. The result is a unique weapon with an edge that never dulls.
-[P]Every coral pike is made by hand, and no two are exactly alike. They are often carved with symbols
-denoting Mon Calamari rank and familial ties. For individuals who are considered friends of the Mon Calamari people, the gift of a coral pike is a great honor and represents an eternal bond that transcends species.</Description>
+      [H3]Коралловая пика Мон-каламари[h3]
+Коралловая пика - это древнее оружие народа Мон-каламари. Несмотря на свой статус церемониального оружия, коралловая пика является эффективным оружием ближнего боя, сочетающим в себе конструктивные особенности силовой пики и высокое мастерство Мон-каламари. Лезвия коралловых пик изготавливаются из особо плотной разновидности коралла, встречающегося только на Мон-Кала. После того как мастер придает заготовке общую форму, она затачивается до почти мономолекулярной остроты с помощью высокоточных лазеров. Результатом становится уникальное оружие с режущей кромкой, которая никогда не тупится.
+[P]Каждая коралловая пика изготавливается вручную, и не существует двух абсолютно одинаковых экземпляров. На них часто вырезают символы, указывающие на ранг и семейные связи Мон-каламари. Для тех, кто считается другом народа Мон-каламари, дар в виде коралловой пики является великой честью и символизирует вечную связь, не знающую видовых границ.</Description>
     <Source Page="108">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>MELEE</SkillKey>
@@ -4017,15 +4014,15 @@ denoting Mon Calamari rank and familial ties. For individuals who are considered
   </Weapon>
   <Weapon>
     <Key>CORTSHIELD</Key>
-    <Name>Cortosis Shield</Name>
+    <Name>Кортозисный щит (Cortosis Shield)</Name>
     <Description>
-      [H3]Cortosis Shield[h3]
+      [H3]Кортозисный щит[h3]
 
-While law enforcement officers and some mercenaries might carry high-tech riot shields for use in crowd control situations, the common defensive shield is vanishingly rare on the battlefield. In the modern era of focused energy weapons, high-powered slugthrowers, and ship- and vehicle-mounted ordnance that can turn a sentient into a pile of ash in a heartbeat, even plastoid armor is of arguable value. In the face of heavy fire, most individuals prefer either to present an overwhelming force or to retreat. Those who deal with the remnants of the Jedi Order, such as the Inquisitors and the secret police units of the Galactic Empire, often have need of specialized equipment.
+Хотя сотрудники правоохранительных органов и некоторые наемники могут носить высокотехнологичные щиты для разгона толпы, обычные защитные щиты встречаются на поле боя исчезающе редко. В современную эпоху сфокусированного энергетического оружия, мощного стволового оружия, а также корабельных и установленных на технике боеприпасов, способных в мгновение ока превратить разумное существо в кучку пепла, даже пластоидная броня имеет весьма сомнительную ценность. Под шквальным огнем большинство предпочитает либо применить подавляющую силу, либо отступить. Те же, кто имеет дело с остатками Ордена джедаев, такие как Инквизиторы и подразделения тайной полиции Галактической Империи, зачастую нуждаются в специализированном снаряжении.
 
-[P]Cortosis shields are made from various alloys or synthetic compounds and are laced with a refined cortosis weave that absorbs blaster energy and can even turn or disrupt the blade of a lightsaber. Due to their inherent strength, cortosis shields can be used as a makeshift Melee weapon, allowing a user to bash or push away an opponent.
+[P]Кортозисные щиты изготавливаются из различных сплавов или синтетических композитов и пронизаны очищенной кортозисной нитью, которая поглощает энергию бластерных выстрелов и способна даже отклонить или дезактивировать клинок светового меча. Благодаря своей природной прочности, кортозисные щиты можно использовать как импровизированное оружие ближнего боя, позволяя владельцу наносить удары или отталкивать противника.
 
-[BR][B]Models Include:[b] Arakyd Industries Special Order Model 3 Shield. </Description>
+[BR][B]Модели включают:[b] Щит специальной модели 3 от Arakyd Industries. </Description>
     <Source Page="172">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -4062,13 +4059,13 @@ While law enforcement officers and some mercenaries might carry high-tech riot s
   </Weapon>
   <Weapon>
     <Key>CORTSWORD</Key>
-    <Name>Cortosis Sword</Name>
+    <Name>Кортозисный меч (Cortosis Sword)</Name>
     <Description>
-      [H3]Cortosis Sword[h3]
+      [H3]Кортозисный меч[h3]
 
-The making and use of cortosis swords is, perhaps, as old as the making and use of lightsabers. Cortosis swords were created to counter the elegant and deadly lightsabers wielded by Jedi and other Force adherents, and hopefully to grant their non—Force-using wielders some hope of survival against a determined lightsaber user. Built in a variety of styles, and using varying amounts of cortosis ore in their construction, cortosis-bladed swords, in the right hands, pose a decided threat to even the most powerful Force user.
+История создания и применения кортозисных мечей, пожалуй, столь же долга, как и история световых мечей. Кортозисные мечи были созданы как противовес элегантным и смертоносным световым мечам, которыми владеют джедаи и другие последователи Силы, в надежде дать не владеющим Силой бойцам хоть какой-то шанс на выживание в схватке с решительным противником, вооруженным световым мечом. Выполненные в самых разных стилях и содержащие в своей конструкции различное количество кортозисной руды, эти мечи в умелых руках представляют собой реальную угрозу даже для самых могущественных адептов Силы.
 
-[BR][B]Models Include:[b] Bank Tarn Collective Razorblade.</Description>
+[BR][B]Модели включают:[b] "Бритва" Коллектива Банк Тарн.</Description>
     <Source Page="173">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -4096,12 +4093,12 @@ The making and use of cortosis swords is, perhaps, as old as the making and use 
   </Weapon>
   <Weapon>
     <Key>CR8</Key>
-    <Name>CR-8 Takedown Rifle</Name>
+    <Name>Разборная винтовка CR-8 Corellian Arms (CR-8 Takedown Rifle)</Name>
     <Description>
-      [H3]Corellian Arms CR-8 Takedown Rifle[h3]
-The CR-8 is a high-performance blaster rifle designed for use by CorSec snipers and secret agents. Built to exacting specifications by Corellian Arms, the CR-8 is a long, deadly looking weapon designed for pinpoint accuracy at very long ranges. Just shy of two meters in length, the CR-8 is equipped with a precision barrel, lightweight, matte finish composite furniture, and a highpowered sight. It also features an integrated energy damper that reduces its report and muzzle flash. The weapon's firing system uses a supercharged actuator, upgraded XCiter, and a high-output proprietary blaster gas. These modifications increase power and reduce beam refraction and degradation, allowing the weapon to accurately hit targets at ranges well beyond normal blaster rifle range. The downside is that the weapon produces an inordinate amount of heat, which it must offset with a low rate of fire.
-[P]Perhaps the CR-8's most unique aspect is its transportability, the weapon is designed to be broken down into its core components quickly  and easily. with just a few moments of work, the CR-8 can be disassembled into five separate components: berrel, stock, reciever, sight, and energy damper. Obstensibly, this feature was added to the weapon to assist in carrying and storing it. As an added side effect, however, the takedown feature makes these weapons extremely easy to hide and very attractive for professional killers. A CR-8 is nearly impossible to find when hidden, thanks to the takedown feature and its unique finish.
-[P]When a CR-8 is properly broken down and concealed add [SE][SE] to a character's Perception checks made to find it on a person's body.</Description>
+      [H3]Разборная винтовка CR-8 Corellian Arms[h3]
+CR-8 - это высококлассная бластерная винтовка, разработанная для использования снайперами CorSec и тайными агентами. Созданная в строгом соответствии с жесткими техническими требованиями компанией Corellian Arms, CR-8 представляет собой длинное, смертоносное на вид оружие, спроектированное для безупречной точности на очень больших дистанциях. Имея длину чуть менее двух метров, CR-8 оснащена прецизионным стволом, легкими композитными накладками с матовым покрытием и мощным прицелом. Она также оборудована встроенным энергетическим демпфером, снижающим звук выстрела и дульную вспышку. Механизм стрельбы использует сверхмощный привод, модернизированный экситер и высокоэффективную фирменную бластерную газовую смесь. Эти модификации увеличивают мощность и снижают преломление и деградацию луча, позволяя оружию точно поражать цели на дистанциях, значительно превышающих обычную дальность стрельбы бластерных винтовок. Обратной стороной является то, что оружие выделяет непомерное количество тепла, что вынуждает компенсировать это низким темпом стрельбы.
+[P]Пожалуй, самой уникальной особенностью CR-8 является её транспортабельность: оружие спроектировано так, чтобы его можно было быстро и легко разобрать на основные узлы. Буквально за несколько минут CR-8 может быть разобрана на пять отдельных частей: ствол, приклад, ствольную коробку, прицел и энергетический демпфер. Официально эта функция была добавлена для удобства переноски и хранения оружия. Однако в качестве побочного эффекта разборная конструкция делает это оружие чрезвычайно простым для скрытного ношения и очень привлекательным для профессиональных убийц. Спрятанную CR-8 практически невозможно обнаружить, чему способствуют как возможность разборки, так и её уникальное покрытие.
+[P]Если CR-8 должным образом разобрана и спрятана, добавьте [SE][SE] к проверкам "Внимания" персонажа, пытающегося найти её при личном обыске.</Description>
     <Source Page="40">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -4141,7 +4138,7 @@ The CR-8 is a high-performance blaster rifle designed for use by CorSec snipers 
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>When CR-8 is properly broken down and concealed, add [SE][SE] to Perception checks made to find it on a person.</MiscDesc>
+        <MiscDesc>Если CR-8 должным образом разобрана и спрятана, добавьте [SE][SE] к проверкам "Внимания" персонажа, пытающегося найти её при личном обыске.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
@@ -4501,7 +4498,7 @@ Manufactured by the Sakiyan corporation SakTek, this unusual personal weapon use
     <Description>[H3]The Darksaber[h3]
 This ancient weapon is unlike any other known lightsaber. Its hilt emits a thin curved blade of utter blackness with a halo of white energy, rather than the colorful glowing blades of other lightsabers. Legend has that the first Mandalorian Jedi fashioned it centuries ago. Many have used it over the ages, from the Jedi of old to the Mandalorians who stole it from their temple and made it a symbol of House Vizla. Recently, it has been sighted on Dathomir and has come into the possession of Sabine Wren-a descendant of that House. Whether she knows the significance of her newest weapon, or what she might do it she does, remains to be seen.
 [P]The Darksaber is a unique item and has the following profile: (Lightsaber; Damage 6; Critical 2; Range [Engaged]; Accurate 1, Breach 1, Defensive 1, Sunder). The crystal has all of its mods applied and the hilt has no hard points. While the user openly displays the weapon, add automatic [SU][AD] to social skill checks that character makes against Mandalorian characters.</Description>
-    <Source Page="79">Dawn of Rebellion</Source>
+    <Source Page="79">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Lightsaber</Type>
     <Categories>
@@ -5024,7 +5021,7 @@ These weighty, deadly pistols are a favorite of both smugglers and mercenaries. 
     <Description>[H3]DLT-19D Heavy Blaster Rifle[h3]
 The DLT-19D is a weapon BlasTech made specifically for the Imperial Navy's death troopers. Starting with the tried-and-true standard stormtrooper DLT-19, BlasTech engineers retooled the weapon to meet the exacting standards of the elite corps. The DLT-19D features a unique galven pattern with auxiliary barrels that tap into an expanded central energy chamber to offer greater power output and rate of fire. It also features an integral optical telescopic sight to improve accuracy over long distances. Its power output and rate of fire have been increased. All of these improvements make the rifle an excellent choice for the elite forces of the Empire to destroy rebellious enemies.
 [P]The integrated optics counts as a scope and reduces the difficulty of Ranged combat checks at long and extreme range once.</Description>
-    <Source Page="117">Dawn of Rebellion</Source>
+    <Source Page="117">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -5200,7 +5197,7 @@ Crafted by Coronet Arms, a small weapons manufacturer known for producing high-q
     <Description>[H3]E-11D Blaster Carbine[h3]
 The E-11D is the standard-issue longarm of the death troopers. Designed for the kinds of close-quarters and urban combat situations that death troopers excel at, the E-11D is a lightweight, sturdily built blaster carbine that trades range and accuracy for sheer stopping power and short-range performance. The E-11D has a large-bore reinforced barrel, and comes equipped with integrated features to improve power output, balance, and handling.
 [P]Upgrade the ability of combat checks made when using this weapon at short range once.</Description>
-    <Source Page="117">Dawn of Rebellion</Source>
+    <Source Page="117">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -5299,7 +5296,7 @@ Developed from the venerable E-11 blaster rifle, BlasTech's E-11s was designed p
     <Description>[H3]E-22 Blaster Rifle[h3]
 An uncommon weapon in the Imperial arsenal, BlasTech's E-22 blaster rifle is a medium squad support weapon fielded by numerous Imperial special forces units. Used primarily by amphibious shoretroopers, the E-22 is a heavy, environmentally sealed blaster rifle designed to stand up to hard use in hostile environments. Larger and heavier than the standard E-11 blaster rifle, it features reciprocating double barrels with a more aggressive galven pattern, and numerous other features installed to improve performance and survivability.
 [P]The weapon's environmental sealing prevents damage from water, sand, salt, caustic gases, and other dangerous environmental hazards.</Description>
-    <Source Page="117">Dawn of Rebellion</Source>
+    <Source Page="117">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -7621,7 +7618,7 @@ By the last days of the Clone Wars, most war materiel hewed to a handful of stan
     <Name>Heavy Ion Blaster</Name>
     <Description>[H3]Heavy Ion Blaster[h3]
 Ion weapons are anti-ship and anti-vehicle weapons designed to disable rather than destroy their targets. They use ion turbine generators to create masses of negatively charged particles which are fused with plasma and released as blasts or pulses. The negatively charged particles interfere with a target's electrical systems, shorting circuits, corrupting computers, and forcing system shutdowns in an effort to subdue a target or make it easier to destroy via more traditional means. Although designed to do little-to-no physical damage to targets, collateral damage such as fried circuits, fused joints, and even fires may occur due to the intense energy surges.</Description>
-    <Source Page="127">Dawn of Rebellion</Source>
+    <Source Page="127">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -8097,7 +8094,7 @@ Restricted to military use or banned entirely on most worlds, the D-24 Inferno G
     <Description>[H3]Double-bladed Inquisitorious Lightsaber[h3]
 Inquisitors use a unique double-bladed lightsaber. Its handle incorporates a spinning mechanism that enables the blades to rapidly rotate without the wielder needing to take additional action after initiating rotation. The primary purpose of this rotation is to improve the blades' ability to deflect incoming attacks. In addition, when used in a Saber Throw action, the spinning motion adds stability that adds [BO] to the check and increases the blade's damage by +1.
 [P]A character with the Enhance Force power may also use an Inquisitorious lightsaber to fly.</Description>
-    <Source Page="67">Dawn of Rebellion</Source>
+    <Source Page="67">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Lightsaber</Type>
     <Categories>
@@ -9434,7 +9431,7 @@ Merr-Sonn's LD-1 is the company's latest foray into the highly competitive long-
     <Description>[H3]Lightbow[h3]
 A distinctive part of each Guardian of the Whill's spiritual progression on Jedha, lightbows are traditionally constructed by hand upon completion of the seventh duan towards physical perfection. They have two limbs containing polarizing arrays to stabilize firing. These extend outwards and so make lightbows resemble Wookiee bowcasters, but the limbs on lightbows can be collapsed for easier transport. A sophisticated auto-loading system loads, cocks, and fires with every pull of the trigger, emitting a powerful charged particle.
 [P]The user may spend a maneuver to collapse the weapon for regular transport (reducing its encumbrance to 3) or expand the arrays to ready it for firing.</Description>
-    <Source Page="117">Dawn of Rebellion</Source>
+    <Source Page="117">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -9559,7 +9556,7 @@ Lightfoils are small lightsabers with hilts comparable in size to those of shoto
 Light repeaters are support weapons for military and mercenary units. They feature a high rate of fire and are designed to suppress and injure unarmored personnel. The hail of "light" produced by these rapid-firing weapons is often enough to force enemies to ground.
 
 [BR][B]Models Include[b]: BlasTech T-21 Light Repeating Blaster. </Description>
-    <Source Page="127">Dawn of Rebellion</Source>
+    <Source Page="127">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -9599,7 +9596,7 @@ Light repeaters are support weapons for military and mercenary units. They featu
 [BR][B]Models Include[b]: BlasTech T-21 Light Repeating Blaster. </Description>
     <Sources>
       <Source Page="53">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
-      <Source Page="122">Dawn of Rebellion</Source>
+      <Source Page="122">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     </Sources>
     <Custom>AddedItem</Custom>
     <Type>Vehicle</Type>
@@ -13247,7 +13244,7 @@ Morellian Weapons Conglomerate MWC-35c heavy repeating blaster cannon is one of 
 [P]While the MWC-35c works surprisingly well, it has some drawbacks. The armored cable that carries power from the backpack to the rifle can break or become disconnected during heavy use, making the weapon useless until repaired. The generator itself, although well protected, can detonate when ruptured, often killing the wearer and seriously wounding anyone nearby.
 [P]The repeating cannon can be fired in two different modes. The standard mode fires in a full-automatic surge designed to eliminate many targets in an instant. The secondary mode fires single-shot blasts of a higher power, but requires priming the weapon vie the pump-action foreguard. Switching between modes requires a maneuver.
 [P]If this weapon is ever destroyed-by a weapon with the Sunder quality or through other means determined by the Game Master-it blows up and deals 10 damage to the wearer and other characters within engaged range.</Description>
-    <Source Page="118">Dawn of Rebellion</Source>
+    <Source Page="118">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -13306,7 +13303,7 @@ Morellian Weapons Conglomerate MWC-35c heavy repeating blaster cannon is one of 
 [P]While the MWC-35c works surprisingly well, it has some drawbacks. The armored cable that carries power from the backpack to the rifle can break or become disconnected during heavy use, making the weapon useless until repaired. The generator itself, although well protected, can detonate when ruptured, often killing the wearer and seriously wounding anyone nearby.
 [P]The repeating cannon can be fired in two different modes. The standard mode fires in a full-automatic surge designed to eliminate many targets in an instant. The secondary mode fires single-shot blasts of a higher power, but requires priming the weapon vie the pump-action foreguard. Switching between modes requires a maneuver.
 [P]If this weapon is ever destroyed-by a weapon with the Sunder quality or through other means determined by the Game Master-it blows up and deals 10 damage to the wearer and other characters within engaged range.</Description>
-    <Source Page="118">Dawn of Rebellion</Source>
+    <Source Page="118">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -13855,7 +13852,7 @@ War is a stressful pastime. Most sentient beings unaccustomed to battle choke up
     <Description>[H3]PB08 Heavy Blaster Pistol[h3]
 One of the more popular pistols on the market, Merr-Sonn's PB08 was designed as a direct competitor to BlasTech's DL-44. Simple and reliable, the PB08 is a sturdy, large framed blaster pistol with a short ventilated barrel that delivers excellent damage and penetration over short ranges. What makes the PB08 stand out from the crowd is its heat management and energy conservation systems. Most heavy blaster pistols, especially the DL-44, have a nasty tendency to overheat or run out of blaster gas at the most inopportune times. Merr-Sonn's designers eliminated these drawbacks from the PB08 by using gas circulation heat sinks in the barrel to dissipate the heat generated by the powerful blaster bolts. These pistols also have a unique energy management system designed to squeeze as much energy out of Tibanna gas as possible. While this makes the PB08 more reliable, it also reduces the weapon's range and raw damage output.
 [P]This weapon cannot be made to run out of ammo by spending [DE].</Description>
-    <Source Page="118">Dawn of Rebellion</Source>
+    <Source Page="118">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Energy Weapon</Type>
     <Categories>
@@ -17146,7 +17143,7 @@ Although just as heavy and unwieldly as many more lethal weapons, riot blasters 
 The Mk I Superlaser developed for the Death Star is the most powerful weapon in the galaxy. Utilizing the unique energy-focusing qualities of refined kyber crystals and powered by four huge animatter generators, this weapon has the ability to completely destroy planets with a single blast.
 [P]The superlaser has no damage or critical rating, yet deals damage. Its destructive power is on such a level that it transcends mere numbers. When the Death Star fires its superlaser, everything in its path is utterly destroyed. Even when using the energy from a single reactor, it can crater cities and devastate huge swaths of a planet's surface.
 [P]The damage that this massive weapon can dish out is more narrative that mechanical. If the players ever encounter the Death Star and see the superlaser in action, the Game Master should describe ships burning to ash as it they were paper, whole worlds obliterated in the blink of an eye, shockwaves and strange localized hyperspace anomalies, and other terrible consequences. Force-sensitives, for example, might become disoriented from the death cries of an entire city's population. If the Player Characters are ever targeted by the Death Star's superlaser, the Game Master should find a way to allow them to escape what would be certain death, perhaps by making suitably heroic Piloting (Space) checks or spending Destiny Points.</Description>
-    <Source Page="32">Dawn of Rebellion</Source>
+    <Source Page="32">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Vehicle</Type>
     <Categories>
@@ -18925,7 +18922,7 @@ Produced by manufacturers of vibro-tools and weapons such as LaserHone and Merr-
     <Description>[H3]Vibrorang[h3]
 Seen in some of the more remote areas of the galaxy, especially in rougher and more aggressive resistance movements, vibrorangs are throwing weapons containing ultrasonic vibroblade technology. They can be hurled in long, curving arcs that can often catch targets by surprise.
 [P] If a ranged attack with a vibrorang is unsuccessful, the user may spend [AD][AD] to have it safely return to his possession. It can also be used in melee combat with the following profile: (Melee; Damage +2; Critical 2; Range [Engaged], Inaccurate 1, Pierce 2, Vicious 1).</Description>
-    <Source Page="118">Dawn of Rebellion</Source>
+    <Source Page="118">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Thrown</Type>
     <Categories>
@@ -18972,7 +18969,7 @@ Seen in some of the more remote areas of the galaxy, especially in rougher and m
     <Description>[H3]Vibrorang[h3]
 Seen in some of the more remote areas of the galaxy, especially in rougher and more aggressive resistance movements, vibrorangs are throwing weapons containing ultrasonic vibroblade technology. They can be hurled in long, curving arcs that can often catch targets by surprise.
 [P] If a ranged attack with a vibrorang is unsuccessful, the user may spend [AD][AD] to have it safely return to his possession. It can also be used in ranged combat with the following profile: (Ranged (Light); Damage 4; Critical 2; Range [Medium], Limited Ammo 1, Pierce 2, Vicious 1).</Description>
-    <Source Page="118">Dawn of Rebellion</Source>
+    <Source Page="118">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Melee</Type>
     <Categories>
@@ -19719,7 +19716,7 @@ Lightweight and easy to use, SoroSuub's X-30 Lancer is one of the most popular s
     <Description>[H3]XX-23 S-Thread Tracer[h3]
 This missile contains a device allowing the target's movements to be tracked regardless of where it travels, including through hyperspace.
 [P]After a character makes a successful combat check with an XX-23 tracer, he may make an [B]Average [DI][DI] Astrogation check[b] to determine the target's location anywhere in the galaxy until the tracer is removed.</Description>
-    <Source Page="64">Dawn of Rebellion</Source>
+    <Source Page="64">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Vehicle</Type>
     <Categories>

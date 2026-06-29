@@ -5,7 +5,7 @@
   <Description>[H3]TIE/MG Mining Guild Starfighter[h3]
 Thanks to its close working relationship with the Empire, the Mining Guild is one of the few non-Imperial organizations that are permitted to operate TIE-series starfighters. Known unofficially a TIE-mgs, Mining Guild TIEs are surplus TIE/ln starfighters purchased in bulk from the Imperial Navy and modified by Mining Guild shipwrights. They are deployed to Mining Guild sites all across the galaxy and provide protection against thieves, pirates, and resistance saboteurs.
 [P]Painted in the Guild’s yellow-and-black livery, these fighters are a common sight around mining facilities. Their most obvious modification is the removal of the forward two panels of each of the fighter’s solar arrays. While this greatly improves pilot visibility, it noticeably reduces speed and power. Additionally, these fighters are equipped with upgraded life-support systems to allow Mining Guild pilots to fly without bulky TIE-style flight suits. While Guild pilots are not as highly trained or skilled as Imperial Navy pilots, they still use their secondhand TIE fighters to great effect.</Description>
-  <Source Page="125">Dawn of Rebellion</Source>
+  <Source Page="125">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
   <Custom>AddedItem</Custom>
   <Type>Starfighter</Type>
   <Categories>

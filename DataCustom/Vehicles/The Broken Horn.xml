@@ -4,7 +4,7 @@
   <Name>The Broken Horn</Name>
   <Description>[H3]The [I]Broken Horn[i][h3]
 This C-ROC [I]Gozanti[i]-class cruiser serves as Vizago's personal transport. It is only lightly armored, relying on surprising speed and maneuverability to avoid trouble. The [I]Broken Horn[i] has several modifications, including smuggling compartments and power stations for up to a dozen droids, all of which are keyed to Vizago's droid remote for activation at a moment's notice. The ship's extensive reconfiguration allows the Devaronian to fly the ship without the aid of a co-pilot, if necessary.</Description>
-  <Source Page="83">Dawn of Rebellion</Source>
+  <Source Page="83">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
   <Custom>AddedItem</Custom>
   <Type>Armored Transport</Type>
   <Categories>

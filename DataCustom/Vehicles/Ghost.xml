@@ -4,7 +4,7 @@
   <Name>Ghost</Name>
   <Description>[H3][I]Ghost[i][h3]
 The Spectres commonly use the [I]Ghost[i] on their missions, which sadly means Imperial forces quickly recognize this VCX-100 freighter. Early on, it was modified to allow the docking of a shuttle (originally [I]Phantom[i], then [I]Phantom II[i]).</Description>
-  <Source Page="77">Dawn of Rebellion</Source>
+  <Source Page="77">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
   <Custom>AddedItem</Custom>
   <Type>Light Freighter</Type>
   <Categories>

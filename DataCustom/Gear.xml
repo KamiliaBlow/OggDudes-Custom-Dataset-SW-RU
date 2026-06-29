@@ -5304,7 +5304,7 @@ The WSW Mk III "Harrier" is a combat and training remote produced by Cybot Galac
     <Description>[H3]DTS-series Dismantler Droid[h3]
 Industrial Automaton's DTS-series dismantler droids are a common sight in the galaxy's ports and breaking yards. Dismantlers are big, surprisingly numble droids roughly the size of a small starfighter or large airspeeder. They are shaped somewhat like a mushroom, with a large sensor-studded dome of a head perched on a thin cylindrical body. Four insect-like legs surround the base of the body, and two massive arms tipped with powerful crushing claws sprout from beneath the head. Designed to dismantle and recycle starships, these burly droids are equipped with a suite of destructive tools and weapons, backed with the strength to use them. To get around shipyards quickly, dismantlers are also equipped with a repulsorlift generator and numerous small thrusters that give them a surprising turn of speed.
 [P]While they are intelligent, they are remarkable single-minded and rarely interact with organic sentient beings other than to take orders, report, and ask for clarifications. This gives them a reputation as slow-witted and dull, which makes individuals unfamiliar with these droids tend to underestimate them.</Description>
-    <Source Page="119">Dawn of Rebellion</Source>
+    <Source Page="119">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Droids</Type>
     <Categories />
@@ -6576,7 +6576,7 @@ The gravity belt is a specialized utility belt created by Iyranis Gravitics Limi
 These hovering, slablike devices are the latest attempts to thwart any would-be ship thieves. They are a recent Imperial invention, and can be found on most major planetary docking bays and shipyards as a response to growing resistance missions to acquire Imperial vessels. Once firmly clamped onto each leg of a ship’s landing gear, gravity locks use tractor beam technology to ensure a ship cannot take off. Their tough construction also means they are almost impossible to forcibly remove or even destroy without using weapons that will likely damage the ship itself.
 [P]A single gravity lock costs 7,400 credits (rarity 6). It has a silhouette of 3 and encumbrance of 14, and counts as having a soak value of 15 and a wound threshold of 10. If attacked, [TH][TH] or [DE] may be spent to inflict half of the damage it suffers onto a ship to which it has been attached. Entering the unique key code created when the lock is installed is the usual manner to deactivate the device, but it can be dismantled in a laborious process requiring an upgraded [B]Formidable ([CH][CH][DI][DI][DI]) Mechanics check[b] and eight hours of hard work. If the character has direct knowledge of a gravity lock’s inner workings, they check is not upgraded and the process takes half the time.
 </Description>
-    <Source Page="129">Dawn of Rebellion</Source>
+    <Source Page="129">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Tools/Electronics</Type>
     <Categories />
@@ -8112,7 +8112,7 @@ A sophisticated subspace receiver, the hyperwave signal interceptor (HSI) is des
     <Description>[H3]ID9 Seeker Droid[h3]
 Seekers are small, repulsor-driven, Class II droids used throughout the galaxy as couriers, scouts, and occasionally assassins. The ID9 by Arakyd Industries is a perfect example of the type. These small, nimble droids look like miniature Viper probe droids. They are commonly used tby the ISB and Inquisitorius in the course of their work rooting out rebels, traitors, and Jedi. Roughly the size of a large datapad, these droids have a flat, saucer-shaped body covered in light-absorbing polycarbonate. A single large red photoreceptor surrounded by four small sensor globes is mounted on the leading edge of the saucer, and the dorsal surface is studded with antennae and sensors. Five multi-jointed limbs-three long and two short-are mounted to the droid's ventral surface. Each of these limbs is equipped with a powerful grasping claw and a short-range energy weapon that allow the little droids to knock out organics and other droids with ease.
 [P]ID9 droids are not the smartest droids in the Imperial arsenal, but they make up for it with tenacity and a kind of low cunning not often seen in droids of their class. With their nearly silent repulsorlift generator, light-absorbing coating, and stealthy programming, they are well suited for sneaking and spying. Since these droids are used primarily by ISB agents and other secretive assets, most resistance operatives don't even know they exist. Those who have encountered them view them with equal parts annoyance, respect, and fear, because while they themselves are easy to deal with, their masters usually are not.</Description>
-    <Source Page="119">Dawn of Rebellion</Source>
+    <Source Page="119">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Droids</Type>
     <Categories />
@@ -8126,7 +8126,7 @@ Seekers are small, repulsor-driven, Class II droids used throughout the galaxy a
     <Description>[H3]IG-RM-series Enforcer Droid[h3]
 The IG-RM series is one the the more common offshoots of Holowan Laboratories IG-series combat droids. Closely related to the IG-series assassin droids, IG-RM droids are tall, faceless, imposing constructs with broad shoulders, spindly arms, and a penchant for violence. Designed to act as bodyguards and security personnel, IG-RM droids have a heavily armored torso and programming that makes them fanatically loyal to their owners. These droids have no qualms against harming other sentients at their owners' behest, and will even throw themselves directly into harm's way to protect their masters. They tend to take orders literally and show little in the way of initiative or creative thinking. Thanks to these traits and their looming, intimidating presence, many of these droids have found their way into the employ of various crime syndicates and corrupt governments as enforcers and toughs.
 [P]IG-RM droids possess no internal weaponry. They are, however, programmed to handle most known military and civilian arms. They are also programmed for close-in melee combat and grappling, which comes in handy when an opponent needs to be subdued rather than killed outright.</Description>
-    <Source Page="119">Dawn of Rebellion</Source>
+    <Source Page="119">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Droids</Type>
     <Categories />
@@ -8572,7 +8572,7 @@ The Brennkeyes Syndicate remains among one of the most wanted criminal productio
 Arakyd Industries' KX-series enforcer droids are a rarity in the Empire's armed forces. While droids in general are quite common in the Imperial military, those programmed for combat or other warlike functions are largely unheard of. General distrust of Class IV droids throughout the galaxy, plus the debacle of the dark trooper program, has soured the Joint Chiefs on the use of combat droids. One exception to this rule, however, is the Imperial Army's KX-series.
 [P]Officially classified as security droids, KX-series droids are general-purpose units used in roles ranging from combat support to security to frontline battle. They stand just over two meters tall, with broad shoulders; long, thin limbs; and a skull-like head with two piercing white optical sensors. Their bodies are covered in dark gunmetal armor and an integrated back-mounted combat computer gives them an almost hunchbacked posture. Rigorously controlled and monitored, these droids are subjected to all appropriate service and maintenance, which gives them little opportunity to develop individual personalities. What little personality they do have is cool, commanding, and menacing. Extremely single-minded, they are quite difficult to bluff or distract from their given mission. Their humanoid form also means they can be equipped with almost any weapon a human could use.
 [P]KX-series droids are a priority target for insurgents. Rebel leadershiphas put a bounty on their capture, and at least one cell has a KX among its membership that acts as an infiltrator and spy.</Description>
-    <Source Page="120">Dawn of Rebellion</Source>
+    <Source Page="120">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Droids</Type>
     <Categories />
@@ -9420,7 +9420,7 @@ Creshaldyne Industries' Mk. III Modular Backpack is a civilian version of its po
     <Description>[H3]MSE-series Maintenance Droid[h3]
 The ubiquitous MSE-series "mouse droids" are so common in the galaxy's starships and spaceports as to be nearly invisible. Designed by Rebaxan Columni decades before the outbreak of the Clone Wars, these tiny, boxy droids were produced by the billions. Closer in intellect and utility to a remote than to a full droid, they are equipped with a low-powered, single-function droid brain that can contain a single program at a time. These programs can be switched out with ease, making the droids surprisingly versatile. This versatility is hampered, however, by the droid's lack of intellect, creativity, and problem-solving abilities.
 [P]Mouse droids are largely used in maintenance and custodial roles aboard ships and in military installations. With their three retractable manipulators and a surprisingly excellent sensor package, they excel at basic mechanical and electrical repair, and at cleaning, scraping, painting, and otherwise carry out the drudgery of keeping a starship ship-shape. They also make remarkably good security and communications droids, keeping watch over sensitive areas, carrying encrypted messages, or even acting as tools in espionage efforts.</Description>
-    <Source Page="121">Dawn of Rebellion</Source>
+    <Source Page="121">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Droids</Type>
     <Categories />

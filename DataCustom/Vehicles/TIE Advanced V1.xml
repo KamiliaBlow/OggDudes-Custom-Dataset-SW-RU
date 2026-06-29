@@ -5,7 +5,7 @@
   <Description>[H3]TIE Advanced V1[h3]
 Sienar Fleet Systems designed the TIE Advanced v1 to be a sturdy starfighter capable of operating independently of fleet support. To achieve this objective, it added shields, a hyperdrive, and armor plating. The ship's curved S-foils fold inwards when the vessel lands to minimize its storage footprint.
 [P]Factories on Lothal made the initial production run for the TIE Advanced v1, but local rebels destroyed the first model. Once the ships were back in production, they quickly became the primary transports for the Inquisitorious.</Description>
-  <Source Page="64">Dawn of Rebellion</Source>
+  <Source Page="64">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
   <Custom>AddedItem</Custom>
   <Type>Starfighter</Type>
   <Categories>

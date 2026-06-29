@@ -4,7 +4,7 @@
   <Name>Delta-class T-3c Shuttle</Name>
   <Description>[H3][I]Delta[i]-class T-3c Shuttle[h3]
 The Sienar [I]Delta[i]-class T-3c is a heavily armed command shuttle used by high-ranking Imperial officers and other valued officials. Related to the lighter and more common [I]Lambda[i]-class shuttle, the T-3c is a big, lumbering shuttle designed to carry VIPs and sensitive cargo safely into combat zones. It has a stark and angular hull divided into two decks, a single vertical stabilizer, and two long folding wings similar to those on other Cygnus and Sienar shuttles to provide stability in atmosphere. The shuttle’s upper deck houses the cockpit, a small and well-appointed passenger compartment, and a pair of private staterooms. The lower deck is a secure modular cargo hold that can be configured to carry nearly any kind of cargo. While it not as common as other Imperial shuttle classes, the [I]Delta[i]-class it still an important part of the Imperial Navy’s order of battle.</Description>
-  <Source Page="123">Dawn of Rebellion</Source>
+  <Source Page="123">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
   <Custom>AddedItem</Custom>
   <Type>Shuttle</Type>
   <Categories>
