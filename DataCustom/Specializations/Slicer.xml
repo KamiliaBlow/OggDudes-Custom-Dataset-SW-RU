@@ -16,6 +16,10 @@
     <Source Page="99">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
   </Sources>
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>Шпион</Category>
+    <Category>Техник</Category>
+  </Categories>
   <CareerSkills>
     <Key>COMP</Key>
     <Key>EDU</Key>

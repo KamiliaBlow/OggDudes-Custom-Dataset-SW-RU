@@ -19,6 +19,9 @@
 </Description>
   <Source Page="29">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>Универсальное</Category>
+  </Categories>
   <TalentRows>
     <TalentRow>
       <Cost>5</Cost>

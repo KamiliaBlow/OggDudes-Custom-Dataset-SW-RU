@@ -18,6 +18,10 @@
     <Source Page="28">Дополнение: Закаленные в битве (Forged in Battle)</Source>
   </Sources>
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>Наемник</Category>
+    <Category>Солдат</Category>
+  </Categories>
   <CareerSkills>
     <Key>GUNN</Key>
     <Key>PERC</Key>

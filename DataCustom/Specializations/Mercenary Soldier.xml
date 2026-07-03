@@ -11,6 +11,9 @@
 [P]В группе персонажей игрока не исключено, что наемный солдат возьмет на себя командование, по крайней мере, в ситуациях, где возможен бой. Хотя его лидерские навыки не столь обширны, как у других специализаций, они уникально ориентированы на бой.</Description>
   <Source Page="79">Книга правил: Край Империи (Edge of the Empire)</Source>
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>Наемник</Category>
+  </Categories>
   <CareerSkills>
     <Key>DISC</Key>
     <Key>GUNN</Key>

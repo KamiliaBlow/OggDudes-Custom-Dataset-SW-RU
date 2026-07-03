@@ -18,6 +18,9 @@
   <Source Page="26">Дополнение: Все по плану (Stay on Target)</Source>
   <Sources />
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>АС</Category>
+  </Categories>
   <CareerSkills>
     <Key>ATHL</Key>
     <Key>PERC</Key>

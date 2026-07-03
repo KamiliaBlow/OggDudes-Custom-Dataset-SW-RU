@@ -8,6 +8,9 @@
 </Description>
   <Source Page="23">Дополнение: Падение Ресублики (Collapse of the Republic)</Source>
   <Custom>AddedItem</Custom>
+  <Categories>
+    <Category>Солдат клон</Category>
+  </Categories>
   <CareerSkills>
     <Key>MELEE</Key>
     <Key>RESIL</Key>

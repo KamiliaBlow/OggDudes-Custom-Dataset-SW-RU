@@ -19,6 +19,9 @@
 </Description>
   <Source Page="33">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>Универсальное</Category>
+  </Categories>
   <CareerSkills>
     <Key>CHARM</Key>
     <Key>COOL</Key>

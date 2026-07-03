@@ -18,6 +18,10 @@
     <Source Page="29">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
   </Sources>
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>АС</Category>
+    <Category>Исследователь</Category>
+  </Categories>
   <CareerSkills>
     <Key>COOL</Key>
     <Key>GUNN</Key>

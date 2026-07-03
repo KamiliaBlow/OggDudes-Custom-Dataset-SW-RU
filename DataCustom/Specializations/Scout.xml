@@ -13,6 +13,10 @@
     <Source Page="98">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
   </Sources>
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>Исследователь</Category>
+    <Category>Шпион</Category>
+  </Categories>
   <CareerSkills>
     <Key>ATHL</Key>
     <Key>MED</Key>

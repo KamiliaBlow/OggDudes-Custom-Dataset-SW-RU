@@ -9,6 +9,9 @@
 [P]Вне поля боя Авангарды также часто действуют быстро. Промедление на поле боя часто бывает фатальным, и многие Авангарды применяют этот менталитет в других своих действиях, стараясь удержать противников.</Description>
   <Source Page="32">Дополнение: Закаленные в битве (Forged in Battle)</Source>
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>Солдат</Category>
+  </Categories>
   <CareerSkills>
     <Key>ATHL</Key>
     <Key>COOL</Key>

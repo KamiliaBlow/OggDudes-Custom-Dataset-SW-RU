@@ -12,6 +12,9 @@
 [P]Однако у этого стиля неумолимой атаки есть и свои недостатки. Нападающему Атару необходимо, чтобы его противник был повержен быстро, пока он не выдохся. Тот, кто сможет пережить нападение Атару, может оказаться его самым смертельным врагом.</Description>
   <Source Page="87">Книга правил: Сила и судьба (Force and Destiny)</Source>
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>Искатель</Category>
+  </Categories>
   <CareerSkills>
     <Key>ATHL</Key>
     <Key>COORD</Key>

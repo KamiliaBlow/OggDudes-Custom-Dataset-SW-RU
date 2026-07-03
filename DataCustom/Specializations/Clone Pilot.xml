@@ -15,6 +15,9 @@
 </Description>
   <Source Page="22">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>Солдат клон</Category>
+  </Categories>
   <CareerSkills>
     <Key>GUNN</Key>
     <Key>MECH</Key>

@@ -19,6 +19,9 @@
 </Description>
   <Source Page="21">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>Солдат клон</Category>
+  </Categories>
   <CareerSkills>
     <Key>COOL</Key>
     <Key>LEAD</Key>

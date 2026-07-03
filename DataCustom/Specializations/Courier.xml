@@ -10,6 +10,9 @@
 </Description>
   <Source Page="24">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>Шпион</Category>
+  </Categories>
   <CareerSkills>
     <Key>ATHL</Key>
     <Key>DECEP</Key>

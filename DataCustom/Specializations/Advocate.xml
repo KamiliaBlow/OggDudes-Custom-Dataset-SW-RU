@@ -18,6 +18,9 @@
   <Source Page="26">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
   <Sources />
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>Дипломат</Category>
+  </Categories>
   <CareerSkills>
     <Key>COERC</Key>
     <Key>DECEP</Key>

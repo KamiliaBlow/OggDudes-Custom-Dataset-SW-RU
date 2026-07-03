@@ -18,6 +18,9 @@
   <Source Page="26">Дополнение: Непринужденный полет (Fly Casual)</Source>
   <Sources />
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>Контрабандист</Category>
+  </Categories>
   <CareerSkills>
     <Key>CHARM</Key>
     <Key>COOL</Key>

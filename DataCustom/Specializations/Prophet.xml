@@ -13,6 +13,9 @@
 [P]Даже благонамеренные пророки должны быть настороже, ведь им очень легко вложить в свои видения собственные желания, потребности или страхи, исказить их в своих целях, манипулируя своими последователями, чтобы те поверили их собственному эго.</Description>
   <Source Page="30">Дополнение: Абсолютная власть (Unlimited Power)</Source>
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>Мистик</Category>
+  </Categories>
   <CareerSkills>
     <Key>CHARM</Key>
     <Key>COERC</Key>

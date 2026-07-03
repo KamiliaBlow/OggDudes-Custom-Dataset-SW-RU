@@ -10,6 +10,9 @@
 </Description>
   <Source Page="26">Дополнение: Поддержание мира (Keeping the Peace)</Source>
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>Защитник</Category>
+  </Categories>
   <CareerSkills>
     <Key>BRAWL</Key>
     <Key>COERC</Key>

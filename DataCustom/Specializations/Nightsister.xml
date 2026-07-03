@@ -11,6 +11,9 @@
 [P]Отражая свой индивидуализм и принятие борьбы как необходимой части жизни и смерти, Сестры ночи получают профессиональные навыки [B]Выдержка, Знания (Легенды), Скрытность[b], и [B]Выживание[b].</Description>
   <Source Page="30">Дополнение: Падение Ресублики (Collapse of the Republic)</Source>
   <Custom>CustomItem</Custom>
+  <Categories>
+    <Category>Универсальное</Category>
+  </Categories>
   <CareerSkills>
     <Key>DISC</Key>
     <Key>LORE</Key>

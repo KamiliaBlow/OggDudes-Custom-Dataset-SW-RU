@@ -14,6 +14,9 @@
 </Description>
   <Source Page="73">Книга правил: Край Империи (Edge of the Empire)</Source>
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>Исследователь</Category>
+  </Categories>
   <CareerSkills>
     <Key>DECEP</Key>
     <Key>CORE</Key>

@@ -16,6 +16,9 @@
 [P]Как и другие специализации, специализацию "Чувствительный к Силе: Нежданный" можно получить при создании персонажа или в любой последующий момент. Это отражает тот факт, что некоторые чувствительные к Силе не осознают свой потенциал до относительно позднего этапа своей жизни.</Description>
   <Source Page="292">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
   <Custom>DescOnly</Custom>
+  <Categories>
+    <Category>Универсальное</Category>
+  </Categories>
   <Universal>true</Universal>
   <Attributes>
     <ForceRating>1</ForceRating>
