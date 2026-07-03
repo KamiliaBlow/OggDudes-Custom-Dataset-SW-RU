@@ -5695,7 +5695,7 @@ People associate wealth with authority, and jewelry is an immediate means to dis
     <Name>Explosive Implant</Name>
     <Description>[H3]Explosive Implant[h3]
 Slavers and slaveholders do not always keep slaves locked up in chains while they carry out their duties. Many slavers inject tiny tracking and explosive devices to discourage slaves from running. A corresponding handheld device similar to a droid caller can locate the implanted target with a [B]Simple (-) Computers check[b]. With the press of a button, the implant can explode, instantly killing its victim. [P] A [B]Daunting ([CH][DI][DI][DI]) Medicine[b] or [B]Mechanics check[b] is required to remove the implant. However, [TH] alerts the transmitter of the tampering, and [DE] triggers the device.</Description>
-    <Source Page="60">Friends Like These</Source>
+    <Source Page="60">Модуль приключения: Друзья подобные ему (Friends Like These)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slaver Tech</Type>
     <Categories />
@@ -10565,7 +10565,7 @@ Som models of grappling hook and climbing harness rely on forces other than shee
 These traps for sentient beings subvert repulsorlift technology to create localized patches of extremely high gravity. When targets pass over an active repulsor trap, intense localized gravitational forces rob them of their ability to move. Repulsor traps are unobtrusive, adding [SE][SE] to all Perception checks made to notice these devices.
 [P]
 Any single target who comes within engaged range of an active repulsor trap is ensnared (see [B]Ensnare[b], on page 169 of the [B]Age of Rebellion[b] Core Rulebook) for six rounds.</Description>
-    <Source Page="60">Friends Like These</Source>
+    <Source Page="60">Модуль приключения: Друзья подобные ему (Friends Like These)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slaver Tech</Type>
     <Categories />
@@ -11946,7 +11946,7 @@ end of the encounter, the character suffers 1 strain.</Description>
     <Name>Stun Collar</Name>
     <Description>[H3]Stun Collar[h3]
 Used in spice mines and prisons across the galaxy, stun collars are an effective means of subduing a prisoner that can be set to cause relatively little physical damage. [P]When activated via remove, the stun collar delivers a high-voltage shock to its wearer, inflicting 10 Stun Damage. However, the collar can also be used to lethal effect, dealing 12 damage and inflicting a Critical Injury adding +20 to the roll. [P]A [B]Hard ([DI][DI][DI]) Mechanics check[b] is necessary to remove the collar without electrocuting its wearer.</Description>
-    <Source Page="60">Friends Like These</Source>
+    <Source Page="60">Модуль приключения: Друзья подобные ему (Friends Like These)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slaver Tech</Type>
     <Categories />
