@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>85XSSPEEDBIKE</Key>
-  <Name>85-XS Odyssey Heavy Speeder Bike</Name>
+  <Name>Тяжелый спидер-байк 85-XS Odyssey (85-XS Odyssey Heavy Speeder Bike)</Name>
   <Description>
-    [H3]85-XS Odyssey Heavy Speeder Bike[h3]
+    [H3]Тяжелый спидер-байк 85-XS Odyssey[h3]
 
-Aratech's Odyssey is a speeder bike built for adventure. Based on the reliable 74-Y speeder bike platform, this two-person speeder bike was designed for long-distance travel over rough terrain. Built with exploration in mind. the Odyssey features a reinforced frame, heavy-duty power systems, improved repulsorlift drives, and capacious storage for luggage and supplies. A compact and extremely powerful ground-following sensor suite mated to a navigation system makes handling the heavy vehicle easy for nearly any sentient. Not as common or popular as the 74-Y, the 85-XS enjoys slow-but-steady sales and can be found relatively easily on less-developed worlds where ruggedness and reliability take precedence over speed and handling.</Description>
+Odyssey от Aratech - это спидер-байк, созданный для приключений. Основанный на надежной платформе спидер-байка 74-Y, этот двухместный аппарат был разработан для путешествий на дальние расстояния по пересеченной местности. Созданный с прицелом на исследовательские миссии, Odyssey отличается усиленной рамой, мощными энергосистемами, усовершенствованными репульсорными двигателями и вместительными отсеками для багажа и припасов. Компактный и чрезвычайно мощный комплекс сенсоров рельефа, сопряженный с навигационной системой, делает управление этой тяжелой машиной легким практически для любого разумного существа. Не такой распространенный и популярный, как 74-Y, 85-XS, тем не менее, пользуется стабильным, пусть и неспешным спросом, и его относительно легко найти на менее развитых мирах, где надежность и прочность ценятся выше скорости и маневренности.</Description>
   <Source Page="255">Книга правил: Сила и судьба (Force and Destiny)</Source>
   <Custom>DescOnly</Custom>
   <Type>Speeder Bike</Type>

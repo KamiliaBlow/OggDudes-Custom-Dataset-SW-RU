@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>64YSWIFT</Key>
-  <Name>64-Y Swift 3 Repulsorsled</Name>
-  <Description>[H3]64-Y Swift 3 Repulsorsled[h3]
-The Swift 3 is a fast, rugged, versatile repulsorsled made by Aratech Repulsor Company. Built more like a one-person landspeeder than a true speeder bike, it is essentially the front part of a speeder bike grafted to a large cargo bed. Powered by Aratech's LM01 high-outpuit ion turbine engine, it is remarkably fast and agile for such a bulky looking vehicle. Designed initially to assist law enforcement agencies in combatting the rise of swoop gang violence throughout the galaxy, the Swift 3 is equipped with a number of unique systems. The rear compartment can be configured to haul cargo, passengers or suspects, or on-board comms or surveillance equipment. An auto-blaster is slung from the vehicle's undercarriage, and a magnetic grapnel launcher is mounted forward of the pilot in the vehicle's fairing.
-[P]The Swift 3 also features a relatively sophisticated communications and sensor suite, allowing the pilot to listen in on or jam other vehicles' comms systems as well as an on board computer with a comprehensive vehicle identification database. While they are built primarily for law enforcement and the military, these vehicles are also available in limited numbers on the civilian market. Both the Imperial Army and Imperial Navy's Military Police branches use Swift 3 as patrol and pursuit vehicles to great effect.</Description>
+  <Name>Репульсорные сани 64-Y Swift 3 (64-Y Swift 3 Repulsorsled)</Name>
+  <Description>[H3]Репульсорные сани 64-Y Swift 3[h3]
+Swift 3 - это быстрые, надежные и универсальные репульсорные сани, произведенные компанией Aratech. Сконструированные скорее как одноместный наземный спидер, чем как полноценный спидер-байк, они по сути представляют собой переднюю часть спидер-байка, состыкованную с вместительной грузовой платформой. Оснащенные высокомощным ионно-турбинным двигателем LM01 от Aratech, эти сани удивительно быстры и маневренны для своего столь громоздкого на вид корпуса. Изначально разработанные для помощи правоохранительным органам в борьбе с ростом насилия со стороны банд свуп-байкеров по всей галактике, Swift 3 оборудованы рядом уникальных систем. Задний отсек можно конфигурировать для перевозки грузов, пассажиров или подозреваемых, а также для установки бортовой связной или наблюдательной аппаратуры. Под днищем машины подвешен автобластер, а в обтекателе перед пилотом установлена пусковая установка магнитного крюка.
+[P]Swift 3 также оснащен относительно совершенным комплексом связи и сенсоров, позволяющим пилоту перехватывать или глушить каналы связи других транспортных средств, а также бортовым компьютером с обширной базой данных для идентификации машин. Хотя они создавались в первую очередь для правоохранительных органов и военных, эти машины также доступны в ограниченных количествах на гражданском рынке. Как Имперская армия, так и подразделения военной полиции Имперского флота с огромным успехом используют Swift 3 в качестве патрульных и преследующих машин.</Description>
   <Source Page="53">Дополнение: Дикие духи (Savage Spirits)</Source>
   <Custom>DescOnly</Custom>
   <Type>Repulsorsled</Type>
@@ -17,12 +17,12 @@ The Swift 3 is a fast, rugged, versatile repulsorsled made by Aratech Repulsor C
   <BaseMods>
     <Mod>
       <Count>1</Count>
-      <MiscDesc>Using the magnetic grapnel launcher to control or tow a piloted vehicle requires a [B]Hard ([DI][DI][DI]) Piloting - Planetary check[b].</MiscDesc>
+      <MiscDesc>Для управления пилотируемым аппаратом или его буксировки с помощью магнитной грапнельной установки требуется [B]Сложная ([DI][DI][DI]) проверка Пилотирование (Планетарное)[b].</MiscDesc>
     </Mod>
   </BaseMods>
   <WeaponModifiers>
     <WeaponModifier>
-      <UnarmedName>Magnetic Grapnel Launcher</UnarmedName>
+      <UnarmedName>Магнитная грапнельная установка</UnarmedName>
       <SkillKey>GUNN</SkillKey>
       <Qualities>
         <Quality>

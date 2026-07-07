@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>4R3LIGHTASSAULT</Key>
-  <Name>4R3 Light Assault Transport</Name>
+  <Name>Легкий штурмовой транспорт 4R3 (4R3 Light Assault Transport)</Name>
   <Description>
-    [H3]4R3 Light Assault Transport[h3]
+    [H3]Легкий штурмовой транспорт 4R3[h3]
 
-Officially, the 4R3 is classified as light freighter instead of a military assault craft. This major deception actually originated in a deal between Telgorn and the Corporate Sector Authority, who commissioned the ship to carry out surprise attacks on pirates and smugglers. The original ships were delivered to the CSA and recorded into the B.O.S.S. systems as freighters. The deception was eventually discovered, but correcting the designation proved problematic. Subsequent galaxy-wide updates often caused more confusion than clarity in the minds of law enforcement and other agencies. As the 4R3 was slowly delivered to other buyers and trickled out into the galaxy at large, in the minds of most it remained a freighter, if a heavily armed one.
+Официально 4R3 классифицируется как легкое грузовое судно, а не как военный штурмовой корабль. Эта масштабная маскировка фактически зародилась в результате сделки между компанией Telgorn и Corporate Sector Authority, заказавшим эти корабли для нанесения внезапных ударов по пиратам и контрабандистам. Первые корабли были доставлены в CSA и занесены в системы B.O.S.S. как грузовые суда. Обман в конце концов раскрылся, но исправление классификации оказалось проблематичным. Последующие общегалактические обновления часто вызывали еще больше путаницы, чем ясности, в умах правоохранительных органов и других ведомств. По мере того как 4R3 постепенно поставлялись другим покупателям и незаметно распространялись по всей галактике, в сознании большинства он так и остался фрахтовщиком, пусть и весьма неплохо вооруженным.
 
-[P]The 4R3's main mission is as a clandestine assault ship. It is designed to look like an unarmed freighter in order to advance on and dock with enemy or pirate craft—before their opponents realize their mistake. The ship's weaponry is completely concealed within the ship's hull, and is deployed within a few seconds when required. The 4R3 is also deployed in pirate-heavy regions of space, as bait in a trap intended to draw the criminals out for a head-on engagement.</Description>
+[P]Главная задача 4R3 - выполнение роли скрытного штурмового корабля. Он спроектирован так, чтобы выглядеть как безоружное грузовое судно, с тем чтобы незаметно сблизиться и состыковаться с вражескими или пиратскими судами - прежде, чем противник осознает свою ошибку. Вооружение корабля полностью скрыто в его корпусе и выдвигается за считанные секунды в случае необходимости. 4R3 также направляют в регионы, кишащие пиратами, в качестве приманки в ловушке, предназначенной для выманивания преступников на открытый бой.</Description>
   <Source Page="67">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
   <Custom>DescOnly</Custom>
   <Type>Light Assault Transport</Type>
@@ -47,9 +47,9 @@ Officially, the 4R3 is classified as light freighter instead of a military assau
     <Mod>
       <Count>1</Count>
       <MiscDesc>
-        [B]Stinger Assault Boarding Tube[b]: If the 4R3 manages
-        to dock with a target, it can cut through the hull of the
-        ship in three rounds.
+        [B]Штурмовой абордажный рукав "Stinger"[b]: Если 4R3 сумеет
+        пристыковаться к цели, он сможет пробить корпус
+        корабля за три выстрела.
       </MiscDesc>
     </Mod>
   </BaseMods>

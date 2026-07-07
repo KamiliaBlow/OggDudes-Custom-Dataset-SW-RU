@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>8880LAND</Key>
-  <Name>8880 Luxury Landspeeder</Name>
-  <Description>[H3]8880 Luxury Landspeeder[h3]
+  <Name>Люксовый лендспидер 8880 (8880 Luxury Landspeeder)</Name>
+  <Description>[H3]Люксовый лендспидер 8880[h3]
 
-Ubrikkian Industries' 8880-series luxury landspeeder delivers dignitaries in style and comfort. The craft's primary market is the Galactic Empire, with agencies such as the ISB or the staff of prominent Moffs making extensive use of the expensive craft. The popularity of the craft in these circles is such that the sleek profile and matte-black finish of the 8880 have become signs of power and authority on Imperial-controlled worlds.
+Люксовый лендспидер 8880-й серии от Ubrikkian Industries обеспечивает стильные и комфортные перевозки высокопоставленных лиц. Основным рынком для этого транспорта является Галактическая Империя, где такие ведомства, как Имперское бюро безопасности, или окружение видных моффов активно используют этот дорогостоящий аппарат. Популярность этого спидера в подобных кругах достигла такого уровня, что изящный профиль и матово-черная отделка 8880 стали символами власти и авторитета на мирах, контролируемых Империей.
 
-[P]Although Ubrikkian Industries values its Imperial contracts, they are under no exclusive obligation to deliver their top-of-the-line luxury to the Empire alone. The wealthy and powerful of many worlds also favor the craft, especially where it has gained an appropriate reputation from Imperial use. Outer Rim crime lords and Core World nobles alike have been known to use the 8880, and its prominence among the galaxy's elite has not escaped the notice of Rebel agents needing to impress those outside the Alliance. A small number of these landspeeders are believed to have been acquired by the Rebellion for use on such occasions.</Description>
+[P]Хотя компания Ubrikkian Industries высоко ценит свои имперские контракты, она не несет никаких эксклюзивных обязательств по поставкам своей продукции высшего класса исключительно для Империи. Богатые и влиятельные люди многих миров также отдают предпочтение этой машине, особенно там, где она приобрела надлежащую репутацию благодаря использованию в Империи. Известно, что 8880 используют как криминальные авторитеты Внешнего Кольца, так и аристократия Миров Ядра, а его известность среди галактической элиты не осталась незамеченной для агентов Повстанцев, которым необходимо производить впечатление на тех, кто не входит в Альянс. Считается, что небольшое количество этих лендспидеров было приобретено Альянсом именно для таких случаев.</Description>
   <Source Page="59">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
   <Sources />
   <Custom>DescOnly</Custom>
@@ -48,7 +48,7 @@ Ubrikkian Industries' 8880-series luxury landspeeder delivers dignitaries in sty
     <Mod>
       <Count>1</Count>
       <MiscDesc>
-        [B]Built to Impress[b]: All 8880 luxury landspeeders count as having a Luxury Passenger Compartments attachment (see page 65) installed, at no additional cost. This attachment cannot be removed, and does not count against the vehicle’s total hard points.
+        [B]Созданы, чтобы впечатлять[b]: Все люксовые лендспидеры 8880 считаются оснащёнными дополнением "Роскошные пассажирские салоны" (см. стр. 65) без дополнительной оплаты. Это дополнение не может быть снято и не учитывается при подсчёте общего количества точек крепления транспортного средства.
       </MiscDesc>
     </Mod>
   </BaseMods>

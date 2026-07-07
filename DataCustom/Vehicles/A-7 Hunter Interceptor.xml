@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>A7HUNTER</Key>
-  <Name>A-7 Hunter Interceptor</Name>
+  <Name>Перехватчик A-7 Hunter (A-7 Hunter Interceptor)</Name>
   <Description>
-    [H3]A-7 Hunter Interceptor[h3]
+    [H3]Перехватчик A-7 Hunter[h3]
 
-The A-7 Hunter Interceptor was Kuat Drive Yards' updated snub fighter entry into the inexpensive starfighter market in the years following the Clone Wars. As KDY provided Imperial Star Destroyers and other starships to the Imperial fleet, many Imperial officers felt the company was the logical choice to supply fighters as well. Some arranged procurement of the A-7 for their own vessels. When Sienar Fleet Systems' cheaper TIE fighters became the standard Imperial fighter, the A-7 was relegated to lesser roles and locales. Eventually, the A-7s were sold off to planetary governments, corporations, and selected paramilitary organizations. They became a staple of mercenary units, and inevitably trickled into pirate and criminal fleets.
+Перехватчик A-7 Hunter стал обновленным вариантом легкого истребителя от Kuat Drive Yards, представленным на рынке недорогих звездных истребителей в годы, последовавшие за Войнами клонов. Поскольку верфи Kuat (KDY) поставляли Империи звездные разрушители и другие корабли для Имперского флота, многие имперские офицеры считали эту компанию логичным выбором и для обеспечения истребителями. Некоторые из них даже организовывали закупки A-7 для оснащения своих собственных кораблей. Однако когда более дешевые истребители TIE от Sienar Fleet Systems стали стандартными истребителями Империи, A-7 был переведен на второстепенные роли и направлен в менее значимые регионы. В конечном итоге партии A-7 были распроданы планетарным правительствам, корпорациям и избранным военизированным организациям. Они стали основой авиапарков наемнических отрядов и неизбежно просочились в флоты пиратов и преступных синдикатов.
 
-[P]The A-7 is a basic short-range fighter, with no hyperdrive or shields, and limited weaponry. It is comparable to the TIE fighter, its main marketplace competitor.</Description>
+[P]A-7 представляет собой базовый истребитель ближнего действия, не оснащенный гипердвигателем или защитными щитами и обладающий ограниченным вооружением. По своим характеристикам он сопоставим с истребителем TIE, своим главным конкурентом на рынке.</Description>
   <Source Page="65">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
   <Custom>DescOnly</Custom>
   <Type>Starfighter</Type>
