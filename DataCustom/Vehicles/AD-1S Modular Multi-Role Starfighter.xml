@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>AD1SMOD</Key>
-  <Name>AD-1S Modular Multi-Role Starfighter</Name>
-  <Description>[H3]Koensayr AD-1S Modular Multi-Role Starfighter[h3]
-As one of the galaxy's major starship parts suppliers, Koensayr seeks to maximize profits through the combination of parts expertise and supply distribution system. One result of this union of skills is the AD-1S Modular Multi-Role Starfighter. It was designed around a standard selection of modules users can employ to adapt the fighter as needed for different missions. Corporate designers believed that
-governments and militaries would like the economics of purchasing of one central chassis to build around, rather than paying for multiple classes of specialized ships for each task that might not always be needed. Thus, they developed the magnetic modular rail system that came to define the AD-1 S, which lets users rapidly equip new attachments.
-[P]Unfortunately, the cost to actually equip the fighter with components that meet military standards and Koensayr's noncompetitive lock on its proprietary parts and maintenance supplies diminished interest in the ship. However, the AD-1S found some success as a defender on board corporate and exploration
-starships with limited hangar space, where its multimission capability became an asset. A starfighter of otherwise average capabilities, the AD-1S has always been more popular with Technicians than pilots. Its adaptable nature makes it very easy to swap in and out custom-made modules, many of which are
-scratch-built by enterprising owners. Despite Koensayr's attempted monopoly on the parts, many Technicians have found and modified similar products that work just as well with the ship’s magnetic modular rails, if not better.</Description>
+  <Name>Модульный многоцелевой звездный истребитель AD-1S (AD-1S Modular Multi-Role Starfighter)</Name>
+  <Description>[H3]Модульный многоцелевой звездный истребитель AD-1S от Koensayr[h3]
+Будучи одним из крупнейших поставщиков запчастей для звездолетов в галактике, Koensayr стремится максимизировать прибыль, объединяя глубокие знания в производстве комплектующих с отлаженной системой распределения поставок. Одним из результатов этого союза компетенций стал модульный многоцелевой звездный истребитель AD-1S. Он был спроектирован вокруг стандартного набора модулей, которые пользователи могут применять для адаптации истребителя под конкретные задачи различных миссий. Корпоративные конструкторы полагали, что правительства и военные оценят экономическую выгоду от покупки единого базового шасси, вокруг которого можно выстраивать нужную конфигурацию, вместо того чтобы платить за множество классов специализированных кораблей для каждой задачи, в которых может не всегда возникать потребность. Таким образом, они разработали магнитную модульную рельсовую систему, ставшую визитной карточкой AD-1S и позволяющую пользователям быстро устанавливать новые навесные модули.
+[P]К сожалению, высокая стоимость фактического оснащения истребителя компонентами, отвечающими военным стандартам, а также исключительная монополия Koensayr на свои фирменные запчасти и расходные материалы для обслуживания снизили интерес к этому кораблю. Тем не менее, AD-1S добился некоторого успеха в качестве корабля обороны на борту корпоративных и исследовательских звездолетов с ограниченным ангарным пространством, где его многоцелевые возможности стали весомым преимуществом. Будучи звездным истребителем с в остальном средними характеристиками, AD-1S всегда был более популярен среди техников, чем среди пилотов. Его адаптивная природа позволяет очень легко менять самодельные модули, многие из которых создаются предприимчивыми владельцами буквально с нуля. Несмотря на попытки Koensayr установить монополию на запчасти, многие техники нашли и модифицировали аналогичные изделия, которые работают с магнитными модульными направляющими корабля не хуже, а то и лучше.</Description>
   <Source Page="62">Дополнение: Особые модификации (Special Modifications)</Source>
   <Custom>DescOnly</Custom>
   <Type>Starfighter</Type>
@@ -20,7 +17,7 @@ scratch-built by enterprising owners. Despite Koensayr's attempted monopoly on t
   <BaseMods>
     <Mod>
       <Count>1</Count>
-      <MiscDesc>[B]Magnetic Module Rails[b]: Adding or removing an attachment takes 10 minutes and requires a successful [B]Average ([DI][DI]) Mechanics check[b].  Each [SU] reduces time by 1 minute, and each [TH] inflicts 1 system strain on vehicle.</MiscDesc>
+      <MiscDesc>[B]Рельсы для магнитных модулей[b]: Установка или снятие навесного оборудования занимает 10 минут и требует успешного прохождения [B]Средней ([DI][DI]) проверки Механики[b]. Каждый [SU] сокращает время на 1 минуту, а каждый [TH] наносит транспортному средству 1 единицу перегрузки систем.</MiscDesc>
     </Mod>
   </BaseMods>
   <SensorRangeValue>srNone</SensorRangeValue>

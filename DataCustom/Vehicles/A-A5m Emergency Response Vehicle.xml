@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>AA5M</Key>
-  <Name>A-A5m Emergency Response Vehicle</Name>
-  <Description>[H3]A-A5m Emergency Response Vehicle[h3]
-Developed based on the highly successful A-A5 speeder truck, the A-A5m is a purpose-built emergency response vehicle specifically designed to operate in harsh, inhospitable scenarios, whether unforgiving inclement weather or terrible disasters. Equipped with all the latest medical technology and available with a fully compatible medical droid for a nominally increased price, the A-A5m is the most reliable vehicle when time is of the essence and lives are on the line.
-[P]Medical and rescue personnel, as well as relief workers around the galaxy, have made the A-A5m synonymous with salvation for years. Its expanded sensor suite means that the A-A5m is able to find those in need despite the chaos of a situation while delivering the lifesaving aid it requires. With a limited cargo capacity and the option for further external cargo modules, this workhorse of the Trast stable is fully capable of saving lives and salvaging entire settlements no matter the harrowing circumstances.</Description>
+  <Name>Транспорт экстренного реагирования A-A5m (A-A5m Emergency Response Vehicle)</Name>
+  <Description>[H3]Транспорт экстренного реагирования A-A5m[h3]
+Разработанная на основе чрезвычайно успешного грузового спидера A-A5, модель A-A5m представляет собой специализированный транспорт экстренного реагирования, созданный специально для работы в суровых и неблагоприятных условиях, будь то безжалостная непогода или ужасающие катастрофы. Оснащенная самыми передовыми медицинскими технологиями и доступная в комплектации с полностью совместимым медицинским дроидом за символическую доплату, A-A5m является самым надежным транспортом, когда время имеет решающее значение, а на кону стоят жизни.
+[P]На протяжении многих лет медицинские и спасательные службы, а также работники гуманитарных миссий по всей галактике сделали A-A5m настоящим синонимом спасения. Расширенный сенсорный комплекс позволяет этой машине находить нуждающихся даже в условиях полного хаоса и оперативно доставлять им необходимую жизненно важную помощь. Обладая ограниченной вместимостью грузового отсека и возможностью установки дополнительных внешних модулей, эта рабочая лошадка из линейки Trast в полной мере способна спасать жизни и вызволять целые поселения, независимо от самых тяжелых обстоятельств.</Description>
   <Source Page="58">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
   <Custom>DescOnly</Custom>
   <Type>Speeder Truck</Type>

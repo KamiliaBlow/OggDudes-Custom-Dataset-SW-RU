@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>APCA19</Key>
-  <Name>A-19 "Iron Crawler" Armored Transport</Name>
+  <Name>Бронетранспортер A-19 "Iron Crawler" (A-19 "Iron Crawler" Armored Transport)</Name>
   <Description>
-    [H3]A-19 "Iron Crawler" Armored Transport[h3]
+    [H3]Бронетранспортер A-19 "Iron Crawler"[h3]
 
-Following the loss of several mining facilities and digger crawlers in the Outer Rim Territories, the need to provide adequate defense for its valuable assets on uncivilized, frontier worlds of the galaxy led the Corellia Mining Corporation to manufacture a new armored transport with enough firepower to deter marauders and large, aggressive predators. Since repulsorcraft were unsuited for certain environments and walkers proved too expensive to deploy and maintain, the A-19 "Iron Crawler" was developed to fill this role.
+После потери нескольких горнодобывающих комплексов и землеройных машин на территориях Внешнего Кольца, необходимость надежной защиты ценных активов на нецивилизованных мирах галактического фронтира побудила Кореллианскую горнодобывающую корпорацию разработать новый бронетранспортер. Эта машина обладала достаточной огневой мощью, чтобы отпугивать как мародеров, так и крупных агрессивных хищников. Поскольку репульсорная техника не подходила для определенных условий, а шагающие машины оказались слишком дорогими в развертывании и обслуживании, для решения этой задачи и был создан бронетранспортер A-19 "Iron Crawler".
 
-[P]A rugged, heavily armed and armored tracked vehicle, the A-19 is powered by a scaled-down version of the nuclear fission reactor found in the digger crawler. Dependable and easily maintained and repaired, the Iron Crawler can operate for extended periods in the harshest climes. Armed with a heavy blaster cannon, auto-blaster, and concussion grenade launcher, the A-19 can deal with virtually any ground-based threat it is likely to encounter on the fringe.</Description>
+[P]Надежная, тяжеловооруженная и хорошо бронированная гусеничная машина, A-19 приводится в действие уменьшенной версией ядерного реактора деления, используемого в землеройных машинах. Надежный, простой в обслуживании и ремонте, "Iron Crawler" способен подолгу работать в самых суровых климатических условиях. Вооруженный тяжелой бластерной пушкой, автобластером и пусковой установкой фугасных гранат, A-19 способен справиться практически с любой наземной угрозой, с которой ему доведется столкнуться на фронтире..</Description>
   <Source Page="106">Дополнение: Солнце Фортуны (Suns of Fortune)</Source>
   <Custom>DescOnly</Custom>
   <Type>Armored Personnel Carrier</Type>
