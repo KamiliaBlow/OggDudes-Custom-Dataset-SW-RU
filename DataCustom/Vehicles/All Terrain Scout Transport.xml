@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>ATST</Key>
-  <Name>All Terrain Scout Transport</Name>
+  <Name>Вездеходный разведывательный транспортер (All Terrain Scout Transport)</Name>
   <Description>
-    [H3]All Terrain Scout Transport[h3]
+    [H3]Вездеходный разведывательный транспортер[h3]
 
-The Imperial Army's AT-ST is a medium-sized bipedal walker designed as a fast force reconnaissance vehicle. Unlike their larger, heavier AT-AT siblings, AT-STs are quite fast and agile. Deployed either in tandem for long range reconnaissance or in squadrons when supporting troops or armor, the AT-ST consists of a lightly armored, slab-sided command pod set atop a pair of thin reverse-articulated legs. The command pod can rotate through 180 degrees, allowing the walker to bring its weapons quickly to bear without having to change the position of its legs, an extremely useful feature when fighting in rough or broken terrain. They are armed with a versatile mix of blasters and ordnance, and can fill both antipersonnel and light anti-armor roles with ease. While certainly capable, AT-STs have a reputation as relatively fragile, high-maintenance vehicles. Their drive systems are especially finicky, requiring many, many hours of maintenance, and an inattentive pilot can easily become entangled in obstacles or heavy ground cover.</Description>
+Вездеходный разведывательный транспортер (AT-ST) Имперской армии представляет собой шагоход среднего размера с двумя ногами, разработанный как скоростное разведывательное транспортное средство. В отличие от своих более крупных и тяжелых "собратьев" AT-AT, шагоходы AT-ST весьма быстры и маневренны. Развертываемые либо в паре для дальней разведки, либо эскадрильями при поддержке войск или бронетехники, AT-ST состоит из легкобронированной командной капсулы с плоскими бортами, установленной на паре тонких обратно-сочлененных ног. Командная капсула может поворачиваться на 180 градусов, что позволяет шагоходу быстро наводить оружие без необходимости менять положение ног, что является чрезвычайно полезной функцией при ведении боя на пересеченной или неровной местности. Они вооружены универсальным набором бластеров и боеприпасов и могут с легкостью выполнять как противопехотные, так и легкие противотанковые задачи. Несмотря на свою несомненную эффективность, AT-ST имеют репутацию относительно хрупких транспортных средств, требующих сложного технического обслуживания. Их приводные системы особенно капризны и требуют многочасового обслуживания, а невнимательный пилот может легко запутаться в препятствиях или густой растительности.</Description>
   <Source Page="265">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
   <Custom>DescOnly</Custom>
   <Type>Walker</Type>

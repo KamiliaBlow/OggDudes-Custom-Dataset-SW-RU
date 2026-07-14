@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>T47ALLIANCE</Key>
-  <Name>Alliance T-47 Airspeeder</Name>
+  <Name>Аэроспидер T-47 Альянса (Alliance T-47 Airspeeder)</Name>
   <Description>
-      [H3]Alliance T-47 Airspeeder[h3]
+      [H3]Аэроспидер T-47 Альянса[h3]
 
-Initially designed as a cargo tender and shipyard tug, the T-47 is a rugged, wedge-shaped airspeeder that is both reliable and easy to modify. Built for low altitude work, this vehicle seats two crew members back to back in a cramped but well laid out cockpit, with the pilot facing forward and the systems operator facing aft. While ostensibly an industrial labor vehicle, the T-47 was designed with an eye toward end-user modification. Numerous redundant systems, universal power couplings, and modular data input areas allow the vehicle's abilities and systems to be tailored to many tasks, including combat. The Rebel Alliance uses modified T-47s as fast ground attack airspeeders. Loaded with heavy blaster cannons and heavy armor, they make excellent fightercraft despite their low altitude, and they have shown a surprising ability to operate in extremes of heat and cold with little problem.</Description>
+Изначально разработанный как грузовое вспомогательное судно и верфный буксир, T-47 представляет собой прочный аэроспидер клиновидной формы, который отличается надежностью и легкостью в модификации. Созданный для работы на малых высотах, этот транспорт вмещает двух членов экипажа, сидящих спиной к спине в тесной, но хорошо продуманной кабине: пилот смотрит вперед, а оператор систем — назад. Хотя формально это транспортное средство для промышленных работ, T-47 был спроектирован с прицелом на модификацию конечным пользователем. Множество резервных систем, универсальные силовые разъемы и модульные зоны ввода данных позволяют адаптировать возможности и системы транспортного средства для выполнения широкого спектра задач, включая боевые. Повстанческий Альянс использует модифицированные T-47 в качестве скоростных аэроспидеров для наземных атак. Оснащенные тяжелыми бластерными пушками и усиленной броней, они становятся превосходными боевыми машинами, несмотря на свою ориентацию на малые высоты, и продемонстрировали удивительную способность без особых проблем функционировать в условиях экстремальной жары и холода.</Description>
   <Source Page="249">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
   <Sources>
     <Source>Книга правил: Эпоха восстания (Age of Rebellion)</Source>

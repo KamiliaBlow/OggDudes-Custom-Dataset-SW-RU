@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>AINIKSURVEY</Key>
-  <Name>Ainik-Class Scientific Survey Vessel</Name>
-  <Description>[H3][I]Ainik[i]-Class Scientific Survey Vessel[h3]
-SoroSuub's [I]Ainik[i]-class is a small survey vessel designed for remote scientific missions. Designed decades ago, these small and sturdy ships were named for the famous astronomer Renn Ainik. Popular with the galaxy's scientific community, the [I]Ainik[i]-class is a long, broad, three-decked vessel with much of its interior given over to cargo holds, sensor arrays, and laboratory space. The top deck, which houses a lounge and meeting rooms, is covered in transparisteel, giving passengers an unparalleled view of the surroundings. The midships deck offers crew and passenger berthing, a galley, four modular laboratory spaces, and the flight deck. The bottom deck houses storage and engineering facilities.
-[P]As they are primarily survey vessels, [I]Ainik[i]-class ships are relatively lightly armed. They carry two quad laser turrets for self-defense, but largely rely on their shields and hyperdrives to survive hostile interactions. While their hulls are incredibly sturdy and they carry a respectable amount of armor, these ships' power systems have a poor reputation. Brownouts, burned-out equipment, fires, and electrical failures are distressingly common, especially in ships that have been in space for a long time.</Description>
+  <Name>Научно-исследовательское судно класса "Айник" (Ainik-Class Scientific Survey Vessel)</Name>
+  <Description>[H3]Научно-исследовательское судно класса [I]Айник[i][h3]
+Небольшое научно-исследовательское судно класса "[I]Айник[i]" от компании SoroSuub предназначено для проведения удаленных научных миссий. Разработанные несколько десятилетий назад, эти небольшие и надежные корабли были названы в честь знаменитого астронома Ренна Айника. Пользующееся популярностью у научного сообщества галактики, судно класса "[I]Айник[i]" представляет собой длинное, широкое трехпалубное судно, большая часть внутреннего пространства которого отдана под грузовые отсеки, сенсорные массивы и лабораторные помещения. Верхняя палуба, где расположены гостиная и переговорные комнаты, покрыта транспаристалью, что обеспечивает пассажирам беспрецедентный обзор окрестностей. Средняя палуба предоставляет каюты для экипажа и пассажиров, камбуз, четыре модульных лабораторных помещения и ходовой мостик. Нижняя палуба отведена под складские и инженерные помещения.
+[P]Поскольку это в первую очередь исследовательские суда, корабли класса "[I]Айник[i]" вооружены относительно слабо. Для самообороны они несут две счетверенные лазерные турели, но в основном полагаются на свои щиты и гипердвигатели, чтобы выжить при враждебных контактах. Несмотря на то, что их корпуса невероятно прочны и они имеют достойный уровень бронирования, энергосистемы этих кораблей имеют плохую репутацию. Просадки напряжения, сгоревшее оборудование, пожары и электрические сбои встречаются тревожно часто, особенно на кораблях, которые долгое время находятся в космосе.</Description>
   <Source Page="57">Дополнение: Полная оперативность (Fully Operational)</Source>
   <Custom>DescOnly</Custom>
   <Type>Survey Vessel</Type>
@@ -18,7 +18,7 @@ SoroSuub's [I]Ainik[i]-class is a small survey vessel designed for remote scient
   <BaseMods>
     <Mod>
       <Count>1</Count>
-      <MiscDesc>[B]Research Labs:[b] Characters add [BO] to Education and Xenology checks made while in this vessel.</MiscDesc>
+      <MiscDesc>[B]Исслед. лаборатории:[b] Персонажи получают бонус [BO] к проверкам на "Образование" и "Ксенологию", проводимым на борту этого судна.</MiscDesc>
     </Mod>
   </BaseMods>
   <HyperdrivePrimary>3</HyperdrivePrimary>

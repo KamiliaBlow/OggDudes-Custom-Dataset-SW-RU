@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>AIRSPEEDER</Key>
-  <Name>Airspeeder</Name>
+  <Name>Аэроспидер (Airspeeder)</Name>
   <Description>
-      [H3]Airspeeder[h3]
+      [H3]Аэроспидер[h3]
 
-Small civilian airspeeders are commonly used for pleasure or sport, or transporting cargo and passengers. Civilian models such as these are rarely armed or armored. This profile represents a generic airspeeder.</Description>
+Небольшие гражданские аэроспидеры обычно используются для отдыха или спорта, а также для перевозки грузов и пассажиров. Гражданские модели, подобные этой, редко оснащаются вооружением или броней. Этот профиль описывает стандартный аэроспидер.</Description>
   <Sources>
     <Source Page="248">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Source Page="254">Книга правил: Сила и судьба (Force and Destiny)</Source>

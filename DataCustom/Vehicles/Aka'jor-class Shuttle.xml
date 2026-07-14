@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>AKAJOR</Key>
-  <Name>Aka'jor-class Shuttle</Name>
-  <Description>[H3]Aka'jor-class Shuttle[h3]
-Kad Solus named his ship [I]Dikutruni[i] , which translates roughly as "soul of the fool". He has modified the [I]Aka'jor[i]-class shuttle by adding armament, shielding, and a faster hyperdrive. Kad uses the ship to track bounties across the region, and to make contacts for new bounty acquisition. It features a narrow, boxy fuselage with a pair of large S-foilds that rotate into a vertical position for landing. The rear of the ship has a small lift for boarding and cargo.</Description>
+  <Name>Шаттл типа «Ака'джор» (Aka'jor-class Shuttle)</Name>
+  <Description>[H3]Шаттл типа «Ака'джор»[h3]
+Кад Солус назвал свой корабль «[I]Дикутруни[i]», что примерно переводится как "душа глупца". Он модифицировал шаттл класса «[I]Ака'джор[i]», добавив вооружение, защитные экраны и более мощный гипердвигатель. Кад использует это судно для выслеживания целей по всему региону и установления контактов для получения новых заказов на поимку. Корабль отличается узким, угловатым фюзеляжем и парой больших S-крыльев, которые поворачиваются в вертикальное положение для посадки. В кормовой части судна имеется небольшой подъемник для посадки и погрузки.</Description>
   <Source Page="38">Модуль приключения: Друзья подобные ему (Friends Like These)</Source>
   <Custom>DescOnly</Custom>
   <Type>Shuttle</Type>

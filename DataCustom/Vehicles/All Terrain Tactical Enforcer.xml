@@ -1,39 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Vehicle>
   <Key>ATTE</Key>
-  <Name>AT-TE All Terrain Tactical Enforcer</Name>
-  <Description>[H3]All Terrain Tactical Enforcer[h3]
-Before the All Terrain Armored Transport became a symbol for the Empire’s dominance, its stouter predecessor, the All Terrain Tactical Enforcer, menaced battlefields throughout the galaxy. This six-legged walker’s profile is dominated by a mass-driver cannon, mounted top and forward, and projecting from a swiveling arm or pod where the gunner sits. This fearsome weapon of war fires slowly but devastatingly,
-launching fist-sized projectiles that plow through light
-shields and arm or as easily as open air. Supplementing this main weapon are a half-dozen blaster cannons for anti-personnel purposes, ball-mounted on
-the front and rear of the walker. The one weakness
-of the AT-TE is its lightly armored underbelly, where a
-direct hit can have devastating consequences on the
-legs’ drive system.
-[P]The AT-TE was first used in the Clone Wars as an assault and support vehicle that carried a platoon of clone troopers into battle and provided covering fire,
-especially against large targets. Over time, the AT-TE
-proved itself a versatile weapon in any arsenal. Its magnetic feet and pressurized interior mean that AT-TEs  can be deployed even in the vacuum of space clinging to asteroids or sheer surfaces to mete out punishment from various vantage points.
-[P]In the years following the Clone
-Wars, the Empire has gradually replaced
-the AT-TE with the larger, more durable AT-AT,
-banishing its remaining AT-TE walkers to backwater worlds and logistical roles away from front-line
-combat. Their wide range of possible uses, and
-the massive numbers that were manufactured
-for the Clone Wars, make the AT-TE an appealing
-choice for cash-strapped forces.
-[P]As such, a few AT-TEs are still in
-service in various roles. Some have
-been refitted entirely for civilian use,
-while others are kept in com bat condition
-by mercenary forces and others who
-managed to acquire them—legally or
-otherwise—in the twilight of the
-Clone Wars.
-[BR][H4]Additional Rules[h4]
-[B]Dynamic Actuator Pistons:[b] Unlike an AT-At, an AT-TE's wide stance and low center of mass allow it to operate with one or more legs damaged, as this is a real risk of most combat drops. As a result, AT-TE pilots have been known to intentionally collide with enemy craft, counting on their machine's powerful actuator pistons and thick hull plating to ccompensate for even the most devastating impacts. Reduce any Critical Hit an AT-TE would suffer due to collisions by 30 to a minimum of 1.</Description>
+  <Name>Вездеходный тактический исполнитель (AT-TE All Terrain Tactical Enforcer)</Name>
+  <Description>[H3]Вездеходный тактический исполнитель[h3]
+До того как вездеходный бронированный транспортер стал символом имперского господства, его более приземистый предшественник, вездеходный тактический исполнитель, наводил ужас на поля сражений по всей галактике. Силуэт этого шестиногого шагохода доминирует массивная пушка-масс-драйвер, установленная в верхней передней части и выступающая из поворотной манипуляторной капсулы, где сидит стрелок. Это грозное оружие войны стреляет медленно, но разрушительно, запуская снаряды размером с кулак, которые прошивают легкие щиты и броню так же легко, как открытый воздух. В дополнение к этому главному оружию, для противопехотных целей используется полдюжины бластерных пушек, установленных в шаровых турелях в передней и задней частях шагохода. Единственной слабостью AT-TE является его слабо бронированное днище, прямое попадание в которое может иметь разрушительные последствия для приводной системы ног.
+[P]AT-TE впервые был применен в Войнах клонов как штурмовая и поддерживающая машина, перевозившая взвод клонов-солдат в бой и обеспечивавшая огневое прикрытие, особенно против крупных целей. Со временем AT-TE зарекомендовал себя как универсальное оружие в любом арсенале. Его магнитные ступни и герметичный салон позволяют развертывать AT-TE даже в космическом вакууме, цепляясь за астероиды или отвесные поверхности, чтобы карать врага с различных выгодных позиций.
+[P]В годы, последовавшие за Войнами клонов, Империя постепенно заменила AT-TE более крупными и прочными AT-AT, отправив оставшиеся шагоходы AT-TE на захолустные миры и на логистические роли вдали от боевых действий на передовой. Широкий спектр возможных применений и огромное количество, произведенное для Войн клонов, делают AT-TE привлекательным выбором для испытывающих нехватку средств вооруженных сил.
+[P]Таким образом, несколько AT-TE все еще находятся в строю, выполняя различные задачи. Некоторые были полностью переоборудованы для гражданского использования, в то время как другие поддерживаются в боевой готовности наемными силами и другими, кому удалось приобрести их - законным или иным путем - на закате Войн клонов.
+[BR][H4]Дополнительные правила[h4]
+[B]Динамические поршни приводов:[b] В отличие от AT-AT, широкая база и низкий центр масс AT-TE позволяют ему продолжать работу даже при повреждении одной или нескольких ног, поскольку это реальный риск при большинстве боевых высадок. В результате пилоты AT-TE, как известно, намеренно таранят вражеские машины, рассчитывая на мощные приводные поршни своей машины и толстую броню корпуса, чтобы компенсировать даже самые разрушительные столкновения. Уменьшите значение любого Критического попадания, которое AT-TE получил бы в результате столкновений, на 30, до минимума в 1.</Description>
   <Sources>
     <Source Page="57">Дополнение: Закаленные в битве (Forged in Battle)</Source>
-    <Source Page="69">Rise of the Separatists</Source>
+    <Source Page="69">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
   </Sources>
   <Source Page="57">Дополнение: Закаленные в битве (Forged in Battle)</Source>
   <Custom>DescOnly</Custom>
@@ -49,7 +27,7 @@ Clone Wars.
   <BaseMods>
     <Mod>
       <Count>1</Count>
-      <MiscDesc>[B][U]Dynamic Actuator Pistons[u][b]: Reduce any Critical Hits an AT-TE would suffer due to collisions by 30, to a minimum of 1.</MiscDesc>
+      <MiscDesc>[B][U]Поршни динамических приводов[u][b]: Уменьшите количество критических попаданий, которые AT-TE может получить в результате столкновений, на 30, но не ниже 1.</MiscDesc>
     </Mod>
   </BaseMods>
   <SensorRangeValue>srShort</SensorRangeValue>
