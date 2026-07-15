@@ -6069,7 +6069,7 @@ FC1 представляет собой типичный образец боль
     <Description>
       [H3]Тяжелая зенитная пушка[h3]
 
-Концепция зенитных орудий восходит к самым ранним дням эры летной авиации, и сегодня они остаются одной из самых простых и эффективных систем вооружения для борьбы с истребителями. Используя мощный масс-драйвер, зенитное орудие выстреливает крупнокалиберный снаряд, начиненный тысячами опасных мельчайших объектов, таких как шрапнель, микровзрывные гранулы или инертные дюрасталевые флешеты. Зенитные снаряды взрываются на заданной дистанции, распыляя свое содержимое в виде плотного облака, способного в одно мгновение разорвать на куски небольшие, легкобронированные воздушные спидеры или звездные истребители.</Description>
+Концепция зенитных орудий восходит к самым ранним дням эры летной авиации, и сегодня они остаются одной из самых простых и эффективных систем вооружения для борьбы с истребителями. Используя мощный масс-ускоритель, зенитное орудие выстреливает крупнокалиберный снаряд, начиненный тысячами опасных мельчайших объектов, таких как шрапнель, микровзрывные гранулы или инертные дюрасталевые флешеты. Зенитные снаряды взрываются на заданной дистанции, распыляя свое содержимое в виде плотного облака, способного в одно мгновение разорвать на куски небольшие, легкобронированные воздушные спидеры или звездные истребители.</Description>
     <Sources>
       <Source Page="49">Дополнение: Все по плану (Stay on Target)</Source>
       <Source Page="53">Дополнение: Лидерство на примере (Lead by Example)</Source>
@@ -6113,7 +6113,7 @@ FC1 представляет собой типичный образец боль
     <Description>
       [H3]Легкая зенитная пушка[h3]
 
-Концепция зенитных орудий восходит к самым ранним дням эры летной авиации, и сегодня они остаются одной из самых простых и эффективных систем вооружения для борьбы с истребителями. Используя мощный масс-драйвер, зенитное орудие выстреливает крупнокалиберный снаряд, начиненный тысячами опасных мельчайших объектов, таких как шрапнель, микровзрывные гранулы или инертные дюрасталевые флешеты. Зенитные снаряды взрываются на заданной дистанции, распыляя свое содержимое в виде плотного облака, способного в одно мгновение разорвать на куски небольшие, легкобронированные воздушные спидеры или звездные истребители.</Description>
+Концепция зенитных орудий восходит к самым ранним дням эры летной авиации, и сегодня они остаются одной из самых простых и эффективных систем вооружения для борьбы с истребителями. Используя мощный масс-ускоритель, зенитное орудие выстреливает крупнокалиберный снаряд, начиненный тысячами опасных мельчайших объектов, таких как шрапнель, микровзрывные гранулы или инертные дюрасталевые флешеты. Зенитные снаряды взрываются на заданной дистанции, распыляя свое содержимое в виде плотного облака, способного в одно мгновение разорвать на куски небольшие, легкобронированные воздушные спидеры или звездные истребители.</Description>
     <Sources>
       <Source Page="49">Дополнение: Все по плану (Stay on Target)</Source>
       <Source Page="53">Дополнение: Лидерство на примере (Lead by Example)</Source>
@@ -6157,7 +6157,7 @@ FC1 представляет собой типичный образец боль
     <Description>
       [H3]Средняя зенитная пушка[h3]
 
-Концепция зенитных орудий восходит к самым ранним дням эры летной авиации, и сегодня они остаются одной из самых простых и эффективных систем вооружения для борьбы с истребителями. Используя мощный масс-драйвер, зенитное орудие выстреливает крупнокалиберный снаряд, начиненный тысячами опасных мельчайших объектов, таких как шрапнель, микровзрывные гранулы или инертные дюрасталевые флешеты. Зенитные снаряды взрываются на заданной дистанции, распыляя свое содержимое в виде плотного облака, способного в одно мгновение разорвать на куски небольшие, легкобронированные воздушные спидеры или звездные истребители.</Description>
+Концепция зенитных орудий восходит к самым ранним дням эры летной авиации, и сегодня они остаются одной из самых простых и эффективных систем вооружения для борьбы с истребителями. Используя мощный масс-ускоритель, зенитное орудие выстреливает крупнокалиберный снаряд, начиненный тысячами опасных мельчайших объектов, таких как шрапнель, микровзрывные гранулы или инертные дюрасталевые флешеты. Зенитные снаряды взрываются на заданной дистанции, распыляя свое содержимое в виде плотного облака, способного в одно мгновение разорвать на куски небольшие, легкобронированные воздушные спидеры или звездные истребители.</Description>
     <Sources>
       <Source Page="49">Дополнение: Все по плану (Stay on Target)</Source>
       <Source Page="53">Дополнение: Лидерство на примере (Lead by Example)</Source>
@@ -10599,13 +10599,13 @@ KS-23 - еще один популярный образец баллистиче
   </Weapon>
   <Weapon>
     <Key>M1NOVAVIPER</Key>
-    <Name>Model-1 "Nova Viper" Blaster Pistol</Name>
+    <Name>Бластерный пистолет Model-1 "Nova Viper" (Model-1 "Nova Viper" Blaster Pistol)</Name>
     <Description>
-      [H3]Raider Arms Model-1 "Nova Viper" Blaster Pistol[h3]
+      [H3]Бластерный пистолет Raider Arms Model-1 "Nova Viper"[h3]
 
-When weapon designer Joran Raider, the man behind many of the galaxy's most successful blasters, left BlasTech to start his own small manufacturing firm, it was a blow to the arms giant. Rumors persist that several notorious bounty hunters contracted by BlasTech to eliminate its former employee were bought off by Raider with examples of what many believe to be the pinnacle of his craft, the Model-1 Nova Viper blaster pistol. Perfectly balanced, innovative, and tooled down to a fraction of a micrometer, Raider Arms customizes every Nova Viper sold for its buyer, from its grip to its finish. As such, Nova Viper blasters are highly sought after and cost nearly as much as a new speeder. The blaster's incredible precision comes with a hidden price as well, requiring careful maintenance and exceptional skill to repair. Nonetheless, a fringer who manages to obtain a Nova Viper would almost invariably count himself lucky and consider it among his most valued possessions.
+Когда конструктор оружия Йоран Рейдер, стоявший за созданием многих самых успешных бластеров в галактике, покинул BlasTech, чтобы основать собственную небольшую производственную фирму, это стало тяжелым ударом для оружейного гиганта. Ходят упорные слухи, что нескольких печально известных охотников за головами, нанятых BlasTech для устранения своего бывшего сотрудника, Рейдер подкупил, подарив им экземпляры того, что многие считают вершиной его мастерства, - бластерного пистолета Model-1 "Nova Viper". Идеально сбалансированный, инновационный и изготовленный с точностью до доли микрометра, каждый пистолет "Nova Viper" от Raider Arms индивидуально настраивается под покупателя, от рукоятки до внешнего покрытия. В результате бластеры "Nova Viper" пользуются огромным спросом и стоят почти столько же, сколько новый спидер. Невероятная точность этого бластера также имеет свою скрытую цену: он требует тщательного обслуживания и исключительного мастерства для ремонта. Тем не менее, любой житель окраин, которому удастся раздобыть "Nova Viper", почти наверняка сочтет себя везунчиком и будет считать его одним из своих самых ценных владений.
 
-[P]Increase the difficulty of Mechanics checks to repair a Nova Viper or modify attachments on it by one.</Description>
+[P]Увеличьте сложность проверок "Механики" для ремонта "Nova Viper" или установки на него модификаций на единицу.</Description>
     <Source Page="43">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -10623,7 +10623,7 @@ When weapon designer Joran Raider, the man behind many of the galaxy's most succ
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Increase difficulty of Mechanics checks to repair or modify attachments by one.</MiscDesc>
+        <MiscDesc>Увеличьте сложность проверок "Механики" для ремонта или установки модификаций на единицу.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
@@ -10646,11 +10646,11 @@ When weapon designer Joran Raider, the man behind many of the galaxy's most succ
   </Weapon>
   <Weapon>
     <Key>M300</Key>
-    <Name>M-300 Hunting Blaster</Name>
+    <Name>Охотничий бластер BlasTech M-300 (M-300 Hunting Blaster)</Name>
     <Description>
-      [H3]BlasTech M-300 Hunting Blaster[h3]
-The M-300 is one of BlasTech's most popular civilian blaster rifles. Nicknamed the "Hunting Blaster", this weapon is designed to meet the needs of serious hunters and others who make their livings in the wilderness. Built to withstand the rigors the rigors of backcountry life, the M-300 is lightweight and rugged. It has a reinforced, weather-sealed, polycarbonate frame that easily stands up to heavy impacts, extremes of heat and cold, and hazardous environments with little effect on performance. A specially designed precison barrel provides the M-300 with unparalleled accuracy and range for a weapon of its class. In addition, the M-300's galven circuitry and gas XCiter system produce a more intense, coherent blaster beam, which gives the weapon enough punch to drop even the toughest beast. The M-300 also comes equipped with a sling and integral, non-removabble telescopic optical sight to enhance its performance and ease of use.
-[P]Reduce the difficulty of combat checks made with this weapon by one against targets at long or extreme range.</Description>
+      [H3]Охотничий бластер BlasTech M-300[h3]
+M-300 - одна из самых популярных гражданских бластерных винтовок компании BlasTech. Прозванная "Охотничьим бластером", эта винтовка разработана для удовлетворения потребностей серьезных охотников и других людей, зарабатывающих на жизнь в дикой природе. Созданная для того, чтобы выдерживать суровые условия жизни в глуши, M-300 отличается легкостью и прочностью. Она имеет усиленную, защищенную от непогоды поликарбонатную раму, которая легко выдерживает сильные удары, экстремальную жару и холод, а также опасные условия окружающей среды с минимальным влиянием на рабочие характеристики. Специально разработанный прецизионный ствол обеспечивает M-300 непревзойденную точность и дальность для оружия своего класса. Кроме того, гальвенная схема и система газового возбуждения M-300 создают более интенсивный и когерентный бластерный луч, что придает оружию достаточную мощь, чтобы свалить даже самого выносливого зверя. M-300 также оснащен ремнем и встроенным несъемным телескопическим оптическим прицелом для повышения эффективности и удобства использования.
+[P]Уменьшите сложность боевых проверок, совершаемых с этим оружием, на один против целей на большой или предельной дальности.</Description>
     <Source Page="40">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -10688,15 +10688,15 @@ The M-300 is one of BlasTech's most popular civilian blaster rifles. Nicknamed t
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>Reduce the difficulty of combat checks made with this weapon by one against targets at long or extreme range.</MiscDesc>
+        <MiscDesc>Уменьшите сложность боевых проверок, совершаемых с этим оружием, на один против целей на большой или предельной дальности.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>M3BLASTSHIELD</Key>
-    <Name>M3 Bulwark Blast Shield</Name>
-    <Description>[H3]M3 Bulwark Blast Shield[h3]
-Typically carried by riot or military police, or security in particularly rowdy ports, blast shields are as much a weapon as a protective device. Roughly as tall as a full-grown clone, the M3 Bulwark is a curved sheet of reinforced plasteel that can be strapped to one arm. A small, narrow viewport is sot in the top of the shield, which allows the user to see while using it. Thanks to its shape and the inherent strength of plasteel, the Bulwark can shrug off most small-arms and light blaster rifle fire, as well as shrapnel and splinters from grenades and other explosive devices.</Description>
+    <Name>Взрывозащитный щит M3 Bulwark (M3 Bulwark Blast Shield)</Name>
+    <Description>[H3]Взрывозащитный щит M3 Bulwark[h3]
+Обычно используемый подразделениями полиции по борьбе с беспорядками, военной полицией или службой безопасности в особенно неспокойных портах, взрывозащитный щит является в равной степени как оружием, так и средством защиты. Имея высоту примерно с взрослого клона, M3 Bulwark представляет собой изогнутый лист армированной пластали, который можно закрепить на одной руке. В верхней части щита предусмотрена небольшая узкая смотровая щель, позволяющая пользователю сохранять обзор во время его использования. Благодаря своей форме и присущей пласталю прочности, Bulwark способен выдержать большинство попаданий из стрелкового оружия и легких бластерных винтовок, а также осколки и поражающие элементы от гранат и других взрывных устройств.</Description>
     <Source Page="53">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -10730,13 +10730,13 @@ Typically carried by riot or military police, or security in particularly rowdy 
   </Weapon>
   <Weapon>
     <Key>M53QUICKTRIGGER</Key>
-    <Name>Model 53 "Quicktrigger" Blaster Pistol</Name>
+    <Name>Бластерный пистолет Merr-Sonn Model 53 "Quicktrigger" (Model 53 "Quicktrigger" Blaster Pistol)</Name>
     <Description>
-      [H3]Merr-Sonn Model 53 "Quicktrigger" Blaster Pistol[h3]
+      [H3]Бластерный пистолет Merr-Sonn Model 53 "Quicktrigger"[h3]
 
-Reliable, easy to maintain, and simple to modify, the Merr-Sonn Model 53 "Quicktrigger" blaster pistol has become popular among people living on the fringe. Though not the most powerful blaster available, the Quicktrigger can be readily customized with upgrades and attachments to suit the needs of individual users. Due to its simple design and rugged frame, the Model 53 is relatively easy to maintain and repair, and it rarely suffers more than minor damage from repeated firing.
+Надежный, простой в обслуживании и легкий в модификации, бластерный пистолет Merr-Sonn Model 53 "Quicktrigger" стал популярен среди жителей окраин. Хотя это и не самый мощный из доступных бластеров, "Quicktrigger" можно легко настроить с помощью улучшений и дополнительных модулей в соответствии с потребностями конкретного пользователя. Благодаря простому дизайну и прочной конструкции, Model 53 относительно легко обслуживать и ремонтировать, и он редко получает более чем незначительные повреждения от многократной стрельбы.
 
-[P]Reduce the difficulty of Mechanics checks to repair a Model 53 or modify attachments on it by one.</Description>
+[P]Уменьшите сложность проверок "Механики" для ремонта Model 53 или установки на него модификаций на один.</Description>
     <Source Page="43">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -10754,7 +10754,7 @@ Reliable, easy to maintain, and simple to modify, the Merr-Sonn Model 53 "Quickt
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Reduce the difficulty of Mechanics checks to repair a Model 53 or modify attachments on it by one.</MiscDesc>
+        <MiscDesc>Уменьшите сложность проверок "Механики" для ремонта Model 53 или установки на него модификаций на один.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
@@ -10770,9 +10770,9 @@ Reliable, easy to maintain, and simple to modify, the Merr-Sonn Model 53 "Quickt
   </Weapon>
   <Weapon>
     <Key>M8KNIFE</Key>
-    <Name>M8 Combat Knife</Name>
-    <Description>[H3]M8 Combat Knife[h3]
-Made for the GAR by Merr-Sonn, the M8 is based on Merr-Sonn's popular Treppus-2 vibroknife. The M8 hias a long, single-edged, clip-point blade with a serrated back edge. The handle is made from a flat-black polycarbonate, and the grip is covered in a textured material that provides comfort and extra grip. Every clone is issued an M8 for use in the field, and the knife has gained wide renown as both a tool and a weapon.</Description>
+    <Name>Боевой нож M8 (M8 Combat Knife)</Name>
+    <Description>[H3]Боевой нож M8[h3]
+Созданный компанией Merr-Sonn для Великой армии Республики, M8 основан на популярном виброноже Treppus-2 от той же компании. M8 оснащен длинным однолезвийным клинком со скошенным острием и пилообразной обухом. Рукоять изготовлена из матово-черного поликарбоната, а зона хвата покрыта текстурированным материалом, обеспечивающим удобство и надежное сцепление. Каждый клон получает M8 для использования в полевых условиях, и этот нож получил широкую известность как в качестве инструмента, так и в качестве оружия.</Description>
     <Sources>
       <Source Page="54">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
@@ -10803,11 +10803,11 @@ Made for the GAR by Merr-Sonn, the M8 is based on Merr-Sonn's popular Treppus-2 
   </Weapon>
   <Weapon>
     <Key>M9BOOMER</Key>
-    <Name>M9 "Boomer" Heavy Pistol</Name>
+    <Name>Тяжелый пистолет Czerka M9 "Boomer" (M9 "Boomer" Heavy Pistol)</Name>
     <Description>
       [H3]Czerka M9 "Boomer" Heavy Pistol[h3]
-Known colloquially as the "hand cannon," Czerka's Cz M9 "Boomer" is a standout in the heavy pistol market. Designed to cram as much killing power in as small a package as possible, the Boomer is a thick, squat, large-caliber slugthrowing pistol. Instead of standard metal slugs, however, the Boomer fires small, fin-stabilized grenades from a detachable box magazine. The Boomer's grenades give the shooter respectable anti-personnel capabilities. The downside to all this firepower is a limited payload and a weapon that is often inaccurate and difficult to use.
-[P]During combat, GMs may make this weapon run out of ammunition by spending [TH][TH][TH]. This is in addition to the standard spending of [DE].</Description>
+Известный в просторечии как "ручная пушка", пистолет Czerka M9 "Boomer" выделяется на рынке тяжелого пистолетного вооружения. Созданный для того, чтобы вместить максимальную убойную силу в как можно более компактный корпус, "Boomer" представляет собой массивный, приземистый кинетический пистолет крупного калибра. Однако вместо стандартных металлических пуль "Boomer" стреляет небольшими оперенными гранатами из отъемного коробчатого магазина. Эти гранаты обеспечивают стрелку достойные противопехотные возможности. Обратной стороной всей этой огневой мощи является ограниченный боезапас, а также то, что оружие часто бывает неточным и сложным в обращении.
+[P]Во время боя ГМ может заставить это оружие израсходовать боеприпасы, потратив [TH][TH][TH] из проверки. Это делается в дополнение к стандартной трате [DE].</Description>
     <Source Page="39">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
@@ -10822,7 +10822,7 @@ Known colloquially as the "hand cannon," Czerka's Cz M9 "Boomer" is a standout i
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>GMs may make this weapon run out of ammo by spending [TH][TH][TH], as well as [DE].</MiscDesc>
+        <MiscDesc>ГМ может сделать так, чтобы у этого оружия закончились боеприпасы, потратив [TH][TH][TH], а также [DE].</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
@@ -10848,9 +10848,9 @@ Known colloquially as the "hand cannon," Czerka's Cz M9 "Boomer" is a standout i
   </Weapon>
   <Weapon>
     <Key>MASSDRIVERCANNON</Key>
-    <Name>Mass-Driver Cannon</Name>
+    <Name>Масс-ускорительная пушка (Mass-Driver Cannon)</Name>
     <Description>
-      [H3]Mass-Driver Cannon[h3]</Description>
+      [H3]Масс-ускорительная пушка[h3]</Description>
     <Source Page="57">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -10872,11 +10872,11 @@ Known colloquially as the "hand cannon," Czerka's Cz M9 "Boomer" is a standout i
   </Weapon>
   <Weapon>
     <Key>MASSDRIVMSL</Key>
-    <Name>Mass Driver Missile Launchers</Name>
+    <Name>Масс-ускорительная пусковая установка (Mass Driver Missile Launchers)</Name>
     <Description>
-      [H3]Mass Driver Missile Launchers[h3]
+      [H3]Масс-ускорительная пусковая установка[h3]
 
-A mass driver is a type of projectile cannon. They inflict damage by hurling projectiles at high velocities, which imparts kinetic energy and force to the target upon impact. Damage is thus a result of the mass of the projectile and its velocity.</Description>
+Масс-ускоритель представляет собой разновидность снарядной пушки. Это оружие наносит урон, разгоняя снаряды до высоких скоростей, благодаря чему при столкновении с целью им передается колоссальная кинетическая энергия и ударная сила. Таким образом, наносимый урон является прямым следствием массы снаряда и его скорости.</Description>
     <Source Page="70">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -10935,11 +10935,11 @@ A mass driver is a type of projectile cannon. They inflict damage by hurling pro
   </Weapon>
   <Weapon>
     <Key>MASSMISSILESMALL</Key>
-    <Name>Mass Driver Missile Launchers</Name>
+    <Name>Масс-ускорительная пусковая установка (Mass Driver Missile Launchers)</Name>
     <Description>
-      [H3]Mass Driver Missile Launchers[h3]
+      [H3]Масс-ускорительная пусковая установка[h3]
 
-A mass driver is a type of projectile cannon. They inflict damage by hurling projectiles at high velocities, which imparts kinetic energy and force to the target upon impact. Damage is thus a result of the mass of the projectile and its velocity.</Description>
+Масс-ускоритель представляет собой разновидность снарядной пушки. Это оружие наносит урон, разгоняя снаряды до высоких скоростей, благодаря чему при столкновении с целью им передается кинетическая энергия и ударная сила. Таким образом, наносимый урон является прямым следствием массы снаряда и его скорости.</Description>
     <Source Page="54">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>AddedItem</Custom>
     <Type>Vehicle</Type>
@@ -10979,10 +10979,10 @@ A mass driver is a type of projectile cannon. They inflict damage by hurling pro
   </Weapon>
   <Weapon>
     <Key>MICROROCKAA</Key>
-    <Name>Anti-Armor Micro-Rocket</Name>
+    <Name>Бронебойная микророкета (Anti-Armor Micro-Rocket)</Name>
     <Description>
-      [H3]Anti-Armor Micro-Rocket[h3]
-When faced with heavily protected targets, or even light vehicles, warheads with shaped explosive charges allow a bounty hunter to make short work of normally impressive defenses. While micro-rockets of any variety are insufficent to deal with truly hardened targets such as military walkers or speeder tanks, anti-amor charges are more than up to the task of dealing with war droids or combat swoops, let alone an armored soldier or bodyguard.</Description>
+      [H3]Бронебойная микророкета[h3]
+Столкнувшись с хорошо защищенными целями или даже легкими транспортными средствами, охотник за головами может использовать боевые части с кумулятивными зарядами, чтобы быстро расправиться с обычно внушительной защитой. Хотя микроракеты любого типа не способны справиться с по-настоящему укрепленными целями, такими как военные шагоходы или спидер-танки, бронебойные заряды более чем подходят для уничтожения боевых дроидов или боевых свупов, не говоря уже о бронированных солдатах или телохранителях.</Description>
     <Source Page="46">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -11011,10 +11011,10 @@ When faced with heavily protected targets, or even light vehicles, warheads with
   </Weapon>
   <Weapon>
     <Key>MICROROCKEXP</Key>
-    <Name>Explosive Micro-Rocket</Name>
+    <Name>Взрывная микроракета (Explosive Micro-Rocket)</Name>
     <Description>
-      [H3]Explosive Micro-Rocket[h3]
-The most common variety of micro-rockets have simple, high-explosive warheads that provide the maximum amount of force possible for the miniaturized weapons. While other warheads may be more suited to specific kinds of targets, most hunters find an explosive rocket rarely fails to make an impression.</Description>
+      [H3]Взрывная микроракета[h3]
+Наиболее распространенный тип микроракет оснащается простыми фугасными боевыми частями, обеспечивающими максимально возможную разрушительную силу для оружия таких миниатюрных размеров. Хотя другие типы боеголовок могут быть лучше приспособлены для конкретных видов целей, большинство охотников сходятся во мнении, что взрывная ракета редко не производит должного эффекта.</Description>
     <Source Page="46">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -11043,10 +11043,10 @@ The most common variety of micro-rockets have simple, high-explosive warheads th
   </Weapon>
   <Weapon>
     <Key>MICROROCKFLE</Key>
-    <Name>Flechette Micro-Rocket</Name>
+    <Name>Флешетная микроракета (Flechette Micro-Rocket)</Name>
     <Description>
-      [H3]Flechette Micro-Rocket[h3]
-The warheads of flechette rockets detonate just before impact, releasing a cloud of razor-edged metal shards to lacerate the target, or anyone unfortunate enough to be nearby. They lack the penetration of an explosive charge, much less a dedicated anti-armor warhead, but the flechettes inflict devastating wounds nevertheless. Bounty hunters who hunt huge beasts or predators sometimes favor flechette rockets, as they can disable such creatures over several volleys.</Description>
+      [H3]Флешетная микроракета[h3]
+Боевые части флешетных ракет взрываются непосредственно перед столкновением, высвобождая облако острых как бритва металлических осколков, наносящих глубокие рваные раны цели или любому, кому не повезло оказаться поблизости. Им не хватает пробивной способности фугасного заряда, и уж тем более специализированной бронебойной боевой части, но тем не менее флешетты наносят опустошительные ранения. Охотники за головами, выслеживающие огромных зверей или хищников, иногда отдают предпочтение флешетным ракетам, поскольку они способны вывести таких существ из строя за несколько залпов.</Description>
     <Source Page="46">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
