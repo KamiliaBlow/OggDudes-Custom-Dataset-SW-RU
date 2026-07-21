@@ -389,7 +389,7 @@ Armor inserts are thin, flexible, plasteel and ballistic gel plates that can be 
       [H3]Armor Spikes[h3]
 [P]While armor serves a largely defensive role for its wearers, that needn't be the rule. With the addition of spikes, blades, and other protrusions on areas covering shoulders, knuckles, feet, knees or elbows, armor can be turned into a deadly weapon of last resort. The majority of such modifications are scratch-built, though a handful o f armor manufacturers mass-produce kits for the armor sets they sell. Largely popular with criminals, mercenaries, and bounty hunters, armor spikes lend an intimidating mien to anyone equipped with them. Some professionals prefer to keep such deadly modifications concealed and retractable, and these are perhaps the most dangerous of them all. This attachment can be attached to any armor that covers the arms or legs.
     </Description>
-    <Source Page="56">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="56">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <CategoryLimit>
@@ -507,7 +507,7 @@ Astromech sockets are typically found in starfighters, shuttles, and the occasio
 [P]Aftermarket astromech sockets can only be installed on ships or vehicles of silhouette 3 or higher. After a lengthy and involved installation process requiring heavy modifications to both the ship's hull and its onboard systems, the ship and pilot gain all the benefits of an astromech droid when one is installed in the socket. These benefits range from enhanced damage control to the ability to make hyperspace jump calculations. When installed on larger starships, this attachment represents can represent more than a single socket. These ships often employ an entire bay capable of housing multiple astromechs and deploying them to the outer surface of the ship to aid in repairs.
 
 [P][B]Models Include:[b] Industrial Automaton Mk. I Astromech Socket.</Description>
-    <Source Page="63">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="63">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>3000</Price>
@@ -1308,7 +1308,7 @@ command.
     <Description>
       [H3]Cyclic Crystal Array[h3]
 [P]Lightsabers rely on kyber crystals attuned to the wielder to create energy blades of different types. Under normal circumstances, swapping out one crystal for another is an arduous process requiring the lightsaber to be disassembled first. Unsatisfied with this situation, a handful of enterprising (if unorthodox) Force users have created attachments that allow for two (or more) crystals to be installed in a single lightsaber. With the press of a button, one crystal is swapped for another, granting unprecedented versatility to lightsaber wielders looking for additional functionality from their otherwise traditional weapon. This attachment can only be applied to lightsabers.</Description>
-    <Source Page="53">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="53">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -1400,7 +1400,7 @@ An improvement on secret compartments used by smugglers throughout the galaxy, c
       [H3]Collision Avoidance System[h3]
 Due to their speed and the primitive nature of their handling systems, Podracers are notoriously difficult to control. While a Podracer is blindingly fast in a straight line, getting one around corners with any accuracy or reliability is almost impossible, making crashes a common sight at races. As a result, many pilots equip their Podracers with collision avoidance systems to reduce the risk of crashes. While common collision avoidance systems are often barred from use in race series and are frowned upon by veteran racers, who consider them "electronic nannies".
 [BR][B]Models Include:[b] Aratech 8pz-X Constant Active Array, Fabritech "Co-Pilot" Adaptive Anti-Collision System, SoroSuub LX-19 Automatic Spot Thrusters.</Description>
-    <Source Page="58">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="58">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <TypeLimit>
@@ -2520,7 +2520,7 @@ Although uncommon and even considered archaic in this day and age, some armorers
       [H3]Damping Emitter[h3]
 Careful modifications to the power cells and blade emitter allow the owner of a lightsaber to add a stun setting of sorts, drawing on the power of a normal lightsaber crystal, but with less intensity than is normally used. A damped lightsaber can still inflict serious injuries, however, as the emitter can only limit the power of a heavily modified crystal so much.
 [BR][B]Models Include:[b] None; users must custom make each lightsaber attachment.</Description>
-    <Source Page="51">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="51">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <TypeLimit>
@@ -3374,7 +3374,7 @@ Built into a helmet, this system provides an individual with a host of specializ
     <Description>
       [H3]Energy Overclock Setting[h3]
 [P]As deadly and dangerous as they are, vibroweapons can be even deadlier with the inclusion of an overclock setting. By replacing several internal components with precision analogs, a qualified technician can exponentially increase the speed and frequency of a vibroblade's blade action. The result is a vibroweapon that can be charged for amplified cutting power, but at the expense of causing unpredictable power fluctuations. This attachment can be applied to any vibroweapon and any other powered Melee or Brawl weapon. </Description>
-    <Source Page="53">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="53">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -3408,7 +3408,7 @@ Built into a helmet, this system provides an individual with a host of specializ
       [H3]Etaan Crystal[h3]
 These unusual kyber crystals from in the deep caverns of the Mid Rim world of Etai. Given that the crystals rarely form fewer than five hundred meters below the surface and usually at over twice the depth, the formation can be extremely difficult to locate. However, the raw crystals echo any nearby sound with a humming resonance, guiding searchers who draw near.
 [P]Harvested etaan crystals retain this resonant property causing the activated blades of lightsabers using them to thrum in harmony with the motion of the blade, and to chime at nearby sounds. The blades respond especially spectacularly to a clash with another lightsaber or blaster bolt, emitting a near-deafening crack and a bright flare of energies. A clash of blades involving etaan crystals usually results in the lightsabers being forced apart, but reflected blasted bolts draw in the resonant energies from the reaction and intensify on their new trajectory.</Description>
-    <Source Page="52">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="52">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <Price>12000</Price>
@@ -3729,7 +3729,7 @@ Compared to sublight engines, hyperdrive modules require less thrust ducting and
     <Description>
       [H3]Force-Attuned Resonator[h3]
 [P]When the Jedi artificer Sokiro Terebin set about reproducing the crystalline, force-attuned resonators from the blasters she had unearthed at Site-145 on Filata, she first had to solve some numerous technical challenges. During this time, she created a number of internal resonators that could be housed within a weapon the effectiveness of different technologies the ancients might have used. Though she meticulously recorded all of her efforts to create resonators that could be activated only by Force sensitives, the Empire's tumultuous rise to power led the destruction of many repositories of Jedi lore. During Terebin's lifetime, few Jedi considered these weapons to be serious armaments, but in the dark times of Imperial rule, some Force sensitives might find having a blaster that most people can't operate to be practical. The blueprints persist in certain scholastic records, and the aspiring Force sensitives might be able  to make a use of them. This attachment can be applied to any Ranged (Light) or Ranged (Heavy) weapon that has a trigger.</Description>
-    <Source Page="54">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="54">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -3833,7 +3833,7 @@ Some sentients form a great attachment, even a bond with their weapon, and take 
     <Description>
       [H3]Ghostfire Crystal[h3]
 These kyber crystals grow in nearly invisible formations on a handful of far flung Outer Rim worlds. Their precarious spires of entirely transparent stones rise from rocky foundations. They are typically found at the peaks of mountains, when they can be located at all. Finders can use ghostfire crystals to construct a lightsaber with a blade as difficult to detect as the spire from which they harvested the crystal. Lightsabers with ghostfire crystals at their core produce no sound whatsoever, and the blades are dim and translucent compared to the incandescent fire of the other lightsabers. most curious of all are the illusory afterimages of the blades that follow the wielders' motions, disorienting foes and disguising the true position of their blades.</Description>
-    <Source Page="53">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="53">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <Price>14000</Price>
@@ -3941,7 +3941,7 @@ Gravity mine launchers, and their accompanying gravity mines, are small anti-veh
 [P]The character piloting or operating the weapons on a vehicle equipped with a gravity mine launcher can deploy a single gravity mine anywhere on the ground within close range by spending an action. Once the mine is deployed, it automatically attaches to any other starship or vehicle using repulsorlifts that comes within close range of it. For every 1 mine attached to a vehicle that uses the Piloting (Planetary) skill, that vehicle reduces its speed by 1. For every 2 mines attached to a starship that uses the Piloting (Space) skill, that starship reduces its speed by 1. An attached mine can be removed with an [B]Average ([DI][DI]) Mechanics check[b].
 
 [P][B]Models Include:[b] SoroSuub X80a UltraMass Gravity Pulse Generator, Taim &amp; Bak Model 19 micro-gravity well mines.</Description>
-    <Source Page="64">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="64">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>3500</Price>
@@ -4131,7 +4131,7 @@ Some starships or vehicles can be converted to carry additional, smaller vehicle
 The demands put on a ship or vehicle's electrical system, both by the systems connected to it and by daily wear-and-tear, are enormous. Anything that draws power from a ship or vehicle's reactor, from the pilot's datapad charger to the onboard weapon systems, puts strain on every cable, every breaker, every bus plate between the system and the power source. Hardened circuits covers a variety of electrical transmission gear that, when installed, improve a vehicle or ship's power system and allow it to handle heavier-than-normal power loads.
 
 [P][B]Models Include:[b] Santhe/Sienar Model 30 Heavy-Duty Dielectric Power Bus, Fabritech Triple-Phase Thermal-Magnetic Circuit Breakers, Corellian Engineering Corporation SF/6 Hybrid Switchgear Module.</Description>
-    <Source Page="64">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="64">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>4500</Price>
@@ -4157,7 +4157,7 @@ The demands put on a ship or vehicle's electrical system, both by the systems co
     <Description>
       [H3]Hardened[h3]
 [P]Power armor relies on its energy source to maintain functionality. If this flow of energy is interrupted by a powerful electromagnetic burst or exposure to ion weapons, the armor loses both its mobility and its ability to enhance the wearer.  With the armor's vital systems "hardened" against such effects, power armor becomes immune to these attacks. Such hardening modifications are weighty, however. Adjustments must be made to nearly every subsystem to prevent even partial shutdowns from taking place. This attachment can only be applied to power armor.     </Description>
-    <Source Page="56">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="56">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <CategoryLimit>
@@ -4522,7 +4522,7 @@ Brosso Mk. IX Tactical holoprojector, Chedak Communications
 Even the cheapest, most unreliable starships are durable items built to withstand the incredible amounts of abuse heaped on them by decades in space. Hull or keel reinforcement is an easy way to improve a vehicle or vessel's durability. Extremely old vessels, such as most of those fielded by the Rebel Alliance, can also benefit from a hull or keel reinforcement by shoring up damaged or fatigued hull members and adding support bracing at strategic locations.
 
 [P][B]Models Include:[b] Various models.</Description>
-    <Source Page="64">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="64">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>2500</Price>
@@ -4774,7 +4774,7 @@ By mounting their holsters into the framework of their armor, combatants can ens
     <Description>
       [H3]Integrated Illuminator[h3]
 [P]Operating in darkness is never ideal, but there are several ways to compensate for one's lack of night vision. The simplest, perhaps, is to integrate a simple spotlight, similar in most respects to a high-power glow rod, along the length of a ranged weapon's barrel. In addition to providing illumination in dark conditions, high-powered spotlights have the potential to blind enemies. This attachment can be applied to any ranged weapon that could logically benefit from a spotlight.</Description>
-    <Source Page="54">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="54">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -5159,7 +5159,7 @@ The character chooses one personal weapon or piece of armor per rank of Jury Rig
     <Description>
       [H3]Kiirium Coating[h3]
       [P] An obselete shielding material once processed in abundance in the Si'klaata Cluster, kiirium was at one time vital to the manufacture of heavy weapons and starships. While largely supplanted by cheaper, more durable alloys, kiirium has properties that make it useful to armorsmiths, who can apply a coating of kiirium to armored plating as a relatively effective thermal shielding. This attachment can only be applied to armor that has hard or solid parts around which the allow can be coated, such as with laminate armor, heavy battle armor, and similar types of armor at the GM's discretion.</Description>
-    <Source Page="56">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="56">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <CategoryLimit>
@@ -5189,7 +5189,7 @@ The character chooses one personal weapon or piece of armor per rank of Jury Rig
     <Description>
       [H3]Kimber Stone[h3]
 [P]Kimber stones are a type of kyber crystal produced by violent volcanic activity on the moon of Y'ness in the N'zoth system. They were once considered unsuitable for use in lightsabers due to the non-lethal nature of the blades they create. Certain Jedi Knights saw potential in kimber stones, and so a number were acquired from Y'ness prior to the destruction of the Jedi Order. Today, kimber stones are occasionally sold at auction on the black market, usually as mere trinkets by those who do not understand their true value as kyber crystals. A kimber stone is a lightsaber crystal. </Description>
-    <Source Page="55">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="55">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -5413,7 +5413,7 @@ Lorrdian gemstones arc kyber crystals mined millen nia ago by enslaved Lorrdians
     <Description>
       [H3]Low-Friction Coating[h3]
 Low-friction coatings work by lowering the coefficient of friction against solid armor plates. With the addition of such a coating, the surface of armor becomes almost impossible to grip or seize. In addition, glancing blows from melee weapons are often unable to find purchase, which diminishes the damage they cause as they slide off. The only downside to the coating is that is can make working on the armor more difficult, as tools must scramble for a grip on its slick surface. This attachment can only be applied to armor with hard surfaces such as heavy battle armor, powered armor.</Description>
-    <Source Page="56">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="56">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <CategoryLimit>
@@ -5523,7 +5523,7 @@ Developed in cooperation with CorChemCo, SmartTranq is an adaptable synthetic tr
     <Description>
       [H3]Magnetic Weapon Tether[h3]
 [P]A magnetic weapon tether is a relatively simple modification that consists of a small magnetic device built into the weapon. The magnetic weapon tether allows the wielder to snap the weapon back to a readied position with a press of a button, rather than having to scramble to retrieve it. While many Force users might scoff at this ability - after all, why use a device for what they can do with the force anyway - others prefer to have the extra layer or safety, or wish to avoid using their Force powers openly in places where the Empire's presence is strong. This attachment can be applied to any weapon wielded in one hand that could logically benefit from a weapon tether.</Description>
-    <Source Page="54">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="54">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <Price>250</Price>
@@ -6727,7 +6727,7 @@ Most shield arrays have the potential to generate a stronger field. However, thi
       [H3]Overcharged Power Cell[h3]
 Lightsabers are exceptionally efficient weapons, able to run nearly forever off a single basic power cell, thanks to the remarkable focus of the kyber crystal installed within and the contained energy loop of the blade. As such, tampering with a lightsaber's power cell and adjusting its output usually does more harm than good, as it upsets the balance of a near-perfect system. Those who know what they are doing can sometimes overcharge the power cell of a lightsaber to increase the power of the blade, but these changes make the power cell volatile, prone to causing unpredictable fluctuations in the lightsaber's effects. When installed correctly, the effect of an overcharged power cell is more often beneficial than it is a hindrance, but the mere possibility of the blade dimming at the wrong moment dissuades some tinkerers from taking the risk.
 [BR][B]Models Include:[b] None; users must custom make each lightsaber attachment.</Description>
-    <Source Page="51">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="51">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <TypeLimit>
@@ -7467,7 +7467,7 @@ Like electronic countermeasures, physical counter-measures are designed to fool 
 [P]While any ship equipped with physical counter-measures carries enough to get them through most encounters, engaging in a long, drawn-out fight can quickly deplete a launcher's store of countermeasures. Game Masters may spend [AD][AD] or [TR] on Gunnery checks made using missiles, rockets, or torpedoes targeting the starship to cause a countermeasure launcher to run out of its load of flares, chaff, or anti-warhead missiles, effectively disabling it until the end of the encounter.
 
 [P][B]Models Include:[b] Loronar Defense Industries A4M "Pepperbox" anti-warhead micro-missile pack, Oriolanis Defense Systems XM-130 chaff dispenser, Conner Ship Systems MJU-9G "Phoenix" Flare Dispenser.</Description>
-    <Source Page="64">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="64">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>2200</Price>
@@ -7583,7 +7583,7 @@ A pistol grip replaces the stock or other grip on a long arm with one like that 
 While the Jedi of old disdained blasters, modern Force users often need every advantage they can get. By adding a customized secondary emitter to a lightsaber hilt, the wielder can release the energies of her weapon at a distance in a manner similar to that of a blaster bolt. Without the focused field produced by a regular lightsaber emitter, the beam rapidly loses coherency and stopping power, producing only a short-range stun bolt. A lightsaber used in this manner, though might not even be recognized for what it is, appearing to be an unusual or custom model of pistol instead of one of the legendary weapons of the Jedi. This additional layer of cover could mean as much protection as the new capabilities of the weapon.
 [P]The user must spend a maneuver to switch from one weapon mode to the other lightsaber function to pistol function, for example.
 [P][B]Models Include:[b] None; users must custom make each lightsaber attachment.</Description>
-    <Source Page="52">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="52">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <TypeLimit>
@@ -7688,7 +7688,7 @@ Originally developed for asteroid mining, a plasma drill is a superheated auger 
       [H3]High-Output Repulsor Coils[h3]
 Basic Podracer cockpits come equipped with low-output repulsor coils of the kind typically found on repulsorsleds and speeder trucks. Considered a secondary system at best, and really only equipped to keep the Podracer at altitude when standing still or at low speeds, a racer's repulsor coils are rarely given a second thought. Savvy racers, or veterans with years of racing and building experience under their belts, know that a good repulsorlift engine can often mean the difference between first and last place, or finishing or crashing. Upgraded repulsor coils increase a Podracer's maximum altitude, allowing it to clear obstacles more easily and even hop over lower flying opponents.
 [BR][B]Models Include:[b] Incom TX-2, Bespin Motors Ponrez/Arc Repulsorlift, Karydee KD49 Drive Unit.</Description>
-    <Source Page="59">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="59">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <TypeLimit>
@@ -7718,7 +7718,7 @@ Basic Podracer cockpits come equipped with low-output repulsor coils of the kind
 If Podracing evolved from ancient beast-drawn chariot and cart racing, as many historians suppose, then control cables are analogous to a set of reins. These long, flexible durasteel cables tether a Podracer's powerful engines to its cockpit. Along with keeping the engines and the cockpit connected, they also house the wiring that connects the controls to the engines. Steelton produces most Podracer control cables, but smaller companies have cropped up lately in an attempt to take away some of its market share.
 [P]Nearly all Podracers use control cables, only a few small-production outliers, such as FG 8T8-T and a handful of one-offs and prototypes, mount the engines directly to the cockpit via spars. Control cables are the most fragile part of a Podracer, as even the stoutest set can be snapped or sliced through. A Podracer who loses her control cables through accident or sabotage loses control over her vehicle and must either eject or ride the cockpit to a stop and hope she survives.
 [P][B]Models Include:[b] Steelton Perfect-Series control cables, Moriales Systems SC-4.x control tether.</Description>
-    <Source Page="60">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="60">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <ItemLimit>
@@ -7741,7 +7741,7 @@ If Podracing evolved from ancient beast-drawn chariot and cart racing, as many h
       [H3]Podracer Ejection System[h3]
 This is a simple pilot's ejection seat, commonly found in starfighters and combat airspeeders. When activated, either by the pilot or by a dead man's switch, should the pilot become incapacitated, the seat and pilot are launched from the Podracer's cockpit by small, high-output, single-use ion engines. Once the seat reaches a preset altitude, it deploys a parachute or activates a small repulsorlift generator, which returns the pilot swiftly and generally, safely to the ground. Few Podracer pilots equip their vehicles with ejection systems, however, as most consider the added weight and complexity of the system no worth the small gain in safety.
 [P][B]Models Include:[b] Income ACE Ejection Seat, Koensayr Np-K36 Ejection Seat, Sienar Fleet Systems Mk GT8 Deluxe Ejection Pod.</Description>
-    <Source Page="58">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="58">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <TypeLimit>
@@ -7765,7 +7765,7 @@ This is a simple pilot's ejection seat, commonly found in starfighters and comba
 Podracer engines come in three varieties rocket motors, turbine engines, and high-performance ion engines. In the early days of Podracing, engines were salvaged and rebuilt by talented amateurs. Single-stage heavy lift rockets, ion engines from crashed starfighters, air breathing turbojets from performance airspeeders, and even more exotic engine types were hauled out of scrapyards or dug out of old military depots and put to use on the racing circuits. Today most Podracer engines are either hand-built custom jobs built by big racing teams to their own exact specifications or mass produced engines from one of the major manufacturers. No matter their provenance, they are all too big, too fast and too loud for civilized racing, which is what makes them so appealing for Podracers.
 [P]Podracer engines must be installed in matched sets usually in multiples of two. Doing otherwise makes for a poorly balanced, finicky, unreliable Podracer that is  by its mismatched nature, even more dangerous than usual.
 [P][B]Models Include:[b] TurboDyne 99-U, Manta RamAir Mk. IV Flat Twin Turbojet, JAK Racing J930 Dash-8, Radon-Ulzer 620C S&amp;K JZ-5 Fusial Thrust Engine, Incom 2a Fission Engine.</Description>
-    <Source Page="60">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="60">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <ItemLimit>
@@ -7788,7 +7788,7 @@ Podracer engines come in three varieties rocket motors, turbine engines, and hig
       [H3]Engine Boost System[h3]
 There are as many ways of boosting the output of a Podracer's engine as there are engines themselves. Afterburners, volatile chemical injectors, overpressure feeders, electromagnetic wave-pulse generators, even arcane mixtures of highly reactive and dangerous fuels are all used to provide extra thrust from an engine. While these add-on systems do increase an engine's output, often dramatically so, they have a tendency to shorten its operational life and require extra maintenance to keep the engine operational and at peak performance.
 [BR][B]Models Include:[b] Bespin Motors LK Model Afterburner Array, Slayn &amp; Korpil Surgine-Series Fuel Accelerant System, SoroSuub RR-51 Chem-Injector Suite.</Description>
-    <Source Page="58">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="58">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <TypeLimit>
@@ -7815,7 +7815,7 @@ There are as many ways of boosting the output of a Podracer's engine as there ar
       [H3]Handling Upgrades[h3]
 Podracer handling upgrades encompass a wide array of systems and technologies designed to make Podracers easier to pilot. These upgrades can be tiny, variable pitch jets and movable repulsor fields to brute force counterweights that slide into special compartments to counteract inertia. While such upgrades do increase a Podracer's handling capabilities, no amount of modification is likely to likely to make the exceedingly fast and fragile race vehicle easy enough to handle for a human pilot.
 [BR][B]Models Include:[b] Incom ETX Mk. I Etheric Rudder, Slayn &amp; Korpil Vitus-Series Attitude Thrusters, Bespid Motors PinPoint II Targeted Repulsor Generator.</Description>
-    <Source Page="59">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="59">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <TypeLimit>
@@ -7845,7 +7845,7 @@ Podracer handling upgrades encompass a wide array of systems and technologies de
 Part of the thrill of Podracing is the near certainty of collisions, for many enthusiasts, a good race is measured by how many crashes occurred, not how fast the winner ran the circuit. Given the nature of these races, many pilots view it as foregone that they will be involved in collisions, no matter what effort they might take to avoid them. This leads to some adopting reinforced plating for their engines, the better to withstand "accidental" impacts as they occur during a race.
 [P]More tactically-minded pilots take this even further adding ridges, struts, and vanes designed to appear ornamental or to a aid in aerodynamics, but instead intended to cushion impacts when their vehicle rams into another. That those pilots who are frequently involved in collisions and still manage to cheat death race after race, garner large amounts of fame (and credits) certainly has a strong bearing on other pilots decision to adopt such modifications and alter their racing tactics accordingly.
 [P][B]Models Include:[b] Various Models.</Description>
-    <Source Page="59">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="59">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <TypeLimit>
@@ -7874,7 +7874,7 @@ Part of the thrill of Podracing is the near certainty of collisions, for many en
 Most Podracers, whether custom-built racers or one of the many factory customs, mount a small, low-output shield generator in the cockpit. These shield generators are thin and cover primarily the very front. They only protect the driver, and only from exhaust wash from the engines and from debris kicked up from the track surface or flung at the racer by spectators (or other racers). They provide no protection to to the vehicle itself and are generally worthless in the event of a crash or other catastrophic event.
 [P]Some racers, though, value personal safety over tradition, running powerful, full-spectrum shield generators that protect the entire vehicle. These are usually built specifically for Podracing and are tuned for the kinds of environments typically found on Podrace courses. Racing teams that are too poor or too old-fashioned to use factory-built generators still use salvaged units pulled from wrecked starfighters or emplacement shield generators.
 [P][B]Models Include:[b] Novaldex GA21 Shield Generator, Chempat CED8089Y Shields, Keizar-Volvec Mk VIII Safety Shield, BGRE "Bug Smasher" Shield.</Description>
-    <Source Page="59">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="59">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <TypeLimit>
@@ -7966,7 +7966,7 @@ Force users, especially those walking a path closely attuned to the light side o
       [H3]Foreign Debris Ejector[h3]
 Podracing attracts a wide range of pilots, from those who delight in testing their skill against fellow speed enthusiasts to those who are only interested in winning, no matter what it takes. For the latter, one method is not to boost their own vehicles performance but to instead hamper their opponents Podracers. Using concealed compartments (known more informally as "dirty trick kits"), pilots can release small nails, reactive chemicals or other debris-designed to foul the engines of a training vehicle, slowing it down or even knocking it out of the running. Though illegal, when used out of the sight of officials these compartments can decide the fate of many a race.
 [P][B]Models Include:[b] Various (pilots and their crew typically craft them secretly).</Description>
-    <Source Page="58">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="58">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <TypeLimit>
@@ -8045,7 +8045,7 @@ While true cloaking devices are all but unheard of and limited to capital ships,
       [H3]Predictive Targeting Array[h3]
 
 When making an auto-fire attack with the ship's auto-blasters, do not increase the difficulty of the attack by one.</Description>
-    <Source Page="143">Дополнение: Солнце Фортуны (Suns of Fortune)</Source>
+    <Source Page="143">Дополнение: Солнца Фортуны (Suns of Fortune)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>2000</Price>
@@ -8065,7 +8065,7 @@ When making an auto-fire attack with the ship's auto-blasters, do not increase t
     <Description>
       [H3]Quick Shed[h3]
 [P]Armor, especially heavy armor, takes time to put on and take off. though putting armor on remains a chore, taking it off - especially in an emergency situation - is expedited with the quick shed attachment. By installing several quick-release latches at strategic locations, suits of armor can be quickly removed by the wearer. This attachment can only be applied to armor with an encumbrance of 3 or higher.</Description>
-    <Source Page="57">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="57">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>650</Price>
@@ -8117,7 +8117,7 @@ The galaxy contains many perils, but one of the most common is radiation. From t
 For the most part, collisions with other ships, vehicles, or obstacles are to be avoided at all costs. There are times, however, when a desperate situation calls for a desperate measure and a pilot or driver must use his vehicle as a weapon. A number of bolt-on accessories for ships and vehicles are produced by major vehicle manufacturers that protect and reinforce prows or forward sections against collision. Items such as bantha bars, sloped fenders known colloquially as "nerfcatchers," and custom-fit reinforced hull plating are all examples of the rich after market dedicated to protecting a vehicle in case of collision.
 
 [P][B]Models Include:[b] Various models.</Description>
-    <Source Page="65">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="65">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>6500</Price>
@@ -8229,7 +8229,7 @@ Specifically modified gas conversion enablers can allow a blaster pistol or rifl
     <Description>
       [H3]Reactive Plating[h3]
 [P]Reactive plating is a modification that attaches small explosive panels to the armors exterior plates. When hit by an attack, the explosives are designed to detonate outward, absorbing some of the attacks kinetic energy with the counter-explosion. It is not typically used on a personal scale, but microrepulsors and other, similar technologies allow it to be integrated into certain heavier varieties of personal armor and to function at considerable effectiveness without harming the wearer in the process. Employed properly, reactive armor can even deflect or dampen blows from weapons that would cleave through other defenses, like lightsabers. Besides the considerable weight it adds to any set of armor, an unfortunate side-effect of reactive armor is that it destroys itself as it protects the individual inside. It causes the armor to degrade far more rapidly than it would have otherwise would, which means that the wearer must repair it far more often. This attachment can only be applied to armor with a soak of 2 or higher.  </Description>
-    <Source Page="57">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="57">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>2000</Price>
@@ -8295,7 +8295,7 @@ Reflec is an advanced polymer that possesses adaptive light-warping and sensor-d
       [H3]Reflex Grip[h3]
 Through a delicate system of motion sensors and miniaturized motors built into a lightsaber hilt, a craftsperson can alter the lightsaber to respond to adjustments in grip and position with greater responsiveness. The split-second edge granted by this system allows a combatant to more easily parry an opponent's decisive stroke or block each of a hail of blaster bolts. Controlling the system and keeping it from overreacting to minute or inadvertent motions can be difficult to master, but the defensive advantage of a reflex grip can be worth the extra practice.
 [BR][B]Models Include:[b] None; users must custom make each lightsaber attachment.</Description>
-    <Source Page="52">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="52">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <TypeLimit>
@@ -8327,7 +8327,7 @@ Through a delicate system of motion sensors and miniaturized motors built into a
     <Description>
       [H3]Reflec Shadowskin[h3]
 [P]An advanced, light-absorbing polymer that can be applied to armor, reflec shadowskin coating can enhance the stealth abilities of its wearer - anyone wearing armor covered in this substance can easily blend into the shadows. While this coating does not make the wearer invisible, it does mean that observers who only catch a glimpse are far less likely to register what they saw or believe it to be anything more than a trick of the light. This attachment can only be applied to armor with a soak of 2 or lower. </Description>
-    <Source Page="57">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="57">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>1200</Price>
@@ -9335,7 +9335,7 @@ Shortened barrels are a handy modification used by spies, plain-clothes law enfo
     <Description>
       [H3]Shield Discharge Pack[h3]
 [P]Despite being nearly as ancient as warfare, shields continue to be popular weapons, serving as trusted defenders of warriors on low-tech planets and protecting life and limb of security forces in densely populated areas. While shields are useful weapons already, adding discharge packs to them can allow the wielder to deliver a debilitating shock when detecting a hit. Further, just the sight of a crackling arc of energy wreathing a shield can disturb many would-be attackers, making their strikes far more timid - and far less lethal - than they would have been otherwise. This attachment can only be applied to a shield or buckler.</Description>
-    <Source Page="54">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="54">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -9368,7 +9368,7 @@ Shortened barrels are a handy modification used by spies, plain-clothes law enfo
       [H3]Shien Reverse Grip Customization[h3]
 Practitioners of Form V sometimes use a reverse grip on their lightsabers to assist in many of the techniques common to that form. Through a few careful adjustments to the grip and balance of their lightsabers, these practitioners can make the weapons more suited to wielding in this manner although the modifications make using a traditional grip somewhat unwieldly in the process.
 [P][B]Models Include:[b] None; users must custom make each lightsaber attachment.</Description>
-    <Source Page="52">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="52">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <TypeLimit>
@@ -9481,7 +9481,7 @@ Shock pulse emitters operate along principles similar to a blaster's stun settin
 An old shipbuilding technology perfected millennia ago, slave circuits allow ship owners to operate their ships, or various systems within their ships, via remote control. Occasionally referred to as the "Electronic Co-Pilot" or "Instant Backseater," slave circuits run all of a ship's systems through a central system bus that can be activated and deactivated via voice command through a comlink-like device called a "beckon call." Basic slave rigs allow a user to remotely activate a ship's systems and bring it to complete operational readiness, or to shut those systems down and lock out all users until a security code is entered. More advanced models allow the user to call the ship to his present location, and even allow it to fight its way there with moderate success. While popular in many circles, slave circuits are often mistrusted by ship owners.
 
 [P][B]Models Include:[b] Corellian Engineering Corporation "Savant" Ship Slave Rig, Incom ST-9x.4 "Backseater" Starfighter Slave System.</Description>
-    <Source Page="65">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="65">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <Price>10000</Price>
@@ -9703,7 +9703,7 @@ Originally developed to overcome personal cloaking devices and other sensor-baff
     <Description>
       [H3]Sorian Crystal[h3]
 [P]Though none can confirm accurately from which planet these mysterious stones originate, many traders recognize these gems by their radiance. Sorian crystals are said to reflect light in swirling, intricate patterns reminiscent of dancing flames. Because of these gems' relative scarcity, few realize that they are in fact kyber crystals. The energy blade formed by a sorian crystal surges briefly with the power whenever it comes into contact with another object moving at high speed - such as another lightsaber. The slight but sudden jolt  that emanates from the blade is often enough to throw an attacker off balance, giving the wielder a chance for a counterstrike. While this dded resistance also makes it harder to slice apart an opponent in a single stroke over the course of a long duel between skilled fighters, the unique edge it provides can make the difference between life and death. A sorian crystal is a lightsaber crystal. </Description>
-    <Source Page="55">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="55">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weapon</Type>
     <CategoryLimit>
@@ -9978,7 +9978,7 @@ Force sensitives trained or experienced in other fields prior to embarking on th
     <Description>
       [H3]Stun Matrix[h3]
 [P]A stun matrix is an additional defensive option for armor. Instead of enhancing the wearer's defenses directly, it unleashes a punishing pulse of energy that weakens the attacker in the hope of preventing a second strike. Installing this attachment requires the addition of insulation to protect the wearer form the effects of the stun matrix on top of the setup of the self charging battery and of the stun matrix itself. While the device is relatively bulky, it can be concealed if integrated subtly into a heavy armor frame, the better to surprise would-be attackers. This attachment can be applied to any armor that could logically benefit from having a stun matrix added. </Description>
-    <Source Page="57">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="57">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
     <Price>1750</Price>
@@ -10142,7 +10142,7 @@ Even the simplest weapon can benefit from a craftsman's touch. A skilled weapons
 
 Boosts the engines of a swoop and also removes excess weight from the chassis.
     </Description>
-    <Source>Дополнение: Солнце Фортуны (Suns of Fortune)</Source>
+    <Source>Дополнение: Солнца Фортуны (Suns of Fortune)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
     <TypeLimit>
@@ -10893,7 +10893,7 @@ Full body armor can be designed to be sealed against a vacuum, allowing the user
     <Sources>
       <Source Page="195">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="207">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="57">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+      <Source Page="57">Дополнение: Хранители мира (Keeping the Peace)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Armor</Type>
@@ -11342,7 +11342,7 @@ powerful mixture of chemicals in the harness can be
 dangerous to the minds of sentient beings. Attaching
 the harness to a sentient being can result in permanent
 brain damage and even death.</Description>
-    <Source Page="44">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="44">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Type>Mount</Type>
     <TypeLimit>

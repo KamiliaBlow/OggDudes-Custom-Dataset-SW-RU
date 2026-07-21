@@ -209,7 +209,7 @@
     <Key>ARMSUP</Key>
     <Name>Бронник (Высшее)</Name>
     <Description>Один раз в раунд, когда персонаж получает "критическое ранение", он может получить 3 "усталости", чтобы выполнить действие способности "Бронник". В этом случае результат "критической травмы" уменьшается на 10 за пункт "усталости", минимум до 1.</Description>
-    <Source Page="30">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="30">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
   </Talent>
@@ -333,7 +333,7 @@
     <Key>BALEGAZE</Key>
     <Name>Зловещий взгляд</Name>
     <Description>При проверке боя со средней дистанции можно потратить 1 очко "Судьбы", чтобы повысить сложность проверки в несколько раз, равных рангам "Запугивания".</Description>
-    <Source Page="30">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="30">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
@@ -399,7 +399,7 @@
     <Key>BEASTWRANG</Key>
     <Name>Охотник на чудовищ</Name>
     <Description>Добавляет [BO] за каждый ранг "Охотника на чудовищ" к проверкам, позволяющим приручать или ссориться с существами.</Description>
-    <Source Page="32">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="32">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
@@ -419,7 +419,7 @@
     <Key>BETTERLUCK</Key>
     <Name>В следующий раз повезет</Name>
     <Description>Выполните действие "В следующий раз повезет"; сделав проверку "Хладнокровия" со сложностью ([DI][DI][DI]), чтобы заставить конкурента получить серьезную неисправность (крит. повреж. для транспорта).</Description>
-    <Source Page="30">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="30">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
@@ -461,7 +461,7 @@
     <Name>Слепое пятно</Name>
     <Description>Персонаж и союзники в пределах короткой дистанции автоматически добавляют [AD] к проверкам боя, которые они делают, пользуясь укрытием.</Description>
     <Sources>
-      <Source Page="30">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+      <Source Page="30">Дополнение: Хранители мира (Keeping the Peace)</Source>
       <Source Page="34">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -528,7 +528,7 @@
     <Key>BOLSTARMOR</Key>
     <Name>Усиленная броня</Name>
     <Description>Увеличивает показатель "брони" сигнатурного транспорта на 1 за каждый ранг "Усиленной брони".</Description>
-    <Source Page="32">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="32">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
@@ -790,7 +790,7 @@
     <Sources>
       <Source Page="144">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="32">Дополнение: Непринужденный полет (Fly Casual)</Source>
-      <Source Page="30">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+      <Source Page="30">Дополнение: Вечный дозор (Endless Vigil)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
@@ -996,7 +996,7 @@
     <Key>CONSTVIGIL</Key>
     <Name>Постоянная бдительность</Name>
     <Description>Всегда можно сделать проверку "бдительности", чтобы определить инициативу.</Description>
-    <Source Page="30">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="30">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
@@ -1072,7 +1072,7 @@
     <Key>CORSEND</Key>
     <Name>Кореллианское прощание</Name>
     <Description>Используйте действие "Кореллианское прощание", направленное на два корабля или транспортных средства на близком расстоянии; сделав проверку "Хладнокровия" со сложностью ([DI][DI][DI]), чтобы вызвать небольшое столкновение целей.</Description>
-    <Source Page="32">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="32">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
@@ -1080,7 +1080,7 @@
     <Key>CORSENDIMP</Key>
     <Name>Кореллианское прощание (Улучшенное)</Name>
     <Description>При выполнении "Кореллианского прощания" цели вместо этого получают серьезное столкновение.</Description>
-    <Source Page="32">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="32">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
@@ -1174,7 +1174,7 @@
     <Key>CUSTCOOL</Key>
     <Name>Нестандартный охлаждающий модуль</Name>
     <Description>Повысьте порог "перегрузки системы" сигнатурного транспорта на 2 за ранг "Нестандартного охлаждающего модуля".</Description>
-    <Source Page="32">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="32">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
@@ -1823,7 +1823,7 @@
     <Key>EXHANDLER</Key>
     <Name>Опытный укротитель</Name>
     <Description>Убирает [SE] за каждый ранг "Опытного укротителя" из проверок на "выживание", проводимых для верховой езды на животных.</Description>
-    <Source Page="32">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="32">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
@@ -1915,7 +1915,7 @@
     <Name>Причудливая покраска</Name>
     <Description>Повысьте все проверки на "Обаяние", "Обман "и "Переговоров", сделанные в присутствии "Сигнатурного транспортного" средства, один раз.</Description>
     <Sources>
-      <Source Page="32">Дополнение: Все по плану (Stay on Target)</Source>
+      <Source Page="32">Дополнение: Держитесь цели! (Stay on Target)</Source>
       <Source Page="34">Дополнение: Особые модификации (Special Modifications)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -1952,7 +1952,7 @@
     <Key>FEARSHAD</Key>
     <Name>Бойтесь теней</Name>
     <Description>Выполните действие "Бойтесь теней": сделав проверку на "обман" со сложностью ([DI][DI][DI]), чтобы заставить одну группу миньонов или соперника бежать из боя.</Description>
-    <Source Page="30">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="30">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
@@ -2249,7 +2249,7 @@
     <Key>FORTVAC</Key>
     <Name>Укрепленное вакуумное уплотнение</Name>
     <Description>Увеличивает порог "повреждения корпуса" Сигнатурного транспорта на 1 за ранг "Укрепленного вакуумного уплотнения".</Description>
-    <Source Page="32">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="32">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
@@ -2267,7 +2267,7 @@
     <Name>Свободный бег</Name>
     <Description>Получите 1 "усталость", при использовании маневра "Свободный бег", чтобы переместиться в любое место в пределах короткой дистанции.</Description>
     <Sources>
-      <Source Page="30">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+      <Source Page="30">Дополнение: Вечный дозор (Endless Vigil)</Source>
       <Source Page="30">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -2277,7 +2277,7 @@
     <Key>FREERUNIMP</Key>
     <Name>Свободный бег (Улучшенное)</Name>
     <Description>Получите 4 "усталости", при совершении маневра "перемещение", чтобы переместиться в любое место в пределах средней дистанции.</Description>
-    <Source Page="30">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="30">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
@@ -2323,7 +2323,7 @@
     <Sources>
       <Source Page="136">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="148">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="30">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+      <Source Page="30">Дополнение: Вечный дозор (Endless Vigil)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
@@ -2335,7 +2335,7 @@
     <Sources>
       <Source Page="136">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="148">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
-      <Source Page="31">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+      <Source Page="31">Дополнение: Вечный дозор (Endless Vigil)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
@@ -2406,7 +2406,7 @@
     <Name>Схватка</Name>
     <Description>Один раз за раунд персонаж может выполнить маневр "Схватка". До начала следующего хода персонажа враги должны потратить два маневра вместо одного, чтобы переместиться из зоны поражения в зону ближнего боя.</Description>
     <Sources>
-      <Source Page="30">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+      <Source Page="30">Дополнение: Хранители мира (Keeping the Peace)</Source>
       <Source Page="34">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -2611,7 +2611,7 @@
     <Name>Высокоскоростная подготовка</Name>
     <Description>Когда пилотируемый звездолет или транспортное средство испытывает "перегрузку системы", пилот может получить "усталоть", равную рангу "Высокоскоростной подготовки", чтобы предотвратить равную "перегрузку системы".</Description>
     <Sources>
-      <Source Page="32">Дополнение: Все по плану (Stay on Target)</Source>
+      <Source Page="32">Дополнение: Держитесь цели! (Stay on Target)</Source>
       <Source Page="39">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -2822,7 +2822,7 @@
     <Key>IMPOSFALL</Key>
     <Name>Невозможное падение</Name>
     <Description>Один раз за сессию при падении выполните "Невозможное падение": сделав проверку вашей "Силы" и потратьте [FP][FP], чтобы уменьшить падение на одну полосу дальности и приземлиться в безопасном месте. Потратьте [FP], чтобы уменьшить расстояние на одну дополнительную полосу дальности.</Description>
-    <Source Page="31">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="31">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidentalOOT</ActivationValue>
     <ForceTalent>true</ForceTalent>
@@ -3467,7 +3467,7 @@
     <Key>KOITURN</Key>
     <Name>Койогранский ход</Name>
     <Description>Если противник получил преимущество на пилотируемом звездолете или транспортном средстве, персонаж может выполнить маневр "Койогранский ход", чтобы снять эффект.</Description>
-    <Source Page="32">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="32">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
@@ -3476,7 +3476,7 @@
     <Name>Крупный проект</Name>
     <Description>Сигнатурное транспортное средство может иметь силуэт на 1 больше за ранг "Крупного проекта".</Description>
     <Sources>
-      <Source Page="32">Дополнение: Все по плану (Stay on Target)</Source>
+      <Source Page="32">Дополнение: Держитесь цели! (Stay on Target)</Source>
       <Source Page="34">Дополнение: Особые модификации (Special Modifications)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -3921,7 +3921,7 @@
     <Key>MOUNTBURDEN</Key>
     <Name>Бремя зверя</Name>
     <Description>Добавляет 1 ранг к порогу нагрузки.</Description>
-    <Source Page="83">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="83">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
@@ -3930,7 +3930,7 @@
     <Key>MOUNTDOMEST</Key>
     <Name>Приручаемый</Name>
     <Description>Понижайте сложность проверок на тренировку этого маунта на 1 ранг.</Description>
-    <Source Page="83">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="83">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
@@ -3939,7 +3939,7 @@
     <Key>MOUNTDOMESTED</Key>
     <Name>Прирученный</Name>
     <Description>Трудность обучения этого зверя не повышается.</Description>
-    <Source Page="85">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="85">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
@@ -3947,7 +3947,7 @@
     <Key>MOUNTFLY</Key>
     <Name>Летающий</Name>
     <Description>Этот маунт может летать. Когда он находится на земле, его скорость снижается до 1.</Description>
-    <Source Page="85">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="85">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
@@ -3955,7 +3955,7 @@
     <Key>MOUNTSTUBBORN</Key>
     <Name>Упрямый</Name>
     <Description>Повысьте сложность проверок на тренировку этого маунта на 1 за ранг.</Description>
-    <Source Page="85">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="85">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
@@ -3964,7 +3964,7 @@
     <Key>MOUNTTRAINED</Key>
     <Name>Обученный маунт</Name>
     <Description>Добавляет [BO] за ранг к проверкам на "выживание", когда всадник сидит на этом маунте.</Description>
-    <Source Page="83">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="83">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
@@ -4283,7 +4283,7 @@
     <Key>NOESC</Key>
     <Name>Выхода нет</Name>
     <Description>Можно потратить [AD][AD] от проверки "запугивания" или [TH][TH] от проверки "выдержки" противника; цель не может совершить свободный маневр в следующий ход.</Description>
-    <Source Page="30">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="30">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
@@ -4292,7 +4292,7 @@
     <Key>NOTTODAY</Key>
     <Name>Не сегодня</Name>
     <Description>Один раз за сессию потратьте 1 очко "Судьбы", чтобы спасти "сигнатурный транспорт" от уничтожения.</Description>
-    <Source Page="33">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="33">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
@@ -4412,7 +4412,7 @@
     <Key>OVERAMMO</Key>
     <Name>Переизбыток боеприпасов</Name>
     <Description>Увеличивает значение качества "Limited Ammo" любого оружия, установленного на "Сигнатурный транспорт", на 1 за ранг "Переизбытка боеприпасов".</Description>
-    <Source Page="33">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="33">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
@@ -4431,7 +4431,7 @@
     <Name>Потеря равновесия</Name>
     <Description>Когда враг, находящийся рядом с персонажем, делает проверку боя, после разрешения атаки персонаж может потратить [DE] или [TH][TH][TH], чтобы ошеломить атакующего до конца следующего хода атакующего.</Description>
     <Sources>
-      <Source Page="31">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+      <Source Page="31">Дополнение: Хранители мира (Keeping the Peace)</Source>
       <Source Page="35">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -4747,7 +4747,7 @@
     <Name>Точный удар</Name>
     <Description>Когда этот персонаж наносит "критическую травму" оружием "грубой силы", "ближнего боя" или "световым мечом", он может получить 1 "усталость", чтобы изменить результат на любой легкий ([DI]) результат "критической травмы".</Description>
     <Sources>
-      <Source Page="31">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+      <Source Page="31">Дополнение: Хранители мира (Keeping the Peace)</Source>
       <Source Page="35">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
       <Source Page="31">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
@@ -4816,7 +4816,7 @@
     <Key>PRESSHOT</Key>
     <Name>Упреждающий выстрел</Name>
     <Description>Добавляет [BO] ко всем проверкам "дальний бой (легкое оружие)", если цель не имеет иммунитета к "Силе".</Description>
-    <Source Page="31">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="31">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
@@ -4847,7 +4847,7 @@
     <Name>Выгодная позиция</Name>
     <Description>Когда этот персонаж или союзник в ближней дистанции находится в укрытии, он увеличивает "защиту" от атак "дальнего боя" на 1 за каждый ранг "Выгодной позиции", пока не покинет укрытие.</Description>
     <Sources>
-      <Source Page="31">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+      <Source Page="31">Дополнение: Хранители мира (Keeping the Peace)</Source>
       <Source Page="35">Дополнение: Закаленные в битве (Forged in Battle)</Source>
       <Source Page="41">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
@@ -4859,7 +4859,7 @@
     <Key>PROPAIM</Key>
     <Name>Пророческая цель</Name>
     <Description>Во время использования маневра "Прицеливание", [DE] от проверок "Дальний бой (тяжелое оружие)" и "Дальний бой (легкое оружие)" не может привести к тому, что атаки будут направлены на союзников, находящихся в непосредственной близости от цели.</Description>
-    <Source Page="31">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="31">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
@@ -5029,7 +5029,7 @@
     <Key>READANYIMP</Key>
     <Name>Готовность ко всему (Улучшенное)</Name>
     <Description>Когда вы делаете проверки "Хладнокровия" или "Бдительности", чтобы определить порядок инициативы, можно потратить [TR], чтобы добавить [SU], равное рангам "Готовности ко всему".</Description>
-    <Source Page="34">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="34">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
@@ -5038,7 +5038,7 @@
     <Name>Реконструкция событий</Name>
     <Description>Выполните действие "Реконструкция событий"; сделав проверку "Внимания" со сложностью ([DI][DI][DI]), чтобы определить физические характеристики человека, присутствовавшего на месте происшествия в течение последних 24 часов.</Description>
     <Sources>
-      <Source Page="31">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+      <Source Page="31">Дополнение: Вечный дозор (Endless Vigil)</Source>
       <Source Page="36">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -5093,7 +5093,7 @@
     <Key>REINFRAME</Key>
     <Name>Усиленный каркас</Name>
     <Description>Сигнатурный транспорт получает модификацию "Massive" 1: при атаке, направленной на корабль или транспортное средство, "критический рейтинг" любого используемого оружия считается на 1 больше.</Description>
-    <Source Page="33">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="33">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <Rigger>
@@ -5109,7 +5109,7 @@
     <Key>REINITEM</Key>
     <Name>Усилить предмет</Name>
     <Description>Используйте маневр "Усилить предмет": потратив [LI][LI], чтобы придать одному оружию или предмету брони качество "Кортозис", пока [LI][LI] не используются на что-либо еще. Каждый раунд, пока [LI][LI] остаются задействованными, персонаж получает 3 "усталости".</Description>
-    <Source Page="31">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="31">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taManeuver</ActivationValue>
     <ForceTalent>true</ForceTalent>
@@ -5287,7 +5287,7 @@
     <Key>SABERTHROWIMP</Key>
     <Name>Бросок меча (Улучшенное)</Name>
     <Description>При выполнении действия "Бросок меча" можно увеличить дальность до дальней дистанции. При атаке цели на дальнем расстоянии потратьте [FP][FP], чтобы оружие вернулось в руку.</Description>
-    <Source Page="31">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="31">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
     <ForceTalent>true</ForceTalent>
@@ -5421,7 +5421,7 @@
     <Name>Второй шанс</Name>
     <Description>Один раз за бой выберите количество положительных кубиков, равное рангу "Второго шанса", и перебросьте их.</Description>
     <Sources>
-      <Source Page="33">Дополнение: Все по плану (Stay on Target)</Source>
+      <Source Page="33">Дополнение: Держитесь цели! (Stay on Target)</Source>
       <Source Page="33">Дополнение: Непринужденный полет (Fly Casual)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -5570,7 +5570,7 @@
     <Key>SENSESCENE</Key>
     <Name>Чувство событий</Name>
     <Description>Выполните действие "Чувство событий"; сделав проверку "Внимания" со сложностью ([DI][DI][DI]) и добавьте [FO] не больше, чем ваш рейтинг "Силы". В случае успеха потратьте [FP], чтобы определить эмоциональные характеристики одного человека, вовлеченного в преступление.</Description>
-    <Source Page="31">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="31">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
     <ForceTalent>true</ForceTalent>
@@ -5607,7 +5607,7 @@
       <Source Page="142">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="155">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
       <Source Page="31">Дополнение: Дикие духи (Savage Spirits)</Source>
-      <Source Page="31">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+      <Source Page="31">Дополнение: Вечный дозор (Endless Vigil)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
@@ -5619,7 +5619,7 @@
     <Description>Когда вы участвуете в погоне или гонке, вы можете получить 2 "усталости", чтобы добавить к проверке [SU], равное рангам "Кратчайшего пути".</Description>
     <Sources>
       <Source Page="31">Дополнение: Дикие духи (Savage Spirits)</Source>
-      <Source Page="31">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+      <Source Page="31">Дополнение: Вечный дозор (Endless Vigil)</Source>
       <Source Page="36">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -5629,7 +5629,7 @@
     <Key>SHOWBOAT</Key>
     <Name>Показушник</Name>
     <Description>При выполнении проверки на звездолете или транспортном средстве вы можете получить 2 "усталости", чтобы получить [TR] при успехе или [DE] при неудаче.</Description>
-    <Source Page="33">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="33">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
   </Talent>
@@ -5679,7 +5679,7 @@
     <Name>Фирменный транспорт</Name>
     <Description>Выберите один звездолет или транспортное средство в качестве фирменного транспортного средства и улучшите все проверки "Механики", сделанные на этом транспортном средстве, один раз.</Description>
     <Sources>
-      <Source Page="33">Дополнение: Все по плану (Stay on Target)</Source>
+      <Source Page="33">Дополнение: Держитесь цели! (Stay on Target)</Source>
       <Source Page="35">Дополнение: Особые модификации (Special Modifications)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -5885,7 +5885,7 @@
     <Name>Успокаивающий тон</Name>
     <Description>Используйте действие "Успокаивающий тон"; сделав проверку "знаний (ксенология)" со сложностью ([DI][DI]), чтобы позволить зверю восстановить "усталость", равную [SU].</Description>
     <Sources>
-      <Source Page="33">Дополнение: Все по плану (Stay on Target)</Source>
+      <Source Page="33">Дополнение: Держитесь цели! (Stay on Target)</Source>
       <Source Page="31">Дополнение: Дикие духи (Savage Spirits)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -5978,7 +5978,7 @@
     <Key>SPUR</Key>
     <Name>Шпора</Name>
     <Description>Используйте действие "Шпора"; сделав проверку на "выживание" со сложностью ([DI][DI][DI]) увеличивая максимальную скорость зверя на 1. Зверь испытывает 2 усталости за каждый раунд, в течение которого он остается под эффектом "Шпоры".</Description>
-    <Source Page="33">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="33">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taAction</ActivationValue>
   </Talent>
@@ -5986,7 +5986,7 @@
     <Key>SPURIMP</Key>
     <Name>Шпора (Улучшенное)</Name>
     <Description>Получите 1 "усталость" при попытке использовать "Шпору" как маневр и уменьшите его сложность до ([DI][DI]).</Description>
-    <Source Page="33">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="33">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taManeuver</ActivationValue>
   </Talent>
@@ -5994,7 +5994,7 @@
     <Key>SPURSUP</Key>
     <Name>Шпора (Высшее)</Name>
     <Description>Когда на зверя активируют и поддерживают состояние "Шпоры", он получает только 1 "усталость" вместо 2.</Description>
-    <Source Page="33">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="33">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>
@@ -6181,7 +6181,7 @@
     <Name>Уличная смекалка (Улучшенное)</Name>
     <Description>Один раз за сессию можно воспользоваться действием "Уличная смекалка (Улучшенное)"; сделав проверку "уличной интуиции" со сложностью ([DI][DI][DI][DI][DI]) или "Знание (преступный мир)", чтобы получить одну важную подсказку от ГМ. Снижайте сложность на 1 за каждый ранг "Уличной смекалки".</Description>
     <Sources>
-      <Source Page="31">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+      <Source Page="31">Дополнение: Вечный дозор (Endless Vigil)</Source>
       <Source Page="36">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -6248,7 +6248,7 @@
     <Key>SUPHUMAN</Key>
     <Name>Нечеловеческие рефлексы</Name>
     <Description>Один раз за сессию, после получения [DE] при проверке "пилотирования", отмените [DE] и добавьте [SU], равное рангу "Хладнокровия".</Description>
-    <Source Page="31">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="31">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
     <ForceTalent>true</ForceTalent>
@@ -6267,7 +6267,7 @@
     <Name>Подавлящий огонь</Name>
     <Description>Персонаж и каждый союзник в пределах короткой дистанции могут потратить [AD] на своих неудачных проверках боя, чтобы наложить на цель 1 "усталость" за каждый ранг "Подавляющего огня". Каждый персонаж может активировать этот эффект только один раз в раунд.</Description>
     <Sources>
-      <Source Page="31">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+      <Source Page="31">Дополнение: Хранители мира (Keeping the Peace)</Source>
       <Source Page="35">Дополнение: Закаленные в битве (Forged in Battle)</Source>
       <Source Page="43">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     </Sources>
@@ -6395,7 +6395,7 @@
     <Description>При проверке навыков "Знания" персонаж может потратить 1 очко "Судьбы", чтобы заменить требуемый навык на "Знание (преступный мир)" или "Уличная интуиция".</Description>
     <Sources>
       <Source Page="33">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
-      <Source Page="31">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+      <Source Page="31">Дополнение: Вечный дозор (Endless Vigil)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActivationValue>taIncidental</ActivationValue>
@@ -6667,7 +6667,7 @@
     <Key>TUNEDTHRUST</Key>
     <Name>Настроенные маневровые двигатели</Name>
     <Description>Увеличивает управляемость "Сигнатурного транспорта" на 1 ранг за каждый ранг "Настроенных маневровых двигателей".</Description>
-    <Source Page="33">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="33">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Ranked>true</Ranked>
     <ActivationValue>taPassive</ActivationValue>
@@ -6757,7 +6757,7 @@
     <Description>При проверке на "обман" персонаж автоматически добавляет [FA] к проверке, равное рангу "Бдительности".</Description>
     <Sources>
       <Source Page="33">Дополнение: Далекие горизонты (Far Horizons)</Source>
-      <Source Page="31">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+      <Source Page="31">Дополнение: Вечный дозор (Endless Vigil)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <ActivationValue>taPassive</ActivationValue>

@@ -679,7 +679,7 @@ The Player Character's family believes in the cause of the Alliance. Many of the
  The character derives pleasure through destruction. He seldom passes up a chance to cause conflict and confusion in his work, even to the possible detriment of his own well-being. Extreme examples of this may even be forms of mental illness.</Description>
     <Sources>
       <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
-      <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
+      <Source Page="34">Дополнение: Держитесь цели! (Stay on Target)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
@@ -691,7 +691,7 @@ The Player Character's family believes in the cause of the Alliance. Many of the
 The character owes someone else, and owes them big. His life is in someone else's hands, and this debt requires him to fight. He may or may not enjoy this. but this motivation is so strong that it overrides his other desires.</Description>
     <Sources>
       <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
-      <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
+      <Source Page="34">Дополнение: Держитесь цели! (Stay on Target)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
@@ -702,7 +702,7 @@ The character owes someone else, and owes them big. His life is in someone else'
       [H4]Squadron[h4]
 An Ace can never truly know his brothers-in-arms until he serves with them in battle. While the character
 may be a bit cold and distant toward non-veterans, he is a true and loyal friend to anyone that has fought at his side.</Description>
-    <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="34">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -711,7 +711,7 @@ may be a bit cold and distant toward non-veterans, he is a true and loyal friend
     <Description>
       [H4]Professional[h4]
 Simply put, violence is this character's business, and that business is never in short supply. The character knows no other way to make his way in the galaxy. and thus treats his lethal work as any other job.</Description>
-    <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="34">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -722,7 +722,7 @@ Simply put, violence is this character's business, and that business is never in
 Be the best; that's the creed by which this character lives. In this case, he strives to be the best
 combatant. He wants to be the last one standing on the field of battle, the consummate warrior. He is willing to do
 whatever it takes to accomplish this.</Description>
-    <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="34">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -731,7 +731,7 @@ whatever it takes to accomplish this.</Description>
     <Description>
       [H4]Retirement[h4]
 The character has long since lost his lust for battle, and fights not because he loves the violence, but because he is very close to being able to safely retire. This could represent awaiting the end of an enlistment, accumulating credits to pay off a debt, repaying a favor, or awaiting an opportunity to clear his name before he gives up his life of violence.</Description>
-    <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="34">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -742,7 +742,7 @@ The character has long since lost his lust for battle, and fights not because he
 The character is driven to conquer whatever and whomever he comes across. If they do not submit. he is more than willing to employ force against them.</Description>
     <Sources>
       <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
-      <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
+      <Source Page="34">Дополнение: Держитесь цели! (Stay on Target)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
@@ -772,7 +772,7 @@ Simply put, violence is this character's business, and that business is never in
 The character holds true to a code of honor in warfare. This code could be an ancient tradition of one of the myriad civilizations in the galaxy or it could be his own personal beliefs. Whatever life case, his honor depends on following these tenets, even when it may be inconvenient.</Description>
     <Sources>
       <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
-      <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
+      <Source Page="34">Дополнение: Держитесь цели! (Stay on Target)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
@@ -793,7 +793,7 @@ Be the best: that's the creed by which this character lives. In this case, he st
 The character is driven by one of the oldest and most primal causes in the Galaxy—the desire to avenge some real or perceived wrong the character has suffered. The character's hunger for vengeance may be justified or not. but it is a cold, heartless master that can drive the character to obsession.</Description>
     <Sources>
       <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
-      <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
+      <Source Page="34">Дополнение: Держитесь цели! (Stay on Target)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
@@ -814,7 +814,7 @@ The character works as a mercenary not because he loves the violence, but becaus
 Excitement, adventure; the character loves every bit of it. He doesn't fight for money, revenge, or a thirst for blood. He fights because he can't get enough of the incredible thrill of risking his life and coming out on top.</Description>
     <Sources>
       <Source Page="34">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
-      <Source Page="34">Дополнение: Все по плану (Stay on Target)</Source>
+      <Source Page="34">Дополнение: Держитесь цели! (Stay on Target)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
@@ -1522,7 +1522,7 @@ The best items are the ones that perform their functions in a basic manner, and 
     <Description>
       [H4]Disenfranchisement[h4]
 Beyond just the loss of voting rights, this can also mean the loss of other essential rights. Sentinels fighting this Injustice seek to reinstate such losses through diplomatic, legal or even illicit and violent means.</Description>
-    <Source Page="32">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="32">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1531,7 +1531,7 @@ Beyond just the loss of voting rights, this can also mean the loss of other esse
     <Description>
       [H4]Violence[h4]
 Warfare is but one type of violent Injustice. Gang warfare, armed conflicts between authorities and criminal elements or resistance groups, or terrorist attacks can turn a vibrant community into a place of despair and horror.</Description>
-    <Source Page="32">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="32">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1540,7 +1540,7 @@ Warfare is but one type of violent Injustice. Gang warfare, armed conflicts betw
     <Description>
       [H4]Displacement[h4]
 Without a home or a homeworld, a species not only loses resources but also the loss of identity. Even those who have an economic buffer might find themselves in a bureaucratic limbo with no legal status.</Description>
-    <Source Page="32">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="32">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1549,7 +1549,7 @@ Without a home or a homeworld, a species not only loses resources but also the l
     <Description>
       [H4]Hunger[h4]
 Considered the most basic Injustice, the denial of food has made civilizations collapse. Sentinels often find a wide range of complex obstacles in solving this problem—apathy, poverty, logistics, and institutional stubbornness.</Description>
-    <Source Page="32">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="32">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1558,7 +1558,7 @@ Considered the most basic Injustice, the denial of food has made civilizations c
     <Description>
       [H4]Illness[h4]
 Illness can devastate communities and finding a cure requires uncovering and understanding the root causes. Sentinels split their time healing the sick, investigating causes and preventing others from simply removing the victims.</Description>
-    <Source Page="32">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="32">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1567,7 +1567,7 @@ Illness can devastate communities and finding a cure requires uncovering and und
     <Description>
       [H4]Imprisonment[h4]
 A just society isolates a troubled individual for rehabilitation and community protection, while an unjust one imprisons based on prejudice or a list for power. Sentinels bettling unjust imprisonment often find themselves fighting against corrupt police forces and legal system personnel, especially with a planet aligned with the Empire.</Description>
-    <Source Page="32">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="32">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1576,7 +1576,7 @@ A just society isolates a troubled individual for rehabilitation and community p
     <Description>
       [H4]Oppression[h4]
 Similar to Disenfranchisement, this Injustice sees one group using culture, law or violence to abuse others, usually a minority. Sentinels spend as much time fighting the oppressors as they do protecting the oppressed.</Description>
-    <Source Page="32">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="32">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1585,7 +1585,7 @@ Similar to Disenfranchisement, this Injustice sees one group using culture, law 
     <Description>
       [H4]Poverty[h4]
 Money makes modern civilization work. A lack of money results in not only an inability to participate in modern society but also a dearth in access to resources that help a person earn an income in the first place. Money may not buy happiness, but the lack of money guarantees misery and can lead to crime.</Description>
-    <Source Page="32">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="32">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1594,7 +1594,7 @@ Money makes modern civilization work. A lack of money results in not only an ina
     <Description>
       [H4]Prejudice[h4]
 Sentinels fighting prejudice often operate as street-level diplomats, confronting individuals about their acts and stopping violence as it occurs. Prejudice is usually personal and ingrained. Sentinels might find themselves arguing with bigots completely unaware or in denial of their bigotry.</Description>
-    <Source Page="32">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="32">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1603,7 +1603,7 @@ Sentinels fighting prejudice often operate as street-level diplomats, confrontin
     <Description>
       [H4]Slavery[h4]
 The responsibility for slavery rests not only on the shoulders of the slavers, but on the societies and industries that benefit from their labor. This Motivation can also include manumission and droid rights.</Description>
-    <Source Page="32">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="32">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1990,7 +1990,7 @@ What is the nature of evil? The character seeks to truly understand the Force’
     <Description>
       [H4]Balance of the Force[h4]
 [P]It is said by some that the Force is out of balance, though the matter of what balance in the Force would look like has challenged its students since time immemorial. Still, a great darkness festers at the heart of the Empire, and all who know its oppression can feel its wicked core. As great an effort as it might entail to restore and maintain the very energy of the cosmos, the character has taken an oath to see the cosmic balance of the galaxy set right.</Description>
-    <Source Page="33">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="33">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -1999,7 +1999,7 @@ What is the nature of evil? The character seeks to truly understand the Force’
     <Description>
       [H4]Departed[h4]
 [P]The character has lost someone, or perhaps too many someones, and carries on in that person's honor. Perhaps the dead were family, friends, or comrades-in-arms. Regardless of the specifics of their lives and deaths, they persist in the principles that guide this character. Questions of what the departed would want weigh heavily on this character's mind an help to form the character's moral compass.</Description>
-    <Source Page="33">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="33">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2008,7 +2008,7 @@ What is the nature of evil? The character seeks to truly understand the Force’
     <Description>
       [H4]Homeland[h4]
 [P]The character swore to protect a certain place or its people at any cost. Such a vow may be to a single family in that place or the community at large. Perhaps the character left on a journey to find a way to save this place from a looming threat, or failed to uphold an oath and it was destroyed. The character might even have left to keep it safe, knowing it could never be secure while a Force sensitive resided there. This home remains foremost in the character's thoughts, no matter the vast sea of stars that separates the two.</Description>
-    <Source Page="33">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="33">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2017,7 +2017,7 @@ What is the nature of evil? The character seeks to truly understand the Force’
     <Description>
       [H4]Justice[h4]
 The character is dedicated to making sure no good deed goes unrewarded, and no bad one unpunished. Whether the character has a strict code of honor or simply uses an innate sense of right or wrong as a guide to the righteous path, the character is deeply committed to the very idea of justice and lets nothing stand in the way.</Description>
-    <Source Page="33">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="33">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2026,7 +2026,7 @@ The character is dedicated to making sure no good deed goes unrewarded, and no b
     <Description>
       [H4]Artistic Legacy[h4]
 [P]Somewhere out there is an art, philosophy, or collection of artifacts that the character holds in esteem without compare. The character has sworn to prioritize the collection (or dissemination) of that art, protecting its integrity and discovering any knowledge of it as a duty to civilization itself. While the art could vary from a form of swordsmanship to a mode of thought to an actual, physical collection of texts or relics, the importance it holds to the character is paramount.</Description>
-    <Source Page="33">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="33">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2035,7 +2035,7 @@ The character is dedicated to making sure no good deed goes unrewarded, and no b
     <Description>
       [H4]Life Itself[h4]
 [P]This character believes all life is sacred, and fights to prevent any unnecessary loss of life. Perhaps this character once slew enemies indiscriminately but has taken an oath to never kill again, or maybe the character is personally willing to shed blood, deeming it necessary to sacrifice the few to save the many. Whether or not this character personally kills other sentient beings, preservation of life is always the top priority. </Description>
-    <Source Page="33">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="33">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2044,7 +2044,7 @@ The character is dedicated to making sure no good deed goes unrewarded, and no b
     <Description>
       [H4]Love[h4]
 Whether in a romantic, platonic, or filial sense, this character loves another being and has pledged to champion that individual's causes. Above all else, the character seeks to assure the protection, approval and well-being of this chosen love. Whether or not this person reciprocates the character's feelings is, or course, another matter. Conflicts in how the two view their relationship might be the source of considerable emotional turmoil for either or both of the characters.</Description>
-    <Source Page="33">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="33">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2053,7 +2053,7 @@ Whether in a romantic, platonic, or filial sense, this character loves another b
     <Description>
       [H4]The Republic[h4]
 The Republic may be long dead in terms of its meaningful influence on the galaxy, but the character is loyal to the ideals it once embodied. Seeing the Empire for the illegitimate usurpation that it is, the character wishes to restore the Republic to its former glory, or at least let it rest in peace. Until the Empire lies in ash and the rightful rule of the galaxy is restored to its people in the form of a reborn Republic, this character's oath is a compulsion to struggle on, no matter the enemies arrayed against the cause.      </Description>
-    <Source Page="33">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="33">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2062,7 +2062,7 @@ The Republic may be long dead in terms of its meaningful influence on the galaxy
     <Description>
       [H4]Species[h4]
 [P]The character has sworn to further the success of a given species among the many strange and mundane sentient beings in the galaxy. The character might believe in a future of this species' ascendancy, or might simply wish to see it protected from external threats. Whatever the case, the character's commitment is powerful.</Description>
-    <Source Page="33">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="33">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
   <SpecificMotivation>
@@ -2071,7 +2071,7 @@ The Republic may be long dead in terms of its meaningful influence on the galaxy
     <Description>
       [H4]Ward[h4]
 [P]The character is duty-bound to protect someone until a goal is fulfilled or until one of the two dies. This oath might stem from a cultural obligation, a childhood friendship, a blood relationship, or perhaps a life debt to this ward for past salvation - the kind that can never be repaid in full. The character will not rest in the defense of this chosen companion, and woe to anyone who threatens this person's safety.</Description>
-    <Source Page="33">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="33">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
   </SpecificMotivation>
 

@@ -361,7 +361,7 @@
     <Key>FATDUELBALANCE</Key>
     <Name>Космический баланс</Name>
     <Description>Если персонаж получает "критическое ранение", пока активна "Судьбоносная дуэль", перебросьте 1 очко "Судьбы" темной стороны на очко "Судьбы" светлой стороны.</Description>
-    <Source Page="35">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="35">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Fated Duel</SigAbility>
   </SigAbilityNode>
@@ -369,7 +369,7 @@
     <Key>FATDUELBASIC</Key>
     <Name>Судьбоносная дуэль (Способность)</Name>
     <Description>Один раз за игровую сессию, во время боевого столкновения, персонаж может потратить 2 очка "Судьбы" и сделать [B]Сложную ([DI][DI][DI]) проверку "Выдержки"[b], чтобы бросить вызов другому персонажу. Если проверка пройдена, оба персонажа вступают в дуэль на 3 раунда. В течение всего поединка оба дуэлянта могут наносить атаки только друг другу, и никакие другие персонажи не могут наносить атаки дуэлянтам (или вмешиваться иным образом).</Description>
-    <Source Page="35">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="35">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Fated Duel</SigAbility>
   </SigAbilityNode>
@@ -377,7 +377,7 @@
     <Key>FATDUELDURATION</Key>
     <Name>Длительность</Name>
     <Description>Судьбоносная дуэль длится на 1 раунд дольше.</Description>
-    <Source Page="35">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="35">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Fated Duel</SigAbility>
   </SigAbilityNode>
@@ -385,7 +385,7 @@
     <Key>FATDUELINSPIRE</Key>
     <Name>Вдохновение</Name>
     <Description>Добавляет [BO] к проверкам, сделанным союзниками, пока активна "Судьбоносная дуэль".</Description>
-    <Source Page="35">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="35">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Fated Duel</SigAbility>
   </SigAbilityNode>
@@ -393,7 +393,7 @@
     <Key>FATDUELREDUCEDIFF</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Уменьшите сложность проверки навыков для активации "Судьбоносной дуэли" до [B]Средней ([DI][DI])[b].</Description>
-    <Source Page="35">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="35">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Fated Duel</SigAbility>
   </SigAbilityNode>
@@ -401,7 +401,7 @@
     <Key>FATDUELSTANDFIRM</Key>
     <Name>Твердая стойка</Name>
     <Description>Увеличивает порог "ран" на +4, пока активна "Судьбоносная дуэль".</Description>
-    <Source Page="35">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="35">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Fated Duel</SigAbility>
   </SigAbilityNode>
@@ -777,7 +777,7 @@
     <Key>MYCITYBASIC</Key>
     <Name>Мой город (Способность)</Name>
     <Description>Один раз за игровую сессию, находясь в городской среде, персонаж может потратить 2 очка "Судьбы" и совершить [B]Сложную ([DI][DI][DI]) проверку "Знания (Центральные миры)"[b] или [B]"Знания (Внешнее кольцо)"[b]. В случае успеха, в течение оставшейся игровой сессии персонаж может получить 2 "усталости", чтобы вспомнить или узнать местоположение любого человека, группы или учреждения в этом городе, а также любую соответствующую информацию.</Description>
-    <Source Page="34">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="34">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>My City</SigAbility>
   </SigAbilityNode>
@@ -785,7 +785,7 @@
     <Key>MYCITYBOOSTSKILL1</Key>
     <Name>Улучшение навыка: Уличная интуиция и Выживание</Name>
     <Description>Когда персонаж делает проверку навыков, пока активен "Мой город", он добавляет [BO] к проверкам "Уличная интуиция" и "Выживание".</Description>
-    <Source Page="34">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="34">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>My City</SigAbility>
   </SigAbilityNode>
@@ -793,7 +793,7 @@
     <Key>MYCITYBOOSTSKILL2</Key>
     <Name>Улучшение навыка: Жульничество и Скрытность</Name>
     <Description>Когда персонаж делает проверку навыков, пока активен "Мой город", он добавляет [BO] к проверкам "Жульничество" и "Скрытность".</Description>
-    <Source Page="34">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="34">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>My City</SigAbility>
   </SigAbilityNode>
@@ -801,7 +801,7 @@
     <Key>MYCITYCHANGESKILL1</Key>
     <Name>Изменить навык: Уличная интуиция</Name>
     <Description>Активировав "Мой город", персонаж может сделать проверку "Уличной интуиции" вместо проверки "Знания (Центральные миры/Внешнее кольцо)".</Description>
-    <Source Page="34">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="34">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>My City</SigAbility>
   </SigAbilityNode>
@@ -809,7 +809,7 @@
     <Key>MYCITYCHANGESKILL2</Key>
     <Name>Изменить навык: Преступный мир</Name>
     <Description>Когда активируется "Мой город", персонаж может сделать проверку "Знания (Преступный мир)" вместо проверки "Знания (Центральные миры/Внешнее кольцо)".</Description>
-    <Source Page="34">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="34">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>My City</SigAbility>
   </SigAbilityNode>
@@ -817,7 +817,7 @@
     <Key>MYCITYCOVERUPGRADE</Key>
     <Name>Улучшение оболочки</Name>
     <Description>Пока "Мой город" активен и персонаж находится в выбранном городе, каждый раз, когда персонаж находится в укрытии, он увеличивает свою "защиту дальнего боя" на 1.</Description>
-    <Source Page="34">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="34">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>My City</SigAbility>
   </SigAbilityNode>
@@ -825,7 +825,7 @@
     <Key>MYCITYDESTINY</Key>
     <Name>Судьба</Name>
     <Description>Чтобы активировать "Мой город", персонажу нужно потратить всего 1 очко "Судьбы" вместо обычных 2.</Description>
-    <Source Page="34">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="34">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>My City</SigAbility>
   </SigAbilityNode>
@@ -833,7 +833,7 @@
     <Key>MYCITYDOWNGRADE</Key>
     <Name>Понижение</Name>
     <Description>Пока "Мой город" активен и персонаж находится в выбранном городе, он может один раз получить 2 "усталости", чтобы понизить сложность любой проверки "Скрытности" на 1.</Description>
-    <Source Page="34">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="34">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>My City</SigAbility>
   </SigAbilityNode>
@@ -841,7 +841,7 @@
     <Key>MYCITYREDUCEDIFFICULTY</Key>
     <Name>Уменьшение сложности</Name>
     <Description>Сложность проверки навыка для активации "Мой город" теперь [B]Средняя ([DI][DI])[b] вместо [B]Сложная ([DI][DI][DI])[b].</Description>
-    <Source Page="34">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="34">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>My City</SigAbility>
   </SigAbilityNode>
@@ -1105,7 +1105,7 @@
     <Key>THISONEISMINEBASE</Key>
     <Name>Этот мой (Способность)</Name>
     <Description>Один раз за игровую сессию, пилотируя звездолет или транспортное средство, персонаж может потратить 2 очка "Судьбы", чтобы вызвать на бой другой звездолет или транспортное средство с равным силуэтом. В течение 2 раундов оба корабля находятся в состоянии дуэли. На время дуэли оба корабля могут наносить атаки, направленные только друг на друга, и никакие другие звездолеты или персонажи не могут наносить атаки на дуэлирующие корабли.</Description>
-    <Source Page="36">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="36">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>This One is Mine</SigAbility>
@@ -1115,7 +1115,7 @@
     <Key>THISONEISMINEDEST</Key>
     <Name>Судьба</Name>
     <Description>"Этот мой" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="36">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="36">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>This One is Mine</SigAbility>
@@ -1125,7 +1125,7 @@
     <Key>THISONEISMINEDUR</Key>
     <Name>Длительность</Name>
     <Description>"Этот мой" длится на 1 раунд дольше.</Description>
-    <Source Page="36">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="36">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>This One is Mine</SigAbility>
@@ -1135,7 +1135,7 @@
     <Key>THISONEISMINEEVA</Key>
     <Name>Уклонение</Name>
     <Description>Повышайте сложность всех входящих атак на 1, пока активен навык "Этот мой".</Description>
-    <Source Page="36">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="36">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>This One is Mine</SigAbility>
@@ -1145,7 +1145,7 @@
     <Key>THISONEISMINEFREQ</Key>
     <Name>Частота</Name>
     <Description>"Этот мой" можно использовать дважды за игровую сессию.</Description>
-    <Source Page="36">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="36">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>This One is Mine</SigAbility>
@@ -1155,7 +1155,7 @@
     <Key>THISONEISMINESIL</Key>
     <Name>Изменить силуэт</Name>
     <Description>"Этот мой" может нацеливаться на корабли или транспортные средства с силуэтом на 1 больше или меньше.</Description>
-    <Source Page="36">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="36">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>This One is Mine</SigAbility>
@@ -1726,7 +1726,7 @@
     <Key>UNMATCHEDSURVBASE</Key>
     <Name>Непревзойденная живучесть (Способность)</Name>
     <Description>Один раз за игровую сессию, пилотируя звездолет или транспортное средство с силуэтом 3 или меньше, которое покалечено (имеет "повреждения корпуса", превышающие порог "повреждений корпуса"), персонаж может потратить 2 очка "Судьбы" как свободное действие. Звездолет или транспортное средство действует так, как будто оно не повреждено, в течение следующих 3 раундов, действуя так, как будто "повреждение корпуса" равна порогу "повреждения корпуса".</Description>
-    <Source Page="37">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="37">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
@@ -1736,7 +1736,7 @@
     <Key>UNMATCHEDSURVDEST</Key>
     <Name>Судьба</Name>
     <Description>"Непревзойденная живучесть" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="37">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="37">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
@@ -1746,7 +1746,7 @@
     <Key>UNMATCHEDSURVDUR</Key>
     <Name>Прочность</Name>
     <Description>Уменьшите количество "критических попаданий", получаемых кораблем или транспортным средством, на 10, пока активна "Непревзойденная живучесть".</Description>
-    <Source Page="37">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="37">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
@@ -1756,7 +1756,7 @@
     <Key>UNMATCHEDSURVDURA</Key>
     <Name>Длительность</Name>
     <Description>"Непревзойденная живучесть" длится до конца встречи.</Description>
-    <Source Page="37">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="37">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
@@ -1766,7 +1766,7 @@
     <Key>UNMATCHEDSURVFREQ</Key>
     <Name>Частота</Name>
     <Description>"Непревзойденная живучесть" может быть использована дважды за одну игровую сессию.</Description>
-    <Source Page="37">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="37">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
@@ -1776,7 +1776,7 @@
     <Key>UNMATCHEDSURVREINF</Key>
     <Name>Укрепление</Name>
     <Description>Пока действует "Непревзойденная живучесть", "критический рейтинг" всего оружия, нацеленного на корабль или транспортное средство, считается на 1 больше.</Description>
-    <Source Page="37">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="37">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
@@ -1786,7 +1786,7 @@
     <Key>UNMATCHEDSURVSIL</Key>
     <Name>Изменение силуэта</Name>
     <Description>"Непревзойденная живучесть" действует на корабли и транспортные средства с силуэтом на 1 больше.</Description>
-    <Source Page="37">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="37">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Survivability</SigAbility>
@@ -1852,7 +1852,7 @@
     <Key>UNMATCHEDVIGILANCEALWAYSALERT</Key>
     <Name>Всегда начеку</Name>
     <Description>После активации "Непревзойденной бдительности" персонаж может выбрать для проверки инициативы либо "Хладнокровие", либо "Бдительность".</Description>
-    <Source Page="35">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="35">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
   </SigAbilityNode>
@@ -1860,7 +1860,7 @@
     <Key>UNMATCHEDVIGILANCEBASIC</Key>
     <Name>Непревзойденная бдительность (Способность)</Name>
     <Description>Один раз за игровую сессию в начале структурированного столкновения персонаж может потратить 2 очка "Судьбы". Если персонаж это делает, то определяет порядок инициативы в первом раунде энкаунтера. Персонажи по-прежнему делают проверки для определения инициативы, но эти результаты будут применяться только после окончания действия эффектов "Непревзойденная бдительность".</Description>
-    <Source Page="35">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="35">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
   </SigAbilityNode>
@@ -1868,7 +1868,7 @@
     <Key>UNMATCHEDVIGILANCECOMBATPREPARATION</Key>
     <Name>Боевая подготовка</Name>
     <Description>Когда персонаж активирует "Непревзойденную бдительность", он может ввести «факт» или дополнительный контекст прямо в повествование, как если бы он потратил очко "Судьбы".</Description>
-    <Source Page="35">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="35">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
   </SigAbilityNode>
@@ -1876,7 +1876,7 @@
     <Key>UNMATCHEDVIGILANCECOMBATREADINESS</Key>
     <Name>Боевая готовность</Name>
     <Description>После активации "Непревзойденная бдительность" персонаж может немедленно совершить 1 бесплатный маневр.</Description>
-    <Source Page="35">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="35">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
   </SigAbilityNode>
@@ -1884,7 +1884,7 @@
     <Key>UNMATCHEDVIGILANCEDESTINY</Key>
     <Name>Судьба</Name>
     <Description>Чтобы активировать базовую способность "Непревзойденная бдительность", персонажу нужно потратить всего 1 очко "Судьбы" вместо обычных 2.</Description>
-    <Source Page="35">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="35">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
   </SigAbilityNode>
@@ -1892,7 +1892,7 @@
     <Key>UNMATCHEDVIGILANCEDURATION</Key>
     <Name>Длительность</Name>
     <Description>Порядок инициативы, установленный базовой способностью, длится 1 дополнительный раунд за каждый ранг "Длительность".</Description>
-    <Source Page="35">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="35">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
   </SigAbilityNode>
@@ -1900,7 +1900,7 @@
     <Key>UNMATCHEDVIGILANCEGROUPPREPARATION</Key>
     <Name>Подготовка группы</Name>
     <Description>Все NPC добавляют [SE] к своим боевым проверкам, нацеленным на любого персонажа игрока, который еще не совершил ход в текущем раунде.</Description>
-    <Source Page="35">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="35">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
   </SigAbilityNode>
@@ -1908,7 +1908,7 @@
     <Key>UNMATCHEDVIGILANCEGROUPVIGILANCE</Key>
     <Name>Бдительность группы</Name>
     <Description>Все персонажи игроков добавляют [BO] к своим боевым проверкам, нацеленным на любого NPC, который уже совершил ход в течение текущего раунда.</Description>
-    <Source Page="35">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="35">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Vigilance</SigAbility>
   </SigAbilityNode>
@@ -1997,7 +1997,7 @@
     <Key>UNMATCHHEROBASIC</Key>
     <Name>Непревзойденный героизм (Способность)</Name>
     <Description>[P]Один раз за игровую сессию, как свободное действие, персонаж может потратить 2 очка "Судьбы". В течение следующих 2 раундов, когда союзник в пределах ближней дистанции становится целью успешной боевой проверки, персонаж может получить 2 "усталости", чтобы переместиться в зону действия этого союзника и стать целью этой боевой проверки вместо него.</Description>
-    <Source Page="37">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="37">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Heroism</SigAbility>
   </SigAbilityNode>
@@ -2005,7 +2005,7 @@
     <Key>UNMATCHHERODESTINY</Key>
     <Name>Судьба</Name>
     <Description>[P]"Непревзойденный героизм" стоит 1 очко "Судьбы" вместо 2.</Description>
-    <Source Page="37">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="37">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Heroism</SigAbility>
   </SigAbilityNode>
@@ -2013,7 +2013,7 @@
     <Key>UNMATCHHERODURATION</Key>
     <Name>Длительность</Name>
     <Description>"Непревзойденный героизм" длится на 1 раунд дольше.</Description>
-    <Source Page="37">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="37">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Heroism</SigAbility>
   </SigAbilityNode>
@@ -2021,7 +2021,7 @@
     <Key>UNMATCHHEROENDURANCE</Key>
     <Name>Выносливость</Name>
     <Description>[P]Уменьшите стоимость "усталости", чтобы стать целью атаки с "Непревзойденным героизмом", на 1.</Description>
-    <Source Page="37">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="37">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Heroism</SigAbility>
   </SigAbilityNode>
@@ -2029,7 +2029,7 @@
     <Key>UNMATCHHEROFREQUENCY</Key>
     <Name>Частота</Name>
     <Description>"Непревзойденный героизм" может быть использован дважды за одну игровую сессию.</Description>
-    <Source Page="37">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="37">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Heroism</SigAbility>
   </SigAbilityNode>
@@ -2037,7 +2037,7 @@
     <Key>UNMATCHHERORANGE</Key>
     <Name>Увеличение диапазона</Name>
     <Description>Увеличьте дальность, на которой "Непревзойденный героизм" может достигать союзников, до средней.</Description>
-    <Source Page="37">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="37">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <SigAbility>Unmatched Heroism</SigAbility>
   </SigAbilityNode>

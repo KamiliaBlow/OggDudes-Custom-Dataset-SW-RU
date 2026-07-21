@@ -6,7 +6,7 @@
     <Description>
       [H4]Отчуждение (Слабая сторона)[h4]
 Когда вокруг слишком много людей и проблем, персонаж чувствует себя подавленным и замыкается в себе. Город продолжает жить своей жизнью, не обращая внимания ни на кого в отдельности. Почему бы просто не позволить времени решить эту проблему?</Description>
-    <Source Page="17">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="17">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -22,7 +22,7 @@
     <WeakKey>GREED</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey>IMPATIENCE</WeakKey>
       </MoralityPair>
       <MoralityPair>
@@ -30,7 +30,7 @@
         <WeakKey>COLDHEART</WeakKey>
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -112,11 +112,11 @@
     <WeakKey>OBSTINACY</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -145,7 +145,7 @@
     <WeakKey>ANGER</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey>RECKLESSNESS</WeakKey>
       </MoralityPair>
       <MoralityPair>
@@ -153,7 +153,7 @@
         <WeakKey>RECKLESSNESS</WeakKey>
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey>DEFIANCE</WeakKey>
       </MoralityPair>
       <MoralityPair>
@@ -182,7 +182,7 @@
     <WeakKey>CONFORMITY</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -190,7 +190,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -211,7 +211,7 @@
     <WeakKey>FEAR</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey>INDECISION</WeakKey>
       </MoralityPair>
       <MoralityPair>
@@ -240,7 +240,7 @@
     <WeakKey>EGOISM</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -248,7 +248,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -273,7 +273,7 @@
     <WeakKey>MARTYR</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -281,7 +281,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -306,7 +306,7 @@
     <WeakKey>CONFUSION</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -314,7 +314,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -339,7 +339,7 @@
     <WeakKey>SOPH</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -347,7 +347,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -417,7 +417,7 @@
     <Description>
       [H4]Осуждение (Слабая сторона)[h4]
 Персонаж придерживается таких стандартов, которые не под силу выдержать никому. Это включает в себя и осуждение самого себя, а также наказание за мнимые или реальные проступки.</Description>
-    <Source Page="17">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="17">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -443,7 +443,7 @@
     <WeakKey>ARROGANCE</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -451,7 +451,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -492,7 +492,7 @@
     <WeakKey>HESITANCY</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -500,7 +500,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -515,7 +515,7 @@
     <Description>
       [H4]Постоянство (Сильная сторона)[h4]
 [P]На этого персонажа всегда можно положиться: он будет выполнять задачи одним и тем же проверенным способом каждый раз. Будь то утренняя чашка кафа или плановая проверка безопасности, он пунктуален и надежен, и ни странные обстоятельства, ни невезение не ослабят его приверженности делу.</Description>
-    <Source Page="17">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="17">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>OBSTINATENESS</WeakKey>
@@ -525,7 +525,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -554,7 +554,7 @@
     <WeakKey>OBSTINACY</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -562,7 +562,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -593,12 +593,12 @@
     <WeakKey>OBSESSION</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey>
         </WeakKey>
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -617,7 +617,7 @@
     <Description>
       [H4]Самоотдача (Сильная сторона)[h4]
 [P]Персонаж никогда не делает что-либо наполовину. Он доводит любую взятую на себя ответственность до конца и вкладывает все свои силы во всё, за что бы он ни взялся.</Description>
-    <Source Page="17">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="17">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>OBSESSION</WeakKey>
@@ -627,7 +627,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -646,7 +646,7 @@
     <Description>
       [H4]Непокорность (Слабая сторона)[h4]
 Персонаж принимает непокорность за храбрость. Это лишь создает напряженность и проблемы для окружающих, порождая при этом ложное чувство личного удовлетворения.</Description>
-    <Source Page="17">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="17">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -692,7 +692,7 @@
     <WeakKey>OBSTINATENESS</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey>INTOLERANCE</WeakKey>
       </MoralityPair>
       <MoralityPair>
@@ -700,7 +700,7 @@
         <WeakKey>CLOSEDMIND</WeakKey>
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -733,7 +733,7 @@
     <Description>
       [H4]Догматичность (Слабая сторона)[h4]
 Под давлением или в состоянии эмоционального выгорания этот персонаж прибегает к жестким догмам, игнорируя контекст ситуации. Чтобы учесть все точки зрения, требуются эмоциональные силы, и иногда на это просто не остается времени.</Description>
-    <Source Page="17">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="17">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -759,12 +759,12 @@
     <WeakKey>VENGEANCE</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey>
         </WeakKey>
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -793,7 +793,7 @@
     <WeakKey>RECKLESSNESS</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey>
         </WeakKey>
       </MoralityPair>
@@ -802,7 +802,7 @@
         <WeakKey>DISARRAY</WeakKey>
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -841,7 +841,7 @@
     <WeakKey>DEMANDING</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -849,7 +849,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -868,13 +868,13 @@
     <Description>
       [H4]Неприхотливость (Сильная сторона)[h4]
 В простой жизни кроется сила, и это касается не только отказа от материальных благ, но и поддержания простоты в отношениях, чтобы не отвлекаться от более важных вещей.</Description>
-    <Source Page="17">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="17">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>CONDEMN</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -911,7 +911,7 @@
     <Description>
       [H4]Замкнутость (Слабая сторона)[h4]
 Персонажа предавали слишком много раз, и он не намерен допустить этого снова. Зачем ожидать от людей лучшего, если это не приносит никакой выгоды?</Description>
-    <Source Page="17">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="17">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -947,7 +947,7 @@
     <WeakKey>VANITY</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -955,7 +955,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -976,7 +976,7 @@
     <WeakKey>WORTHLESSNESS</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -984,7 +984,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1009,7 +1009,7 @@
     <WeakKey>NAIVETY</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1017,7 +1017,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1032,7 +1032,7 @@
     <Description>
       [H4]Нетерпеливость (Слабая сторона)[h4]
 [P]Множество великих дел, которые персонаж стремится совершить, невозможно осуществить за одну жизнь, поэтому он порой идет на компромиссы ради достижения большего. Его потребность в сиюминутных результатах может оказаться саморазрушительной и помешать его долгосрочным целям.      </Description>
-    <Source Page="17">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="17">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -1042,7 +1042,7 @@
     <Description>
       [H4]Нерешительность (Слабая сторона)[h4]
 [P]Стремление быть готовым ко всему означает, что приготовления персонажа становятся обременительными. Столкнувшись с неизвестностью, он может впасть в ступор от неопределенности, пытаясь учесть все возможные варианты развития событий.      </Description>
-    <Source Page="17">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="17">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -1062,7 +1062,7 @@
         <WeakKey>ARROGANCE</WeakKey>
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1085,7 +1085,7 @@
     <Description>
       [H4]Нетерпимость (Слабая сторона)[h4]
 Строгое следование правилам приводит к тому, что персонаж не желает проявлять гибкость, даже когда смягчающие обстоятельства требуют сделать исключение. Его кодекс мешает ему следовать собственным желаниям и, возможно, даже тому, что он сам считает справедливым. </Description>
-    <Source Page="17">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="17">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -1111,7 +1111,7 @@
     <WeakKey>ANTIPATHY</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1119,7 +1119,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1183,7 +1183,7 @@
     <WeakKey>JEALOUSY</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1202,13 +1202,13 @@
     <Description>
       [H4]Гибкость (Сильная сторона)[h4]
 Этот персонаж отличается моральной и этической гибкостью. Он оценивает ситуации и окружающих, исходя из конкретных обстоятельств и руководствуясь благом сообщества, а не строгим сводом законов.</Description>
-    <Source Page="17">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="17">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>DOGMATIC</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1261,7 +1261,7 @@
     <WeakKey>APATHY</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey>NAIVETE</WeakKey>
       </MoralityPair>
       <MoralityPair>
@@ -1269,7 +1269,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey>WEARINESS</WeakKey>
       </MoralityPair>
       <MoralityPair>
@@ -1292,13 +1292,13 @@
     <Description>
       [H4]Скромность (Сильная сторона)[h4]
 Персонаж отказывается от признания заслуг и благодарности. В конце концов, эту работу может выполнить любой. Такое отношение обеспечивает дисциплину и сосредоточенность на поставленной задаче, что, в свою очередь, помогает другим и облегчает их страдания.</Description>
-    <Source Page="17">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="17">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>VANITY</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1321,7 +1321,7 @@
     <Description>
       [H4]Наивность (Слабая сторона)[h4]
 [P]Хитрые противники пользуются щедростью персонажа, испытывая его терпение и пытаясь вытянуть от него как можно больше. Неспособность персонажа распознать фальшивое раскаяние иногда позволяет коварным злодеям уйти безнаказанными.</Description>
-    <Source Page="17">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="17">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -1377,7 +1377,7 @@
     <WeakKey>CONDES</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1385,7 +1385,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1431,7 +1431,7 @@
     <WeakKey>APATHYW</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1439,7 +1439,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1478,13 +1478,13 @@
     <Description>
       [H4]Праведность (Сильная сторона)[h4]
 Персонаж, испытывая гнев, не подавляет его, а использует в качестве стимула для работы. Усиление своих усилий позволяет ему отстаивать интересы тех, кто не может сделать это самостоятельно.</Description>
-    <Source Page="17">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="17">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>SPITE</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1541,7 +1541,7 @@
     <Description>
       [H4]Злоба (Слабая сторона)[h4]
 Персонаж намеренно пытается расстроить или обидеть тех, кто ниже его по положению. Ему легко поддаться этой мелочности, поскольку эти люди заслуживают презрения.</Description>
-    <Source Page="17">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="17">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -1557,7 +1557,7 @@
     <WeakKey>DESPERATION</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1565,7 +1565,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1580,13 +1580,13 @@
     <Description>
       [H4]Доверие (Сильная сторона)[h4]
 Этот персонаж верит в то, что всем следует давать презумпцию невиновности. Благо, которое приносит доверие к другим, укрепляет сообщества и обеспечивает эмоциональную поддержку.</Description>
-    <Source Page="17">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="17">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>GUARDED</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1614,7 +1614,7 @@
       [H4]Тщеславие (Слабая сторона)[h4]
 Персонаж превращает самоуничижение в ложную скромность, принижая себя и ожидая, что окружающие поддержат его самолюбие. При этом может проявиться извращённая пассивно-агрессивная позиция, при которой персонаж требует признания именно за эту скромность.</Description>
     <Sources>
-      <Source Page="17">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+      <Source Page="17">Дополнение: Вечный дозор (Endless Vigil)</Source>
       <Source Page="16">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
@@ -1636,7 +1636,7 @@
     <Description>
       [H4]Усталость (Слабая сторона)[h4]
 Даже святой может выгореть. Дело не в том, что люди не заслуживают помощи или второго шанса. Дело в том, что всегда появляется кто-то ещё. И ещё. И ещё. Вскоре этот поток становится безликим, и даже страдание приобретает абстрактный характер.</Description>
-    <Source Page="17">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="17">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Weakness</Type>
   </Morality>
@@ -1652,7 +1652,7 @@
     <WeakKey>RIGID</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1660,7 +1660,7 @@
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
-        <Name>Дополнение: Бесконечное бдение (Endless Vigil)</Name>
+        <Name>Дополнение: Вечный дозор (Endless Vigil)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>
@@ -1679,13 +1679,13 @@
     <Description>
       [H4]Удивление (Сильная сторона)[h4]
 В городе каждый день приносит новые приключения. Это позволяет персонажу оставаться вовлеченным, постоянно учиться и чувствовать себя живым. Город учит персонажа оставаться открытым для новых впечатлений, ежедневно преподнося ему сюрпризы.</Description>
-    <Source Page="17">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="17">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Strength</Type>
     <WeakKey>ALIENATION</WeakKey>
     <Pairs>
       <MoralityPair>
-        <Name>Дополнение: Поддержание мира (Keeping the Peace)</Name>
+        <Name>Дополнение: Хранители мира (Keeping the Peace)</Name>
         <WeakKey />
       </MoralityPair>
       <MoralityPair>

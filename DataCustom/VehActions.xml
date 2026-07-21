@@ -313,7 +313,7 @@ per success) per encounter. The difficulty of the Mechanics check is determined 
     <Description>Normally, the engines on a starfighter are optimized for speed and maneuverability. As a maneuver, an astromech can reconfigure this balance for a short period of time, routing additional power to the engines from other systems. This is useful when straight-line speed over maneuverability is needed, especially when trying to escape the Empire's fastest ships, or when the engines have suffered damage and the extra speed is needed simply to keep up. While risky, and hard on the ship, this extra boost of speed can make the difference between life and death. When an astromech performs Increase Power, the ship takes 2 system strain, and increases the ship's top speed by 1 for a number of turns equal the astromech's Intellect. The drawback is that this move reduces the craft's handling by 2, and the astromech may not perform a [B]Boot Shields[b] action in the same turn. Pilots should note that this maneuver can be combined with the Full Throttle talent, allowing an X-wing to briefly match the speed of an A-Wing!
 
 [P]Multiple uses of Increase Power on the same ship do not stack.</Description>
-    <Source Page="72">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="72">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaManeuver</ActionTypeValue>
     <PilotOnly>false</PilotOnly>
@@ -333,7 +333,7 @@ per success) per encounter. The difficulty of the Mechanics check is determined 
     <Description>Beyond defense, an astromech may also use the fighter's scanners and targeting systems to perform a target lock. This is especially useful when a shot absolutely matters, with pilots most often reserving the droid's capabilities for missiles or proton torpedoes. To perform this action, the astromech declares a target, making a Computers check with a difficulty determined by comparing the silhouettes of the astromech's ship and the target ship (use [B]Table 7-5: Silhouette Comparison[b] on page 249 of the [B]Age of Rebellion[b] Core Rulebook). As with [B]Watch Your Back![b] above, add [SE] appropriate to the situation, representing the difficulty of prioritizing multiple targets.
 
 [P]A successful Target Lock action provides [BO] on the pilot's Gunnery checks against the declared target as well as one additional [BO] for each [SU][SU] beyond the first. The Target Lock remains in place for one round, plus one additional round per [AD][AD] generated on the check. Any [TH] generated indicates the number of turns an astromech must wait before another attempt at Target Lock may be made.</Description>
-    <Source Page="73">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="73">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaAction</ActionTypeValue>
     <PilotOnly>false</PilotOnly>
@@ -351,7 +351,7 @@ per success) per encounter. The difficulty of the Mechanics check is determined 
     <Key>MECHWATCHBACK</Key>
     <Name>Watch Your Back!</Name>
     <Description>A socketed astromech has direct access to the fighter's scanners and targeting systems, and as such is able to quickly identify threats the pilot may not see. Unlike the pilot, the droid is capable of looking in all directions at once and can warn the pilot of an immediate threat. The astromech performs an [B]Average ([DI][DI]) Computers check[b] to identify and prioritize incoming threats. Each [SU] provides the craft with +1 defense to a single defense zone until the astromech's next turn. One or more [SE] may be added to the check depending on the size and chaos of the dogfight. A single fighter-on-fighter engagement would not add any, while the sheer number of potential threats available in a fleet engagement could add as much as [SE][SE][SE]. </Description>
-    <Source Page="73">Дополнение: Все по плану (Stay on Target)</Source>
+    <Source Page="73">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <ActionTypeValue>vaAction</ActionTypeValue>
     <PilotOnly>false</PilotOnly>
@@ -497,7 +497,7 @@ per success) per encounter. The difficulty of the Mechanics check is determined 
   </VehAction>
   <VehAction>
     <Key>STAY</Key>
-    <Name>Дополнение: Все по плану (Stay on Target)</Name>
+    <Name>Дополнение: Держитесь цели! (Stay on Target)</Name>
     <Description>This reflects a pilot's concentration and his ability to shut out combat-related stresses and distractions to make sure a target is hit or an adversary destroyed. Until the end of the pilot's next turn, all combat checks from the vehicle or vessel executing this maneuver upgrade the Ability dice in their pool once. Unfortunately, while he is concentrating so hard on his target, the pilot blocks out all other threats and is an easier target for opponents. Any combat checks made targeting a ship executing this starship maneuver upgrades the Ability dice in their pool once until the end of the pilot's next round. This starship maneuver is restricted to small vessels like starfighters and patrol boats, and only ships or vehicles of silhouette 4 or lower can Stay on Target.</Description>
     <Sources>
       <Source Page="233">Книга правил: Край Империи (Edge of the Empire)</Source>

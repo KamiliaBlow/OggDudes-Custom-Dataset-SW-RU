@@ -1169,7 +1169,7 @@
     <Name>Манипулирование (Способность)</Name>
     <Description>Пользователь Силы создает компоненты механизмов на молекулярном уровне, что позволяет ему чинить поврежденные механические системы.
 [BR]Пользователю Силы можно потратить [FP], чтобы заставить одно транспортное средство или звездолет, с которым он взаимодействует, восстановить одну "перегрузку системы". Это можно активировать несколько раз.</Description>
-    <Source Page="37">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="37">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
@@ -1177,7 +1177,7 @@
     <Key>MANIPULATECONTROL1</Key>
     <Name>Контроль: Поврежденный предмет</Name>
     <Description>Постоянный эффект: Сделать [FO] одно поврежденное оружие или предмет считается неповрежденным.</Description>
-    <Source Page="37">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="37">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
@@ -1185,7 +1185,7 @@
     <Key>MANIPULATECONTROL2</Key>
     <Name>Контроль: Увеличение перегрузки системы</Name>
     <Description>Постоянный эффект: Сделать [FO] чтобы увеличить порог "системной перегрузки" 1 транспортного средства или звездолета в зоне поражения на 3 за каждый задействованный [FO].</Description>
-    <Source Page="37">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="37">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
@@ -1193,7 +1193,7 @@
     <Key>MANIPULATECONTROL3</Key>
     <Name>Контроль: Механика</Name>
     <Description>Когда пользователь делает проверку навыка "Механики", он может бросить проверку способности силы "манипуляция" как часть пула и может потратить [FP], чтобы получить [SU] или [AD] (на выбор пользователя) при проверке.</Description>
-    <Source Page="37">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="37">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
     <DieModifiers>
@@ -1207,7 +1207,7 @@
     <Key>MANIPULATECONTROL4</Key>
     <Name>Контроль: Исцеление дроида</Name>
     <Description>Можно потратить [FP], чтобы исцелить количество "ран", равное "Интеллекту", у задействованного дроида.</Description>
-    <Source Page="37">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="37">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
@@ -1215,7 +1215,7 @@
     <Key>MANIPULATECONTROL5</Key>
     <Name>Контроль: Нанесение усталости</Name>
     <Description>При выполнении боевой проверки против дроида, корабля, транспортного средства или другой механической конструкции в радиусе действия можно потратить [FP], чтобы наложить на цель 1 дополнительную "усталость" или "перегрузку системы".</Description>
-    <Source Page="37">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="37">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
@@ -1223,7 +1223,7 @@
     <Key>MANIPULATECONTROL6</Key>
     <Name>Контроль: Увеличить прочность корпуса</Name>
     <Description>Постоянный эффект: Совершить [FO]. Увеличивает порог "повреждения корпуса" 1 транспорта или звездолета в зоне поражения на 3 за каждый совершенный [FO].</Description>
-    <Source Page="37">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="37">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
@@ -1231,7 +1231,7 @@
     <Key>MANIPULATECONTROL7</Key>
     <Name>Контроль: Модернизация компьютеров и механики</Name>
     <Description>Постоянный эффект: Совершить [FO]. Повысьте способность проверки "Компьютеров" и "Механики" на 1.</Description>
-    <Source Page="37">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="37">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
@@ -1239,7 +1239,7 @@
     <Key>MANIPULATEMASTERY</Key>
     <Name>Мастерство</Name>
     <Description>При проверке способности силы "Манипулирование" в рамках проверки навыка "Механика" можно потратить [FP][FP], чтобы получить [TR] для проверки.</Description>
-    <Source Page="37">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="37">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
@@ -1247,7 +1247,7 @@
     <Key>MANIPULATERANGE</Key>
     <Name>Дальность</Name>
     <Description>Потратьте [FP], чтобы увеличить дальность действия силы на количество полос дальности, равное количеству купленных рангов "Дальности".</Description>
-    <Source Page="37">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="37">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
@@ -1255,7 +1255,7 @@
     <Key>MANIPULATESTRENGTH</Key>
     <Name>Усиление</Name>
     <Description>При использовании этой силы потратьте [FP], чтобы вызвать у цели 1 дополнительную "усталость" или "системную перегрузку" или исцелить 1 дополнительную "рану" за каждое приобретенный ранг "Усиления".</Description>
-    <Source Page="37">Дополнение: Бесконечное бдение (Endless Vigil)</Source>
+    <Source Page="37">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Power>Manipulate</Power>
   </ForceAbility>
@@ -1669,7 +1669,7 @@
     <Name>Подавление (Способность)</Name>
     <Description>[P]Пользователь Силы может подавлять эффект входящей силы, значительно уменьшая ее воздействие на себя и своих союзников. 
 [P]Пользователь может потратить [FP], чтобы автоматически добавить [FA] к проверкам силы, сделанным против него или любого союзника в пределах короткой дистанции, до конца своего следующего хода.</Description>
-    <Source Page="38">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="38">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Power>Suppress</Power>
   </ForceAbility>
@@ -1677,7 +1677,7 @@
     <Key>SUPPRESSCONTROL1</Key>
     <Name>Контроль: Совершение</Name>
     <Description>[P]Совершите одно или несколько [FO]. Когда противник нацеливает на пользователя силы, свою силу, после того, как противник сгенерирует [FP], уменьшите общее количество сгенерированных [FP] на 1 за каждый совершенный [FP], до минимального значения 0.</Description>
-    <Source Page="38">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="38">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Power>Suppress</Power>
   </ForceAbility>
@@ -1685,7 +1685,7 @@
     <Key>SUPPRESSCONTROL2</Key>
     <Name>Контроль: Судьба</Name>
     <Description>[P]Потратьте 1 очко "Судьбы", чтобы использовать "Подавление" вне очереди один раз за сессию.</Description>
-    <Source Page="38">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="38">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Power>Suppress</Power>
   </ForceAbility>
@@ -1693,7 +1693,7 @@
     <Key>SUPPRESSCONTROL3</Key>
     <Name>Контроль: Усталость</Name>
     <Description>[P]Каждый раз, когда пользователь Силы выбирает персонажа, находящегося под действием "Подавления", с помощью враждебной Силы, если противник использовал [DA] для получения [FP] при проверке, он получает "усталость", равную рангам пользователя в "Выдержке".</Description>
-    <Source Page="38">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="38">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Power>Suppress</Power>
   </ForceAbility>
@@ -1701,7 +1701,7 @@
     <Key>SUPPRESSDURATION</Key>
     <Name>Длительность</Name>
     <Description>[P]Постоянный эффект: Совершите [FO], чтобы поддерживать постоянный эффект Cилы на каждой пораженной цели в радиусе действия.</Description>
-    <Source Page="38">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="38">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Power>Suppress</Power>
   </ForceAbility>
@@ -1709,7 +1709,7 @@
     <Key>SUPPRESSMASTERY</Key>
     <Name>Мастерство</Name>
     <Description>[P]Пользователю можно сделать проверку силы "подавления" вместе с противоположной проверкой "Выдержки" против "Выдержки", направленной на другого пользователя Силы в пределах короткой дистанции. Если пользователь тратит [FP][FP] и добивается успеха в проверке, целевой пользователь Силы немедленно снимает все [FO] и прекращает все текущие эффекты способностей Силы и талантов Силы, которые требовали [FO].</Description>
-    <Source Page="38">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="38">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Power>Suppress</Power>
   </ForceAbility>
@@ -1717,7 +1717,7 @@
     <Key>SUPPRESSRANGE</Key>
     <Name>Дальность</Name>
     <Description>[P]Потратьте [FP], чтобы увеличить дальность действия силы на количество полос дальности, равное количеству купленных рангов "Дальности".</Description>
-    <Source Page="38">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="38">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Power>Suppress</Power>
   </ForceAbility>
@@ -1725,7 +1725,7 @@
     <Key>SUPPRESSSTRENGTH</Key>
     <Name>Усиление</Name>
     <Description>[P]Потратьте [FP], чтобы добавить дополнительные [FA], равные приобретенным рангам "Усиления", к проверкам враждебной "Силы".</Description>
-    <Source Page="38">Дополнение: Поддержание мира (Keeping the Peace)</Source>
+    <Source Page="38">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Power>Suppress</Power>
   </ForceAbility>
