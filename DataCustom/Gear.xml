@@ -5695,7 +5695,7 @@ People associate wealth with authority, and jewelry is an immediate means to dis
     <Name>Explosive Implant</Name>
     <Description>[H3]Explosive Implant[h3]
 Slavers and slaveholders do not always keep slaves locked up in chains while they carry out their duties. Many slavers inject tiny tracking and explosive devices to discourage slaves from running. A corresponding handheld device similar to a droid caller can locate the implanted target with a [B]Simple (-) Computers check[b]. With the press of a button, the implant can explode, instantly killing its victim. [P] A [B]Daunting ([CH][DI][DI][DI]) Medicine[b] or [B]Mechanics check[b] is required to remove the implant. However, [TH] alerts the transmitter of the tampering, and [DE] triggers the device.</Description>
-    <Source Page="60">Модуль приключения: Друзья подобные ему (Friends Like These)</Source>
+    <Source Page="60">Модуль приключения: С такими друзьями... (Friends Like These)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slaver Tech</Type>
     <Categories />
@@ -10565,7 +10565,7 @@ Som models of grappling hook and climbing harness rely on forces other than shee
 These traps for sentient beings subvert repulsorlift technology to create localized patches of extremely high gravity. When targets pass over an active repulsor trap, intense localized gravitational forces rob them of their ability to move. Repulsor traps are unobtrusive, adding [SE][SE] to all Perception checks made to notice these devices.
 [P]
 Any single target who comes within engaged range of an active repulsor trap is ensnared (see [B]Ensnare[b], on page 169 of the [B]Age of Rebellion[b] Core Rulebook) for six rounds.</Description>
-    <Source Page="60">Модуль приключения: Друзья подобные ему (Friends Like These)</Source>
+    <Source Page="60">Модуль приключения: С такими друзьями... (Friends Like These)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slaver Tech</Type>
     <Categories />
@@ -11946,7 +11946,7 @@ end of the encounter, the character suffers 1 strain.</Description>
     <Name>Stun Collar</Name>
     <Description>[H3]Stun Collar[h3]
 Used in spice mines and prisons across the galaxy, stun collars are an effective means of subduing a prisoner that can be set to cause relatively little physical damage. [P]When activated via remove, the stun collar delivers a high-voltage shock to its wearer, inflicting 10 Stun Damage. However, the collar can also be used to lethal effect, dealing 12 damage and inflicting a Critical Injury adding +20 to the roll. [P]A [B]Hard ([DI][DI][DI]) Mechanics check[b] is necessary to remove the collar without electrocuting its wearer.</Description>
-    <Source Page="60">Модуль приключения: Друзья подобные ему (Friends Like These)</Source>
+    <Source Page="60">Модуль приключения: С такими друзьями... (Friends Like These)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slaver Tech</Type>
     <Categories />
@@ -13663,5 +13663,191 @@ When a soldier needs to make a swift and unexpected arrival, a jetpack provides 
     <Encumbrance>3</Encumbrance>
     <Price>5250</Price>
     <Rarity>7</Rarity>
+  </Gear>
+	<Gear>
+    <Key>BACTA_SPRAY_DWV</Key>
+    <Name>Bacta Spray</Name>
+    <Description>
+      [H3]Bacta Spray[h3]
+This spray is a proprietary concoction and dispenser system using the universally available bacta. Priced almost eight times higher than simply purchasing the bacta directly, it is certainly worth the price when you don't have the time to rest your wounds. Rather than provide a full healing process, it was used to temporarily dull the pain and hold the criticality until a medic could reach the patient or proper measures could be taken.
+[P]A character may spend an action, or just under a minute outside of structured play, to apply the spray to a wound. This consumes the full spray and increases the patient's wound threshold by 3 until the end of the next encounter. This did not have a cumulative effect, with further doses applied while the other was still active having no benefit.
+    </Description>
+    <Source Page="41">Дополнение: Да уэрда верда (Dha Werda Verda)</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Medical</Type>
+    <Categories />
+    <Encumbrance>1</Encumbrance>
+    <HP>0</HP>
+    <Price>75</Price>
+    <Rarity>3</Rarity>
+    <Restricted>false</Restricted>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>As an action, apply to a wound to increase patient's wound threshold by 3 until end of next encounter. Not cumulative.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </Gear>
+  <Gear>
+    <Key>DAMPENER_AEROSOL_DWV</Key>
+    <Name>Dampener Aerosol</Name>
+    <Description>
+      [H3]Dampener Aerosol[h3]
+An expensive consumable produced by Rafkind Industrials, the dampener aerosol was sold in a can akin to the old smoke grenades. These containers were compartmentalised in such a way that activating the mistifier would only consume a third of the capacity. When activated, it would produce a thick blue mist which would conceal the user and was specifically designed to interact with blaster energy—absorbing bolts and rendering them considerably less powerful.
+[P]As a maneuver, a character may activate the aerosol to make a cloud which provides heavy concealment to all those within Engaged range. In addition to the normal effects of concealment, blaster weapons have their damage reduced by 3 when shooting into or through the cloud. The cloud disperses after two rounds, or quicker depending on the airflow.
+    </Description>
+    <Source Page="41">Дополнение: Да уэрда верда (Dha Werda Verda)</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Tools/Electronics</Type>
+    <Categories />
+    <Encumbrance>1</Encumbrance>
+    <HP>0</HP>
+    <Price>600</Price>
+    <Rarity>6</Rarity>
+    <Restricted>false</Restricted>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>As a maneuver, create cloud providing heavy concealment to Engaged range. Blaster damage reduced by 3 when shooting into/through cloud. Lasts 2 rounds.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </Gear>
+  <Gear>
+    <Key>EMP_DISRUPTOR_DWV</Key>
+    <Name>EMP Disruptor</Name>
+    <Description>
+      [H3]EMP Disruptor[h3]
+Only the size of a stylus, this miniaturised technology contained a small battery capable of discharging a localised EMP burst that would affect only the closest electronic systems. Originally designed for use by technicians working in tight environments for circuitry repairs, the disruptor has gained popularity among the spec ops groups and nefarious criminal elements of the galaxy to assist in slicing attempts.
+[P]The EMP disruptor may be used once to silently knock out an electronics system (such as an electric lock, camera, silhouette 0 droid) within Engaged range as if by the use of the Ion quality.
+    </Description>
+    <Source Page="41">Дополнение: Да уэрда верда (Dha Werda Verda)</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Slicing Tools</Type>
+    <Categories />
+    <Encumbrance>0</Encumbrance>
+    <HP>0</HP>
+    <Price>50</Price>
+    <Rarity>4</Rarity>
+    <Restricted>false</Restricted>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>May be used once to silently knock out an electronics system within Engaged range as if by Ion quality.</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </Gear>
+  <Gear>
+    <Key>CNS_STIMULATOR_DWV</Key>
+    <Name>CNS Stimulator</Name>
+    <Description>
+      [H3]Field Central Nervous System Emergency Stimulator[h3]
+Only the size of a heavy blaster pistol, this bulky handheld device is a miniaturised version of common medical equipment found in medbays across the galaxy. It delivers a specially calibrated electric shock to the organic body, stimulating the central nervous system and awakening a downed individual. Even entirely untrained individuals can usually revive a squadmate with this device, as long they weren't outright killed. It was developed long before the Clone Wars, and was often given to spec ops groups that lacked dedicated medics or were expected to face continuous combat with little time to address wounds.
+[P]With an action, a character can attempt to revive an incapacitated individual on the field by making a Medicine check with the CNS stimulator. The difficulty is set by the number of Critical Injuries the target is suffering from. Success brings a character to one under their wound or strain threshold (depending on what incapacitated them), healing one wound and strain for each three additional [SU] and [AD] respectively. Failure while using this equipment instead deals another Critical Injury to the target, +10 per [TH] generated.
+    </Description>
+    <Source Page="41">Дополнение: Да уэрда верда (Dha Werda Verda)</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Medical</Type>
+    <Categories />
+    <Encumbrance>2</Encumbrance>
+    <HP>0</HP>
+    <Price>4500</Price>
+    <Rarity>8</Rarity>
+    <Restricted>false</Restricted>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>As an action, make Medicine check to revive incapacitated individual. Difficulty based on Critical Injuries. Success: target at 1 below threshold, heal 1 wound/strain per 3 [SU]/[AD]. Failure: target suffers Critical Injury, +10 per [TH].</MiscDesc>
+      </Mod>
+    </BaseMods>
+  </Gear>
+  <Gear>
+    <Key>PLASMA_DISRUPTOR_DWV</Key>
+    <Name>Plasma Disruptor</Name>
+    <Description>
+      [H3]Phoenix II Plasma Disruptor[h3]
+The Phoenix II was manufactured by the Drever Corporation for breaching through all sorts of locked doors. Initially delivered to planetary customs throughout the galaxy, it was quickly bought up by commando units and then the Republic's SO BDE. As a breaching tool, it was not particularly subtle but was reliable in getting the job done. Some commando units realised that the plasma blast would likely be effective at eliminating droids and improvised the tool as a weapon against them. This eventually led the Drever Corporation to roll out the DN Bolt Caster to fill this newfound niche.
+[P]A Phoenix II can be used to bypass locked doors by using an [B]Average ([DI][DI]) Mechanics check[b], increasing the difficulty as necessary depending on the strength of the door (such as [B]Daunting ([DI][DI][DI][DI])[b] for locked down blast doors). Breaching this way leaves clear evidence of the disruptor's use and completely fries the circuitry and locking mechanisms of the door.
+[P]The plasma disruptor can be used as a weapon using the following profile; (Ranged [Light]; Damage 12; Critical 4; Range [Short]; Burn 1, Disorient 2, Inaccurate 2, Limited Ammo 3). When used against non-droids, the disruptor loses the Burn quality and has its damage halved.
+    </Description>
+    <Source Page="41">Дополнение: Да уэрда верда (Dha Werda Verda)</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Tools/Electronics</Type>
+    <Categories />
+    <Encumbrance>3</Encumbrance>
+    <HP>0</HP>
+    <Price>900</Price>
+    <Rarity>5</Rarity>
+    <Restricted>true</Restricted>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Can bypass locked doors with [B]Average ([DI][DI]) Mechanics check[b]. Leaves evidence and destroys locking mechanisms.</MiscDesc>
+      </Mod>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>Can be used as weapon: (Ranged [Light]; Damage 12; Critical 4; Range [Short]; Burn 1, Disorient 2, Inaccurate 2, Limited Ammo 3). Against non-droids, loses Burn and damage halved.</MiscDesc>
+      </Mod>
+    </BaseMods>
+    <WeaponModifiers>
+      <WeaponModifier>
+        <Unarmed>false</Unarmed>
+        <UnarmedName>Phoenix II Plasma Disruptor</UnarmedName>
+        <SkillKey>RANGLT</SkillKey>
+        <AllSkillKey />
+        <Damage>12</Damage>
+        <DamageAdd>0</DamageAdd>
+        <Crit>4</Crit>
+        <CritSub>0</CritSub>
+        <RangeValue>wrShort</RangeValue>
+        <Qualities>
+          <Quality>
+            <Key>BURN</Key>
+            <Count>1</Count>
+          </Quality>
+          <Quality>
+            <Key>DISORIENT</Key>
+            <Count>2</Count>
+          </Quality>
+          <Quality>
+            <Key>INACCURATE</Key>
+            <Count>2</Count>
+          </Quality>
+          <Quality>
+            <Key>LIMITEDAMMO</Key>
+            <Count>3</Count>
+          </Quality>
+        </Qualities>
+        <BaseMods>
+          <Mod>
+            <Count>1</Count>
+            <MiscDesc>Against non-droids, loses Burn quality and damage is halved.</MiscDesc>
+          </Mod>
+        </BaseMods>
+      </WeaponModifier>
+    </WeaponModifiers>
+  </Gear>
+  <Gear>
+    <Key>REFLECTIVE_PADS_DWV</Key>
+    <Name>Reflective Pads</Name>
+    <Description>
+      [H3]Reflective Pads[h3]
+A high in the sky idea by many sharpshooters who use blasters, these pads have been released by a number of 'market edge' blaster companies. Largely a laughing stock, these small corporate entities swear by these reflective pads and assure buyers that they perfectly and fully reflect a blaster bolt with its full power. The issue is that the degree of skill needed to use them simply makes them appear as useless. With enough reflex and cunning, however, a skilled sniper can put these to good use for firing around cover.
+[P]As an incidental on their turn, the character can make a [B]Hard ([DI][DI][DI]) Perception check[b] and identify a location within Short range to throw the sticky pad to which will allow them to gain a visual on a target as far as Medium range around cover. As a maneuver, on a successful check, they may make an [B]Average ([DI][DI]) Ranged (Light) check[b] to throw the pads to the specified location. With a pad successfully placed, the character can make an attack against their desired target behind cover but increases and upgrades the difficulty of the attack once. Each of the checks using these pads gain a [SE] for each [TH] generated on a prior check, and increase the difficulty of subsequent checks on [TH][TH][TH] or [DE].
+    </Description>
+    <Source Page="41">Дополнение: Да уэрда верда (Dha Werda Verda)</Source>
+    <Custom>DescOnly</Custom>
+    <Type>Tools/Electronics</Type>
+    <Categories />
+    <Encumbrance>0</Encumbrance>
+    <HP>0</HP>
+    <Price>3</Price>
+    <Rarity>7</Rarity>
+    <Restricted>false</Restricted>
+    <BaseMods>
+      <Mod>
+        <Count>1</Count>
+        <MiscDesc>As incidental, make [B]Hard ([DI][DI][DI]) Perception check[b] to identify location within Short range. As maneuver, make [B]Average ([DI][DI]) Ranged (Light) check[b] to throw pad. Can attack target behind cover but increase and upgrade difficulty once. Each [TH] on prior check adds [SE] to subsequent checks. [TH][TH][TH] or [DE] increases difficulty of subsequent checks.</MiscDesc>
+      </Mod>
+    </BaseMods>
   </Gear>
 </Gears>

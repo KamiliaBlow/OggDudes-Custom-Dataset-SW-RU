@@ -12780,4 +12780,231 @@ Many Mandalorian warriors customize their gear to an extraordinary degree. Some 
       </Mod>
     </AddedMods>
   </ItemAttachment>
+	<ItemAttachment>
+		<Key>CUSTOMATTACHSNIPER_DWV</Key>
+		<Name>Режим "Снайпер" (Sniper Mode)</Name>
+		<Description>
+			[H3]Режим "Снайпер"[h3]
+Этот режим включает удлиненный ствол, который заключает бластерные разряды в энергию, подобно арбалетным болтам. Кроме того, прицеливанию помогает простая электромагнитная прицельная система, которая выдвигается из ствола.</Description>
+		<Source Page="31">Дополнение: Да уэрда верда (Dha Werda Verda)</Source>
+		<Custom>DescOnly</Custom>
+		<Type>Weapon</Type>
+		<Price>1000</Price>
+		<Rarity>9</Rarity>
+		<Restricted>true</Restricted>
+		<HP>0</HP>
+		<Encumbrance>1</Encumbrance>
+		<BaseMods>
+			<Mod>
+				<Key>RANGEADD</Key>
+				<Count>2</Count>
+			</Mod>
+			<Mod>
+				<Key>DAMADD</Key>
+				<Count>1</Count>
+			</Mod>
+			<Mod>
+				<Key>PIERCE</Key>
+				<Count>1</Count>
+			</Mod>
+			<Mod>
+				<Key>ACCURATE</Key>
+				<Count>1</Count>
+			</Mod>
+			<Mod>
+				<Key>SLOWFIRING</Key>
+				<Count>1</Count>
+			</Mod>
+			<Mod>
+				<Count>1</Count>
+				<MiscDesc>Добавляет [SE][SE] при использовании этого оружия на Короткой дистанции или Вплотную.</MiscDesc>
+			</Mod>
+		</BaseMods>
+		<AddedMods>
+			<Mod>
+				<Count>1</Count>
+				<MiscDesc>Снижает сложность атак на Дальней или Экстремальной дистанции на 1.</MiscDesc>
+			</Mod>
+			<Mod>
+				<Key>PRECISEAIM</Key>
+				<Count>1</Count>
+			</Mod>
+			<Mod>
+				<Count>1</Count>
+				<MiscDesc>Позволяет видеть живых существ сквозь твердые объекты на расстоянии до Короткой дистанции.</MiscDesc>
+			</Mod>
+		</AddedMods>
+	</ItemAttachment>
+	<ItemAttachment>
+		<Key>CUSTOMATTACHANTIAARMOUR_DWV</Key>
+		<Name>Бронебойный режим (Anti-Armour Mode)</Name>
+		<Description>
+			[H3]Бронебойный режим[h3]
+Этот режим заменяет бластерную систему и перенаправляет энергию в пусковую трубу с полуавтоматическим вращающимся стволом. Снаряды похожи на бронебойные гранаты, но меньше и изготовлены специально для этой оружейной системы. Упаковка из четырех снарядов стоит 50 кредитов и имеет "Нагрузку" 1.</Description>
+		<Source Page="31">Дополнение: Да уэрда верда (Dha Werda Verda)</Source>
+		<Custom>DescOnly</Custom>
+		<Type>Weapon</Type>
+		<Price>1000</Price>
+		<Rarity>9</Rarity>
+		<Restricted>true</Restricted>
+		<HP>0</HP>
+		<Encumbrance>1</Encumbrance>
+		<BaseMods>
+			<Mod>
+				<Key>SETSKILL</Key>
+				<SkillKey>GUNN</SkillKey>
+			</Mod>
+			<Mod>
+				<Key>DAMSET</Key>
+				<Count>10</Count>
+			</Mod>
+			<Mod>
+				<Key>CRITSET</Key>
+				<Count>2</Count>
+			</Mod>
+			<Mod>
+				<Key>RANGESET</Key>
+				<RangeValue>wrShort</RangeValue>
+			</Mod>
+			<Mod>
+				<Key>BLAST</Key>
+				<Count>3</Count>
+			</Mod>
+			<Mod>
+				<Key>BREACH</Key>
+				<Count>1</Count>
+			</Mod>
+			<Mod>
+				<Key>LIMITEDAMMO</Key>
+				<Count>4</Count>
+			</Mod>
+			<Mod>
+				<Key>PREPARE</Key>
+				<Count>1</Count>
+			</Mod>
+		</BaseMods>
+	</ItemAttachment>
+	<ItemAttachment>
+		<Key>PEPLASERMODE_DWV</Key>
+		<Name>Режим PEP-лазера (PEP Laser Mode)</Name>
+		<Description>
+			[H3]Режим PEP-лазера[h3]
+Выпущенный только через год после начала войны, режим импульсного энергетического снаряда состоял в замене системы вывода тибаннского газа на систему, заполненную фторидом дейтерия. Это создавало ошеломляющий лазерный луч, который был менее летальным. Клоны сообщали, что при выстреле это выглядело как светошумовая граната.</Description>
+		<Source Page="31">Дополнение: Да уэрда верда (Dha Werda Verda)</Source>
+		<Custom>DescOnly</Custom>
+		<Type>Weapon</Type>
+		<Price>500</Price>
+		<Rarity>10</Rarity>
+		<Restricted>true</Restricted>
+		<HP>0</HP>
+		<Encumbrance>1</Encumbrance>
+		<BaseMods>
+			<Mod>
+				<Key>SETSKILL</Key>
+				<SkillKey>RANGHVY</SkillKey>
+			</Mod>
+			<Mod>
+				<Key>DAMSET</Key>
+				<Count>12</Count>
+			</Mod>
+			<Mod>
+				<Key>CRITSET</Key>
+				<Count>0</Count>
+			</Mod>
+			<Mod>
+				<Key>RANGESET</Key>
+				<RangeValue>wrShort</RangeValue>
+			</Mod>
+			<Mod>
+				<Key>CONCUSSIVE</Key>
+				<Count>1</Count>
+			</Mod>
+			<Mod>
+				<Key>DISORIENT</Key>
+				<Count>1</Count>
+			</Mod>
+			<Mod>
+				<Key>KNOCKDOWN</Key>
+			</Mod>
+			<Mod>
+				<Key>SLOWFIRING</Key>
+				<Count>1</Count>
+			</Mod>
+			<Mod>
+				<Key>STUNDAMAGE</Key>
+			</Mod>
+		</BaseMods>
+		<AddedMods>
+			<Mod>
+				<Key>CONCUSSIVE</Key>
+				<Count>1</Count>
+			</Mod>
+			<Mod>
+				<Key>DISORIENT</Key>
+				<Count>1</Count>
+			</Mod>
+		</AddedMods>
+	</ItemAttachment>
+	<ItemAttachment>
+		<Key>RAPIDENTRYBREACH_DWV</Key>
+		<Name>Граната для быстрого проникновения (Rapid-Entry Breaching Grenade) (DWV)</Name>
+		<Description>
+			[H3]Граната для быстрого проникновения[h3]
+Разработанная Merr-Sonn на третьем году Войн клонов, эта модификация представленная как несколько миниатюрная и альтернативная версия бронебойного режима. Она отличалась от других режимов тем, что могла присоединяться к базовой модели без изменения режима оружия. Это позволяло пользователю быстро продолжить стрельбу обычной очередью из бластера или даже сделать снайперский выстрел.</Description>
+		<Source Page="32">Дополнение: Да уэрда верда (Dha Werda Verda)</Source>
+		<Custom>DescOnly</Custom>
+		<Type>Weapon</Type>
+		<Price>250</Price>
+		<Rarity>10</Rarity>
+		<Restricted>true</Restricted>
+		<HP>1</HP>
+		<Encumbrance>0</Encumbrance>
+		<BaseMods>
+			<Mod>
+				<Count>1</Count>
+				<MiscDesc>Позволяет оружию стрелять, используя следующий профиль по выбору пользователя: (Дальний бой (тяжелое оружие); Урон 5; Крит 3; Дальность [Короткая]; Breach 2, Limited Ammo 1, Inaccurate 2).</MiscDesc>
+			</Mod>
+		</BaseMods>
+		<AddedMods>
+			<Mod>
+				<Key>BREACH</Key>
+				<Count>1</Count>
+			</Mod>
+			<Mod>
+				<Key>LIMITEDAMMO</Key>
+				<Count>1</Count>
+			</Mod>
+		</AddedMods>
+	</ItemAttachment>
+	<ItemAttachment>
+		<Key>PORTPLASMASHIELD</Key>
+		<Name>Портативный плазменный щит (Portable Plasma Shield)</Name>
+		<Description>
+			[H3]Портативный плазменный щит[h3]
+Тяжелая пехота была довольно уязвима из-за веса своего оружия и необходимости стоять на открытом месте, чтобы получить максимальную отдачу от распыления. Используя технологию, аналогичную той, что применяется в энергетических баклерах или устанавливаемых на наручи брони плазменных щитах, компании-производители бластеров и поставщики послепродажных модификаций разработали эмиттеры, способные устанавливаться на оружие. Из-за удаленности от пользователя он не так эффективен, как удерживаемый щит, а его положение мешает пользователю целиться так же эффективно, поддерживая при этом защитную матрицу. В то время как базовая модель обычно представляет собой лишь небольшой щит размером с торс, его можно расширить для защиты ног и немного увеличить ширину.
+[P]Это приспособление может быть применено к любой винтовке тяжелого класса или оружию размером с репитер.
+[BR][B]Модели включают:[b] Различные модели.</Description>
+		<Source Page="40">Дополнение: Да уэрда верда (Dha Werda Verda)</Source>
+		<Custom>DescOnly</Custom>
+		<Type>Weapon</Type>
+		<CategoryLimit>
+			<Category>Heavy Rifle</Category>
+			<Category>Repeater</Category>
+		</CategoryLimit>
+		<Price>2650</Price>
+		<Rarity>5</Rarity>
+		<HP>2</HP>
+		<BaseMods>
+			<Mod>
+				<Count>1</Count>
+				<MiscDesc>Эмиттер плазменного щита может быть активирован как маневр. Пока активен, оружие получает качество Deflection 1, и персонаж может получить выгоду только от одного маневра Aim.</MiscDesc>
+			</Mod>
+		</BaseMods>
+		<AddedMods>
+			<Mod>
+				<Key>DEFLECTION</Key>
+				<Count>1</Count>
+			</Mod>
+		</AddedMods>
+	</ItemAttachment>
 </ItemAttachments>
