@@ -10119,7 +10119,7 @@ KS-23 - еще один популярный образец баллистиче
 В масштабах галактики, если о Лотале вообще что-то и известно, то лишь то, что это имперский мир, на котором находится производственная линия истребителей TIE компании Sienar Fleet Systems. Некоторые имперцы также знают его как источник повстанческой активности. Но для поколений джедаев эта планета была известна своим скрытым храмом, в котором хранился окутанный Силой источник кайбер-кристаллов, используемых при создании световых мечей.
 [P]Глубоко в недрах храма покоятся останки джедая-родианки Лодаки. Будучи непревзойденным мастером третьей формы дуэли на световых мечах, Соресу, эта родианка была необычной среди джедаев тем, что также посвящала много времени освоению дисциплины, которую редко ассоциируют с Орденом: физике. В частности, Лодаку увлекали материальные свойства различных кристаллов, используемых при создании световых мечей, и она подходила к их изучению с дисциплинированной и рациональной точки зрения. Будучи истинным ученым, она проводила тщательные, контролируемые эксперименты со множеством форм кристаллов, как природных, так и искусственных, сосредотачивая свои усилия на модификациях в виде химических покрытий. Она выдвинула теорию о том, что эффекты различных форм кристаллов, используемых в световых мечах, можно усилить путем манипулирования кристаллической структурой базового кристалла. Хотя для проведения экспериментов она использовала современные проекторы гравитационного поля и микроманипуляторы, считается, что успеха она добилась лишь тогда, когда начала манипулировать кристаллами на молекулярном уровне с помощью Силы.
 [P]Все записи и труды Лодаки были либо уничтожены, либо конфискованы, когда джедайский храм на Корусанте был захвачен после введения Приказа 66. Считается, что сохранился лишь один из модифицированных ею кристаллов, и находится он в ее собственном световом мече, который покоится вместе с ее телом на Лотале. Этот кристалл представлял собой вершину творчества Лодаки, поскольку примененная ею особая модификация по крайней мере частично решала проблему, мучившую владельцев световых мечей на протяжении тысячелетий.
-[P]Световой меч мастера Лодаки — это оружие со следующими характеристиками: (Световой меч; Урон 10; Крит 1; Дальность [Вблизи]; Breach 1, Sunder, Vicious 2).
+[P]Световой меч мастера Лодаки - это оружие со следующими характеристиками: (Световой меч; Урон 10; Крит 1; Дальность [Вблизи]; Breach 1, Sunder, Vicious 2).
 [P]Световой меч мастера Лодаки имеет нагрузку 1 и ноль точек крепления. Атаки, совершаемые этим световым мечом, игнорируют качество "Cortosis". Кроме того, его невозможно отключить при контакте с очищенным кортозисом.</Description>
     <Source Page="112">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
@@ -13359,13 +13359,13 @@ MMD-18 представляет собой увеличенную и более 
   </Weapon>
   <Weapon>
     <Key>NETGUN</Key>
-    <Name>AO14 "Aranea" Net Gun</Name>
+    <Name>Сетемет AO14 "Aranea" (AO14 "Aranea" Net Gun)</Name>
     <Description>
-      [H3]AO14 "Aranea" Net Gun[h3]
+      [H3]Сетемет AO14 "Aranea"[h3]
 
-The Palandrix Personal Protection Gear company has been a leading provider of personal armor, defensive weapons, and crowd-control devices to the Core Worlds for generations. Known primarily for its broad range of nonlethal weapons such as stun batons, sonic stunners, and stun gauntlets, the company also produce a small line of offensive weapons, including the handsome and deadly PowerCane. Among its various product lines are a few devices that don't fall neatly into any one category, possessing both defensive and offensive attributes that make them extremely versatile and effective. One such item is the A014 "Aranea" Net Gun.
+Компания Palandrix Personal Protection Gear на протяжении поколений является ведущим поставщиком персональных доспехов, оборонительного оружия и средств контроля толпы для миров Ядра. Известная в первую очередь своим широким ассортиментом нелетального оружия, такого как оглушающие дубинки, звуковые оглушители и оглушающие перчатки, компания также выпускает небольшую линейку наступательного оружия, включая элегантную и смертоносную силовую трость. Среди ее различных линеек продукции есть несколько устройств, которые не вписываются четко ни в одну категорию, обладая как оборонительными, так и наступательными характеристиками, что делает их чрезвычайно универсальными и эффективными. Одним из таких предметов является сетемет A014 "Aranea".
 
-[P]Heavy and squat, the Aranea is roughly the size of a small blaster carbine with a wide-gauge, rifled barrel, and lightweight polycarbonate furniture. Officially classified as a grenade launcher, the A014 is a single-shot, break-action, breach-loading weapon that fires entangling munitions as opposed to slugs or blaster bolts. The 40mm spin-stabilized ammunition used by the Aranea contains a tightly packed, weighted, finemesh net constructed from synthetic ArachSilk made by CorChemCo. Upon firing, the shells fired by this weapon burst open at a preset range and release the net, the spin of the round causing the net to unfurl and the weights spreading it to its maximum width. With its incredibly strong tensile strength and the ability to tighten around an opponent as he struggles, the Aranea's nets make excellent tools for capturing animal and sentient targets alive. </Description>
+[P]Тяжелый и приземистый, "Aranea" по размеру примерно соответствует небольшому бластерному карабину с широким нарезным стволом и легкой поликарбонатной ложей. Официально классифицируемый как гранатомет, A014 представляет собой однозарядное оружие с переламывающимся стволом и казенным заряжанием, которое стреляет опутывающими боеприпасами, а не пулями или бластерными разрядами. 40-мм стабилизируемые вращением боеприпасы, используемые "Aranea", содержат плотно упакованную, утяжеленную мелкоячеистую сеть, изготовленную из синтетического материала ArachSilk производства CorChemCo. При выстреле снаряды, выпущенные этим оружием, раскрываются на заданной дистанции и высвобождают сеть, при этом вращение снаряда заставляет сеть развернуться, а грузики растягивают ее на максимальную ширину. Благодаря невероятно высокой прочности на разрыв и способности затягиваться вокруг противника по мере его сопротивления, сети «Аранеи» являются превосходным инструментом для захвата животных и разумных целей живьем. </Description>
     <Sources>
       <Source Page="42">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
       <Source Page="41">Дополнение: Дикие духи (Savage Spirits)</Source>
@@ -13396,13 +13396,13 @@ The Palandrix Personal Protection Gear company has been a leading provider of pe
   </Weapon>
   <Weapon>
     <Key>NEURWHIP</Key>
-    <Name>Neuronic Whip</Name>
+    <Name>Нейронный кнут (Neuronic Whip)</Name>
     <Description>
-      [H3]Neuronic Whip[h3]
+      [H3]Нейронный кнут[h3]
 
-Used by slavers across the galaxy to keep their "merchandise" in line, the neuronic whip is a terrible weapon banned on many worlds. A powerful electrical charge runs the length of this cruel wire whip, discharging when it strikes its target and sending painful impulses racing through its victim's nerve cells. The whip emits an ominous low humming sound when charged, exploding like the crack of a gunshot when it comes into contact its unfortunate target.
+Используемый работорговцами по всей галактике для удержания своего "товара" в повиновении, нейронный кнут является ужасным оружием, запрещенным на многих мирах. Мощный электрический заряд проходит по всей длине этого жестокого проволочного кнута, разряжаясь при ударе по цели и заставляя болезненные импульсы пронзать нервные клетки жертвы. При зарядке кнут издает зловещее низкое гудение, а при контакте с несчастной целью разряжается со звуком, напоминающим щелчок выстрела.
 
-[P]This weapon can be used to make melee attacks against targets at up to short range (the difficulty remains [B]Average [DI][DI][b]).</Description>
+[P]Это оружие можно использовать для совершения атак ближнего боя по целям на расстоянии до короткой дистанции (сложность остается [B]Средней [DI][DI][b]).</Description>
     <Source Page="104">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -13434,11 +13434,11 @@ Used by slavers across the galaxy to keep their "merchandise" in line, the neuro
   </Weapon>
   <Weapon>
     <Key>NIGHTBOW</Key>
-    <Name>Nightsister Energy Bow</Name>
+    <Name>Энергетический лук сестер ночи (Nightsister Energy Bow)</Name>
     <Description>
-      [H3]Nightsister Energy Bow[h3]
-The Nightsisters of Dathomir have always been an organization shrouded in secrecy, an organization of warrior-assassins dedicated to the dark side. Their shamans have been said to practice magicks strange to the Jedi and even the Sith, and their warriors are most famous for wielding weapons that are in equal parts strange and deadly. While their order is rumored to have been destroyed at the end of the Clone Wars by those few who ever knew of its existence, artifacts of their culture remain.
-[P]Among these is the energy bows, which uses an energized string to launch a deadly bolt of plasma that can penetrate all but the thickest armor with pinpoint accuracy. The bow string feeds into a grip that protects the user's hands from the crackling plasma, though it is still a treacherous weapon in the hands of an imprecise user. As with a lightsaber, a user who lets the Force guide each bolt can be extraordinarily lethal with this bow, landing miraculous shots and bringing down with almost unmatched ease.</Description>
+      [H3]Энергетический лук сестер ночи[h3]
+Сестры ночи с Датомира всегда были организацией, окутанной тайной, орденом воинов-убийц, преданных темной стороне. Говорят, что их шаманки практикуют чародейство, чуждое как джедаям, так и ситхам, а их воительницы наиболее известны использованием оружия, которое в равной степени странно и смертоносно. Хотя ходят слухи, что их орден был уничтожен в конце Войн клонов теми немногими, кто вообще знал о его существовании, артефакты их культуры все еще остаются.
+[P]Среди них - энергетические луки, которые используют энергетическую тетиву для запуска смертоносного плазменного разряда, способного пробить любую броню, кроме самой толстой, с ювелирной точностью. Тетива лука переходит в рукоять, которая защищает руки пользователя от потрескивающей плазмы, хотя в руках неточного стрелка это оружие все равно остается опасным. Как и в случае со световым мечом, пользователь, позволяющий Силе направлять каждый выстрел, может быть необычайно смертоносным с этим луком, совершая чудесные попадания и поражая цели с почти непревзойденной легкостью.</Description>
     <Source Page="40">Дополнение: Дикие духи (Savage Spirits)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -13476,10 +13476,10 @@ The Nightsisters of Dathomir have always been an organization shrouded in secrec
   </Weapon>
   <Weapon>
     <Key>NIGHTSTINGER</Key>
-    <Name>Nightstinger Blaster Rifle</Name>
-    <Description>[H3]Nightsinger Blaster Rifle[h3]
-Xerrol Corporation's Nightstinger is one of the most unusual blaster rifles in the galaxy. Officially classified as a sporting weapon, the Nightstinger is a powerful, well-balanced rifle ostensibly designed to hunt big, dangerous creatures at long distances. While this is true, the Nightstinger can also, at the flick of a switch, fire completely invisible blaster bolts, an ability that makes these weapons illegal to own in most civilized parts of the galaxy. While Xerrol claims that the invisible bolt setting was designed for night hunting and stalking light-sensitive beasts, the fact that it allows a shooter to remain completely undetected while firing has not been overlooked by the galaxy's assassins and intelligence agents. The power requirements for firing the rifle in stealth mode are quite onerous, however, and its rate of fire becomes significantly reduced from the depletion of its power cells.
-[P]Switching the Nightstinger to stealth mode requires a maneuver. This makes locating the shooter by tracing the blaster bolt or spotting a muzzle blast effectively impossible. It also grants the weapon the Slow Firing 2 quality for the remainder of the encounter.</Description>
+    <Name>Бластерная винтовка "Nightstinger" (Nightstinger Blaster Rifle)</Name>
+    <Description>[H3]Бластерная винтовка "Nightstinger"[h3]
+Бластерная винтовка "Nightstinger" от корпорации Xerrol является одним из самых необычных видов бластерных винтовок в галактике. Официально классифицируемая как спортивное оружие, "Nightstinger" представляет собой мощную, хорошо сбалансированную винтовку, предположительно предназначенную для охоты на крупных и опасных существ на больших дистанциях. Хотя это и правда, "Nightstinger" также может, одним щелчком переключателя, выпускать совершенно невидимые бластерные разряды - способность, которая делает владение этим оружием незаконным в большинстве цивилизованных уголков галактики. Хотя корпорация Xerrol утверждает, что режим невидимых разрядов был разработан для ночной охоты и выслеживания светочувствительных зверей, тот факт, что он позволяет стрелку оставаться совершенно незамеченным во время стрельбы, не ускользнул от внимания галактических убийц и агентов разведки. Однако требования к энергопотреблению для стрельбы из винтовки в скрытном режиме весьма обременительны, и ее скорострельность значительно снижается из-за быстрого истощения ее энергоэлементов.
+[P]Переключение "Nightstinger" в скрытный режим требует совершения маневра. Это делает определение местоположения стрелка путем отслеживания траектории бластерного разряда или обнаружения дульной вспышки практически невозможным. Это также наделяет оружие качеством "Slow Firing 2" на оставшуюся часть столкновения.</Description>
     <Sources>
       <Source Page="39">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
@@ -13519,18 +13519,18 @@ Xerrol Corporation's Nightstinger is one of the most unusual blaster rifles in t
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>May switch to stealth mode as a maneuver.  This makes locating shooter by the muzzle blast impossible.  It also adds the Slow Firing 2 quality for the rest of the encounter.</MiscDesc>
+        <MiscDesc>Можно переключиться в скрытый режим в качестве маневра. Это делает невозможным обнаружение стрелка по дульному выстрелу. Также добавляет качество "Slow Firing 2" на протяжении всего боя.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>NX14</Key>
-    <Name>NX-14 Needler</Name>
+    <Name>Игольник NX-14 (NX-14 Needler)</Name>
     <Description>
-      [H3]NX-14 Needler[h3]
-Considered incredibly niche, obscure weapons with little combat utility, needlers are a rare sight in the galaxy. They are compact, small-framed, slug-throwing pistols that utilize a powerful, miniatureized mass driver to fire sharpened ferroceramic darts at very high velocities. The first needlers were introduced by Golan Arms during the height of the Galactic Republic. Nearly silent in their operation, and remarkably hard to detect when concealed, they were heavily marketed to individuals and government operatives who needed a reliable, easily concealed, difficult to trace weapon. Along with their silent operation and ease of use, one of these weapons' biggest selling points is their ammunition. Darts fired from a needler bypass personal energy shields with ease, and they can be coated in a variety of lethal and non-lethal toxins to subdue or kill targets. This has mde them very attractive to bounty hunters, spies and, and assassins, who appreciated their versatility and deadly utility.
-[P]The NX-14 is one of Golan Arms' latest forays into needler technology. Its smallest, most compact offering to date, this weapon is slightly smaller than a grown human's hand and roughly as thick as a common datapad. It is constructed of an inert, light-absorbing fibermesh polycarbonate with shielded internals, making an already difficult to detect weapon nearly impossible to find when concealed properly. The weapon's standard ammunition is a solid, spin-stabilized, razor-sharp ferroceremic dart that can punch through nearly any personal armor or shield with ease.
-[P]A needler removes all [SE] added by personal deflector shield. Anyone searching an individual carrying a concealed needler adds [SE] to her Perception checks to find the weapon.</Description>
+      [H3]Игольник NX-14[h3]
+Считаясь невероятно узкоспециализированным и малоизвестным оружием с ограниченной боевой эффективностью, игольники редко встречаются в галактике. Это компактные, малогабаритные баллистические пистолеты, использующие мощный миниатюрный масс-драйвер для стрельбы заостренными феррокерамическими дротиками на очень высоких скоростях. Первые игольники были представлены компанией Golan Arms в период расцвета Галактической Республики. Работая практически бесшумно и будучи на удивление трудными для обнаружения при скрытом ношении, они активно рекламировались частным лицам и правительственным агентам, которым требовалось надежное, легко скрываемое и сложное для отслеживания оружие. Наряду с бесшумной работой и простотой использования, одним из главных преимуществ этого оружия являются его боеприпасы. Дротики, выпущенные из игольника, с легкостью обходят персональные энергетические щиты, и их можно покрывать различными смертельными и нелетальными токсинами для нейтрализации или устранения целей. Это сделало их очень привлекательными для охотников за головами, шпионов и убийц, которые ценили их универсальность и смертоносную эффективность.
+[P]NX-14 - это одна из последних разработок Golan Arms в области технологии игольников. Являясь их самым маленьким и компактным предложением на сегодняшний день, это оружие немного меньше руки взрослого человека и примерно такой же толщины, как обычный датапад. Оно изготовлено из инертного, поглощающего свет поликарбоната с волоконной сеткой и имеет экранированные внутренние компоненты, что делает и без того трудное для обнаружения оружие практически невозможным найти при правильном скрытии. Стандартные боеприпасы этого оружия представляют собой цельный, стабилизируемый вращением, острый как бритва феррокерамический дротик, который может с легкостью пробить практически любую персональную броню или щит.
+[P]Игольник убирает все [SE], добавляемые личными дефлекторными щитами. Любой, кто обыскивает человека со скрытно носимым игольником, добавляет [SE] к своим проверкам "Внимания" для обнаружения оружия.</Description>
     <Source Page="42">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
@@ -13546,11 +13546,11 @@ Considered incredibly niche, obscure weapons with little combat utility, needler
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Removes all [SE] added by a personal deflector shield.</MiscDesc>
+        <MiscDesc>Убирает все [SE], добавленные личным дефлекторным щитом.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Adds [SE] to Perception checks to find a concealed needler on an individual.</MiscDesc>
+        <MiscDesc>Добавьте [SE] к проверкам "Внимания" для обнаружения скрытого игольника у человека.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
@@ -13567,11 +13567,11 @@ Considered incredibly niche, obscure weapons with little combat utility, needler
   </Weapon>
   <Weapon>
     <Key>OBSIDIANDAGGER</Key>
-    <Name>Semblan Obsidian Dagger</Name>
-    <Description>[H3]Semblan Obsidian Dagger[h3]
-Like many items made by the Vurk, Semblan daggers tend to serve at least two functions. First, they are utilitarian knives, used as both tools and weapons. Second, the blade's iconic design has served as a meditation aid for centuries of Vurk sages.
-[P]In their most iconic examples, the dagger's blade curves back and forth as it tapers to a point. Vurk sages hold that these gentle undulations mirror the duality of their homeworld. The curving edges hearken to the planet's shallow seas, while obsidian inlays evoke the planet's volcanoes. For centuries, they would mediate on this contrast, searching for harmony. Even if other species lack that cultural context, studying the dagger still has uses.
-[P]When a Vurk makes a Discipline check at the end of an encounter to heal strain, they heal one additional strain as long as they are holding a Semblan dagger. At the GM's discretion, non-Vurk characters can also benefit from this if they have a thorough grounding in Vurk culture and the mentality to appreciate the meditative properties.</Description>
+    <Name>Сембланский обсидиановый кинжал (Semblan Obsidian Dagger)</Name>
+    <Description>[H3]Сембланский обсидиановый кинжал[h3]
+Как и многие изделия, созданные Вурками, сембланские кинжалы, как правило, выполняют как минимум две функции. Во-первых, это утилитарные ножи, используемые как в качестве инструментов, так и оружия. Во-вторых, знаковый дизайн клинка на протяжении веков служил подспорьем для медитации мудрецов Вурков.
+[P]В своих наиболее знаковых образцах клинок кинжала извивается волнообразно, сужаясь к острию. Мудрецы Вурков считают, что эти плавные изгибы отражают двойственность их родного мира. Изогнутые края отсылают к мелководным морям планеты, в то время как инкрустация из обсидиана вызывает в памяти ее вулканы. На протяжении веков они медитировали над этим контрастом, ища гармонию. Даже если другие виды лишены этого культурного контекста, изучение кинжала все равно может принести практическую пользу.
+[P]Когда Вурк совершает проверку "Выдержки" в конце столкновения для снятия "усталости", он снимает одну дополнительную "усталость", пока держит в руках сембланский кинжал. По усмотрению ГМа, персонажи, не являющиеся Вурками, также могут извлечь из этого пользу, если они глубоко знакомы с культурой Вурков и обладают складом ума, позволяющим оценить медитативные свойства этого предмета.</Description>
     <Source Page="50">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -13591,20 +13591,20 @@ Like many items made by the Vurk, Semblan daggers tend to serve at least two fun
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>When recovering strain at end of encounter, Vurk may heal one additional strain when holding a Semblan dagger.</MiscDesc>
+        <MiscDesc>При восстановлении "усталости" в конце боя Вурк может снять еще одну "усталость", держа в руках сембланский кинжал.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>OK98BLASTCARB</Key>
-    <Name>OK-98 Blaster Carbine</Name>
+    <Name>Бластерный карабин OK-98 (OK-98 Blaster Carbine)</Name>
     <Description>
-      [H3]OK-98 Blaster Carbine[h3]
+      [H3]Бластерный карабин OK-98[h3]
 
-The OK-98 is unique in that the weapon features slots for two power packs. An onboard computer automatically switches to the second power pack once the first is depleted, so that a user reloads half as frequently as with a typical blaster. Because blasters require such infrequent reloading in the first place, this feature proved to be of secondary concern to most buyers, who were put off by the weapon's extra weight in comparison to similarly sized carbines. As a result, the OK-98 sold poorly and SoroSuub discontinued production of the model after only six years. The weapon has since found new life on the black market thanks to an illegal modification that allows it to draw from both packs simultaneously. This does enhance the damage output of the weapon, but also wears out several components in a comparably short time. The modification is fairly sensitive, and a poorly-modified weapon can be quite dangerous to the user.
+OK-98 уникален тем, что в конструкции оружия предусмотрены слоты для двух энергоэлементов. Бортовой компьютер автоматически переключается на второй энергоэлемент, как только первый истощается, благодаря чему пользователь перезаряжает оружие вдвое реже, чем типичный бластер. Поскольку бластеры и так требуют крайне редкой перезарядки, эта функция оказалась для большинства покупателей второстепенной, и их отпугивал дополнительный вес оружия по сравнению с карабинами аналогичного размера. В результате OK-98 продавался плохо, и компания SoroSuub прекратила его производство всего через шесть лет. С тех пор это оружие обрело новую жизнь на черном рынке благодаря нелегальной модификации, позволяющей одновременно использовать энергию обоих блоков. Это действительно увеличивает огневую мощь оружия, но также приводит к износу нескольких его компонентов за сравнительно короткое время. Модификация довольно чувствительна, и плохо модифицированное оружие может быть весьма опасным для самого пользователя.
 
-[P]A character using an OK-98 can ignore the first "out of ammo" [DE] result during a combat, just as with an extra power pack, without expending a maneuver.
-A modified OK-98 (requiring an [B]Easy ([DI]) Mechanics check[b]) increases weapon damage by 2, replacing the option to ignore the first "out of ammo" result. The GM can spend [DE] to have a modified OK-98 catastrophically overheat and explode, inflicting one hit from the weapon (dealing base damage) on the user and destroying the weapon after the attack has been resolved.</Description>
+[P]Персонаж, использующий OK-98, может игнорировать первый результат "закончились боеприпасы" [DE] во время столкновения, точно так же, как при наличии дополнительного энергоэлемента, не тратя на это маневр.
+Модифицированный OK-98 (требует проверки [B]Легкой ([DI]) проверки "Механики"[b]) увеличивает урон оружия на 2, заменяя возможность игнорировать первый результат "закончились боеприпасы". ГМ может потратить [DE], чтобы модифицированный OK-98 катастрофически перегрелся и взорвался, нанеся пользователю одно попадание от этого оружия (наносящее базовый урон) и уничтожив оружие после проведения атаки.</Description>
     <Source Page="43">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -13621,7 +13621,7 @@ A modified OK-98 (requiring an [B]Easy ([DI]) Mechanics check[b]) increases weap
     <Restricted>false</Restricted>
     <BaseMods>
       <Mod>
-        <MiscDesc>May ignore first [DESPAIR] "out of ammo" during combat, or may modify with [B]Easy ([DIFFICULTY]) Mechanics check[b] to add +2 damage.  Modded weapon may explode with [DESPAIR].</MiscDesc>
+        <MiscDesc>Можно игнорировать первое [DESPAIR] с результатом "закончились патроны" во время боя, или может модифицироваться с помощью [B]Легкой ([DIFFICULTY]) проверки "Механики"[b], чтобы добавить +2 урона. Модифицированное оружие может взорваться при следующем [DESPAIR].</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGHVY</SkillKey>
@@ -13639,11 +13639,11 @@ A modified OK-98 (requiring an [B]Easy ([DI]) Mechanics check[b]) increases weap
   </Weapon>
   <Weapon>
     <Key>OUROBLADE</Key>
-    <Name>Ouro Blade</Name>
-    <Description>[H3]Ouro Blade[h3]
-Even for the eccentric designs of ancient Thisspias, the Ouro Blade is a strange weapon, with a long curved blade that arches out in a half-circle from the wielder's fists. Traditional fighting styles emphasize quick, cross-body slashes, and a skilled fighter can inflict dozens of shallow, painful cuts on their opponent in a matter of moments. While designed for off-hand use, the Ouro Blade is still effective as a primary weapon.
-[P]Despite its efficiency, changing attitudes on Thisspias sidelined the Oura Blade. Over time, the populace came to associate it with the excesses of the Blood Monarch's Royal Guard. Many Thisspiasians shunned traditional weapons, seeing them as shameful relics of bygone times. When Imperial governors outlawed the Blood Monarchy, that stance changed. Thisspiasian Rebel groups chose weapons like the Ouro Blade as their gear of choice. The fallen Blood Monarchy had become a poignant symbol of resistance.
-[P]After making a successful combat check with an Oura Blade, the wielder may spend [AD] to inflict an automatic hit on the target, doing the attack's base damage, and may do so multiple times.</Description>
+    <Name>Клинок Оуро (Ouro Blade)</Name>
+    <Description>[H3]Клинок Оуро[h3]
+Даже по меркам эксцентричных образцов оружия древнего Тисспиаса, клинок Оуро - весьма странное оружие с длинным изогнутым лезвием, которое полукругом огибает кулаки владельца. Традиционные боевые стили делают упор на быстрые рубящие удары поперек корпуса, и опытный боец может за считанные мгновения нанести противнику десятки неглубоких, но болезненных порезов. Хотя клинок Оуро был создан для использования во второй руке, он остается эффективным и в качестве основного оружия.
+[P]Несмотря на свою эффективность, изменение общественных настроений на Тисспиасе отодвинуло клинок Оуро на второй план. Со временем население стало ассоциировать его с излишествами Королевской гвардии Кровавого Монарха. Многие тисспиасцы сторонились традиционного оружия, считая его постыдными реликвиями былых времен. Однако когда имперские губернаторы объявили Кровавую Монархию вне закона, эта позиция изменилась. Тисспиасские повстанческие группы выбрали такое оружие, как клинок Оуро, в качестве своего основного снаряжения. Падшая Кровавая Монархия стала пронзительным символом сопротивления.
+[P]Совершив успешную боевую проверку клинком Оуро, владелец может потратить [AD], чтобы нанести автоматическое попадание по цели, причиняющее базовый урон атаки, и может делать это несколько раз.</Description>
     <Source Page="50">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -13663,17 +13663,17 @@ Even for the eccentric designs of ancient Thisspias, the Ouro Blade is a strange
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>After successful combat check, may spend [AD] to inflict automatic hit on target, doing base damage.  May do this multiple times.</MiscDesc>
+        <MiscDesc>После успешной боевой проверки можно потратить [AD], чтобы нанести автоматическое попадание по цели, причиняя базовый урон. Это можно делать несколько раз.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>PANICPISTOL</Key>
-    <Name>Panic Pistol</Name>
-    <Description>[H3]Panic Pistol[h3]
-War is a stressful pastime. Most sentient beings unaccustomed to battle choke up when an enemy charges them with a sword. Sometimes there isn't enough room or enough time to line up a shot. Weaponsmiths designed panic pistols-a kind of overpowered slugthrower-to solve such problems.
-[P]They provide a quick and definitive answer to anyone getting too close. This is not to say they do so with elegance. The weapons malfunction with more regularity than other, more standard slugthrowers. While its power is on par with a blaster, a panic pistol still isn't a sustainable alternative to melee weapons. A fighter with a broken weapon doesn't have much advantage over anyone.
-[P]While at engaged range, a character wielding a panic pistol does not add the +1 difficulty modifier for ranged attacks in melee. However, the GM may spend [TH][TH] to damage the weapon.</Description>
+    <Name>Пистолет паники (Panic Pistol)</Name>
+    <Description>[H3]Пистолет паники[h3]
+Война - это стрессовое занятие. Большинство разумных существ, не привыкших к бою, впадают в ступор, когда враг бросается на них с мечом. Иногда не хватает места или времени, чтобы прицелиться. Оружейники создали пистолеты паники - своего рода сверхмощное баллистическое оружие, - чтобы решать подобные проблемы.
+[P]Они обеспечивают быстрый и окончательный ответ любому, кто подходит слишком близко. Нельзя сказать, что делают они это элегантно. Эти оружия дают сбои гораздо чаще, чем другие, более стандартные образцы баллистического оружия. Хотя их мощность сопоставима с бластером, пистолет паники все же не является надежной альтернативой оружию ближнего боя. Боец с вышедшим из строя оружием не имеет особого преимущества перед кем-либо.
+[P]Находясь Вплотную, персонаж, использующий пистолет паники, не добавляет модификатор сложности +1 для дальнего боя в ближнем бою. Однако ГМ может потратить [TH][TH], чтобы повредить оружие.</Description>
     <Source Page="48">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
@@ -13697,19 +13697,19 @@ War is a stressful pastime. Most sentient beings unaccustomed to battle choke up
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>Does not add +1 difficulty with engaged opponent.</MiscDesc>
+        <MiscDesc>Не добавляет +1 к сложности при вступлении в бой с противником.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>GM may spend [TH][TH] to damage panic pistol.</MiscDesc>
+        <MiscDesc>ГМ может потратить [TH][TH] на нанесение урона структуре пистолету паники.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>PARRDAGG</Key>
-    <Name>Parrying Dagger</Name>
+    <Name>Парирующий кинжал (Parrying Dagger)</Name>
     <Description>
-      [H3]Parrying Dagger[h3]
-[P]Typically used in the off hand, the traditional parrying dagger consists of a slim, double-edged blade with a wide (sometimes forked) guard or a basket hilt for hand protection. In addition to possessing defensive utility, a parrying dagger can be used offensively, often as part of a feint or riposte. Traditional on many worlds where advanced technology is rare or melee duels are part of the culture, such blades can be found across the galaxy.      </Description>
+      [H3]Парирующий кинжал[h3]
+[P]Обычно используемый во второй руке, традиционный парирующий кинжал состоит из тонкого двулезвийного клинка с широкой (иногда раздвоенной) гардой или корзинчатым эфесом для защиты кисти. Помимо защитных функций, парирующий кинжал можно использовать и в атаке, часто как часть финта или контрудара (рипоста). Являясь традиционным оружием на многих мирах, где передовые технологии редки или дуэли на холодном оружии являются частью культуры, такие клинки можно встретить по всей галактике.      </Description>
     <Source Page="45">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -13737,10 +13737,10 @@ War is a stressful pastime. Most sentient beings unaccustomed to battle choke up
   </Weapon>
   <Weapon>
     <Key>PARRVIBRO</Key>
-    <Name>Parrying Vibroblade</Name>
+    <Name>Парирующий виброклинок (Parrying Vibroblade)</Name>
     <Description>
-      [H3]Parrying Vibroblade[h3]
-[P]The parrying vibroblade is a high-tech version of the parrying dagger. Pairing a high-frequency vibroblade with the wide crossguard or basket hilt of a parrying dagger, a parrying vibroblade is a dealy addition to any duelist's arsenal. Even against weapons not easily deflected directly, such as lightsabers, an off-hand vibroblade can force attackers to consider strikes cautiously, lest they leave themselves vulnerable to counterattacks with the short blade.</Description>
+      [H3]Парирующий виброклинок[h3]
+[P]Парирующий виброклинок представляет собой высокотехнологичную версию парирующего кинжала. Сочетая высокочастотное вибролезвие с широкой гардой или корзинчатым эфесом парирующего кинжала, этот клинок становится смертоносным дополнением к арсеналу любого дуэлянта. Даже против оружия, которое нелегко отразить напрямую, такого как световые мечи, виброклинок во второй руке может заставить нападающих действовать с осторожностью, чтобы не оставить себя уязвимыми для контратак коротким клинком.</Description>
     <Source Page="45">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -13777,10 +13777,10 @@ War is a stressful pastime. Most sentient beings unaccustomed to battle choke up
   </Weapon>
   <Weapon>
     <Key>PB08HEAVYBLASPISTOL</Key>
-    <Name>PB08 Heavy Blaster Pistol</Name>
-    <Description>[H3]PB08 Heavy Blaster Pistol[h3]
-One of the more popular pistols on the market, Merr-Sonn's PB08 was designed as a direct competitor to BlasTech's DL-44. Simple and reliable, the PB08 is a sturdy, large framed blaster pistol with a short ventilated barrel that delivers excellent damage and penetration over short ranges. What makes the PB08 stand out from the crowd is its heat management and energy conservation systems. Most heavy blaster pistols, especially the DL-44, have a nasty tendency to overheat or run out of blaster gas at the most inopportune times. Merr-Sonn's designers eliminated these drawbacks from the PB08 by using gas circulation heat sinks in the barrel to dissipate the heat generated by the powerful blaster bolts. These pistols also have a unique energy management system designed to squeeze as much energy out of Tibanna gas as possible. While this makes the PB08 more reliable, it also reduces the weapon's range and raw damage output.
-[P]This weapon cannot be made to run out of ammo by spending [DE].</Description>
+    <Name>Тяжелый бластерный пистолет PB08 (PB08 Heavy Blaster Pistol)</Name>
+    <Description>[H3]Тяжелый бластерный пистолет PB08[h3]
+Являясь одним из самых популярных пистолетов на рынке, PB08 от компании Merr-Sonn был разработан как прямой конкурент модели DL-44 от BlasTech. Простой и надежный, PB08 представляет собой прочный массивный бластерный пистолет с коротким вентилируемым стволом, который наносит отличный урон и обладает высоким пробитием на коротких дистанциях. То, что выделяет PB08 на фоне остальных, - это его системы управления теплом и энергосбережения. Большинство тяжелых бластерных пистолетов, особенно DL-44, имеют неприятную склонность перегреваться или оставаться без бластерного газа в самый неподходящий момент. Конструкторы Merr-Sonn устранили эти недостатки в PB08, применив в стволе теплоотводы с циркуляцией газа для рассеивания тепла, выделяемого мощными бластерными разрядами. Эти пистолеты также оснащены уникальной системой управления энергией, призванной извлекать из тибаннского газа максимально возможное количество энергии. Хотя это делает PB08 более надежным, оно также снижает дальность действия оружия и его базовый показатель урона.
+[P]Это оружие не может остаться без боеприпасов в результате траты [DE].</Description>
     <Source Page="118">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Energy Weapon</Type>
@@ -13798,7 +13798,7 @@ One of the more popular pistols on the market, Merr-Sonn's PB08 was designed as 
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>This weapon cannot be made to run out of ammo by spending [DE]</MiscDesc>
+        <MiscDesc>Это оружие не может остаться без боеприпасов в результате траты [DE]</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
@@ -13815,11 +13815,11 @@ One of the more popular pistols on the market, Merr-Sonn's PB08 was designed as 
   </Weapon>
   <Weapon>
     <Key>PEACESTUNBAT</Key>
-    <Name>"Peacekeeper" Stun Baton</Name>
+    <Name>Оглушающая дубинка "Peacekeeper" ("Peacekeeper" Stun Baton)</Name>
     <Description>
-      [H3]Czerka "Peacekeeper" Stun Baton[h3]
-Czerka Arms sells "Peacekeeper" stun batons to law enforcement organizations across the galaxy, but they also see substantial sales to private buyers. While primarily marketed as a non-lethal weapon ideal for peacekeeping or self-defense, the truth is that the weapons are heavy lengths of metal with powerful shock capabilities that augment their use as bludgeons rather than raplacing them.
-[P]While the goal of most similar weapons is to subdue with a minimum of force or damage, anyone dropped by "Peacemaker" batons is likely to feel the effects afterward. This has led to a number of more conscientious groups blacklisting the weapons or discontinuing their use, but many others have no such compunctions. Some Imperial governers have placed mass orders for the weapons to keep their populations in line, while many bounty hunters have turned to the weapons as an option that allows them to skirt laws or circumvent clients' requests regarding use of force or lethal weaponry.</Description>
+      [H3]Оглушающая дубинка Czerka "Peacekeeper"[h3]
+Компания Czerka Arms продает оглушающие дубинки "Peacekeeper" правоохранительным организациям по всей галактике, но они также пользуются значительным спросом среди частных покупателей. Хотя это оружие в первую очередь позиционируется как нелетальное и идеальное для поддержания порядка или самообороны, на самом деле оно представляет собой тяжелые металлические дубинки с мощными электрошоковыми модулями, которые дополняют их использование в качестве ударного оружия, а не заменяют его.
+[P]Хотя цель большинства подобных видов оружия - подчинить противника с минимальным применением силы или нанесением ущерба, любой, кого сразила дубинка "Peacekeeper", вероятно, будет ощущать последствия и после этого. Это привело к тому, что ряд более совестливых организаций внесли это оружие в черный список или прекратили его использование, но у многих других подобных сомнений не возникает. Некоторые имперские губернаторы разместили массовые заказы на это оружие, чтобы держать свое население в узде, в то время как многие охотники за головами выбрали его как вариант, позволяющий обходить законы или игнорировать требования клиентов относительно применения силы или летального оружия.</Description>
     <Source Page="48">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -13853,13 +13853,13 @@ Czerka Arms sells "Peacekeeper" stun batons to law enforcement organizations acr
   </Weapon>
   <Weapon>
     <Key>PERSUADER</Key>
-    <Name>Sorosuub "Persuader" Shock Prod</Name>
+    <Name>Электропалка SoroSuub "Persuader" (Sorosuub "Persuader" Shock Prod)</Name>
     <Description>
-      [H3]Sorosuub "Persuader" Shock Prod[h3]
+      [H3]Электропалка SoroSuub "Persuader"[h3]
 
-SoroSuub's Persuader, officially known as the Model VIII Animal Shock Prod, uses the technology found in force pikes and shock batons to control large, thick-skinned beasts. A little over two meters long, the Persuader is a long, narrow rod with a thicker haft at one end and a multi-pronged tip at the other. The haft contains the prod's power cell and controls as well as the non-slip handgrips. When activated the Persuader emits a variable electrical charge with an intensity that can be adjusted from a light sting that gets a creature's attention to a powerful discharge that can knock a fully grown Wookiee unconscious or render a rampaging rancor meek and biddable.
+Электропалка "Persuader" от SoroSuub, официально известная как «электропалка для животных Модель VIII», использует технологии, применяемые в силовых пиках и электрошоковых дубинках, для контроля над крупными толстокожими зверями. Длина "Persuader" составляет чуть более двух метров; он представляет собой длинный узкий стержень с утолщенной рукоятью на одном конце и наконечником с несколькими зубцами на другом. В рукояти находятся энергоэлемент и элементы управления электропалки, а также нескользящие накладки для рук. При активации "Persuader" генерирует электрический разряд переменной силы, интенсивность которого можно регулировать: от легкого покалывания, привлекающего внимание существа, до мощного разряда, способного отправить взрослого вуки в бессознательное состояние или сделать разъяренного ранкора покорным и послушным.
 
-[P]Persuader Animal Shock Prods require two hands to wield. This weapon has the Slow-Firing 1 rule, representing its electrical charge having to recharge. On rounds during which it is recharging, if the character wants to attack with it, he can only use it as an improvised weapon (see page 225 of the [B]Age of Rebellion[b] Core Rulebook). </Description>
+[P]Для использования электропалки "Persuader" требуются обе руки. Это оружие имеет правило "Slow-Firing 1", отражающее необходимость перезарядки его электрического разряда. В раунды, когда оно перезаряжается, если персонаж захочет атаковать им, он сможет использовать его только как импровизированное оружие (см. страницу 225 книги правил [B]Эпоха Восстания[b]). </Description>
     <Source Page="41">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -13891,12 +13891,12 @@ SoroSuub's Persuader, officially known as the Model VIII Animal Shock Prod, uses
   </Weapon>
   <Weapon>
     <Key>PHIPHKNIFE</Key>
-    <Name>Philaxian Phase-Knife</Name>
+    <Name>Филаксийский фазовый нож (Philaxian Phase-Knife)</Name>
     <Description>
-      [H3]Philaxian Phase-Knife[h3]
-Developed originally by an obscure cadre of artificers, these blades were popular amongst cutpurses and assassins before Republic scouts discovered Philaxia. Once the population obtained technology such as vibroblades and other modern conveniences phase-knives fell out of favour. The weapons may have remained an unremarked oddity had a wandering Jedi not stumbled across one decades later.
-[P]Philaxian phase-knives appear as no more than knife-hilts in their inactive state. When activated, however, they project a molecular shield that forms a weightless but solid "blade". The blade is sharper than comparable vibroblade, but its unique balance makes it very difficult to wield. The user can also adjust the size and shape of the blade on the fly; certain shapes make it surprisingly good as a thrown weapon.
-[P]When used with the Saber Throw talent, a character may spend [AD][AD] or [TR] (instead of [FP]) to have the phase-knife return to her hand. A user may not add lightsaber crystal attachments to a phase-knife. Anyone searching a character carrying a deactivated phase-knife adds [SE] to the Perception check ti find the weapon.</Description>
+      [H3]Филаксийский фазовый нож[h3]
+Изначально разработанные малоизвестной группой мастеров-изобретателей, эти клинки были популярны среди карманников и убийц до того, как разведчики Республики открыли Филаксию. Как только население получило доступ к таким технологиям, как виброклинки и другие современные удобства, фазовые ножи вышли из моды. Оружие так и осталось бы незамеченной диковинкой, если бы десятилетия спустя один странствующий джедай случайно не наткнулся на один из них.
+[P]В неактивном состоянии филаксийские фазовые ножи выглядят не более чем обычными рукоятками. Однако при активации они проецируют молекулярный щит, формирующий невесомое, но твердое "лезвие". Это лезвие острее, чем у сопоставимого виброклинка, но его уникальный баланс делает оружие очень сложным в использовании. Пользователь также может на лету регулировать размер и форму лезвия; определенные формы делают его на удивление эффективным метательным оружием.
+[P]При использовании с талантом "Бросок меча" персонаж может потратить [AD][AD] или [TR] (вместо [FP]), чтобы фазовый нож вернулся в его руку. Пользователь не может добавлять крепления для кристаллов светового меча к фазовому ножу. Любой, кто обыскивает персонажа, несущего неактивный фазовый нож, добавляет [SE] к проверке "Внимания" для обнаружения этого оружия.</Description>
     <Source Page="43">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -13910,7 +13910,7 @@ Developed originally by an obscure cadre of artificers, these blades were popula
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>When used with the Saber Throw talent, may spend [AD][AD] or [TR] instead of [FP] to have phase-knife return to the wielder's hand.</MiscDesc>
+        <MiscDesc>При использовании с талантом "Бросок меча" можно потратить [AD][AD] или [TR] вместо [FP], чтобы фазовый нож вернулся в руку владельца.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>LTSABER</SkillKey>
@@ -13931,11 +13931,11 @@ Developed originally by an obscure cadre of artificers, these blades were popula
   </Weapon>
   <Weapon>
     <Key>PLASGREND</Key>
-    <Name>NOVA40 Plasma Grenade</Name>
+    <Name>Плазменная граната NOVA40 (NOVA40 Plasma Grenade)</Name>
     <Description>
-      [H3]NOVA40 Plasma Grenade[h3]
+      [H3]Плазменная граната NOVA40[h3]
 
-A plasma grenade contains a store of blaster gas comparable to the load of a blaster pistol. When primed, an XCiter unit converts the gas to a highly energetic state. After three to sixty seconds, as selected by the user, the grenade activates the gas with a laser charge, detonating in highly explosive fashion. The resulting explosion is very similar in appearance and effect to a blaster bolt, but more powerful than even a heavy blaster and dispersed over a much larger area.</Description>
+Плазменная граната содержит запас бластерного газа, сопоставимый с зарядом бластерного пистолета. При приведении в боевую готовность блок XCiter переводит газ в высокоэнергетическое состояние. Спустя время от трех до шестидесяти секунд, выбранное пользователем, граната активирует газ лазерным зарядом, вызывая мощный взрыв. Получающийся взрыв очень похож по внешнему виду и эффекту на бластерный разряд, но он мощнее, чем даже выстрел из тяжелого бластера, и поражает гораздо большую площадь.</Description>
     <Sources>
       <Source Page="46">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
       <Source Page="45">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
@@ -13977,12 +13977,12 @@ A plasma grenade contains a store of blaster gas comparable to the load of a bla
   </Weapon>
   <Weapon>
     <Key>PLASMACHRG</Key>
-    <Name>Plasma Charge</Name>
+    <Name>Плазменный заряд (Plasma Charge)</Name>
     <Description>
-      [H3]Plasma Charge[h3]
+      [H3]Плазменный заряд[h3]
 
-These destructive devices generate high-temperature plasma shock waves. The shock waves shatter anything nearby, and what is not destroyed by the shock waves is incinerated by the searing heat.
-[P]Plasma charges have the Burn 1 quality, and the quality increases by + 1 for every additional charge. </Description>
+Эти разрушительные устройства генерируют высокотемпературные плазменные ударные волны. Ударные волны разбивают вдребезги всё, что находится поблизости, а то, что не уничтожено ударной волной, испепеляется палящим жаром.
+[P]Плазменные заряды обладают качеством "Burn 1", и значение этого качества увеличивается на +1 за каждый дополнительный заряд. </Description>
     <Source Page="55">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -14005,11 +14005,11 @@ These destructive devices generate high-temperature plasma shock waves. The shoc
   </Weapon>
   <Weapon>
     <Key>PLASMISSILESK44</Key>
-    <Name>SK-44 Plasma Missile</Name>
+    <Name>Плазменная ракета SK-44 (SK-44 Plasma Missile)</Name>
     <Description>
-      [H3]SK-44 Plasma Missile[h3]
+      [H3]Плазменная ракета SK-44[h3]
 
-When primed, a store of high-energy gas within the plasma warhead is converted into a highly volatile plasma state. The operation of a plasma missile is actually very similar to that of a blaster, and the resulting detonation is not unlike the impact of a blaster bolt, albeit magnified tenfold. The trade-off of this weapon is that the unstable warhead detonates after a brief flight time whether it hits its target or not, making the effective range relatively short.</Description>
+При приведении в боевую готовность запас высокоэнергетического газа внутри плазменной боеголовки переходит в крайне нестабильное плазменное состояние. Принцип действия плазменной ракеты во многом схож с работой бластера, а последующий взрыв напоминает попадание бластерного разряда, хотя и усилен в десятикратном размере. Обратной стороной этого оружия является то, что нестабильная боеголовка взрывается после непродолжительного полета, независимо от того, попала она в цель или нет, что делает его эффективную дальность относительно небольшой.</Description>
     <Source Page="42">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -14056,13 +14056,13 @@ When primed, a store of high-energy gas within the plasma warhead is converted i
   </Weapon>
   <Weapon>
     <Key>POCKPIS</Key>
-    <Name>Pocket Blaster Pistol</Name>
+    <Name>Карманный бластерный пистолет (Pocket Blaster Pistol)</Name>
     <Description>
-      [H3]Spukami Pocket Blaster Pistol[h3]
+      [H3]Карманный бластерный пистолет "Spukami"[h3]
 
-This unassuming pistol produced by Fed-Dub Protective Services Inc. provides citizens of the double worlds with a last-ditch punch for personal protection. The Spukami is designed for close-quarters combat only, and while it hits hard, it also loses accuracy quickly at any kind of range.
+Этот неприметный пистолет, производимый компанией Fed-Dub Protective Services Inc., предоставляет гражданам Двойных миров последний козырь для личной защиты. "Spukami" предназначен исключительно для ближнего боя, и хотя он наносит сильный урон, он также быстро теряет точность на любой дистанции.
 
-[P]When firing the Spukami at short range (or longer), the weapon gains the Inaccurate 1 quality (it does not gain this quality when fired at an engaged target). Add [SE] to a character's Perception check when attempting to find a holdout pistol on a person's body. </Description>
+[P]При стрельбе из "Spukami" на короткой дистанции (или дальше) оружие получает качество "Inaccurate 1" (оно не получает это качество при стрельбе по цели находясь вплотную). Добавьте [SE] к проверке "Внимания" персонажа при попытке найти карманный пистолет на теле человека. </Description>
     <Source Page="96">Дополнение: Солнца Фортуны (Suns of Fortune)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -14087,21 +14087,21 @@ This unassuming pistol produced by Fed-Dub Protective Services Inc. provides cit
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>Adds [SE] to Perception checks when attempting to locate holdout blaster on a person's body</MiscDesc>
+        <MiscDesc>Добавьте [SE] к проверкам "Внимания" персонажа при попытке найти карманный пистолет на теле человека</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>POISONGR</Key>
-    <Name>Poison Gas Grenade</Name>
+    <Name>Граната с отравляющим газом (Poison Gas Grenade)</Name>
     <Description>
-      [H3]Poison Gas Grenade[h3]
+      [H3]Граната с отравляющим газом[h3]
 
-While most would balk at using poison gas in combat, some bounty hunters and assassins use it to inspire terror in their targets. Droid bounty hunters and Gand findsmen, who are unaffected by airborne toxins, often employ poison gas grenades. They can be filled with deadly gases, such as dioxis, trion, or Fex-M3.
+Хотя большинство предпочло бы не использовать отравляющий газ в бою, некоторые охотники за головами и убийцы применяют его, чтобы вселить ужас в свои цели. Охотники за головами дроиды и Ганды следопыты, на которых не действуют воздушные токсины, часто используют гранаты с отравляющим газом. Они могут быть заполнены смертоносными газами, такими как диоксис, трион или Fex-M3.
 
-[P]Poison gas grenades can be loaded with up to 1 dose of neurotoxin, anesthetic, or neuroparalytic (see page 172 of the [B]Edge of the Empire[b] Core Rulebook) or other poison (such as those on page 109) that the GM deems suitable. Whenever the wielder successfully attacks a target with the weapon (whether or not he deals damage), the target also suffers the effects of being exposed to the poison.
+[P]Гранаты с отравляющим газом можно зарядить до 1 дозы нейротоксина, анестетика или нейропаралитика (см. страницу 172 книги правил [B]Край Империи[b]) или другого яда (например, тех, что указаны на странице 109), который ГМ сочтет подходящим. Каждый раз, когда пользователь успешно атакует цель этим оружием (независимо от того, наносит ли он урон), цель также подвергается воздействию яда.
 
-Unless used outdoors in a windy environment, the poison gas lingers for 2 rounds, affecting anyone caught in the cloud. If used in a closed, poorly ventilated space, such as a small room or narrow starship corridor, the gas lingers for 5 rounds instead. Poison gas grenades do not harm droids and other creatures that do not breathe air. Characters equipped with vacuum sealed suits, breath masks, respirators, or rebreathers are also unaffected by the poison gas. </Description>
+Если только граната не используется на открытом воздухе в ветреную погоду, отравляющий газ задерживается на 2 раунда, поражая любого, кто попал в облако. Если она применяется в закрытом, плохо проветриваемом пространстве, таком как небольшая комната или узкий коридор звездолета, газ задерживается на 5 раундов. Гранаты с отравляющим газом не наносят вреда дроидам и другим существам, не дышащим воздухом. Персонажи, оснащенные герметичными скафандрами, дыхательными масками, респираторами или ребризерами, также не подвержены воздействию отравляющего газа. </Description>
     <Source Page="102">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -14130,25 +14130,25 @@ Unless used outdoors in a windy environment, the poison gas lingers for 2 rounds
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>May be loaded with 1 dose of neurotoxin, anesthetic, or neuroparalytic, or other suitable toxins.</MiscDesc>
+        <MiscDesc>Может содержать 1 дозу нейротоксина, анестетика, нейропаралитика или других подходящих токсинов.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Unless outdoors in a windy environment, gas lingers for two rounds, affecting anyone in the cloud. In a poorly ventilated space, gas lingers for five rounds.</MiscDesc>
+        <MiscDesc>За исключением случаев на открытом воздухе в ветреную погоду, газ сохраняется в течение двух раундов, воздействуя на всех, кто находится в облаке. В плохо проветриваемом помещении газ сохраняется в течение пяти раундов.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Droids, or characters equipped with sealed suits, breath masks, respirators, or rebreathers, are unaffected.</MiscDesc>
+        <MiscDesc>Дроиды или персонажи, оснащенные герметичными костюмами, дыхательными масками, респираторами или ребризером, не подвержены воздействию.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>POLEAXE</Key>
-    <Name>Trailbreaker Poleaxe</Name>
+    <Name>Древковый топор "Trailbreaker" (Trailbreaker Poleaxe)</Name>
     <Description>
-      [H3]LaserHone Trailbreaker Poleaxe[h3]
-LaserHone's Trailbreaker is a versatile piece of equipment designed for exploration, search and rescue, and wilderness survival. Each consists of a long, thin, low-profile axe blade mounted to a sturdy fibermesh reinforced plasteel haft roughly two meters in length. It is popular among scouts and explorers who appreciate its utility both as a tool and as a weapon. The Trailbreaker's length and sturdy build make it both a fine walking staff and an excellent tool for prying, propping, and levering large objects. The head of the axe, sporting a finely honed, monomolecular edge, can cut through undergrowth, small trees, and even flesh and bone with relative ease. In the right hands, the Trailbreaker is an extremely potent, versatile tool, and its popularity increases with every sale.
-[P]The Trailbreaker poleaxe requires two hands to use.</Description>
+      [H3]Древковый топор LaserHone "Trailbreaker"[h3]
+"Trailbreaker" от компании LaserHone - это универсальное снаряжение, предназначенное для разведки, поисково-спасательных операций и выживания в дикой природе. Каждый такой топор состоит из длинного, тонкого, компактного лезвия, закрепленного на прочном древке из пластали, армированной волоконной сеткой, длиной около двух метров. Он популярен среди разведчиков и исследователей, которые ценят его полезность как в качестве инструмента, так и в качестве оружия. Длина и прочная конструкция "Trailbreaker" делают его как отличной походной тростью, так и превосходным инструментом для поддевания, подпирания и использования в качестве рычага при перемещении тяжелых объектов. Лезвие топора, имеющее тонко заточенную мономолекулярную кромку, может с относительной легкостью прорубать подлесок, небольшие деревья и даже плоть и кости. В умелых руках "Trailbreaker" является чрезвычайно мощным и универсальным инструментом, и его популярность растет с каждой продажей.
+[P]Для использования древкового топора "Trailbreaker" требуются обе руки.</Description>
     <Sources>
       <Source Page="43">Дополнение: Дикие духи (Savage Spirits)</Source>
     </Sources>
@@ -14183,12 +14183,12 @@ LaserHone's Trailbreaker is a versatile piece of equipment designed for explorat
   </Weapon>
   <Weapon>
     <Key>PRECXMARK</Key>
-    <Name>"Precision-X" Marksman Rifle</Name>
+    <Name>Марксманская винтовка "Precision-X" ("Precision-X" Marksman Rifle)</Name>
     <Description>
-      [H3]"Precision-X" Marksman Rifle[h3]
-Cadregg Armory is a newcomer to the arms manufacturing scene, but its initial offerings have been impressive enough to keep many eyes on what they produce next. One of the first weapons the company produced was the "Precision-X" series, now highly coveted weapons sought by everyone from sport shooters to assassins. The company can hardly maintain a stock of these specialized rifles, so high is the demand for their unique capabilities.
-[P]The Precision-X blasters use a series of multiple cycling chambers to excite the blaster gas used so that it produces extraordinarily intense beams. The blasters' shots are only somewhat more powerful than those of typical carbines, but the blasts maintain an extraordinary coherence over long ranges, allowing them to punch through light armor and maintain full stopping power well past the limitations of a typical rifle. The effects of these cycling chambers even extend to the blaster's stun setting, making it ideal for bounty hunters trying to bring in a target alive.
-[P]When this weapon's stun setting is used to deal stun damage, its range changes to medium instead of short (and cannot be increased).</Description>
+      [H3]Марксманская винтовка "Precision-X"[h3]
+Компания Cadregg Armory является новичком на рынке производства оружия, но ее первые предложения оказались достаточно впечатляющими, чтобы многие с интересом следили за тем, что она выпустит в следующий раз. Одним из первых видов оружия, произведенных компанией, стала серия "Precision-X", которая сейчас является высоко востребованным оружием, пользующимся спросом у всех: от спортивных стрелков до убийц. Компании с трудом удается поддерживать запасы этих специализированных винтовок из-за невероятно высокого спроса на их уникальные возможности.
+[P]Бластеры Precision-X используют серию циклических камер для возбуждения бластерного газа, что позволяет генерировать необычайно интенсивные лучи. Выстрелы этих бластеров лишь немного мощнее, чем у типичных карабинов, но разряды сохраняют необычайную сфокусированность на больших дистанциях, что позволяет им пробивать легкую броню и сохранять полную останавливающую способность далеко за пределами ограничений обычной винтовки. Эффект от этих циклических камер распространяется даже на режим оглушения бластера, делая его идеальным для охотников за головами, пытающихся доставить цель живой.
+[P]При использовании режима оглушения этого оружия для нанесения урона оглушением, его дальность изменяется на среднюю вместо короткой (и не может быть увеличена).</Description>
     <Source Page="44">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -14204,7 +14204,7 @@ Cadregg Armory is a newcomer to the arms manufacturing scene, but its initial of
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>When set to stun, range changes to medium.</MiscDesc>
+        <MiscDesc>При включении режима оглушения дальность действия изменяется на среднюю.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGHVY</SkillKey>
@@ -14225,11 +14225,11 @@ Cadregg Armory is a newcomer to the arms manufacturing scene, but its initial of
   </Weapon>
   <Weapon>
     <Key>PROTONBAY</Key>
-    <Name>Proton Bomb Bay</Name>
+    <Name>Бомбоотсек протонных бомб (Proton Bomb Bay)</Name>
     <Description>
-      [H3]Proton Bomb Bay[h3]
+      [H3]Бомбоотсек протонных бомб[h3]
 
-The proton bomb is a large energy explosive device used in space combat and orbital bombardment. They are most effective against fixed or slow moving targets such as fortifications, space stations, and capital ships. These energy weapons often emit the signature blue "glow" of proton torpedoes.</Description>
+Протонная бомба представляет собой крупное взрывное устройство, использующее энергию, которое применяется в космических боях и при орбитальных бомбардировках. Они наиболее эффективны против стационарных или медленно движущихся целей, таких как укрепления, космические станции и крупные боевые корабли. Это энергетическое оружие часто излучает характерное синее "свечение", свойственное протонным торпедам.</Description>
     <Source Page="52">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -14264,11 +14264,11 @@ The proton bomb is a large energy explosive device used in space combat and orbi
   </Weapon>
   <Weapon>
     <Key>PROTONBOMB</Key>
-    <Name>Proton Bomb Release Chute</Name>
+    <Name>Шахта сброса протонных бомб (Proton Bomb Release Chute)</Name>
     <Description>
-      [H3]Proton Bomb Release Chute[h3]
+      [H3]Шахта сброса протонных бомб[h3]
 
-The proton bomb is a large energy explosive device used in space combat and orbital bombardment. They are most effective against fixed or slow moving targets such as fortifications, space stations, and capital ships. These energy weapons often emit the signature blue "glow" of proton torpedoes.</Description>
+Протонная бомба представляет собой крупное взрывное устройство, использующее энергию, которое применяется в космических боях и при орбитальных бомбардировках. Такие бомбы наиболее эффективны против стационарных или медленно движущихся целей, таких как укрепления, космические станции и крупные боевые корабли. Это энергетическое оружие часто излучает характерное синее "свечение", свойственное протонным торпедам.</Description>
     <Source Page="272">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -14303,13 +14303,13 @@ The proton bomb is a large energy explosive device used in space combat and orbi
   </Weapon>
   <Weapon>
     <Key>PROTONGRNAD</Key>
-    <Name>Proton Grenade</Name>
+    <Name>Протонная граната (Proton Grenade)</Name>
     <Description>
-      [H3]Proton Grenade[h3]
+      [H3]Протонная граната[h3]
 
-Frequently used for demolitions work and in boarding actions, proton grenades are extremely powerful devices that rely on the same technology as the warheads of proton torpedoes, albeit on a much smaller scale. Nevertheless, proton grenades are exceeded only by thermal detonators for sheer destructive power in a hand-held package. Proton grenades feature a magnetic clamp and directed charge, so that they are better suited to breaching bulkheads or destroying facilities than as anti-personnel weapons. The devices are also highly prized in demolitions work because of the sympathetic qualities of the blast. Multiple grenades correctly linked together produce a much more powerful blast than each grenade separately.
+Часто используемые при подрывных работах и абордажных операциях, протонные гранаты являются чрезвычайно мощными устройствами, основанными на той же технологии, что и боеголовки протонных торпед, хотя и в значительно меньшем масштабе. Тем не менее, по чистой разрушительной мощи в ручном формате протонные гранаты уступают лишь термодетонаторам. Протонные гранаты оснащены магнитным зажимом и направленным зарядом, что делает их более подходящими для проламывания переборок или уничтожения объектов, чем в качестве противопехотного оружия. Эти устройства также высоко ценятся при подрывных работах благодаря синергетическим свойствам взрыва. Несколько правильно соединенных гранат создают значительно более мощный взрыв, чем каждая граната по отдельности.
 
-[P]When setting up an explosive device using proton grenades, the second grenade adds +20 damage, the third adds +30, the fourth adds +40, and the fifth adds +50, for a total of 150 damage for five grenades. After the fifth grenade, additional grenades do not add additional damage, but do increase the blast range by one range band per additional grenade.</Description>
+[P]При создании взрывного устройства из протонных гранат вторая граната добавляет +20 к урону, третья - +30, четвертая - +40, а пятая - +50, что в сумме дает 150 единиц урона для пяти гранат. После пятой гранаты дополнительные гранаты не увеличивают урон, но увеличивают радиус взрыва на одну зону дистанции за каждую дополнительную гранату.</Description>
     <Source Page="55">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -14335,15 +14335,15 @@ Frequently used for demolitions work and in boarding actions, proton grenades ar
         <Key />
         <Count>1</Count>
         <Index>0</Index>
-        <MiscDesc>Variable damage for additional grenades:  +20, +30, +40, +50 (150 max).  After 5, blast radius increased by one band per grenade.</MiscDesc>
+        <MiscDesc>Переменный урон от дополнительных гранат: +20, +30, +40, +50 (максимум 150). После 5 гранат радиус взрыва увеличивается на одну полосу за каждую гранату.</MiscDesc>
         <DefZone />
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>PROTTORPHVY</Key>
-    <Name>Heavy Proton Torpedo Launcher</Name>
-    <Description>[H3]Heavy Proton Torpedo Launcher[h3]</Description>
+    <Name>Тяжелая пусковая установка протонных торпед (Heavy Proton Torpedo Launcher)</Name>
+    <Description>[H3]Тяжелая пусковая установка протонных торпед[h3]</Description>
     <Source Page="119">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -14382,13 +14382,13 @@ Frequently used for demolitions work and in boarding actions, proton grenades ar
   </Weapon>
   <Weapon>
     <Key>PTL</Key>
-    <Name>Proton Torpedo Launcher</Name>
+    <Name>Пусковая установка протонных торпед (Proton Torpedo Launcher)</Name>
     <Description>
-      [H3]Proton Torpedo Launcher[h3]
+      [H3]Пусковая установка протонных торпед[h3]
 
-Proton torpedoes are highly advanced anti-ship projectiles typically carried by starfighters and patrol boats. They are larger and bulkier than concussion missiles and have a squat, conical warhead, meaning their launchers carry fewer rounds than an equivalent concussion missile launcher. These weapons mount a deadly, irradiating, proton-scattering warhead detonated by a volatile Nergon-14 explosive charge. Proton torpedoes are designed to damage and destroy large vessels like bulk transports and capital ships. They allow small ships like starfighters and patrol boats to punch well above their weight.
+Протонные торпеды представляют собой высокотехнологичные противокорабельные снаряды, которыми обычно оснащаются звездные истребители и патрульные катера. Они крупнее и массивнее ударных ракет и обладают приземистой конической боеголовкой, из-за чего их пусковые установки вмещают меньше боеприпасов, чем аналогичные пусковые установки ударных ракет. Это оружие оснащено смертоносной боеголовкой, излучающей радиацию и рассеивающей протоны, которая детонирует от нестабильного взрывного заряда нергона-14. Протонные торпеды предназначены для повреждения и уничтожения крупных судов, таких как грузовые транспорты и корабли первого ранга. Они позволяют небольшим кораблям, таким как истребители и патрульные катера, наносить урон, значительно превышающий их собственный класс.
 
-[P]Additional proton torpedoes cost 750 credits each and are Restricted.</Description>
+[P]Дополнительные протонные торпеды стоят по 750 кредитов каждая и имеют пометку "Restricted".</Description>
     <Sources>
       <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -14435,28 +14435,11 @@ Proton torpedoes are highly advanced anti-ship projectiles typically carried by 
   </Weapon>
   <Weapon>
     <Key>PULSECAN</Key>
-    <Name>Pulse Cannon</Name>
+    <Name>Импульсная пушка (Pulse Cannon)</Name>
     <Description>
-      [H3]Pulse Cannon[h3]
-After its wide-scale implementation by the Galactic
-Empire, the simplicity and versatility of BlasTech’s
-E-11 blaster rifle spawned several offshoot designs,
-the most popular of which was the so-called pulse
-cannon. The pulse cannon consists of a core frame
-similar to the E-11, but replaces the folding stock with
-a solid one for added stability, and a high-powered
-scope. It also features a long, perforated barrel with
-four focusing coils to ensure proper cooling and to
-allow maximum blaster bolt cohesion. Further adding to its lethality, a wielder can “charge” an individual
-shot by holding down the trigger, unleashing a devastating shot upon release that drains the weapon’s
-entire energy reserve.
-[P]As a maneuver, a character wielding a pulse cannon
-may prime the weapon to expend all of its ammunition
-in a single, devastating shot. The next time the weapon
-is fired this encounter, it counts as having the Breach
-1 and Vicious 3 qualities. After being discharged this
-way, the weapon runs out of ammunition (see page
-172 of the [B]Age of Rebellion[b] Core Rulebook).</Description>
+      [H3]Импульсная пушка[h3]
+После ее широкого внедрения Галактической Империей простота и универсальность бластерной винтовки E-11 от BlasTech породили несколько производных конструкций, самой популярной из которых стала так называемая импульсная пушка. Импульсная пушка состоит из основной рамы, аналогичной E-11, но заменяет складной приклад на цельный для большей устойчивости, а также оснащена мощным оптическим прицелом. Она также имеет длинный перфорированный ствол с четырьмя фокусирующими катушками, обеспечивающими надлежащее охлаждение и максимальную когерентность бластерного разряда. Дополнительно повышая ее смертоносность, стрелок может 'зарядить' одиночный выстрел, удерживая спусковой крючок, и выпустить разрушительный выстрел при отпускании, который истощает весь энергетический запас оружия.
+[P]В качестве маневра персонаж, использующий импульсную пушку, может подготовить оружие, чтобы израсходовать все его боеприпасы на один разрушительный выстрел. При следующем выстреле из этого оружия в данном столкновении оно считается имеющим качества "Breach 1" и "Vicious 3". После такого разряда оружие остается без боеприпасов (см. страницу 172 книги правил [B]Эпоха Восстания[b]).</Description>
     <Source Page="43">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -14471,7 +14454,7 @@ way, the weapon runs out of ammunition (see page
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>As a maneuver, a character wielding a pulse cannon may prime the weapon to expend all of its ammunition in a single, devastating shot. The next time the weapon is fired this encounter, it counts as having the Breach 1 and Vicious 3 qualities. After being discharged this way, the weapon runs out of ammunition.</MiscDesc>
+        <MiscDesc>В качестве маневра персонаж, владеющий импульсной пушкой, может подготовить оружие к тому, чтобы оно израсходовало весь боезапас одним сокрушительным выстрелом. В следующий раз, когда оружие будет использовано в этом бою, оно будет считаться обладающим качествами "Breach 1" и "Vicious 3". После такого выстрела у оружия заканчиваются боеприпасы.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGHVY</SkillKey>
@@ -14496,13 +14479,13 @@ way, the weapon runs out of ammunition (see page
   </Weapon>
   <Weapon>
     <Key>PULSEDRILL</Key>
-    <Name>G9-GP Pulse Drill</Name>
+    <Name>Импульсный бур G9-GP (G9-GP Pulse Drill)</Name>
     <Description>
-    [H3]G9-GP Pulse Drill[h3]
+    [H3]Импульсный бур G9-GP[h3]
 
-Makers of the venerable G2-GE beamdrill, Karflo Corporation is a Corporate Sector-based conglomerate with interests in industrial mining, droid production, and planetary exploration. Their G-series beamdrills are used throughout the galaxy in industries as widely varied as computer production and deep-space asteroid mining. They use variable-strength continuous-beam plasma projectors to burn through earth, stone, metals, and nearly any organic or inorganic substance in their path. They can perform any kind of cutting or burning task, from gently melting lightweight polymers to vaporizing waste materials and industrial byproducts. Recently, Karflo Corporation has been exploring smaller, more portable versions of their powerful beamdrills for use by planetary explorers and archaeologists. Their first attempt at this market is the G9-GP Pulse Drill.
+Производители знаменитого лучевого бура G2-GE, корпорация Karflo Corporation, является конгломератом, базирующимся в Корпоративном секторе, с интересами в сфере промышленной добычи полезных ископаемых, производства дроидов и планетарных исследований. Их лучевые буры G-серии используются по всей галактике в самых разных отраслях: от производства компьютеров до добычи полезных ископаемых на астероидах в глубоком космосе. Они используют плазменные излучатели непрерывного действия переменной мощности, чтобы прожигать землю, камень, металлы и практически любые органические или неорганические вещества на своем пути. Они могут выполнять любые задачи по резке или прожиганию: от деликатного плавления легких полимеров до испарения отходов и промышленных побочных продуктов. В последнее время корпорация Karflo исследует возможность создания более компактных и портативных версий своих мощных лучевых буров для использования планетарными исследователями и археологами. Их первой попыткой выйти на этот рынок стал импульсный бур G9-GP.
 
-[P]The G9-GP is a handheld, low-powered, precision beamdrill designed for work in excavation and light duty mining. They appear as long, bulky rods with a tank at one end and a variable-angle plasma cutter at the other. The beam emitted by the G9-GP is a rapidly pulsing plasma beam around a millimeter thick with an adjustable range that allows it to cut through relatively thick material. While they are primarily tools, their plasma beams make excellent improvised weapons in an emergency, and more than a few explorers have had their lives or limbs saved from a surprise attack by quick application of the pulse drill.</Description>
+[P]G9-GP представляет собой ручной маломощный прецизионный лучевой бур, предназначенный для работ по раскопкам и легкой добыче полезных ископаемых. Он выглядит как длинный громоздкий стержень с резервуаром на одном конце и плазменным резаком с регулируемым углом наклона на другом. Луч, испускаемый G9-GP, представляет собой быстро пульсирующий плазменный луч толщиной около миллиметра с регулируемой дальностью, что позволяет ему прорезать относительно толстые материалы. Хотя в первую очередь это инструменты, их плазменные лучи служат отличным импровизированным оружием в экстренных ситуациях, и не один исследователь спас свою жизнь или конечности от внезапного нападения, быстро применив импульсный бур.</Description>
     <Source Page="43">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -14547,11 +14530,11 @@ Makers of the venerable G2-GE beamdrill, Karflo Corporation is a Corporate Secto
   </Weapon>
   <Weapon>
     <Key>PULSEDRILLGX</Key>
-    <Name>G9-GX Pulse Drill</Name>
+    <Name>Импульсный бур G9-GX (G9-GX Pulse Drill)</Name>
     <Description>
-      [H3]G9-GX Pulse Drill[h3]
-[P]Designed as a handheld complement to the tried-and-true C2-CE beamdrill, the C9-GX uses a variable-strength, continuous-beam plasma projector to perform all manner of jobs, from cutting to welding and brazing to incinerating waste material and industrial byproducts. [P]The G9-CX can be found in use in many of the excavations located throughout the tunnels of
-Sullust. It consists of a long, bulky rod tipped by a variable-angle plasma cutter and connected by a reinforced cable to a control unit. The control unit contains the fuel cell and many of the controls that manage the power of the plasma stream. It is typically worn on a broad belt around the waist.</Description>
+      [H3]Импульсный бур G9-GX[h3]
+[P]Разработанное как ручное дополнение к проверенному временем лучевому буру C2-CE, устройство C9-GX использует плазменный излучатель непрерывного действия переменной мощности для выполнения самых разнообразных задач: от резки до сварки и пайки, а также сжигания отходов и промышленных побочных продуктов.
+[P]Модель G9-CX можно встретить на многих раскопках, расположенных в туннелях Салласта. Она состоит из длинного громоздкого стержня, на конце которого находится плазменный резак с регулируемым углом наклона, соединенный усиленным кабелем с блоком управления. Блок управления содержит топливный элемент и множество регуляторов, управляющих мощностью плазменного потока. Обычно его носят на широком поясе вокруг талии.</Description>
     <Source Page="139">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -14596,13 +14579,13 @@ Sullust. It consists of a long, bulky rod tipped by a variable-angle plasma cutt
   </Weapon>
   <Weapon>
     <Key>PUNCHDAGGER</Key>
-    <Name>Punch Dagger</Name>
+    <Name>Нож-кастет (Punch Dagger)</Name>
     <Description>
-      [H3]Punch Dagger[h3]
+      [H3]Нож-кастет[h3]
 
-A punch dagger, also known as a push dagger or gimlet knife, is a small, short-bladed knife attached to a T-shaped handle, or "gimlet." The user grasps the gimlet so the blade protrudes between his fingers. Easily-concealed, the punch dagger allows the user the put considerable force behind a thrust, often piercing thick clothing and simple armor. A favorite holdout weapon among gamblers, a punch dagger typically won't set off the weapons detectors used in many gambling dens and the backrooms of cantinas throughout the galaxy.
+Нож-кастет, также известный как пуш-нож или шилообразный нож, представляет собой небольшой нож с коротким лезвием, закрепленный на Т-образной рукояти, или 'кастете'. Пользователь сжимает рукоять так, что лезвие выступает между его пальцами. Благодаря легкости сокрытия, нож-кастет позволяет пользователю вложить значительную силу в колющий удар, часто пробивая толстую одежду и простую броню. Являясь излюбленным оружием для скрытого ношения среди игроков, нож-кастет обычно не вызывает срабатывания детекторов оружия, используемых во многих игорных притонах и задних комнатах кантин по всей галактике.
 
-[P]Add [SE][SE] to a character's Perception checks made to find a punch dagger on a person's body.</Description>
+[P]Добавьте [SE][SE] к проверкам "Внимания" персонажа, предпринимаемым для обнаружения ножа-кастета на теле человека.</Description>
     <Source Page="46">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -14617,7 +14600,7 @@ A punch dagger, also known as a push dagger or gimlet knife, is a small, short-b
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add [SE][SE] to Perception checks to find on a person's body.</MiscDesc>
+        <MiscDesc>Добавьте [SE][SE] к проверкам "Внимания", чтобы найти что-либо на теле человека.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>MELEE</SkillKey>
@@ -14634,13 +14617,13 @@ A punch dagger, also known as a push dagger or gimlet knife, is a small, short-b
   </Weapon>
   <Weapon>
     <Key>QUICKFIRE</Key>
-    <Name>Model Q4 Quickfire</Name>
+    <Name>Модель Q4 Quickfire (Model Q4 Quickfire)</Name>
     <Description>
-      [H3]Model Q4 Quickfire[h3]
+      [H3]Модель Q4 Quickfire[h3]
 
-Touted as a revolution in light blaster design, Merr-Sonn's Q4 Quickfire is one of the more unique hold-out blasters on the market today. Instead of the typical gas chamber and energy cell power supply, the Q4 possesses an integral rechargeable power pack that provides more stopping power and a higher cyclic rate of fire than other holdouts. The trade-off for this extra power is the fact that the power pack must be recharged instead of easily replaced (a process that takes ten minutes), as well as the weapon's dismal performance at anything farther than short range.
+Провозглашенная революцией в конструкции легких бластеров, модель Q4 Quickfire от компании Merr-Sonn является одним из самых уникальных бластеров для скрытого ношения на современном рынке. Вместо типичной газовой камеры и сменного энергоэлемента, Q4 оснащен встроенным перезаряжаемым энергоблоком, который обеспечивает большее останавливающее действие и более высокую скорострельность по сравнению с другими карманными бластерами. Платой за эту дополнительную мощность является необходимость перезарядки энергоблока, а не его быстрой замены (этот процесс занимает десять минут), а также крайне низкая эффективность оружия на любой дистанции, превышающей короткую.
 
-[P]Add [SE] to a character's Perception checks when attempting to find a 04 Quickfire on a person's body. If this weapon runs out of ammo due to a [DE] result, it may not be reloaded by Extra Reloads, the Spare Clip talent, or other means.</Description>
+[P]Добавьте [SE] к проверкам "Внимания" персонажа при попытке найти Q4 Quickfire на теле человека. Если в этом оружии закончатся боеприпасы из-за результата [DE], его нельзя будет перезарядить с помощью качества "Extra Reloads", таланта "Запасной магазин" или любыми другими способами.</Description>
     <Source Page="40">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -14657,7 +14640,7 @@ Touted as a revolution in light blaster design, Merr-Sonn's Q4 Quickfire is one 
     <Restricted>false</Restricted>
     <BaseMods>
       <Mod>
-        <MiscDesc>Add [SETBACK] to Perception checks to find this weapon on a body.  May not be reloaded.</MiscDesc>
+        <MiscDesc>Добавьте [SETBACK] к проверкам "Внимания", чтобы найти это оружие на теле. Перезарядка невозможна.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
@@ -14673,12 +14656,12 @@ Touted as a revolution in light blaster design, Merr-Sonn's Q4 Quickfire is one 
   </Weapon>
   <Weapon>
     <Key>QUILLBOMB</Key>
-    <Name>Quillbomb</Name>
-    <Description>[H3]Quillbomb[h3]
-Thisspiasians once viewed the giant ystervark as both worthy foe and revered delicacy. Xenoarchaeologists even theorize the Blood Monarchy grew from ritual hunts of these creatures. Extinct in modern times, the beast's brutality left a lasting impression on Thisspias. For centuries, engineers sought to emulate its defensive plating and toxic spines.
-[P]In keeping with this motif, ancient warrior-sages created weapons in the beast's image. Their blend of metalwork and the Force even parallels that of modern alchemists. For 250 years, poisoned ystervark spears were the Royal Guard's most iconic weapon. As the Blood Monarchy's public influence fell, so too did the ystervark's. While Thisspiasians still respect both, the call for such weapons has diminished. Before the rise of the Empire, only the Quillbomb retained its mass appeal.
-[P]The device is not much larger than a closed fist, and wicked-looking spines litter its surface. On detonation, these spines rip through armor, burrowing deep into flesh. Each spine carries a dose of synthetic toxin, inspired by the ancient ystervark's venom. With its weak payload, the bomb is less focused on raw explosive power. Rather, it relies on driving at least one spine intact into a victim's body. The contagions used are often as quick as they are debilitating. One spine is enough to immediately impair motor functions. Any more will cause excruciating pain.
-[P]With the Blood Monarchy outlawed by the Empire, the Quillbomb is taking on a new life as a symbol of resistance. Rebels searching for urban weaponry have revitalized the production of these ancient weapons. The bombs are harder to detect than conventional explosives, perfect for saboteurs. Storm troopers are beginning to dread missions to quash Thisspiasian resistance. Once the subject of mockery, the Quillbomb's body count continues to rise. True to form, the bomb has damaged both body and mind of the Imperial war machine. Though nowhere close in size to the ancient ystervark, these bombs would do it proud.</Description>
+    <Name>Шипобомба (Quillbomb)</Name>
+    <Description>[H3]Шипобомба[h3]
+Жители Тисспиаса когда-то считали гигантского истерварка как достойным противником, так и почитаемым деликатесом. Ксеноархеологи даже предполагают, что Кровавая Монархия зародилась из ритуальных охот на этих существ. Вымерший в наше время, этот зверь своей жестокостью оставил неизгладимый след в истории Тисспиаса. На протяжении веков инженеры пытались воспроизвести его защитный панцирь и ядовитые иглы.
+[P]В соответствии с этим мотивом, древние воины-мудрецы создавали оружие по образу этого зверя. Их сочетание металлообработки и Силы даже перекликается с методами современных алхимиков. На протяжении 250 лет отравленные копья истерварка были самым знаковым оружием Королевской гвардии. По мере падения общественного влияния Кровавой Монархии падала и популярность истерварка. Хотя жители Тисспиаса по-прежнему уважают и то, и другое, спрос на подобное оружие снизился. До прихода к власти Империи лишь шипобомба сохраняла свою массовую привлекательность.
+[P]Устройство ненамного больше сжатого кулака, а его поверхность усеяна зловещими шипами. При детонации эти шипы разрывают броню, глубоко вонзаясь в плоть. Каждый шип несет дозу синтетического токсина, вдохновленного ядом древнего истерварка. Из-за слабого взрывного заряда бомба меньше сосредоточена на грубой разрушительной силе. Скорее, она полагается на то, чтобы вогнать хотя бы один шип нетронутым в тело жертвы. Используемые токсины часто действуют так же быстро, как и выводят из строя. Одного шипа достаточно, чтобы немедленно нарушить моторные функции. Любое их большее количество вызовет мучительную боль.
+[P]После того как Кровавая Монархия была объявлена Империей вне закона, шипобомба обретает новую жизнь в качестве символа сопротивления. Повстанцы, ищущие вооружение для городских условий, возродили производство этого древнего оружия. Эти бомбы труднее обнаружить, чем обычные взрывчатые вещества, что делает их идеальными для диверсантов. Штурмовики начинают с ужасом ожидать миссий по подавлению тисспиасского сопротивления. Когда-то бывшая предметом насмешек, шипобомба продолжает увеличивать число своих жертв. Как и положено, это оружие наносит урон как телу, так и разуму имперской военной машины. Хотя по размерам она и близко не сравнима с древним истерварком, эти бомбы стали бы для него предметом гордости.</Description>
     <Source Page="48">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Thrown</Type>
@@ -14713,33 +14696,12 @@ Thisspiasians once viewed the giant ystervark as both worthy foe and revered del
   </Weapon>
   <Weapon>
     <Key>RECIPQUADBLASTCAN</Key>
-    <Name>Reciprocating Quad Blaster Cannon</Name>
+    <Name>Счетверенная возвратно-поступательная бластерная пушка (Reciprocating Quad Blaster Cannon)</Name>
     <Description>
-      [H3]Reciprocating Quad Blaster Cannon[h3]
-What is essentially a downscaled version of an anti-starfighter emplacement, the reciprocating quad blaster
-cannon is the heaviest personal weapon in Merr-Sonn
-Munitions’ entire arsenal. Developed during the Clone
-Wars, the “cip-quad” saw use by heavy weapons experts
-in elite divisions of the Grand Army of the Republic, such
-as the ARC Troopers. During the Galactic Civil War, most
-cip-quads are issued to Imperial heavy infantry supporting the Hell’s Hammers, an elite vanguard armor
-regiment. Few are acquired by the Rebellion, as they are
-nigh impossible to claim from fallen Hammers, and are
-rare and expensive on the black market.
-[P]A reciprocating quad blaster cannon assembly uses
-a special pneumatic harness to secure and steady
-the weapon in front of the wearer. Further, a wielder
-generally equips a portable fusion generator (usually worn on the back) power the cannon. Dozens of
-micro-repulsors placed along the cip-quad mitigate
-some of the immense weight of the cannon, and inertial compensators reduce the intense recoil. Despite
-the built-in support, those inexperienced in the weapon's operation can suffer grievous recoil injuries if its
-sensitive compensators are not precisely calibrated.
-[P]This weapon can only be used in Auto-fire mode.
-The GM may spend [DE] or [TH][TH][TH][TH] from a combat
-check with this weapon to have the wielder suffer a
-Critical Injury with -50 to the roll, to a minimum of
-one (see [B]Table 6-10: Critical Injury Result[b] on page
-231 of the [B]Age of Rebellion[b] Core Rulebook).</Description>
+      [H3]Счетверенная возвратно-поступательная бластерная пушка[h3]
+По сути представляя собой уменьшенную версию зенитной установки для борьбы с истребителями, счетверенная возвратно-поступательная бластерная пушка является самым тяжелым личным оружием во всем арсенале компании Merr-Sonn Munitions. Разработанная во время Войн клонов, эта 'cip-quad' использовалась специалистами по тяжелому вооружению в элитных подразделениях Великой Армии Республики, таких как клон-солдаты АРК. Во время Галактической гражданской войны большинство таких пушек выдается имперской тяжелой пехоте, поддерживающей 'Hell’s Hammers' - элитный авангардный бронетанковый полк. Повстанцы приобретают их редко, так как забрать их у павших 'Молотов' практически невозможно, а на черном рынке они встречаются редко и стоят дорого.
+[P]Конструкция счетверенной возвратно-поступательной бластерной пушки использует специальную пневматическую подвеску для фиксации и стабилизации оружия перед владельцем. Кроме того, стрелок обычно оснащается портативным термоядерным генератором (обычно носимым на спине) для питания пушки. Десятки микрорепульсоров, расположенных вдоль стволов, частично компенсируют огромный вес оружия, а инерционные компенсаторы снижают сильную отдачу. Несмотря на встроенную поддержку, те, кто не имеет опыта обращения с этим оружием, могут получить серьезные травмы от отдачи, если его чувствительные компенсаторы не откалиброваны с высокой точностью.
+[P]Это оружие можно использовать только в режиме автоматической стрельбы, качество Auto-Fire. ГМ может потратить [DE] или [TH][TH][TH][TH] при боевой проверке этим оружием, чтобы заставить владельца получить "Критическое ранение" с модификатором -50 к броску, до минимума 1 (см. [B]Таблицу 6-10: Результаты критических ранений[b] на странице 231 книги правил [B]Эпоха Восстания[b]).</Description>
     <Source Page="45">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -14755,11 +14717,11 @@ one (see [B]Table 6-10: Critical Injury Result[b] on page
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>This weapon can only be used in Auto-fire mode.</MiscDesc>
+        <MiscDesc>Это оружие можно использовать только в режиме автоматической стрельбы.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>The GM may spend [DE] or [TH][TH][TH][TH] from a combat check with this weapon to have the wielder suffer a Critical injury with -50 to the roll, to a minimum of 1.</MiscDesc>
+        <MiscDesc>ГМ может потратить [DE] или [TH][TH][TH][TH] при проверке боя с этим оружием, чтобы владелец получил критическое ранение с -50 к броску, минимум 1.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>GUNN</SkillKey>
@@ -14792,10 +14754,10 @@ one (see [B]Table 6-10: Critical Injury Result[b] on page
   </Weapon>
   <Weapon>
     <Key>REDIRCRYST</Key>
-    <Name>Redirection Crystal</Name>
-    <Description>[H3]Redirection Crystal[h3]
-Redirection crystals are an invention of the Imperial Security Bureau. Produced in small numbers by the Imperial Department of Military Research for the ISB and various Imperial intelligence and wetworks teams, a redirection crystal is simply a container of pressurized Tibanna gas fitted with a focusing crystal and a short blaster barrel. When struck, typically by blaster or slugthrower fire, the canister ruptures and produces a blaster bolt through the attached barrel. The bolt the redirection crystal fires has a power output equal to a standard blaster rifle, but its range is significantly reduced. A redirection crystal is destroyed on use, leaving little behind to identify what it was. Redirection crystals are very popular among Imperial Intelligence agents, who often use them to obfuscate assassination scenes or frame others for crimes.
-[P]Setting up a redirection crystal requires a [B]Hard ([DI][DI][DI]) Skulduggery check[b]. Due to its size, hitting a redirection crystal requires a [B]Hard ([DI][DI][DI]) Ranged (Light)[b] or [B]Ranged (Heavy) check[b]. Redirection crystals have the following profile: (Damage 9; Critical 4; Range (Short); Limited Ammo 1). They cost 500 credits (R) and have a rarity of 9.</Description>
+    <Name>Кристалл перенаправления (Redirection Crystal)</Name>
+    <Description>[H3]Кристалл перенаправления[h3]
+Кристаллы перенаправления являются изобретением Имперского бюро безопасности. Производимые в небольших количествах Имперским департаментом военных исследований для ИББ и различных подразделений имперской разведки и ликвидаторов, кристалл перенаправления представляет собой по сути контейнер со сжатым тибаннским газом, оснащенный фокусирующим кристаллом и коротким бластерным стволом. При ударе, как правило, от выстрела из бластера или баллистического оружия, контейнер разрывается, и через прикрепленный ствол вылетает бластерный разряд. Разряд, выпускаемый кристаллом перенаправления, имеет мощность, равную мощности стандартной бластерной винтовки, но его дальность значительно снижена. Кристалл перенаправления разрушается при использовании, оставляя минимум улик для идентификации того, чем он был. Кристаллы перенаправления очень популярны среди агентов Имперской разведки, которые часто используют их для запутывания следов на месте убийства или подставы других лиц.
+[P]Установка кристалла перенаправления требует [B]Сложной ([DI][DI][DI]) проверки "Жульничества"[b]. Из-за его размера попадание по кристаллу перенаправления требует [B]Сложной ([DI][DI][DI]) проверки "Дальний бой (легкое оружие)"[b] или [B]"Дальний бой (тяжелое оружие)"[b]. Кристаллы перенаправления имеют следующие характеристики: (Урон 9; Крит 4; Дальность (Короткая); Limited Ammo 1). Они стоят 500 кредитов (Restricted) и имеют уровень редкости 9.</Description>
     <Sources>
       <Source Page="40">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
@@ -14821,26 +14783,26 @@ Redirection crystals are an invention of the Imperial Security Bureau. Produced 
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>Setting up a redirection crystal requires a [B]Hard ([DI][DI][DI]) Skulduggery check[b].</MiscDesc>
+        <MiscDesc>Для настройки кристалла перенаправления требуется [B]Сложная ([DI][DI][DI]) проверка "Жульничества"[b].</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>Hitting a redirection crystal requires a [B]Hard ([DI][DI][DI]) Ranged Light[b] or[B]Ranged Heavy check[b].</MiscDesc>
+        <MiscDesc>Для попадания в кристалл перенаправления требуется [B]Сложная ([DI][DI][DI]) проверка "Дальний бой (легкое оружие)"[b] или [B]"Дальний бой (тяжелое оружие)"[b].</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>The redirection crystal is destroyed upon use.</MiscDesc>
+        <MiscDesc>Кристалл перенаправления разрушается при использовании.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>REFCORTCAUNT</Key>
-    <Name>Refined Cortosis Gauntlets</Name>
+    <Name>Очищенные кортозисные перчатки (Refined Cortosis Gauntlets)</Name>
     <Description>
-      [H3]Refined Cortosis Gauntlets[h3]
+      [H3]Очищенные кортозисные перчатки[h3]
 
-Cortosis gauntlets are simply metal or composite gloves with thick forearm plates laced with cortosis ore. The cortosis in their construction allows them to block or even disrupt lightsaber blades.
-[P]When a character armed with a lightsaber makes a combat check targeting an opponent armed with refined cortosis gauntlets, [TH][TH][TH] or [DE] may be spent to cause a lightsaber to short out and deactivate after the combat check has been resolved. When a character armed with refined cortosis gauntlets makes a combat check targeting a character armed with a lightsaber, the attacking character may spend [AD][AD][AD] or [TR] to cause the lightsaber to short out and deactivate after the combat check has been resolved. The lightsaber may be reactivated as an incidental but it may not be reactivated until after the last Initiative slot during the next round.
+Кортозисные перчатки представляют собой металлические или композитные рукавицы с толстыми пластинами на предплечьях, содержащими кортозисную руду. Кортозис в их конструкции позволяет блокировать или даже выводить из строя клинки световых мечей.
+[P]Когда персонаж, вооруженный световым мечом, совершает боевую проверку по противнику, вооруженному очищенными кортозисными перчатками, можно потратить [TH][TH][TH] или [DE], чтобы вызвать короткое замыкание и отключение светового меча после проведения боевой проверки. Когда персонаж, вооруженный очищенными кортозисными перчатками, совершает боевую проверку по персонажу, вооруженному световым мечом, атакующий может потратить [AD][AD][AD] или [TR], чтобы вызвать короткое замыкание и отключение светового меча после разрешения боевой проверки. Световой меч можно реактивировать как побочное действие, но его нельзя включить снова до тех пор, пока не завершится последний слот Инициативы в следующем раунде.
 
-[BR][B]Models Include:[b] Various models. </Description>
+[BR][B]Модели включают:[b] Различные модели. </Description>
     <Source Page="171">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>BRAWL</SkillKey>
@@ -14859,11 +14821,11 @@ Cortosis gauntlets are simply metal or composite gloves with thick forearm plate
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>When attacked by a lightsaber, [TH][TH][TH] or [DE] may be spent to cause the lightsaber to short out and deactivate after the combat check is resolved.</MiscDesc>
+        <MiscDesc>При атаке световым мечом можно потратить [TH][TH][TH] или [DE], чтобы вызвать короткое замыкание и деактивацию светового меча после завершения проверки боя.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>When attacking an enemy armed with a lightsaber, [AD][AD][AD] or [TR] may be spent to cause the lightsaber to short out and deactivate after the combat check is resolved.</MiscDesc>
+        <MiscDesc>При атаке противника, вооруженного световым мечом, можно потратить [AD][AD][AD] или [TR], чтобы вызвать короткое замыкание и деактивацию светового меча после завершения проверки боя.</MiscDesc>
       </Mod>
     </BaseMods>
     <Qualities>
@@ -14874,15 +14836,15 @@ Cortosis gauntlets are simply metal or composite gloves with thick forearm plate
   </Weapon>
   <Weapon>
     <Key>REFCORTSTAFF</Key>
-    <Name>Refined Cortosis Staff</Name>
+    <Name>Очищенный кортозисный посох (Refined Cortosis Staff)</Name>
     <Description>
-      [H3]Refined Cortosis Staff[h3]
+      [H3]Очищенный кортозисный посох[h3]
 
-From the basic, utilitarian staff of a nerf herder to high-tech weapons used to subdue unruly mobs, staffs are ubiquitous throughout the galaxy. However, what would normally be a simple and common tool can be modified into a uniquely effective weapon against Force users through the use of refined cortosis. In most forms. cortosis ore resists and absorbs energy, allowing items to withstand blows from weapons that would normally shatter them. However, specifically refined cortosis has a unique secondary effect: it can short out lightsaber blades on contact, Working with this refined cortosis is extremely difficult due to the properties of the ore, and even making a simple weapon like a staff is inordinately expensive. However, such weapons can prove a deadly advantage if someone has to face down a lightsaber-wielding enemy.
+От простого, утилитарного посоха пастуха нерфов до высокотехнологичного оружия, используемого для усмирения неуправляемых толп, посохи повсеместно распространены по всей галактике. Однако то, что обычно является простым и распространенным инструментом, можно модифицировать в уникально эффективное оружие против чувствительных к Силе благодаря использованию очищенного кортозиса. В большинстве своих форм кортозисная руда сопротивляется и поглощает энергию, позволяя предметам выдерживать удары оружия, которое в обычных условиях их бы разрушило. Однако специально очищенный кортозис обладает уникальным вторичным эффектом: он может вызвать короткое замыкание и отключение клинка светового меча при контакте. Работа с этим очищенным кортозисом чрезвычайно сложна из-за свойств руды, и даже создание такого простого оружия, как посох, обходится несоразмерно дорого. Тем не менее, такое оружие может дать смертельное преимущество, если кому-то придется столкнуться с противником, вооруженным световым мечом.
 
-[P]When a character armed with a lightsaber makes a combat check targeting an opponent armed with a refined cortosis staff, [TH][TH][TH] or [DE] can be spent to cause the lightsaber to short out and deactivate after the combat check has been resolved. When a character armed with a refined cortosis staff makes a combat check targeting a character armed with a lightsaber, the attacking character may spend [AD][AD][AD] or [TR] to cause the lightsaber to short out and deactivate after the combat check has been resolved. The lightsaber may be reactivated as an incidental, but it may not be reactivated until after the last Initiative slot during the next round. Cortosis staffs require two hands to use.
+[P]Когда персонаж, вооруженный световым мечом, совершает боевую проверку по противнику, вооруженному очищенным кортозисным посохом, можно потратить [TH][TH][TH] или [DE], чтобы вызвать короткое замыкание и отключение светового меча после разрешения боевой проверки. Когда персонаж, вооруженный очищенным кортозисным посохом, совершает боевую проверку по персонажу, вооруженному световым мечом, атакующий может потратить [AD][AD][AD] или [TR], чтобы вызвать короткое замыкание и отключение светового меча после разрешения боевой проверки. Световой меч можно реактивировать как побочное действие, но его нельзя включить снова до тех пор, пока не завершится последний слот Инициативы в следующем раунде. Для использования кортозисных посохов требуются обе руки.
 
-[BR][B]Models Include:[b] Various models. </Description>
+[BR][B]Модели включают:[b] Различные модели. </Description>
     <Source Page="173">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -14906,10 +14868,10 @@ From the basic, utilitarian staff of a nerf herder to high-tech weapons used to 
   </Weapon>
   <Weapon>
     <Key>RENHEAVYBLAST</Key>
-    <Name>"Renegade" Heavy Blaster Pistol</Name>
+    <Name>Тяжелый бластерный пистолет "Renegade" ("Renegade" Heavy Blaster Pistol)</Name>
     <Description>
-      [H3]SoroSuub "Renegade" Heavy Blaster Pistol[h3]
-[P]The Renegade is the most powerful blaster pistol ever manufactured by SoroSuub. Popular with pirates and smugglers, the weapon is large and intimidating without being cumbersome and unwieldy. Due to its reliability, it’s also favored by Rebel SpecOps troops and vehicle crews. Though the weapon’s range is comparable to that of a typical heavy blaster pistol, the sacrifices made to increase its damage cause it to be somewhat inaccurate.</Description>
+      [H3]Тяжелый бластерный пистолет SoroSuub "Renegade"[h3]
+[P]"Renegade" является самым мощным бластерным пистолетом, когда-либо произведенным компанией SoroSuub. Пользуясь популярностью у пиратов и контрабандистов, это оружие имеет крупные и внушительные габариты, но при этом не является громоздким или неудобным в обращении. Благодаря своей надежности, оно также пользуется спросом у подразделений спецназа Повстанцев и экипажей транспортных средств. Хотя дальность действия оружия сопоставима с дальностью типичного тяжелого бластерного пистолета, компромиссы, на которые пришлось пойти ради увеличения его урона, делают его несколько неточным.</Description>
     <Source Page="106">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -14941,10 +14903,10 @@ From the basic, utilitarian staff of a nerf herder to high-tech weapons used to 
   </Weapon>
   <Weapon>
     <Key>REPIONCANNON</Key>
-    <Name>Repeating Ion Cannon</Name>
+    <Name>Повторяющаяся ионная пушка (Repeating Ion Cannon)</Name>
     <Description>
-      [H3]Repeating Ion Cannon[h3]
-Although the repeating cannon is less powerful than other ion weapons, its high rate of fire can provide a great advantage when employed against close formations of starfighters or the point defense systems of capital ships. While each pulse carries a lesser charge, the overall energy requirements of a repeating ion cannon rival or exceed even the most powerful traditional ion cannons. As a perhaps ironic result, after ignoring an Engineer's warnings, a number of captains have found their own ship drifting helplessly alongside the disabled enemy, its systems overloaded and drained.</Description>
+      [H3]Повторяющаяся ионная пушка[h3]
+Хотя повторяющаяся пушка менее мощная, чем другое ионное оружие, ее высокая скорострельность может обеспечить значительное преимущество при использовании против плотных построений звездных истребителей или систем точечной обороны крупных боевых кораблей. Хотя каждый импульс несет меньший заряд, общее энергопотребление повторяющейся ионной пушки сопоставимо с потребностями или даже превышает потребности самых мощных традиционных ионных пушек. В результате, что может показаться ироничным, проигнорировав предупреждения инженера, ряд капитанов обнаруживали, что их собственный корабль беспомощно дрейфует рядом с выведенным из строя противником, а его системы перегружены и полностью истощены.</Description>
     <Source Page="63">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -14974,10 +14936,10 @@ Although the repeating cannon is less powerful than other ion weapons, its high 
   </Weapon>
   <Weapon>
     <Key>REPTHROWRAZ</Key>
-    <Name>Repulsor Throwing Razor</Name>
-    <Description>[H3]Repulsor Throwing Razor[h3]
-A peculiar and deadly weapon originating in the gladiatorial arenas of Rodia, the repulsor throwing razor combines ancient and modern technology. This Rheshalva Interstellar Armaments weapon is a serrated, crescent-shaped blade designed to be thrown at its target. The weapon incorporates a miniature repulsor engine to extend its range and help guide it toward its target. A homing beacon in the weapon allows it to fly back to the user, although throwing razors are often purchased in pairs in case something prevents one from returning. While these weapons are most often used by Rodian bounty hunters, their flash and effectiveness have not gone unnoticed by other mercenaries and fighters, who have acquired throwing razors for their own use.
-[P] A character can spend [AD][AD] on a missed attack with a throwing razor to have it return to their hand at the beginning of their next turn.</Description>
+    <Name>Репульсорная метательная бритва (Repulsor Throwing Razor)</Name>
+    <Description>[H3]Репульсорная метательная бритва[h3]
+Это странное и смертоносное оружие, зародившееся на гладиаторских аренах Родии, сочетает в себе древние и современные технологии. Оружие от компании Rheshalva Interstellar Armaments представляет собой зазубренное лезвие серповидной формы, предназначенное для метания в цель. Оно оснащено миниатюрным репульсорным двигателем, который увеличивает его дальность и помогает направлять его к цели. Встроенный маяк наведения позволяет оружию возвращаться к владельцу, хотя метательные бритвы часто покупают парами на случай, если что-то помешает одной из них вернуться. Хотя это оружие чаще всего используется охотниками за головами-родианцами, его эффектность и результативность не остались незамеченными другими наемниками и бойцами, которые также приобрели метательные бритвы для собственного использования.
+[P] Персонаж может потратить [AD][AD] при промахе метательной бритвой, чтобы она вернулась в его руку в начале его следующего хода.</Description>
     <Source Page="41">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Thrown</Type>
@@ -14991,7 +14953,7 @@ A peculiar and deadly weapon originating in the gladiatorial arenas of Rodia, th
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Character may spend [AD][AD] on a missed attack to have it return to their hands at the beginning of their next turn.</MiscDesc>
+        <MiscDesc>Персонаж может потратить [AD][AD] при промахе метательной бритвой, чтобы она вернулась в его руку в начале его следующего хода.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
@@ -15021,11 +14983,11 @@ A peculiar and deadly weapon originating in the gladiatorial arenas of Rodia, th
   </Weapon>
   <Weapon>
     <Key>REPULSORGUN</Key>
-    <Name>Repulsor Gun</Name>
+    <Name>Репульсорный пистолет (Repulsor Gun)</Name>
     <Description>
-      [H3]Repulsor Gun[h3]
-Bored Technicians sometimes take a repulsor engine, add a charge capacitor and simple trigger mechinism and use it to amuse themselves during  lean periods.  Most often used to knock over empty caf containers, the repulsor gun still packs a mean punch.
-[P]On a [DE] result, the repulsor gun backfires; the user is knocked prone and suffers the disoriented condition for 2 rounds.</Description>
+      [H3]Репульсорный пистолет[h3]
+Скучающие Техники иногда берут репульсорный двигатель, добавляют к нему конденсатор заряда и простой спусковой механизм, чтобы развлечь себя в периоды затишья. Чаще всего такое устройство используют, чтобы сбивать пустые контейнеры из-под кафа, но репульсорный пистолет все равно обладает внушительной ударной мощью.
+[P]При результате [DE] в репульсорном пистолете происходит обратный удар: пользователь падает ничком и получает состояние 'дезориентация' на 2 раунда.</Description>
     <Source Page="46">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <Type>Tool</Type>
@@ -15048,20 +15010,20 @@ Bored Technicians sometimes take a repulsor engine, add a charge capacitor and s
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>Gain automatic [AD] on [B]Mechanics checks[b] to repair droids, vehicles, or starships.</MiscDesc>
+        <MiscDesc>Добавляйте автоматические [AD] при проверках [B]Механики[b] для ремонта дроидов, транспортных средств или звездолетов.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>[TH][TH] or [DE] on a Mechanics or Combat check may be spent to have all of its spray cartridges to run out.</MiscDesc>
+        <MiscDesc>[TH][TH] или [DE] при проверке "Механики" или Боевых навыков может быть потрачено, чтобы все распылительные картриджи закончились.</MiscDesc>
       </Mod>
     </BaseMods>
     <WeaponModifiers />
   </Weapon>
   <Weapon>
     <Key>RGL318</Key>
-    <Name>RGL-318 Rotary Grenade Launcher</Name>
-    <Description>[H3]RGL-318 Rotary Grenade Launcher[h3]
-Grenade launchers are some of the most versatile weapons available on the market. The ability to chamber various types of offensive, defensive, and less-lethal rounds allows a shooter to react quickly to the vagaries of the galaxy's battlefields The RGL-318, by Locris Syndicates, is a highly respected weapon that has been in service for decades in militaries and law-enforcement agencies throughout the galaxy. A big, intimidating weapon, the RGL-318 is roughly carbine-sized, with a short, wide barrel and a folding stack. A rotating cylinder mounted forward of the trigger carries six grenades and can be loaded one chamber at a time or dropped and instantly replaced with a fresh cylinder.
-[P]The weapon's listed price does not include ammunition. Grenades for the RGL-318 cost the same as equivalent hand grenades, but many dealers offer a 50-percent discount on cases of six. Any type of grenade can be chambered by the RGL-318, but the grenades must be specifically made to be fired from a grenade launcher. Launcher grenades cannot be thrown. The listed profile represents an RGL-318 loaded with standard frag grenades.</Description>
+    <Name>Роторный гранатомет RGL-318 (RGL-318 Rotary Grenade Launcher)</Name>
+    <Description>[H3]Роторный гранатомет RGL-318[h3]
+Гранатометы являются одними из самых универсальных видов оружия, доступных на рынке. Возможность снаряжать их различными типами наступательных, оборонительных и нелетальных боеприпасов позволяет стрелку быстро реагировать на непредсказуемость галактических полей боя. RGL-318 от Locris Syndicates - это заслуженно уважаемое оружие, которое десятилетиями состоит на вооружении армий и правоохранительных органов по всей галактике. Крупный и внушительный, RGL-318 по размеру примерно равен карабину, с коротким широким стволом и складным прикладом. Вращающийся цилиндр, расположенный перед спусковым крючком, вмещает шесть гранат и может заряжаться по одной каморе за раз, либо мгновенно заменяться на новый, полностью снаряженный цилиндр.
+[P]Указанная цена оружия не включает стоимость боеприпасов. Гранаты для RGL-318 стоят столько же, сколько аналогичные ручные гранаты, но многие дилеры предлагают 50-процентную скидку при покупке ящиков по шесть штук. В RGL-318 можно снаряжать любой тип гранат, но они должны быть специально предназначены для стрельбы из гранатомета. Гранаты для гранатометов нельзя метать вручную. Приведенный профиль описывает RGL-318, заряженный стандартными фугасными гранатами.</Description>
     <Source Page="41">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -15097,13 +15059,13 @@ Grenade launchers are some of the most versatile weapons available on the market
   </Weapon>
   <Weapon>
     <Key>RIOTRIFLE</Key>
-    <Name>R-88 Supressor Riot Rifle</Name>
+    <Name>Полицейская винтовка R-88 "Supressor" (R-88 Supressor Riot Rifle)</Name>
     <Description>
-      [H3]R-88 Supressor Riot Rifle[h3]
+      [H3]Полицейская винтовка R-88 "Supressor"[h3]
 
-Produced by the non-lethal weapons division of Merr-Sonn Munitions, the R-88 is one of the most common riot control weapons in the galaxy. First released decades before the Clone Wars, the R-88 is similar in design and operation to the rare and expensive Stokhli Spray Stick. These long arms resemble bulky blaster rifles with two large cylinders slung beneath the barrel. The cylinders are loaded with a highly effective liquid nerve agent called Brix-C Stun Fluid, which is synthesized by Merr-Sonn. When fired, the Suppressor shoots a high velocity, concentrated stream of Brix-C that quickly aerosolizes as it travels. Effective at short and medium ranges, the stun fluid deals its damage either through inhalation or skin contact and causes nausea, impaired vision, difficulty breathing, burning pain, and unconsciousness.
+Производимая подразделением нелетального оружия компании Merr-Sonn Munitions, винтовка R-88 является одним из самых распространенных видов оружия для контроля над беспорядками в галактике. Впервые выпущенная за десятилетия до Войн клонов, R-88 по конструкции и принципу действия схожа с редким и дорогим шоковым распылителем Stokhli. Это длинноствольное оружие напоминает громоздкие бластерные винтовки с двумя большими цилиндрами, закрепленными под стволом. Цилиндры заряжаются высокоэффективным жидким нервно-паралитическим агентом, известным как оглушающая жидкость Brix-C, которая синтезируется компанией Merr-Sonn. При выстреле "Supressor" выпускает высокоскоростную концентрированную струю жидкости Brix-C, которая быстро превращается в аэрозоль во время полета. Эффективная на короткой и средней дистанции, оглушающая жидкость наносит урон либо при вдыхании, либо при контакте с кожей, вызывая тошноту, ухудшение зрения, затрудненное дыхание, жгучую боль и потерю сознания.
 
-[P]While highly effective against sudden riots or other disturbances, the stun fluid is easily countered by breath masks and heavy clothing. This makes it less effective against determined, well organized targets expecting such weapons. At the GM's discretion, characters wearing breathing gear or sealed armor may take no damage or suffer no effects from the Suppressor.</Description>
+[P]Хотя оглушающая жидкость высокоэффективна против внезапных беспорядков или других волнений, ее действие легко нейтрализуется дыхательными масками и плотной одеждой. Это делает ее менее эффективной против решительных, хорошо организованных целей, ожидающих применения подобного оружия. По усмотрению ГМа, персонажи, носящие дыхательное снаряжение или герметичную броню, могут не получать урон или не подвергаться воздействию от "Supressor".</Description>
     <Source Page="40">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -15138,13 +15100,13 @@ Produced by the non-lethal weapons division of Merr-Sonn Munitions, the R-88 is 
   </Weapon>
   <Weapon>
     <Key>RIOTSHIELD</Key>
-    <Name>Riot Shield</Name>
+    <Name>Полицейский щит (Riot Shield)</Name>
     <Description>
-      [H3]Riot Shield[h3]
+      [H3]Полицейский щит[h3]
 
-Carried throughout the galaxy by law enforcement officers responding to riots and violent protests, riot shields are a symbol of faceless authority and, occasionally, oppression. The Actiw 1 by Drearian Defense is one of the most common models available in the Outer Rim. Worn strapped to an officer's non-dominant forearm, a riot shield averages around a meter long and nearly as wide, providing almost complete cover for a kneeling or crouching officer. They are constructed from a variety of materials. The shields are typically shaped in such a way as to help deflect incoming thrown objects and stand up to sustained fire from nearly any sidearm, although anything more powerful than a heavy blaster makes short work of a riot shield and the officer behind it. In addition to their obvious protective qualities, riot shields can be used as improvised, somewhat awkward melee weapons, allowing an officer to push and bash his way through a crowd if need be.
+Носимые по всей галактике сотрудниками правоохранительных органов, реагирующими на беспорядки и жестокие протесты, щиты для подавления беспорядков являются символом безликой власти, а иногда и угнетения. Модель Actiw 1 от компании Drearian Defense является одной из самых распространенных моделей, доступных во Внешнем Кольце. Закрепляемый ремнями на предплечье нерабочей руки сотрудника, такой щит имеет среднюю длину около метра и почти такую же ширину, обеспечивая почти полное укрытие для стоящего на коленях или присевшего сотрудника. Они изготавливаются из самых разных материалов. Щиты обычно имеют такую форму, которая помогает отражать летящие предметы и выдерживать непрерывный огонь практически из любого пистолета, хотя любое оружие мощнее тяжелого бластера легко пробивает как сам щит, так и сотрудника за ним. Помимо своих очевидных защитных свойств, щиты для подавления беспорядков можно использовать как импровизированное, несколько неуклюжее оружие ближнего боя, позволяющее сотруднику при необходимости прокладывать себе путь сквозь толпу, расталкивая и нанося удары.
 
-[P]Riot shields require one hand to wield, and so can only be used with pistols and one-handed melee weapons. Some riot shields incorporate a slot or mag-lock to allow the user to support a Ranged (Heavy) weapon with the shield itself (firing the weapon one-handed while wielding the riot shield in the other hand). A riot shield with this feature costs an additional 100 credits and has no hard points. Firing a rifle locked to the shield in this way is somewhat cumbersome, and adds [SE] to combat checks with both weapons.</Description>
+[P]Для использования щита для подавления беспорядков требуется одна рука, поэтому его можно применять только вместе с пистолетами и одноручным оружием ближнего боя. Некоторые щиты для подавления беспорядков оснащены пазом или магнитным замком, позволяющим пользователю опереть оружие "Дальний бой (тяжелое оружие)" на сам щит (стреляя из оружия одной рукой, удерживая щит в другой). Щит для подавления беспорядков с этой функцией стоит дополнительно 100 кредитов и не имеет точек крепления. Стрельба из винтовки, закрепленной на щите таким образом, довольно неудобна и добавляет [SE] к боевым проверкам обоими видами оружия.</Description>
     <Sources>
       <Source Page="42">Дополнение: Далекие горизонты (Far Horizons)</Source>
       <Source Page="43">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
@@ -15187,11 +15149,11 @@ Carried throughout the galaxy by law enforcement officers responding to riots an
   </Weapon>
   <Weapon>
     <Key>RIVETGUN</Key>
-    <Name>Rivet Gun</Name>
+    <Name>Заклепочный пистолет (Rivet Gun)</Name>
     <Description>
-      [H3]Rivet Gun[h3]
-Most rivet guns work around the principle of a basic pneumatic hammer, and fire bolts into vehicle plating. Of course, some rivet guns are more-potent than others, based on the thickness of the plating they are intended to secure. As such, a Technician can easily adapt a more powerful rivet gunt into a serviceable slugthrower by ignoring a few of the safety operating protocols, such as "keep cartridge pressure at or beneath printed factory settings" and never point the rivet gun at living creatures or droids". While rivet guns are hardly combat weapons, and thus only function up close and with minimal accuracy, no wise sentient would completely ignore the threat presented by an irate Technician carrying one.
-[P]A rivet gun reduces the difficulty of Mechanics checks to reapair Critical Hits on vehicles and starships by 1 (to a minimum of [B]Simple (-)[b]).</Description>
+      [H3]Заклепочный пистолет[h3]
+Большинство заклепочных пистолетов работают по принципу обычного пневматического молотка и забивают болты в обшивку транспортных средств. Конечно, некоторые заклепочные пистолеты мощнее других, в зависимости от толщины обшивки, которую они призваны скреплять. Таким образом, Техник может легко переделать более мощный заклепочный пистолет в пригодное для использования баллистическое оружие, проигнорировав несколько правил техники безопасности, таких как 'поддерживайте давление в патроне на уровне заводских настроек или ниже' и 'никогда не направляйте заклепочный пистолет на живых существ или дроидов'. Хотя заклепочные пистолеты вряд ли можно назвать полноценным боевым оружием, и поэтому они эффективны только вблизи и с минимальной точностью, ни один разумный представитель не станет полностью игнорировать угрозу, исходящую от разъяренного Техника с таким инструментом в руках.
+[P]Заклепочный пистолет снижает сложность проверок "Механики" для ремонта "Критических повреждений" на транспортных средствах и звездолетах на 1 (до минимума [B]Простой (-)[b]).</Description>
     <Source Page="46">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <Type>Tool</Type>
@@ -15223,17 +15185,17 @@ Most rivet guns work around the principle of a basic pneumatic hammer, and fire 
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>A rivet gun reduces the difficulty of Mechanics checks to repair Critical Hits on vehicles and starships by 1 (to a minimum of [B]Simple [-][b].</MiscDesc>
+        <MiscDesc>Заклепочный пистолет снижает сложность проверок "Механики" для ремонта "Критических повреждений" на транспортных средствах и звездолетах на 1 (до минимума [B]Простой [-][b].</MiscDesc>
       </Mod>
     </BaseMods>
     <WeaponModifiers />
   </Weapon>
   <Weapon>
     <Key>RLR331</Key>
-    <Name>RLR-331 "Bulldog" Rocket Rifle</Name>
-    <Description>[H3]RLR-331 "Bulldog" Rocket Rifle[h3]
-Kelvarek Consolidated Arms' RLR-331 is a Clone Wars-era weapon popular with mercenaries and insurgents throughout the galaxy. Remarkably similar in appearance to Baktoid Armor Workshop's E-5 blaster rifle-a fact that, during its heyday, did not go unnoticed by Baktoid's powerful legal department-the RLR-331 is a bulky weapon wit h a squat, squared-off barrel. It launches small guided rockets from a detachable magazine. Originally sold in bulk to the Confederacy of Independent Systems, Bulldogs were carried by heavy-support B1 battle droids as anti-materiel and light anti-armor weapons. They were used to great effect against the Grand Army of the Republic's heavily armored clone troopers and fighting vehicles, and gained a fearsome reputation among the CIS's foes.
-[P]Rockets for the RLR-331 cost 100 credits each and have a rarity of 5.</Description>
+    <Name>Ракетная винтовка RLR-331 "Bulldog" (RLR-331 "Bulldog" Rocket Rifle)</Name>
+    <Description>[H3]Ракетная винтовка RLR-331 "Bulldog"[h3]
+RLR-331 от компании Kelvarek Consolidated Arms - это оружие эпохи Войн клонов, популярное среди наемников и повстанцев по всей галактике. Удивительно похожая по внешнему виду на бластерную винтовку E-5 от Baktoid Armor Workshop (факт, который в период своего расцвета не ускользнул от внимания мощного юридического отдела Baktoid), RLR-331 представляет собой громоздкое оружие с коротким стволом квадратного сечения. Она запускает небольшие управляемые ракеты из съемного магазина. Изначально продававшиеся крупными партиями Конфедерации независимых систем, "Bulldog" использовались боевыми дроидами B1 тяжелой поддержки в качестве противотехнического и легкого противотанкового оружия. Они с большим успехом применялись против тяжелобронированных клон-солдат и боевых машин Великой Армии Республики, снискав себе грозную репутацию среди врагов КНС.
+[P]Ракеты для RLR-331 стоят по 100 кредитов каждая и имеют уровень редкости 5.</Description>
     <Source Page="41">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -15273,11 +15235,11 @@ Kelvarek Consolidated Arms' RLR-331 is a Clone Wars-era weapon popular with merc
   </Weapon>
   <Weapon>
     <Key>ROTREPBLASTCAN</Key>
-    <Name>Rotary Repeating Blaster Cannon</Name>
+    <Name>Вращающаяся бластерная пушка (Rotary Repeating Blaster Cannon)</Name>
     <Description>
-      [H3]Rotary Repeating Blaster Cannon[h3]
+      [H3]Вращающаяся бластерная пушка[h3]
 
-The rotary blaster cannon, is a blaster cannon used by the Grand Army of the Republic during the Clone Wars.</Description>
+Вращающаяся бластерная пушка представляет собой вид бластерного вооружения, использовавшегося Великой Армией Республики во время Войн клонов.</Description>
     <Source Page="54">Модуль приключения: Нападение на Арду I (Onslaught at Arda I)</Source>
     <Sources />
     <Custom>DescOnly</Custom>
@@ -15310,11 +15272,11 @@ The rotary blaster cannon, is a blaster cannon used by the Grand Army of the Rep
   </Weapon>
   <Weapon>
     <Key>RPS6ROCKET</Key>
-    <Name>RPS-6 Rocket Launcher</Name>
-    <Description>[H3]RPS-6 Rocket Launcher[h3]
-Built by Sienar, the RPS-6 is the GAR's primary infantry portable shoulder fired missile launcher. A flexible, versatile weapon, the RPS-6 can fire a variety of different missiles, from frag and armor piercing to plasma and EMP missiles. Equipped with a sophisticated optics system and fed from a seven-round magazine, the RPS-6 is highly effective against both ground and air targets in the hands of a well-trained clone trooper.
+    <Name>Ракетная установка RPS-6 (RPS-6 Rocket Launcher)</Name>
+    <Description>[H3]Ракетная установка RPS-6[h3]
+Разработанная компанией Sienar, RPS-6 является основной портативной пехотной ракетной установкой, запускаемой с плеча, в Великой Армии Республики. Будучи гибким и универсальным оружием, RPS-6 может стрелять различными типами ракет: от осколочных и бронебойных до плазменных и электромагнитных (ЭМИ). Оснащенная сложной оптической системой и питаемая из магазина на семь ракет, RPS-6 высокоэффективна как против наземных, так и против воздушных целей в руках хорошо обученного клон-солдата.
 
-[P]If attacking a target of silhouette 2 or greater, an RPS-6 adds [BO] if the user performs an aim maneuver.
+[P]При атаке цели с силуэтом 2 или выше, RPS-6 добавляет [BO], если пользователь совершает маневр 'Прицеливание'.
 </Description>
     <Source Page="53">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     <Custom>DescOnly</Custom>
@@ -15331,7 +15293,7 @@ Built by Sienar, the RPS-6 is the GAR's primary infantry portable shoulder fired
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>When performing the Aim maneuver, add extra [BO] against a silhouette 2 or greater target.</MiscDesc>
+        <MiscDesc>При выполнении маневра 'Прицеливание' добавьте дополнительное [BO] по цели с силуэтом 2 или более.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>GUNN</SkillKey>
@@ -15363,10 +15325,10 @@ Built by Sienar, the RPS-6 is the GAR's primary infantry portable shoulder fired
   </Weapon>
   <Weapon>
     <Key>RS01RIP</Key>
-    <Name>RS01 "Ripper" Powersword</Name>
-    <Description>[H3]RS01 "Ripper" Powersword[h3]
-Powerswords are large, heavy vibroswords equipped with high-output vibrofield generators that allow them to cleave through most materials. Many also feature monomolecular edges, serrated blades. or other performance-enhancing modifications that improve their balance or killing power. SoroSuub's RS01 Ripper is a massive, two-handed weapon with a straight, single-edged blade like a great cavalry saber. Designed more for heavy, chopping blows than for dueling or precision work, the RS01 is designed as much for intimidation as it is for fighting. It is commonly associated with enforcers and other unsavory characters who may or may not have something to prove, and has therefore gained a reputation as a clumsy and brutish weapon.
-[P]A powersword requires two hands to wield.</Description>
+    <Name>Силовой меч RS01 "Ripper" (RS01 "Ripper" Powersword)</Name>
+    <Description>[H3]Силовой меч RS01 "Ripper"[h3]
+Силовые мечи представляют собой большие, тяжелые вибромечи, оснащенные высокопроизводительными генераторами виброполя, которые позволяют им прорубать большинство материалов. Многие из них также имеют мономолекулярную заточку, зубчатые лезвия или другие модификации, повышающие эффективность, которые улучшают их баланс или убойную силу. RS01 "Ripper" от компании SoroSuub - это массивное двуручное оружие с прямым однорежущим лезвием, напоминающим тяжелую кавалерийскую саблю. Разработанный скорее для нанесения мощных рубящих ударов, чем для дуэлей или точной работы, RS01 предназначен в равной степени для устрашения, как и для боя. Его обычно ассоциируют с вышибалами и другими сомнительными личностями, которым, возможно, есть что доказывать, и поэтому он приобрел репутацию неуклюжего и грубого оружия.
+[P]Для использования силового меча требуются обе руки.</Description>
     <Source Page="43">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -15408,12 +15370,12 @@ Powerswords are large, heavy vibroswords equipped with high-output vibrofield ge
   </Weapon>
   <Weapon>
     <Key>RYYKBLADE</Key>
-    <Name>Ryyk Blade</Name>
+    <Name>Клинок Риик (Ryyk Blade)</Name>
     <Description>
-      [H3]Ryyk Blade[h3]
+      [H3]Клинок Риик[h3]
 
-The traditional melee weapon of the Wookiees, a Ryyk blade is a heavy, single-edged sword useful for clearing away both brush and enemies in the thick jungles of Kashyyyk. Though the weapon has changed little over the millennia, many Wookiees prefer the weapon of their ancestors to more technologically-advanced vibro-weapons.
-[P]The damage from the Superior quality is included in the profile.</Description>
+Традиционное оружие ближнего боя вуки, клинок Риик представляет собой тяжелый клинок с одним лезвием, который одинаково хорошо подходит как для расчистки зарослей, так и для устранения врагов в густых джунглях Кашиика. Хотя за тысячелетия это оружие изменилось незначительно, многие вуки предпочитают оружие своих предков более технологически продвинутому виброоружию.
+[P]Урон от качества "Superior" уже включен в профиль характеристик.</Description>
     <Source Page="48">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -15458,10 +15420,10 @@ The traditional melee weapon of the Wookiees, a Ryyk blade is a heavy, single-ed
   </Weapon>
   <Weapon>
     <Key>SAPGLOVES</Key>
-    <Name>Sap Gloves</Name>
-    <Description>[H3]Sap Gloves[h3]
-Sap gloves are produced by a number of companies throughout the galaxy. Made in a variety of styles for nearly every imaginable species, they are simply a pair of gloves with heavy plates, alloy pellets, sand, or some other dense, weighty material sewn into the fingers and back of the hand. Relatively innocuous when worn, sap gloves amplify a wearer's punch and act almost like brass knuckles. Sap gloves are popular among law enforcement and intelligence services throughout the galaxy, and their use is extremely common in the criminal underworld.
-[P]Spotting sap gloves on an individual requires a [B]Daunting ([DI][DI][DI][DI]) Perception check[b].</Description>
+    <Name>Перчатки-кастеты (Sap Gloves)</Name>
+    <Description>[H3]Перчатки-кастеты[h3]
+Перчатки-кастеты производятся множеством компаний по всей галактике. Выполненные в самых разных стилях для практически любых мыслимых видов, они представляют собой обычные перчатки, в пальцы и тыльную сторону ладони которых вшиты тяжелые пластины, металлические дробинки, песок или какой-либо другой плотный, увесистый материал. Будучи относительно безобидными на вид при ношении, перчатки-кастеты усиливают удар владельца и действуют почти как кастет. Они пользуются популярностью среди правоохранительных органов и разведывательных служб по всей галактике, а их применение чрезвычайно распространено в криминальном мире.
+[P]Обнаружение перчаток-кастетов на человеке требует [B]Пугающей ([DI][DI][DI][DI]) проверки "Внимания"[b].</Description>
     <Sources>
       <Source Page="40">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
@@ -15486,17 +15448,17 @@ Sap gloves are produced by a number of companies throughout the galaxy. Made in 
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>Spotting sap gloves requires [B]Daunting ([DI][DI][DI][DI]) Perception check[b].</MiscDesc>
+        <MiscDesc>Обнаружение перчаток-кастетов на человеке требует [B]Пугающей ([DI][DI][DI][DI]) проверки "Внимания"[b].</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>SE14C</Key>
-    <Name>SE-14c Blaster Pistol</Name>
+    <Name>Бластерный пистолет SE-14c (SE-14c Blaster Pistol)</Name>
     <Description>
-      [H3]BlasTech SE-14C Blaster Pistol[h3]
-Of all standard issue Imperial blasters, few pack as much bang per credit as the SE-14C blaster pistol. This weapon is the latest BlasTech Industries upgrade of the semi-automatic SR Combat Pistol that was used by the Seperatist droid army at the height of the Clone Wars. The Galactic Empire contracted BlasTech to produce an alternate model with fully-automatic capabilities, which resulted in the SE-14r Repeater Pistol. However, overheating stemming from prolonged discharges of that weapon would warp the barrel, causing potentially catastrophic malfunctions.
-[P]The SE-14C addresses the heat management issue by integrating the power pack into the back of the barrel. The clip, blaster gas, and barrel are changed out as a solid piece while reloading. A valve allows viable clips to be recharged during downtime to keep costs down. Although the Empire uses the SE-14C primarily as a sidearem, the blaster's intimidating reputation has made it popular among mercenaries and thieves.</Description>
+      [H3]Бластерный пистолет BlasTech SE-14c[h3]
+Из всех стандартных бластеров Империи немногие обеспечивают такую огневую мощь на каждый потраченный кредит, как бластерный пистолет SE-14C. Это оружие является новейшей модернизацией от BlasTech Industries полуавтоматического боевого пистолета SR, который использовался дроидовой армией сепаратистов в разгар Войн клонов. Галактическая Империя заключила контракт с BlasTech на производство альтернативной модели с возможностью полностью автоматической стрельбы, что привело к созданию бластерного пистолета SE-14r. Однако перегрев, вызванный продолжительными очередями из этого оружия, приводил к деформации ствола и потенциально катастрофическим поломкам.
+[P]Модель SE-14C решает проблему перегрева путем интеграции энергоэлемента в заднюю часть ствола. При перезарядке магазин, бластерный газ и ствол заменяются как единый блок. Специальный клапан позволяет перезаряжать исправные магазины в периоды простоя, что помогает снизить расходы. Хотя Империя использует SE-14C в первую очередь в качестве запасного оружия, устрашающая репутация этого бластера сделала его популярным среди наемников и воров.</Description>
     <Source Page="42">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -15526,13 +15488,13 @@ Of all standard issue Imperial blasters, few pack as much bang per credit as the
   </Weapon>
   <Weapon>
     <Key>SE14RBLASTLTREP</Key>
-    <Name>SE-14r Light Repeating Blaster</Name>
+    <Name>Лёгкий автоматический бластер SE-14r (SE-14r Light Repeating Blaster)</Name>
     <Description>
-      [H3]SE-14r Light Repeating Blaster[h3]
+      [H3]Лёгкий автоматический бластер SE-14r[h3]
 
-The BlasTech SE-14r, also known as the Imperial repeating pistol, combines the portability and ease of use of a blaster pistol with a high rate of fire. These weapons are carried as side arms by some Imperial officers (including some stormtrooper commanders) and pilots. Manufactured specifically for Imperial forces, some of these weapons inevitably find their way onto the black market, where they fetch a high price.
+Бластер SE-14r от компании BlasTech, также известный как имперский автоматический бластер, сочетает в себе портативность и простоту использования бластерного пистолета с высокой скорострельностью. Это оружие носят в качестве запасного некоторые имперские офицеры (включая отдельных командиров штурмовиков) и пилоты. Изготовленное специально для имперских сил, часть этого оружия неизбежно попадает на черный рынок, где за него назначают высокую цену.
 
-[P]Due to its high rate of fire, the SE-14r is more likely to run out of ammo during an extended firelight or series of engagements. The GM may spend [TH][TH][TH] to cause a character's SE-14r to run out of ammo.</Description>
+[P]Из-за высокой скорострельности SE-14r с большей вероятностью может остаться без боеприпасов во время продолжительной перестрелки или серии столкновений. ГМ может потратить [TH][TH][TH], чтобы заставить бластер SE-14r персонажа остаться без боеприпасов.</Description>
     <Source Page="43">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -15552,7 +15514,7 @@ The BlasTech SE-14r, also known as the Imperial repeating pistol, combines the p
         <Key />
         <Count>1</Count>
         <Index>0</Index>
-        <MiscDesc>[THREAT][THREAT][THREAT] may cause out of ammo.</MiscDesc>
+        <MiscDesc>[THREAT][THREAT][THREAT] может оставить оружие без боеприпасов.</MiscDesc>
         <DefZone />
       </Mod>
     </BaseMods>
@@ -15582,11 +15544,11 @@ The BlasTech SE-14r, also known as the Imperial repeating pistol, combines the p
   </Weapon>
   <Weapon>
     <Key>SECURITYS5</Key>
-    <Name>Security S-5 Heavy Blaster Pistol</Name>
+    <Name>Тяжелый бластерный пистолет Security S-5 (Security S-5 Heavy Blaster Pistol)</Name>
     <Description>
-      [H3]Security S-5 Heavy Blaster Pistol[h3]
-[P]A pistol designed and manufactured by Theed Arms on Naboo, the Security S-5 is a reliable, versatile weapon. During the Clone Wars, it was a preferred weapon of the Royal Naboo Security Forces, and it remains a popular choice for private security groups, bodyguards and other blaster conoisseurs. Its under-barrel dart launcher can be configured to launch solid projectiles of various sorts; on eparticularly common choice is a grappling hook attached to a cable, which wielders can use to anchor themselves to nearby objects, swing across gaps, and safely descend into drops.
-[P]As an action, a character may make an Average ([DI][DI]) Ranged (Light) check to secure the grappling hook to an object within medium range. On success, as an action, he may reel in the cord, pullin ghimself to the object (or, if the object is unsecured and lighter than he is, pulling it to him). A character may use the grappling hook to pull another character aloft with him; if he does, he must make an Average ([DI][DI]) Athletics check to avoid losing his grip on either his partner or his gun.</Description>
+      [H3]Тяжелый бластерный пистолет Security S-5[h3]
+[P]Пистолет, разработанный и произведенный компанией Theed Arms на Набу, Security S-5 является надежным и универсальным оружием. Во время Войн клонов он был предпочтительным оружием Королевских сил безопасности Набу, и он остается популярным выбором для частных охранных групп, телохранителей и других ценителей бластеров. Его подствольная пусковая установка может быть настроена для запуска твердых снарядов различных типов; одним из особенно распространенных вариантов является крюк-кошка, прикрепленный к тросу, который владельцы могут использовать, чтобы закрепиться на близлежащих объектах, перелетать через пропасти и безопасно спускаться вниз.
+[P]В качестве действия персонаж может совершить [B]Среднюю ([DI][DI]) проверку "Дальний бой (легкое оружие)"[b], чтобы закрепить крюк-кошку на объекте в пределах средней дистанции. В случае успеха, в качестве действия, он может смотать трос, подтягивая себя к объекту (или, если объект не закреплен и легче его, подтягивая объект к себе). Персонаж может использовать крюк-кошку, чтобы подтянуть другого персонажа наверх вместе с собой; если он это сделает, он должен совершить [B]Среднюю ([DI][DI]) проверку "Атлетики"[b], чтобы не потерять хватку ни на своем напарнике, ни на своем оружии.</Description>
     <Source Page="43">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -15605,7 +15567,7 @@ The BlasTech SE-14r, also known as the Imperial repeating pistol, combines the p
       <Mod>
         <Key />
         <Count>1</Count>
-        <MiscDesc>Character may make an [B]Average ([DI][DI]) Ranged (Light) check[b] to secure the grappling hook to an object within medium range. An [B]Average ([DI][DI]) Athletics check[b] may be used to carry another character with him.</MiscDesc>
+        <MiscDesc>Персонаж может совершить [B]Среднюю ([DI][DI]) проверку "Дальний бой (легкое оружие)"[b], чтобы закрепить крюк-кошку на объекте в пределах средней дистанции. [B]Средняя ([DI][DI]) проверка "Атлетики"[b] может быть использована для переноса другого персонажа с собой.</MiscDesc>
       </Mod>
     </BaseMods>
     <WeaponModifiers />
@@ -15621,26 +15583,12 @@ The BlasTech SE-14r, also known as the Imperial repeating pistol, combines the p
   </Weapon>
   <Weapon>
     <Key>SH9</Key>
-    <Name>SH-9 Slugthrower Pistol</Name>
+    <Name>Пулевой пистолет SH-9 (SH-9 Slugthrower Pistol)</Name>
     <Description>
-      [H3]SH-9 Slugthrower Pistol[h3]
-Special forces troops understand that sometimes
-high-tech isn’t the best tech to get the jo b done. The
-designers at Czerka Arm s realize this, too, and produce a line of slugthrowers to fill a variety of niche
-roles, such as the SH-9 slugthrower pistol. Covert ops
-units favor this model, dubbed the "whisper pistol,"
-as a stealthy hold-out for silent, up-close takedowns.
-[P]The SH-9 is a compact slugthrower made from composite materials, making it easily hidden from view
-and difficult to detect on weapons scans, even by a
-skilled sensor technician. Its ammo is magazine-fed
-with a small capacity, and the pistol comes with an
-inbuilt silencer to help its user keep a low profile during commando raids and other stealth action. Unlike
-some blasters and even othe r slugthrowers, the SH-9
-functions well enough even when wet or submerged.
-For all these reasons, and the fact that its slugs can
-penetrate most light laminate armors, the SH-9 is a
-favorite boot gun among Alliance SpecOps soldiers.
-[P]Add [SE] to Perception checks to find an SH-9 slugthrower pistol on a person's body. Add [SE] to Perception or Vigiliance checks made to locate a concealed shooter firing an SH-9 slugthrower pistol.</Description>
+      [H3]Пулевой пистолет SH-9[h3]
+Войска спецназа понимают, что передовые технологии не всегда являются лучшим решением для выполнения задачи. Конструкторы Czerka Arms также осознают это и производят линейку пулевого оружия для выполнения различных узкоспециализированных задач, например, пулевой пистолет SH-9. Подразделения скрытых операций отдают предпочтение этой модели, получившей прозвище 'шепчущий пистолет', как скрытному оружию для бесшумного устранения целей в ближнем бою.
+[P]SH-9 представляет собой компактное пулевое оружие, изготовленное из композитных материалов, что позволяет легко скрыть его от глаз и затрудняет обнаружение при сканировании на оружие, даже опытным техником по сенсорам. Питание оружия осуществляется из магазина небольшой емкости, а пистолет оснащен встроенным глушителем, помогающим пользователю оставаться незамеченным во время рейдов коммандос и других скрытных операций. В отличие от некоторых бластеров и даже другого пулевого оружия, SH-9 достаточно хорошо функционирует даже во влажном состоянии или под водой. По всем этим причинам, а также благодаря тому, что его пули способны пробивать большинство легких ламинатных доспехов, SH-9 является излюбленным скрытым оружием среди солдат спецназа Альянса.
+[P]Добавьте [SE] к проверкам "Внимания" для обнаружения пулевого пистолета SH-9 на теле человека. Добавьте [SE] к проверкам "Внимания" или "Бдительности", предпринимаемым для обнаружения скрытного стрелка, ведущего огонь из пулевого пистолета SH-9.</Description>
     <Source Page="46">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Slugthrower</Type>
@@ -15654,11 +15602,11 @@ favorite boot gun among Alliance SpecOps soldiers.
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add [SE] to Perception checks to find an SH-9 slugthrower pistol on a person's body.</MiscDesc>
+        <MiscDesc>Добавьте [SE] к проверкам "Внимания", чтобы обнаружить пулевое пистолет SH-9 на теле человека.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add [SE] to Perception or Vigilance checks made to locate a concealed shooter firing an SH-9 slugthrower pistol.</MiscDesc>
+        <MiscDesc>Добавьте [SE] к проверкам "Внимания" или "Бдительности", выполняемым для обнаружения скрытого стрелка, стреляющего из пулевого пистолета SH-9.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
@@ -15678,11 +15626,11 @@ favorite boot gun among Alliance SpecOps soldiers.
   </Weapon>
   <Weapon>
     <Key>SHAPEDCHRG</Key>
-    <Name>Shaped Charge</Name>
+    <Name>Кумулятивный заряд (Shaped Charge)</Name>
     <Description>
-      [H3]Shaped Charge[h3]
-Shaped charges are specially designed demolitions devices intended for pinpoint destruction. Such devices consist of a sizable detonite charge enclosed in a cone-shaped plasteel casing. When the charge is detonated, the specially shaped casing focuses the force of the explosion in a small area, creating a powerful jet of fine plasteel particles and kinetic energy that can cut through the strongest materials. Shaped charges are typically used to destroy buildings and other structures by cutting through load-bearing and structural members. They can also be used to bore holes, destroy obstacles, and even create ersatz anti vehicle mines.
-[P]Shaped charges have the Breach 1 and Vicious 1 qualities, both of which increase by one for every additional shaped charge used.</Description>
+      [H3]Кумулятивный заряд[h3]
+Кумулятивные заряды - это специально разработанные подрывные устройства, предназначенные для точечного уничтожения. Такие устройства состоят из значительного заряда детонита, заключенного в конусообразный корпус из пластали. При детонации заряда корпус особой формы фокусирует силу взрыва на небольшой площади, создавая мощную струю мелких частиц пластали и кинетической энергии, способную прорезать самые прочные материалы. Кумулятивные заряды обычно используются для разрушения зданий и других сооружений путем перерезания несущих и конструктивных элементов. Их также можно использовать для проделывания отверстий, уничтожения препятствий и даже создания импровизированных противотранспортных мин.
+[P]Кумулятивные заряды обладают качествами "Breach 1" и "Vicious 1", значения которых увеличиваются на единицу за каждый дополнительный использованный кумулятивный заряд.</Description>
     <Sources>
       <Source Page="42">Дополнение: Полная оперативность (Fully Operational)</Source>
     </Sources>
@@ -15713,24 +15661,16 @@ Shaped charges are specially designed demolitions devices intended for pinpoint 
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>Breach and Vicious ratings increases by 1 for each additional charge.</MiscDesc>
+        <MiscDesc>Качества "Breach" и "Vicious" увеличиваются на 1 за каждый дополнительный заряд.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>SHAPEDTHERMALGREN</Key>
-    <Name>Shaped Thermal Grenade</Name>
+    <Name>Кумулятивная термальная граната (Shaped Thermal Grenade)</Name>
     <Description>
-      [H3]Shaped Thermal Grenade[h3]
-A favorite of marines and special forces, the shaped
-thermal grenade is a shaped sequencer charge capable of vaporizing virtually any target. It uses similar
-technology to a thermal detonator, but focuses the
-blast in a single direction to maximize damage to a
-specific object. Both the Empire and Rebellion use
-the shaped thermal grenade to obliterate structures
-and punch through heavy armor. However, the sheer
-cost of these deadly explosives means that they are
-deployed sparingly, at least by supply-conscious organizations like the Alliance to Restore the Republic.</Description>
+      [H3]Кумулятивная термальная граната[h3]
+Любимое оружие морских сил и сил специального назначения, кумулятивная термальная граната представляет собой кумулятивный заряд с секвенсором, способный испарить практически любую цель. В ней используются технологии, схожие с термодетонатором, но взрывная волна фокусируется в одном направлении для нанесения максимального урона конкретному объекту. Как Империя, так и Повстанцы используют кумулятивные термальные гранаты для уничтожения сооружений и пробития тяжелой брони. Однако высокая стоимость этих смертоносных взрывчатых веществ означает, что их применяют очень экономно, по крайней мере, в таких строго следящих за вопросами снабжения организациях, как Альянс за восстановление Республики.</Description>
     <Source Page="47">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -15763,11 +15703,11 @@ deployed sparingly, at least by supply-conscious organizations like the Alliance
   </Weapon>
   <Weapon>
     <Key>SHIELDGAUNT</Key>
-    <Name>Shield Gauntlet</Name>
+    <Name>Щитовой наруч (Shield Gauntlet)</Name>
     <Description>
-      [H3]Shield Gauntlet[h3]
-[P]Shield gauntlets are specialized defensive items popularized by the Kilian Rangers of Kilia IV. Appearing to be little more than a high-tech gauntlet, a shield gauntlet projects a protective, concave energy field of indistinct coloration. Though these unique items are used primarily by members of the Kilian Rangers, both as a defensive item and as a reminder of their oath to defend themselves and their families, a handful of shield gauntlets have found their way into the hands of collectors, black marketeers, and Force sensitives.
-[P]A shield gauntlet counts as a Lightsaber weapon for the purposes of the Reflect talent (see page 150 of the Книга правил: Сила и судьба).</Description>
+      [H3]Щитовой наруч[h3]
+[P]Щитовые наручи представляют собой специализированные защитные приспособления, популяризированные Килийскими следопытами с планеты Килия IV. Внешне представляя собой не более чем высокотехнологичный наруч, это устройство проецирует защитное вогнутое энергетическое поле неопределенного оттенка. Хотя эти уникальные предметы в основном используются членами Килийских следопытов как средство защиты и как напоминание об их клятве оберегать себя и свои семьи, небольшое количество щитовых наручей нашло свой путь в руки коллекционеров, торговцев черного рынка и чувствительных к Силе.
+[P]Для целей таланта "Отражение" щитовой наруч считается оружием типа "Световой меч" (см. страницу 150 книги правил [B]Сила и судьба[b]).</Description>
     <Source Page="44">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Brawling</Type>
@@ -15799,11 +15739,11 @@ deployed sparingly, at least by supply-conscious organizations like the Alliance
   </Weapon>
   <Weapon>
     <Key>SHISBLADE</Key>
-    <Name>Shistavanen Combat Utility Vibroblade</Name>
+    <Name>Боевой многофункциональный виброклинок шиставаненов (Shistavanen Combat Utility Vibroblade)</Name>
     <Description>
-      [H3]Shistavanen Combat Utility Vibroblade[h3]
-The wilds of Uvena Prime can be harsh and unforgiving, and have claimed countless Shistavanen hunters. For this reason, Shistavanen survivalists devised an item with every conceivable tool necessary to survive in the wilderness and in battle, dubbed the "Combat Utility Vibroblade". Shistavanens say that no respectable surivalist would be caught dead without this handy gadget, though their opinion is often somwhat biased. Still, each C.U.V. is a custom configuration, equipped with eight different tools of the owner's choosing, and as such these devices are extremely useful in the wilds. Containing anything from a fire starter to a hydrospanner to a water contaminant detector, the C.U.V. is many a survivalist's best friend.
-[P]The Combat Utility Vibroblade serves as a tool kit to allow Mechanics checks to repair devices and to "heal" droids, but adds [SE] to such checks. Additionally, it adds [BO] to the character's Survival checks.</Description>
+      [H3]Боевой многофункциональный виброклинок шиставаненов[h3]
+Дикая природа Увены Прайм может быть суровой и беспощадной, и она унесла жизни бесчисленного множества охотников-шиставаненов. По этой причине шиставаненские выживальщики разработали предмет, содержащий все мыслимые инструменты, необходимые для выживания в дикой природе и в бою, получивший название 'Боевой многофункциональный виброклинок'. Шиставанены утверждают, что ни один уважающий себя выживальщик скорее умрет, чем останется без этого удобного гаджета, хотя их мнение часто бывает несколько предвзятым. Тем не менее, каждый такой клинок собирается по индивидуальной конфигурации и оснащается восемью различными инструментами на выбор владельца, поэтому эти устройства чрезвычайно полезны в диких условиях. В его состав может входить что угодно: от огнива до гидроключа и детектора загрязнений воды, что делает этот клинок лучшим другом для многих выживальщиков.
+[P]Боевой многофункциональный виброклинок служит набором инструментов, позволяющим совершать проверки "Механики" для ремонта устройств и 'лечения' дроидов, но добавляет [SE] к таким проверкам. Кроме того, он добавляет [BO] к проверкам "Выживания" персонажа.</Description>
     <Source Page="48">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -15817,11 +15757,11 @@ The wilds of Uvena Prime can be harsh and unforgiving, and have claimed countles
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>The Combat Utility Vibroblade serves as a tool kit to allow Mechanics checks to repair devices and to "heal" droids, but adds [SE] to such checks.</MiscDesc>
+        <MiscDesc>Боевой многофункциональный виброклинок служит набором инструментов, позволяющим совершать проверки "Механики" для ремонта устройств и 'лечения' дроидов, но добавляет [SE] к таким проверкам.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Adds [BO] to the character's Survival checks.</MiscDesc>
+        <MiscDesc>Добавляйте [BO] к проверкам "Выживания" персонажа.</MiscDesc>
         <DieModifiers>
           <DieModifier>
             <SkillKey>SURV</SkillKey>
@@ -15848,14 +15788,13 @@ The wilds of Uvena Prime can be harsh and unforgiving, and have claimed countles
   </Weapon>
   <Weapon>
     <Key>SHOCKBOOTS</Key>
-    <Name>Shock Boots</Name>
+    <Name>Электрошоковые ботинки (Shock Boots)</Name>
     <Description>
-      [H3]Shock Boots[h3]
+      [H3]Электрошоковые ботинки[h3]
 
-SHOCK BOOTS
-Though shock gloves are fairly common among criminals and law enforcement personnel alike, shock boots are a specialty item crafted for those who are determined not to be caught defenseless under any circumstances. A solid kick from these boots activates the miniature power generators and electrical circuitry in their soles, delivering a paralyzing shock to an opponent. Generally indistinguishable from normal boots, few notice shock boots' dangerous capabilities until it's too late.
+Хотя электрошоковые перчатки довольно распространены как среди преступников, так и среди сотрудников правоохранительных органов, электрошоковые ботинки являются специализированным изделием, созданным для тех, кто твердо намерен ни при каких обстоятельствах не оказаться беззащитным. Сильный удар ногой в таких ботинках активирует миниатюрные электрогенераторы и электрические цепи в их подошвах, нанося противнику парализующий разряд. Как правило, их практически невозможно отличить от обычных ботинок, и мало кто замечает их опасные свойства, пока не становится слишком поздно.
 
-[P]Shock boots are worn on the feet, and thus do not require a hand to wield. Add [SE] to a character's Perception checks to notice that shock boots are a weapon rather than merely normal footwear.</Description>
+[P]Электрошоковые ботинки носятся на ступнях и, следовательно, не требуют свободной руки для использования. Добавьте [SE] к проверкам "Внимания" персонажа, чтобы заметить, что электрошоковые ботинки являются оружием, а не просто обычной обувью.</Description>
     <Source Page="45">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Brawling</Type>
@@ -15869,7 +15808,7 @@ Though shock gloves are fairly common among criminals and law enforcement person
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add [SE] to a Perception checks to notice they are a weapon.</MiscDesc>
+        <MiscDesc>Добавьте [SE] к проверкам "Внимания", чтобы заметить, что это оружие.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>BRAWL</SkillKey>
@@ -15891,13 +15830,13 @@ Though shock gloves are fairly common among criminals and law enforcement person
   </Weapon>
   <Weapon>
     <Key>SHOCKGL</Key>
-    <Name>Shock Gloves</Name>
+    <Name>Электрошоковые перчатки (Shock Gloves)</Name>
     <Description>
-      [H3]Shock Gloves[h3]
+      [H3]Электрошоковые перчатки[h3]
 
-Thin, metallic wires turn standard insulated gauntlets into shock gloves. Martial artists can use them to augment their brutal hand attacks, and more than a few nefarious rogues have been known to "seal a deal" with a handshake that leaves a rival convulsing on the floor.
+Тонкие металлические провода превращают стандартные изолированные перчатки в электрошоковые. Мастера боевых искусств могут использовать их для усиления своих жестоких ударов руками, и не один проходимец был замечен в том, что 'скреплял сделку' рукопожатием, после которого соперник бился в конвульсиях на полу.
 
-[P][B]Models Include[b]: Corellian Personal Defence X-21.</Description>
+[P][B]Модели включают[b]: Corellian Personal Defence X-21.</Description>
     <Sources>
       <Source Page="166">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="180">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -15927,10 +15866,10 @@ Thin, metallic wires turn standard insulated gauntlets into shock gloves. Martia
   </Weapon>
   <Weapon>
     <Key>SHOCKSTAFF</Key>
-    <Name>Shockprod Staff</Name>
-    <Description>[H3]Shockprod Staff[h3]
-The shockprod staff is the universally recognized symbol of the ancient tradition of Gand findsmen. Roughly as tall as a full-grown Gand, the shockprod staff is constructed of various alloys and equipped with a small, high-output power cell that generates a strong stun field. The top of the staff branches into a "V" shape. Electrodes at the tip of each branch focus the stun field and can be used to trap individuals or herd them wherever a findsman needs them to go. The staff can also fire a bolt of energy up to a few meters away, allowing the user to catch targets unaware or incapacitate particularly dangerous marks at a safe distance. Shockprod staffs are handmade by Gand findsmen and presented to new findsmen when they are initiated. Those that are available on the galactic arms market have been stolen, or looted from fallen Gands.
-[P]A shockprod staff requires two hands to wield.</Description>
+    <Name>Электрошоковый посох (Shockprod Staff)</Name>
+    <Description>[H3]Электрошоковый посох[h3]
+Электрошоковый посох является общепризнанным символом древней традиции гандов-следопытов. По высоте примерно равный взрослому ганду, этот посох изготовлен из различных сплавов и оснащен небольшим высокопроизводительным энергоэлементом, генерирующим мощное оглушающее поле. Верхняя часть посоха разветвляется в форме буквы 'V'. Электроды на концах каждой ветви фокусируют оглушающее поле и могут использоваться для удержания людей или направления их туда, куда нужно следопыту. Посох также может выпускать энергетический разряд на расстояние до нескольких метров, что позволяет пользователю застать цели врасплох или вывести из строя особенно опасных объектов с безопасного расстояния. Электрошоковые посохи изготавливаются Гандами следопытами вручную и вручаются новым следопытам при их посвящении. Те из них, что доступны на галактическом рынке оружия, были украдены или сняты с павших Гандов.
+[P]Для использования электрошокового посоха требуются обе руки.</Description>
     <Source Page="43">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -15960,10 +15899,10 @@ The shockprod staff is the universally recognized symbol of the ancient traditio
   </Weapon>
   <Weapon>
     <Key>SHOCKWHIP</Key>
-    <Name>Shock Whip</Name>
+    <Name>Электрохлыст (Shock Whip)</Name>
     <Description>
-      [H3]Shock Whip[h3]
-      The shock whip has been a mainstay of the Zygerrian Slave Empire for thousands of years. When it is activated, the flexible metal wires woven through the whip pulse with electrified energy, causing intense pain and muscle spasms on contact. While the whip can only ensnare one target at a time, the target takes continuous damage each round the target remains ensnared. This weapon can be used to make melee attacks against targets at short range.
+      [H3]Электрохлыст[h3]
+Электрохлыст на протяжении тысячелетий является неизменным атрибутом Зайгеррианской рабовладельческой империи. При активации гибкие металлические провода, вплетенные в хлыст, начинают пульсировать электрической энергией, вызывая при контакте сильную боль и мышечные спазмы. Хотя хлыст может опутать только одну цель за раз, эта цель получает постоянный урон каждый раунд, пока остается опутанной. Это оружие можно использовать для совершения атак ближнего боя по целям на короткой дистанции.
     </Description>
     <Source Page="60">Модуль приключения: С такими друзьями... (Friends Like These)</Source>
     <Custom>DescOnly</Custom>
@@ -15992,10 +15931,10 @@ The shockprod staff is the universally recognized symbol of the ancient traditio
   </Weapon>
   <Weapon>
     <Key>SHUKUR05BLASTLTREP</Key>
-    <Name>SHUKUR-05 Light Repeater</Name>
+    <Name>Легкий автомат SHUKUR-05 (SHUKUR-05 Light Repeater)</Name>
     <Description>
-      [H3]SHUKUR-05 Light Repeater[h3]
-The SHUKUR-05 was a light repeating blaster in production by the time of the Galactic Civil War. The origins of the repeater's name could be found in the Mandalorian language, specifically the [I]Mando'a[i] word [I]shukur[i], which translated to "break" in Galactic Basic Standard.
+      [H3]Легкий автомат SHUKUR-05[h3]
+Легкий автомат SHUKUR-05 находился в производстве во времена Галактической гражданской войны. Происхождение названия этого оружия кроется в мандалорском языке, а именно в мандалорском слове shukur, которое на галактическом основном стандарте переводится как 'ломать' или 'разрушать'.
     </Description>
     <Source Page="49">Модуль приключения: С такими друзьями... (Friends Like These)</Source>
     <Custom>DescOnly</Custom>
@@ -16037,12 +15976,12 @@ The SHUKUR-05 was a light repeating blaster in production by the time of the Gal
   </Weapon>
   <Weapon>
     <Key>SITE145PISTOL</Key>
-    <Name>Site-145 Replica Blaster Pistol</Name>
+    <Name>Реплика бластерного пистолета Site-145 (Site-145 Replica Blaster Pistol)</Name>
     <Description>
-      [H3]Site-145 Replica Blaster Pistol[h3]
-Though the Jedi Order was primarily known for its use of lightsabers, there have been countless other Force traditions throughout the galaxy's long and murky history, and many fought with other weapons. One such ancient culture used blasters with Force-attuned triggers, and examples of these weapons have been found in archaeological sites across the galaxy. The best preserved relics were non-functional when discovered at so-called "Site-145" on the third moon of Filata, but not all members of the expedition were content to study this history purely in the abstract. Sokiro Terebin, an artificer and antiquarian of the Jedi Order who lived just prior to the Clone Wars, constructed a number of replicas as museum pieces, and her notes and blueprints were recorded in various archives. Though fully functional as weapons (in the hands of Force-sensitives, anyway), these armaments were largely viewed as historical curiosities during the days of the Republic and were rarely (if ever) used. Since the rise of the Empire, these pieces (and the blueprints to build them) have disappeared onto the black market, where the command a reasonably high price as contraband items related to the Jedi.
-[P]The Site-145 replica blaster pistol automatically features the Force-attuned resonater weapon attachment (see page 54 of Keeping the Peace).
-      [P][I]The HP for this weapon should be used to attach a Force-attuned resonator attachment only.[i]
+      [H3]Реплика бластерного пистолета Site-145[h3]
+Хотя Орден джедаев был в первую очередь известен использованием световых мечей, на протяжении долгой и туманной истории галактики существовало бесчисленное множество других традиций использования Силы, и многие из их последователей сражались с помощью иного оружия. Одна из таких древних культур использовала бластеры со спусковыми механизмами, настроенными на Силу, и образцы этого оружия были найдены на археологических раскопках по всей галактике. Лучше всего сохранившиеся реликвии были нерабочими, когда их обнаружили на так называемом 'Site-145' на третьей луне планеты Филата, но не все члены экспедиции были готовы изучать эту историю исключительно в теории. Сокиро Теребин, мастер-изобретатель и антиквар Ордена джедаев, жившая незадолго до Войн клонов, создала ряд реплик в качестве музейных экспонатов, а ее заметки и чертежи были сохранены в различных архивах. Хотя как оружие они были полностью функциональны (во всяком случае, в руках чувствительных к Силе), в эпоху Республики к этим вооружениям относились в основном как к историческим диковинкам, и их редко (если вообще когда-либо) использовали. С приходом к власти Империи эти экземпляры (а также чертежи для их создания) исчезли на черном рынке, где они продаются по довольно высокой цене как контрабандные товары, связанные с джедаями.
+[P]Реплика бластерного пистолета 'Site-145' автоматически оснащается оружейным приспособлением 'резонатор, настроенный на Силу' (см. страницу 54 дополнения [B]Хранители мира[b]).
+      [P][I]Точки крепления (HP) этого оружия должны использоваться исключительно для установки приспособления 'резонатор, настроенный на Силу'[i]
     </Description>
     <Source Page="43">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
@@ -16072,12 +16011,12 @@ Though the Jedi Order was primarily known for its use of lightsabers, there have
   </Weapon>
   <Weapon>
     <Key>SITHSHIELD</Key>
-    <Name>Sith Shield</Name>
+    <Name>Щит ситхов (Sith Shield)</Name>
     <Description>
-      [H3]Sith Shield[h3]
-[P]The shields used by Sith warriors in ages past can still be found, though they are rare in the extreme. Resembling ordinary shields at first glance, Sith shields are crafted from an alchemical alloy and are often decorated with unsettling carvings, reliefs and runes. They are virtually inpenetrable, even to lightsabers, and these shields are incredbily deadly in the hands of a trained dark side adept. When used in combat by a Force user, Sith shields absorb the hate of combatants around them, drawing upon the building fury of their users and any foes engaged in the struggle.
-[P]Whenever a Force-sensitive wielder of a Sith shield sufers a hit in combat, he may commit [FO] to channel his fury into the shield as an out of turn incidental. Over multiple attacks, he may commit multiple [FO] this way, up to a total number [FO] no greater than his force rating.
-[P]AS an action, the wielder may uncommit all [FO] committed to the Sith shield to unleash the stored power in a torrent of hate. When he does so, he gains Conflict equal to the number of [FO] he had committed to the shield and then he makes a Force power check with that many [FO]. He may spend [FP] to inflict 1 wound and 1 strain (these ignore soak) on each other character within short range of him; he may activate this multiple times, inflicting 1 additional wound and 1 additional strain each time.</Description>
+      [H3]Щит ситхов[h3]
+[P]Щиты, которые использовали воины-ситхи в древние времена, все еще можно встретить, хотя они чрезвычайно редки. На первый взгляд напоминая обычные щиты, щиты ситхов изготавливаются из алхимического сплава и часто украшены тревожными узорами, рельефами и рунами. Они практически непроницаемы, даже для световых мечей, и в руках обученного адепта темной стороны эти щиты невероятно смертоносны. При использовании в бою чувствительным к Силе, щиты ситхов поглощают ненависть сражающихся вокруг, черпая силу из нарастающей ярости своего владельца и любых врагов, вовлеченных в схватку.
+[P]Каждый раз, когда чувствительный к Силе владелец щита ситхов получает попадание в бою, он может вложить [FO], чтобы направить свою ярость в щит в качестве свободного действия вне своей очереди. В ходе нескольких атак он может таким образом вложить несколько [FO], при этом общее количество вложенных [FO] не должно превышать его рейтинг Силы.
+[P]В качестве действия владелец может освободить все [FO], вложенные в щит ситхов, чтобы высвободить накопленную силу в потоке ненависти. Когда он это делает, он получает очки "Конфликта", равные количеству [FO], вложенных в щит, а затем совершает проверку способности Силы с таким количеством [FO]. Он может потратить [FP], чтобы нанести 1 "ранение" и 1 "усталость" (игнорируя защиту) каждому другому персонажу в пределах короткой дистанции от него; он может активировать это несколько раз, нанося 1 дополнительное "ранение" и 1 дополнительную "усталость" при каждой активации.</Description>
     <Source Page="45">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -16092,7 +16031,7 @@ Though the Jedi Order was primarily known for its use of lightsabers, there have
     <Restricted>true</Restricted>
     <BaseMods>
       <Mod>
-        <MiscDesc>When hit, may commit [FO] as OOT Incidental.  As action, may uncommit all [FO] and make a Force power check with that many [FO], taking 1 Conflict per [FO]. May spend [FP] to inflict 1 wound and 1 strain, ignoring soak, on each character within short range.</MiscDesc>
+        <MiscDesc>При попадании может совершить [FO] как случайный эффект вне хода. В качестве действия может отменить все [FO] и совершить проверку Силы с таким же количеством [FO], получая 1 "Конфликт" за каждое [FO]. Может потратить [FP], чтобы нанести 1 "ранение" и 1 "усталость", игнорируя поглощение урона, каждому персонажу в пределах ближнего радиуса действия.</MiscDesc>
       </Mod>
     </BaseMods>
     <WeaponModifiers />
@@ -16121,13 +16060,13 @@ Though the Jedi Order was primarily known for its use of lightsabers, there have
   </Weapon>
   <Weapon>
     <Key>SLUGKD30</Key>
-    <Name>KD-30 "Dissuader" Pistol</Name>
+    <Name>Пистолет KD-30 "Dissuader" (KD-30 "Dissuader" Pistol)</Name>
     <Description>
-      [H3]Kelvarek Consolidated Arms KD-30 "Dissuader" Pistol[h3]
+      [H3]Пистолет KD-30 "Dissuader" от Kelvarek Consolidated Arms[h3]
 
-A particularly vicious slugthrower, the KD-30 "Dissuader" fires special ammunition filled with a particularly caustic acid capable of eating through armor, flesh, and bone. Outlawed in many "civilized" parts of the galaxy, the KD-30 is a disconcertingly common weapon in Hutt Space.
+Являясь особенно жестоким видом баллистического оружия, KD-30 "Dissuader" стреляет специальными боеприпасами, начиненными крайне едкой кислотой, способной прожигать броню, плоть и кости. Запрещенный во многих «цивилизованных» уголках галактики, KD-30 является пугающе распространенным оружием в Пространстве хаттов.
 
-[P]The acid in the Dissuader's ammunition continues to cause damage over time. A target struck by a round from the KD-30 suffers one wound, ignoring soak, at the beginning of his turn for the next two rounds.</Description>
+[P]Кислота в боеприпасах "Dissuader" продолжает наносить урон с течением времени. Цель, пораженная выстрелом из KD-30, получает одно "ранение", игнорируя защиту, в начале своего хода в течение следующих двух раундов.</Description>
     <Source Page="102">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -16156,19 +16095,19 @@ A particularly vicious slugthrower, the KD-30 "Dissuader" fires special ammuniti
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Target struck by a round from the KD-30 suffers one wound, ignoring soak, at the beginning of his turn for the next two rounds.</MiscDesc>
+        <MiscDesc>Цель, пораженная снарядом из КД-30, получает одно "ранение", не считая поглощения урона, в начале своего хода в течение следующих двух раундов.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>SLUGPIS</Key>
-    <Name>Slugthrower Pistol</Name>
+    <Name>Пулевой пистолет (Slugthrower Pistol)</Name>
     <Description>
-      [H3]Slugthrower Pistol[h3]
+      [H3]Пулевой пистолет[h3]
 
-Short, compact, and loud, these small weapons are very rare. Those who wield them frequently do so because they have some sentimental value, perhaps handed down to them from some distant relative from a low-tech world, or because these weapons are all that's easily available on their world.
+Эти короткие, компактные и громкие образцы оружия встречаются крайне редко. Те, кто часто использует их, делают это либо из-за их сентиментальной ценности (например, если они были получены в наследство от дальнего родственника с планеты с низким уровнем технологий), либо потому, что это единственное оружие, которое легко найти в их мире.
 
-[BR][B]Models Include[b]: Oriolanis Striker Projectile Pistol.</Description>
+[BR][B]Модели включают[b]: Пулевой пистолет Oriolanis "Striker".</Description>
     <Sources>
       <Source Page="164">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="177">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -16191,11 +16130,11 @@ Short, compact, and loud, these small weapons are very rare. Those who wield the
   </Weapon>
   <Weapon>
     <Key>SLUGPISASP9</Key>
-    <Name>ASP-9 "Vrelt" Autopistol</Name>
+    <Name>Авто-пистолет ASP-9 "Vrelt" (ASP-9 "Vrelt" Autopistol)</Name>
     <Description>
-      [H3]ASP-9 "Vrelt" Autopistol[h3]
+      [H3]Авто-пистолет ASP-9 "Vrelt"[h3]
 
-Marketed by Talus Ironworks as the ASP-9, this pistol is more commonly known as the Vrelt, after a vicious rodent native to the Corellian System. A cheap, simple design, the ASP-9 fires comparatively small rounds in rapid bursts. Though notoriously inaccurate, the weapon's ability to unleash a hail of lead and the ease with which it can be concealed make the Vrelt a favorite of thugs and criminals. It is not uncommon for bodies riddled with slugs to be found in the back alleys of the Blue Sector or the slums of Dearic. </Description>
+Позиционируемый компанией Talus Ironworks как ASP-9, этот пистолет более известен под названием "Vrelt", в честь свирепого грызуна, обитающего в системе Кореллии. Имея дешевую и простую конструкцию, ASP-9 стреляет сравнительно небольшими пулями короткими очередями. Хотя это оружие печально известно своей неточностью, его способность выпускать град свинца и легкость сокрытия делают "Vrelt" излюбленным выбором среди головорезов и преступников. Нередко можно найти тела, изрешеченные пулями, в темных переулках Синего сектора или в трущобах Дирика. </Description>
     <Source Page="96">Дополнение: Солнца Фортуны (Suns of Fortune)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -16219,14 +16158,14 @@ Marketed by Talus Ironworks as the ASP-9, this pistol is more commonly known as 
   </Weapon>
   <Weapon>
     <Key>SLUGRIF</Key>
-    <Name>Slugthrower Rifle</Name>
+    <Name>Пулевая винтовка (Slugthrower Rifle)</Name>
     <Description>
-      [H3]Slugthrower Rifle[h3]
+      [H3]Пулевая винтовка[h3]
 
-A larger version of the slugthrower pistol, the slugthrower rifle also uses chemical reactions to fire a solid projectile "slug" at high velocities towards a target. Slugthrower rifles sport much longer and larger barrels than pistols, and can fire larger slugs over longer distances. However, they still suffer from poor accuracy and penetration, not to mention requiring uncommon ammunition that may either be hand-made and unreliable or prohibitively expensive.
-[P]However, many primitive and nomadic cultures use slugthrower rifles, often of some homemade variant. One such example are the Tusken Raiders of Tatooine. The primitive and violent nomads have little access to the kind of gas used by blasters and even less to XCiter technology. They are able to occasionally capture ammunition in raids on the planet's moisture farms, however, and use the rounds in their crude, long-range sniper rifles. These weapons are quite effective against the lone settlers, diminutive Jawas, and womp rats that share their harsh desert.
+Являясь увеличенной версией пулевого пистолета, пулевая винтовка также использует химические реакции для выстрела твердым снарядом ('пулей') в цель на высокой скорости. Пулевые винтовки имеют гораздо более длинные и крупные стволы, чем пистолеты, и могут стрелять более крупными пулями на большие расстояния. Однако они по-прежнему страдают от низкой точности и пробивной способности, не говоря уже о необходимости использования нестандартных боеприпасов, которые могут быть либо кустарного производства и ненадежными, либо непомерно дорогими.
+[P]Тем не менее, многие примитивные и кочевые культуры используют пулевые винтовки, часто самодельных вариантов. Одним из таких примеров являются тускенские рейдеры с Татуина. У этих примитивных и жестоких кочевников мало доступа к газу, используемому в бластерах, и еще меньше - к технологиям эксайтеров (XCiter). Тем не менее, они иногда способны захватывать боеприпасы во время набегов на влагофермы планеты и используют эти патроны в своих грубых дальнобойных снайперских винтовках. Это оружие довольно эффективно против одиноких поселенцев, миниатюрных джав и вомп-крыс, населяющих их суровую пустыню.
 
-[BR][B]Models Include[b]: Dresselian Projectile Rifle, Czerka Arms 6-2Aug2 Hunting Rifle.</Description>
+[BR][B]Модели включают[b]: Пулевая винтовка Дресселов, охотничья винтовка Czerka Arms 6-2Aug2.</Description>
     <Sources>
       <Source Page="164">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="177">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -16255,11 +16194,11 @@ A larger version of the slugthrower pistol, the slugthrower rifle also uses chem
   </Weapon>
   <Weapon>
     <Key>SLUGRIFMKV</Key>
-    <Name>Mark V "Sand Panther" Hunting Rifle</Name>
+    <Name>Охотничья винтовка Mark V "Sand Panther" (Mark V "Sand Panther" Hunting Rifle)</Name>
     <Description>
-      [H3]Mark V "Sand Panther" Hunting Rifle[h3]
+      [H3]Охотничья винтовка Mark V "Sand Panther"[h3]
 
-Coveted by big game hunters who can afford the steep price, the Coronet Arms Mark V "Sand Panther" is a superb rifle with excellent range, accuracy, and stopping power. Like other Coronet Arms designs, the Mark V is precisely tooled, with handcrafted stocks made of golden creshik wood imported from Tralus. The rifle's exceptionally long barrel allows the weapon to be accurate, even at extreme ranges. Due to the length and caliber of the barrel, the Mark V is somewhat cumbersome and has a considerable recoil when fired, which is somewhat dampened by a pneumatic recoil buffer built in to the rifle's firing mechanism.</Description>
+Пользующаяся спросом у охотников на крупную дичь, которые могут позволить себе ее высокую цену, винтовка Mark V "Sand Panther" от Coronet Arms представляет собой превосходное оружие с отличной дальностью, точностью и останавливающей способностью. Как и другие разработки Coronet Arms, Mark V отличается высокой точностью изготовления, а ее ложа выполняется вручную из золотистого дерева крешик, импортируемого с Тралуса. Исключительно длинный ствол винтовки обеспечивает оружию высокую точность даже на экстремальных дистанциях. Из-за длины и калибра ствола Mark V является несколько громоздкой и обладает значительной отдачей при выстреле, которая частично смягчается пневматическим буфером отдачи, встроенным в спусковой механизм винтовки.</Description>
     <Source Page="97">Дополнение: Солнца Фортуны (Suns of Fortune)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
@@ -16288,11 +16227,11 @@ Coveted by big game hunters who can afford the steep price, the Coronet Arms Mar
   </Weapon>
   <Weapon>
     <Key>SLUGRIFSELSHARD</Key>
-    <Name>Selonian Shard Shooter</Name>
+    <Name>Селонианский осколочный стреломет (Selonian Shard Shooter)</Name>
     <Description>
-      [H3]Selonian Shard Shooter[h3]
+      [H3]Селонианский осколочный стреломет[h3]
 
-A peculiar weapon, the Selonian shard shooter is a relatively compact slugthrower that fires razor-sharp crystalline ammunition. Instead of a chemical propellant, the shard shooter uses a sophisticated electromagnetic propulsion system to accelerate the shards down its barrel at tremendous velocity. The weapon fires in bursts, unleashing a storm of lethal shards at its target, capable of penetrating modern armor and the shredding flesh and bone beneath. Since this weapon is only produced on Selonia, finding the shard ammunition outside of the Corellian System is next to impossible.</Description>
+Это необычное оружие, селонианский осколочный стреломет, представляет собой относительно компактное баллистическое оружие, стреляющее бритвенно-острыми кристаллическими боеприпасами. Вместо химического метательного заряда осколочный стреломет использует сложную электромагнитную систему разгона, которая ускоряет осколки по стволу с огромной скоростью. Оружие стреляет очередями, обрушивая на цель шквал смертоносных осколков, способных пробить современную броню и разорвать находящиеся под ней плоть и кости. Поскольку это оружие производится исключительно на Селонии, найти осколочные боеприпасы за пределами системы Кореллии практически невозможно.</Description>
     <Source Page="97">Дополнение: Солнца Фортуны (Suns of Fortune)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
@@ -16320,10 +16259,10 @@ A peculiar weapon, the Selonian shard shooter is a relatively compact slugthrowe
   </Weapon>
   <Weapon>
     <Key>SNAPBATON</Key>
-    <Name>Snap Baton</Name>
+    <Name>Телескопическая дубинка (Snap Baton)</Name>
     <Description>
-      [H3]Snap Baton[h3]
-[P]Snap batons are light, collapsible truncheons often employed by law enforcers and bounty hunters. With little more than a flick of the wrist, the baton can be extended to its full one-meter length. Once extended, the baton's weighted end can be used to inflict serious injusry on opponents. Due to the nature of the baton's construction, it provides a colid and punishing weapon in a very small package. Collapsing a snap baton requires that a stud be depressed while the wielder pushed it back into the handle. </Description>
+      [H3]Телескопическая дубинка[h3]
+[P]Телескопические дубинки представляют собой легкие складные дубинки, которые часто используются сотрудниками правоохранительных органов и охотниками за головами. Резким движением запястья дубинка может быть выдвинута на полную длину в один метр. В разложенном состоянии утяжеленный наконечник дубинки можно использовать для нанесения серьезных травм противникам. Благодаря особенностям конструкции, она представляет собой надежное и сокрушительное оружие в очень компактном форм-факторе. Чтобы сложить телескопическую дубинку, необходимо нажать на фиксатор, одновременно вдавливая ее обратно в рукоять. </Description>
     <Source Page="45">Дополнение: Хранители мира (Keeping the Peace)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -16351,10 +16290,10 @@ A peculiar weapon, the Selonian shard shooter is a relatively compact slugthrowe
   </Weapon>
   <Weapon>
     <Key>SONICGREND</Key>
-    <Name>Sonic Grenade</Name>
-    <Description>[H3]Sonic Grenade[h3]
-Rare and extremely deadly, sonic grenades use powerful sound generators, rather than explosives or other chemicals, to cause damage. Ostensibly anti-materiel ordnance, sonic grenades can shatter the thickest glass, crack ferrocrete, crumple light alloys, and otherwise cause tremendous damage to structures and equipment. Against enemy forces, sonic grenades cause extreme, debilitating pain at a distance and can inflict permanent damage at the point of impact.
-[P][B]Models Include:[b] Krupx Munitions Groundshaker 7, Imperial Munitions M880 Sonic Grenade.</Description>
+    <Name>Звуковая граната (Sonic Grenade)</Name>
+    <Description>[H3]Звуковая граната[h3]
+Редкие и чрезвычайно смертоносные, звуковые гранаты используют мощные звуковые генераторы, а не взрывчатые или химические вещества, для нанесения урона. Предназначенные в первую очередь для поражения материальных целей, звуковые гранаты способны разбивать самое толстое стекло, раскалывать ферробетон, деформировать легкие сплавы и иным образом наносить колоссальный ущерб сооружениям и оборудованию. Против вражеских сил звуковые гранаты вызывают на расстоянии экстремальную, изнуряющую боль, а в точке воздействия могут нанести необратимые повреждения.
+[P][B]Модели включают:[b] Groundshaker 7 от Krupx Munitions, звуковая граната M880 от Imperial Munitions.</Description>
     <Source Page="45">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Type>Thrown</Type>
