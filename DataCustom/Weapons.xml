@@ -16331,13 +16331,13 @@ RLR-331 от компании Kelvarek Consolidated Arms - это оружие �
   </Weapon>
   <Weapon>
     <Key>SPOREBSTUNGREN</Key>
-    <Name>Spore/B Stun Grenade</Name>
+    <Name>Оглушающая граната Spore/B (Spore/B Stun Grenade)</Name>
     <Description>
-      [H3]Spore/B Stun Grenade[h3]
-[P]Produced by Czerka Arms, the Spore/B stun grenade employs stun spores to disable opponents. Because the stun spores are airborne, the grenade is completely ineffective against targets wearing breath masks or sealed suits. That said, the grenade has proven incredibly effective—and even deadly—when used against unprotected targets.
-[P]Upon detonation, the Spore/B stun grenade releases a dense cloud of stun spores. The spores enter the target’s respiratory system and slow the absorption of oxygen into the bloodstream, causing unconsciousness. Despite the claim that the Spore/B is a non-lethal weapon, a small percentage of organic beings experience respiratory failure when exposed to the spores.
-[P]The first time a character is hit with an attack from this weapon (even if he suffers no damage), he must roll a single [CH] As long as the character doesn’t roll a [DE] on this, he is affected normally by the Spore/B stun grenade. If the roll does result in a the character immediately suffers 6 strain and begins to suffocate. A Hard ([DI][DI][DI]) Medicine check is required to stop the subject from suffocating.
-[P]While the Spore/B isn’t the ideal non-lethal weapon, many spies still continue to use it against the Empire.</Description>
+      [H3]Оглушающая граната Spore/B[h3]
+[P]Производимая компанией Czerka Arms, оглушающая граната Spore/B использует оглушающие споры для выведения противников из строя. Поскольку оглушающие споры передаются по воздуху, граната совершенно неэффективна против целей, носящих дыхательные маски или герметичные костюмы. Тем не менее, граната оказалась невероятно эффективной - и даже смертоносной - при использовании против незащищенных целей.
+[P]При детонации оглушающая граната Spore/B выпускает густое облако оглушающих спор. Споры проникают в дыхательную систему цели и замедляют поглощение кислорода в кровоток, вызывая потерю сознания. Несмотря на заявления о том, что Spore/B является нелетальным оружием, небольшой процент органических существ испытывает дыхательную недостаточность при воздействии спор.
+[P]При первом попадании по персонажу в результате атаки этим оружием (даже если он не получает урона), он должен бросить один [CH]. Пока персонаж не выбросит [DE] при этом броске, на него воздействует оглушающая граната Spore/B. Если же бросок генерирует [DE], персонаж немедленно получает 6 "усталости" и начинает задыхаться. Для того чтобы предотвратить удушье субъекта, требуется [B]Сложная ([DI][DI][DI]) проверка "Медицины"[b].
+[P]Хотя Spore/B не является идеальным нелетальным оружием, многие шпионы продолжают использовать его против Империи.</Description>
     <Source Page="107">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -16357,8 +16357,7 @@ RLR-331 от компании Kelvarek Consolidated Arms - это оружие �
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>The first time a character hit by this grenade (even if he suffers no damage) must roll a single [CH]. As long as the character doesn't roll a
-        [DE], he is affected normally.  If he rolls a [DE], he immediately suffers 6 strain and begins to suffocate.  A [B]Hard ([DI][DI][DI]) Medicine check[b] is required to stop the subject from suffocating.</MiscDesc>
+        <MiscDesc>При первом попадании по персонажу в результате атаки этим оружием (даже если он не получает урона), он должен бросить один [CH]. Пока персонаж не выбросит [DE] при этом броске, на него воздействует оглушающая граната Spore/B. Если же бросок генерирует [DE], персонаж немедленно получает 6 "усталости" и начинает задыхаться. Для того чтобы предотвратить удушье субъекта, требуется [B]Сложная ([DI][DI][DI]) проверка "Медицины"[b].</MiscDesc>
       </Mod>
     </BaseMods>
     <Qualities>
@@ -16381,11 +16380,11 @@ RLR-331 от компании Kelvarek Consolidated Arms - это оружие �
   </Weapon>
   <Weapon>
     <Key>SPORESTGREN</Key>
-    <Name>Spore Stun Grenade</Name>
+    <Name>Оглушающая споровая граната (Spore Stun Grenade)</Name>
     <Description>
-      [H3]Speizoc Arms Spore Stun Grenade[h3]
-An area effect weapon capable of stunning a group of opponents can be a vital tool in a crowd-control situation. Similarly, a person who places a high value on sentient life without killing them. When an individual is significantly out-numbered, a stun grenade can turn the tide of battle in an ethically acceptable way.
-[P]Speizoc Arms spore stun grenades deploy a cloud of active stun spores when detonated. Harvested from a carnivorous plant, these spores are a powerful soporific for most life forms. An environmentally sealed suit provides complete protection against the spores, but any unsealed armor is of little use against the spore cloud. The spores act extremely quickly when inhaled, but they can also take effect after contact with the target's skin.</Description>
+      [H3]Оглушающая споровая граната Speizoc Arms[h3]
+Оружие действия по площади, способное оглушить группу противников, может стать жизненно важным инструментом в ситуациях по контролю над толпой. Оно также подойдет тем, кто высоко ценит разумную жизнь и не желает никого убивать. Когда отдельный человек оказывается в значительном меньшинстве, оглушающая граната может переломить ход боя этически приемлемым способом.
+[P]При детонации оглушающие споровые гранаты Speizoc Arms выпускают облако активных оглушающих спор. Эти споры, собранные с плотоядного растения, являются мощным снотворным для большинства форм жизни. Герметичный защитный костюм обеспечивает полную защиту от спор, но любая негерметичная броня практически бесполезна против спорового облака. При вдыхании споры действуют чрезвычайно быстро, но они также могут подействовать при контакте с кожей цели.</Description>
     <Source Page="43">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -16421,11 +16420,11 @@ An area effect weapon capable of stunning a group of opponents can be a vital to
   </Weapon>
   <Weapon>
     <Key>SPRAYFOGREN</Key>
-    <Name>Spray Foam Grenade</Name>
+    <Name>Пенообразующая граната (Spray Foam Grenade)</Name>
     <Description>
-      [H3]Tenloss Spray Foam Grenade[h3]
-Tenloss's spray foam grenades are ten-centimeter plastic spheres sealed with a low-powered energy field and equipped with a timer activator. When the timer finishes counting down, the field deactivates, exposing the chemical reagents within it to each other. This triggers a sudden chemical reaction. The liquid inside expands, forming a foam polymer. This can expand to fill a volume of up to three cubic meters, entombing anything that happens to be within that space. The polymer is unstable, however, and it begins to break down after only a few minutes of atmospheric exposure. Until that breakdown completes, it is quite rigid, presenting an effective means to temporarily incapacitate an opponent.
-[P]A spray foam grenade's Ensnare quality triggers automatically on any target the weapon hits, with no need to spend [AD].</Description>
+      [H3]Пенообразующая граната[h3]
+Пенообразующие гранаты Tenloss представляют собой пластиковые сферы диаметром десять сантиметров, герметизированные энергетическим полем низкой мощности и оснащенные активатором с таймером. Когда таймер заканчивает обратный отсчет, поле деактивируется, позволяя находящимся внутри химическим реагентам вступить в контакт друг с другом. Это запускает мгновенную химическую реакцию. Жидкость внутри расширяется, образуя полимерную пену. Она может увеличиться в объеме до трех кубических метров, намертво заключая в себе все, что окажется в этом пространстве. Однако этот полимер нестабилен и начинает разрушаться всего через несколько минут контакта с атмосферой. До завершения этого процесса разрушения он остается достаточно твердым, представляя собой эффективное средство для временного выведения противника из строя.
+[P]Качество "Ensnare" пенообразующей гранаты срабатывает автоматически по любой цели, в которую попало оружие, без необходимости тратить [AD].</Description>
     <Source Page="43">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -16439,7 +16438,7 @@ Tenloss's spray foam grenades are ten-centimeter plastic spheres sealed with a l
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Ensnare quality automatically activates if grenade hits, with no need to spend [AD].</MiscDesc>
+        <MiscDesc>Качество "Ensnare" срабатывает автоматически по любой цели, в которую попало оружие, без необходимости тратить [AD].</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
@@ -16459,11 +16458,11 @@ Tenloss's spray foam grenades are ten-centimeter plastic spheres sealed with a l
   </Weapon>
   <Weapon>
     <Key>SPRAYRIF</Key>
-    <Name>Spray Rifle</Name>
+    <Name>Распыляющая винтовка (Spray Rifle)</Name>
     <Description>
-      [H3]Loronar Spray Rifle[h3]
-The Loronar spray rifle fires a highly pressurized stream of fluid. The fluid affects its target by carrying a powerful sedative suspended in an organic solvent. That substance is easily absorbed through the skin, carrying the sedative directly into the target's bloodstream. In addition to penetrating the skin of almost all known species, the fluid is capable of penetrating many types of armor, including ones designed to be environmentally sealed. This makes the spray rifle a useful weapon against targets wearing equipment that could stop an airborne sedative. However, because the stream must be carefully targeted, it is less effective against crowds than a non-lethal gas attack.
-[P]The spray rifle's ammunition is stored in a transparent metallic canister, which attaches as a clip. The weapon also has a one-liter cylindrical tank that stores the compressed air used to propel its payload. This is normally refilled from a preasure canister after firing three to four canisters of ammunition.</Description>
+      [H3]Распыляющая винтовка Loronar[h3]
+Распыляющая винтовка Loronar выпускает струю жидкости под высоким давлением. Жидкость воздействует на цель, доставляя мощное седативное вещество, взвешенное в органическом растворителе. Это вещество легко впитывается через кожу, доставляя седативный препарат прямо в кровоток цели. Помимо способности проникать через кожу представителей почти всех известных видов, жидкость способна просачиваться сквозь многие типы брони, включая герметичные защитные костюмы. Это делает распыляющую винтовку эффективным оружием против целей, носящих снаряжение, способное защитить от седативных аэрозолей. Однако, поскольку струю необходимо тщательно направлять, она менее эффективна против толпы, чем атака нелетальным газом.
+[P]Боеприпасы распыляющей винтовки хранятся в прозрачном металлическом баллончике, который крепится в качестве магазина. Оружие также оснащено цилиндрическим резервуаром объемом в один литр, содержащим сжатый воздух, используемый для выброса заряда. Обычно его заправляют из баллона со сжатым воздухом после использования трех-четырех баллончиков с боеприпасами.</Description>
     <Source Page="43">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -16504,11 +16503,11 @@ The Loronar spray rifle fires a highly pressurized stream of fluid. The fluid af
   </Weapon>
   <Weapon>
     <Key>SSB1STATIC</Key>
-    <Name>SSB-1 Static Pistol</Name>
+    <Name>Статический  пистолет SSB-1 (SSB-1 Static Pistol)</Name>
     <Description>
-      [H3]SSB-1 Static Pistol[h3]
+      [H3]Статический пистолет SSB-1[h3]
 
-Originally developed by long defunct Systech Corporation several thousand years ago, the design was recently revived by SoroSuub as the SSB-1 static blaster pistol. Firing a powerful bolt of electricity generated by high-energy piezoelectric crystals within the weapon, the static blaster is only useful at close ranges, but a couple of blasts can bring down a Wookiee or even a full-grown gundark. Due to the exceptionally low energy requirements to supercharge the crystals, energy packs in static pistols can power the weapon through thousands of firings. However, the internal alignment of the crystals is very exact, and the pistol can stop functioning if damaged or roughly handled.</Description>
+Изначально разработанный давно несуществующей корпорацией Systech несколько тысяч лет назад, этот дизайн был недавно возрожден компанией SoroSuub в виде статического пистолета SSB-1. Выпуская мощный электрический разряд, генерируемый высокоэнергетическими пьезоэлектрическими кристаллами внутри оружия, статический бластер эффективен только на близких дистанциях, однако пары выстрелов достаточно, чтобы свалить с ног вуки или даже взрослого гандарка. Благодаря исключительно низким энергозатратам на подзарядку кристаллов, энергоэлементов в статических пистолетах хватает на тысячи выстрелов. Однако внутренняя ориентация кристаллов очень точна, и пистолет может перестать функционировать при повреждении или грубом обращении.</Description>
     <Source Page="45">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -16543,10 +16542,10 @@ Originally developed by long defunct Systech Corporation several thousand years 
     <Name>SSG Mk II Paladin</Name>
     <Description>
       [H3]SSG Mk II Paladin[h3]
-Contracted by the Republice specifically for use by the Senate Guard, the Mk II Paladin is an ornate, highly accurate blaster rifle designed for ceremonial use. Built to exacting specifications by SoroSuub, Paladin rifles are as much works of art as they are weapons. With their highly polished black barrels and frames, pearlescent silver polycarbonate furniture, and ornate fittings, they are striking weapons that make quite an impression on those who see them.
-[P]Despite their officially ceremonial nature, these weapons are incredibly potent in combat. Respectable range and accuracy, and the ability to switch between single-shot, and auto-fire make Paladin rifles very dangerous in the right hands. From the factory, they are fitted with slings, collapsible stocks, and a number of other features designed to optimize their combat efficientcy while maintaining their ceremonial look. In addition, when  assigned to Senate Guardsmen, these weapons were fitted with an under barrel stun prod that combined with their stun setting, made them suitable for crowd control duties as well as combat.
-[P]Today, Paladin rifles are a rare sight and most remain in storage armories deep below the Imperial Palace on Coruscant. Some have made their way to the galactic weapons market, however, commanding steep prices whenever they are sold.
-[P]The damage from the Superior quality is included in the weapon's profile. When the integral stun prod is used in clos combat, it has the following profile: Melee Damage +2; Critical 6; Range (Engaged); Disorient 2; Stun Damage.</Description>
+Заказанная Республикой специально для использования Стражами Сената, винтовка Mk II Paladin представляет собой богато украшенную, высокоточную бластерную винтовку, предназначенную для церемониального использования. Изготовленные по строгим спецификациям компанией SoroSuub, винтовки Paladin являются в равной степени произведениями искусства и оружием. С их высокополированными черными стволами и рамками, перламутровой серебристой поликарбонатной отделкой и богатыми украшениями, это эффектное оружие, производящее сильное впечатление на тех, кто его видит.
+[P]Несмотря на их официально церемониальный характер, это оружие невероятно эффективно в бою. Приличная дальность и точность, а также возможность переключения между одиночным и автоматическим режимом стрельбы делают винтовки Paladin очень опасными в умелых руках. С завода они оснащены ремнями, складными прикладами и рядом других функций, призванных оптимизировать их боевую эффективность при сохранении церемониального внешнего вида. Кроме того, при выдаче стражам Сената это оружие оснащалось подствольным электрошоковым стержнем, который в сочетании с оглушающим режимом делал его пригодным как для выполнения задач по контролю над толпой, так и для ведения боя.
+[P]Сегодня винтовки Paladin встречаются редко, и большинство из них остаются в арсеналах-хранилищах глубоко под Императорским дворцом на Корусанте. Однако некоторые из них попали на галактический рынок оружия, где при продаже они стоят весьма дорого.
+[P]Урон от качества "Superior" уже включен в профиль характеристик оружия. При использовании встроенного электрошокового стержня в ближнем бою он имеет следующие характеристики: Урон в ближнем бою +2; Крит 6; Дальность (Вплотную); Disorient 2; Stun Damage.</Description>
     <Source Page="41">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -16603,13 +16602,13 @@ Contracted by the Republice specifically for use by the Senate Guard, the Mk II 
   </Weapon>
   <Weapon>
     <Key>STAFFOFF</Key>
-    <Name>Staff of Office</Name>
+    <Name>Церемониальный жезл (Staff of Office)</Name>
     <Description>
-      [H3]Staff of Office[h3]
+      [H3]Церемониальный жезл[h3]
 
-Although worlds vary by custom, a great majority use historical or symbolic regalia and accessories to distinguish their diplomats, envoys, and other such luminaries from simple common folk. These items take a wide variety of forms, but many cultures often grant such figures a rod of office, walking staff, or a similarly grandiose stick. Because it is a symbol of office, such implements rarely set off weapon detectors, and their holders are rarely required them to surrender them as they would blasters, vibroknives, and the like. Some foresighted individuals use this to their advantage and train using their staff of office as a blunt-force weapon for worst-case scenarios.
+Хотя обычаи на разных мирах различаются, подавляющее большинство использует исторические или символические регалии и атрибуты, чтобы отличить своих дипломатов, посланников и других выдающихся личностей от простых обывателей. Эти предметы принимают самые разные формы, но во многих культурах таким деятелям часто вручают жезл власти, походный посох или аналогичный внушительный атрибут. Поскольку это символ должности, такие предметы редко вызывают срабатывание детекторов оружия, и их владельцев редко просят сдать их, в отличие от бластеров, виброножей и тому подобного. Некоторые дальновидные личности используют это в своих интересах и тренируются применять свой церемониальный жезл в качестве дробящего оружия на случай возникновения критических ситуаций.
 
-[P]A staff of office requires two hands to wield. A character adds [BO][BO] when attempting to convincing others to allow him to retain his staff of office. </Description>
+[P]Для использования церемониального жезла требуются обе руки. Персонаж добавляет [BO][BO] при попытке убедить других позволить ему сохранить свой церемониальный жезл. </Description>
     <Source Page="46">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -16628,7 +16627,7 @@ Although worlds vary by custom, a great majority use historical or symbolic rega
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add [BOOST][BOOST] when attempting to convince others to allow him to retain his staff of office.</MiscDesc>
+        <MiscDesc>Добавьте [BOOST][BOOST], когда пытаетесь убедить других позволить сохранить свой желз.</MiscDesc>
       </Mod>
     </BaseMods>
     <Qualities>
@@ -16644,14 +16643,14 @@ Although worlds vary by custom, a great majority use historical or symbolic rega
   </Weapon>
   <Weapon>
     <Key>STEALTH2VX</Key>
-    <Name>Stealth-2VX Palm Shooter</Name>
+    <Name>Наладонный дротикомет Stealth-2VX (Stealth-2VX Palm Shooter)</Name>
     <Description>
-      [H3]Prax Arms Stealth-2VX Palm Shooter[h3]
+      [H3]Наладонный дротикомет Prax Arms Stealth-2VX[h3]
 
-One of the smallest, most easily concealed weapons in the galaxy, the Prax Arms Stealth-2VX Palm Shooter fits easily in the cupped palm of a human-sized hand, making it virtually undetectable by the casual observer. While its darts themselves are not particularly lethal, the toxins contained within the darts can be quite deadly.
-[P]Each dart can be loaded with 1 dose of neuro-toxin, anesthetic, or neuroparalytic (see page 172 of the [B]Edge of the Empire[b] Core Rulebook) Or any other poison (such as those on page 109) the GM deems appropriate. Whenever the wielder successfully attacks a target with the weapon (whether or not he deals damage), the target also suffers the effects of being exposed to the poison.
+Являясь одним из самых маленьких и легко скрываемых видов оружия в галактике, наладонный дротикомет Prax Arms Stealth-2VX легко помещается в сложенной ладони гуманоида, что делает его практически необнаружимым для случайного наблюдателя. Хотя сами дротики не особенно смертоносны, токсины, содержащиеся в них, могут быть весьма опасными.
+[P]Каждый дротик можно зарядить 1 дозой нейротоксина, анестетика или нейропаралитика (см. страницу 172 книги правил [B]Край Империи[b]) или любым другим ядом (например, теми, что на странице 109), который ГМ сочтет подходящим. Каждый раз, когда владелец успешно атакует цель этим оружием (независимо от того, наносит ли он урон), цель также подвергается воздействию яда.
 
-Add [SE][SE] to Perception checks to find a Stealth-2VX Palm Shooter on a wearer's body.</Description>
+Добавьте [SE][SE] к проверкам "Внимания" для обнаружения наладонного дротикомета Stealth-2VX на теле владельца.</Description>
     <Source Page="102">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
@@ -16676,16 +16675,16 @@ Add [SE][SE] to Perception checks to find a Stealth-2VX Palm Shooter on a wearer
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add [SETBACK][SETBACK] to Perception checks to find a Stealth-2VX Palm Shooter on a wearer's body.</MiscDesc>
+        <MiscDesc>Добавьте [SE][SE] к проверкам "Внимания" для обнаружения наладонного дротикомета Stealth-2VX на теле владельца.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>STM40</Key>
-    <Name>ST-M40 Heavy Repeating Blaster Pistol</Name>
-    <Description>[H3]ST-M40 Heavy Repeating Blaster Pistol[h3]
-The ST-M40 is a repeating blaster pistol based loosely on Merr-Sonn's best-selling DD6. Somewhere between a heavy blaster pistol and a blaster carbine, the ST-M40 is a medium-sized weapon with a short, heavily shrouded barrel and a folding shoulder stock. In combat, the ST-M40 features a select-fire setting that allows it to be fired as a single-shot, semiautomatic weapon or in full auto. Although its short barrel and auto-fire setting have a deleterious effect on the weapon's accuracy, the ST-M40 is wildly popular among special operations teams and vehicle crews for its size, durability, and ease of use.
-[P]During combat, GMs may make this weapon run out of ammunition by spending [TH][TH]. This is in addition to the standard spending of [DE].</Description>
+    <Name>Тяжелый автоматический бластерный пистолет ST-M40 (ST-M40 Heavy Repeating Blaster Pistol)</Name>
+    <Description>[H3]Тяжелый автоматический бластерный пистолет ST-M40[h3]
+ST-M40 представляет собой автоматический бластерный пистолет, вольно основанный на самой продаваемой модели DD6 от компании Merr-Sonn. Занимая промежуточное положение между тяжелым бластерным пистолетом и бластерным карабином, ST-M40 является оружием среднего размера с коротким стволом, закрытым массивным кожухом, и складным прикладом. В бою ST-M40 имеет переключатель режимов огня, позволяющий вести стрельбу одиночными выстрелами, в полуавтоматическом или полностью автоматическом режиме. Хотя короткий ствол и режим автоматической стрельбы отрицательно сказываются на точности оружия, ST-M40 пользуется огромной популярностью среди подразделений спецназа и экипажей транспортных средств благодаря своим компактным размерам, надежности и простоте использования.
+[P]Во время боя ГМ может заставить это оружие остаться без боеприпасов, потратив [TH][TH]. Это происходит в дополнение к стандартной трате [DE].</Description>
     <Sources>
       <Source Page="39">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
@@ -16717,7 +16716,7 @@ The ST-M40 is a repeating blaster pistol based loosely on Merr-Sonn's best-selli
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>GM may spend [TH][TH] or [DE] to cause this weapon to run out of ammo.</MiscDesc>
+        <MiscDesc>ГМ может потратить [TH][TH] или [DE] чтобы у оружие закончился боезапас.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
