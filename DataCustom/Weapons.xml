@@ -16722,12 +16722,12 @@ ST-M40 представляет собой автоматический блас
   </Weapon>
   <Weapon>
     <Key>STOKHLI</Key>
-    <Name>Stokhli Spray Stick</Name>
+    <Name>Дубинка-пульверизатор стокли (Stokhli Spray Stick)</Name>
     <Description>
-      [H3]Stokhli Spray Stick[h3]
+      [H3]Дубинка-пульверизатор стокли[h3]
 
-Designed ages ago by the Stokhli, a non-human nomadic race from the Inner Rim world of Manress, these long-range non-lethal weapons are perfect for crowd control and riot suppression. Used primarily by the Stokhli to hunt the large, incredibly aggressive megafauna of their homeworld, the Spray Stick is a meter long metal rod with a tightly focused spray nozzle at one end and a stun pad equipped butt-stock at the other. Fired from the shoulder like a blaster rifle, these weapons shoot a highly concentrated spraynet mist. The mist condenses into a liquid, then into a solid web while in flight, enveloping and immobilizing its target. In addition, as the net envelops its target, it delivers a powerful electrical charge. Extremely rare and finely made, each Stokhli Spray Stick comes equipped with an accurate range finder and a fine aerosol control system that allows the user to more easily hit targets at long range. Despite their rarity and steep price, Stokhli Spray Sticks are always in demand.
-[P]When using the stun pad on the butt-stock, the Stokhli Spray Stick can be used as a melee weapon with the following profile (Skill Melee; Damage +2; Critical —; Range [Engaged Inaccurate 1, Stun Damage).</Description>
+Спроектированные много веков назад стоками, негуманоидной кочевой расой с планеты Манресс во Внутреннем Кольце, эти дальнобойные нелетальные виды оружия идеально подходят для контроля над толпой и подавления беспорядков. Используемый в первую очередь стоками для охоты на крупную, невероятно агрессивную мегафауну их родного мира, дубинка-пульверизатор представляет собой металлический стержень длиной в метр с узконаправленным распылительным соплом на одном конце и прикладом, оснащенным оглушающей пластиной, на другом. Стреляя с плеча, как из бластерной винтовки, это оружие выпускает высококонцентрированную струю аэрозольной сети. Туман конденсируется в жидкость, а затем в твердую сеть во время полета, окутывая и обездвиживая свою цель. Кроме того, когда сеть окутывает цель, она наносит мощный электрический разряд. Чрезвычайно редкие и искусно изготовленные, каждый дубинка-пульверизатор Стокли оснащается точным дальномером и тонкой системой контроля аэрозоля, которая позволяет пользователю легче попадать по целям на большом расстоянии. Несмотря на свою редкость и высокую цену, дубинки-пульверизаторы Стокли всегда пользуются спросом.
+[P]При использовании оглушающей пластины на прикладе дубинки-пульверизатора Стокли можно использовать в качестве оружия ближнего боя со следующим профилем (Навык: Ближний бой; Урон +2; Крит -; Дальность [Вплотную Inaccurate 1, Stun Damage).</Description>
     <Source Page="41">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -16768,11 +16768,11 @@ Designed ages ago by the Stokhli, a non-human nomadic race from the Inner Rim wo
   </Weapon>
   <Weapon>
     <Key>STUNBATON</Key>
-    <Name>Stun Baton</Name>
+    <Name>Шоковая дубинка (Stun Baton)</Name>
     <Description>
-      [H3]Stun Baton[h3]
+      [H3]Шоковая дубинка[h3]
 
-Resembling a typical police truncheon, the Z2 by Merr-Sonn packs an extra, often completely unexpected punch in the form of a concentrated stun blast. Carried by riot police and criminal enforcers alike on countless planets, the Z2 is a one-handed blunt weapon built from heavily reinforced polymers with conductive alloy striking surfaces. When used against organic beings, the Z2 releases a burst of stun energy that can quickly and effectively reduce a malcontent to unconsciousness. While not commonly used by the Empire, who prefer a more direct and punitive form of policing, stun batons are common in the Outer Rim where law enforcement officers prefer non-lethal methods of dealing with the people they serve and protect.</Description>
+Напоминая типичную полицейскую дубинку, Z2 от Merr-Sonn скрывает в себе дополнительный, часто совершенно неожиданный удар в виде концентрированного оглушающего разряда. Используемая как подразделениями по подавлению беспорядков, так и криминальными вышибалами на бесчисленных планетах, Z2 представляет собой одноручное дробящее оружие, изготовленное из высокопрочных армированных полимеров с ударными поверхностями из токопроводящего сплава. При использовании против органических существ Z2 выпускает всплеск оглушающей энергии, который может быстро и эффективно привести нарушителя спокойствия в бессознательное состояние. Хотя Империя нечасто использует их, предпочитая более прямые и карательные методы поддержания порядка, шоковые дубинки распространены во Внешнем Кольце, где сотрудники правоохранительных органов предпочитают нелетальные методы работы с людьми, которым они служат и которых защищают.</Description>
     <Source Page="43">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -16800,11 +16800,11 @@ Resembling a typical police truncheon, the Z2 by Merr-Sonn packs an extra, often
   </Weapon>
   <Weapon>
     <Key>STUNCLUB</Key>
-    <Name>Stun Club</Name>
+    <Name>Шоковая дубинка (Stun Club)</Name>
     <Description>
-      [H3]Stun Club[h3]
+      [H3]Шоковая дубинка[h3]
 
-A stun club is a melee weapon that could stun an opponent. </Description>
+Шоковая дубинка - это оружие ближнего боя, способное оглушить противника. </Description>
     <Source Page="13">Модуль приключения: Жемчужина Явина (Jewel of Yavin)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>MELEE</SkillKey>
@@ -16830,15 +16830,15 @@ A stun club is a melee weapon that could stun an opponent. </Description>
   </Weapon>
   <Weapon>
     <Key>STUNGR</Key>
-    <Name>Stun Grenade</Name>
+    <Name>Оглушающая граната (Stun Grenade)</Name>
     <Description>
-      [H3]Stun Grenade[h3]
+      [H3]Оглушающая граната[h3]
 
-Stun grenades use sonic waves, concussion shocks, and other methods to stun their targets.
+Оглушающие гранаты используют звуковые волны, ударные волны и другие методы для оглушения целей.
 
-[P]Like frag grenades, stun grenades can be set to detonate on impact or set with a timer to detonate up to 3 rounds after being activated. Stun grenades rarely have pressure detonators.
+[P]Как и осколочные гранаты, оглушающие гранаты могут быть установлены на взрыв при ударе или с таймером на детонацию через 3 раунда после активации. Оглушающие гранаты редко оснащаются нажимными детонаторами.
 
-[BR][B]Models Include[b]: Merr-Sonn C-10 Stun Grenade.</Description>
+[BR][B]Модели включают:[b] Оглушающая граната Merr-Sonn C-10.</Description>
     <Sources>
       <Source Page="165">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="179">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -16882,15 +16882,15 @@ Stun grenades use sonic waves, concussion shocks, and other methods to stun thei
   </Weapon>
   <Weapon>
     <Key>STVIBKN</Key>
-    <Name>Stealth Vibroknife</Name>
+    <Name>Скрытый вибронож (Stealth Vibroknife)</Name>
     <Description>
-      [H3]Stealth Vibroknife[h3]
+      [H3]Скрытый вибронож[h3]
 
-Popular among all manner of individuals from nobles to vagabonds, vibroblades are effective cutting edges that, when powered, can easily slice through light armor. Compared to traditional melee weapons, a vibroweapon can be smaller, but still extremely deadly. Many corporations have sought to fill this niche by producing vibroknives with a bare minimum of technology—essentially a naked blade with a thin handle and miniaturized motivator. Such blades can be correspondingly more dangerous to wield, but they offer the advantage of being easily hidden and difficult to detect.
+Популярные среди самых разных людей, от аристократов до бродяг, вибролезвия представляют собой эффективные режущие кромки, которые при включении легко прорезают легкую броню. По сравнению с традиционным оружием ближнего боя, виброоружие может быть меньше, но при этом оставаться чрезвычайно смертоносным. Многие корпорации стремились заполнить эту нишу, производя виброножи с минимумом технологий - по сути, голое лезвие с тонкой рукоятью и миниатюрным виброгенератором. Такими лезвиями может быть соответственно опаснее владеть, но они обладают преимуществом в том, что их легко спрятать и трудно обнаружить.
 
-Add [SE][SE] to a character's Perception checks to find a stealth vibroknife on a person's body.
+Добавьте [SE][SE] к проверкам "Внимания" персонажа для обнаружения скрытого виброножа на теле человека.
 
-[BR][B]Models include:[b] Palandrix Compact Utility Blade. </Description>
+[BR][B]Модели включают:[b] Palandrix Compact Utility Blade. </Description>
     <Source Page="46">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -16910,7 +16910,7 @@ Add [SE][SE] to a character's Perception checks to find a stealth vibroknife on 
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add [SETBACK][SETBACK] to Perception checks to find a stealth vibroknife on a person's body.</MiscDesc>
+        <MiscDesc>Добавьте [SETBACK][SETBACK] к проверкам "Внимания" персонажа для обнаружения скрытого виброножа на теле человека.</MiscDesc>
       </Mod>
     </BaseMods>
     <Qualities>
@@ -16926,11 +16926,11 @@ Add [SE][SE] to a character's Perception checks to find a stealth vibroknife on 
   </Weapon>
   <Weapon>
     <Key>STYANAX</Key>
-    <Name>Styanax Lance</Name>
+    <Name>Копье Стинакса (Styanax Lance)</Name>
     <Description>
-      [H3]Styanax Lance[h3]
+      [H3]Копье Стинакса[h3]
 
-A large, vicious harpoon gun, the styanax lance has been used by countless generations of stabmen to hunt the ferocious sea serpents that haunt the stormy Sea of Jarad on Tralus. Mounted at the bows of their nagaks (the wide-hulled, oar-powered boats used by the human and Selonian seafarers of Tralus), the styanax lance is a meter-and-a-half long harpoon with a sharp, barbed durasteel tip designed to penetrate the armored scales and tough skin of the styanax. Thrown by the strong arms of the stabmen, the lance is attached to a stout flexisteel cable about two hundred meters long, which the stabmen use to haul in their prey. Rarely seen outside of Tralus, the styanax lance is occasionally used by off-world big game hunters on safari to bring down particularly large beasts, such as giant gundarks or bull rancors.</Description>
+Крупный и смертоносный гарпунный пистолет, копье стинакса использовалось бесчисленными поколениями гарпунщиков для охоты на свирепых морских змеев, обитающих в бурном Море Джарад на Тралусе. Закрепленное на носах их нагаков (ширококорпусных лодок на веслах, используемых людьми и селонианскими мореплавателями Тралуса), копье стинакса представляет собой гарпун длиной полтора метра с острым зазубренным наконечником из дюрастали, предназначенным для пробивания бронированной чешуи и прочной кожи стинакса. Метнутое сильными руками гарпунщиков, копье прикреплено к прочному флексистальному тросу длиной около двухсот метров, с помощью которого гарпунщики вытаскивают свою добычу. Редко встречающееся за пределами Тралуса, копье стинакса иногда используется инопланетными охотниками на крупную дичь в сафари для добычи особенно крупных зверей, таких как гигантские гундарки или самцы ранкоров.</Description>
     <Source Page="97">Дополнение: Солнца Фортуны (Suns of Fortune)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -16966,11 +16966,11 @@ A large, vicious harpoon gun, the styanax lance has been used by countless gener
   </Weapon>
   <Weapon>
     <Key>SUBDRIOTBLAST</Key>
-    <Name>"Subduer-9" Riot Blaster</Name>
+    <Name>Полицейский бластер "Subduer-9" ("Subduer-9" Riot Blaster)</Name>
     <Description>
-      [H3]"Subduer-9" Riot Blaster[h3]
-Although just as heavy and unwieldly as many more lethal weapons, riot blasters lack stopping power in the traditional sense, as these bulky blaster varients are very unlikely to do lasting harm. Instead, riot blasters are built to enhance the effectiveness of the stun setting common to blaster weapons. The "Subduer-9" model is noteworthy for it can maintain a coherent stun blast over a wide area, reducing the risk of collateral damage or unintended injury to the target.
-[P]Given these capabilites, many peacekeeping forces equip their troops with riot blasters, or at least keep the powerful weapons on hand for major civil disturbances. While obviously preferable to the alternative, the willingness with which some Imperial commanders deploy the weapons at the slightest provocation has given them an unsavory repuation in the eyes of many. Nevertheless, they are a welcome addition to the armory of any hunter who prefers to take targets alive and avoid incental harm to others.
+      [H3]Полицейский бластер "Subduer-9"[h3]
+Хотя бластеры для подавления беспорядков столь же тяжелы и громоздки, как и многие более летальные виды оружия, они лишены останавливающей способности в традиционном смысле, поскольку эти массивные варианты бластеров крайне редко наносят необратимый вред. Вместо этого бластеры для подавления беспорядков созданы для повышения эффективности оглушающего режима, обычного для бластерного оружия. Модель "Subduer-9" примечательна тем, что способна поддерживать целенаправленный оглушающий разряд на широкой площади, снижая риск сопутствующего ущерба или непреднамеренного ранения цели.
+[P]Учитывая эти возможности, многие миротворческие силы оснащают свои войска бластерами для подавления беспорядков или, по крайней мере, держат это мощное оружие под рукой на случай крупных гражданских беспорядков. Хотя это, очевидно, предпочтительнее альтернативы, готовность, с которой некоторые имперские командиры применяют это оружие при малейшей провокации, создала ему дурную репутацию в глазах многих. Тем не менее, это желанное дополнение к арсеналу любого охотника, который предпочитает брать цели живыми и избегать случайного вреда окружающим.
     </Description>
     <Source Page="44">Дополнение: Без дезинтеграций (No Disintegrations)</Source>
     <Custom>DescOnly</Custom>
@@ -17005,11 +17005,11 @@ Although just as heavy and unwieldly as many more lethal weapons, riot blasters 
   </Weapon>
   <Weapon>
     <Key>SUPERLASER</Key>
-    <Name>Superlaser</Name>
-    <Description>[H3]Superlaser[h3]
-The Mk I Superlaser developed for the Death Star is the most powerful weapon in the galaxy. Utilizing the unique energy-focusing qualities of refined kyber crystals and powered by four huge animatter generators, this weapon has the ability to completely destroy planets with a single blast.
-[P]The superlaser has no damage or critical rating, yet deals damage. Its destructive power is on such a level that it transcends mere numbers. When the Death Star fires its superlaser, everything in its path is utterly destroyed. Even when using the energy from a single reactor, it can crater cities and devastate huge swaths of a planet's surface.
-[P]The damage that this massive weapon can dish out is more narrative that mechanical. If the players ever encounter the Death Star and see the superlaser in action, the Game Master should describe ships burning to ash as it they were paper, whole worlds obliterated in the blink of an eye, shockwaves and strange localized hyperspace anomalies, and other terrible consequences. Force-sensitives, for example, might become disoriented from the death cries of an entire city's population. If the Player Characters are ever targeted by the Death Star's superlaser, the Game Master should find a way to allow them to escape what would be certain death, perhaps by making suitably heroic Piloting (Space) checks or spending Destiny Points.</Description>
+    <Name>Суперлазер (Superlaser)</Name>
+    <Description>[H3]Суперлазер[h3]
+Суперлазер Mk I, разработанный для Звезды Смерти, является самым мощным оружием в галактике. Используя уникальные энергофокусирующие свойства очищенных кайбер-кристаллов и питаясь от четырех огромных генераторов антиматерии, это оружие способно полностью уничтожить планету одним выстрелом.
+[P]Суперлазер не имеет показателя урона или критического рейтинга, но при этом наносит урон. Его разрушительная мощь находится на таком уровне, что выходит за рамки простых чисел. Когда Звезда Смерти стреляет из своего суперлазера, все на его пути полностью уничтожается. Даже при использовании энергии одного реактора он способен превращать города в кратеры и опустошать огромные участки поверхности планеты.
+[P]Урон, который может нанести это массивное оружие, скорее нарративный, чем механический. Если игроки когда-либо столкнутся со Звездой Смерти и увидят суперлазер в действии, Мастер Игры должен описать, как корабли сгорают дотла, словно они сделаны из бумаги, как целые миры уничтожаются в мгновение ока, как возникают ударные волны и странные локальные гиперпространственные аномалии, и другие ужасающие последствия. Чувствительные к Силе, например, могут испытать дезориентацию от предсмертных криков населения целого города. Если Игровые Персонажи когда-либо станут целью суперлазера Звезды Смерти, Мастер Игры должен найти способ позволить им спастись от неминуемой гибели, возможно, совершив соответствующие героические проверки "Пилотирования (космос)" или потратив Очки Судьбы.</Description>
     <Source Page="32">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Vehicle</Type>
@@ -17034,11 +17034,11 @@ The Mk I Superlaser developed for the Death Star is the most powerful weapon in 
   </Weapon>
   <Weapon>
     <Key>SUPPRESSCANNON</Key>
-    <Name>Light Suppression Cannon</Name>
+    <Name>Легкая подавляющая пушка (Light Suppression Cannon)</Name>
     <Description>
-      [H3]Light Suppression Cannon[h3]
+      [H3]Легкая подавляющая пушка[h3]
 
-A smaller cannon used for Light Suppression.</Description>
+Небольшая пушка, используемая для легкого подавления.</Description>
     <Source Page="54">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -17076,13 +17076,13 @@ A smaller cannon used for Light Suppression.</Description>
   </Weapon>
   <Weapon>
     <Key>SVT300</Key>
-    <Name>SVT-300 Stun Cloak</Name>
+    <Name>Оглушающий плащ SVT-300 (SVT-300 Stun Cloak)</Name>
     <Description>
-      [H3]Koromondain SVT-300 Stun Cloak[h3]
-[P]At first glance, the Koromondain SVT-300 stun cloak appears to be nothing more than a typical thermal cloak with a handsome metallic sheen. This sheen is produced by a series of special fibers that conduct a focused electrical charge across the cloak’s surface. Once the cloak has been activated by depressing a stud in its clasp, anyone who comes into contact with its exterior suffers an intense electrical discharge.
-Though designed as a defensive weapon, the stun cloak can also be used offensively while grappling an opponent.
-[P]If the wielder of the stun cloak is hit by a melee or brawl attack, the attacker suffers 7 damage. This damage is applied to the target’s strain threshold. This effect consumes one of the cloak’s payload of charges from its Limited Ammo quality.
-[P]Once the cloak has expended its payload of three charges, the power source in its clasp must recharge for three minutes before it can be used again.</Description>
+      [H3]Оглушающий плащ Koromondain SVT-300[h3]
+[P]На первый взгляд, оглушающий плащ Koromondain SVT-300 выглядит как обычный термальный плащ с приятным металлическим блеском. Этот блеск создается серией специальных волокон, проводящих сфокусированный электрический заряд по поверхности плаща. После активации плаща путем нажатия на кнопку в его застежке, любой, кто коснется его внешней поверхности, получит мощный электрический разряд.
+Хотя плащ разработан как оборонительное оружие, его также можно использовать в нападении при захвате противника.
+[P]Если владелец оглушающего плаща получает попадание от атаки ближнего боя или рукопашной атаки, атакующий получает 7 урона. Этот урон применяется к порогу "усталости" цели. Этот эффект расходует один из запасов зарядов плаща из его качества "Limited Ammo".
+[P]После того как плащ израсходует свой запас из трех зарядов, источник питания в его застежке должен перезаряжаться в течение трех минут, прежде чем его можно будет использовать снова.</Description>
     <Source Page="108">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>BRAWL</SkillKey>
@@ -17106,20 +17106,20 @@ Though designed as a defensive weapon, the stun cloak can also be used offensive
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>If wielder is hit by a melee or brawl attack, the attacker takes 7 stun damage  This expends one charge of the Limited Ammo quality.</MiscDesc>
+        <MiscDesc>Если владелец получает удар в ближнем бою или рукопашной схватке, атакующий получает 7 единиц оглушающего урона. При этом расходуется один заряд свойства "Limited Ammo".</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>When all three charges are expended, must wait 3 minutes to recharge</MiscDesc>
+        <MiscDesc>После расходования всех трёх зарядов необходимо подождать 3 минуты для их восстановления.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>SWE2SONIC</Key>
-    <Name>SWE/2 Sonic Rifle</Name>
+    <Name>Звуковая винтовка SWE/2 (SWE/2 Sonic Rifle)</Name>
     <Description>
-      [H3]SWE/2 Sonic Rifle[h3]
+      [H3]Звуковая винтовка SWE/2[h3]
 
-Known primarily for their finely designed skiffs and robust security systems, Telex-Delcor also produces a line of reliable and easy-to-use non-lethal riot control devices. One of their more unique offerings is the SWE/2 Sonic Rifle. A refinement of the SWE/1 Sonic Suppressor released during the Clone Wars, the SWE/2 is a long-barrelled firearm designed to incapacitate even the toughest, most persistent malcontent. Using a powerful acoustic generator, the SWE/2 fires a concentrated beam of sound waves similar in power and performance to the particle beam packets fired by blasters. When used on sentient beings, this weapon affects the targets' hearing and sense of balance, staggering the targets and shorting out their fine motor centers. Similar to its Clone Wars-era predecessor, the sonic blast generated by the SWE/2 cannot be parried or disrupted by a lightsaber; a very attractive feature during the end of the Clone Wars, but of limited usefulness today.</Description>
+Известная в первую очередь своими искусно спроектированными скиммерами и надежными системами безопасности, компания Telex-Delcor также производит линейку надежных и простых в использовании нелетальных устройств для подавления беспорядков. Одним из их наиболее уникальных предложений является звуковая винтовка SWE/2. Являясь усовершенствованием звукового подавителя SWE/1, выпущенного во время Войн клонов, SWE/2 представляет собой длинноствольное оружие, предназначенное для выведения из строя даже самых стойких и упорных нарушителей спокойствия. Используя мощный акустический генератор, SWE/2 выпускает концентрированный луч звуковых волн, схожий по мощности и характеристикам с пакетами частиц, выпускаемыми бластерами. При использовании на разумных существах это оружие воздействует на слух и чувство равновесия целей, оглушая их и нарушая работу центров мелкой моторики. Подобно своему предшественнику эпохи Войн клонов, звуковой удар, генерируемый SWE/2, не может быть отражен или разрушен световым мечом; очень привлекательная особенность в конце Войн клонов, но имеющая ограниченную полезность сегодня.</Description>
     <Source Page="40">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -17154,15 +17154,15 @@ Known primarily for their finely designed skiffs and robust security systems, Te
   </Weapon>
   <Weapon>
     <Key>SWORDCANE</Key>
-    <Name>Sword Cane</Name>
+    <Name>Трость-меч (Sword Cane)</Name>
     <Description>
-      [H3]Sword Cane[h3]
+      [H3]Трость-меч[h3]
 
-A traditional accessory of aristocracy who occasionally need to instill an important lesson, the sword cane combines the merits of a walking stick with accessible protection. Designs can vary wildly, with some users preferring fancy and shiny rods, while other wielders opt for more subdued staves. Typically, a simple twist releases the handle from the sheath, allowing the wielder to draw the blade in a rapid, smooth motion. Some incorporate a vibroblade as the hidden sword, but the majority of models feature an unpowered blade for better concealment. While sword cane lack the weight and killing power of a dedicated combat blade, it is a valuable defensive weapon and can still be deadly in master duellist's hands.
+Традиционный аксессуар аристократии, которой время от времени необходимо преподать важный урок, трость-меч сочетает в себе достоинства прогулочной трости с легкодоступной защитой. Дизайн может сильно различаться: некоторые пользователи предпочитают изящные и блестящие стержни, тогда как другие выбирают более сдержанные трости. Как правило, простой поворот освобождает рукоять от ножен, позволяя владельцу извлечь клинок быстрым, плавным движением. Некоторые модели включают вибролезвие в качестве скрытого меча, но большинство образцов оснащены обычным лезвием для лучшей скрытности. Хотя трость-меч уступает по весу и убойной силе специализированному боевому клинку, это ценное оборонительное оружие, которое по-прежнему может быть смертоносным в руках мастера дуэлянта.
 
-[P]Add [SE] to a character's Perception checks to determine that a sword cane is actually a lethal weapon.
+[P]Добавьте [SE] к проверкам "Внимания" персонажа, чтобы определить, что трость-меч на самом деле является смертельным оружием.
 
-[BR][B]Models include:[b] SoroSuub Elegance-4 Cane, Drolan Platted Sword Cane.</Description>
+[BR][B]Модели включают:[b] Трость SoroSuub Elegance-4, Трость-меч Drolan Platted.</Description>
     <Source Page="47">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -17181,7 +17181,7 @@ A traditional accessory of aristocracy who occasionally need to instill an impor
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add [SETBACK] to Perception checks to determine that a sword cane is actually a lethal weapon.</MiscDesc>
+        <MiscDesc>Добавьте [SETBACK] к проверкам "Внимания" персонажа, чтобы определить, что трость-меч на самом деле является смертельным оружием.</MiscDesc>
       </Mod>
     </BaseMods>
     <Qualities>
@@ -17193,15 +17193,14 @@ A traditional accessory of aristocracy who occasionally need to instill an impor
   </Weapon>
   <Weapon>
     <Key>T7DISR </Key>
-    <Name>T-7 Ion Disruptor</Name>
+    <Name>Ионный дизраптор T-7 (T-7 Ion Disruptor)</Name>
     <Description>
-      [H3]T-7 Ion Disruptor[h3]
-Originally designed as an anti-aircraft and anti-armor weapon, few arms possess the destructive power and invoke as much fear as the T-7 ion disruptor. Each round from the T-7 lets loose a burst of ionized plasma with enough energy to penetrate starship hulls and shut down airspeeders and starships, sending them into a death spiral. The T-7 makes short work of many armored vehicles and mechanized infantry, as it chews through everything in its path.
-[P]Despite its intended role, the T-7 disruptor obtained its notorious reputation from its use on sentient beings. A single blast from the T-7 can de-atomize entire groups of lifeforms. During the Siege of Lasan, agents from the Imperial Security Bureau equipped with T-7s slaughtered countless Lasat civilians as a show of Imperial might. This atrocity led the Imperial Senate to ban the T-7 ion disruptor and its use, and the rifles were recalled and destroyed. However,
-copies of the T-7 schematics escaped deletion, and private weapon manufacturers still produce batches found on the black market.
-[P]Like other disruptor weapons, T-7 ion disruptors may never benefit from upgrades or attachments that improve their range or grant multiple shots.
-[P]Whenever a living target is hit with a T-7 ion disruptor, any Critical Injury results in a “Crippled” effect, unless the roll on [B]Table 6-10: Critical Injury[b] Result on page 231 of the [B]Age of Rebellion[b] Core Rulebook would result in a more grievous injury.
-[P]Whenever a vehicle or starship is hit with a T-7 ion disruptor, any Critical Hit results in a “Component Hit” effect, unless the roll on [B]Table 7-9: Critical Hit[b] Result on page 258 of the [B]Age of Rebellion[b] Core Rulebook would result in a more serious effect.</Description>
+      [H3]Ионный дизраптор T-7[h3]
+Изначально разработанный как зенитное и противотанковое оружие, немногие образцы вооружения обладают такой разрушительной мощью и внушают такой страх, как ионный дизраптор T-7. Каждый выстрел из T-7 высвобождает залп ионизированной плазмы, обладающий достаточной энергией, чтобы пробивать корпуса кораблей и выводить из строя аэроспидеры и звездолеты, отправляя их в смертельную спираль. T-7 быстро расправляется со многими бронированными машинами и механизированной пехотой, уничтожая все на своем пути.
+[P]Несмотря на свое первоначальное назначение, дизраптор T-7 приобрел свою печально известную репутацию благодаря применению против разумных существ. Единственный выстрел из T-7 способен расщепить на атомы целые группы живых существ. Во время Осады Ласана агенты Имперского бюро безопасности, вооруженные T-7, уничтожили бесчисленное количество мирных ласатов в качестве демонстрации имперской мощи. Это злодеяние заставило Имперский Сенат запретить ионный дизраптор T-7 и его использование, а винтовки были отозваны и уничтожены. Однако копии чертежей T-7 избежали удаления, и частные производители оружия по-прежнему выпускают партии, которые можно найти на черном рынке.
+[P]Как и другое дизрапторное оружие, ионные дизрапторы T-7 никогда не могут получать выгоду от улучшений или приспособлений, повышающих их дальность или предоставляющих множественные выстрелы.
+[P]Каждый раз, когда живая цель получает попадание из ионного дизраптора T-7, любой результат Критической травмы приводит к эффекту “Crippled” , если только бросок по [B]Таблице 6-10: Результат Критической травмы[b] на странице 231 книги правил [B]Эпоха Восстания[b] не приводит к более тяжелому ранению.
+[P]Каждый раз, когда транспортное средство или корабль получает попадание из ионного дизраптора T-7, любой результат Критического попадания приводит к эффекту “Component Hit”, если только бросок по [B]Таблице 7-9: Результат Критического попадания[b] на странице 258 книги правил [B]Эпоха Восстания[b] не приводит к более серьезному эффекту.</Description>
     <Source Page="44">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -17217,11 +17216,11 @@ copies of the T-7 schematics escaped deletion, and private weapon manufacturers 
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Whenever a living target is hit with a T-7 ion disruptor, any Crititcal Injury results in a "Crippled" effect unless the roll on the Critical Injury table would result in a more grievous injury.</MiscDesc>
+        <MiscDesc>Каждый раз, когда живая цель получает попадание из ионного дизраптора T-7, любой результат Критической травмы приводит к эффекту "Crippled", если только бросок по таблице Критических травм не приводит к более тяжелому ранению.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Whenever a vehicle or starship is hit with a T-7 ion distruptor, any Critical Hit results in a "Component Hit" effect, unless the roll on the Critical Hit table would result in a more serious effect.</MiscDesc>
+        <MiscDesc>Каждый раз, когда транспортное средство или корабль получает попадание из ионного дизраптора T-7, любой результат Критического попадания приводит к эффекту "Component Hit", если только бросок по таблице Критических попаданий не приводит к более серьезному эффекту.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGHVY</SkillKey>
@@ -17255,13 +17254,13 @@ copies of the T-7 schematics escaped deletion, and private weapon manufacturers 
   </Weapon>
   <Weapon>
     <Key>TAGCRYOPROJ</Key>
-    <Name>Cryoban Projector</Name>
+    <Name>Криобан-проектор (Cryoban Projector)</Name>
     <Description>
-      [H3]Taggeco. Cryoban Projector[h3]
+      [H3]Криобан-проектор Taggeco.[h3]
 
-These devices were originally designed to extinguish fires aboard starships using a supercooling chemical agent, but independent operators quickly discovered that removing the safety nozzles from CryoBan projectors could turn them into lethal weapons. Many smugglers keep several of these stashed in strategic locations around their ships, both to put out fires and, if necessary, repel boarders.
+Эти устройства изначально были разработаны для тушения пожаров на борту звездолетов с помощью химического агента сверхнизкой температуры, но независимые операторы быстро обнаружили, что снятие предохранительных насадок с криобан-проекторов может превратить их в смертельное оружие. Многие контрабандисты держат несколько таких устройств в стратегических точках своих кораблей, как для тушения пожаров, так и, при необходимости, для отражения абордажников.
 
-[P]CryoBan projectors can be used to fight fires. A character armed with a CryoBan projector adds [BO] to attempts to put out a fire. Assisted checks to extinguish the flames add one additional [BO] for each assist-ing character equipped with a CryoBan projector.</Description>
+[P]Криобан проекторы можно использовать для борьбы с огнем. Персонаж, вооруженный криобан проектором персонаж, добавляет [BO] к попыткам потушить пожар. Совместные проверки по тушению пламени добавляют один дополнительный [BO] за каждого помогающего персонажа, оснащенного криобан проектором.</Description>
     <Source Page="45">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -17277,7 +17276,7 @@ These devices were originally designed to extinguish fires aboard starships usin
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Can be used to fight fires. Add [BO] to attempts to put out a fire.  Assisted checks add [BO] per character with a Cryoban Projector.</MiscDesc>
+        <MiscDesc>Может использоваться для тушения пожаров. Добавьте [BO] к попыткам потушить пожар. Совместные проверки добавляют [BO] за каждого персонажа с криобан проектором.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGHVY</SkillKey>
@@ -17302,11 +17301,11 @@ These devices were originally designed to extinguish fires aboard starships usin
   </Weapon>
   <Weapon>
     <Key>TANGLEGUN</Key>
-    <Name>Tangle Gun</Name>
+    <Name>Сетевое ружье (Tangle Gun)</Name>
     <Description>
-      [H3]Tangle Gun[h3]
+      [H3]Сетевое ружье[h3]
 
-Another non-lethal offering from Merr-Sonn, the Tangle Gun 7 is the latest word in crowd control weaponry. The Tangle Gun 7 is a carbine-sized rifle with a short, wide-mouthed barrel and polycarbonate furniture that is light and easy to handle. The weapon fires a small pellet of naorstrachem, a sticky and extremely flexible atmosphere-reactive synthetic memory material. Encased in a shell that falls away once the pellet is fired, the pellet explosively expands into a broad, fast moving net upon contact with atmosphere. Once the net makes contact with a target, the being's body heat causes the net to quickly contract, immobilizing him completely. Once entangled, the target must be cut from the webbing. While the Tangle Gun 7 is advertised as non-lethal, occasionally the net tightens so quickly and with such force that it causes lasting harm.</Description>
+Еще одно нелетальное предложение от Merr-Sonn, Сетевое ружье 7 является последним словом в области оружия для контроля над толпой. Сетевое ружье 7 представляет собой винтовку размером с карабин с коротким стволом с широким дулом и поликарбонатной отделкой, легкой и удобной в обращении. Оружие стреляет небольшой капсулой наорстрахема — липкого и чрезвычайно гибкого атмосферно-реактивного синтетического материала с памятью формы. Заключенная в оболочку, которая отпадает после выстрела, капсула взрывообразно расширяется в широкую, быстро движущуюся сеть при контакте с атмосферой. Как только сеть соприкасается с целью, тепло тела существа заставляет сеть быстро сжиматься, полностью обездвиживая его. Попав в ловушку, цель необходимо вырезать из сети. Хотя Сетевое ружье 7 рекламируется как нелетальное, иногда сеть сжимается так быстро и с такой силой, что наносит необратимый вред.</Description>
     <Source Page="41">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -17334,12 +17333,12 @@ Another non-lethal offering from Merr-Sonn, the Tangle Gun 7 is the latest word 
   </Weapon>
   <Weapon>
     <Key>TERMITELAUNCH</Key>
-    <Name>Termite Torpedo Launcher</Name>
+    <Name>Пусковая установка термитных торпед (Termite Torpedo Launcher)</Name>
     <Description>
-      [H3]Termite Torpedo Launcher[h3]
-Although unlikely to inflict significant damage upon initial impact, termite torpedoes are nonetheless among the most hated and feared weapons in the galaxy. Each torpedo houses dozens to hundreds of small, barely intelligent droids, variously known as termites, dismantlers, disassemblers, and a number of less savory names. After impact, the torpedo breaks open to release the droids. They scurry in all directions across the ship and use their laser cutters, magclaws, ion clamps, and other tools to burrow through the hull and attack ship systems. In short order, the droids can spread throughout a ship.
-[P]It can take weeks to clear an infestation-if the vessel survives that long. Many engineers serving with the Alliance (or aboard pirate crews) despise these weapons, as they make salvage difficult or downright impossible. On top of this, unsubstantiated rumors persist of termite droids lying dormant in salvaged systems, only to emerge and infect any vessel that inherits the affected parts.
-[P]Additional termite torpedoes cost 900 credits for a set of three.</Description>
+      [H3]Пусковая установка термитных торпед[h3]
+Хотя термитные торпеды вряд ли нанесут значительный урон при первоначальном попадании, они тем не менее являются одним из самых ненавистных и пугающих видов оружия в галактике. Каждая торпеда содержит от десятков до сотен небольших, едва разумных дроидов, известных под разными названиями: термиты, разборщики, демонтажники и ряд менее приятных имен. После попадания торпеда раскалывается, высвобождая дроидов. Они разбегаются во всех направлениях по кораблю и используют свои лазерные резаки, магнитные клешни, ионные зажимы и другие инструменты, чтобы прогрызть корпус и атаковать системы корабля. В кратчайшие сроки дроиды могут распространиться по всему судну.
+[P]На устранение заражения могут уйти недели - если корабль вообще столько продержится. Многие инженеры, служащие в Альянсе (или на пиратских кораблях), презирают это оружие, поскольку оно делает спасение или утиляцию затруднительными или попросту невозможными. Вдобавок ко всему, упорно ходят неподтвержденные слухи о том, что термитные дроиды могут находиться в спящем режиме в утилизированных системах, чтобы затем пробудиться и заразить любое судно, которое получит пораженные детали.
+[P]Дополнительные термитные торпеды стоят 900 кредитов за комплект из трех штук.</Description>
     <Source Page="63">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -17352,7 +17351,7 @@ Although unlikely to inflict significant damage upon initial impact, termite tor
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>After vehicle is hit by a termite torpedo, for remainder of encounter, whenever crew performs a check, attacker can spend [TH][TH] to have ship suffer 2 hull trauma or system strain, and can spend [DE] to inflict a Critical Hit.  As an action, crew aboard attacked ship may perform a [B]Daunting ([DI][DI][DI][DI]) Mechanics check[b] to repress effect for 1 round.</MiscDesc>
+        <MiscDesc>После того как транспортное средство получает попадание термитной торпедой, до конца столкновения всякий раз, когда экипаж совершает проверку, атакующий может потратить [TH][TH], чтобы корабль получил 2 "повреждения корпуса" или "перегрузки систем", и может потратить [DE], чтобы нанести Критическое попадание. В качестве действия экипаж атакованного корабля может совершить [B]Пугающую ([DI][DI][DI][DI]) проверку "Механики"[b], чтобы подавить эффект на 1 раунд.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>GUNN</SkillKey>
@@ -17380,10 +17379,10 @@ Although unlikely to inflict significant damage upon initial impact, termite tor
   </Weapon>
   <Weapon>
     <Key>TERMITETORP</Key>
-    <Name>Termite Torpedo</Name>
+    <Name>Термитная торпеда (Termite Torpedo)</Name>
     <Description>
-      [H3]Termite Torpedo[h3]
-[P][I]For use with the Termite Torpedo Launcher[i]
+      [H3]Термитная торпеда[h3]
+[P][I]Для использования с пусковой установкой термитных торпед[i]
     </Description>
     <Source Page="63">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
@@ -17397,7 +17396,7 @@ Although unlikely to inflict significant damage upon initial impact, termite tor
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>After vehicle is hit by a termite torpedo, for remainder of encounter, whenever crew performs a check, attacker can spend [TH][TH] to have ship suffer 2 hull trauma or system strain, and can spend [DE] to inflict a Critical Hit.  As an action, crew aboard attacked ship may perform a [B]Daunting ([DI][DI][DI][DI]) Mechanics check[b] to repress effect for 1 round.</MiscDesc>
+        <MiscDesc>После того как транспортное средство получает попадание термитной торпедой, до конца столкновения всякий раз, когда экипаж совершает проверку, атакующий может потратить [TH][TH], чтобы корабль получил 2 "повреждения корпуса" или "перегрузки систем", и может потратить [DE], чтобы нанести Критическое попадание. В качестве действия экипаж атакованного корабля может совершить [B]Пугающую ([DI][DI][DI][DI]) проверку "Механики"[b], чтобы подавить эффект на 1 раунд.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>GUNN</SkillKey>
@@ -17425,13 +17424,13 @@ Although unlikely to inflict significant damage upon initial impact, termite tor
   </Weapon>
   <Weapon>
     <Key>THERMAXMOD7</Key>
-    <Name>Model 7 Therm-Ax</Name>
+    <Name>Термотопор Модель 7 (Model 7 Therm-Ax)</Name>
     <Description>
-      [H3]Model 7 Therm-Ax[h3]
+      [H3]Термотопор Модель 7[h3]
 
-Though similar in appearance to a vibro-ax, the SoroSuub Model 7 operates on very different principles. The ax head is crafted from a superconductive durasteel alloy, with thermal coils concealed just beneath the surface, running to the power supply located under the blade. When activated, the ax blade quickly reaches temperatures in excess of 500 degrees. Even a glancing blow or near miss can ignite flammable materials, while a direct hit can incinerate flesh. Those wielding the weapon usually don heat-resistant garb, as their proximity to the blade can otherwise be quite unpleasant.
+Хотя внешне он напоминает вибротопор, "Модель 7" от SoroSuub работает на совершенно иных принципах. Лезвие топора изготовлено из сверхпроводящего сплава дюрастали, а под его поверхностью скрыты термические спирали, идущие к источнику питания, расположенному под клинком. При активации лезвие топора быстро нагревается до температуры свыше 500 градусов. Даже скользящий удар или промах в непосредственной близости может воспламенить горючие материалы, а прямое попадание способно испепелить плоть. Те, кто владеет этим оружием, обычно надевают термостойкую одежду, поскольку близость к лезвию в противном случае может быть весьма неприятной.
 
-[P]A therm-ax requires two hands to wield.</Description>
+[P]Для использования термотопора требуются обе руки.</Description>
     <Source Page="48">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -17477,11 +17476,11 @@ Though similar in appearance to a vibro-ax, the SoroSuub Model 7 operates on ver
   </Weapon>
   <Weapon>
     <Key>THERMCUTW</Key>
-    <Name>Thermal Cutter</Name>
+    <Name>Термический резак (Thermal Cutter)</Name>
     <Description>
-      [H3]Thermal Cutter[h3]
-Designed for cold-weather expeditions, the Copora-Tech Thermal Cutter is basically a scaled-down mining beamdrill. The handheld device projects a heat beam that can evaporate snow and cut through ice, making it invaluable for digging snow shelters on inhospitable worlds.
-[P]A thermal cutter’s charge lasts for roughly five minutes of continuous use, and can remove one cubic meter of snow per minute, or dig through 10 centimeters of ice per minute. If plugged into a fusion lantern, it can run indefinitely, otherwise it requires a new battery. Nefarious individuals can also use a thermal cutter as a weapon with the following profile (Melee; Damage 4; Critical 4; Range [Engaged]; Burn 1, Inaccurate 2).</Description>
+      [H3]Термический резак[h3]
+Разработанный для экспедиций в холодных условиях, термический резак Copora-Tech представляет собой, по сути, уменьшенную версию горнодобывающего лучевого бура. Это ручное устройство проецирует тепловой луч, способный испарять снег и прорезать лед, что делает его незаменимым для рытья снежных укрытий на негостеприимных мирах.
+[P]Заряда термического резака хватает примерно на пять минут непрерывного использования, и он способен удалять один кубический метр снега в минуту или прорезать 10 сантиметров льда в минуту. При подключении к термоядерному фонарю он может работать неограниченно долго, в противном случае требуется новая батарея. Злонамеренные личности также могут использовать термический резак в качестве оружия со следующим профилем (Ближний бой; Урон 4; Крит 4; Дальность [Вплотную]; Burn 1, Inaccurate 2).</Description>
     <Source Page="105">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -17515,17 +17514,17 @@ Designed for cold-weather expeditions, the Copora-Tech Thermal Cutter is basical
   </Weapon>
   <Weapon>
     <Key>THERMDET</Key>
-    <Name>Thermal Detonator</Name>
+    <Name>Термальный детонатор (Thermal Detonator)</Name>
     <Description>
-      [H3]Thermal Detonator[h3]
+      [H3]Термальный детонатор[h3]
 
-These insidious devices are the size of frag grenades, but have a thermite-baradium casing surrounding a baradium core. On detonation, the resulting fusion reaction creates a particle wave that disintegrates everything in the blast. Most authorities ban thermal detonators because of baradium's instability. One detonator can level a building.
+Эти коварные устройства размером с осколочную гранату, но имеют термит-барадиевый корпус, окружающий барадиевое ядро. При детонации возникающая реакция синтеза создает волну частиц, которая дезинтегрирует все в зоне взрыва. Большинство властей запрещают термальные детонаторы из-за нестабильности барадия. Один детонатор способен сравнять здание с землей.
 
-[P]When using a thermal detonator, any [DE] result on the check means the detonator explodes prematurely. The wielder takes full damage from the weapon unless he can perform an additional maneuver to try to get clear; in this case, he only suffers the Blast damage.
+[P]При использовании термального детонатора любой результат [DE] при проверке означает, что детонатор взрывается преждевременно. Владелец получает полный урон от оружия, если только он не может выполнить дополнительный маневр, чтобы попытаться отойти на безопасное расстояние; в этом случае он получает только урон от качества "Blast".
 
-[P]Thermal detonators can be set to detonate on impact or set with a timer to detonate up to 3 rounds after being activated at the beginning of the attacker's action. Some also have a pressure switch that, once pressed, detonates immediately upon release. Thermal detonators are so potent that their Blast quality affects everyone within short range of the original target.
+[P]Термальные детонаторы могут быть установлены на детонацию при ударе или с таймером на детонацию через 3 раунда после активации в начале действия атакующего. Некоторые также имеют нажимной переключатель, который при нажатии немедленно детонирует при отпускании. Термальные детонаторы настолько мощны, что их качество "Blast" воздействует на всех в пределах короткой дистанции от первоначальной цели.
 
-[BR][B]Models Include[b]: Merr-Sonn Class-A Thermal Detonator.</Description>
+[BR][B]Модели включают:[b] Термальный детонатор Merr-Sonn класса А.</Description>
     <Sources>
       <Source Page="165">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="180">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -17562,23 +17561,23 @@ These insidious devices are the size of frag grenades, but have a thermite-barad
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>Any [DE] on check means detonator exploded prematurely.  User takes full damage unless an additional maneuver can be performed.  If so, user takes Blast damage.</MiscDesc>
+        <MiscDesc>Любой [DE] при проверке означает, что детонатор взорвался преждевременно. Пользователь получает полный урон, если только не может быть выполнен дополнительный маневр. В этом случае пользователь получает урон от качества "Blast"</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>THERMDETMINI</Key>
-    <Name>Mini Thermal Detonator</Name>
+    <Name>Мини термальный детонатор (Mini Thermal Detonator)</Name>
     <Description>
-      [H3]Mini Thermal Detonator[h3]
+      [H3]Мини термальный детонатор[h3]
 
-These insidious devices are half the size of frag grenades but have a thermite-baradium casing surrounding a baradium core. On detonation, the resulting fusion reaction creates a particle wave that disintegrates everything in the blast. One mini-detonator can clear a large room. The stats for them are as follows: (Ranged [Light]; Damage 12; Critical 2; Range [Short]; Blast 10). Blast 10 means that the attacker can spend 2 Advantage [AD][AD] to ensure the blast hits everyone within short range of the original target, dealing 10 damage to each.
+Эти коварные устройства вдвое меньше осколочных гранат, но имеют термит-барадиевый корпус, окружающий барадиевое ядро. При детонации возникающая реакция синтеза создает волну частиц, которая дезинтегрирует все в зоне взрыва. Один мини детонатор способен очистить большую комнату. Его характеристики следующие: (Дальний бой [легкое оружие]; Урон 12; Крит 2; Дальность [Короткая]; Blast 10). "Blast 10" означает, что атакующий может потратить 2 'Преимуществ' [AD][AD], чтобы гарантировать попадание взрыва по всем в пределах короткой дистанции от первоначальной цели, нанося 10 урона каждому.
 
-[P]Thermal detonators can be either set to detonate on impact, or be set with a timer to detonate up to 3 rounds after being activated at the beginning of the attacker's action.
+[P]Термальные детонаторы могут быть установлены либо на детонацию при ударе, либо с таймером на детонацию через 3 раунда после активации в начале действия атакующего.
 
-[P]This particular batch was defective, so the weapon only detonates if 3 Advantage [AD][AD][AD] or a Triumph [TR] are spent during the [B]Ranged (Light) check[b]. On a Despair [DE] it explodes prematurely in the wielder's hand.
+[P]Данная конкретная партия была бракованной, поэтому оружие детонирует только в том случае, если во время [B]проверки "Дальний бой (легкое оружие)"[b] потрачено 3 'Преимущества' [AD][AD][AD] или 'Триумф' [TR]. При 'Отчаянии' [DE] он преждевременно взрывается в руке владельца.
     </Description>
-    <Source Page="36">Under a Black Sun</Source>
+    <Source Page="36">Дополнение: Под Черным солнцем (Under a Black Sun)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGLT</SkillKey>
     <Damage>12</Damage>
@@ -17603,11 +17602,11 @@ These insidious devices are half the size of frag grenades but have a thermite-b
   </Weapon>
   <Weapon>
     <Key>THNDRBOLT</Key>
-    <Name>Thunderbolt Shock Prod</Name>
+    <Name>Электрошоковый шест "Thunderbolt" (Thunderbolt Shock Prod)</Name>
     <Description>
-      [H3]Thunderbolt Shock Prod[h3]
+      [H3]Электрошоковый шест "Thunderbolt"[h3]
 
-A particularly brutal weapon used to herd thick skinned creatures and, on occasion, sentient beings, the Thunderbolt Shock Prod produced by SoroSuub is a weapon with a mixed reputation throughout the galaxy. At once the symbol of bucolic agricultural life and brutally oppressive regimes, the Thunderbolt consists of a solid alloy staff nearly two meters long. At one end is a heavily insulated, two-handed grip and at the other is a series of sharp prongs. The prongs aren't the main threat posed by these weapons, however. Rather, it is the powerful electrical shock generated by them. Able to produce an electrical arc powerful enough to tame a krayt dragon, the Thunderbolt is popular among planetary security forces and slavers, and judicious use of these weapons by riot police can disperse a violent crowd in minutes. The effects of the noise and the crippling pain from the shock quickly incapacitate even the most determined rioters, and these weapons are infamous throughout the galaxy.</Description>
+Особенно жестокое оружие, используемое для управления толстокожими существами и, иногда, разумными существами, электрошоковый шест "Thunderbolt" производства SoroSuub является оружием с неоднозначной репутацией по всей галактике. Одновременно символ безмятежной сельскохозяйственной жизни и жестоких репрессивных режимов, "Thunderbolt" представляет собой цельный металлический шест длиной почти два метра. На одном конце находится хорошо изолированная двуручная рукоять, а на другом - ряд острых зубцов. Однако зубцы не являются главной угрозой, исходящей от этого оружия. Скорее, это мощный электрический разряд, генерируемый ими. Способный создавать электрическую дугу, достаточно мощную, чтобы укротить крайт-дракона, "Thunderbolt" популярен среди планетарных сил безопасности и работорговцев, а грамотное использование этого оружия полицией по подавлению беспорядков способно рассеять агрессивную толпу за считанные минуты. Воздействие шума и сокрушительной боли от разряда быстро выводит из строя даже самых решительных бунтовщиков, и это оружие печально известно по всей галактике.</Description>
     <Source Page="43">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -17636,8 +17635,8 @@ A particularly brutal weapon used to herd thick skinned creatures and, on occasi
   </Weapon>
   <Weapon>
     <Key>TORPLAUNCH</Key>
-    <Name>Torpedo Launcher</Name>
-    <Description>[H3]Torpedo Launcher[h3]</Description>
+    <Name>Пусковая установка торпед (Torpedo Launcher)</Name>
+    <Description>[H3]Пусковая установка торпед[h3]</Description>
     <Source Page="117">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -17678,11 +17677,11 @@ A particularly brutal weapon used to herd thick skinned creatures and, on occasi
   </Weapon>
   <Weapon>
     <Key>TOWCABLE</Key>
-    <Name>Electromagnetic Tow Cable Launcher</Name>
+    <Name>Электромагнитная пусковая установка буксирного троса (Electromagnetic Tow Cable Launcher)</Name>
     <Description>
-      [H3]Electromagnetic Tow Cable Launcher[h3]
-While capital ships can rely on tractor beams to ensnare and immobilize targets, these weapons are not generally an option for smaller vessels and ground vehicles. For such vehicles, the closest approximation is often the tow cable launcher. This catchall term encompasses a number of different devices with similar function. The most common models incorporate an electromagnetic grapple and a length of durasteel cable fired by a hydraulic launcher.
-[P]Although these launchers were originally designed as tools rather than weapons, a number of desperate or inventive pilots have made use of these grapple launchers in combat over the years. Members of the Rebel Alliance are accustomed to making do with whatever tools they have at their disposal, and a number of non-combat vehicles sporting tow cables have seen use in battle. In fact, some commanders find the tactical uses for these tools versatile enough to specifically request their addition to combat vehicles.</Description>
+      [H3]Электромагнитная пусковая установка буксирного троса[h3]
+Хотя капитальные корабли могут полагаться на захватные лучи для поимки и обездвиживания целей, это оружие, как правило, недоступно для небольших судов и наземных транспортных средств. Для таких транспортных средств наиболее близким аналогом часто является пусковая установка буксирного троса. Этот обобщающий термин охватывает ряд различных устройств со схожей функцией. Наиболее распространенные модели включают электромагнитный захват и отрезок дюрасталевого троса, выстреливаемого с помощью гидравлической пусковой установки.
+[P]Хотя эти пусковые установки изначально были разработаны как инструменты, а не оружие, за эти годы ряд отчаянных или изобретательных пилотов использовали эти пусковые установки захватов в бою. Члены Повстанческого альянса привыкли обходиться тем, что есть в их распоряжении, и ряд небоевых транспортных средств, оснащенных буксирными тросами, применялся в бою. На самом деле, некоторые командиры находят тактическое применение этих инструментов достаточно универсальным, чтобы специально запрашивать их установку на боевые транспортные средства.</Description>
     <Source Page="62">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -17694,7 +17693,7 @@ While capital ships can rely on tractor beams to ensnare and immobilize targets,
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>When Ensare quantity is activated, target vehicle's pilot must make an [B]Average ([DI][DI]) Piloting check[b] to free vehicle.  If target is at least 1 silhouette lower than attacker, [TH][TH] on failed check will draw target 1 range band closer to attacker.</MiscDesc>
+        <MiscDesc>При активации качества "Ensare" пилот целевого транспортного средства должен совершить проверку "Пилотирования" сложности Средняя ([DI][DI]), чтобы освободить транспортное средство. Если силуэт цели как минимум на 1 меньше, чем у атакующего, [TH][TH] при проваленной проверке приблизят цель на 1 диапазон дистанции к атакующему.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>GUNN</SkillKey>
@@ -17719,11 +17718,11 @@ While capital ships can rely on tractor beams to ensnare and immobilize targets,
   </Weapon>
   <Weapon>
     <Key>TRACTHVY</Key>
-    <Name>Heavy Tractor Beam</Name>
+    <Name>Тяжелый захватный луч (Heavy Tractor Beam)</Name>
     <Description>
-      [H3]Heavy Tractor Beam[h3]
+      [H3]Тяжелый захватный луч[h3]
 
-Tractor beams are modified shield generators that project a beam of energy that can ensnare starships. Used on orbital shipyards, planetary starports, space stations, and many starships, tractor beams are commonly used to guide vessels safely into slips and docking bays, as well as to handle cargo. When mounted to warships, they can be used offensively to capture enemy vessels and draw them into docking bays for ease of boarding.</Description>
+Захватные лучи представляют собой модифицированные генераторы щитов, проецирующие луч энергии, способный захватывать звездолеты. Используемые на орбитальных верфях, планетарных космопортах, космических станциях и многих звездолетах, захватные лучи обычно применяются для безопасного направления судов в доки и стыковочные отсеки, а также для работы с грузами. При установке на военные корабли они могут использоваться в наступательных целях для захвата вражеских судов и притягивания их в стыковочные отсеки для облегчения абордажа.</Description>
     <Sources>
       <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -17753,11 +17752,11 @@ Tractor beams are modified shield generators that project a beam of energy that 
   </Weapon>
   <Weapon>
     <Key>TRACTLT</Key>
-    <Name>Light Tractor Beam</Name>
+    <Name>Легкий захватный луч (Light Tractor Beam)</Name>
     <Description>
-      [H3]Light Tractor Beam[h3]
+      [H3]Легкий захватный луч[h3]
 
-Tractor beams are modified shield generators that project a beam of energy that can ensnare starships. Used on orbital shipyards, planetary starports, space stations, and many starships, tractor beams are commonly used to guide vessels safely into slips and docking bays, as well as to handle cargo. When mounted to warships, they can be used offensively to capture enemy vessels and draw them into docking bays for ease of boarding.</Description>
+Захватные лучи представляют собой модифицированные генераторы щитов, проецирующие луч энергии, способный захватывать звездолеты. Используемые на орбитальных верфях, планетарных космопортах, космических станциях и многих звездолетах, захватные лучи обычно применяются для безопасного направления судов в доки и стыковочные отсеки, а также для работы с грузами. При установке на военные корабли они могут использоваться в наступательных целях для захвата вражеских судов и притягивания их в стыковочные отсеки для облегчения абордажа.</Description>
     <Sources>
       <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -17787,11 +17786,11 @@ Tractor beams are modified shield generators that project a beam of energy that 
   </Weapon>
   <Weapon>
     <Key>TRACTMED</Key>
-    <Name>Medium Tractor Beam</Name>
+    <Name>Средний захватный луч (Medium Tractor Beam)</Name>
     <Description>
-      [H3]Medium Tractor Beam[h3]
+      [H3]Средний захватный луч[h3]
 
-Tractor beams are modified shield generators that project a beam of energy that can ensnare starships. Used on orbital shipyards, planetary starports, space stations, and many starships, tractor beams are commonly used to guide vessels safely into slips and docking bays, as well as to handle cargo. When mounted to warships, they can be used offensively to capture enemy vessels and draw them into docking bays for ease of boarding.</Description>
+Захватные лучи представляют собой модифицированные генераторы щитов, проецирующие луч энергии, способный захватывать звездолеты. Используемые на орбитальных верфях, планетарных космопортах, космических станциях и многих звездолетах, захватные лучи обычно применяются для безопасного направления судов в доки и стыковочные отсеки, а также для работы с грузами. При установке на военные корабли они могут использоваться в наступательных целях для захвата вражеских судов и притягивания их в стыковочные отсеки для облегчения абордажа.</Description>
     <Sources>
       <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -17821,11 +17820,11 @@ Tractor beams are modified shield generators that project a beam of energy that 
   </Weapon>
   <Weapon>
     <Key>TRACTOR213</Key>
-    <Name>Grappler 213 Tactical Tractor Beam</Name>
+    <Name>Тактический захватный луч Grappler 213 (Grappler 213 Tactical Tractor Beam)</Name>
     <Description>
-      [H3]Grappler 213 Tactical Tractor Beam[h3]
+      [H3]Тактический захватный луч Grappler 213[h3]
 
-A tactical tractor beam is a relatively small and low powered tractor beam system. While not strong enough to control an enemy craft's movement while it is able to maneuver, the tactical tractor beam can slow it down, reduce its maneuverability and disrupt its attacks. Some pilots find these devices provide an invaluable edge in dogfighting, but others believe the distraction they cause is more trouble than benefit.</Description>
+Тактический захватный луч представляет собой относительно небольшую и маломощную систему захватного луча. Хотя он недостаточно силен, чтобы контролировать движение вражеского судна, пока оно способно маневрировать, тактический захватный луч может замедлить его, снизить его маневренность и сорвать его атаки. Некоторые пилоты считают, что эти устройства обеспечивают неоценимое преимущество в ближнем космическом бою, но другие полагают, что отвлекающий фактор, который они создают, приносит больше вреда, чем пользы.</Description>
     <Source Page="62">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -17850,18 +17849,18 @@ A tactical tractor beam is a relatively small and low powered tractor beam syste
         </Key>
         <Count>1</Count>
         <Index>0</Index>
-        <MiscDesc>Enemies caught in the tractor beam add [SETBACK][SETBACK] to all Piloting checks and attacks, and suffer 1 system strain when performing Accelerate/Decelerate, Fly/Drive, or Punch It maneuvers.</MiscDesc>
+        <MiscDesc>Враги, попавшие в захватный луч, добавляют [SETBACK][SETBACK] ко всем проверкам "Пилотирования" и атакам, а также получают 1 "перегрузку системы" при выполнении маневров Ускорение/Торможение, Полет/Вождение или Рывок.</MiscDesc>
         <DefZone />
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>TRAINSTICK</Key>
-    <Name>Training Stick</Name>
+    <Name>Тренировочная палка (Training Stick)</Name>
     <Description>
-      [H3]Training Stick[h3]
-The Jedi have used lightsabers for so long that most forget there may have been a time when they had no access to energy weapons. However, on worlds with Force traditions but no ready access to energy weapons, other devices were used. The so-called “training stick” looks to be nothing more than a simple walking stick, but is perfectly balanced to be used as a duelist’s weapon. Although most commonly found in the hands of an apprentice, some master sword-fighters prefer the simple training stick as a non-lethal weapon that, to the untrained eye, appears to be nothing more than an elder's cane.
-[P]This weapon appears to be a harmless cane. Add [SE][SE][SE] to a character's Perception or Vigilance checks to discern this weapon’s true nature.
+      [H3]Тренировочная палка[h3]
+Джедаи используют световые мечи так долго, что большинство забывает, что, возможно, было время, когда у них не было доступа к энергетическому оружию. Однако на мирах с традициями Силы, но без легкого доступа к энергетическому оружию, использовались другие устройства. Так называемая 'тренировочная палка' выглядит не более чем простой тростью, но идеально сбалансирована для использования в качестве оружия дуэлянта. Хотя чаще всего ее можно встретить в руках ученика, некоторые мастера фехтовальщики предпочитают простую тренировочную палку в качестве нелетального оружия, которое для неподготовленного глаза выглядит не более чем тростью старца.
+[P]Это оружие выглядит как безобидная трость. Добавьте [SE][SE][SE] к проверкам "Внимания" или "Бдительности" персонажа, чтобы распознать истинную природу этого оружия.
     </Description>
     <Source Page="104">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
@@ -17894,16 +17893,16 @@ The Jedi have used lightsabers for so long that most forget there may have been 
       </Quality>
     </Qualities>
     <BaseMods>
-      <MiscDesc>Add [SE][SE][SE] to Perception or Vigilance checks to be able to tell that this is a weapon.</MiscDesc>
+      <MiscDesc>Добавьте [SE][SE][SE] к проверкам "Внимания" или "Бдительности" персонажа, чтобы распознать истинную природу этого оружия.</MiscDesc>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>TRUNCH</Key>
-    <Name>Truncheon</Name>
+    <Name>Дубинка (Truncheon)</Name>
     <Description>
-      [H3]Truncheon[h3]
+      [H3]Дубинка[h3]
 
-Truncheons may be made of metal, wood, bone or other materials, but all fulfill the same basic function—bruising flesh, breaking bones, and cracking skulls. Police forces around the galaxy use truncheons to intimidate and control protesters or petty thieves. Enlightened areas prefer this to lethal force.</Description>
+Дубинки могут быть изготовлены из металла, дерева, кости или других материалов, но все они выполняют одну и ту же основную функцию - нанесение ушибов, перелом костей и пролом черепов. Полицейские силы по всей галактике используют дубинки для запугивания и контроля протестующих или мелких воришек. Просвещенные регионы предпочитают это летальной силе.</Description>
     <Sources>
       <Source Page="167">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="182">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -17932,11 +17931,11 @@ Truncheons may be made of metal, wood, bone or other materials, but all fulfill 
   </Weapon>
   <Weapon>
     <Key>TURBOHVY</Key>
-    <Name>Heavy Turbolaser</Name>
+    <Name>Тяжелый турболазер (Heavy Turbolaser)</Name>
     <Description>
-      [H3]Heavy Turbolaser[h3]
+      [H3]Тяжелый турболазер[h3]
 
-Massive, heavy-caliber weapons with incredible energy requirements, turbolasers are the largest weapons mounted to starships. Turbolasers can punch clean through an opponent's shields, armor, and hull with a single blast; the lightest easily hulling small ships and the heaviest battering down the defenses of the largest cruiser. The trade-offs are their heavy power requirements, their slow recharge time, and their difficulty in tracking and hitting small, fast targets like starfighters.</Description>
+Массивное, крупнокалиберное оружие с невероятными требованиями к энергии, турболазеры являются самым крупным оружием, устанавливаемым на звездолеты. Турболазеры способны одним выстрелом пробить насквозь щиты, броню и корпус противника; самые легкие легко прошивают корпуса малых кораблей, а самые тяжелые сокрушают оборону крупнейших крейсеров. Компромиссами являются их высокие требования к энергии, медленное время перезарядки и сложность в отслеживании и поражении малых, быстрых целей, таких как звездные истребители.</Description>
     <Sources>
       <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -17971,11 +17970,11 @@ Massive, heavy-caliber weapons with incredible energy requirements, turbolasers 
   </Weapon>
   <Weapon>
     <Key>TURBOLT</Key>
-    <Name>Light Turbolaser</Name>
+    <Name>Легкий турболазер (Light Turbolaser)</Name>
     <Description>
-      [H3]Light Turbolaser[h3]
+      [H3]Легкий турболазер[h3]
 
-Massive, heavy-caliber weapons with incredible energy requirements, turbolasers are the largest weapons mounted to starships. Turbolasers can punch clean through an opponent's shields, armor, and hull with a single blast; the lightest easily hulling small ships and the heaviest battering down the defenses of the largest cruiser. The trade-offs are their heavy power requirements, their slow recharge time, and their difficulty in tracking and hitting small, fast targets like starfighters.</Description>
+Массивное, крупнокалиберное оружие с невероятными требованиями к энергии, турболазеры являются самым крупным оружием, устанавливаемым на звездолеты. Турболазеры способны одним выстрелом пробить насквозь щиты, броню и корпус противника; самые легкие легко прошивают корпуса малых кораблей, а самые тяжелые сокрушают оборону крупнейших крейсеров. Компромиссами являются их высокие требования к энергии, медленное время перезарядки и сложность в отслеживании и поражении малых, быстрых целей, таких как звездные истребители.</Description>
     <Sources>
       <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -18010,11 +18009,11 @@ Massive, heavy-caliber weapons with incredible energy requirements, turbolasers 
   </Weapon>
   <Weapon>
     <Key>TURBOMED</Key>
-    <Name>Medium Turbolaser</Name>
+    <Name>Средний турболазер (Medium Turbolaser)</Name>
     <Description>
-      [H3]Medium Turbolaser[h3]
+      [H3]Средний турболазер[h3]
 
-Massive, heavy-caliber weapons with incredible energy requirements, turbolasers are the largest weapons mounted to starships. Turbolasers can punch clean through an opponent's shields, armor, and hull with a single blast; the lightest easily hulling small ships and the heaviest battering down the defenses of the largest cruiser. The trade-offs are their heavy power requirements, their slow recharge time, and their difficulty in tracking and hitting small, fast targets like starfighters.</Description>
+Массивное, крупнокалиберное оружие с невероятными требованиями к энергии, турболазеры являются самым крупным оружием, устанавливаемым на звездолеты. Турболазеры способны одним выстрелом пробить насквозь щиты, броню и корпус противника; самые легкие легко прошивают корпуса малых кораблей, а самые тяжелые сокрушают оборону крупнейших крейсеров. Компромиссами являются их высокие требования к энергии, медленное время перезарядки и сложность в отслеживании и поражении малых, быстрых целей, таких как звездные истребители.</Description>
     <Sources>
       <Source Page="230">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="240">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -18049,13 +18048,13 @@ Massive, heavy-caliber weapons with incredible energy requirements, turbolasers 
   </Weapon>
   <Weapon>
     <Key>TUSKPIKE</Key>
-    <Name>Tuskbeast Pike</Name>
+    <Name>Пика клыкозверя (Tuskbeast Pike)</Name>
     <Description>
-      [H3]Tuskbeast Pike[h3]
+      [H3]Пика клыкозверя[h3]
 
-Long spears used by the Nikto, tuskbeast pikes were originally developed to hunt the giant, mutated predators of Kintan. Though tuskbeasts are now extinct, many Nikto still carry these weapons. Traditionally, the polearms' hafts are carved from slain tuskbeasts' ivory and bone, often elaborately carved with sacred images and poetry from Nikto mythology.
+Длинные копья, используемые Никто, пики клыкозверя изначально были разработаны для охоты на гигантских мутировавших хищников Кинтана. Хотя клыкозвери теперь вымерли, многие никто по-прежнему носят это оружие. Традиционно древки этого древкового оружия вырезаются из бивней и костей убитых клыкозверей, часто с искусной резьбой в виде священных образов и стихов из мифологии Никто.
 
-[P]The tuskbeast pike requires two hands to wield.</Description>
+[P]Для использования пики клыкозверя требуются обе руки.</Description>
     <Source Page="104">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -18083,9 +18082,9 @@ Long spears used by the Nikto, tuskbeast pikes were originally developed to hunt
   </Weapon>
   <Weapon>
     <Key>TZ97SHOCKBATON</Key>
-    <Name>TZ-97 "Zapper" Shock Baton</Name>
-    <Description>[H3]TZ-97 "Zapper" Shock Baton[h3]
-This weapon, issued to clone military, police, shore patrol, and anti-riot units, is essentially a law enforcement officer's truncheon equipped with a stun-field generator. When it strikes a target, it releases a powerful stored charge that short-circuits most sentients' nervous systems.</Description>
+    <Name>Шоковая дубинка TZ-97 "Zapper" (TZ-97 "Zapper" Shock Baton)</Name>
+    <Description>[H3]Шоковая дубинка TZ-97 "Zapper"[h3]
+Это оружие, выдаваемое военным клонам, полиции, береговому патрулю и подразделениям по подавлению беспорядков, по сути представляет собой дубинку сотрудника правоохранительных органов, оснащенную генератором оглушающего поля. При ударе по цели она высвобождает мощный накопленный заряд, который выводит из строя нервную систему большинства разумных существ.</Description>
     <Source Page="54">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
