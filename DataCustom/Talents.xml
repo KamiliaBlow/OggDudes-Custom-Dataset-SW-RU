@@ -1641,7 +1641,7 @@
     <Key>DROIDCOMMIMP</Key>
     <Name>Droid Commander (Improved)</Name>
     <Description>Droid Commander maneuver affects droid allies equal to double Presence, and may spend [TR] to allow allies to suffer 1 strain and perform 1 free action instead.</Description>
-    <Source Page="144">Collapse of the Republic</Source>
+    <Source Page="144">Дополнение: Падение республики (Collapse of the Republic)</Source>
     <Custom>AddedItem</Custom>
     <ActivationValue>taPassive</ActivationValue>
   </Talent>

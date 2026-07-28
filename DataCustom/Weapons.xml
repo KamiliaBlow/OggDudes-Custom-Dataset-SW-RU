@@ -47,8 +47,8 @@
   </Weapon>
   <Weapon>
     <Key>134ABUZZ</Key>
-    <Name>Модель 134a Роторная пушка "Buzzsaw" (Model 134a "Buzzsaw" Rotary Cannon)</Name>
-    <Description>[H3]Модель 134a Роторная пушка "Buzzsaw"[h3]
+    <Name>Модель 134a Вращающаяся пушка "Buzzsaw" (Model 134a "Buzzsaw" Rotary Cannon)</Name>
+    <Description>[H3]Модель 134a Вращающаяся пушка "Buzzsaw"[h3]
 Громкий, тяжелый и опасный. Модель 134a является самым тяжелым переносным гранатометом, производимым компанией Czerka. Известный в народе как "Buzzsaw" (пила) благодаря шуму, который он издает при стрельбе, это оружие представляет собой шестиствольную вращающуюся пушку с ленточным питанием, которая стреляет тысячами патронов в секунду и может с легкостью уничтожать пехотные формирования и легкие транспортные средства. Энергия и боеприпасы подаются в оружие через усиленные ремни и кабели из рюкзака, в котором находится блок питания и значительный запас боеприпасов малого калибра. Благодаря своему весу и огромной отдаче, для эффективного использования этого оружия требуется немалая сила и выносливость, поэтому при стрельбе его обычно поддерживают с помощью сошки или ремня. Помимо веса, шума и отдачи, Buzzsaw потребляет огромное количество боеприпасов и имеет неприятную тенденцию к перегреву и заклиниванию при длительной стрельбе.
 [P]Модель 134a может стрелять только в режиме автоматического огня. Гейм-мастера могут потратить [DE] или [TH][TH][TH], чтобы оружие перегрелось и заклинило. Когда Buzzsaw заклинивает, пользователь должен выполнить маневр, чтобы устранить заклинивание, прежде чем оружие сможет снова стрелять.</Description>
     <Source Page="41">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
@@ -15020,8 +15020,8 @@ OK-98 уникален тем, что в конструкции оружия п�
   </Weapon>
   <Weapon>
     <Key>RGL318</Key>
-    <Name>Роторный гранатомет RGL-318 (RGL-318 Rotary Grenade Launcher)</Name>
-    <Description>[H3]Роторный гранатомет RGL-318[h3]
+    <Name>Вращающийся гранатомет RGL-318 (RGL-318 Rotary Grenade Launcher)</Name>
+    <Description>[H3]Вращающийся гранатомет RGL-318[h3]
 Гранатометы являются одними из самых универсальных видов оружия, доступных на рынке. Возможность снаряжать их различными типами наступательных, оборонительных и нелетальных боеприпасов позволяет стрелку быстро реагировать на непредсказуемость галактических полей боя. RGL-318 от Locris Syndicates - это заслуженно уважаемое оружие, которое десятилетиями состоит на вооружении армий и правоохранительных органов по всей галактике. Крупный и внушительный, RGL-318 по размеру примерно равен карабину, с коротким широким стволом и складным прикладом. Вращающийся цилиндр, расположенный перед спусковым крючком, вмещает шесть гранат и может заряжаться по одной каморе за раз, либо мгновенно заменяться на новый, полностью снаряженный цилиндр.
 [P]Указанная цена оружия не включает стоимость боеприпасов. Гранаты для RGL-318 стоят столько же, сколько аналогичные ручные гранаты, но многие дилеры предлагают 50-процентную скидку при покупке ящиков по шесть штук. В RGL-318 можно снаряжать любой тип гранат, но они должны быть специально предназначены для стрельбы из гранатомета. Гранаты для гранатометов нельзя метать вручную. Приведенный профиль описывает RGL-318, заряженный стандартными фугасными гранатами.</Description>
     <Source Page="41">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
@@ -18112,10 +18112,10 @@ ST-M40 представляет собой автоматический блас
   </Weapon>
   <Weapon>
     <Key>VACMK127</Key>
-    <Name>Vac Attack Mk-127 Concealable Disc Launcher (Single-Line Mode)</Name>
-    <Description>[H3]Vac Attack Mk-127 Concealable Disc Launcher[h3]
-Initially designed by the Vacutech Combine—which ran out of capital and declared bankruptcy during the development of this weapon thanks to Imperial meddling—the Vac Attack is a small projectile launcher worn around the wrist like a chrono. It fires bursts of small, extremely sharp discs that can shred armor and flesh like a flechette. The weapon's spread can be adjusted so that it fires all of its discs in a single line or in a broad arc that can catch multiple targets. Entirely silent and easily concealable, the Mk-127 is often used for jobs in which silence and stealth are paramount.
-[P]Changing the weapon's spread from single to arc requires a maneuver and grants the weapon the Blast 6 item quality. If Blast is activated, the weapon's supply of discs is exhausted in the shot. When worn on both wrists, Mk-127s can be fired as if they were a single weapon with a regular combat check, gaining the Linked 2 quality. Noticing that an individual is wearing one or a pair of these weapons requires a [B]Hard ([DI][DI][DI]) Perception check[b]. At the Game Master's discretion, the discs can be coated with various toxins. Reloads for the Mk-127 contain four discs and cost 100 credits.</Description>
+    <Name>Скрываемая дисковая пусковая установка Vac Attack Mk-127 (однолинейный режим) (Vac Attack Mk-127 Concealable Disc Launcher (Single-Line Mode))</Name>
+    <Description>[H3]Скрываемая дисковая пусковая установка Vac Attack Mk-127[h3]
+Изначально разработанный концерном Vacutech, который исчерпал капитал и объявил о банкротстве во время разработки этого оружия из-за вмешательства Империи, Vac Attack представляет собой небольшой метательный механизм, носимый на запястье, как хронометр. Он стреляет очередями маленьких, чрезвычайно острых дисков, способных кромсать броню и плоть, как флешетты. Разброс оружия можно настроить так, чтобы оно выпускало все диски одной линией или широкой дугой, способной поразить несколько целей. Абсолютно бесшумный и легко скрываемый, Mk-127 часто используется для заданий, где тишина и скрытность имеют первостепенное значение.
+[P]Изменение разброса оружия с одиночного на дуговой требует маневра и предоставляет оружию качество "Blast 6". Если активируется "Blast", запас дисков оружия исчерпывается за один выстрел. При ношении на обоих запястьях Mk-127 могут стрелять как единое оружие с обычной боевой проверкой, получая качество "Linked 2". Чтобы заметить, что на ком-то надето одно или пара таких оружий, требуется [B]Сложная ([DI][DI][DI]) проверка "Внимания"[b]. По усмотрению ГМа, диски могут быть покрыты различными токсинами. Боекомплекты для Mk-127 содержат четыре диска и стоят 100 кредитов.</Description>
     <Sources>
       <Source Page="39">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
@@ -18150,22 +18150,22 @@ Initially designed by the Vacutech Combine—which ran out of capital and declar
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>May spend a maneuver to change to or from single-line mode and arc mode.</MiscDesc>
+        <MiscDesc>Можно потратить один маневр, чтобы переключиться в однолинейный режим или из него, а также в дуговой режим или из него.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>If two are worn on each wrist, may be fired as a single weapon with the Linked 1 quality.</MiscDesc>
+        <MiscDesc>Если на каждом запястье надеты по два, их можно использовать как одно оружие с характеристикой "Linked 1".</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>Noticing an individual wearing one or a pair of these weapons requires a [B]Hard ([DI][DI][DI]) Perception check[b].</MiscDesc>
+        <MiscDesc>Чтобы заметить человека, носящего одно или несколько таких оружий, требуется [B]Сложная ([DI][DI][DI]) проверка "Внимания"[b].</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>VACMK127ARC</Key>
-    <Name>Vac Attack Mk-127 Concealable Disc Launcher (Arc Mode)</Name>
-    <Description>[H3]Vac Attack Mk-127 Concealable Disc Launcher[h3]
-Initially designed by the Vacutech Combine—which ran out of capital and declared bankruptcy during the development of this weapon thanks to Imperial meddling—the Vac Attack is a small projectile launcher worn around the wrist like a chrono. It fires bursts of small, extremely sharp discs that can shred armor and flesh like a flechette. The weapon's spread can be adjusted so that it fires all of its discs in a single line or in a broad arc that can catch multiple targets. Entirely silent and easily concealable, the Mk-127 is often used for jobs in which silence and stealth are paramount.
-[P]Changing the weapon's spread from single to arc requires a maneuver and grants the weapon the Blast 6 item quality. If Blast is activated, the weapon's supply of discs is exhausted in the shot. When worn on both wrists, Mk-127s can be fired as if they were a single weapon with a regular combat check, gaining the Linked 2 quality. Noticing that an individual is wearing one or a pair of these weapons requires a [B]Hard ([DI][DI][DI]) Perception check[b]. At the Game Master's discretion, the discs can be coated with various toxins. Reloads for the Mk-127 contain four discs and cost 100 credits.</Description>
+    <Name>Скрываемая дисковая пусковая установка Vac Attack Mk-127 (дуговой режим) (Vac Attack Mk-127 Concealable Disc Launcher (Arc Mode))</Name>
+    <Description>[H3]Скрываемая дисковая пусковая установка Vac Attack Mk-127[h3]
+Изначально разработанный концерном Vacutech, который исчерпал капитал и объявил о банкротстве во время разработки этого оружия из-за вмешательства Империи, Vac Attack представляет собой небольшой метательный механизм, носимый на запястье, как хронометр. Он стреляет очередями маленьких, чрезвычайно острых дисков, способных кромсать броню и плоть, как флешетты. Разброс оружия можно настроить так, чтобы оно выпускало все диски одной линией или широкой дугой, способной поразить несколько целей. Абсолютно бесшумный и легко скрываемый, Mk-127 часто используется для заданий, где тишина и скрытность имеют первостепенное значение.
+[P]Изменение разброса оружия с одиночного на дуговой требует маневра и предоставляет оружию качество "Blast 6". Если активируется "Blast", запас дисков оружия исчерпывается за один выстрел. При ношении на обоих запястьях Mk-127 могут стрелять как единое оружие с обычной боевой проверкой, получая качество "Linked 2". Чтобы заметить, что на ком-то надето одно или пара таких оружий, требуется [B]Сложная ([DI][DI][DI]) проверка "Внимания"[b]. По усмотрению ГМа, диски могут быть покрыты различными токсинами. Боекомплекты для Mk-127 содержат четыре диска и стоят 100 кредитов.</Description>
     <Sources>
       <Source Page="39">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
@@ -18204,25 +18204,25 @@ Initially designed by the Vacutech Combine—which ran out of capital and declar
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>May spend a maneuver to change to or from single-line mode and arc mode.</MiscDesc>
+        <MiscDesc>Можно потратить один маневр, чтобы переключиться в однолинейный режим или из него, а также в дуговой режим или из него.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>If two are worn on each wrist, may be fired as a single weapon with the Linked 1 quality.</MiscDesc>
+        <MiscDesc>Если на каждом запястье надеты по два, их можно использовать как одно оружие с характеристикой "Linked 1".</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>Noticing an individual wearing one or a pair of these weapons requires a [B]Hard ([DI][DI][DI]) Perception check[b].</MiscDesc>
+        <MiscDesc>Чтобы заметить человека, носящего одно или несколько таких оружий, требуется [B]Сложная ([DI][DI][DI]) проверка "Внимания"[b].</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>VAMBLADE2S1</Key>
-    <Name>S-1 Vamblade (Paired)</Name>
+    <Name>Наручный клинок S-1 (Парный) (S-1 Vamblade (Paired))</Name>
     <Description>
-      [H3]S-1 Vamblade (Paired)[h3]
+      [H3]Наручный клинок S-1 (Парный)[h3]
 
-Falling somewhere between brass knuckles and a sword, vamblades are dagger-length blades extending from durasteel vambraces, which provide a degree of protection to the wielder's forearms in a knife fight, as well as mounting the blade itself. The S-1 from Prax Arms includes a magnetic locking mechanism, allowing the user to retract or extend the blade with a simple flick of his wrist. When retracted, the blade can easily be hidden under a heavy coat, robe, or similar garb, making these weapons a favorite of assassins.
+Занимая промежуточное положение между кастетом и мечом, наручные клинки представляют собой лезвия длиной с кинжал, выступающие из дюрасталевых наручей, которые обеспечивают некоторую защиту предплечий владельца в ножевом бою, а также служат креплением для самого клинка. S-1 от Prax Arms включает магнитный фиксирующий механизм, позволяющий пользователю убирать или выдвигать клинок простым движением запястья. В убранном состоянии клинок легко можно спрятать под тяжелым пальто, мантией или подобной одеждой, что делает это оружие фаворитом убийц.
 
-[P]Wrist blades are designed to be worn as a pair, and open up a whole range of combat options when used thus by a properly-trained fighter. When used as a pair, wrist blades gain the Sunder and Accurate 1 weapon qualities. (This applies even if they are not used with two weapon combat rules to gain an additional hit.) Vamblades cannot deal damage to a target's strain threshold.</Description>
+[P]Наручные клинки предназначены для ношения парой и открывают целый ряд боевых возможностей при использовании должным образом обученным бойцом. При использовании парой наручные клинки получают качества оружия "Sunder" и "Accurate 1". (Это применяется, даже если они не используются с правилами боя с двумя оружиями для получения дополнительного попадания.) Наручные клинки не могут наносить урон порогу "усталости" цели.</Description>
     <Source Page="48">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Brawling</Type>
@@ -18263,13 +18263,13 @@ Falling somewhere between brass knuckles and a sword, vamblades are dagger-lengt
   </Weapon>
   <Weapon>
     <Key>VAMBLADES1</Key>
-    <Name>S-1 Vamblade (Single)</Name>
+    <Name>Наручный клинок S-1 (Одиночный) (S-1 Vamblade (Single))</Name>
     <Description>
-      [H3]S-1 Vamblade (Single)[h3]
+      [H3]Наручный клинок S-1 (Одиночный)[h3]
 
-Falling somewhere between brass knuckles and a sword, vamblades are dagger-length blades extending from durasteel vambraces, which provide a degree of protection to the wielder's forearms in a knife fight, as well as mounting the blade itself. The S-1 from Prax Arms includes a magnetic locking mechanism, allowing the user to retract or extend the blade with a simple flick of his wrist. When retracted, the blade can easily be hidden under a heavy coat, robe, or similar garb, making these weapons a favorite of assassins.
+Занимая промежуточное положение между кастетом и мечом, наручные клинки представляют собой лезвия длиной с кинжал, выступающие из дюрасталевых наручей, которые обеспечивают некоторую защиту предплечий владельца в ножевом бою, а также служат креплением для самого клинка. S-1 от Prax Arms включает магнитный фиксирующий механизм, позволяющий пользователю убирать или выдвигать клинок простым движением запястья. В убранном состоянии клинок легко можно спрятать под тяжелым пальто, мантией или подобной одеждой, что делает это оружие фаворитом убийц.
 
-[P]Wrist blades are designed to be worn as a pair, and open up a whole range of combat options when used thus by a properly-trained fighter. When used as a pair, wrist blades gain the Sunder and Accurate 1 weapon qualities. (This applies even if they are not used with two weapon combat rules to gain an additional hit.) Vamblades cannot deal damage to a target's strain threshold.</Description>
+[P]Наручные клинки предназначены для ношения парой и открывают целый ряд боевых возможностей при использовании должным образом обученным бойцом. При использовании парой наручные клинки получают качества оружия "Sunder" и "Accurate 1". (Это применяется, даже если они не используются с правилами боя с двумя оружиями для получения дополнительного попадания.) Наручные клинки не могут наносить урон порогу "усталости" цели.</Description>
     <Source Page="48">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Brawling</Type>
@@ -18306,12 +18306,12 @@ Falling somewhere between brass knuckles and a sword, vamblades are dagger-lengt
   </Weapon>
   <Weapon>
     <Key>VARHOLDBLAST</Key>
-    <Name>Variable Holdout Blaster</Name>
+    <Name>Регулируемый карманный бластер (Variable Holdout Blaster)</Name>
     <Description>
-      [H3]Variable Holdout Blaster[h3]
-[P]The variable holdout blaster is a sleek, easily concealable design with a variable power setting. The pistol has been popular with spies, informants, and covert Rebels on the planet of Ord Gimmel for some time. The power level of the weapon’s blast is adjustable, allowing for more or less damage capacity as desired by the user. The tradeoff for the weapon’s combination of utility and concealability is that the pistol’s power cell is limited.
-[P]When firing the weapon, the pistol’s wielder must choose a power setting between 1 and 7. This is the amount of damage a successful shot inflicts on a target, but it is also the amount of ammo that is consumed for the shot. If set to a power setting higher than the available ammo left, the weapon deals damage equal to the amount of ammo remaining.
-[P]Anyone searching an individual carrying a concealed variable holdout blaster adds [SE] to their Perception checks.</Description>
+      [H3]Регулируемый карманный бластер[h3]
+[P]Регулируемый карманный бластер представляет собой изящную, легко скрываемую конструкцию с регулируемой мощностью. Этот пистолет уже некоторое время популярен среди шпионов, информаторов и тайных повстанцев на планете Орд Гиммель. Уровень мощности выстрела оружия регулируется, позволяя увеличивать или уменьшать урон по желанию пользователя. Платой за сочетание универсальности и скрытности оружия является ограниченная энергоячейка пистолета.
+[P]При стрельбе из оружия владелец пистолета должен выбрать уровень мощности от 1 до 7. Это количество урона, которое успешный выстрел наносит цели, но также и количество боеприпасов, расходуемых за выстрел. Если установлен уровень мощности выше, чем оставшиеся боеприпасы, оружие наносит урон, равный количеству оставшихся боеприпасов.
+[P]Любой, кто обыскивает человека, у которого спрятан регулируемый карманный бластер, добавляет [SE] к своим проверкам "Внимания".</Description>
     <Source Page="104">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -18340,22 +18340,21 @@ Falling somewhere between brass knuckles and a sword, vamblades are dagger-lengt
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>Anyone searching an individual carrying a concealed variable holdout blaster adds [SETBACK] to their Perception checks.</MiscDesc>
+        <MiscDesc>Любой, кто обыскивает человека, у которого спрятан регулируемый карманный бластер, добавляет [SETBACK] к своим проверкам "Внимания".</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>Wielder must choose a power setting between 1 and 7.  This is the amount of damage a successful shot will inflict, and is also the amount of ammo expended.</MiscDesc>
+        <MiscDesc>Владелец должен выбрать уровень мощности от 1 до 7. Это значение определяет величину урона, наносимого при успешном выстреле, а также количество расходуемых боеприпасов.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>VERPSHATHVYRIF</Key>
-    <Name>Verpine Heavy Shatter Rifle</Name>
+    <Name>Верпинская тяжелая картечная винтовка (Verpine Heavy Shatter Rifle)</Name>
     <Description>
-      [H3]Verpine Heavy Shatter Rifle[h3]
- [P]Verpine shatter guns are projectile weapons based on magnetic field technology, akin to rail guns. Shatter guns are nearly silent in their operation, though there is an audible crack as their metal alloy projectile breaks the speed of sound. Though the projectiles themselves are relatively small, the speed with which they impact the target inflicts a large amount of kinetic damage, and their effective range is exceptional.
-[P]Shatter guns are available in a number of configurations, including pistols, rifles, and heavier versions
-that can serve as sniper weapons. The Verpine are a largely peaceful species, and since they rarely have any call for violence, they only manufacture a small number of shatter guns for their own internal security. The scarcity of shatter guns that make it beyond the Roche Asteroid Field, along with their lethality and relative untraceability, results in the exorbitant prices of available models.
-[P]The Rebel Alliance has secured a small number of shatter guns from the Verpine and issues them on an as-needed basis to operatives in the field. Shatter guns are notoriously delicate and must be cared for properly. If a shatter gun is dropped or jarred, it will cease to function until repaired. While wielding a shatter gun, any combat check that generates either [TH][TH] or [DE] damages the weapon by one step, as if struck by a weapon with the Sunder quality (see page 170 of the Ace of Rebellion Core Rulebook).
+      [H3]Верпинская тяжелая картечная винтовка[h3]
+[P]Верпинское картечное орудие представляют собой метательное оружие, основанное на технологии магнитного поля, сродни рельсотронам. Картечные орудия практически бесшумны в работе, хотя слышен отчетливый треск, когда их снаряд из металлического сплава преодолевает скорость звука. Хотя сами снаряды относительно малы, скорость, с которой они поражают цель, наносит большой объем кинетического урона, а их эффективная дальность исключительна.
+[P]Картечные орудия доступны в ряде конфигураций, включая пистолеты, винтовки и более тяжелые версии, которые могут служить снайперским оружием. Верпины - в основном миролюбивый вид, и поскольку им редко приходится прибегать к насилию, они производят лишь небольшое количество разбивающих ружей для собственной внутренней безопасности. Нехватка картечных орудий, попадающих за пределы Астероидного поля Рош, наряду с их летальностью и относительной не отслеживаемостью, приводит к завышенным ценам на доступные модели.
+[P]Повстанческий альянс получил небольшое количество картечных орудий от верпинов и выдает их по мере необходимости оперативникам на местах. Картечные орудия печально известны своей хрупкостью и требуют надлежащего ухода. Если картечное орудие уронить или подвергнуть сильной тряске, оно перестанет функционировать до тех пор, пока его не отремонтируют. При использовании картечного орудия любая боевая проверка, генерирующая либо [TH][TH], либо [DE], повреждает оружие на одну ступень, как если бы оно было поражено оружием с качеством "Sunder" (см. страницу 170 книги правил [B]Эпоха Восстания[b]).
     </Description>
     <Type>Slugthrower</Type>
     <Source Page="106">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
@@ -18391,19 +18390,18 @@ that can serve as sniper weapons. The Verpine are a largely peaceful species, an
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Any combat check that generates [TH][TH] or [DE] damages weapon by one step</MiscDesc>
+        <MiscDesc>Любая боевая проверка, в результате которой генерируется [TH][TH] или [DE], повреждает оружие на одну ступень.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>VERPSHATPIS</Key>
-    <Name>Verpine Shatter Pistol</Name>
+    <Name>Верпинский картечный пистолет (Verpine Shatter Pistol)</Name>
     <Description>
-      [H3]Verpine Shatter Pistol[h3]
-      [P]Verpine shatter guns are projectile weapons based on magnetic field technology, akin to rail guns. Shatter guns are nearly silent in their operation, though there is an audible crack as their metal alloy projectile breaks the speed of sound. Though the projectiles themselves are relatively small, the speed with which they impact the target inflicts a large amount of kinetic damage, and their effective range is exceptional.
-[P]Shatter guns are available in a number of configurations, including pistols, rifles, and heavier versions
-that can serve as sniper weapons. The Verpine are a largely peaceful species, and since they rarely have any call for violence, they only manufacture a small number of shatter guns for their own internal security. The scarcity of shatter guns that make it beyond the Roche Asteroid Field, along with their lethality and relative untraceability, results in the exorbitant prices of available models.
-[P]The Rebel Alliance has secured a small number of shatter guns from the Verpine and issues them on an as-needed basis to operatives in the field. Shatter guns are notoriously delicate and must be cared for properly. If a shatter gun is dropped or jarred, it will cease to function until repaired. While wielding a shatter gun, any combat check that generates either [TH][TH] or [DE] damages the weapon by one step, as if struck by a weapon with the Sunder quality (see page 170 of the Книга правил: Эпоха восстания).</Description>
+      [H3]Верпинский картечный пистолет[h3]
+[P]Верпинское картечное орудие представляют собой метательное оружие, основанное на технологии магнитного поля, сродни рельсотронам. Картечные орудия практически бесшумны в работе, хотя слышен отчетливый треск, когда их снаряд из металлического сплава преодолевает скорость звука. Хотя сами снаряды относительно малы, скорость, с которой они поражают цель, наносит большой объем кинетического урона, а их эффективная дальность исключительна.
+[P]Картечные орудия доступны в ряде конфигураций, включая пистолеты, винтовки и более тяжелые версии, которые могут служить снайперским оружием. Верпины - в основном миролюбивый вид, и поскольку им редко приходится прибегать к насилию, они производят лишь небольшое количество разбивающих ружей для собственной внутренней безопасности. Нехватка картечных орудий, попадающих за пределы Астероидного поля Рош, наряду с их летальностью и относительной не отслеживаемостью, приводит к завышенным ценам на доступные модели.
+[P]Повстанческий альянс получил небольшое количество картечных орудий от верпинов и выдает их по мере необходимости оперативникам на местах. Картечные орудия печально известны своей хрупкостью и требуют надлежащего ухода. Если картечное орудие уронить или подвергнуть сильной тряске, оно перестанет функционировать до тех пор, пока его не отремонтируют. При использовании картечного орудия любая боевая проверка, генерирующая либо [TH][TH], либо [DE], повреждает оружие на одну ступень, как если бы оно было поражено оружием с качеством "Sunder" (см. страницу 170 книги правил [B]Эпоха Восстания[b]).</Description>
     <Type>Slugthrower</Type>
     <Source Page="106">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
@@ -18433,19 +18431,18 @@ that can serve as sniper weapons. The Verpine are a largely peaceful species, an
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Any combat check that generates [TH][TH] or [DE] damages weapon by one step</MiscDesc>
+        <MiscDesc>Любая боевая проверка, в результате которой генерируется [TH][TH] или [DE], повреждает оружие на одну ступень.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>VERPSHATRIF</Key>
-    <Name>Verpine Shatter Rifle</Name>
+    <Name>Верпинская картечная винтовка (Verpine Shatter Rifle)</Name>
     <Description>
-      [H3]Verpine Shatter Rifle[h3]
- [P]Verpine shatter guns are projectile weapons based on magnetic field technology, akin to rail guns. Shatter guns are nearly silent in their operation, though there is an audible crack as their metal alloy projectile breaks the speed of sound. Though the projectiles themselves are relatively small, the speed with which they impact the target inflicts a large amount of kinetic damage, and their effective range is exceptional.
-[P]Shatter guns are available in a number of configurations, including pistols, rifles, and heavier versions
-that can serve as sniper weapons. The Verpine are a largely peaceful species, and since they rarely have any call for violence, they only manufacture a small number of shatter guns for their own internal security. The scarcity of shatter guns that make it beyond the Roche Asteroid Field, along with their lethality and relative untraceability, results in the exorbitant prices of available models.
-[P]The Rebel Alliance has secured a small number of shatter guns from the Verpine and issues them on an as-needed basis to operatives in the field. Shatter guns are notoriously delicate and must be cared for properly. If a shatter gun is dropped or jarred, it will cease to function until repaired. While wielding a shatter gun, any combat check that generates either [TH][TH] or [DE] damages the weapon by one step, as if struck by a weapon with the Sunder quality (see page 170 of the Ace of Rebellion Core Rulebook).</Description>
+      [H3]Верпинская картечная винтовка[h3]
+[P]Верпинское картечное орудие представляют собой метательное оружие, основанное на технологии магнитного поля, сродни рельсотронам. Картечные орудия практически бесшумны в работе, хотя слышен отчетливый треск, когда их снаряд из металлического сплава преодолевает скорость звука. Хотя сами снаряды относительно малы, скорость, с которой они поражают цель, наносит большой объем кинетического урона, а их эффективная дальность исключительна.
+[P]Картечные орудия доступны в ряде конфигураций, включая пистолеты, винтовки и более тяжелые версии, которые могут служить снайперским оружием. Верпины - в основном миролюбивый вид, и поскольку им редко приходится прибегать к насилию, они производят лишь небольшое количество разбивающих ружей для собственной внутренней безопасности. Нехватка картечных орудий, попадающих за пределы Астероидного поля Рош, наряду с их летальностью и относительной не отслеживаемостью, приводит к завышенным ценам на доступные модели.
+[P]Повстанческий альянс получил небольшое количество картечных орудий от верпинов и выдает их по мере необходимости оперативникам на местах. Картечные орудия печально известны своей хрупкостью и требуют надлежащего ухода. Если картечное орудие уронить или подвергнуть сильной тряске, оно перестанет функционировать до тех пор, пока его не отремонтируют. При использовании картечного орудия любая боевая проверка, генерирующая либо [TH][TH], либо [DE], повреждает оружие на одну ступень, как если бы оно было поражено оружием с качеством "Sunder" (см. страницу 170 книги правил [B]Эпоха Восстания[b]).</Description>
     <Type>Slugthrower</Type>
     <Source Page="106">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
@@ -18475,17 +18472,17 @@ that can serve as sniper weapons. The Verpine are a largely peaceful species, an
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Any combat check that generates [TH][TH] or [DE] damages weapon by one step</MiscDesc>
+        <MiscDesc>Любая боевая проверка, в результате которой генерируется [TH][TH] или [DE], повреждает оружие на одну ступень.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>VES700PULSE</Key>
-    <Name>VES-700 Pulse Rifle</Name>
+    <Name>Импульсная винтовка VES-700 (VES-700 Pulse Rifle)</Name>
     <Description>
-      [H3]Corondexx VES-700 Pulse Rifle[h3]
+      [H3]Импульсная винтовка Corondexx VES-700[h3]
 
-Often used by urban riot police and bounty hunters, the Corondexx VES-700 pulse rifle has also found a place aboard many of the light freighters roaming the galaxy. Firing a rapid series of micro-bursts in a wide blast pattern, the pulse rifle is particularly effective in closed spaces, such as the corridors of a starship.</Description>
+Часто используемая городской полицией по подавлению беспорядков и охотниками за головами, импульсная винтовка Corondexx VES-700 также нашла место на борту многих легких фрахтовиков, бороздящих галактику. Стреляя быстрой серией микроимпульсов с широким разбросом, импульсная винтовка особенно эффективна в закрытых пространствах, таких как коридоры звездолета.</Description>
     <Source Page="44">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -18518,15 +18515,15 @@ Often used by urban riot police and bounty hunters, the Corondexx VES-700 pulse 
   </Weapon>
   <Weapon>
     <Key>VIBAX</Key>
-    <Name>Vibro-ax</Name>
+    <Name>Вибротопор (Vibro-ax)</Name>
     <Description>
-      [H3]Vibro-Ax[h3]
+      [H3]Вибротопор[h3]
 
-Gamorreans, particularly those employed by the notorious Hutts, often carry meter-long axes fitted with vibration technology. Most are very heavy and suited only for beings of considerable strength, and usually with a low center of gravity (particularly tall or elegant beings have trouble swinging the heavy axes without throwing themselves off-balance).
+Гаморреанцы, особенно те, кто работает на печально известных хаттов, часто носят метровые топоры, оснащенные вибрационной технологией. Большинство из них очень тяжелы и подходят только для существ значительной силы, и обычно с низким центром тяжести (особенно высокие или изящные существа испытывают трудности с размахиванием тяжелыми топорами, не теряя равновесия).
 
-[P]The damage a vibro-ax causes is tremendous and messy. The impact area suffers massive and deep trauma from the blade and the vibration. Because of this, wounds caused by vibro-axes are particularly nasty—hence the high damage and Critical Hit chance. A vibro-ax requires two hands to wield.
+[P]Урон, наносимый вибротопором, огромен и разрушителен. Область удара получает массивную и глубокую травму от лезвия и вибрации. Из-за этого раны, нанесенные вибротопорами, особенно ужасны - отсюда высокий урон и шанс Критического попадания. Для использования вибротопора требуются обе руки.
 
-[BR][B]Models Include[b]: SoroSuub BD-1 Cutter Vibro-Ax.</Description>
+[BR][B]Модели включают:[b] Вибротопор SoroSuub BD-1 Cutter.</Description>
     <Sources>
       <Source Page="167">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="182">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -18564,13 +18561,13 @@ Gamorreans, particularly those employed by the notorious Hutts, often carry mete
   </Weapon>
   <Weapon>
     <Key>VIBKN</Key>
-    <Name>Vibroknife</Name>
+    <Name>Вибронож (Vibroknife)</Name>
     <Description>
-      [H3]Vibroknife[h3]
+      [H3]Вибронож[h3]
 
-A vibroknife is essentially a modded combat knife, but since they have proven so effective, they have become manufactured as such throughout the galaxy. The basic premise is simple—a small but powerful device within the knife's handle vibrates the blade at an incredibly high frequency so that it essentially acts as a miniature saw. Vibroknives aren't as powerful as lightsabers against most substances, but one need not be a Jedi to wield it effectively.
+Вибронож, по сути, представляет собой модифицированный боевой нож, но поскольку они доказали свою эффективность, их стали производить в таком виде по всей галактике. Основная идея проста - небольшое, но мощное устройство внутри рукояти ножа вибрирует лезвие на невероятно высокой частоте, так что оно, по сути, действует как миниатюрная пила. Виброножи не так мощны, как световые мечи, против большинства материалов, но для эффективного владения ими не нужно быть джедаем.
 
-[BR][B]Models Include[b]: Merr-Sonn Treppus-2 Vibroblade.</Description>
+[BR][B]Модели включают:[b] Вибролезвие Merr-Sonn Treppus-2.</Description>
     <Sources>
       <Source Page="167">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="182">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -18604,13 +18601,13 @@ A vibroknife is essentially a modded combat knife, but since they have proven so
   </Weapon>
   <Weapon>
     <Key>VIBROGLAIVE</Key>
-    <Name>Vibro-Glaive</Name>
+    <Name>Виброглефа (Vibro-Glaive)</Name>
     <Description>
-      [H3]Beastmaster's Vibro-Glaive[h3]
+      [H3]Виброглефа укротителя зверей[h3]
 
-Most often found in the hands of the Weequay, these vibro-glaives consist of a heavy, single-edged head affixed to a pole up to two meters in length. Such weapons are particularly popular among the dark wolf beastmasters of Sriluur, who use the flat edge of the polearm to keep their charges in line, exploiting the glaive's reach to maintain a relatively safe distance from the lethal tails of the raquor'daan. The Weequay made use of vibro-glaives in their wars with the Houk, using these vicious weapons to even the odds in close combat.
+Чаще всего встречающиеся в руках викуэев, эти виброглефы состоят из тяжелой односторонней головки, закрепленной на древке длиной до двух метров. Такое оружие особенно популярно среди укротителей темных волков Срилуура, которые используют плоскую сторону древкового оружия, чтобы держать своих подопечных в повиновении, используя досягаемость глефы для поддержания относительно безопасного расстояния от смертоносных хвостов ракуор'даан. Викуэи использовали виброглефы в своих войнах с хоуками, применяя это жестокое оружие для выравнивания шансов в ближнем бою.
 
-[P]The beastmaster's vibro-glaive requires two hands to wield. </Description>
+[P]Для использования виброглефы укротителя зверей требуются обе руки. </Description>
     <Source Page="103">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <Categories>
@@ -18640,13 +18637,13 @@ Most often found in the hands of the Weequay, these vibro-glaives consist of a h
   </Weapon>
   <Weapon>
     <Key>VIBROGRTSWRDVX</Key>
-    <Name>VX "Czerhander" Vibro-Greatsword</Name>
+    <Name>Вибродвуручный меч VX "Czerhander" (VX "Czerhander" Vibro-Greatsword)</Name>
     <Description>
-      [H3]VX "Czerhander" Vibro-Greatsword[h3]
+      [H3]Вибродвуручный меч VX "Czerhander"[h3]
 
-The Czerka model VX is similar to other vibroswords, but with a much longer, heavier blade and an extended hilt accommodating a two-handed grip. Many skilled swordsmen favor the "Czerhander," which rivals a vibro-ax for hitting power, while granting the wielder greater control. The well-balanced blade allows for effective parrying, despite its size and weight.
+Модель VX от Czerka похожа на другие вибромечи, но с гораздо более длинным и тяжелым клинком и удлиненным эфесом, обеспечивающим двуручный хват. Многие опытные фехтовальщики предпочитают "Czerhander", который соперничает с вибротопором по ударной мощи, при этом предоставляя владельцу больший контроль. Хорошо сбалансированный клинок позволяет эффективно парировать, несмотря на его размер и вес.
 
-[P]A vibro-greatsword requires two hands to wield.</Description>
+[P]Для использования вибродвуручного меча требуются обе руки.</Description>
     <Source Page="48">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -18693,13 +18690,13 @@ The Czerka model VX is similar to other vibroswords, but with a much longer, hea
   </Weapon>
   <Weapon>
     <Key>VIBROKNUK</Key>
-    <Name>Vibroknucklers</Name>
+    <Name>Виброкастеты (Vibroknucklers)</Name>
     <Description>
-      [H3]Vibroknucklers[h3]
+      [H3]Виброкастеты[h3]
 
-For those who like to let their fists do the talking, a set of vibroknucklers can ensure the last word. Worn like the more common brass knuckles, a small blade running the length of the wearer's knuckles vibrates at an ultrasonic rate when the user clenches his fist. Without changing his fighting style, a brawler equipped with vibroknucklers can easily inflict horrific and fatal wounds with simple punches.
+Для тех, кто предпочитает, чтобы кулаки говорили за них, набор виброкастетов может обеспечить последнее слово. Носимые как более распространенные кастеты, небольшое лезвие, проходящее вдоль костяшек владельца, вибрирует на ультразвуковой частоте, когда пользователь сжимает кулак. Не меняя своего стиля боя, боец, оснащенный виброкастетами, может легко наносить ужасающие и смертельные раны простыми ударами.
 
-[P]Add [SE] to attempts to locate vibroknucklers concealed about an individual's body. Vibroknucklers cannot deal damage to a target's strain threshold. </Description>
+[P]Добавьте [SE] к попыткам обнаружить виброкастеты, спрятанные на теле человека. Виброкастеты не могут наносить урон порогу "усталости" цели. </Description>
     <Source Page="48">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Brawling</Type>
@@ -18739,17 +18736,17 @@ For those who like to let their fists do the talking, a set of vibroknucklers ca
         <Key />
         <Count>1</Count>
         <Index>0</Index>
-        <MiscDesc>Add [SETBACK] to attempts to locate a concealed vibroknuckler.</MiscDesc>
+        <MiscDesc>Добавьте [SETBACK] к попыткам обнаружить спрятанные виброкастеты.</MiscDesc>
         <DefZone />
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>VIBROMACH</Key>
-    <Name>Vibro-Machete</Name>
+    <Name>Вибромачете (Vibro-Machete)</Name>
     <Description>
-      [H3]Vibro-Machete[h3]
-Produced by manufacturers of vibro-tools and weapons such as LaserHone and Merr-Sonn, the vibro-machete is one of the most common vibro-augmented blades on the galactic market. Designed and sold primarily as an agricultural tool, each has a long single-edged, cleaver-like blade between 30 and 45 centimeters long. The weight and balance of the blade combined with the long cutting edge make it perfectly suited for clearing undergrowth in dense alien forests and jungles, butchering large animals, and countless other wilderness tasks. The vibro-machete also makes for an excellent weapon, the heavy blade and vibro field emitter making short work of the unprotected and lightly armored opponants.</Description>
+      [H3]Вибромачете[h3]
+Производимое производителями виброинструментов и оружия, такими как LaserHone и Merr-Sonn, вибромачете является одним из самых распространенных виброусиленных клинков на галактическом рынке. Разработанное и продаваемое в первую очередь как сельскохозяйственный инструмент, каждое имеет длинный однолезвийный клинок, похожий на тесак, длиной от 30 до 45 сантиметров. Вес и баланс клинка в сочетании с длинной режущей кромкой делают его идеально подходящим для расчистки подлеска в густых инопланетных лесах и джунглях, разделки крупных животных и бесчисленных других задач в дикой местности. Вибромачете также является отличным оружием, тяжелый клинок и излучатель виброполя быстро расправляются с незащищенными и легкобронированными противниками.</Description>
     <Sources>
       <Source Page="43">Дополнение: Дикие духи (Savage Spirits)</Source>
     </Sources>
@@ -18784,10 +18781,10 @@ Produced by manufacturers of vibro-tools and weapons such as LaserHone and Merr-
   </Weapon>
   <Weapon>
     <Key>VIBRORANG</Key>
-    <Name>Vibrorang (Ranged)</Name>
-    <Description>[H3]Vibrorang[h3]
-Seen in some of the more remote areas of the galaxy, especially in rougher and more aggressive resistance movements, vibrorangs are throwing weapons containing ultrasonic vibroblade technology. They can be hurled in long, curving arcs that can often catch targets by surprise.
-[P] If a ranged attack with a vibrorang is unsuccessful, the user may spend [AD][AD] to have it safely return to his possession. It can also be used in melee combat with the following profile: (Melee; Damage +2; Critical 2; Range [Engaged], Inaccurate 1, Pierce 2, Vicious 1).</Description>
+    <Name>Виброранг (Дальний) (Vibrorang (Ranged))</Name>
+    <Description>[H3]Виброранг[h3]
+Встречающиеся в некоторых из наиболее отдаленных уголков галактики, особенно в более грубых и агрессивных движениях сопротивления, виброранги представляют собой метательное оружие, содержащее ультразвуковую технологию вибролезвий. Их можно бросать по длинным изогнутым дугам, что часто застает цели врасплох.
+[P] Если дальняя атака виброрангом неудачна, пользователь может потратить [AD][AD], чтобы он безопасно вернулся к нему. Его также можно использовать в ближнем бою со следующим профилем: (Ближний бой; Урон +2; Крит 2; Дальность [Вплотную], Inaccurate 1, Pierce 2, Vicious 1).</Description>
     <Source Page="118">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Thrown</Type>
@@ -18801,11 +18798,11 @@ Seen in some of the more remote areas of the galaxy, especially in rougher and m
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>If a ranged attack with a vibrorang is unsuccessful, the user may spend [AD][AD] to have it safely return to his possession.</MiscDesc>
+        <MiscDesc>Если атака на расстоянии с использованием виброранга не удалась, пользователь может потратить [AD][AD], чтобы он благополучно вернулся к нему.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>It can also be used in melee combat with the following profile: (Melee; Damage +2; Critical 2; Range [Engaged], Inaccurate 1, Pierce 2, Vicious 1).</MiscDesc>
+        <MiscDesc>Его также можно использовать в ближнем бою со следующими характеристиками: (Ближний бой; Урон +2; Крит 2; Дальность [Вплотную], Inaccurate 1, Pierce 2, Vicious 1).</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
@@ -18831,10 +18828,10 @@ Seen in some of the more remote areas of the galaxy, especially in rougher and m
   </Weapon>
   <Weapon>
     <Key>VIBRORANGMELEE</Key>
-    <Name>Vibrorang (Melee)</Name>
-    <Description>[H3]Vibrorang[h3]
-Seen in some of the more remote areas of the galaxy, especially in rougher and more aggressive resistance movements, vibrorangs are throwing weapons containing ultrasonic vibroblade technology. They can be hurled in long, curving arcs that can often catch targets by surprise.
-[P] If a ranged attack with a vibrorang is unsuccessful, the user may spend [AD][AD] to have it safely return to his possession. It can also be used in ranged combat with the following profile: (Ranged (Light); Damage 4; Critical 2; Range [Medium], Limited Ammo 1, Pierce 2, Vicious 1).</Description>
+    <Name>Виброранг (Ближний) (Vibrorang (Melee))</Name>
+    <Description>[H3]Виброранг[h3]
+Встречающиеся в некоторых из наиболее отдаленных уголков галактики, особенно в более грубых и агрессивных движениях сопротивления, виброранги представляют собой метательное оружие, содержащее ультразвуковую технологию вибролезвий. Их можно бросать по длинным изогнутым дугам, что часто застает цели врасплох.
+[P] Если дальняя атака виброрангом неудачна, пользователь может потратить [AD][AD], чтобы он безопасно вернулся к нему. Его также можно использовать в дальнем бою со следующим профилем: (Дальний бой (Легкое); Урон 4; Крит 2; Дальность [Средняя], Limited Ammo 1, Pierce 2, Vicious 1).</Description>
     <Source Page="118">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Melee</Type>
@@ -18848,11 +18845,11 @@ Seen in some of the more remote areas of the galaxy, especially in rougher and m
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>If a ranged attack with a vibrorang is unsuccessful, the user may spend [AD][AD] to have it safely return to his possession.</MiscDesc>
+        <MiscDesc>Если атака на расстоянии с использованием виброранга не удалась, пользователь может потратить [AD][AD], чтобы он благополучно вернулся к нему.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>It can also be used in ranged combat with the following profile: (Ranged (Light); Damage 4; Critical 2; Range [Medium], Limited Ammo 1, Pierce 2, Vicious 1).</MiscDesc>
+        <MiscDesc>Его также можно использовать в дальнобойном бою со следующими характеристиками: (Дальний бой (легкое оружие); Урон 4; Крит 2; Дальность [средняя], Limited Ammo 1, Pierce 2, Vicious 1).</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>MELEE</SkillKey>
@@ -18878,11 +18875,11 @@ Seen in some of the more remote areas of the galaxy, especially in rougher and m
   </Weapon>
   <Weapon>
     <Key>VIBRORAPIER</Key>
-    <Name>Vibrorapier</Name>
+    <Name>Виброрапира (Vibrorapier)</Name>
     <Description>
-      [H3]Vibrorapier[h3]
+      [H3]Виброрапира[h3]
 
-A long, slender-bladed vibrosword, a vibrorapier is extremely well-balanced and suited for professional artists of the blade. Designed primarily for thrusting, the vibrorapier can penetrate virtually any armor, making it an exceptionally deadly blade in the hands of trained sword-wielder. Unlike other vibroblades, which emit an audible hum, vibrorapiers are completely silent, making them useful for those who rely on stealth to survive.</Description>
+Длинный вибромеч с тонким клинком, виброрапира чрезвычайно хорошо сбалансирована и подходит для профессиональных мастеров клинка. Разработанная в первую очередь для колющих ударов, виброрапира способна пробить практически любую броню, что делает ее исключительно смертоносным клинком в руках обученного фехтовальщика. В отличие от других вибролезвий, издающих слышимое гудение, виброрапиры абсолютно бесшумны, что делает их полезными для тех, кто полагается на скрытность для выживания.</Description>
     <Source Page="46">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -18914,15 +18911,15 @@ A long, slender-bladed vibrosword, a vibrorapier is extremely well-balanced and 
   </Weapon>
   <Weapon>
     <Key>VIBROSAW</Key>
-    <Name>Mk. VIII Vibrosaw</Name>
+    <Name>Вибропила Mk. VIII (Mk. VIII Vibrosaw)</Name>
     <Description>
-      [H3]Mk. VIII Vibrosaw[h3]
+      [H3]Вибропила Mk. VIII[h3]
 
-Creel Wood Logging Corporation is a small, privately owned logging concern founded solely for the harvesting the of the highly sought-after Greel trees from the third and fourth planets of the PH System. Greels are hardy, ancient trees that produce an extremely dense, deep-crimson hardwood. Thanks to the resilience of the trees and the difficulty of harvesting them, GWLC developed special tools to aid in logging and processing. Working closely with a number of precision industrial toolmakers from the Corporate Sector, GWLC produced a line of saws, heavy equipment, specialized heavy-lift speedertrucks, and other assorted logging machinery for their personal use, and eventually they sold them to the general public. Marketed mainly to industrial logging concerns, many of these tools are also used in the surveying and exploration of newly discovered planets, especially those with dense and thorny flora. One of the more common GWLC tools is the Mk. VIII Vibrosaw.
+Лесозаготовительная корпорация Creel Wood - это небольшое частное лесозаготовительное предприятие, основанное исключительно для добычи высоко ценимых деревьев грил с третьей и четвертой планет системы PH. Грил - это выносливые, древние деревья, дающие чрезвычайно плотную, темно-багровую твердую древесину. Благодаря стойкости деревьев и сложности их заготовки, GWLC разработала специальные инструменты для помощи в лесозаготовке и обработке. Тесно сотрудничая с рядом производителей точных промышленных инструментов из Корпоративного сектора, GWLC произвела линейку пил, тяжелого оборудования, специализированных тяжелых спидер-грузовиков и прочей разнообразной лесозаготовительной техники для собственного использования, а в конечном итоге продала их широкой публике. Хотя они продаются в основном промышленным лесозаготовительным предприятиям, многие из этих инструментов также используются при обследовании и исследовании недавно открытых планет, особенно тех, где есть густая и колючая флора. Одним из наиболее распространенных инструментов GWLC является вибропила Mk. VIII.
 
-[P]Loud and extremely challenging to use, the Mk. VIII is a heavy vibrosaw that can cut through the toughest undergrowth or fell the tallest trees. They are heavy, awkward brutes that, in the hands of the inexperienced or inattentive, can cause more damage to the user than to the surrounding flora. The Mk. VIII consists of a blocky chassis containing the saw's controls, two SureGrip handles, a power pack, a drive motor, and a vibrofield generator. The blade mounted to the front of the chassis is long and thin, ringed by a rotating, high-speed, diamond-toothed chain whose already impressive cutting ability is further augmented by a powerful vibrofield. Although not designed as such, the Mk. VIII can be used as a weapon in an emergency, its blade slicing through flesh and bone as easily as root and branch. Caution must be used when doing so, however, as even the slightest miscalculation or misstep can result in the user receiving gruesome injuries from his own saw.
+[P]Шумная и чрезвычайно сложная в использовании, Mk. VIII представляет собой тяжелую вибропилу, способную прорезать самый густой подлесок или свалить самые высокие деревья. Это тяжелые, неуклюжие махины, которые в руках неопытных или невнимательных могут нанести больше вреда пользователю, чем окружающей флоре. Mk. VIII состоит из угловатого корпуса, содержащего элементы управления пилой, две рукояти SureGrip, блок питания, приводной двигатель и генератор виброполя. Лезвие, закрепленное на передней части корпуса, длинное и тонкое, окруженное вращающейся высокоскоростной цепью с алмазными зубьями, чья и без того впечатляющая режущая способность дополнительно усиливается мощным виброполем. Хотя она не была разработана как таковая, Mk. VIII может использоваться в качестве оружия в экстренной ситуации, ее лезвие прорезает плоть и кость так же легко, как корни и ветви. Однако при этом необходимо соблюдать осторожность, поскольку даже малейший просчет или неверный шаг может привести к тому, что пользователь получит ужасающие ранения от собственной пилы.
 
-[P]If the user generates [DE] when using the Mk. VIII as a weapon, he hits himself with the attack instead of his target (even if the attack would normally miss). The Mk. VIII requires two hands to use. </Description>
+[P]Если пользователь генерирует [DE] при использовании Mk. VIII в качестве оружия, он попадает атакой по себе вместо цели (даже если атака обычно промахнулась бы). Для использования Mk. VIII требуются обе руки. </Description>
     <Source Page="43">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -18974,21 +18971,21 @@ Creel Wood Logging Corporation is a small, privately owned logging concern found
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>[DE] means wielder hits himself with the vibrosaw</MiscDesc>
+        <MiscDesc>[DE] означает, что пользователь наносит себе удар вибропилой.</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>VIBROSPR</Key>
-    <Name>Huntsman Vibrospear</Name>
+    <Name>Виброкопье "Huntsman" (Huntsman Vibrospear)</Name>
     <Description>
-      [H3]Huntsman Vibrospear[h3]
+      [H3]Виброкопье "Huntsman"[h3]
 
-The Huntsman by LaserHone, a maker of fine vibroweapons based in the Corporate Sector, is a relative oddity among weapons of its class. Over two meters long, the Huntsman is a sturdy vibrospear designed for hunting large and dangerous wild game. Equipped with LaserHone's patented ultrasonic vibrotechnology, the vibrogenerator in the Huntsman vibrates at frequencies well outside the hearing range of most sentients. The ultrasonic vibrogenerator, special dampening fittings, and a coating of sound-absorbing polymers make the Huntsman completely silent when active. This allows a hunter to carry a powerful vibroweapon in the field without the fear of spooking his prey with the noise from the weapon.
+"Huntsman" от LaserHone, производителя изысканного виброоружия, базирующегося в Корпоративном секторе, является относительной редкостью среди оружия своего класса. Длиной более двух метров, "Huntsman" представляет собой прочное виброкопье, разработанное для охоты на крупную и опасную дичь. Оснащенное запатентованной ультразвуковой вибротехнологией LaserHone, виброгенератор "Huntsman" вибрирует на частотах, далеко выходящих за пределы слухового диапазона большинства разумных существ. Ультразвуковой виброгенератор, специальные демпфирующие крепления и покрытие из звукопоглощающих полимеров делают "Huntsman" абсолютно бесшумным в активном состоянии. Это позволяет охотнику носить мощное виброоружие в полевых условиях, не опасаясь спугнуть добычу шумом оружия.
 
-[P]The Huntsman's haft is a super-dense plasteel alloy embedded with sound-deadening materials and laced with foil-fiber reinforcements. Incredibly strong and flexible, the Huntsman can parry nearly any incoming blow, from the claws of a powerful beast to the slashing edge of a vibro-ax. The blade is a long, thin, leaf-shaped affair made from a laser-honed steel alloy with a molecular edge that can pass through steel and stone as easy as through flesh and muscle. At the base of the blade where it meets the haft, two thick posts extend for a few centimeters perpendicular to the haft to prevent particularly recalcitrant beasts from charging up the haft after being stabbed and attacking the spear's wielder. While it is more of a niche weapon with limited appeal, many professional scouts and hunters appreciate the deadly simplicity of the Huntsman and the challenge of hunting untamed beasts in ways similar to their ancient forebears.
+[P]Древко "Huntsman" изготовлено из сверхплотного пласталевого сплава, в который встроены звукопоглощающие материалы и вплетены армирующие фольгированные волокна. Невероятно прочное и гибкое, "Huntsman" способно парировать практически любой удар, от когтей могучего зверя до режущей кромки вибротопора. Лезвие представляет собой длинный, тонкий, листовидный клинок из стального сплава с лазерной заточкой и молекулярной кромкой, способный проходить сквозь сталь и камень так же легко, как сквозь плоть и мышцы. У основания лезвия, где оно соединяется с древком, два толстых штыря выступают на несколько сантиметров перпендикулярно древку, чтобы предотвратить бросок особенно упрямых зверей вверх по древку после удара и нападение на владельца копья. Хотя это скорее нишевое оружие с ограниченной привлекательностью, многие профессиональные разведчики и охотники ценят смертоносную простоту "Huntsman" и вызов охоты на диких зверей способами, подобными их древним предкам.
 
-[P]The vibrospear requires two hands to wield.</Description>
+[P]Для использования виброкопья требуются обе руки.</Description>
     <Source Page="43">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -19027,15 +19024,15 @@ The Huntsman by LaserHone, a maker of fine vibroweapons based in the Corporate S
   </Weapon>
   <Weapon>
     <Key>VIBSW</Key>
-    <Name>Vibrosword</Name>
+    <Name>Вибромеч (Vibrosword)</Name>
     <Description>
-      [H3]Vibrosword[h3]
+      [H3]Вибромеч[h3]
 
-Many galactic civilizations have long taken to improving the simple but effective blade with induced ultra-sonic vibrations. The high frequency vibrations of the cutting edge greatly improve the sharpness of the weapon, allowing it to carve through most materials with ease.
+Многие галактические цивилизации давно стали улучшать простой, но эффективный клинок с помощью индуцированных ультразвуковых вибраций. Высокочастотные вибрации режущей кромки значительно улучшают остроту оружия, позволяя ему с легкостью прорезать большинство материалов.
 
-[P]There are many variations of vibroblade, but the vibrosword is fairly common amongst those who fancy themselves duelists.
+[P]Существует множество вариаций вибролезвий, но вибромеч довольно распространен среди тех, кто считает себя дуэлянтами.
 
-[BR][B]Models Include[b]: Merr-Sonn Damask-4 Duelist Sword. </Description>
+[BR][B]Модели включают:[b] Дуэльный меч Merr-Sonn Damask-4. </Description>
     <Sources>
       <Source Page="167">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="182">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -19073,11 +19070,11 @@ Many galactic civilizations have long taken to improving the simple but effectiv
   </Weapon>
   <Weapon>
     <Key>VL6</Key>
-    <Name>VL-6 Warhead Launcher System</Name>
+    <Name>Пусковая установка боевых головок VL-6 (VL-6 Warhead Launcher System)</Name>
     <Description>
-      [H3]VL-6 Warhead Launcher System[h3]
+      [H3]Пусковая установка боевых головок VL-6[h3]
 
-The VL-6 warhead launcher is a missile launcher developed by Krupx Munitions and installed aboard Kuat Drive Yards escort carriers. </Description>
+Пусковая установка боевых головок VL-6 - это ракетная пусковая установка, разработанная Krupx Munitions и устанавливаемая на эскортные авианосцы Верфей Куата. </Description>
     <Source Page="61">Дополнение: Держитесь цели! (Stay on Target)</Source>
     <Custom>DescOnly</Custom>
     <Type>Vehicle</Type>
@@ -19115,11 +19112,11 @@ The VL-6 warhead launcher is a missile launcher developed by Krupx Munitions and
   </Weapon>
   <Weapon>
     <Key>VODRANRIFLE</Key>
-    <Name>Vodran Hunting Rifle</Name>
+    <Name>Охотничья винтовка Водранов (Vodran Hunting Rifle)</Name>
     <Description>
-      [H3]Vodran Hunting Rifle[h3]
+      [H3]Охотничья винтовка Водранов[h3]
 
-These rifles, usually crafted by hand in local Vodran workshops, are commonly found in the hands of skilled dianoga hunters (or occasionally in the stomachs of dianogas). While not particularly advanced, these weapons are powerful enough to kill most predators that roam the swamps of Vodran. Cunning hunters often set up a blind in the lower branches of a mangle tree and wait for a dianoga to pop its eyestalk up from the murky waters, then blind the creature with a well-aimed shot before moving in to finish it off.</Description>
+Эти винтовки, обычно изготавливаемые вручную в местных мастерских Водрана, часто встречаются в руках опытных охотников на дианог (или иногда в желудках дианог). Хотя они не особенно продвинуты, это оружие достаточно мощное, чтобы убить большинство хищников, бродящих по болотам Водрана. Хитрые охотники часто устраивают укрытие на нижних ветвях мангрового дерева и ждут, пока дианога высунет свой глазной стебель из мутных вод, затем ослепляют существо метким выстрелом, прежде чем приблизиться и добить его.</Description>
     <Source Page="102">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <SkillKey>RANGHVY</SkillKey>
@@ -19146,12 +19143,12 @@ These rifles, usually crafted by hand in local Vodran workshops, are commonly fo
   </Weapon>
   <Weapon>
     <Key>VOSSWARSP</Key>
-    <Name>Voss Warspear</Name>
+    <Name>Боевое копье Воссов (Voss Warspear)</Name>
     <Description>
-      [H3]Voss Warspear[h3]
-A spear is essentially a blade at the end of a long pole, typically about two meters in length. In a pinch, tying a combat knife to the end of a reasonably straight branch is enough to fashion a spear. A less hastily constructed version incorporates a double-edged blade as well as a shaft that is made of a material sturdy enough to parry other weapons. The city guard of Vossport on Weik prefer heavy, long spears as their primary weapon, as they are simple to master and versatile.
-[P]The Voss warspear is a one-handed weapon, however it cannot be wielded with other weapons. It may, at the GM’s discretion, be wielded while using a shield.
-[P]A spear may be thrown as a ranged weapon. If used in this manner, change the skill to Ranged (Light) and the range of the weapon to short. The weapon also gains the Limited Ammo 1 quality (but if retrieved, it can be used again).</Description>
+      [H3]Боевое копье Воссов[h3]
+Копье, по сути, представляет собой клинок на конце длинного древка, обычно длиной около двух метров. В крайнем случае, привязав боевой нож к концу достаточно прямой ветки, можно смастерить копье. Более тщательно изготовленная версия включает двустороннее лезвие, а также древко из материала, достаточно прочного, чтобы парировать удары другого оружия. Городская стража Восспорта на Вейке предпочитает тяжелые длинные копья в качестве основного оружия, поскольку они просты в освоении и универсальны.
+[P]Боевое копье Воссов является одноручным оружием, однако его нельзя использовать вместе с другим оружием. По усмотрению ГМа, его можно использовать вместе со щитом.
+[P]Копье можно бросать как оружие дальнего боя. При таком использовании измените навык на "Дальний бой (легкое оружие)", а дальность оружия - на короткую. Оружие также получает качество "Limited Ammo 1" (но если его подобрать, его можно использовать снова).</Description>
     <Source Page="104">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -19180,12 +19177,12 @@ A spear is essentially a blade at the end of a long pole, typically about two me
   </Weapon>
   <Weapon>
     <Key>VOSSWARSPT</Key>
-    <Name>Voss Warspear (thrown)</Name>
+    <Name>Боевое копье Воссов (метательное) (Voss Warspear (thrown))</Name>
     <Description>
       [H3]Voss Warspear[h3]
-A spear is essentially a blade at the end of a long pole, typically about two meters in length. In a pinch, tying a combat knife to the end of a reasonably straight branch is enough to fashion a spear. A less hastily constructed version incorporates a double-edged blade as well as a shaft that is made of a material sturdy enough to parry other weapons. The city guard of Vossport on Weik prefer heavy, long spears as their primary weapon, as they are simple to master and versatile.
-[P]The Voss warspear is a one-handed weapon, however it cannot be wielded with other weapons. It may, at the GM’s discretion, be wielded while using a shield.
-[P]A spear may be thrown as a ranged weapon. If used in this manner, change the skill to Ranged (Light) and the range of the weapon to short. The weapon also gains the Limited Ammo 1 quality (but if retrieved, it can be used again).
+Копье, по сути, представляет собой клинок на конце длинного древка, обычно длиной около двух метров. В крайнем случае, привязав боевой нож к концу достаточно прямой ветки, можно смастерить копье. Более тщательно изготовленная версия включает двустороннее лезвие, а также древко из материала, достаточно прочного, чтобы парировать удары другого оружия. Городская стража Восспорта на Вейке предпочитает тяжелые длинные копья в качестве основного оружия, поскольку они просты в освоении и универсальны.
+[P]Боевое копье Воссов является одноручным оружием, однако его нельзя использовать вместе с другим оружием. По усмотрению ГМа, его можно использовать вместе со щитом.
+[P]Копье можно бросать как оружие дальнего боя. При таком использовании измените навык на "Дальний бой (легкое оружие)", а дальность оружия - на короткую. Оружие также получает качество "Limited Ammo 1" (но если его подобрать, его можно использовать снова).
     </Description>
     <Source Page="104">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
@@ -19219,11 +19216,11 @@ A spear is essentially a blade at the end of a long pole, typically about two me
   </Weapon>
   <Weapon>
     <Key>VXBLASTREP</Key>
-    <Name>VX "Sidewinder" Repeating Blaster</Name>
+    <Name>Автоматический бластер VX "Sidewinder" (VX "Sidewinder" Repeating Blaster)</Name>
     <Description>
-      [H3]VX "Sidewinder" Repeating Blaster[h3]
+      [H3]Автоматический бластер VX "Sidewinder"[h3]
 
-Unlike other repeating blasters, the SoroSuub VX achieves its high rate of fire through the use of five rotating barrels. Each barrel features its own actuating blaster module, galven coil, and crystal housing, distributing wear and preventing excessive buildup of heat on any one barrel. Though designed for use with its included bipod (see page 188 of the [B]Edge of the Empire[b] Core Rules), a wielder with sufficient strength can carry and even fire the weapon on the move, albeit invariably with reduced accuracy. Users who intend to wield the VX in this way often attach a shoulder strap, although even then the weapon requires two hands to wield. </Description>
+В отличие от других автоматических бластеров, SoroSuub VX достигает своей высокой скорострельности за счет использования пяти вращающихся стволов. Каждый ствол оснащен собственным приводным бластерным модулем, гальвеновой катушкой и корпусом с кристаллом, что распределяет износ и предотвращает чрезмерное накопление тепла на любом одном стволе. Хотя он разработан для использования с входящими в комплект сошками (см. страницу 188 книги правил [B]Край Империи[b]), владелец с достаточным телосложением может носить и даже стрелять из оружия на ходу, хотя и неизменно с пониженной точностью. Пользователи, которые намерены использовать VX таким образом, часто прикрепляют плечевой ремень, хотя даже в этом случае для использования оружия требуются обе руки. </Description>
     <Source Page="43">Дополнение: Опасные союзы (Dangerous Covenants)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -19278,11 +19275,11 @@ Unlike other repeating blasters, the SoroSuub VX achieves its high rate of fire 
   </Weapon>
   <Weapon>
     <Key>WEIKGS</Key>
-    <Name>Weik Greatsword</Name>
+    <Name>Двуручный меч Вейка (Weik Greatsword)</Name>
     <Description>
-      [H3]Weik Greatsword[h3]
-Regardless of technological advances, a simple metal sword remains an effective and reliable weapon. A sword never runs out of power. It is heavy enough and long enough to give a warrior a significant advantage in combat against an unarmed opponent or one wielding a more compact weapon. Legends suggest that long before the invention of the lightsaber, the earliest Force adepts used swords as their preferred weapons. A greatsword permits a wielder to employ a tremendous amount of power and leverage to each swing.
-The greatsword requires two hands to wield.</Description>
+      [H3]Двуручный меч Вейка[h3]
+Независимо от технологических достижений, простой металлический меч остается эффективным и надежным оружием. Меч никогда не исчерпывает энергию. Он достаточно тяжел и длинен, чтобы дать воину значительное преимущество в бою против безоружного противника или того, кто владеет более компактным оружием. Легенды гласят, что задолго до изобретения светового меча первые адепты Силы использовали мечи в качестве предпочтительного оружия. Двуручный меч позволяет владельцу вкладывать огромную силу и рычаг в каждый взмах.
+Для использования двуручного меча требуются обе руки.</Description>
     <Source Page="104">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -19316,12 +19313,12 @@ The greatsword requires two hands to wield.</Description>
   </Weapon>
   <Weapon>
     <Key>WELDINGROD</Key>
-    <Name>Welding Rod</Name>
+    <Name>Сварочный прут (Welding Rod)</Name>
     <Description>
-      [H3]Welding Rod[h3]
-Technicians need not only the ability to cut metal apart quickly, but the capacity to fuse back together. A welding rod works on a simple principle, generating a jet of focused heat that liquefies small parts of two or more pieces of metal, creating a sturdy bond between the formerly separate pieces. The heat involved is in this process is extremely dangerous to organic creatures and can even sear clean through the much sturdier limbs of droids. For good reason, welding rods are typically sold with instruction manuals that highlight the danger involved in their use - which some Technicians choose to actively ignore when threatened in their workshops.
-[P]A welding rod adds automatic [SU] to Mechanics checks checks to repair droids, vehicles and starships.
-[P]The GM may spend [DE] on any check made with a welding rod to inflict a Critically Injury (see page 216 of the [B]Edge of The Empire[b] Core Rulebook) on the user.</Description>
+      [H3]Сварочный прут[h3]
+Техникам нужна не только способность быстро разрезать металл, но и возможность соединять его обратно. Сварочный прут работает по простому принципу, генерируя струю сфокусированного тепла, которая расплавляет небольшие участки двух или более кусков металла, создавая прочное соединение между ранее отдельными частями. Тепло, участвующее в этом процессе, чрезвычайно опасно для органических существ и может даже прожечь насквозь гораздо более прочные конечности дроидов. Не без причины сварочные прутья обычно продаются с инструкциями, подчеркивающими опасность их использования, - которые некоторые техники предпочитают активно игнорировать, когда им угрожают в их мастерских.
+[P]Сварочный прут добавляет автоматический [SU] к проверкам "Механики" для ремонта дроидов, транспортных средств и звездолетов.
+[P]ГМ может потратить [DE] при любой проверке, выполненной с помощью сварочного прута, чтобы нанести Критическую травму (см. страницу 216 книги правил [B]Край Империи[b]) пользователю.</Description>
     <Source Page="47">Дополнение: Особые модификации (Special Modifications)</Source>
     <Custom>DescOnly</Custom>
     <Type>Tool</Type>
@@ -19349,23 +19346,23 @@ Technicians need not only the ability to cut metal apart quickly, but the capaci
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>Welding rods add automatic [AD] to Mechanics checks to repair droids, vehicles, and starships.</MiscDesc>
+        <MiscDesc>Сварочный прут добавляет автоматический бонус [AD] к проверкам "Механики" при ремонте дроидов, транспортных средств и звездолетов.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>[DE] may be used to inflict a Critical Injury on user.</MiscDesc>
+        <MiscDesc>[DE] может быть использовано для нанесения критического урона пользователю.</MiscDesc>
       </Mod>
     </BaseMods>
     <WeaponModifiers />
   </Weapon>
   <Weapon>
     <Key>WIPE3GREN</Key>
-    <Name>Wipe-3 Data-Purge Grenade</Name>
+    <Name>Граната очистки данных Wipe-3 (Wipe-3 Data-Purge Grenade)</Name>
     <Description>
-      [H3]SoroSuub Wipe-3 Data-Purge Grenade[h3]
+      [H3]Граната очистки данных SoroSuub Wipe-3[h3]
 
-Although information is sometimes committed to flimsiplast or other forms of physical storage, most data storage utilizes electronic media. Overwhelming physical damage can eliminate memory banks and similar devices, but expert slicing can sometimes reconstitute and extract viable data. For more certain methods of data erasure, agents turn to devices like SoroSuub Wipe-3 data-purge grenades. These small, one-use devices release a focused pulse that scrambles data, usually without destroying hardware.
+Хотя информация иногда записывается на флимсипласт или другие формы физического хранения, большинство хранилищ данных использует электронные носители. Чрезмерные физические повреждения могут уничтожить блоки памяти и подобные устройства, но экспертный слайсинг иногда может восстановить и извлечь пригодные данные. Для более надежных методов стирания данных агенты обращаются к устройствам, подобным гранатам очистки данных SoroSuub Wipe-3. Эти небольшие одноразовые устройства высвобождают сфокусированный импульс, который искажает данные, обычно не разрушая аппаратное обеспечение.
 
-[P]Any computer or similar device hit by a data-purge grenade loses all programming, memory, or any other kind of electronically stored data, but remains otherwise undamaged. A droid hit by a data-purge grenade must make a [B]Hard ([DI][DI][DI]) Resilience check[b] or suffer 1 strain, plus 1 additional strain per [FA]. At the GM's discretion, [TH][TH][TH] or [DE] on the check can cause the droid to lose portions of its memory. </Description>
+[P]Любой компьютер или подобное устройство, пораженное гранатой очистки данных, теряет все программирование, память или любые другие виды электронно хранимых данных, но в остальном остается неповрежденным. Дроид, пораженный гранатой очистки данных, должен совершить [B]Сложную ([DI][DI][DI]) проверку "Стойкости"[b], иначе получит 1 "усталость", плюс 1 дополнительную "усталость" за каждый [FA]. По усмотрению ГМа, [TH][TH][TH] или [DE] при проверке могут привести к тому, что дроид потеряет части своей памяти. </Description>
     <Source Page="45">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Type>Explosives/Other</Type>
@@ -19386,11 +19383,11 @@ Although information is sometimes committed to flimsiplast or other forms of phy
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Computers hit by this grenade lose all programming and data.</MiscDesc>
+        <MiscDesc>Компьютеры, попавшие под действие этой гранаты, теряют всю программу и все данные.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>A droid hit by this grenade must make a [B]Hard ([DI][DI][DI]) Resilience check[b] or suffer 1 strain plus 1 strain per [FAILURE]. [DESPAIR] or [THREAT][THREAT][THREAT] can cause memory loss, at GM discretion.</MiscDesc>
+        <MiscDesc>Дроид, пораженный гранатой очистки данных, должен совершить [B]Сложную ([DI][DI][DI]) проверку "Стойкости"[b], иначе получит 1 "усталость", плюс 1 дополнительную "усталость" за каждый [FAILURE]. [DESPAIR] или [THREAT][THREAT][THREAT] могут привести к потере памяти - по усмотрению ГМа.</MiscDesc>
       </Mod>
     </BaseMods>
     <Qualities>
@@ -19402,10 +19399,10 @@ Although information is sometimes committed to flimsiplast or other forms of phy
   </Weapon>
   <Weapon>
     <Key>WP19INCGREN</Key>
-    <Name>WP-19 Incendiary Grenade</Name>
+    <Name>Зажигательная граната WP-19 (WP-19 Incendiary Grenade)</Name>
     <Description>
-      [H3]Merr-Sonn WP-19 Incendiary Grenade[h3]
-Incendiary grenades are relatively uncommon among the galaxy's militaries. Most civilized planets, especially in the Core, banned their use long ago as inhumane, and they often persecute users for war crimes. There are still many places where their sale and use are legal, however, and both the Imperial and Alliance militaries use them. Merr-Sonn's WP-19 is one of the more common incendiary grenades on the market. Filled with a volatile mixture of jellied incendiary compounds, accelerants, and adhesives, the WP-19 burns white-hot on detonation and spreads sticky, burning incendiary gel over a wide area. Imperial combat engineers are notorious for using these grenades to destroy enemy buildings and materiel, often with enemies and civilians alike trapped inside.</Description>
+      [H3]Зажигательная граната Merr-Sonn WP-19[h3]
+Зажигательные гранаты относительно редки среди военных сил галактики. Большинство цивилизованных планет, особенно в Ядре, давно запретили их использование как бесчеловечное, и часто преследуют пользователей за военные преступления. Однако по-прежнему есть много мест, где их продажа и использование законны, и военные силы как Империи, так и Альянса используют их. WP-19 от Merr-Sonn является одной из наиболее распространенных зажигательных гранат на рынке. Наполненная летучей смесью желеобразных зажигательных составов, ускорителей горения и адгезивов, WP-19 горит добела при детонации и разбрасывает липкий, горящий зажигательный гель по широкой площади. Имперские саперы печально известны использованием этих гранат для уничтожения вражеских зданий и материальной части, часто с врагами и мирными жителями, запертыми внутри.</Description>
     <Sources>
       <Source Page="40">Дополнение: Полная оперативность (Fully Operational)</Source>
       <Source Page="45">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
@@ -19443,10 +19440,10 @@ Incendiary grenades are relatively uncommon among the galaxy's militaries. Most 
   </Weapon>
   <Weapon>
     <Key>WRISTBLAST</Key>
-    <Name>Wrist Blaster</Name>
-    <Description>[H3]Wrist Blaster[h3]
-Wrist blasters are custom-made self-defense weapons worn by diplomats, espionage agents, businesspeople, and other individuals who need an inconspicuous personal defense weapon. Typically built into a bracelet or large-framed chrono, these weapons fire an extremely powerful blast at little more than arm's length. Good for only one shot, the blaster mechanism focuses all of its power into a single, high-powered blast that can penetrate most armor and can incapacitate or even kill the toughest opponent in the blink of an eye. Despite their utility, wrist blasters have a number of downsides. They are illegal on most worlds, although that doesn't stop individuals from using them. In addition, their range is pitifully short: users must be almost touching their target for the weapon to have any effect. Finally, since wrist blasters are only good for one shot, a user is put in a precarious situation if the blast fails to incapacitate or kill the intended target.
-[P]Noticing that an individual is wearing a wrist blaster requires a [B]Daunting ([DI][DI][DI]) Perception check[b]. At the Game Master's discretion, [TH][TH][TH] or [DE] can be spent on a user's Ranged (Light) check to have the weapon burn the user and deal 5 wounds.</Description>
+    <Name>Наручный бластер (Wrist Blaster)</Name>
+    <Description>[H3]Наручный бластер[h3]
+Наручные бластеры - это изготавливаемое на заказ оружие самообороны, носимое дипломатами, агентами разведки, бизнесменами и другими лицами, которым нужно незаметное оружие личной обороны. Обычно встроенные в браслет или крупный хронометр, эти оружия стреляют чрезвычайно мощным разрядом на расстоянии чуть больше вытянутой руки. Пригодный только для одного выстрела, механизм бластера фокусирует всю свою мощность в единый, высокомощный разряд, способный пробить большинство видов брони и вывести из строя или даже убить самого стойкого противника в мгновение ока. Несмотря на свою полезность, наручные бластеры имеют ряд недостатков. Они незаконны на большинстве миров, хотя это не останавливает людей от их использования. Кроме того, их дальность смехотворно мала: пользователи должны почти касаться своей цели, чтобы оружие оказало какой-либо эффект. Наконец, поскольку наручные бластеры пригодны только для одного выстрела, пользователь оказывается в опасном положении, если разряд не смог вывести из строя или убить намеченную цель.
+[P]Чтобы заметить, что на ком-то надет наручный бластер, требуется [B]Пугающая ([DI][DI][DI]) проверка "Внимания"[b]. По усмотрению ГМа, [TH][TH][TH] или [DE] могут быть потрачены при проверке "Дальний бой (легкое оружие)", чтобы оружие обожгло владельца и нанесло 5 "ранений".</Description>
     <Sources>
       <Source Page="40">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     </Sources>
@@ -19477,20 +19474,20 @@ Wrist blasters are custom-made self-defense weapons worn by diplomats, espionage
     </Qualities>
     <BaseMods>
       <Mod>
-        <MiscDesc>Noticing an individual wearing one of these weapons requires a [B]Daunting ([DI][DI][DI][DI]) Perception check[b].</MiscDesc>
+        <MiscDesc>Чтобы заметить человека, вооруженного одним из этих видов оружия, требуется проверка [B]Пугающая ([DI][DI][DI][DI]) проверка "Внимания"[b].</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>[TH][TH][TH] or [DE] may be used to cause the weapon to burn the wielder, causing 3 wound.</MiscDesc>
+        <MiscDesc>Можно использовать [TH][TH][TH] или [DE], чтобы оружие обжигало владельца, нанося 5 "ранений".</MiscDesc>
       </Mod>
     </BaseMods>
   </Weapon>
   <Weapon>
     <Key>WW41CRYOGREN</Key>
-    <Name>WW-41 CryoBan Grenade</Name>
+    <Name>Криобан-граната WW-41 (WW-41 CryoBan Grenade)</Name>
     <Description>
-      [H3]Merr-Sonn WW-41 CryoBan Grenade[h3]
-CryoBan is one of a number of chemical compounds used in the carbon freezing process. In its processed form, it creates intense, damaging cold by absorbing all heat in a given area. The WW-41 CryoBan grenade by Merr-Sonn was initially designed as an emergency fire-suppression tool and was used to put out fires aboard ships and space stations. The grenades resemble short, tapering batons with a ring at the smaller end. When they detonate, WW-41 grenades spray everything in their blast radius with supercooled CryoBan. These grenades also make excellent area denial weapons, as they can harm living organisms through shock, frostbite, and nerve damage.
-[P]A character using a CryoBan grenade adds [BO] to attempts to put out a fire.</Description>
+      [H3]Криобан-граната Merr-Sonn WW-41[h3]
+Криобан - одно из ряда химических соединений, используемых в процессе карбонитной заморозки. В обработанной форме он создает интенсивный, разрушительный холод, поглощая все тепло в заданной области. Криобан-граната WW-41 от Merr-Sonn изначально была разработана как аварийное средство пожаротушения и использовалась для тушения пожаров на борту кораблей и космических станций. Гранаты напоминают короткие сужающиеся жезлы с кольцом на узком конце. При детонации гранаты WW-41 распыляют переохлажденный криобан на все в радиусе взрыва. Эти гранаты также являются отличным оружием запрета доступа в зону, поскольку они могут наносить вред живым организмам через шок, обморожение и повреждение нервов.
+[P]Персонаж, использующий криобан-гранату, добавляет [BO] к попыткам потушить пожар.</Description>
     <Source Page="40">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Thrown</Type>
@@ -19504,7 +19501,7 @@ CryoBan is one of a number of chemical compounds used in the carbon freezing pro
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>If using to put out a fire, CryoBan grenade adds [BO] to the attempt.</MiscDesc>
+        <MiscDesc>При использовании для тушения пожара Криобан-гранаты, персонаж добавляет [BO] к попытке тушения.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
@@ -19542,9 +19539,9 @@ CryoBan is one of a number of chemical compounds used in the carbon freezing pro
     <Description>
       [H3]X-30 Lancer[h3]
 
-Lightweight and easy to use, SoroSuub's X-30 Lancer is one of the most popular sporting blasters on the market. Designed with competition shooters and pistol hunters in mind, the Lancer is optimized for range, accuracy, and stopping power. Built to SoroSuub's exacting standards, the Lancer is a sleek, modern-looking blaster pistol with a long barrel and a weighted, finely balanced stock. Firing a blaster bolt that is well out of scale for a weapon its size, it uses a custom-formulated, highly volatile mix of blaster gasses and a supercharged actuating module to fire intense, highly concentrated bolts accurately over long distances. Superior galven patterns in the barrel reduce beam degradation and dispersal, allowing the pistol to maintain effectiveness well past the range of other weapons of its class.
+Легкий и простой в использовании, X-30 "Lancer" от SoroSuub является одним из самых популярных спортивных бластеров на рынке. Разработанный с учетом потребностей соревновательных стрелков и охотников с пистолетом, "Lancer" оптимизирован для дальности, точности и останавливающего действия. Изготовленный по строгим стандартам SoroSuub, "Lancer" представляет собой изящный, современный на вид бластерный пистолет с длинным стволом и утяжеленным, тонко сбалансированным прикладом. Стреляя бластерным зарядом, значительно превосходящим по мощности оружие его размера, он использует специально разработанную, высоколетучую смесь бластерных газов и наддувной приводной модуль для точной стрельбы интенсивными, высококонцентрированными зарядами на большие расстояния. Превосходные гальвеновые узоры в стволе снижают деградацию и рассеивание луча, позволяя пистолету сохранять эффективность далеко за пределами дальности других оружий его класса.
 
-[P]In the Outer Rim, Lancer pistols are relatively common, especially among those who need a powerful weapon in a lightweight package. Many speeders and atmospheric craft have one of these fine pistols tucked away in an easy-to-reach storage locker, and many starships include them in their escape pods and emergency kits as a defensive weapon. They are also especially popular among explorers and scholars for their easy handling characteristics, as well as by those big-game hunters who enjoy the challenge of pistol hunting. </Description>
+[P]Во Внешнем Кольце пистолеты "Lancer" относительно распространены, особенно среди тех, кому нужно мощное оружие в легком корпусе. Многие спидеры и атмосферные аппараты имеют один из этих прекрасных пистолетов, спрятанный в легкодоступном отсеке для хранения, и многие звездолеты включают их в свои спасательные капсулы и аварийные комплекты в качестве оборонительного оружия. Они также особенно популярны среди исследователей и ученых благодаря своим легким характеристикам управления, а также среди тех охотников на крупную дичь, которым нравится вызов охоты с пистолетом. </Description>
     <Source Page="38">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -19578,10 +19575,10 @@ Lightweight and easy to use, SoroSuub's X-30 Lancer is one of the most popular s
   </Weapon>
   <Weapon>
     <Key>XX23TRACER</Key>
-    <Name>XX-23 S-Thread Tracer</Name>
-    <Description>[H3]XX-23 S-Thread Tracer[h3]
-This missile contains a device allowing the target's movements to be tracked regardless of where it travels, including through hyperspace.
-[P]After a character makes a successful combat check with an XX-23 tracer, he may make an [B]Average [DI][DI] Astrogation check[b] to determine the target's location anywhere in the galaxy until the tracer is removed.</Description>
+    <Name>Трассер XX-23 "S-Thread" (XX-23 S-Thread Tracer)</Name>
+    <Description>[H3]Трассер XX-23 "S-Thread"[h3]
+Эта ракета содержит устройство, позволяющее отслеживать перемещения цели независимо от того, куда она направляется, в том числе через гиперпространство.
+[P]После того как персонаж совершает успешную боевую проверку с трассером XX-23, он может совершить [B]Среднюю [DI][DI] проверку "Астрогации"[b], чтобы определить местоположение цели в любой точке галактики, пока трассер не будет удален.</Description>
     <Source Page="64">Дополнение: Рассвет восстания (Dawn of Rebellion)</Source>
     <Custom>AddedItem</Custom>
     <Type>Vehicle</Type>
@@ -19592,7 +19589,7 @@ This missile contains a device allowing the target's movements to be tracked reg
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>After a character makes a successful combat check with an XX-23 tracer, he may make an [B]Average [DI][DI] Astrogation check[b] to determine the target's location anywhere in the galaxy until the tracer is removed.</MiscDesc>
+        <MiscDesc>После того как персонаж совершает успешную боевую проверку с трассером XX-23, он может совершить [B]Среднюю [DI][DI] проверку "Астрогации"[b], чтобы определить местоположение цели в любой точке галактики, пока трассер не будет удален.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>GUNN</SkillKey>
@@ -19613,10 +19610,10 @@ This missile contains a device allowing the target's movements to be tracked reg
   </Weapon>
   <Weapon>
     <Key>Z6RIOT</Key>
-    <Name>Z6 Riot Baton</Name>
+    <Name>Полицейская дубинка Z6 (Z6 Riot Baton)</Name>
     <Description>
-      [H3]Z6 Riot Baton[h3]
-This extendable cudgel integrates a set of conductor contact vanes that can effectively subdue a target. The Z6 model was designed to partially collapse. This enables the wielder to carrier it at the waist with minimal inconvenience. When activated, the same power supply triggers an energy field that stabilizes the baton at its full ninety-centimeter size. In addition to serving as a shock prod, the energy field is capable of deflecting an attack from a plasma weapon, such as a lightsaber.</Description>
+      [H3]Полицейская дубинка Z6[h3]
+Эта выдвижная дубинка оснащена набором проводящих контактных пластин, способных эффективно обезвредить цель. Модель Z6 разработана так, чтобы частично складываться. Это позволяет владельцу носить ее на поясе с минимальными неудобствами. При активации тот же источник питания запускает энергетическое поле, которое стабилизирует дубинку в ее полном девяностосантиметровом размере. Помимо функции электрошокового оружия, энергетическое поле способно отразить атаку плазменного оружия, такого как световой меч.</Description>
     <Source Page="44">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -19648,11 +19645,11 @@ This extendable cudgel integrates a set of conductor contact vanes that can effe
   </Weapon>
   <Weapon>
     <Key>Z6ROTBLASTCAN</Key>
-    <Name>Z-6 Rotary Blaster Cannon</Name>
+    <Name>Вращающаяся бластерная пушка Z-6 (Z-6 Rotary Blaster Cannon)</Name>
     <Description>
-      [H3]Z-6 Rotary Blaster Cannon[h3]
-The Galactic Republic purchased many of its heavy weapons from Merr-Sonn Munitions during the last war, but the Z-6 rotary cannon was by far the most commonplace Merr-Sonn weapon on the battlefield. Due to its widespread use in the Clone Wars, the Z-6 is easily found on the black market and through weapons dealers. Rebel heavy weapon specialists frequently adopt the Z-6 as their weapon of choice, and Merr-Sonn still manufactures a steady supply for the Imperial millitary. With a single pull of the trigger, the Z-6 rotary blaster cannon releases a burst of a dozen shots, covering an area in a hail of blaster fire. However, the weapon is prone to overheating, especially when used overzealously to provide covering fire or otherwise suppress enemy forces for long periods of time.
-[P]The weapon can only be used in Auto-fire mode. The GM may spend [DE] or [TH][TH] from any combat check made with this weapon to have it overheat; the wielder suffers 2 strain and the weapon becomes damaged one step; from undamaged to Minor, Minor to Moderate, or Moderate to Major (see page 172 of the [B]Age of Rebellion[b] Core Rulebook).</Description>
+      [H3]Вращающаяся бластерная пушка Z-6[h3]
+Галактическая Республика закупила много своего тяжелого оружия у Merr-Sonn Munitions во время последней войны, но роторная пушка Z-6 была, безусловно, самым распространенным оружием Merr-Sonn на поле боя. Благодаря широкому использованию в Войнах клонов, Z-6 легко найти на черном рынке и у торговцев оружием. Специалисты повстанцев по тяжелому оружию часто выбирают Z-6 в качестве предпочтительного оружия, и Merr-Sonn по-прежнему производит стабильные поставки для имперских военных. Одним нажатием на спусковой крючок роторная бластерная пушка Z-6 выпускает очередь из дюжины выстрелов, накрывая область градом бластерного огня. Однако оружие склонно к перегреву, особенно при чрезмерном использовании для обеспечения прикрытия огнем или иного подавления сил противника в течение длительного времени.
+[P]Оружие может использоваться только в режиме автоматического огня. ГМ может потратить [DE] или [TH][TH] из любой боевой проверки, выполненной с этим оружием, чтобы оно перегрелось; владелец получает 2 "усталости", и оружие повреждается на одну ступень: от неповрежденного до Незначительного, от Незначительного до Умеренного или от Умеренного до Серьезного (см. страницу 172 книги правил [B]Эпоха Восстания[b]).</Description>
     <Sources>
       <Source Page="44">Дополнение: Закаленные в битве (Forged in Battle)</Source>
       <Source Page="52">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
@@ -19671,11 +19668,11 @@ The Galactic Republic purchased many of its heavy weapons from Merr-Sonn Munitio
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>This weapon can only be used in Auto-fire mode.</MiscDesc>
+        <MiscDesc>Это оружие можно использовать только в режиме автоматического огня (Auto-fire).</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>The GM may spend [DE] or [TH][TH] from any combat check made with this weapon to have it overheat; the wielder suffers 2 strain and the weapon becomes damaged one step: from undamaged to Minor, Minor to Moderate, or Moderate to Major.</MiscDesc>
+        <MiscDesc>ГМ может потратить [DE] или [TH][TH] из любой боевой проверки, выполненной с этим оружием, чтобы оно перегрелось; владелец получает 2 "усталости", и оружие повреждается на одну ступень: от неповрежденного до Незначительного, от Незначительного до Умеренного или от Умеренного до Серьезного.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGHVY</SkillKey>
@@ -19699,11 +19696,11 @@ The Galactic Republic purchased many of its heavy weapons from Merr-Sonn Munitio
   </Weapon>
   <Weapon>
     <Key>BESKAD</Key>
-    <Name>Beskad</Name>
-    <Description>[H3]Beskad[h3]
-Beskads are traditional Mandalorian sabers forged from beskar, or Mandalorian iron. Based on an ancient Taung design, these heavy, single-handed short swords are often unfavorably compared to the common machete. They have a broad, single-edged blade about the length of a grown human's arm mounted to a simple hilt with a rectangular crossguard. The blade's cutting edge curves sharply to a point, and its opposite side runs straight from hilt to tip. Designed to crack armor, these powerful blades are used like the humble machetes to which they are compared - to deliver short, powerful slashes. </Description>
+    <Name>Бескад (Beskad)</Name>
+    <Description>[H3]Бескад[h3]
+Бескады - традиционные мандалорские сабли, выкованные из бескара, или мандалорского железа. Основанные на древнем дизайне таунгов, эти тяжелые одноручные короткие мечи часто невыгодно сравнивают с обычным мачете. Они имеют широкий однолезвийный клинок длиной примерно с руку взрослого человека, закрепленный на простой рукояти с прямоугольной гардой. Режущая кромка клинка резко изгибается к острию, а его противоположная сторона идет прямо от рукояти к кончику. Разработанные для пробития брони, эти мощные клинки используются подобно скромным мачете, с которыми их сравнивают, - для нанесения коротких, мощных рубящих ударов. </Description>
     <Sources>
-      <Source Page="53">Collapse of the Republic</Source>
+      <Source Page="53">Дополнение: Падение республики (Collapse of the Republic)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -19739,19 +19736,19 @@ Beskads are traditional Mandalorian sabers forged from beskar, or Mandalorian ir
   </Weapon>
   <Weapon>
     <Key>SABERCANEHILT</Key>
-    <Name>Sabercane Hilt</Name>
-    <Description>[H3]Sabercane Hilt[h3]
-Sabercanes are a bit of an anomaly among the Jedi.  Essentially a basic lightsaber emitter built into a walking cane, they are typically used by elderly Jedi or by individuals who need to carry a lightsaber but keep it hidden. Most sabercanes consist of two parts: the hilt/handle and the shaft. The handle is a lightsaber hilt disguised as a cane handle. They come in a wide variety of styles and are as easy to use, modify, and maintain as basic lightsabers. Sabercane handles connect to their matching shafts via a simple bayonet fitting or custom quick-release mount. 
+    <Name>Световая трость (Рукоять) (Sabercane Hilt)</Name>
+    <Description>[H3]Световая трость (Рукоять)[h3]
+Световые трости являются некоторой аномалией среди джедаев. По сути, базовый излучатель светового меча, встроенный в трость, они обычно используются пожилыми джедаями или лицами, которым нужно носить световой меч, но держать его скрытым. Большинство световых тростей состоят из двух частей: эфеса/рукояти и стержня. Рукоять представляет собой эфес светового меча, замаскированный под ручку трости. Они представлены в широком разнообразии стилей и так же просты в использовании, модификации и обслуживании, как и базовые световые мечи. Рукояти световых тростей соединяются с соответствующими стержнями посредством простого байонетного крепления или индивидуального быстросъемного крепления. 
 
-[P]A sabercane's shaft is made from the same material as its handle and is typically solid-although they can be made hollow for carrying small, secret items. A wielder simply separates the two parts and activates the lightsaber to use it. The shaft may be used as an offhand weapon. Some sabercane shafts are even reinforced with Cortosis weave or beskar and can turn lightsaber blades as easily as lesser weapons. 
+[P]Стержень световой трости изготовлен из того же материала, что и рукоять, и обычно является цельным, хотя может быть полым для переноски небольших секретных предметов. Владелец просто разделяет две части и активирует световой меч для использования. Стержень может использоваться как оружие для второй руки. Некоторые стержни световых тростей даже усилены кортозисным плетением или бескаром и могут отражать клинки световых мечей так же легко, как и менее прочное оружие. 
 
-[P]This weapon is a sabercane hilt equipped with an unmodded llum crystal. The crystal occupies two of the weapon's hard points. 
+[P]Это оружие представляет собой эфес световой трости, оснащенный немодифицированным кристаллом с Иллума. Кристалл занимает две "точки крепления" оружия. 
 
-[P]When installing a crystal into a lightsaber cane, reduce the damage of that crystal by one. 
+[P]При установке кристалла в световую трость уменьшите урон этого кристалла на единицу. 
 
-[P]Provided here are the hilts for the lightsabers listed in this chapter. Each requires a crystal to become a true weapon (otherwise they deal no damage, have no critical rating, and do not have many of their item qualities). However, a PC wanting to construct their own lightsabers should start with a hilt. If the PC wants to construct his own hilt out of available materials, the GM can still have him make a check to find the hilt, based on its rarity, and pay the cost. This represents the PC finding and paying for the raw materials. Then it is simply a matter of spending a few hours putting the materials together to build the hilt—no checks are necessary. </Description>
+[P]Здесь представлены эфесы для световых мечей, перечисленных в этой главе. Каждый требует кристалл, чтобы стать настоящим оружием (иначе они не наносят урона, не имеют рейтинга критического попадания и не обладают многими из своих качеств предмета). Однако персонаж игрока, желающий создать свои собственные световые мечи, должен начать с эфеса. Если персонаж игрока хочет создать свой собственный эфес из доступных материалов, ГМ все равно может потребовать от него совершить проверку для поиска эфеса, основанную на его редкости, и оплатить стоимость. Это представляет поиск и оплату сырья. Затем это просто вопрос нескольких часов сборки материалов для создания эфеса - проверки не требуются. </Description>
     <Sources>
-      <Source Page="55">Collapse of the Republic</Source>
+      <Source Page="55">Дополнение: Падение республики (Collapse of the Republic)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Lightsaber</Type>
@@ -19780,18 +19777,18 @@ Sabercanes are a bit of an anomaly among the Jedi.  Essentially a basic lightsab
   </Weapon>
   <Weapon>
     <Key>SABERCANE</Key>
-    <Name>Sabercane</Name>
-    <Description>[H3]Sabercane[h3]
-Sabercanes are a bit of an anomaly among the Jedi.  Essentially a basic lightsaber emitter built into a walking cane, they are typically used by elderly Jedi or by individuals who need to carry a lightsaber but keep it hidden. Most sabercanes consist of two parts: the hilt/handle and the shaft. The handle is a lightsaber hilt disguised as a cane handle. They come in a wide variety of styles and are as easy to use, modify, and maintain as basic lightsabers. Sabercane handles connect to their matching shafts via a simple bayonet fitting or custom quick-release mount. 
+    <Name>Световая трость (Sabercane)</Name>
+    <Description>[H3]Световая трость[h3]
+Световые трости являются некоторой аномалией среди джедаев. По сути, базовый излучатель светового меча, встроенный в трость, они обычно используются пожилыми джедаями или лицами, которым нужно носить световой меч, но держать его скрытым. Большинство световых тростей состоят из двух частей: эфеса/рукояти и стержня. Рукоять представляет собой эфес светового меча, замаскированный под ручку трости. Они представлены в широком разнообразии стилей и так же просты в использовании, модификации и обслуживании, как и базовые световые мечи. Рукояти световых тростей соединяются с соответствующими стержнями посредством простого байонетного крепления или индивидуального быстросъемного крепления. 
 
-[P]A sabercane's shaft is made from the same material as its handle and is typically solid-although they can be made hollow for carrying small, secret items. A wielder simply separates the two parts and activates the lightsaber to use it. The shaft may be used as an offhand weapon. Some sabercane shafts are even reinforced with Cortosis weave or beskar and can turn lightsaber blades as easily as lesser weapons. 
+[P]Стержень световой трости изготовлен из того же материала, что и рукоять, и обычно является цельным, хотя может быть полым для переноски небольших секретных предметов. Владелец просто разделяет две части и активирует световой меч для использования. Стержень может использоваться как оружие для второй руки. Некоторые стержни световых тростей даже усилены кортозисным плетением или бескаром и могут отражать клинки световых мечей так же легко, как и менее прочное оружие. 
 
-[P]This weapon is a sabercane hilt equipped with an unmodded llum crystal. The crystal occupies two of the weapon's hard points. 
+[P]Это оружие представляет собой эфес световой трости, оснащенный немодифицированным кристаллом с Иллума. Кристалл занимает две "точки крепления" оружия. 
 
-[P]When installing a crystal into a lightsaber cane, reduce the damage of that crystal by one. 
+[P]При установке кристалла в световую трость уменьшите урон этого кристалла на единицу. 
     </Description>
     <Sources>
-      <Source Page="55">Collapse of the Republic</Source>
+      <Source Page="55">Дополнение: Падение республики (Collapse of the Republic)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Lightsaber</Type>
@@ -19823,13 +19820,13 @@ Sabercanes are a bit of an anomaly among the Jedi.  Essentially a basic lightsab
   </Weapon>
   <Weapon>
     <Key>DUSKBLADE</Key>
-    <Name>Dusk Blade</Name>
+    <Name>Сумеречный клинок (Dusk Blade)</Name>
     <Description>
-      [H3]Dusk Blade[h3]
-The mysterious Nightsisters use a number of bladed weapons, the most common of which is a deadly short sword. Carried both in battle and for ceremonial purposes, this weapon has a curved, single-edged blade similar to that of a scimitar or cutlass. The blade is broad at the tip and tapers toward the hilt, then flares out again where it meets the minimal handguard. It has a short, one-handed hilt and a guard on the outer edge below the cutting edge. Lightweight, flexible, and easy to handle, these swords are lethal in the hands of a trained user. 
+      [H3]Сумеречный клинок[h3]
+Загадочные сестры ночи используют ряд видов клинкового оружия, наиболее распространенным из которых является смертоносный короткий меч. Носимый как в бою, так и в церемониальных целях, этот оружие имеет изогнутый однолезвийный клинок, похожий на ятаган или абордажную саблю. Клинок широк у острия и сужается к рукояти, затем снова расширяется в месте соединения с минимальной гардой. Он имеет короткую одноручную рукоять и гарду на внешнем крае ниже режущей кромки. Легкие, гибкие и простые в обращении, эти мечи смертоносны в руках обученного пользователя. 
     </Description>
     <Sources>
-      <Source Page="54">Collapse of the Republic</Source>
+      <Source Page="54">Дополнение: Падение республики (Collapse of the Republic)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -19857,11 +19854,11 @@ The mysterious Nightsisters use a number of bladed weapons, the most common of w
   </Weapon>
   <Weapon>
     <Key>KALDAGGER</Key>
-    <Name>Kal Dagger</Name>
-    <Description> [H3]Kal Dagger[h3]
-The traditional accompaniment to the beskad, the kal is a short, deadly dagger typically wielded in a user's off hand. Forged entirely from beskar, the weapon consists of an elongated hexagonal blade with a rectangular cutout running along its center. The hilt is bare metal and has no crossguard, although the notch where the blade meets the hilt does provide some protection for the user's hand. While not as deadly as the beskad, the kal is still a formidable weapon in the hands of a skilled user. </Description>
+    <Name>Кинжал Кал (Kal Dagger)</Name>
+    <Description> [H3]Кинжал Кал[h3]
+Традиционное дополнение к бескаду, кал представляет собой короткий смертоносный кинжал, обычно используемый во второй руке. Полностью выкованный из бескара, оружие состоит из удлиненного шестигранного клинка с прямоугольным вырезом, проходящим вдоль его центра. Рукоять представляет собой голый металл и не имеет гарды, хотя выемка в месте соединения клинка с рукоятью обеспечивает некоторую защиту руки пользователя. Хотя и не такой смертоносный, как бескад, кал по-прежнему является грозным оружием в руках умелого пользователя. </Description>
     <Sources>
-      <Source Page="54">Collapse of the Republic</Source>
+      <Source Page="54">Дополнение: Падение республики (Collapse of the Republic)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Melee</Type>
@@ -19893,13 +19890,13 @@ The traditional accompaniment to the beskad, the kal is a short, deadly dagger t
   </Weapon>
   <Weapon>
     <Key>CRUSHGAUNTS</Key>
-    <Name>Crushgaunts</Name>
-    <Description>[H3]Crushgaunts[h3]
-Crushgaunts, also called shuk'orok in Mando'a, are strength-enhancing gloves designed centuries ago by the Mandalorians. They are constructed from a reactive, polymer-enhanced material reinforced by beskar plates. When worn, crushgaunts increase a wearer's grip strength to the point that they can shatter bone. crush durasteel, deflect weapons, and perform other deadly feats of strength. Thanks to their peculiar construction and beskar reinforcement, crushgaunts can even turn a lightsaber blade. 
+    <Name>Сокрушающие перчатки (Crushgaunts)</Name>
+    <Description>[H3]Сокрушающие перчатки[h3]
+Сокрушающие перчатки, также называемые Шук'орок на Мандо'а, представляют собой перчатки, усиливающие силу, разработанные мандалорцами столетия назад. Они изготовлены из реактивного, усиленного полимером материала, укрепленного пластинами из бескара. При ношении сокрушающие перчатки увеличивают силу хвата владельца до такой степени, что он может сокрушать кости, ломать дюрасталь, отражать оружие и совершать другие смертоносные подвиги силы. Благодаря своей необычной конструкции и усилению бескаром, сокрушающие перчатки могут даже отразить клинок светового меча. 
 
-[P]A character wearing crushgaunts upgrades the ability of Brawn checks they make to grip, crush, or hold on to items one time. A Game Master may spend [DE] or [TH] [TH] [TH] generated on any checks made to crush or destroy something with crushgaunts to deal 2 wounds to the wearer. </Description>
+[P]Персонаж, носящий сокрушающие перчатки, улучшает кубик способности проверок "Грубой силы", которые он совершает для захвата, сокрушения или удержания предметов, на один. ГМ может потратить [DE] или [TH] [TH] [TH], сгенерированные при любых проверках, выполненных для сокрушения или уничтожения чего-либо с помощью сокрушающих перчаток, чтобы нанести 2 "ранения" владельцу. </Description>
     <Sources>
-      <Source Page="54">Collapse of the Republic</Source>
+      <Source Page="54">Дополнение: Падение республики (Collapse of the Republic)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Brawling</Type>
@@ -19913,10 +19910,10 @@ Crushgaunts, also called shuk'orok in Mando'a, are strength-enhancing gloves des
     <Restricted>true</Restricted>
     <BaseMods>
       <Mod>
-        <MiscDesc>Upgrade ability of Brawn checks made to grip, crush, or hold onto items once.</MiscDesc>
+        <MiscDesc>улучшает кубик способности проверок "Грубой силы", для захвата, сокрушения или удержания предметов, на один.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>GM may spend [TH][TH][TH] or [DE] on checks to crush or destroy to deal 2 wounds to the wearer.</MiscDesc>
+        <MiscDesc>ГМ может потратить [DE] или [TH] [TH] [TH], сгенерированные при любых проверках, чтобы нанести 2 "ранения" владельцу.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>BRAWL</SkillKey>
@@ -19939,14 +19936,14 @@ Crushgaunts, also called shuk'orok in Mando'a, are strength-enhancing gloves des
   </Weapon>
   <Weapon>
     <Key>DC12UBEAM</Key>
-    <Name>DC-12U Beam Rifle</Name>
+    <Name>Лучевая винтовка DC-12U (DC-12U Beam Rifle)</Name>
     <Description>
-      [H3]DC-12U Beam Rifle[h3]
-BlasTech's DC-12U is an uncommon weapon designed for underwater operations. Built for the GAR's clone dive troopers, the DC-12U was developed from the C290, an older BlasTech blaster rifle built for use in wet, humid, or swampy environments. It's a heavy, two-barreled weapon equipped with a collapsing stock and an integrated under-barrel mount. It fires two low-output blaster bolts with one pull of the trigger and is devastating in the right hands. Thanks to its particular mix of blaster gases and the special focusing elements used to optimize underwater performance. the DC-1 2U fires blue bolts instead of the typical red bolts fired by most weapons. 
+      [H3]Лучевая винтовка DC-12U[h3]
+DC-12U от BlasTech - редкое оружие, разработанное для подводных операций. Созданная для клонов-водолазов ГАР, DC-12U была разработана на основе C290, более старой бластерной винтовки BlasTech, созданной для использования во влажных, сырых или болотистых условиях. Это тяжелое двуствольное оружие, оснащенное складным прикладом и интегрированным подствольным креплением. Оно выпускает два бластерных заряда низкой мощности одним нажатием на спусковой крючок и является разрушительным в умелых руках. Благодаря особой смеси бластерных газов и специальным фокусирующим элементам, используемым для оптимизации подводной эффективности, DC-12U стреляет синими зарядами вместо типичных красных зарядов, выпускаемых большинством оружий. 
 
-[P]The under-barrel mount typically mounts a high-powered flashlight that removes [SE] due to darkness from any combat checks made with the weapon. When outside of an aquatic environment, the DC-12U has the Inaccurate 2 item quality. </Description>
+[P]На подствольное крепление обычно устанавливается мощный фонарь, который убирает [SE] из-за темноты из любых боевых проверок, выполненных с этим оружием. За пределами водной среды DC-12U имеет качество предмета "Inaccurate 2". </Description>
     <Sources>
-      <Source Page="51">Collapse of the Republic</Source>
+      <Source Page="51">Дополнение: Падение республики (Collapse of the Republic)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -19975,11 +19972,11 @@ BlasTech's DC-12U is an uncommon weapon designed for underwater operations. Buil
   </Weapon>
   <Weapon>
     <Key>WESTAR35</Key>
-    <Name>WESTAR-35 Blaster Pistol</Name>
-    <Description> [H3]WESTAR-35 Pistol[h3]
-The latest in the long-running WESTAR line, the WESTAR-35 is the standard-issue sidearm of Mandalorian law enforcement and military officers. It is a sleek, medium-frame blaster pistol encased in a sealed, low maintenance polycarbonate shell. It fires either blue or yellow blaster bolts (depending on the blaster gas source) is proof against water and hostile environments, and has the fit and finish expected from Mandalorian weapons. Like the GALAAR-15, the WESTAR-35 - in fact, all weapons from the GALAAR, WESTAR, and SHUKUR lines - was never intended for export. That said, many have found their way off Mandalore and into the hands of black marketeers. Thanks to its high-quality construction and Mandalorian cachet, this pistol demands a premium wherever it is sold.</Description>
+    <Name>Бластерный пистолет WESTAR-35 (WESTAR-35 Blaster Pistol)</Name>
+    <Description> [H3]Пистолет WESTAR-35[h3]
+Последняя модель в давно существующей линейке WESTAR, WESTAR-35 является стандартным табельным оружием мандалорских правоохранительных органов и военных офицеров. Это изящный бластерный пистолет среднего размера, заключенный в герметичный, не требующий особого обслуживания поликарбонатный корпус. Он стреляет синими или желтыми бластерными зарядами (в зависимости от источника бластерного газа), защищен от воды и агрессивных сред и имеет качество сборки и отделки, ожидаемое от мандалорского оружия. Как и GALAAR-15, WESTAR-35 - по сути, все оружие из линеек GALAAR, WESTAR и SHUKUR - никогда не предназначалось для экспорта. Тем не менее, многие образцы покинули Мандалор и попали в руки дельцов черного рынка. Благодаря высокому качеству изготовления и мандалорскому престижу, этот пистолет требует надбавки к цене, где бы он ни продавался.</Description>
     <Sources>
-      <Source Page="53">Collapse of the Republic</Source>
+      <Source Page="53">Дополнение: Падение республики (Collapse of the Republic)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -20010,11 +20007,11 @@ The latest in the long-running WESTAR line, the WESTAR-35 is the standard-issue 
   </Weapon>
   <Weapon>
     <Key>EE3BLASTER</Key>
-    <Name>EE-3 Blaster Carbine</Name>
-    <Description> [H3]EE-3 Blaster Carbine[h3]
-The rugged and reliable EE-3 blaster carbine is one of BlasTech's most popular nonmilitary weapons. Designed primarily for law enforcement and private security forces, the EE-3 is a short, lightweight carbine based on an older full-sized BlasTech rifle. It has a short, heavily shrouded barrel and comes equipped with a pistol grip, a solid stock, and an optical sight. The EE-3 is also a select-fire weapon and can fire single shots or automatic bursts, an oddity for this class of weapon. Due to its standard features, low price, and solid BlasTech construction, the EE-3 is extremely popular with bounty hunters and paramilitary groups. </Description>
+    <Name>Бластерный карабин EE-3 (EE-3 Blaster Carbine)</Name>
+    <Description> [H3]Бластерный карабин EE-3[h3]
+Прочный и надежный бластерный карабин EE-3 является одним из самых популярных невоенных оружий BlasTech. Разработанный в первую очередь для правоохранительных органов и частных охранных структур, EE-3 представляет собой короткий легкий карабин на основе более старой полноразмерной винтовки BlasTech. Он имеет короткий, сильно закрытый кожухом ствол и оснащен пистолетной рукоятью, цельным прикладом и оптическим прицелом. EE-3 также является оружием с выбором режима огня и может стрелять одиночными выстрелами или автоматическими очередями, что является редкостью для этого класса оружия. Благодаря своим стандартным характеристикам, низкой цене и прочной конструкции BlasTech, EE-3 чрезвычайно популярен среди охотников за головами и военизированных групп. </Description>
     <Sources>
-      <Source Page="52">Collapse of the Republic</Source>
+      <Source Page="52">Дополнение: Падение республики (Collapse of the Republic)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -20044,14 +20041,14 @@ The rugged and reliable EE-3 blaster carbine is one of BlasTech's most popular n
   </Weapon>
   <Weapon>
     <Key>E5BLASTER</Key>
-    <Name>E-5 Blaster Rifle</Name>
+    <Name>Бластерная винтовка E-5 (E-5 Blaster Rifle)</Name>
     <Description>
-      [H3]E-5 Blaster Rifle[h3]
-The E-5 blaster rifle is a copy of a BlasTech design produced by Baktoid Armor Workshop for the Separatist armed forces. The standard-issue longarm of B1 battle droids, the E-5 is a squat, heavy, short-barreled weapon more like a carbine than a full-sized rifle. Despite its size, this weapon packs an incredible punch due to an oversized gas chamber and optimized galven pattern. Since the E-5 was built for use by droids, the safety features found on most blaster weapons were deleted from its design. Due to this, the E-5 is fragile and runs extremely hot. It is also relatively inaccurate due to substandard materials used in its construction. None of these issues are of particular worry to the CIS's battle droids. but they make the weapon unattractive to organic customers. 
+      [H3]Бластерная винтовка E-5[h3]
+Бластерная винтовка E-5 - копия конструкции BlasTech, произведенная Baktoid Armor Workshop для вооруженных сил сепаратистов. Стандартное длинноствольное оружие боевых дроидов B1, E-5 представляет собой приземистое, тяжелое, короткоствольное оружие, больше похожее на карабин, чем на полноразмерную винтовку. Несмотря на свой размер, это оружие обладает невероятной мощью благодаря увеличенной газовой камере и оптимизированному гальвеновому узору. Поскольку E-5 была создана для использования дроидами, функции безопасности, присутствующие в большинстве бластерных оружий, были исключены из ее конструкции. Из-за этого E-5 хрупка и сильно нагревается. Она также относительно неточна из-за некачественных материалов, использованных при ее изготовлении. Ни одна из этих проблем не вызывает особого беспокойства у боевых дроидов КНС, но они делают оружие непривлекательным для органических покупателей. 
 
-[P]If an E-5 suffers damage, it suffers one additional step of damage (see [B]Table 5-4: Repairing Gear in Chapter V: Gear and Equipment[b] in any of the core rulebooks). Game Masters may spend [DE] or [TH] [TH] [TH] generated on a combat check with an E-5 to cause the weapon to overheat. This damages the weapon and deals 2 wounds to the wielder if they are organic. </Description>
+[P]Если E-5 получает повреждение, она получает одну дополнительную ступень повреждения (см. Таблицу 5-4: Ремонт снаряжения в Главе V: Снаряжение и оборудование в любой из книг правил). ГМ может потратить [DE] или [TH] [TH] [TH], сгенерированные при боевой проверке с E-5, чтобы вызвать перегрев оружия. Это повреждает оружие и наносит 2 "ранения" владельцу, если он органический. </Description>
     <Sources>
-      <Source Page="52">Collapse of the Republic</Source>
+      <Source Page="52">Дополнение: Падение республики (Collapse of the Republic)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -20067,10 +20064,10 @@ The E-5 blaster rifle is a copy of a BlasTech design produced by Baktoid Armor W
     <Rarity>4</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>If an E-5 suffers damage, it suffers one additional step of damage.</MiscDesc>
+        <MiscDesc>Если E-5 получает повреждения, он получает ещё одну ступень повреждений.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>May spend [TH][TH][TH] or [DE] to cause an E-5 to overheat. This damages the weapon and deals 2 wound to the wield if organic.</MiscDesc>
+        <MiscDesc>Можно потратить [TH][TH][TH] или [DE], чтобы вызвать перегрев E-5. Это наносит ущерб оружию и наносит 2 "ранения" владельцу, если он является органическим существом.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGHVY</SkillKey>
@@ -20086,13 +20083,13 @@ The E-5 blaster rifle is a copy of a BlasTech design produced by Baktoid Armor W
   </Weapon>
   <Weapon>
     <Key>DE10BLAST</Key>
-    <Name>DE-10 Blaster Pistol</Name>
-    <Description> [H3]DE-10 Blaster Pistol[h3]
-The DE-10 is a stylish and reliable heavy blaster produced by BlasTech subsidiary Antrech Arms, specialists in boutique and niche products. Vaunted for its reliability and ease of maintenance, this fine blaster pistol resembles nothing so much as a slugthrower revolver. It is constructed of high-quality materials and can stand up to immense punishment in the field. Unlike most blaster weapons, the DE-10 fires a distinctive bright-blue bolt, a feature designed simply to set it apart from its competition. All DE-10 pistols come standard with a telescopic optical sight. 
+    <Name>Бластерный пистолет DE-10 (DE-10 Blaster Pistol)</Name>
+    <Description> [H3]Бластерный пистолет DE-10[h3]
+DE-10 - стильный и надежный тяжелый бластер, производимый дочерней компанией BlasTech Antrech Arms, специалистом по бутиковым и нишевым продуктам. Прославленный за свою надежность и простоту обслуживания, этот прекрасный бластерный пистолет больше всего напоминает револьвер-пулемет. Он изготовлен из высококачественных материалов и способен выдерживать суровые условия в полевых условиях. В отличие от большинства бластерных оружий, DE-10 стреляет характерным ярко-синим зарядом, особенностью, разработанной просто для того, чтобы выделить его среди конкурентов. Все пистолеты DE-10 стандартно оснащаются телескопическим оптическим прицелом. 
 
-[P]The DE-10's telescopic optical site reduces the difficulty of combat checks made at long and extreme range by one. A DE-10 in need of minor repairs does not add [SE] to checks. Add [BO] to checks made to repair a damaged DE-10</Description>
+[P]Телескопический оптический прицел DE-10 снижает сложность боевых проверок, выполняемых на дальней и экстремальной дальности, на единицу. DE-10, нуждающийся в мелком ремонте, не добавляет [SE] к проверкам. Добавьте [BO] к проверкам, выполняемым для ремонта поврежденного DE-10.</Description>
     <Sources>
-      <Source Page="51">Collapse of the Republic</Source>
+      <Source Page="51">Дополнение: Падение республики (Collapse of the Republic)</Source>
     </Sources>
     <Custom>DescOnly</Custom>
     <Type>Energy Weapon</Type>
@@ -20108,13 +20105,13 @@ The DE-10 is a stylish and reliable heavy blaster produced by BlasTech subsidiar
     <Rarity>8</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>Reduces difficulty of combat checks made at long and extreme range by one.</MiscDesc>
+        <MiscDesc>Снижает на единицу сложность боевых проверок, выполняемых на большом и экстремальном расстоянии.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>A DE-10 in need of minor repair does not add [SE] to checks.</MiscDesc>
+        <MiscDesc>DE-10, требующий мелкого ремонта, не добавляет [SE] к проверкам.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>Add [BO] to checks made to repair a DE-10.</MiscDesc>
+        <MiscDesc>Добавьте [BO] к проверкам, при выполнении ремонта DE-10.</MiscDesc>
       </Mod>
     </BaseMods>
     <SkillKey>RANGLT</SkillKey>
