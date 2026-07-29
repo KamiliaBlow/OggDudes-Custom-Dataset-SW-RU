@@ -3459,15 +3459,15 @@ BioTech Industries - ведущий поставщик кибернетичес�
   </Gear>
   <Gear>
     <Key>CYSCANLIMB</Key>
-    <Name>Cyberscanner Limb</Name>
+    <Name>Конечность киберсканер (Cyberscanner Limb)</Name>
     <Description>
-      [H3]Cyberscanner Limb[h3]
+      [H3]Конечность киберсканер[h3]
 
-This cybernetic arm does far more than simply replace a limb; it also includes a basic scanner for medium range detection. The CyberScanner displays data on a holo-projector that appears above the user's open palm and can show nearby motion, life-forms, energy signatures, and other common targets as desired.
+Эта кибернетическая рука делает гораздо больше, чем просто заменяет конечность; она также включает базовый сканер для обнаружения на средней дальности. Киберсканер отображает данные на голопроекторе, который появляется над открытой ладонью пользователя, и может показывать движение поблизости, формы жизни, энергетические сигнатуры и другие распространенные цели по желанию.
 
-[P]The Mod IV Scanner Limb incorporates a portable scanner, and unlike most cybernetics, is concealed by a synthflesh covering to disguise the fact that there is anything out of the ordinary about the limb.
+[P]Конечность-сканер Mod IV включает портативный сканер и, в отличие от большинства кибернетических имплантов, скрыта покрытием из синтетической плоти, чтобы замаскировать тот факт, что в конечности есть что-то необычное.
 
-[P][B]Models Include:[b] Neuro-Saav Technologies CyberScanner Limb, NeuroFabritech ScanMaster Arm.</Description>
+[P][B]Модели включают:[b] Конечность киберсканер Neuro-Saav Technologies, Рука ScanMaster NeuroFabritech.</Description>
     <Sources>
       <Source Page="174">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="190">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -3483,15 +3483,15 @@ This cybernetic arm does far more than simply replace a limb; it also includes a
   </Gear>
   <Gear>
     <Key>CYWEPIMP</Key>
-    <Name>Cybernetic Weapon Implant</Name>
+    <Name>Кибернетический оружейный имплант (Cybernetic Weapon Implant)</Name>
     <Description>
-      [H3]Cybernetic Weapon Implant[h3]
+      [H3]Кибернетический оружейный имплант[h3]
 
-It took six designs before the weaponsmiths at BlasTech achieved success, but the Mod VII, also known as a "blaster arm," finally combined a realistic limb with a deadly ranged weapon. The company uses outsourced cybernetic limbs as the basis for their designs, modifying them with their own proprietary weapon designs to form the final product. Favored by bounty hunters and assassins, the artificial forearm can split open for a short-ranged blaster to spring out and deliver a hail of shots before most foes are aware they are in danger.
+Потребовалось шесть конструкций, прежде чем оружейники BlasTech добились успеха, но Mod VII, также известная как "бластерная рука", наконец объединила реалистичную конечность со смертоносным оружием дальнего боя. Компания использует кибернетические конечности сторонних производителей в качестве основы для своих конструкций, модифицируя их собственными запатентованными оружейными разработками для создания конечного продукта. Популярное среди охотников за головами и убийц, искусственное предплечье может раскрываться, чтобы короткоствольный бластер выскочил и выпустил град выстрелов, прежде чем большинство противников осознают, что они в опасности.
 
-[P]The standard cybernetic weapon arm appears to be a regular cybernetic arm but features a retractable light blaster pistol that can be deployed as an incidental. It is attached to the arm and cannot be removed, dropped, or disarmed.
+[P]Стандартная кибернетическая рука c оружейным имплантом выглядит как обычная кибернетическая рука, но оснащена выдвижным легким бластерным пистолетом, который может быть развернут в качестве свободного действие. Он прикреплен к руке и не может быть снят, брошен или обезоружен.
 
-[P][B]Models Include:[b] BlasTech Industries Arms Cybernetic Weapon Enhancement Mod VII, Athakam MedTech Synthlimb Blaster.</Description>
+[P][B]Модели включают:[b] Кибернетический оружейный имплант Mod VII от BlasTech Industries Arms, Синтетическая конечность бластер Athakam MedTech.</Description>
     <Sources>
       <Source Page="174">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="190">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -3505,14 +3505,14 @@ It took six designs before the weaponsmiths at BlasTech achieved success, but th
     <Rarity>7</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>Contains a built-in retractable light blaster pistol</MiscDesc>
+        <MiscDesc>Оснащена встроенным выдвижным легким бластерным пистолетом.</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
     <WeaponModifiers>
       <WeaponModifier>
         <Unarmed>false</Unarmed>
-        <UnarmedName>Retractable Light Blaster Pistol</UnarmedName>
+        <UnarmedName>Выдвижной легкий бластерный пистолет</UnarmedName>
         <SkillKey>RANGLT</SkillKey>
         <AllSkillKey />
         <Damage>5</Damage>
@@ -3531,12 +3531,12 @@ It took six designs before the weaponsmiths at BlasTech achieved success, but th
   </Gear>
   <Gear>
     <Key>CZ88ARM</Key>
-    <Name>CZ-88 Heavy Loader Arm</Name>
+    <Name>Тяжелая погрузочная рука CZ-88 (CZ-88 Heavy Loader Arm)</Name>
     <Description>
-      [H3]CZ-88 Heavy Loader Arm[h3]
-The CZ-88 model heavy loader produced by Czerka is a flexible piece of equipment used for everything from moving freaight to collecting salvage to replacing damaged hull plating on starships. The primary loading arm has several extensions that enchance articulation and balance allowing it to handle even delicate materials without sacrificing the lifting power needed for large-scale construction and salvage jobs. It generally comes mounted on a cart witha  repulsorlift as transporting the arm would otherwise be largely impractical due to its enormity.
-[P]A heavy loader arm includes a monotask droid brain that can perform checks to heft objects; it has an Athletics skill of 1 and a Brawn of 5 (if unassisted, it rolls [PR][AB][AB][AB][AB] for Athletics checks.
-[P]Sometimes, salvagers install loader arms directly onto starships or other vehicles for easy retrieval of scrap metal and other components, using the arm as a low-cost alternative to a tractor beam projector. A CZ-88 heavy loader arm can be installed onto a vehicle of silhouette 3 or larger as an attachment, and uses one hard point. The occupents of the craft can use it to perform Athletics checks to lift objects into or out of the vessel (and other checks at the GM's discretion) without disembarking.
+      [H3]Тяжелая погрузочная рука CZ-88[h3]
+Тяжелый погрузчик модели CZ-88, производимый Czerka, представляет собой универсальное оборудование, используемое для всего: от перемещения грузов до сбора утиля и замены поврежденной обшивки корпуса звездолетов. Основная погрузочная рука имеет несколько насадок, улучшающих подвижность и баланс, что позволяет ей работать даже с хрупкими материалами, не жертвуя грузоподъемностью, необходимой для крупномасштабного строительства и утилизационных работ. Обычно она устанавливается на тележку с репульсорным подъемником, поскольку транспортировка руки в противном случае была бы в значительной степени непрактична из-за ее огромных размеров.
+[P]Тяжелая погрузочная рука включает однозадачный дроидный мозг, способный выполнять проверки для подъема объектов; она имеет навык "Атлетики" 1 и "Грубую силу" 5 (при самостоятельной работе бросается [PR][AB][AB][AB][AB] для проверок "Атлетики").
+[P]Иногда утилизаторы устанавливают погрузочные руки непосредственно на звездолеты или другие транспортные средства для легкого извлечения металлолома и других компонентов, используя руку как дешевую альтернативу проектору тягового луча. Тяжелая погрузочная рука CZ-88 может быть установлена на транспортное средство силуэта 3 или больше в качестве навесного оборудования и использует одну точку модификации. Пассажиры судна могут использовать ее для выполнения проверок "Атлетики", чтобы поднимать объекты на борт или с борта судна (и другие проверки по усмотрению ГМа), не покидая судно.
 
     </Description>
     <Source Page="51">Дополнение: Особые модификации (Special Modifications)</Source>
@@ -3548,18 +3548,18 @@ The CZ-88 model heavy loader produced by Czerka is a flexible piece of equipment
     <Type>Construction/Salvage Tools</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Droid brain: Brawn 5, Athletics 1 ([PR][AB][AB][AB][AB]).</MiscDesc>
+        <MiscDesc>Мозг дроида: "Грубая сила" 5, "Атлетика" 1 ([PR][AB][AB][AB][AB]).</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>DAIBENDU</Key>
-    <Name>Dai Bendu Holocron</Name>
-    <Description>[H3]Dai Bendu Holocron[h3]
-First attributed to the precursors of the Jedi, these objects remain a mystery. At the surface level, Dai Bendu holocrons resemble those produced by the Jedi. Each holocron contains six tracts, subdivided into four lessons apiece. Unlike ones made by the Jedi, Dai Bendu holocrons allow even the most unskilled of Force sensitives access. Their true key to mastery lies in study.
-[P]Completing each lesson in the tract requires an amount of study and meditation up to the GM's decision. At its conclusion, the player must roll a Discipline check of one higher difficulty than it took to access that lesson. For example, to complete the first lesson, a Mystic must roll an [B]Average ([DI][DI]) Discipline check[b]. To complete the final lesson in a tract requires a [B]Formidable ([DI][DI][DI][DI][DI]) Discipline check[b].
-[P]When a Force-sensitive character completes a tract, the player selects one characteristic. Once per day, they may upgrade the ability dice pool of any single check related to that characteristic by two steps. The player has learned all they can from that tract, and must move on to another. Each subsequent tract provides the same benefit to another characteristic.</Description>
+    <Name>Голокрон Даи Бенду (Dai Bendu Holocron)</Name>
+    <Description>[H3]Голокрон Даи Бенду[h3]
+Впервые приписанные предшественникам джедаев, эти объекты остаются загадкой. На первый взгляд, голокроны Даи Бенду напоминают те, что созданы джедаями. Каждый голокрон содержит шесть трактатов, подразделенных на четыре урока каждый. В отличие от созданных джедаями, голокроны Даи Бенду предоставляют доступ даже самым неискушенным чувствительным к Силе. Их истинный ключ к мастерству заключается в изучении.
+[P]Завершение каждого урока в трактате требует определенного количества изучения и медитации по решению ГМа. По его завершении игрок должен совершить проверку "Выдержки" на одну сложность выше, чем требовалось для доступа к этому уроку. Например, чтобы завершить первый урок, Мистик должен совершить [B]Среднюю ([DI][DI]) проверку "Выдержки"[b]. Для завершения последнего урока в трактате требуется [B]Запредельная ([DI][DI][DI][DI][DI]) проверка "Выдержки"[b].
+[P]Когда чувствительный к Силе персонаж завершает трактат, игрок выбирает одну характеристику. Раз в день он может улучшить пул кубиков способности любой одной проверки, связанной с этой характеристикой, на две ступени. Игрок узнал все, что мог, из этого трактата и должен перейти к другому. Каждый последующий трактат предоставляет ту же пользу для другой характеристики.</Description>
     <Source Page="52">Дополнение: Абсолютная власть (Unlimited Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Holocrons/Ancient Lore</Type>
@@ -3575,13 +3575,13 @@ First attributed to the precursors of the Jedi, these objects remain a mystery. 
   </Gear>
   <Gear>
     <Key>DATABR</Key>
-    <Name>Data Breaker</Name>
+    <Name>Взломщик данных (Data Breaker)</Name>
     <Description>
-      [H3]Data Breaker[h3]
+      [H3]Взломщик данных[h3]
 
-Data breakers are basic tools of the trade for many slicers. While droid slicers are programmed to crack complex sequences, organics usually lack this innate option, and therefore rely on a data breaker to do the grunt work of opening systems to them so that their true skills can shine once they are inside. Most data breakers are also recording devices, and can pull vast amounts of information from ill-guarded systems in seconds. Droid slicers can choose to have a data breaker (or equivalent systems) installed internally at the same cost. Data breakers add [BO][BO] to any Computers check made to slice computers (as opposed to the usual one for having the right tools for the job).
+Взломщики данных являются базовыми инструментами для многих слайсеров. Хотя дроиды-слайсеры запрограммированы на взлом сложных последовательностей, органические существа обычно лишены этой врожденной возможности и поэтому полагаются на взломщик данных, который выполняет черновую работу по открытию систем, чтобы их истинные навыки могли проявиться, когда они окажутся внутри. Большинство взломщиков данных также являются записывающими устройствами и могут извлекать огромные объемы информации из плохо защищенных систем за секунды. Дроиды-слайсеры могут установить взломщик данных (или эквивалентные системы) внутренне за ту же стоимость. Взломщики данных добавляют [BO][BO] к любой проверке "Компьютеров", выполняемой для взлома компьютеров (в отличие от обычного одного за наличие подходящих инструментов для работы).
 
-[P][B]Restrictions:[b] The Empire and many planetary governments restrict possession of data-breaking technology. Military and law-enforcement organizations make legal use of these devices, but typically civilian use of such technology is prohibited.</Description>
+[P][B]Ограничения:[b] Империя и многие планетарные правительства ограничивают владение технологией взлома данных. Военные и правоохранительные организации законно используют эти устройства, но обычно гражданское использование такой технологии запрещено.</Description>
     <Source Page="186">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
     <Price>1000</Price>
@@ -3591,19 +3591,19 @@ Data breakers are basic tools of the trade for many slicers. While droid slicers
     <Type>Slicing Tools</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Adds [BOOST][BOOST] to any Computers check made to slice computers</MiscDesc>
+        <MiscDesc>Добавьте [BOOST][BOOST] к любой проверке "Компьютеров", выполняемой для взлома компьютеров.</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>DATABRBO</Key>
-    <Name>Blackops Data Breaker</Name>
+    <Name>Взломщик данных Blackops (Blackops Data Breaker)</Name>
     <Description>
-      [H3]Blackops Data Breaker[h3]
+      [H3]Взломщик данных Blackops[h3]
 
-Data breakers are common tools used by slicers to force their way into secure systems. Essentially a data battering ram, they are unsubtle tools used for expedience instead of finesse and stealth. Many are also data harvesting devices, recording everything encountered in a system while the slicer roots around for nuggets of information. Most organic Slicers carry one or two of these devices, but droid Slicer Player Characters can have them installed in their internal computer systems as well. Data breakers add [BO][BO] to any Computers check made to slice computers, but they also add [BO] to any attempts to locate use of a data breaker in a computer system due to the "noise" these devices make. Data breakers are highly illegal, and possession or use of one can land a Rebel operative in a maximum security Imperial prison for a very long stay.
-[P][B]Models Include:[b] Numerous variants.</Description>
+Взломщики данных - распространенные инструменты, используемые слайсерами для силового проникновения в защищенные системы. По сути, таран для данных, это грубые инструменты, используемые для быстроты вместо тонкости и скрытности. Многие также являются устройствами сбора данных, записывающими все встреченное в системе, пока слайсер ищет крупицы информации. Большинство органических слайсеров носят одно или два таких устройства, но дроиды-слайсеры персонажи игроков также могут установить их в свои внутренние компьютерные системы. Взломщики данных добавляют [BO][BO] к любой проверке "Компьютеров", выполняемой для взлома компьютеров, но они также добавляют [BO] к любым попыткам обнаружить использование взломщика данных в компьютерной системе из-за 'шума', который создают эти устройства. Взломщики данных строго незаконны, и владение или использование одного из них может отправить оперативника повстанцев в имперскую тюрьму максимальной безопасности на очень долгий срок.
+[P][B]Модели включают:[b] Многочисленные варианты.</Description>
     <Source Page="193">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
     <Custom>DescOnly</Custom>
     <Price>1000</Price>
@@ -3614,26 +3614,26 @@ Data breakers are common tools used by slicers to force their way into secure sy
     <Type>Slicing Tools</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Adds [BOOST][BOOST] to any Computers check made to slice computers</MiscDesc>
+        <MiscDesc>Добавьте [BOOST][BOOST] к любой проверке "Компьютеров", выполняемой для взлома компьютеров.</MiscDesc>
         <Count>1</Count>
       </Mod>
       <Mod>
-        <MiscDesc>Adds [BOOST] to any attempt  to locate the use of a data breaker in a computer system</MiscDesc>
+        <MiscDesc>Добавьте [BOOST] к любым попыткам обнаружить использование взломщика данных в компьютерной системе.</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>DATADEADDROP</Key>
-    <Name>Data Dead Drop</Name>
+    <Name>Тайник данных (Data Dead Drop)</Name>
     <Description>
-      [H3]Data Dead Drop[h3]
+      [H3]Тайник данных[h3]
 
-A common and relatively cheap tool of embedded agents and informants, a data dead drop enables the covert exchange of a datachip or some other form of encoded message. One operative hides the information in a concealed compartment in a relatively commonplace item such as a glowlamp or datapad. Later, a second operative collects the item. Ideally, the covert agents do not draw attention, and any others casually using the device fail to notice the modification.
+Распространенный и относительно дешевый инструмент внедренных агентов и информаторов, тайник данных обеспечивает тайный обмен датачипом или другой формой закодированного сообщения. Один оперативник прячет информацию в скрытом отсеке относительно обыденного предмета, такого как световая лампа или датапад. Позже второй оперативник забирает предмет. В идеале тайные агенты не привлекают внимания, а любые другие, случайно использующие устройство, не замечают модификации.
 
-[P]To find the something hidden within a data dead drop, a character must make a [B]Daunting ([DI][DI][DI][DI]) Perception check[b]. At the GM's discretion, an unaware character might use Vigilance instead.
+[P]Чтобы найти что-то спрятанное в тайнике данных, персонаж должен совершить [B]Пугающую ([DI][DI][DI][DI]) проверку "Внимания"[b]. По усмотрению ГМа, неосведомленный персонаж может вместо этого использовать "Бдительность".
 
-[P][B]Models include:[b] Brennkeyes Syndicate Security Capsule, countless custom-made models. </Description>
+[P][B]Модели включают:[b] Капсула безопасности Синдиката Бреннкис, бесчисленные модели ручной работы. </Description>
     <Source Page="50">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Price>150</Price>
@@ -3643,17 +3643,17 @@ A common and relatively cheap tool of embedded agents and informants, a data dea
     <Type>Security/Espionage</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Requires [B]Daunting ([DI][DI][DI][DI]) Perception check[b] to find something hidden by a data dead drop.</MiscDesc>
+        <MiscDesc>Требуется [B]Пугающая ([DI][DI][DI][DI]) проверку "Внимания"[b] чтобы найти что-то, спрятанное в тайнике для передачи данных.</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>DATAGOG</Key>
-    <Name>Data Goggles</Name>
-    <Description>[H3]Data Goggles[h3]
-[P]These goggles overlay the wearer's field of vision with additional information. That information is typically drawn from the Holonet, although localized sources-including a vehicle sensors-may be used instead. The selected information is customizable, and an interface device is required to manipulate it. When the goggles are used by students, an instructor can send material from a datapad to the students' goggles as appropriate, providing new information as a lesson progresses.'
-[P]At the beginning of an encounter, a character may select one Knowledge skill. For the remainder of the encounter, the character adds automatic [SU] to all checks he makes using that skill while wearing the data goggles. The GM may rule that a character needs to obtain specialized data files to upload into the data goggles before using them.</Description>
+    <Name>Дата очки (Data Goggles)</Name>
+    <Description>[H3]Дата очки[h3]
+[P]Эти очки накладывают дополнительную информацию на поле зрения носителя. Эта информация обычно берется из ГолоНета, хотя вместо этого могут использоваться локальные источники, включая сенсоры транспортного средства. Выбранная информация настраивается, и для управления ею требуется интерфейсное устройство. Когда очки используются студентами, инструктор может отправлять материал с датапада на очки студентов по мере необходимости, предоставляя новую информацию по ходу урока.
+[P]В начале столкновения персонаж может выбрать один навык 'Знаний'. На протяжении оставшейся части столкновения персонаж добавляет автоматический [SU] ко всем проверкам, которые он совершает, используя этот навык, нося дата очки. ГМ может постановить, что персонажу необходимо получить специализированные файлы данных для загрузки в дата очки перед их использованием.</Description>
     <Source Page="49">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
@@ -3664,19 +3664,19 @@ A common and relatively cheap tool of embedded agents and informants, a data dea
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>May add [SU] to checks of a particular Knowledge skill selected before an encounter.</MiscDesc>
+        <MiscDesc>Можно добавлять [SU] к проверкам определенного навыка 'Знаний', выбранного перед столкновением.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>DATAPAD</Key>
-    <Name>Datapad</Name>
+    <Name>Датапад (Datapad)</Name>
     <Description>
-      [H3]Datapad[h3]
+      [H3]Датапад[h3]
 
-Datapads are common on most technologically civilized planets, and are used to record, store, display, and organize almost any kind of data from basic text to holographic recordings. Most come with a small display screen, though some use holoprojectors and are small enough to be easily carried in one or two hands, depending on the model. They are commonly encoded or encrypted so that only the actual owner can operate them; some are even set to wipe all data if unauthorized users attempt access.
+Датапады распространены на большинстве технологически развитых планет и используются для записи, хранения, отображения и организации практически любых данных, от базового текста до голографических записей. Большинство оснащены небольшим дисплеем, хотя некоторые используют голопроекторы и достаточно малы, чтобы их можно было легко держать в одной или двух руках, в зависимости от модели. Они обычно закодированы или зашифрованы, чтобы только фактический владелец мог ими пользоваться; некоторые даже настроены на стирание всех данных, если несанкционированные пользователи попытаются получить доступ.
 
-[P][B]Models Include:[b] Numerous Variants.</Description>
+[P][B]Модели включают:[b] Многочисленные варианты.</Description>
     <Sources>
       <Source Page="181">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="196">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -3690,13 +3690,13 @@ Datapads are common on most technologically civilized planets, and are used to r
   </Gear>
   <Gear>
     <Key>DATAPADMERCH</Key>
-    <Name>Mercantiler Datapad</Name>
+    <Name>Датапад торговца (Mercantiler Datapad)</Name>
     <Description>
-      [H3]Mercantiler Datapad[h3]
+      [H3]Датапад торговца[h3]
 
-Produced by MerenData to meet strong customer demand, the MDD-12 is a less powerful and less versatile version of the onboard Mercantiler computer system equipped in MerenData's Exchequer series commerce droids. This incredibly useful datapad is programmed with region-specific business information, including currency and credit conversion tables, base value listings for a wide variety of traded goods, and a data uplink connected to a region's stock markets and trading houses that grants the user up-to-the-minute information on all goods bought and sold therein.
+Произведенный MerenData для удовлетворения высокого спроса клиентов, MDD-12 представляет собой менее мощную и менее универсальную версию бортовой компьютерной системы "Торговец", которой оснащены торговые дроиды серии 'Казначей' от MerenData. Этот невероятно полезный датапад запрограммирован региональной деловой информацией, включая таблицы конвертации валют и кредитов, списки базовых стоимостей для широкого разнообразия торгуемых товаров и канал передачи данных, подключенный к фондовым рынкам и торговым домам региона, который предоставляет пользователю актуальную информацию обо всех товарах, покупаемых и продаваемых в нем.
 
-[P]When used within the region for which it is programmed—Core Worlds, Inner Rim, Mid Rim, or specific Outer Rim territories—the Mercantiler datapad grants [BO] to any Negotiation skill checks made to buy or sell goods. These datapads grant no bonuses outside of their specific region.</Description>
+[P]При использовании в регионе, для которого он запрограммирован, - Миры Ядра, Внутреннее Кольцо, Среднее Кольцо или определенные территории Внешнего Кольца, - датапад торговца предоставляет [BO] к любым проверкам навыка "Переговоров", выполняемым для покупки или продажи товаров. Эти датапады не предоставляют бонусов за пределами своего конкретного региона.</Description>
     <Source Page="48">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
@@ -3710,11 +3710,11 @@ Produced by MerenData to meet strong customer demand, the MDD-12 is a less power
   </Gear>
   <Gear>
     <Key>DATASPIKE</Key>
-    <Name>Dataspike</Name>
+    <Name>Дата шип (Dataspike)</Name>
     <Description>
-      [H3]Dataspike[h3]
-Dataspikes, also known as slicers' spikes or computer spikes, are a common tool for bypassing computer security. While expert Slicers sometimes craft advanced examples to break into particular systems, a typical dataspike can be put together to work with any computer. Once installed in a sytem, a dataspike releases a barrage of junk data that overwhlems security, allowing the user a window in which  to access the secured systems. Dataspikes are typically designed to byrn out after use, leaving behind minimal evidence.
-[P]Once per round, a character with a dataspike may expend it to attempt to disable a security program as a maneuver (rather than as an action). This can include the use of the Disable Security Program action (see [B]Slicing Encounters,[b]). Reduce the difficulty of the subsequent Computers check to disable the program by 2, to a minimum of [B]Simple (-)[b]. After one use, the dataspike burns out and becomes useless.
+      [H3]Дата шип[h3]
+Дата шипы, также известные как шипы слайсеров или компьютерные шипы, являются распространенным инструментом для обхода компьютерной безопасности. Хотя опытные слайсеры иногда создают продвинутые образцы для взлома определенных систем, типичный дата шип может быть собран для работы с любым компьютером. После установки в систему дата-шип выпускает поток мусорных данных, который перегружает защиту, предоставляя пользователю окно для доступа к защищенным системам. Дата шипы обычно разработаны так, чтобы сгорать после использования, оставляя минимум улик.
+[P]Раз в раунд персонаж с дата шипом может использовать его, чтобы попытаться отключить программу безопасности как маневр (а не как действие). Это может включать использование действия 'Отключение программы безопасности' (см. [B]Столкновения со слайсингом[b]). Уменьшите сложность последующей проверки "Компьютеров" для отключения программы на 2, до минимума [B]Простая (-)[b]. После одного использования дата шип сгорает и становится бесполезным.
     </Description>
     <Sources>
       <Source Page="51">Дополнение: Особые модификации (Special Modifications)</Source>
@@ -3728,22 +3728,22 @@ Dataspikes, also known as slicers' spikes or computer spikes, are a common tool 
     <Type>Slicing Tools</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Once per round, may expend dataspike to attempt to disable a security program as a maneuver, rather than an action.  Reduce difficulty of the Computers check by 2, to a minimum of [B]Simple(—)[b].</MiscDesc>
+        <MiscDesc>Раз в раунд можно использовать дата-шип, чтобы попытаться отключить программу безопасности как маневр, а не как действие. Уменьшите сложность проверки "Компьютеров" на 2, до минимума [B]Простая (—)[b]</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>DEATHSTCARGO</Key>
-    <Name>Death Sticks (100 dose cargo container)</Name>
+    <Name>Палочки смерти (100 доз в контейнере) (Death Sticks (100 dose cargo container))</Name>
     <Description>
-      [H3]Death Sticks[h3]
+      [H3]Палочки смерти[h3]
 
-Death sticks are an unpleasant creation derived from the balo mushroom of the planet of Balosar and distributed in a liquid form in distinctive small red and yellow rods. Though the drug is only mildly hallucinogenic, death sticks are well-named; the active ingredient, Ixetal Cilona, is highly addictive and deleterious to one's health. Each dose tears away an ever-greater portion of one's life while simultaneously tightening the grip of addiction. Death sticks are illegal for obvious reasons, and more than a few smugglers who happily deal in spice or illicit arms avoid running shipments of this particular drug on what they term "moral grounds." Use of death sticks also weakens a person's connection to the Force temporarily, though few users or even dealers are aware of this fact.
+Палочки смерти - неприятное творение, полученное из гриба балo с планеты Балосар и распространяемое в жидкой форме в характерных небольших красных и желтых стержнях. Хотя наркотик лишь слабо галлюциногенен, палочки смерти получили свое название не зря; активный ингредиент, Иксетал Цилона, вызывает сильную зависимость и пагубен для здоровья. Каждая доза отнимает все большую часть жизни, одновременно усиливая хватку зависимости. Палочки смерти незаконны по очевидным причинам, и немало контрабандистов, которые с удовольствием торгуют спайсом или незаконным оружием, избегают перевозок этого конкретного наркотика по, как они выражаются, 'моральным соображениям'. Употребление палочек смерти также временно ослабляет связь человека с Силой, хотя немногие пользователи или даже дилеры знают об этом факте.
 
-[P]Death sticks have a nasty result in the long run, but unless one's campaign runs over the course of decades or a character has had a death stick addiction for some years already, characters are unlikely to experience the truly miserable death these drugs bring about. A life-long addiction to death sticks typically halves the lifespan of most species, though various species are more or less susceptible to the effects of Ixetal Cilona. The short-term effects of a single dose last for one scene or combat encounter and adds [SE] to any task the character attempts, and may reduce the character's connection to the Force in certain ways at the GM's discretion.
+[P]Палочки смерти имеют неприятный результат в долгосрочной перспективе, но если только кампания не длится десятилетиями или персонаж уже не имеет зависимости от палочек смерти на протяжении нескольких лет, персонажи вряд ли испытают поистине жалкую смерть, которую приносят эти наркотики. Пожизненная зависимость от палочек смерти обычно сокращает продолжительность жизни большинства видов вдвое, хотя различные виды более или менее восприимчивы к воздействию Иксетал Цилоны. Краткосрочные эффекты одной дозы длятся одну сцену или боевое столкновение и добавляют [SE] к любой задаче, которую пытается выполнить персонаж, и могут ослабить связь персонажа с Силой определенными способами по усмотрению ГМа.
 
-[P][B]Restrictions:[b] Death sticks are controlled substances on most worlds, and at the very least those under the age of majority cannot purchase them. Death sticks are completely illegal on many other worlds, especially those with high health standards.</Description>
+[P][B]Ограничения:[b] Палочки смерти являются контролируемыми веществами на большинстве миров, и, по крайней мере, лица, не достигшие совершеннолетия, не могут их приобрести. Палочки смерти полностью незаконны на многих других мирах, особенно на тех, где действуют высокие стандарты здоровья.</Description>
     <Source Page="185">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
     <Price>250</Price>
@@ -3754,15 +3754,15 @@ Death sticks are an unpleasant creation derived from the balo mushroom of the pl
   </Gear>
   <Gear>
     <Key>DEATHSTDOSE</Key>
-    <Name>Death Sticks (dose)</Name>
+    <Name>Палочки смерти (Доза) (Death Sticks (dose))</Name>
     <Description>
-      [H3]Death Sticks[h3]
+      [H3]Палочки смерти[h3]
 
-Death sticks are an unpleasant creation derived from the balo mushroom of the planet of Balosar and distributed in a liquid form in distinctive small red and yellow rods. Though the drug is only mildly hallucinogenic, death sticks are well-named; the active ingredient, Ixetal Cilona, is highly addictive and deleterious to one's health. Each dose tears away an ever-greater portion of one's life while simultaneously tightening the grip of addiction. Death sticks are illegal for obvious reasons, and more than a few smugglers who happily deal in spice or illicit arms avoid running shipments of this particular drug on what they term "moral grounds." Use of death sticks also weakens a person's connection to the Force temporarily, though few users or even dealers are aware of this fact.
+Палочки смерти - неприятное творение, полученное из гриба балo с планеты Балосар и распространяемое в жидкой форме в характерных небольших красных и желтых стержнях. Хотя наркотик лишь слабо галлюциногенен, палочки смерти получили свое название не зря; активный ингредиент, Иксетал Цилона, вызывает сильную зависимость и пагубен для здоровья. Каждая доза отнимает все большую часть жизни, одновременно усиливая хватку зависимости. Палочки смерти незаконны по очевидным причинам, и немало контрабандистов, которые с удовольствием торгуют спайсом или незаконным оружием, избегают перевозок этого конкретного наркотика по, как они выражаются, 'моральным соображениям'. Употребление палочек смерти также временно ослабляет связь человека с Силой, хотя немногие пользователи или даже дилеры знают об этом факте.
 
-[P]Death sticks have a nasty result in the long run, but unless one's campaign runs over the course of decades or a character has had a death stick addiction for some years already, characters are unlikely to experience the truly miserable death these drugs bring about. A life-long addiction to death sticks typically halves the lifespan of most species, though various species are more or less susceptible to the effects of Ixetal Cilona. The short-term effects of a single dose last for one scene or combat encounter and adds [SE] to any task the character attempts, and may reduce the character's connection to the Force in certain ways at the GM's discretion.
+[P]Палочки смерти имеют неприятный результат в долгосрочной перспективе, но если только кампания не длится десятилетиями или персонаж уже не имеет зависимости от палочек смерти на протяжении нескольких лет, персонажи вряд ли испытают поистине жалкую смерть, которую приносят эти наркотики. Пожизненная зависимость от палочек смерти обычно сокращает продолжительность жизни большинства видов вдвое, хотя различные виды более или менее восприимчивы к воздействию Иксетал Цилоны. Краткосрочные эффекты одной дозы длятся одну сцену или боевое столкновение и добавляют [SE] к любой задаче, которую пытается выполнить персонаж, и могут ослабить связь персонажа с Силой определенными способами по усмотрению ГМа.
 
-[P][B]Restrictions:[b] Death sticks are controlled substances on most worlds, and at the very least those under the age of majority cannot purchase them. Death sticks are completely illegal on many other worlds, especially those with high health standards.</Description>
+[P][B]Ограничения:[b] Палочки смерти являются контролируемыми веществами на большинстве миров, и, по крайней мере, лица, не достигшие совершеннолетия, не могут их приобрести. Палочки смерти полностью незаконны на многих других мирах, особенно на тех, где действуют высокие стандарты здоровья.</Description>
     <Source Page="185">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
     <Price>5</Price>
@@ -3773,11 +3773,11 @@ Death sticks are an unpleasant creation derived from the balo mushroom of the pl
   </Gear>
   <Gear>
     <Key>DEJARIK</Key>
-    <Name>Dejarik Table</Name>
+    <Name>Стол для дежарика (Dejarik Table)</Name>
     <Description>
-      [H3]Dejarik Table[h3]
+      [H3]Стол для дежарика[h3]
 
-Dejarik, which uses a holographic display table to project playing pieces of real and mythical monsters, is a popular game of skill between two players. The holographic display allows the pieces to "do battle" as a part of the game, and many bystanders enjoy the holographic carnage as much as the actual skill the real players employ.</Description>
+Дежарик, использующий голографический стол для проецирования игровых фигур реальных и мифических монстров, является популярной игрой на мастерство между двумя игроками. Голографический дисплей позволяет фигурам 'сражаться' как часть игры, и многие зрители наслаждаются голографическим кровопролитием не меньше, чем настоящим мастерством, которое демонстрируют игроки.</Description>
     <Source Page="182">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
     <Short>
@@ -3789,13 +3789,13 @@ Dejarik, which uses a holographic display table to project playing pieces of rea
   </Gear>
   <Gear>
     <Key>DEMONMASK</Key>
-    <Name>Demon Mask</Name>
+    <Name>Маска демона (Demon Mask)</Name>
     <Description>
-      [H3]Demon Mask[h3]
+      [H3]Маска демона[h3]
 
-Every species and culture has scary stories of monsters with supernatural powers. While the stories are—usually—only stories, disciples of the dark side throughout history have found value in adopting the imagery of the mythical demons to spread fear in their enemies and fearlessness among their followers. Having been worn by these adepts for generations, some demon masks have become imbued with the dark side of the Force, and grant their wearers certain powers.
+У каждого вида и культуры есть страшные истории о монстрах со сверхъестественными способностями. Хотя эти истории - обычно - лишь истории, последователи темной стороны на протяжении всей истории находили ценность в принятии образов мифических демонов, чтобы сеять страх среди врагов и бесстрашие среди своих последователей. Некоторые маски демонов, которые носили эти адепты на протяжении поколений, пропитались темной стороной Силы и дают своим носителям определенные способности.
 
-[P]A Force-sensitive character wearing a demon mask increases his wound threshold by 2 while he is a dark side Force user. Furthermore, characters making Discipline checks to resist fear caused by a character wearing a demon mask add [SE] equal to that character's Force rating.</Description>
+[P]Чувствительный к Силе персонаж, носящий маску демона, увеличивает свой порог "ранений" на 2, пока он является пользователем Силы темной стороны. Кроме того, персонажи, совершающие проверки "Выдержки" для сопротивления страху, вызванному персонажем в маске демона, добавляют [SE], равный рейтингу Силы этого персонажа.</Description>
     <Source Page="190">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Sources>
       <Source Page="190">Книга правил: Сила и судьба (Force and Destiny)</Source>
@@ -3812,8 +3812,7 @@ Every species and culture has scary stories of monsters with supernatural powers
       </Mod>
       <Mod>
         <MiscDesc>
-          Characters making Discipline checks to resist fear caused by a character
-          wearing a Demon Mask add [SETBACK] equal to that character’s Force rating.
+          Персонажи, совершающие проверки "Выдержки" для сопротивления страху, вызванному персонажем, носящим маску демона, добавляют [SE], равный рейтингу Силы этого персонажа.
         </MiscDesc>
         <Count>1</Count>
       </Mod>
@@ -3821,11 +3820,11 @@ Every species and culture has scary stories of monsters with supernatural powers
   </Gear>
   <Gear>
     <Key>DEMOTOOL</Key>
-    <Name>Demolitions Tool Kit</Name>
+    <Name>Набор саперных инструментов (Demolitions Tool Kit)</Name>
     <Description>
-      [H3]Demolitions Tool Kit[h3]
-An essential part of any explosive ordnance disposal (EOD) trooper's gear, this kit is small (roughly thirteen centimeters long closed) and constructed of nonreactive, nonconductive materials. When it is unfolded, myriad specialized tools designed for working with explosives are revealed. A typical version contains a pair of pliers, cutters for both stranded and fuse wire, a cap crimper, multiple cutting blades, an electrical crimper, and a blasting cap crimper. In addition, many of them feature extensions that function as small hammers, carbon scrapers, bit drivers, detonite punches, and various other demolitions-related implements. While this item is not as comprehensive and effective as a full EOD tool kit, it still provides the essential tools needed to properly and safely work With explosive devices and compounds in a small and convenient package.
-[P]A demolitions tool kit counts as a tool kit for checks involving preparing, setting, or defusing explosives. When using it for these checks, the wielder may spend [AD][AD][AD][AD] to remove [DE].</Description>
+      [H3]Набор саперных инструментов[h3]
+Неотъемлемая часть снаряжения любого сапера, этот набор мал (примерно тринадцать сантиметров в длину в закрытом состоянии) и изготовлен из нереактивных, непроводящих материалов. В развернутом виде открывается множество специализированных инструментов, предназначенных для работы со взрывчаткой. Типичная версия содержит плоскогубцы, кусачки для многожильного и плавкого провода, обжим для капсюлей, несколько режущих лезвий, электрический обжим и обжим для детонаторов. Кроме того, многие из них оснащены насадками, которые функционируют как маленькие молотки, углеродные скребки, отвертки для бит, пробойники для детонита и различные другие инструменты, связанные с подрывным делом. Хотя этот предмет не так полон и эффективен, как полный набор саперных инструментов, он по-прежнему предоставляет основные инструменты, необходимые для правильной и безопасной работы со взрывными устройствами и составами в небольшом и удобном пакете.
+[P]Набор саперных инструментов считается набором инструментов для проверок, связанных с подготовкой, установкой или обезвреживанием взрывчатки. При использовании его для этих проверок владелец может потратить [AD][AD][AD][AD], чтобы убрать [DE].</Description>
     <Source Page="47">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
@@ -3834,22 +3833,22 @@ An essential part of any explosive ordnance disposal (EOD) trooper's gear, this 
     <Rarity>3</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>Counts as a tool kit when dealing with explosives.</MiscDesc>
+        <MiscDesc>Считается набором инструментов при работе со взрывчатыми веществами.</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>May spend [AD][AD][AD][AD] on a check to remove one rolled [DE].</MiscDesc>
+        <MiscDesc>Можно потратить [AD][AD][AD][AD] на проверку, чтобы удалить один выпавший [DE].</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>DENTOX</Key>
-    <Name>Dendriton Toxin</Name>
+    <Name>Дендритовый токсин (Dendriton Toxin)</Name>
     <Description>
-      [H3]Dendriton Toxin[h3]
+      [H3]Дендритовый токсин[h3]
 
-Dendriton toxin is an exceedingly lethal neurotoxin favored by assassins who prefer their victims to suffer. Once exposed to the poison, the victim begins to suffer fatigue and dull pain, which gradually increases until he is paralyzed and in agony.
+Дендритовый токсин - чрезвычайно смертоносный нейротоксин, предпочитаемый убийцами, которые хотят, чтобы их жертвы страдали. После воздействия яда жертва начинает испытывать усталость и тупую боль, которая постепенно усиливается, пока он не будет парализован и не окажется в агонии.
 
-[P]Any sized dose has a [B]Daunting ([DI][DI][DI][DI]) difficulty[b]. If the target fails the check, the poison inflicts 1 strain at the end of his next turn, 3 strain at the end of his subsequent turn, and 5 strain at the end of the turn after that one (this ignores soak). In addition, the target suffers [SE] to any check he attempts while under the effects of the poison, and each [TH] he generates on those checks inflicts 1 additional strain (this ignores soak) as the target is wracked with pain and violent muscle spasms. The GM may spend [DE] on the initial Resilience check to make the target make another check against the poison at the end of his third turn or suffer an additional 5 strain (this ignores soak) as the poison torments him.</Description>
+[P]Доза любого размера имеет [B]Пугающую ([DI][DI][DI][DI]) сложность проверки[b]. Если цель проваливает проверку, яд наносит 1 "усталость" в конце его следующего хода, 3 "усталости" в конце его последующего хода и 5 "усталостей" в конце хода после этого (игнорируя поглощение). Кроме того, цель получает [SE] к любой проверке, которую он пытается выполнить, находясь под воздействием яда, и каждый [TH], который он генерирует при этих проверках, наносит 1 дополнительную "усталость" (игнорируя поглощение), поскольку цель терзается болью и сильными мышечными спазмами. ГМ может потратить [DE] при начальной проверке "Стойкости", чтобы заставить цель совершить еще одну проверку против яда в конце его третьего хода или получить дополнительные 5 "усталостей" (игнорируя поглощение), поскольку яд терзает его.</Description>
     <Source Page="109">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <Encumbrance>0</Encumbrance>
@@ -3859,19 +3858,19 @@ Dendriton toxin is an exceedingly lethal neurotoxin favored by assassins who pre
     <Type>Poisons</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>[B]Daunting ([DI][DI][DI][DI]) Resilience Check[b].  Fail: Inflicts 1 strain, 3 strain next turn, 5 strain turn after that.  Suffer [SETBACK] on all checks.  Each [THREAT] inflicts 1 more strain.  [DESPAIR]: Make another check on third turn or suffer 5 more strain.</MiscDesc>
+        <MiscDesc>[B]Пугающая ([DI][DI][DI][DI]) проверка "Стойкости"[b].  Провал: Наносит 1 единицу "усталости", 3 единицы "усталости" в следующем ходу, 5 единиц "усталости" в ходу после этого. Так же добавляется [SETBACK] на все проверки.  Каждая [THREAT] наносит на 1 единицу "усталости" больше.  [DESPAIR]: На третьем ходу выполните ещё одну проверку, иначе получите ещё 5 единиц "усталости".</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>DESTRO6CHARGE</Key>
-    <Name>Destro-6 Demolition Charge</Name>
+    <Name>Подрывной заряд Destro-6 (Destro-6 Demolition Charge)</Name>
     <Description>
-      [H3]Destro-6 Demolition Charge[h3]
-These shaped detonite charges are favored for sabotage missions and clandestine raids: situations with hardened targets but limited actual fighting. Setting up the charges takes time and precision, although a sufficiently confident demolitionist can speed matters up by disabling certain safeties. Once in place, charges can be detonated via timer, with delays of up to six hours, or by a remote signal. Properly placed charges are capable of incapacitating armored vehicles or blasting major breaches in a fortification.
-[P]Setting up one or more Destro-6 charges with the safeties fully engaged requires an [B]Easy ([DI]) Mechanics[b] check and takes five minutes per charge. Disabling the safeties for a batch of charges halves the time required, but increases the difficulty of the check to [B]Hard ([DI][DI][DI])[b]. The GM may spend [TH][TH][TH], or [DE] on any Mechanics check using charges with disabled safety features to cause a premature detonation.
-[P}When a charge detonates, it deals 20 damage with the Breach 1 quality to every character and vehicle within short range. Each additional charge used increases the base damage by 5.</Description>
+      [H3]Подрывной заряд Destro-6[h3]
+Эти кумулятивные детонитовые заряды предпочитают для диверсионных миссий и тайных рейдов: ситуаций с укрепленными целями, но ограниченными боевыми действиями. Установка зарядов требует времени и точности, хотя достаточно уверенный подрывник может ускорить дело, отключив некоторые предохранители. После установки заряды могут быть приведены в действие по таймеру с задержкой до шести часов или по дистанционному сигналу. Правильно установленные заряды способны вывести из строя бронетехнику или пробить крупные проломы в укреплении.
+[P]Установка одного или нескольких зарядов Destro-6 с полностью включенными предохранителями требует [B]Легкой ([DI]) проверки "Механики"[b] и занимает пять минут на заряд. Отключение предохранителей для партии зарядов сокращает требуемое время вдвое, но увеличивает сложность проверки до [B]Сложная ([DI][DI][DI])[b]. ГМ может потратить [TH][TH][TH] или [DE] при любой проверке "Механики" с использованием зарядов с отключенными предохранителями, чтобы вызвать преждевременную детонацию.
+[P]Когда заряд детонирует, он наносит 20 урона с качеством "Breach 1" каждому персонажу и транспортному средству в пределах короткой дальности. Каждый дополнительный использованный заряд увеличивает базовый урон на 5.</Description>
     <Source Page="59">Дополнение: Восстание сепаратистов (Rise of the Separatists)</Source>
     <Custom>DescOnly</Custom>
     <Price>750</Price>
@@ -3881,10 +3880,10 @@ These shaped detonite charges are favored for sabotage missions and clandestine 
     <Type>Construction/Salvage Tools</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Setup requires an [B]Easy ([DI]) Mechanics check[b] and takes 5 minutes.  Disabling safeties takes half the time, but increases difficulty to [B]Hard ([DI][DI][DI])[b].</MiscDesc>
+        <MiscDesc>Установка требует проведения [B]Легкой ([DI]) проверки "Механики"[b] и занимает 5 минут. Отключение систем безопасности сокращает время детонации вдвое, но повышает уровень сложности до [B]Сложной ([DI][DI][DI])[b].</MiscDesc>
       </Mod>
       <Mod>
-        <MiscDesc>GM may spend [TH][TH][TH] or [DE] on check with disabled safeties to cause premature detomation.</MiscDesc>
+        <MiscDesc>ГМ может потратить [TH][TH][TH] или[DE], чтобы вызвать преждевременную детонацию.</MiscDesc>
       </Mod>
     </BaseMods>
     <WeaponModifiers>
@@ -3906,13 +3905,13 @@ These shaped detonite charges are favored for sabotage missions and clandestine 
         </Qualities>
         <BaseMods>
           <Mod>
-            <MiscDesc>Setup requires an [B]Easy ([DI]) Mechanics check[b] and takes 5 minutes.  Disabling safeties takes half the time, but increases difficulty to [B]Hard ([DI][DI][DI])[b].</MiscDesc>
+            <MiscDesc>Установка требует проведения [B]Легкой ([DI]) проверки "Механики"[b] и занимает 5 минут. Отключение систем безопасности сокращает время детонации вдвое, но повышает уровень сложности до [B]Сложной ([DI][DI][DI])[b].</MiscDesc>
           </Mod>
           <Mod>
-            <MiscDesc>GM may spend [TH][TH][TH] or [DE] on check with disabled safeties to cause premature detomation.</MiscDesc>
+            <MiscDesc>ГМ может потратить [TH][TH][TH] или[DE], чтобы вызвать преждевременную детонацию.</MiscDesc>
           </Mod>
           <Mod>
-            <MiscDesc>Each additional charge increases base damage by 5.</MiscDesc>
+            <MiscDesc>Каждый дополнительный заряд увеличивает базовый урон на 5.</MiscDesc>
           </Mod>
         </BaseMods>
       </WeaponModifier>
@@ -3920,11 +3919,11 @@ These shaped detonite charges are favored for sabotage missions and clandestine 
   </Gear>
   <Gear>
     <Key>DF15FUSIONGEN</Key>
-    <Name>DF-15 Medium-Yield Fusion Generator</Name>
+    <Name>Термоядерный генератор средней мощности Draxton DF-15 (DF-15 Medium-Yield Fusion Generator)</Name>
     <Description>
-      [H3]Draxton DF-15 Medium-Yield Fusion Generator[h3]
-The DF-15 is a small fusion generator designed to power worksites or small buildings. It is a small cube roughly half a meter square with a number of universal power couplings on each face. The unit is surrounded by a sturdy frame made of bent alloy tubing that provides protection and handles for easy carrying. It is lightweight, quiet, and efficient and provides clean, stable power for up to ten years.
-[P]As a maneuver, a character may use a DF-15 to recharge an energy weapon or device that has run out of power or ammunition in the manner of an extra reload/power pack.</Description>
+      [H3]Термоядерный генератор средней мощности Draxton DF-15[h3]
+DF-15 - небольшой термоядерный генератор, предназначенный для энергоснабжения рабочих площадок или небольших зданий. Он представляет собой небольшой куб примерно полметра по стороне с несколькими универсальными силовыми разъемами на каждой грани. Устройство окружено прочной рамой из гнутых трубок из сплава, которая обеспечивает защиту и ручки для удобной переноски. Он легкий, тихий и эффективный и обеспечивает чистую, стабильную энергию на срок до десяти лет.
+[P]В качестве маневра персонаж может использовать DF-15 для перезарядки энергетического оружия или устройства, исчерпавшего энергию или боеприпасы, подобно дополнительной перезарядке/энергоячейке.</Description>
     <Source Page="47">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
@@ -3933,26 +3932,18 @@ The DF-15 is a small fusion generator designed to power worksites or small build
     <Rarity>4</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>As a maneuver, generator may be used to recharge an item or energy weapon in same manner as extra reloads.</MiscDesc>
+        <MiscDesc>В качестве маневра генератор можно использовать для перезарядки предмета или энергетического оружия так же, как и дополнительные патроны.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>DH77HEADCOMM</Key>
-    <Name>DH77 Headcomm</Name>
+    <Name>Гарнитура DH77 (DH77 Headcomm)</Name>
     <Description>
-      [H3]DH77 Headcomm[h3]
-Standard issue for Imperial Army platoon leaders and
-also found inside storm trooper helmets, SoroSuub’s
-DH77 Headcomm is an easy-to-use system with complex encryption subroutines. Codes rotate periodically, and Imperial battlefield management systems keeps encryption synchronized.
-[P]Unfortunately, the low energy requirements set by
-the Empire for the comlink means the signal strength
-is poor, leaving it susceptible to interference from
-explosions, ion engines, and jamming. After the Battle
-of Yavin, Imperials began replacing the DH77 w ith the
-Herzfall Corporation DH107, which boosts power to
-mitigate DH77 ’s vulnerabilities.
-[P]This comlink transmits up to medium range on the planetary scale. The DH77's constantly shifting encryption adds [SE][SE][SE] to any attempt to intercept and unscramble the signal.</Description>
+      [H3]Гарнитура DH77[h3]
+Табельное снаряжение командиров взводов Имперской армии, также встречающееся внутри шлемов штурмовиков, гарнитура DH77 от SoroSuub представляет собой простую в использовании систему со сложными подпрограммами шифрования. Коды периодически меняются, а имперские системы управления полем боя поддерживают синхронизацию шифрования.
+[P]К сожалению, низкие требования к энергии, установленные Империей для комлинка, означают, что сила сигнала слаба, что делает его подверженным помехам от взрывов, ионных двигателей и глушения. После Битвы при Явине имперцы начали заменять DH77 на DH107 от Herzfall Corporation, который усиливает мощность для устранения уязвимостей DH77.
+[P]Этот комлинк передает на расстояние до средней дальности в планетарном масштабе. Постоянно меняющееся шифрование DH77 добавляет [SE][SE][SE] к любой попытке перехватить и расшифровать сигнал.</Description>
     <Source Page="52">Дополнение: Закаленные в битве (Forged in Battle)</Source>
     <Custom>DescOnly</Custom>
     <Type>Communications</Type>
@@ -3963,25 +3954,25 @@ mitigate DH77 ’s vulnerabilities.
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Transmits up to medium range on planetary scale.</MiscDesc>
+        <MiscDesc>Обеспечивает связь на расстояния до средней дальности в планетарном масштабе.</MiscDesc>
       </Mod>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>Add [SE][SE][SE] to any attempt to intercept and unscramble its signal.</MiscDesc>
+        <MiscDesc>Добавьте [SE][SE][SE] к любой попытке перехватить и расшифровать его сигнал.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>DIGITALLOCKPICK</Key>
-    <Name>Digital Lockpick</Name>
+    <Name>Цифровая отмычка (Digital Lockpick)</Name>
     <Description>
-      [H3]Digital Lockpick[h3]
+      [H3]Цифровая отмычка[h3]
 
-Some smugglers and thieves find that it pays not only to keep a lockpick in hand in a figurative sense, but also in a more literal fashion. A digital lockpick is a cybernetic appendage, usually a finger, equipped with a number of small tools that assist in cracking both physical and electronic locks.
+Некоторые контрабандисты и воры считают, что выгодно держать отмычку под рукой не только в переносном смысле, но и в более буквальном. Цифровая отмычка - это кибернетический придаток, обычно палец, оснащенный рядом маленьких инструментов, помогающих во взломе как физических, так и электронных замков.
 
-[P]A digital lockpick provides 1 rank of the Bypass Security talent (see page 133 of the [B]Edge of the Empire[b] Core Rulebook).
+[P]Цифровая отмычка предоставляет 1 ранг таланта "Обход защиты" (см. страницу 133 книги правил [B]Край Империи[b]).
 
-[P][B]Models Include:[b] Celta-corp "Jailbreak" cyberpick.</Description>
+[P][B]Модели включают:[b] Киберотмычка Celta-corp "Jailbreak".</Description>
     <Source Page="48">Дополнение: Непринужденный полет (Fly Casual)</Source>
     <Custom>DescOnly</Custom>
     <Type>Cybernetics</Type>
