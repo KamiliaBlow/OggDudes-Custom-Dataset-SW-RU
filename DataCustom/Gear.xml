@@ -3991,13 +3991,13 @@ DF-15 - небольшой термоядерный генератор, пред
   </Gear>
   <Gear>
     <Key>DIOXIS</Key>
-    <Name>Dioxis Gas</Name>
+    <Name>Газ диоксис (Dioxis Gas)</Name>
     <Description>
-      [H3]Dioxis Gas[h3]
+      [H3]Газ диоксис[h3]
 
-Used since before the Clone Wars, dioxis can be lethal to most carbon-based life forms within less than one minute following exposure. The greenish gas was used extensively by the Separatists' droid armies, which were immune to it. The gas has since seen use by mercenaries and assassins unconcerned with high body counts.
+Используемый еще до Войн клонов, диоксис может быть смертельным для большинства углеродных форм жизни менее чем за минуту после воздействия. Зеленоватый газ широко использовался армиями дроидов сепаратистов, которые были невосприимчивы к нему. С тех пор газ использовался наемниками и убийцами, не обеспокоенными большим количеством жертв.
 
-[P]A single dose of dioxis has a [B]Hard ([DI][DI][DI]) difficulty[b], while two or more doses combined have a [B]Daunting ([DI][DI][DI][DI]) difficulty[b]. The poison inflicts 5 wounds if the target fails a check at the relevant difficulty (this ignores soak). In addition, each [TH] generated inflicts 2 strain on the target (this ignores soak), who becomes overwhelmed by the nausea and muscle spasms caused by the choking gas. The gas lingers in the air for up to 3 rounds unless dissipated by high winds.</Description>
+[P]Одна доза диоксиса имеет требует [B]Сложную ([DI][DI][DI]) проверку "Стойкости"[b], тогда как две или более доз, объединенных вместе, имеют [B]Пугающую ([DI][DI][DI][DI])[b] сложность. Яд наносит 5 "ранений", если цель проваливает проверку на соответствующей сложности (игнорируя поглощение). Кроме того, каждый полученный в ходе броска [TH] наносит 2 "усталости" цели (игнорируя поглощение), которая оказывается охвачена тошнотой и мышечными спазмами, вызванными удушающим газом. Газ остается в воздухе до 3 раундов, если не рассеивается сильным ветром.</Description>
     <Source Page="109">Дополнение: Лорды Нал-Хатта (Lords of Nal Hutta)</Source>
     <Custom>DescOnly</Custom>
     <Encumbrance>0</Encumbrance>
@@ -4007,20 +4007,20 @@ Used since before the Clone Wars, dioxis can be lethal to most carbon-based life
     <Type>Poisons</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>[B]Hard ([DI][DI][DI])[b] (1 dose) or [B]Daunting ([DI][DI][DI][DI])[b] (2+ doses) [B]Resilience Check[b].  Fail:  Inflicts 5 wound.  Each [THREAT] inflicts 2 strain.  Lasts 3 rounds.</MiscDesc>
+        <MiscDesc>[B]Сложная ([DI][DI][DI])[b] (1 доза) или [B]Пугающая ([DI][DI][DI][DI])[b] (2+ дозы) [B]проверка "Стойкости"[b].  Провал:  Наносится 5 "ранений".  Каждый [THREAT] наносит 2 "усталости". Остается до 3х раундов.</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>DIPLAUTH</Key>
-    <Name>Diplomatic Authorization</Name>
+    <Name>Дипломатические полномочия (Diplomatic Authorization)</Name>
     <Description>
-      [H3]Diplomatic Authorizationp[h3]
+      [H3]Дипломатические полномочия[h3]
 
-Most local governments are reluctant to chastise or otherwise infringe upon another government's chosen delegates, and sometimes diplomats can use this to their advantage. Whether traveling on a diplomatic mission, conveying an important message, or simply bringing some sample products from their homeworld, diplomatic authorization grants wiggle room that can keep eyes off a diplomat's true purpose.
+Большинство местных правительств неохотно наказывают или иным образом ущемляют избранных делегатов другого правительства, и иногда дипломаты могут использовать это в своих интересах. Будь то поездка с дипломатической миссией, доставка важного послания или просто перевозка образцов продукции с родного мира, дипломатические полномочия предоставляют пространство для маневра, которое может отвлечь внимание от истинных целей дипломата.
 
-[P]A character with diplomatic authorization adds automatic [AD][AD] to all social checks involving members of a foreign government, and can often get access to individuals and services within that government that would otherwise be unavailable. Unless lawfully granted by an authorized body, however, this item can only be acquired illegally.</Description>
+[P]Персонаж с дипломатическими полномочиями добавляет автоматические [AD][AD] ко всем социальным проверкам, связанным с членами иностранного правительства, и часто может получить доступ к лицам и услугам внутри этого правительства, которые в противном случае были бы недоступны. Однако, если этот предмет не был законно выдан уполномоченным органом, его можно приобрести только незаконным путем.</Description>
     <Source Page="51">Дополнение: Отчаянные союзники (Desperate Allies)</Source>
     <Custom>DescOnly</Custom>
     <Price>10000</Price>
@@ -4030,18 +4030,18 @@ Most local governments are reluctant to chastise or otherwise infringe upon anot
     <Type>Security/Espionage</Type>
     <BaseMods>
       <Mod>
-        <MiscDesc>Grants automatic [AD][AD] to all social checks involving foreign governments and access to individuals and services in those governments.</MiscDesc>
+        <MiscDesc>Добавляйте автоматические [AD][AD] ко всем социальным проверкам, связанным с иностранными правительствами, и доступ к лицам и услугам внутри этих правительств.</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>DISASTERKIT</Key>
-    <Name>Disaster Relief Kit</Name>
+    <Name>Набор помощи при катастрофах (Disaster Relief Kit)</Name>
     <Description>
-      [H3]Disaster Relief Kit[h3]
-These compact containers for use in relief efforts when catastrophe strikes inhabited regions, fom the largest cities to the most isolated villages. They contain basic ration packs capable of sustaining four individuals for up to a week, along with a limited selection of first aid essentials. Also inside is a rugged micro-generator fueled for a week's worth of operation, enough to power a lamp, miniature stove, water purifier, and other essential tools. Chemically treated duraplast casing surround the contents, sealing them agains any contaimination and waterproofing the interior. The cases can also double as water and food storage units ro even personal flotation devices in an emergency.
-[P]A single disaster relief kit can sustain the basic needs of four indivduals of most known species for a week, or potentially up to ten days with careful rationing.</Description>
+      [H3]Набор помощи при катастрофах[h3]
+Эти компактные контейнеры используются при ликвидации последствий стихийных бедствий, обрушившихся на населенные регионы - от крупнейших городов до самых отдаленных деревень. Они содержат базовые сухпайки, способные прокормить четырех человек в течение недели, а также ограниченный набор основных средств первой помощи. Внутри также находится надежный микрогенератор с запасом топлива на неделю работы, мощности которого достаточно для питания лампы, миниатюрной плитки, очистителя воды и других жизненно важных приборов. Содержимое окружено корпусом из химически обработанного дюрапласта, который защищает его от любых загрязнений и делает внутреннее пространство водонепроницаемым. В экстренной ситуации эти контейнеры также могут служить емкостями для хранения воды и пищи или даже индивидуальными плавсредствами.
+[P]Один комплект средств помощи при катастрофах способен обеспечить основные потребности четырёх особей большинства известных видов в течение недели или, при бережном расходовании, потенциально до десяти дней.</Description>
     <Source Page="50">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Tools/Electronics</Type>
@@ -4052,19 +4052,19 @@ These compact containers for use in relief efforts when catastrophe strikes inha
     <BaseMods>
       <Mod>
         <Count>1</Count>
-        <MiscDesc>May sustain a character for a week to ten days with rationing.</MiscDesc>
+        <MiscDesc>При рациональном расходовании может обеспечить пропитание персонажа на срок от недели до десяти дней.</MiscDesc>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>DISGU</Key>
-    <Name>Disguise Kit</Name>
+    <Name>Набор для маскировки (Disguise Kit)</Name>
     <Description>
-      [H3]Disguise Kit[h3]
+      [H3]Набор для маскировки[h3]
 
-Despite what are undoubtedly stunning features (or because of them), there are many times when an individual needs to look less like himself. Disguise kits contain the means to make this happen, with makeup, false hairpieces, iris chromatics, and even falseprint skins and DNA cloaks in advanced kits. Other kits can contain practical camouflage gear for urban and field settings, for blending into surroundings rather than with other people. There are numerous disguise kits made across the galaxy, especially since many must be made for a specific type of species. However, they all contain similar materials and share similar costs.
+Несмотря на несомненно привлекательную внешность (или именно из-за нее), часто возникают ситуации, когда индивиду нужно изменить свою внешность до неузнаваемости. Наборы для маскировки содержат все необходимое для этого: грим, парики и накладки, цветные линзы, а в продвинутых комплектах - даже накладки для отпечатков и ДНК-плащи. Другие наборы могут включать практичное камуфляжное снаряжение для городских и полевых условий, позволяющее сливаться с окружением, а не с другими людьми. По всей галактике производится множество наборов для маскировки, тем более что многие из них создаются с учетом анатомии конкретных видов. Тем не менее, все они содержат схожие материалы и имеют примерно одинаковую стоимость.
 
-[P][B]Models Include:[b] Numerous Variants.</Description>
+[P][B]Модели включают:[b] Многочисленные варианты.</Description>
     <Sources>
       <Source Page="178">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="194">Книга правил: Эпоха восстания (Age of Rebellion)</Source>
@@ -4078,13 +4078,13 @@ Despite what are undoubtedly stunning features (or because of them), there are m
   </Gear>
   <Gear>
     <Key>DISTRESSBCN</Key>
-    <Name>PED-21 Personal Distress Beacon</Name>
+    <Name>Персональный аварийный маяк PED-21 (PED-21 Personal Distress Beacon)</Name>
     <Description>
-      [H3]PED-21 Personal Distress Beacon[h3]
+      [H3]Персональный аварийный маяк PED-21[h3]
 
-Ubiquitous among spacers, explorers, and other professionals in the galaxy, the PED-21 is a personal emergency distress beacon carried in case of accident or misfortune. Around the size of a glow rod and weighing next to nothing, the PED-21 uses a high-powered, long-range transmitter to broadcast a short, constantly repeating emergency message across all common search-and-rescue comm frequencies. The PED-21 can be programmed to repeat its message in up to twelve preprogrammed languages and has a power-pack life of seventy-two standard hours. It can be manually triggered or linked to a monitoring system, such as those found in survival suits or sealed armor, and set to activate automatically when the wearer's bio signs reach a preprogrammed threshold. The signal broadcast by the PED-21 can be picked up from low orbit on most worlds and from many kilometers away depending on atmospheric conditions, terrain, and a number of other variables.
+Повсеместно распространенный среди космонавтов, исследователей и других профессионалов в галактике, PED-21 представляет собой персональный аварийный маяк, который носят на случай аварии или несчастья. Размером примерно со светящийся стержень и почти ничего не весящий, PED-21 использует мощный передатчик большого радиуса действия для передачи короткого, постоянно повторяющегося аварийного сообщения на всех распространенных поисково-спасательных частотах связи. PED-21 можно запрограммировать на повторение сообщения на двенадцати предварительно заданных языках, а его энергоблока хватает на семьдесят два стандартных часа. Его можно активировать вручную или подключить к системе мониторинга, такой как те, что используются в скафандрах или герметичной броне, и настроить на автоматическое срабатывание, когда жизненные показатели носителя достигнут заранее заданного порога. Сигнал, передаваемый PED-21, может быть принят с низкой орбиты на большинстве миров и на расстоянии многих километров в зависимости от атмосферных условий, рельефа и ряда других факторов.
 
-[P]Anyone searching for an individual with an active PED-21 gains [BO][BO] to any Perception, Computers, or Surveillance checks made in the course of the search.</Description>
+[P]Любой, кто ищет человека с активным PED-21, получает [BO][BO] к любым проверкам "Восприятия", "Компьютеров" или отслеживания (surveillance), совершаемым в ходе поиска.</Description>
     <Source Page="50">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Type>Survival</Type>
@@ -4095,29 +4095,17 @@ Ubiquitous among spacers, explorers, and other professionals in the galaxy, the 
     <Rarity>1</Rarity>
     <BaseMods>
       <Mod>
-        <MiscDesc>Searchers gain [BOOST][BOOST] to any Perception, Computers, or Surveillance checks made in the course of the search</MiscDesc>
+        <MiscDesc>Ищущие получают [BO][BO] к любым проверкам "Внимания", "Компьютеров" или отслеживания (surveillance), совершаемым в ходе поиска.</MiscDesc>
         <Count>1</Count>
       </Mod>
     </BaseMods>
   </Gear>
   <Gear>
     <Key>DRESSUNI</Key>
-    <Name>Dress Uniform</Name>
+    <Name>Парадная форма (Dress Uniform)</Name>
     <Description>
-      [H3]Dress Uniform[h3]
-Equal parts formal attire from a variety of worlds and
-functional military uniform, an assortment of dress
-uniforms are worn for ceremonial purposes by Alliance
-Military personnel. Like standard working uniforms
-within the Alliance Military, dress uniforms are a mix of Imperial military surplus and the uniforms of
-the various Alliance member species. While they do
-exist, official dress uniforms are rarely worn by Alliance
-personnel due to the lack of common standards
-and a reluctance by some cultures to give up the
-traditions and trappings of their own militaries. This
-is slowly changing, however, as the Alliance Military
-becomes more organized and uniform guidelines filter
-down from High Command.
+      [H3]Парадная форма[h3]
+Сочетая в равной мере официальную одежду с различных миров и функциональную военную форму, разнообразные парадные мундиры носятся военнослужащими Альянса в церемониальных целях. Как и стандартная полевая форма в армии Альянса, парадное обмундирование представляет собой смесь излишков имперского военного имущества и формы различных видов-членов Альянса. Хотя они и существуют, официальные парадные мундиры редко носятся личным составом Альянса из-за отсутствия единых стандартов и нежелания некоторых культур отказываться от традиций и атрибутики собственных вооруженных сил. Однако ситуация постепенно меняется по мере того, как армия Альянса становится более организованной, а единые стандарты формы спускаются от Высшего командования.
     </Description>
     <Source Page="44">Дополнение: Лидерство на примере (Lead by Example)</Source>
     <Custom>DescOnly</Custom>
@@ -4129,13 +4117,13 @@ down from High Command.
   </Gear>
   <Gear>
     <Key>DROID87RMCOLL</Key>
-    <Name>87-RM Scout Collector Droid</Name>
+    <Name>Разведывательный дроид-сборщик 87-RM (87-RM Scout Collector Droid)</Name>
     <Description>
-      [H3]SoroSuub Corporation 87-RM Scout Collector Droid[h3]
+      [H3]Разведывательный дроид-сборщик 87-RM корпорации SoroSuub[h3]
 
-The 87-RM Scout Collector and Wanderer Scout Surveyor are companion droid units designed to work together in concert. Produced by SoroSuub after the original manufacturer (Serv-O-Droid, Inc.) went out of business, the 87-RM is an independent droid unit designed to aid frontier biologists and botanists in locating and capturing new and exotic biological specimens.
+Дроид-сборщик 87-RM и разведчик-геодезист "Странник" - это дроиды-компаньоны, разработанные для совместной работы. Выпущенный корпорацией SoroSuub после банкротства первоначального производителя (Serv-O-Droid, Inc.), 87-RM представляет собой автономного дроида, предназначенного для помощи биологам и ботаникам на фронтире в поиске и поимке новых и экзотических биологических образцов.
 
-[P]The 87-RM resembles a large (2.5 meters high) box, hovering off the ground on repulsorlifts. This boxy form is necessary; the 87-RM's guts contain a cryogenic cubical storage container large enough to hold—and flash-freeze into cryogenic hibernation—a Tatooine dewback. The 87-RM grabs stunned specimens with its heavy-lifting servo-arms and places them inside the container for freezing and transport.</Description>
+[P]87-RM напоминает большой (высотой 2,5 метра) ящик, парящий над землей на репульсорных подъемниках. Эта угловатая форма необходима: внутри 87-RM находится криогенный контейнер кубической формы, достаточно просторный, чтобы вместить татуинского рососпинника и мгновенно заморозить его, погрузив в криогенный анабиоз. С помощью мощных сервоманипуляторов 87-RM захватывает оглушенных особей и помещает их в контейнер для заморозки и транспортировки.</Description>
     <Source Page="57">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Price>6000</Price>
@@ -4146,13 +4134,13 @@ The 87-RM Scout Collector and Wanderer Scout Surveyor are companion droid units 
   </Gear>
   <Gear>
     <Key>DROID87RMSURV</Key>
-    <Name>Wanderer Scout Surveyor Droid</Name>
+    <Name>Разведывательный дроид-геодезист "Странник" (Wanderer Scout Surveyor Droid)</Name>
     <Description>
-      [H3]SoroSuub Corporation 87-RM Scout Surveyor Droid[h3]
+      [H3]Разведывательный дроид-геодезист 87-RM корпорации SoroSuub[h3]
 
-The 87-RM Scout Collector and Wanderer Scout Surveyor are companion droid units designed to work together in concert. Produced by SoroSuub after the original manufacturer (Serv-O-Droid, Inc.) went out of business, the 87-RM is an independent droid unit designed to aid frontier biologists and botanists in locating and capturing new and exotic biological specimens.
+Дроид-сборщик 87-RM и разведчик-геодезист "Странник" - это дроиды-компаньоны, разработанные для совместной работы. Выпущенный корпорацией SoroSuub после банкротства первоначального производителя (Serv-O-Droid, Inc.), 87-RM представляет собой автономного дроида, предназначенного для помощи биологам и ботаникам на фронтире в поиске и поимке новых и экзотических биологических образцов.
 
-[P]The Wanderer Scout Surveyor is a slightly smaller (roughly human sized) droid with a spherical body and up to eight spidery legs. Their design allows for remarkable speed and agility, enabling them to track targets and incapacitate them with a powerful stun blaster. Once unconscious, the 87-RM swoops in to gather the specimen. A single 87-RM usually carries one to three Wanderers, and the droids can work in concert to herd and track down their prey.</Description>
+[P]Разведчик-геодезист "Странник" - это чуть меньший по размеру (примерно человеческого роста) дроид с шарообразным телом и вплоть до восьми паучьих ног. Его конструкция обеспечивает выдающуюся скорость и маневренность, позволяя ему выслеживать цели и выводить их из строя мощным оглушающим бластером. Как только цель теряет сознание, 87-RM подлетает, чтобы забрать образец. Один 87-RM обычно несет от одного до трех "Странников", и эти дроиды могут работать сообща, чтобы загонять и выслеживать свою добычу.</Description>
     <Source Page="57">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Price>2500</Price>
@@ -4163,10 +4151,10 @@ The 87-RM Scout Collector and Wanderer Scout Surveyor are companion droid units 
   </Gear>
   <Gear>
     <Key>DROIDAC1</Key>
-    <Name>AC1-Series Surveillance Droid</Name>
-    <Description>[H3]AC1-series Surveillance Droid[h3]
-Cybot Galactica's AC1-series surveillance droids are among the most ubiquitous droids in the galaxy. Also known as "Spy Eyes," AC1-series droids are spherical droids just under a meter across, equipped with a low-output repulsorlift generator and packed full of sophisticated imaging and observation systems. Standard units carry a 360-degree holocam with a powerful holotransceiver designed to stream live footage to a remote operator's holodisplay. They also carry a multi-optic imaging package with passive low-light, thermal imaging, infrared, ultrasonic, digital optical, X-ray, and various other sensors. Further, they are equipped with a turret-mounted light blaster pistol for defensive and security purposes.
-[P]These droids are quite unintelligent and are programmed with little personality or initiative. A security officer who is in charge of patrol groups of AC1 droids usually pilots them remotely via a control board and voice commands. When left to their own devices, Spy Eyes patrol their given routes and make regular reports to their controller If an AC1 detects intruders, it alerts its controller and then follows the intruders at a distance, recording and observing their movements until a security team can arrive. The Imperial military makes heavy use of these droids, which can be found in nearly every base, camp, installation, and space station under Imperial control. Recently, Alliance intelligence agents discovered that, thanks to a previously unknown exploit in their programming, AC1 droids can be sliced into and taken control of remarkably easily.</Description>
+    <Name>Дроид-шпион серии AC1 (AC1-Series Surveillance Droid)</Name>
+    <Description>[H3]Дроид-шпион серии AC1[h3]
+Дроиды-шпионы серии AC1 от Cybot Galactica являются одними из самых распространенных дроидов в галактике. Также известные как "Шпионский глаз", дроиды серии AC1 представляют собой сферические дроиды диаметром чуть менее метра, оснащенные маломощным генератором репульсорного подъемника и напичканные сложными системами визуализации и наблюдения. Стандартные модели несут 360-градусную голокамеру с мощным голоприемником-передатчиком, предназначенным для потоковой передачи видеоматериалов в прямом эфире на голодисплей удаленного оператора. Они также оснащены мультиоптическим пакетом визуализации с пассивными датчиками слабого освещения, тепловизором, инфракрасным, ультразвуковым, цифровым оптическим, рентгеновским и различными другими датчиками. Кроме того, они вооружены установленным на турели легким бластерным пистолетом для оборонительных и охранных целей.
+[P]Эти дроиды довольно неразумны и запрограммированы с малой долей индивидуальности или инициативы. Офицер безопасности, отвечающий за патрульные группы дроидов AC1, обычно управляет ими удаленно с помощью пульта управления и голосовых команд. Предоставленные сами себе, "Шпионские глаза" патрулируют заданные маршруты и регулярно отчитываются своему оператору. Если AC1 обнаруживает нарушителей, он оповещает своего оператора, а затем следует за нарушителями на расстоянии, записывая и наблюдая за их передвижениями, пока не прибудет группа безопасности. Имперские военные широко используют этих дроидов, которых можно найти почти на каждой базе, в лагере, на объекте и космической станции под имперским контролем. Недавно агенты разведки Альянса обнаружили, что благодаря ранее неизвестной уязвимости в их программировании, дроиды AC1 могут быть взломаны и взяты под контроль на удивление легко.</Description>
     <Source Page="49">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <Price>1100</Price>
@@ -4177,11 +4165,11 @@ Cybot Galactica's AC1-series surveillance droids are among the most ubiquitous d
   </Gear>
   <Gear>
     <Key>DROIDACLAW</Key>
-    <Name>AC Law Enforcement Droid</Name>
+    <Name>Полицейский дроид AC (AC Law Enforcement Droid)</Name>
     <Description>
-      [H3]AC Law Enforcement Droid[h3]
+      [H3]Полицейский дроид AC[h3]
 
-The Rim Securities AC Law Enforcement Droids are a relatively new entry to the field of police automata, envisioned as direct competitors to both Cybot Calactica's HXZ-1 series and SoroSuub's recently released 501-Z series LEO droid. Nearly two meters tall, these broad shouldered humanoid droids are of average intelligence and possessed of a stern, imposing disposition. Programmed for both standard policing as well as fast response riot control duties, AC series droids are covered in imposing plate armor. Their heads have a single horizontal red band for a photoreceptor and they have only the merest hint of other facial features. Their personality matrix seems to have been programmed with the essence of every hard-nosed, uncompromising, "strike first and ask questions later" law officer in history. They are loud, brash, and skilled at physical intimidation. Their grating manner and their tendency to use overwhelming force in inappropriate situations has led to numerous complaints against both the droids and Rim Securities. While civilians may despise the AC series droids, law enforcement agencies throughout the Outer Rim love them for their brutal efficiency, and they are slowly cornering the market for police droids at the edge of the galaxy.</Description>
+Полицейские дроиды AC от Rim Securities - относительно новые представители в сфере полицейских автоматонов, задуманные как прямые конкуренты как серии HXZ-1 от Cybot Galactica, так и недавно выпущенным полицейским дроидам серии 501-Z от SoroSuub. Высотой почти два метра, эти широкоплечие гуманоидные дроиды обладают средним интеллектом и суровым, внушительным нравом. Запрограммированные как на стандартное поддержание правопорядка, так и на задачи быстрого реагирования по подавлению беспорядков, дроиды серии AC покрыты внушительной пластинчатой броней. На их головах расположена единственная горизонтальная красная полоса фоторецептора, а другие черты лица лишь едва намечены. Кажется, их матрица личности вобрала в себя суть каждого сурового, бескомпромиссного стража порядка в истории, действующего по принципу 'сначала бей, потом спрашивай'. Они шумные, напористые и искусны в физическом запугивании. Их резкие манеры и склонность применять подавляющую силу в неподходящих ситуациях привели к многочисленным жалобам как на самих дроидов, так и на Rim Securities. И хотя гражданские лица могут презирать дроидов серии AC, правоохранительные органы по всему Внешнему Кольцу ценят их за жесткую эффективность, и они постепенно захватывают рынок полицейских дроидов на краю галактики.</Description>
     <Source Page="49">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Price>9600</Price>
@@ -4192,11 +4180,11 @@ The Rim Securities AC Law Enforcement Droids are a relatively new entry to the f
   </Gear>
   <Gear>
     <Key>DROIDANALYSIS</Key>
-    <Name>Analysis Droid</Name>
+    <Name>Аналитический дроид (Analysis Droid)</Name>
     <Description>
-      [H3]Analysis Droid (Various Models)[h3]
+      [H3]Аналитический дроид (различные модели)[h3]
 
-Almost always found working in groups, analysis droids have served governments, corporations, wealthy private individuals, and even the defunct order of Jedi Knights. Most manufacturers make analysis droids, but the enduring popularity of Cybot Galactica's SP-4 and JN-66 models make them the category leaders. All analysis droids come equipped with a sophisticated sensory suite and a set of onboard analysis protocols that make them invaluable in aiding research, analyzing data, and performing experiments. </Description>
+Почти всегда работающие в группах, аналитические дроиды служили правительствам, корпорациям, богатым частным лицам и даже упраздненному ордену рыцарей-джедаев. Большинство производителей выпускают аналитических дроидов, но непреходящая популярность моделей SP-4 и JN-66 от Cybot Galactica делает их лидерами в этой категории. Все аналитические дроиды оснащены сложным набором сенсоров и комплексом встроенных протоколов анализа, что делает их незаменимыми помощниками в проведении исследований, анализе данных и постановке экспериментов.</Description>
     <Source Page="409">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <Price>7500</Price>
@@ -4207,11 +4195,11 @@ Almost always found working in groups, analysis droids have served governments, 
   </Gear>
   <Gear>
     <Key>DROIDANTBAT</Key>
-    <Name>Antiquated Battle Droid</Name>
+    <Name>Антикварный боевой дроид (Antiquated Battle Droid)</Name>
     <Description>
-      [H3]Antiquated Battle Droid (Various Models)[h3]
+      [H3]Антикварный боевой дроид (различные модели)[h3]
 
-The most frequently encountered droid of this type is the Bl battle droid produced by Baktoid Combat Automata. A generation ago, these frail-looking droids were the terror of the galaxy. Legions of them formed the Separatist armies during the Clone Wars but the intervening years have not been kind to their design, which was inexpensive to begin with. Although no reputable military still employs these droids in number, they can be found in limited quantities in the forces of crime lords, mercenaries, and various other ne'er-do-wells throughout the underbelly of the galaxy.</Description>
+Наиболее часто встречающимся дроидом этого типа является боевой дроид B1, произведенный Baktoid Combat Automata. Поколение назад эти хрупкие на вид дроиды наводили ужас на галактику. Их легионы составляли армии сепаратистов во время Войн клонов, но прошедшие годы не были благосклонны к их конструкции, которая и без того была дешевой. Хотя ни одни уважающие себя вооруженные силы больше не используют этих дроидов в больших количествах, их можно встретить в ограниченном числе на службе у криминальных лордов, наемников и различных других негодяев по всему криминальному дну галактики.</Description>
     <Source Page="409">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
     <Price>6500</Price>
@@ -4222,10 +4210,10 @@ The most frequently encountered droid of this type is the Bl battle droid produc
   </Gear>
   <Gear>
     <Key>DROIDASP19</Key>
-    <Name>ASP-19 Battle Droid</Name>
-    <Description>[H3]ASP-19 Battle Droid[h3]
-Industrial Automaton's ASP-19 was a popular sparring droid among Jedi during the waning years of the Republic. Developed from ASP-series labor droids, the ASP-19 is a surprisingly capable melee fighter equipped with a sophisticated combat computer that can be programmed to approximate different Jedi fighting styles. In addition, the difficulty of the ASP-19's training routines can be adjusted up or down to better match the abilities of the trainee. The Jedi Order used these droids for training Jedi of all levels, from the greenest Padawan to the most venerated Jedi Master, and they were ubiquitous at the order's various temples and training facilities. While they were relatively simpleminded and programmed with subroutines that prevented them from killing, ASP-19s were occasionally pressed into service to protect their temples.
-[P]ASP-19s are tall, burly constructs with broad shoulders and long limbs. Standing just over two meters tall, they are deceptively quick and possess a raw strength born out of their labor droid roots. Unlike typical battle droids, the ASP-19 is optimized for up-close, hand-to-hand combat instead of ranged fighting. To that end, they are equipped with a retractable vibroblade in one arm and a training lightsaber in the other. What little personality they have is limited to discussion of fighting forms and spouting platitudes about the dignity and honor of dueling. Since they were discontinued nearly four decades ago, ASP-19s are extremely rare and are often destroyed on sight by Imperial personnel. Those that survive, like the scattered remnants of the Jedi Order they once served, remain hidden on backwater worlds or in long-lost Jedi temples.</Description>
+    <Name>Боевой дроид ASP-19 (ASP-19 Battle Droid)</Name>
+    <Description>[H3]Боевой дроид ASP-19[h3]
+ASP-19 от Industrial Automaton был популярным спарринг-дроидом среди джедаев в последние годы Республики. Разработанный на базе трудовых дроидов серии ASP, ASP-19 является на удивление способным бойцом ближнего боя, оснащенным сложным боевым компьютером, который можно запрограммировать на имитацию различных боевых стилей джедаев. Кроме того, сложность тренировочных программ ASP-19 можно увеличивать или уменьшать, чтобы лучше соответствовать способностям обучающегося. Орден джедаев использовал этих дроидов для обучения джедаев всех уровней, от самых неопытных падаванов до самых почитаемых мастеров-джедаев, и они были повсеместно распространены в различных храмах и учебных заведениях Ордена. Хотя они были относительно простодушны и запрограммированы с подпрограммами, предотвращающими убийство, ASP-19 иногда привлекались к службе для защиты своих храмов.
+[P]ASP-19 - это высокие, коренастые конструкции с широкими плечами и длинными конечностями. Ростом чуть более двух метров, они обманчиво быстры и обладают грубой силой, унаследованной от их трудовых корней. В отличие от типичных боевых дроидов, ASP-19 оптимизирован для ближнего, рукопашного боя, а не для стрельбы на расстоянии. С этой целью они оснащены выдвижным виброклинком в одной руке и тренировочным световым мечом в другой. Та малая толика личности, которой они обладают, ограничивается обсуждением боевых форм и изречением банальностей о достоинстве и чести дуэлей. Поскольку их производство было прекращено почти четыре десятилетия назад, ASP-19 крайне редки и часто уничтожаются на месте имперским персоналом. Те, что выжили, подобно разрозненным остаткам Ордена джедаев, которому они когда-то служили, остаются скрытыми на отдаленных мирах или в давно забытых храмах джедаев.</Description>
     <Source Page="51">Дополнение: Рыцари судьбы (Knights of Fate)</Source>
     <Custom>DescOnly</Custom>
     <Price>80000</Price>
@@ -4237,11 +4225,11 @@ Industrial Automaton's ASP-19 was a popular sparring droid among Jedi during the
   </Gear>
   <Gear>
     <Key>DROIDASSASIN</Key>
-    <Name>Assassin Droid</Name>
+    <Name>Дроид-убийца (Assassin Droid)</Name>
     <Description>
-      [H3]IG-Series Assassin Droid[h3]
+      [H3]Дроид-убийца серии IG[h3]
 
- Illegal virtually everywhere in the known galaxy, assassin droids are sophisticated killing machines that combine physical acumen with the mental faculties to apply it in a variety of different circumstances. Most importantly, however, these droids are designed without the universal restrictions that prevent droids from taking action against organic life. While they are incredibly deadly to those whom they are set to hunt, assassin droids are equally dangerous to those who create or employ them. These droids simply have no recognition of the value of life, and will destroy anyone or anything in their path if doing so benefits them in some way.</Description>
+ Практически запрещенные во всей известной галактике, дроиды-убийцы представляют собой совершенные машины смерти, сочетающие в себе физическую мощь и умственные способности для ее применения в самых разных обстоятельствах. Однако, что самое важное, эти дроиды сконструированы без универсальных ограничений, которые запрещают дроидам предпринимать действия против органической жизни. И хотя они невероятно смертоносны для тех, на кого их натравливают, дроиды-убийцы не менее опасны и для тех, кто их создает или нанимает. Эти дроиды просто не осознают ценности жизни и уничтожат любого и все на своем пути, если это хоть как-то послужит их интересам.</Description>
     <Source Page="409">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
     <Price>65000</Price>
@@ -4252,11 +4240,11 @@ Industrial Automaton's ASP-19 was a popular sparring droid among Jedi during the
   </Gear>
   <Gear>
     <Key>DROIDASTRO</Key>
-    <Name>Astromech Droid</Name>
+    <Name>Дроид-астромеханик (Astromech Droid)</Name>
     <Description>
-      [H3]Astromech Droid (Various Models)[h3]
+      [H3]Дроид-астромеханик (различные модели)[h3]
 
-A common sight throughout the galaxy, astromech droids such as the famous R2 series are relatively small, utilitarian droids designed to interface with and maintain machinery of varying complexities depending upon the model of the droid. Many technologies are designed with these sorts of droids in mind, and have sockets to allow a direct interface with the droid. Some ships are even designed with the intent of offloading certain computing functions to an interfaced droid (for example, some starfighters rely on interfaced astromech droids to serve as a navicomputers for hyperspace travel).</Description>
+Дроиды-астромеханики, такие как знаменитая серия R2, - обычное явление во всей галактике. Это относительно небольшие утилитарные дроиды, предназначенные для подключения к механизмам различной сложности и их обслуживания в зависимости от конкретной модели. Множество технологических устройств разрабатывались с расчетом на подобных дроидов и оснащены специальными разъемами для прямого взаимодействия с ними. Некоторые корабли даже проектируются с расчетом на передачу определенных вычислительных функций подключенному дроиду (например, в некоторых звездных истребителях подключенные астромехи выполняют роль навигационных компьютеров для гиперпространственных перелетов).</Description>
     <Source Page="409">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
     <Price>8250</Price>
@@ -4267,15 +4255,15 @@ A common sight throughout the galaxy, astromech droids such as the famous R2 ser
   </Gear>
   <Gear>
     <Key>DROIDATED</Key>
-    <Name>All-Terrain Exploration Droid</Name>
+    <Name>Вездеходный исследовательский дроид (All-Terrain Exploration Droid)</Name>
     <Description>
-      [H3]Cybot Galactica/KDY All-Terrain Exploration Droid[h3]
+      [H3]Вездеходный исследовательский дроид Cybot Galactica/KDY[h3]
 
-The new All-Terrain Exploration Droid by Cybot Galactica is designed to assist in the exploration and surveying of newly discovered planets. Hailed as one of the most adaptable and competent surveying droids released in recent years, the AT-ED is set to revolutionize the field of planetary exploration. The AT-ED is a nonhumanoid, Class 2 droid built to operate in the harshest, most inhospitable environments. The AT-ED appears at first glance to be a two-and-a-half meter tall version of Kuat's AT-PT Assault Walker. A long, lightly armored trapezoidal chassis perches atop a pair of reverse-articulated legs with broad, round feet and three grasping toes each. Thanks to their drivetrain layout and the precision with which they are engineered, these droids have exceptional balance and are quite adept at traversing rough and broken ground.
+Новый вездеходный исследовательский дроид от Cybot Galactica предназначен для помощи в исследовании и обследовании недавно открытых планет. Провозглашенный одним из самых адаптируемых и компетентных разведывательных дроидов, выпущенных за последние годы, AT-ED готов произвести революцию в области планетарных исследований. AT-ED - это негуманоидный дроид 2-го класса, созданный для работы в самых суровых и негостеприимных условиях. На первый взгляд AT-ED напоминает увеличенную до двух с половиной метров версию штурмового шагохода AT-PT с Куата. Длинное, легкобронированное трапециевидное шасси располагается на паре ног с обратной артикуляцией, оснащенных широкими круглыми ступнями и тремя хватательными пальцами на каждой. Благодаря компоновке ходовой части и точности инженерной разработки, эти дроиды обладают исключительным балансом и отлично передвигаются по пересеченной и неровной местности.
 
-[P]The chassis is crowded with sensors, photoreceptors, microphones, and antennae. Mounted to the left side of the chassis is a powerful, long-range light that can zoom or flood its beam and can project light in the visible, infrared, and ultraviolet spectra, and the ride side mounts a blaster for defense.
+[P]Шасси плотно заполнено сенсорами, фоторецепторами, микрофонами и антеннами. С левой стороны шасси установлен мощный прожектор дальнего действия, способный менять фокус с узкого на широкий и проецировать свет в видимом, инфракрасном и ультрафиолетовом спектрах, а с правой стороны закреплен бластер для самообороны.
 
-[P]A full array of audio and visual sensors feed information into the droid's computer while the numerous scientific instruments and topographic-surveying tools monitor and sample air, soil, water, radiation, and dozens of other variables while making detailed three-dimensional maps of the surrounding countryside. They can even coordinate with orbiting ships, sending and receiving telemetry to develop a thorough picture of a newly discovered world and what it has to offer. AT-EDs are expensive to purchase and maintain, and their numerous complex systems need significant attention to keep running. Despite these limitations and their strange, standoffish personalities, AT-EDs are very popular in the Outer Rim.</Description>
+[P]Полный набор аудио и видеодатчиков передает информацию в компьютер дроида, в то время как многочисленные научные приборы и инструменты для топографической съемки отслеживают и берут пробы воздуха, почвы, воды, уровня радиации и десятков других параметров, составляя при этом подробные трехмерные карты окружающей местности. Они даже могут координировать свои действия с кораблями на орбите, отправляя и получая телеметрию для формирования полной картины недавно открытого мира и его ресурсов. AT-ED дороги в приобретении и обслуживании, а их многочисленные сложные системы требуют значительного внимания для поддержания работоспособности. Несмотря на эти ограничения и их странный, замкнутый характер, AT-ED очень популярны во Внешнем Кольце.</Description>
     <Source Page="55">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Price>8900</Price>
@@ -4286,11 +4274,11 @@ The new All-Terrain Exploration Droid by Cybot Galactica is designed to assist i
   </Gear>
   <Gear>
     <Key>DROIDBD10</Key>
-    <Name>BD10-Series Assay Suport Droid</Name>
+    <Name>Дроид поддержки изысканий серии BD10 (BD10-Series Assay Suport Droid)</Name>
     <Description>
-      [H3][I]BD10[i]-Series Assay Suport Droid[h3]
-[P] The galaxy is filled with small, out-of-the-way systems and polities that may stand in the way of prosperity and progress for the greater population. The Outer Rim, in particular, is composed of minor, insular communities and cultures that may lay claim to resources, trade routes, or information essential to the success of larger, more Core-oriented entities. Responding to this situation, Industrial Automatons first created the BD10-series droid, specifically intended to assist negotiating parties in dealing with myriad cultures and systems of the less civilized parts of the galaxy.
-[P]Programmed with the languages, traditions, taboos, and morays of over a million Rimward civilizations and corporations, the BD10 series is still seen as one of the best choices of companion for anyone seeking to do business in the Outer Rim. With the help of these innocuous droids, any negotiation with a less advanced society will be infinitely easier.
+      [H3]Дроид поддержки изысканий серии [I]BD10[i][h3]
+[P]Галактика полна небольших, отдаленных систем и государств, которые могут стоять на пути процветания и прогресса большей части населения. Внешнее Кольцо, в частности, состоит из мелких, замкнутых сообществ и культур, которые могут претендовать на ресурсы, торговые пути или информацию, необходимые для успеха более крупных, ориентированных на Ядро организаций. Отвечая на эти вызовы, компания Industrial Automaton создала дроидов серии BD10, специально предназначенных для помощи участникам переговоров во взаимодействии с бесчисленными культурами и системами менее цивилизованных частей галактики.
+[P]Запрограммированные на знание языков, традиций, табу и нравов более миллиона цивилизаций и корпораций окраинных миров, дроиды серии BD10 по-прежнему считаются одним из лучших компаньонов для всех, кто стремится вести дела во Внешнем Кольце. С помощью этих безобидных дроидов любые переговоры с менее развитым обществом станут неизмеримо проще.
     </Description>
     <Source Page="54">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
@@ -4307,11 +4295,11 @@ The new All-Terrain Exploration Droid by Cybot Galactica is designed to assist i
   </Gear>
   <Gear>
     <Key>DROIDBLO</Key>
-    <Name>BLO-Series Non-Lethal Combat Droid</Name>
+    <Name>Боевой дроид нелетального действия серии BLO (BLO-Series Non-Lethal Combat Droid)</Name>
     <Description>
-      [H3][I]BLO[i]-Series Non-Lethal Combat Droid[h3]
-[P]Seeing a rising need for crowd suppression and non-lethal enforcement techniques on the Core Worlds, Arakyd Industries briefly flirted with a droid designed to fill this admittedly small niche. The BL0-series combat droid was designed to neutralize opposition without undue injury, thus salvaging important witnesses for later interrogation. Due to their combat effectiveness, however, most BL0's were repurposed as security droids soon after their initial release.
-[P]This droid-scuttling forward on three squat, sturdy legs and with its robust hyperarticulated arms, an array of non-lethal countermeasures, and two long stun whips emerging from its shoulders-made for a terrifying sight to those familiar with it operations. There are still those who prefer the use of the BL0s to more conventional security or combat droids for a wide variety of reasons; especially in the more physical, hardscrabble negotiating environment of the Outer Rim.</Description>
+      [H3]Боевой дроид нелетального действия серии [I]BL0[i][h3]
+[P]Заметив растущую потребность в методах разгона толпы и нелетального поддержания правопорядка в Мирах Ядра, компания Arakyd Industries ненадолго увлеклась созданием дроида, предназначенного для заполнения этой, надо признать, небольшой ниши. Боевой дроид серии BL0 был разработан для нейтрализации противника без нанесения серьезных травм, что позволяло сохранить важных свидетелей для последующих допросов. Однако из-за их боевой эффективности большинство BL0 вскоре после выпуска были перепрофилированы в охранные дроиды.
+[P]Этот дроид, быстро передвигающийся на трех приземистых, крепких ногах, с мощными сверхподвижными манипуляторами, арсеналом нелетальных средств противодействия и двумя длинными оглушающими хлыстами, выдвигающимися из плеч, представлял собой устрашающее зрелище для тех, кто был знаком с его работой. До сих пор находятся те, кто по самым разным причинам предпочитает использовать BL0 вместо более традиционных охранных или боевых дроидов; особенно в более жестких и суровых условиях переговоров во Внешнем Кольце.</Description>
     <Source Page="54">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
@@ -4327,12 +4315,12 @@ The new All-Terrain Exploration Droid by Cybot Galactica is designed to assist i
   </Gear>
   <Gear>
     <Key>DROIDBT</Key>
-    <Name>BT-Series Ordnance Droid</Name>
+    <Name>Дроид снабжения серии BT (BT-Series Ordnance Droid)</Name>
     <Description>
-      [H3]BT-Series Ordnance Droid[h3]
-Produced by Baktoid Fleet Ordnance, these sturdy droids toil away in military hangars and motor pools, loading, unloading, and maintaining ordnance and ordnance delivery systems. Anything from common shoulder-fired missile tubes to sophisticated starship proton torpedo launchers lies within their purview. They are programmed with an exhaustive knowledge of the various specialized information required to work with heavy ordnance.
-[P]These droids are very simply and sturdily constructed, with a tapering, rectangular, slab-sided body covered in thick ferroceramic armor. Their powerful arms can extend to three meters and are equipped with broad, grasping claws. Three smaller, retractable arms with dexterous fingers are mounted in the droid's chest for delicate work or tool manipulation.
-[P]Most BT-series droids, especially those that receive regular maintenance and memory wipes, have a very stiff and business-like attitude. BT droids that develop personalities tend to be cavalier and jocular, with a daredevil, risk-taking attitude-especially when dealing with explosives-that makes their colleagues extremely nervous. Some BT-series droids in military service with the Alliance are programmed with the skills to perform explosive ordnance disposal duties and serve in various combat engineering units.</Description>
+      [H3]Дроид снабжения серии BT[h3]
+Произведенные компанией Baktoid Fleet Ordnance, эти крепкие дроиды без устали трудятся в военных ангарах и парках техники, занимаясь погрузкой, разгрузкой и снабжением и систем их доставки. В их ведении находится все: от обычных ручных ракетных установок до сложных пусковых установок протонных торпед для звездолетов. Они запрограммированы на обладание исчерпывающими знаниями всей специализированной информации, необходимой для работы с тяжелыми боеприпасами.
+[P]Эти дроиды отличаются очень простой и надежной конструкцией: их сужающийся кверху прямоугольный корпус с плоскими бортами покрыт толстой феррокерамической броней. Их мощные манипуляторы могут выдвигаться на три метра и оснащены широкими хватательными клешнями. Три небольших выдвижных манипулятора с ловкими пальцами спрятаны в грудном отсеке дроида и используются для тонкой работы или обращения с инструментами.
+[P]Большинство дроидов серии BT, особенно те, что регулярно проходят техническое обслуживание и стирание памяти, отличаются очень строгим и деловым нравом. Те же дроиды BT, у которых со временем формируется личность, склонны к бесшабашности и шутливости, демонстрируя поведение сорвиголовы и идя на неоправданный риск - особенно при работе со взрывчаткой, - что заставляет их коллег изрядно нервничать. Некоторые дроиды серии BT, состоящие на военной службе в Альянсе, запрограммированы на выполнение задач по обезвреживанию взрывоопасных предметов и служат в различных инженерно-саперных подразделениях.</Description>
     <Source Page="49">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
@@ -4344,11 +4332,11 @@ Produced by Baktoid Fleet Ordnance, these sturdy droids toil away in military ha
   </Gear>
   <Gear>
     <Key>DROIDCAM</Key>
-    <Name>Cam Droid</Name>
+    <Name>Дроид-камера (Cam Droid)</Name>
     <Description>
-      [H3]Hologlide J57 Cam Droid[h3]
+      [H3]Дроид-камера Hologlide J57[h3]
 
-Cam droids, or hovercams, are small, relatively simple droids equipped with repulsorlifts and recording devices. Used to record news, sports and entertainment events, as well as for security, cam droids are a common sight throughout the galaxy. As such, they are also ideal for scouting and espionage purposes, able to go virtually anywhere without drawing undo attention. While some cam droids are highly intelligent and capable of autonomous action, most are simple devices. Most cam droids can broadcast whatever they record in real-time, up to a distance of several kilometers, allowing the holovids to be rebroadcast or viewed by a remote operator.</Description>
+Дроиды-камеры, или ховеркамеры, - это небольшие, относительно простые дроиды, оснащенные репульсорными подъемниками и записывающими устройствами. Используемые для съемки новостей, спортивных и развлекательных мероприятий, а также для обеспечения безопасности, дроиды-камеры - обычное явление во всей галактике. Как таковые, они также идеально подходят для разведки и шпионажа, способные проникнуть практически куда угодно, не привлекая лишнего внимания. Хотя некоторые дроиды-камеры обладают высоким интеллектом и способны действовать автономно, большинство из них - простые устройства. Большинство дроидов-камер могут транслировать все, что они записывают, в реальном времени на расстояние до нескольких километров, позволяя транслировать голозаписи или просматривать их удаленным оператором.</Description>
     <Source Page="102">Дополнение: Солнца Фортуны (Suns of Fortune)</Source>
     <Custom>DescOnly</Custom>
     <Price>800</Price>
@@ -4359,10 +4347,10 @@ Cam droids, or hovercams, are small, relatively simple droids equipped with repu
   </Gear>
   <Gear>
     <Key>DROIDCHAM</Key>
-    <Name>Chameleon Droid</Name>
+    <Name>Дроид-хамелеон (Chameleon Droid)</Name>
     <Description>
-      [H3]Chameleon Droid[h3]
-The Arakyd Industries spelunker droid was originally intended for mining purposes. The Confederacy of Independent Systems modified and armed these droids for combat purposes. Removing the heavy mining gear, they added a minelayer, blasters, and a holographic cloaking array. It is the last item that led to their new name, “chameleon droids.”    </Description>
+      [H3]Дроид-хамелеон[h3]
+Дроид-спелеолог от Arakyd Industries изначально предназначался для горнодобывающих целей. Конфедерация Независимых Систем модифицировала и вооружила этих дроидов для боевых целей. Убрав тяжелое горнодобывающее оборудование, они добавили минный укладчик, бластеры и голографический маскировочный массив. Именно последний элемент и привел к их новому имени - "дроиды-хамелеоны".</Description>
     <Source Page="106">Дополнение: Нексус Силы (Nexus of Power)</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
@@ -4373,11 +4361,11 @@ The Arakyd Industries spelunker droid was originally intended for mining purpose
   </Gear>
   <Gear>
     <Key>DROIDCT4MED</Key>
-    <Name>CT-4 Medical Droid</Name>
+    <Name>Медицинский дроид CT-4 (CT-4 Medical Droid)</Name>
     <Description>
-      [H3]Polis Massa Pria Assemblage CT-4 Medical Droid[h3]
-[P]The CT-4 series medical droids are manufactured in Polis Massa by Polis Massa Pria Assemblage, and are almost exclusively used there. They are similar in many respects to the EW-3 midwife droid but are more generalized in their application. A handful of the units are on loan to the Rebel Alliance, though they are rarelv used awav from the Rebel Fleet.
-[P]Specializing in the application of bacta, the CT-4 possesses programming that makes it familiar with thousands of sentient species and their physiological peculiarities. Their personalities are caring and thoughtful, and their relatively small size and nonhuman shape rarely sets patients at ease in the same way as does the more familiar 2-1 B surgical droid.
+      [H3]Медицинский дроид CT-4 Polis Massa Pria Assemblage[h3]
+[P]Медицинские дроиды серии CT-4 производятся на Polis Massa Pria Assemblage и почти исключительно там же и используются. Во многих отношениях они похожи на дроида-акушера EW-3, но имеют более широкое и универсальное применение. Несколько таких устройств переданы во временное пользование Альянсу Повстанцев, хотя они крайне редко используются вдали от флота Повстанцев.
+[P]Специализируясь на применении бакты, CT-4 обладает программами, содержащими сведения о тысячах разумных видов и их физиологических особенностях. Их личности заботливы и внимательны, однако их относительно небольшой размер и негуманоидная форма редко успокаивают пациентов так же хорошо, как это делает более привычный хирургический дроид 2-1B.
     </Description>
     <Source Page="112">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
@@ -4389,12 +4377,12 @@ The Arakyd Industries spelunker droid was originally intended for mining purpose
   </Gear>
   <Gear>
     <Key>DROIDDUM</Key>
-    <Name>DUM-Series Pit Droid</Name>
+    <Name>Пит-дроид серии DUM (DUM-Series Pit Droid)</Name>
     <Description>
-      [H3]DUM-Series Pit Droid[h3]
-Produced in huge numbers by Serv-O-Droid, the ubiquitous DUM-series droids are a common sight in workshops mechanics' garages and racing pits all across the galaxy. Introduced during the days of the Galactic Republic these droids were constucted at the Serv-O-Droid facility on Cyrillia for labor repair, and light construction use. Through out the decades during which the DUM series has been in service these droids have gained an unfortunate reputation as poorly programmed, hapless and clumsy things that are often not worth the trouble of keeping. They are also highly  disposable, thanks to their sheap construction and low price point, most DUM-series droids are simply destroyed or recycled when damaged rather than repairing. Scrapyards throughout the galaxy are littered with the remains of DUM-series droids, and few individuals consider them to have worth at all.
-[P]Despite their repuation and common prejudices against them DUM-series droids are quite capable within the narrow range of their abilities DUM-series droids stand roughly one meter high. They have a spindly almost skeletal appearance, with long, thin limbs and agile digits. They have a broad, flared dome-shaped head dominated by a single large, round photoreceptor equipped with multi-spectrum scanners that detect microscopic damage in metals and other solid materials. Designed to work in large packs, they are euipped with a built-in comm system that includes a constant data link allowing groups of the droids to work together more efficiently and effectively without vocal communications. In addition, DUM-series droids can lift and carry weights well out of proportion to their tiny size. When deactivated, DUM-series droids can fold up into rough cubes covered by their broad heads this allows them to be stored and shipped easily. They can also use this mode to protect themselves from danger such as crashing vehicles or falling debris.
-[P]While not particularly well liked by the general galactic population or well supported by Serv-O-Droid, DUM-series droids are still a common sight in the galaxy. They are especially popular in the Outer Rim, where their relative strength and mechanical programming make them excellent assistants to poorer shipwrights and vehicel builders. DUM-series droids are also closely associated with Podracing, nearly every Podracing team keeps a stable of these droids to maintain their vehicles and salvage scrap from crashed competitors along racecourses.</Description>
+      [H3]Пит-дроид серии DUM[h3]
+Произведенные в огромных количествах компанией Serv-O-Droid, вездесущие дроиды серии DUM - обычное явление в мастерских, гаражах механиков и гоночных боксах по всей галактике. Представленные во времена Галактической Республики, эти дроиды производились на предприятии Serv-O-Droid на Цириллии для ремонтных работ и легкого строительства. За десятилетия службы дроиды серии DUM приобрели дурную репутацию плохо запрограммированных, неловких и неуклюжих созданий, которые часто не стоят хлопот по их содержанию. Они также крайне одноразовы: благодаря дешевизне конструкции и низкой цене, большинство дроидов серии DUM при повреждении просто уничтожают или перерабатывают, а не ремонтируют. Свалки по всей галактике усеяны останками дроидов серии DUM, и мало кто считает их хоть сколько-нибудь ценными.
+[P]Несмотря на свою репутацию и распространенные предубеждения против них, дроиды серии DUM весьма компетентны в узком диапазоне своих возможностей. Пит-дроиды серии DUM имеют рост около метра. У них худощавое, почти скелетообразное телосложение, с длинными, тонкими конечностями и ловкими пальцами. У них широкая, расширяющаяся кверху куполообразная голова, в которой доминирует один большой круглый фоторецептор, оснащенный мультиспектральными сканерами, обнаруживающими микроскопические повреждения в металлах и других твердых материалах. Предназначенные для работы большими группами, они оснащены встроенной системой связи, включающей постоянный канал передачи данных, который позволяет группам дроидов работать вместе более продуктивно и эффективно без голосового общения. Кроме того, дроиды серии DUM могут поднимать и переносить грузы, совершенно несоразмерные их крошечным размерам. В выключенном состоянии пит-дроиды серии DUM могут складываться в компактные кубы, накрываемые их широкими головами, что позволяет легко их хранить и транспортировать. Они также могут использовать этот режим для защиты от опасностей, таких как разбивающиеся транспортные средства или падающие обломки.
+[P]Хотя они не слишком любимы широкой галактической общественностью и не получают особой поддержки от Serv-O-Droid, дроиды серии DUM по-прежнему часто встречаются в галактике. Они особенно популярны во Внешнем Кольце, где их относительная сила и механические программы делают их отличными помощниками для бедных кораблестроителей и конструкторов транспортных средств. Дроиды серии DUM также тесно связаны с гонками на подах: почти каждая гоночная команда держит парк таких дроидов для обслуживания своих машин и сбора металлолома с разбившихся соперников вдоль гоночных трасс.</Description>
     <Source Page="45">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
@@ -4405,11 +4393,11 @@ Produced in huge numbers by Serv-O-Droid, the ubiquitous DUM-series droids are a
   </Gear>
   <Gear>
     <Key>DROIDDZ70</Key>
-    <Name>DZ-70 Fugitive Tracker Droid</Name>
+    <Name>Дроид-охотник на беглецов DZ-70 (DZ-70 Fugitive Tracker Droid)</Name>
     <Description>
-      [H3]DZ-70 Fugitive Tracker Droid[h3]
+      [H3]Дроид-охотник на беглецов DZ-70[h3]
 
-The DZ-70 by Arakyd Industries is one of the most popular tracking droids on the market today. Used by militaries and law enforcement agencies throughout the galaxy, these small droids are not particularly bright but are expert trackers and are incredibly persistent in the pursuit of a target. Around two meters across, the DZ-70 is a small, spherical droid equipped with a powerful repulsorlift system that provides excellent agility and overland speed. The droid's hull is studded with photoreceptors and assorted sensors that give it an unrestricted, 360 degree view of its surroundings. Two powerful, retractable claws are housed in covered bays along the droid's bottom, and it carries a blaster pistol and ion blaster as standard armament. While quite competent despite its low intelligence, a DZ-70's natural zeal and tenaciousness may occasionally lead to the development of an at all costs" mentality if the droid isn't given proper maintenance and regular memory wipes. This means that the droid does everything in its power, including the use of lethal force, to bring a fugitive to justice.</Description>
+DZ-70 от Arakyd Industries - один из самых популярных дроидов-охотников на беглецов на современном рынке. Эти небольшие дроиды, используемые военными и правоохранительными органами по всей галактике, не отличаются особым интеллектом, но являются первоклассными следопытами и невероятно настойчивы в преследовании цели. Имея около двух метров в поперечнике, DZ-70 представляет собой компактный сферический дроид, оснащенный мощной системой репульсорного подъемника, обеспечивающей отличную маневренность и высокую скорость на суше. Корпус дроида усеян фоторецепторами и различными сенсорами, обеспечивающими ему беспрепятственный 360-градусный обзор окрестностей. Два мощных выдвижных когтя спрятаны в закрытых отсеках в нижней части дроида, а в стандартное вооружение входят бластерный пистолет и ионный бластер. Несмотря на низкий интеллект, DZ-70 весьма компетентен, однако его природное рвение и настойчивость могут иногда приводить к формированию установки "любой ценой", если дроиду не обеспечивается должное техническое обслуживание и регулярное стирание памяти. Это означает, что дроид будет делать все возможное, включая применение смертоносной силы, чтобы привлечь беглеца к правосудию.</Description>
     <Source Page="49">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Price>9800</Price>
@@ -4420,12 +4408,12 @@ The DZ-70 by Arakyd Industries is one of the most popular tracking droids on the
   </Gear>
   <Gear>
     <Key>DROIDE522</Key>
-    <Name>E522 Assassin Droid</Name>
-    <Description>[H3]E522 Assassin Droid[h3]
-The E522 is one of the most feared droids operating in the galaxy today. These burly, hard-hitting droids were originally designed during the buildup to the Clone Wars by Techno Union member corporation Baktoid Combat Automata (BCA). Initially part of BCA's successful B-series battle droid line, the E522 was envisioned as a light anti-armor and anti-aircraft unit that would provide heavy support to platoons of B1 and B2 units. They were seen as too expensive and complex to serve as disposable droid soldiers, however, and the project was scrapped in favor of the B2 and B3 battle droid units.
-[P]When the Clone Wars finally ended with the destruction of both the Republic and the Separatists, the Techno Union dissolved, and its member corporations either struck out on their own or were brought under direct Imperial control. BCA was one of the companies nationalized by the Empire, and it was immediately slated for breakup. Through the process of BCA's breakup and the selling off of its various assets, all data from the E522 project fell into the hands of Sienar Intelligence Systems. SIS had been working on plans for its own line of combat and assassin droids, and the acquisition of the E522 R&amp;D data was a huge boon to its project. SIS quickly scrapped its in-house project and poured an immense amount of time and money into bringing the E522 project to fruition. Within a year, the first E522s rolled out of SIS's assembly line and straight into the growing unrest leading up to the Galactic Civil War.
-[P]As much a front-line combat droid as an assassin unit, the E522 is a massive, hulking construct festooned with heavy weapons and covered in thick, military-grade armor. It has a rounded, diamond-shaped torso with no discernible head, an extremely narrow waist that rotates 360 degrees, and two heavy tank treads covered in armored skirts in place of legs. Two long, multi-jointed arms sprout from armored shoulders and are equipped with a heavy repeating blaster, heavy ion blaster, and rapid-fire needler gun in place of hands. Three smaller arms with highly dexterous hands are mounted low on the droid's torso to take care of fine work, and a mini-missile launcher is mounted to the droid's back. Scattered about the droid's body is an array of sensors, antennae, and photoreceptors that grant the E522 360-degree full-spectrum vision. The vision system, combined with a powerful on-board combat computer and targeting system, makes these droids a terror on the battlefield.
-[P]There are currently fewer than one hundred E522 droids operating in the galaxy. Most of these are in active service with Imperial Army Intelligence and the Imperial Security Bureau as assassins and support units for various Imperial black ops. These droids, with their regular memory wipes and maintenance, retain the silent and intimidating personalities that their Sienar programmers gave them. A handful have fallen into the hands of the Alliance, mostly as battlefield salvage. They are serving the Alliance well in roles similar to those in which they served the Empire. E522s in the Alliance have developed gruff, demanding, cynical personalities that agents who work with them describe as "like everyone's least favorite Master Sergeant." Despite this, Alliance E522s are well liked and respected for their bravery and competence in the field.</Description>
+    <Name>Дроид убийца E522 (E522 Assassin Droid)</Name>
+    <Description>[H3]Дроид убийца E522[h3]
+E522 - один из самых пугающих дроидов, действующих сегодня в галактике. Эти мощные и грозные дроиды изначально были разработаны в период подготовки к Войнам клонов корпорацией Baktoid Combat Automata (BCA), входившей в состав Техносоюза. Изначально задуманный как часть успешной линейки боевых дроидов серии B от BCA, E522 создавался как легкое противоброневое и зенитное средство, которое должно было оказывать тяжелую огневую поддержку взводам боевых единиц B1 и B2. Однако они были признаны слишком дорогими и сложными, чтобы служить одноразовыми солдатами-дроидами, и проект был свернут в пользу боевых дроидов B2 и B3.
+[P]Когда Войны клонов наконец завершились уничтожением как Республики, так и сепаратистов, Техносоюз распался, а его корпорации-участницы либо начали самостоятельную деятельность, либо перешли под прямой имперский контроль. BCA стала одной из компаний, национализированных Империей, и была немедленно предназначена к расформированию. В процессе раздела BCA и распродажи ее различных активов все данные по проекту E522 попали в руки Sienar Intelligence Systems. SIS работала над планами собственной линейки боевых дроидов и дроидов-убийц, и получение НИОКР данных по E522 стало огромным подспорьем для ее проекта. SIS быстро свернула собственный проект и вложила колоссальное количество времени и средств в доведение проекта E522 до конца. Менее чем через год первые E522 сошли с конвейера SIS и прямиком отправились в нарастающие беспорядки, предшествующие Галактической гражданской войне.
+[P]Будучи в равной степени как фронтовым боевым дроидом, так и дроидом-убийцей, E522 представляет собой массивную, громоздкую конструкцию, увешанную тяжелым вооружением и покрытую толстой броней военного класса. У него округлый, ромбовидный торс без заметной головы, чрезвычайно узкая талия, вращающаяся на 360 градусов, и две тяжелые танковые гусеницы, прикрытые бронированными юбками, вместо ног. Две длинные, многосуставные руки вырастают из бронированных плеч и оснащены тяжелым бластером-пулеметом, тяжелым ионным бластером и скорострельным иглометом вместо кистей. Три манипулятора поменьше с очень ловкими пальцами закреплены в нижней части торса дроида для выполнения тонкой работы, а на спине дроида установлена пусковая установка мини-ракет. По всему корпусу дроида разбросан массив датчиков, антенн и фоторецепторов, обеспечивающих E522 360-градусное зрение во всем спектре. Система зрения в сочетании с мощным бортовым боевым компьютером и системой наведения делает этих дроидов настоящим ужасом на поле боя.
+[P]В настоящее время в галактике действует менее сотни дроидов E522. Большинство из них находятся на действительной службе в Разведке Имперской армии и Имперском бюро безопасности в качестве убийц и подразделений поддержки для различных секретных имперских операций. Благодаря регулярному стиранию памяти и техническому обслуживанию, эти дроиды сохраняют молчаливый и пугающий характер, заложенный их программистами из Sienar. Горстка попала в руки Альянса, в основном в виде трофеев с поля боя. Они отлично служат Альянсу в ролях, аналогичных тем, в которых служили Империи. У E522 в Альянсе развились грубые, требовательные и циничные личности, которые работающие с ними агенты описывают как 'похожие на самого нелюбимого всеми мастер-сержанта'. Несмотря на это, E522 Альянса пользуются симпатией и уважением за свою храбрость и компетентность в полевых условиях.</Description>
     <Source Page="50">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <Price>61000</Price>
@@ -4437,11 +4425,11 @@ The E522 is one of the most feared droids operating in the galaxy today. These b
   </Gear>
   <Gear>
     <Key>DROIDEDV8</Key>
-    <Name>ED-V8-Series Envoy Droid</Name>
+    <Name>Дроид-посланник серии ED-V8 (ED-V8-Series Envoy Droid</Name>
     <Description>
-      [H3][I]ED-V8[i]-Series Envoy Droid[h3]
-[P]Seeing a weakness in the general run of protocol droids, namely the almost universal humanoid appearance of most models, the Rseikharhl Droid Group began the development of a droid who would specialize in assisting negotiators and diplomats working specifically with non-humanoid species. Built around the ancient chassis of a Krath war droid, the ED-V8 uses variable-configuration cybernetics to alter the appearance of its body, while two interface modules supply the foundations for communication with an array of non-humanoid cultures.
-[P]The ED-V80 series is programmed to be completely inoffensive and nonthreatening as it assists its owner in establishing contact with local leaders. Programmed with an abnormally high level of autonomy, most droids in this series work as the first point of contact with non-humanoid societies, laying the foundation from which more experienced humanoid diplomats can build.</Description>
+      [H3]Дроид-посланник серии [I]ED-V8[i][h3]
+[P]Заметив недостаток в общем ряду протокольных дроидов, а именно почти повсеместный гуманоидный облик большинства моделей, Rseikharhl Droid Group начала разработку дроида, который специализировался бы на помощи переговорщикам и дипломатам, работающим исключительно с негуманоидными видами. Построенный на базе древнего шасси боевого дроида кратов, ED-V8 использует кибернетические системы с изменяемой конфигурацией для адаптации внешнего вида своего корпуса, а два интерфейсных модуля обеспечивают основу для общения с множеством негуманоидных культур.
+[P]Дроиды серии ED-V8 запрограммированы так, чтобы быть совершенно безобидными и не представлять угрозы, помогая своему владельцу устанавливать контакт с местными лидерами. Обладая аномально высоким уровнем автономии, большинство дроидов этой серии выступают в роли первого контактного лица при взаимодействии с негуманоидными обществами, закладывая фундамент для дальнейшей работы более опытных дипломатов-гуманоидов.</Description>
     <Source Page="54">Дополнение: Последователи гармонии (Disciples of Harmony)</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
@@ -4457,12 +4445,12 @@ The E522 is one of the most feared droids operating in the galaxy today. These b
   </Gear>
   <Gear>
     <Key>DROIDEG6</Key>
-    <Name>EG-6 Power Droid</Name>
+    <Name>Энергетический дроид EG-6 (EG-6 Power Droid)</Name>
     <Description>
-      [H3]EG-6 Power Droid[h3]
-VeriI Line Systems' EG-6 units are the most common class five droids in the galaxy. Essentially walking fusion reactors, these droids were designed to provide power wherever it is needed. Thanks to being monotask droids, they have little in the way of personality. This is exacerbated by the fact that these droids can only communicate in droid and computer languages.
-[P]EG-6 droids have a squat, bipedal form and chassis reminiscent of two ziggurats mounted together at the base. They are surprisingly heavily armored and shielded. A busy control panel full of switches, light power couplings, and a handful of sensor lenses makes up what passes for a face. They do possess a small, meter-long retractable manipulator arm in the center of their front panel; it is rarely used, though, and many owners have no idea the droids have them.
-[P]These droids carry a medium fusion reactor good for recharging vehicles or providing power to small buildings or installations. They are also equipped with a powerful sensor suite that includes a spectrometer, a multi-spectral scanner, and a power diagnostics package that allows them to diagnose and repair power systems.</Description>
+      [H3]Энергетический дроид EG-6[h3]
+Энергетические дроиды EG-6 от VeriLine Systems - самые распространенные дроиды пятого класса в галактике. По сути, представляя собой шагающие термоядерные реакторы, эти дроиды были созданы для обеспечения энергией везде, где это необходимо. Будучи узкоспециализированными дроидами, они почти не наделены индивидуальностью. Это усугубляется тем фактом, что эти дроиды могут общаться только на языках дроидов и компьютеров.
+[P]Дроиды EG-6 имеют приземистую двуногую форму, а их шасси напоминает два зиккурата, соединенных вместе у основания. Они на удивление хорошо бронированы и защищены. Загроможденная панель управления, полная переключателей, разъемов питания и горстки сенсорных линз, служит им вместо лица. У них есть небольшой выдвижной манипулятор длиной в метр в центре передней панели; однако он используется крайне редко, и многие владельцы даже не подозревают о его наличии.
+[P]Эти дроиды несут средний термоядерный реактор, подходящий для перезарядки транспортных средств или энергоснабжения небольших зданий и объектов. Они также оснащены мощным комплексом датчиков, включающим спектрометр, мультиспектральный сканер и пакет диагностики энергосистем, который позволяет им диагностировать и ремонтировать системы питания.</Description>
     <Source Page="49">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
@@ -4474,10 +4462,10 @@ VeriI Line Systems' EG-6 units are the most common class five droids in the gala
   </Gear>
   <Gear>
     <Key>DROIDEODMKIV</Key>
-    <Name>EOD-Mk IV Explosives Disposal Remote</Name>
+    <Name>Дистанционный саперный модуль EOD-Mk IV (EOD-Mk IV Explosives Disposal Remote)</Name>
     <Description>
-      [H3]EOD-Mk IV Explosives Disposal Remote[h3]
-EOD-Mk IV remotes are produced by Industrial Automaton for use in construction, demolitions, and explosive ordnance disposal (EOD) applications. These small, spherical remotes are designed to be operated from afar via a datapad that allows a user to maneuver the remote in to tight spaces and see through its array of multi-optic sensors. They are equipped with two manipulator arms and a built-in EOD tool kit that an operator can use remotely to disarm explosive devices. An on-board demolitions scanner can detect explosive compounds and devices to assist the operator in locating hidden demolitions items. They are also equipped with a small demolitions charge to remotely detonate an explosive device should it be impractical or too difficult to disarm. While they are usually operated by a qualified EOD or demolitions operator, EOD-Mk IV remotes can operate autonomously, traveling in groups with preprogrammed orders.</Description>
+      [H3]Дистанционный саперный модуль EOD-Mk IV[h3]
+Дистанционные саперные модули EOD-Mk IV производятся компанией Industrial Automaton для использования в строительстве, подрывных работах и обезвреживании взрывоопасных предметов. Эти небольшие сферические аппараты предназначены для дистанционного управления с помощью датапада, что позволяет оператору маневрировать ими в труднодоступных местах и наблюдать за происходящим через массив мультиспектральных сенсоров. Они оснащены двумя манипуляторами и встроенным набором саперных инструментов, которые оператор может использовать удаленно для обезвреживания взрывных устройств. Встроенный сканер взрывчатки способен обнаруживать взрывчатые вещества и устройства, помогая оператору находить скрытые заряды. Они также оснащены небольшим подрывным зарядом для дистанционной детонации взрывного устройства, если его обезвреживание нецелесообразно или слишком сложно. Хотя обычно ими управляет квалифицированный сапер или подрывник, дистанционные модули EOD-Mk IV могут работать автономно, передвигаясь группами по заранее запрограммированным приказам.</Description>
     <Source Page="50">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
@@ -4489,13 +4477,13 @@ EOD-Mk IV remotes are produced by Industrial Automaton for use in construction, 
   </Gear>
   <Gear>
     <Key>DROIDFIRE</Key>
-    <Name>FD-Series Extinguisher Droid</Name>
+    <Name>Дроид-пожарный серии FD (FD-Series Extinguisher Droid)</Name>
     <Description>
-      [H3]Fire Suppression Droid[h3]
+      [H3]Дроид-пожарный[h3]
 
-A highly specialized maintenance droid, fire suppression droids perform the singular function of putting out fires. These droids are particularly useful aboard starships, where fires can quickly burn up the oxygen and cause irreparable damage to a vessel. Generally mounted on tracked chassis or repulsorlifts and fitted with large tanks of chemical fire retardants, fire suppression droids can quickly respond to out-of-control fires raging through a ship and are able to safely work under conditions that would be hazardous or even lethal to organic beings.
+Узкоспециализированные дроиды технического обслуживания, дроиды-пожарные выполняют единственную задачу - тушение пожаров. Эти дроиды особенно полезны на борту звездолетов, где огонь может быстро выжечь кислород и нанести судну непоправимый ущерб. Обычно установленные на гусеничном шасси или репульсорных подъемниках и оснащенные большими баками с химическими огнегасящими составами, дроиды пожаротушения способны быстро реагировать на вышедшие из-под контроля пожары, охватившие корабль, и безопасно работать в условиях, которые были бы опасны или даже смертельны для органических существ.
 
-[P]Fire suppression droids can be used aboard any vehicle or starship with a silhouette of 4 or larger. However, the larger the vessel, the more droids are needed to adequately protect the vessel from fires. A vessel with a silhouette of 4 may require only one fire suppression droid, while a bulk transport or corvette would need several; a starship the size of an Imperial Star Destroyer would need hundreds of droids to adequately protect its massive bulkheads and kilometers of corridors and access shafts. These droids are able to put out small fires independently.</Description>
+[P]Дроиды-пожарные могут использоваться на борту любого транспортного средства или звездолета с силуэтом 4 и более. Однако чем крупнее судно, тем больше дроидов требуется для его надежной защиты от огня. Судну с силуэтом 4 может хватить и одного дроида-пожарного, тогда как для крупнотоннажного транспорта или корвета их понадобится несколько; а звездолету размером с Имперский звездный разрушитель потребуются сотни дроидов, чтобы должным образом защитить его массивные переборки, километры коридоров и технические шахты. Эти дроиды способны самостоятельно тушить небольшие возгорания.</Description>
     <Source Page="102">Дополнение: Солнца Фортуны (Suns of Fortune)</Source>
     <Custom>DescOnly</Custom>
     <Price>8000</Price>
@@ -4506,11 +4494,11 @@ A highly specialized maintenance droid, fire suppression droids perform the sing
   </Gear>
   <Gear>
     <Key>DROIDG2REP</Key>
-    <Name>G2 Repair Droid</Name>
+    <Name>Ремонтный дроид G2 (G2 Repair Droid)</Name>
     <Description>
-      [H3]SoroSuub G2 Repair Droid[h3]
-    [P]The G2 repair droid is a custom Sullustan design produced by SoroSuub. Intended to assist with shipboard repair, many of these droids instead found themselves utilized as pilots and tour guides for civilian charter vessels. Referred to as “goose droids” due to their widely spaced feet, long necks, and clumsy gait, G2s tend to possess a quirky demeanor and exhibit excessively chatty behavior. Over time, the droids also develop a unique sense of humor, trading witticisms and bad jokes with anyone who takes the time to listen.
-[P]Overall, the G2 series droids were appreciated by their owners and the tourists they were charged with. Many G2 owners would relieve their droids of their jobs and keep them around as companions. The series’s downfall, however, lay in the fact that larger corporations considered them a waste of money due to their tendency to talk rather than work.</Description>
+      [H3]Ремонтный дроид SoroSuub G2[h3]
+[P]Ремонтный дроид G2 - это оригинальная салластанская разработка компании SoroSuub. Изначально предназначенные для помощи в корабельном ремонте, многие из этих дроидов вместо этого нашли свое применение в качестве пилотов и гидов на гражданских чартерных судах. Из-за широко расставленных ступней, длинной шеи и неуклюжей походки их прозвали 'дроидами-гусями'. G2, как правило, обладают эксцентричным нравом и отличаются чрезмерной болтливостью. Со временем у них также развивается своеобразное чувство юмора, и они охотно обмениваются остротами и плоскими шутками с любым, кто найдет время их выслушать.
+[P]В целом, дроиды серии G2 пользовались любовью своих владельцев и туристов, которых они сопровождали. Многие хозяева G2 освобождали своих дроидов от прямых обязанностей и держали их при себе просто как компаньонов. Однако причиной упадка этой серии стало то, что крупные корпорации сочли их пустой тратой денег из-за склонности дроидов болтать, а не работать.</Description>
     <Source Page="113">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
     <Price>6000</Price>
@@ -4521,12 +4509,12 @@ A highly specialized maintenance droid, fire suppression droids perform the sing
   </Gear>
   <Gear>
     <Key>DROIDGT</Key>
-    <Name>GT-Series Construction Droid</Name>
+    <Name>Строительный дроид серии GT (GT-Series Construction Droid)</Name>
     <Description>
-      [H3]GT-Series Construction Droid[h3]
-These burly-looking class five droids from Veril Line Systems are the latest in a long line of construction droids dating back to the ancient AM-Mk II used in the mid-Republic era. They stand two meters tall and have broad shoulders, a narrow waist, and powerful legs and arms that are packed with an on-board suite of construction tools.
-[P]GT-series droids are relatively smart. Their construction and engineering programming allows these droids to carry out all common functions on a construction site, from basic labor to planning, problem solving, logistical tasks, and supervising other construction droids. They can even interface with VLS's I-C4a combat construction droid and are often used to replace that machine's organic crew.
-[P]These droids are overall quietly competent, going about the business of following orders and carrying out construction plans with little fuss. Those that have developed personalities, such as the ones that serve with Alliance engineering units in the field, enjoy working with organics. On a job site, they are quiet and focused, but off the clock they tend to be garrulous and occasionally didactic.</Description>
+      [H3]Строительный дроид серии GT[h3]
+Эти внушительные на вид дроиды пятого класса от Veril Line Systems - новейшее поколение в длинной череде строительных дроидов, берущей начало от древних AM-Mk II, использовавшихся в эпоху Средней Республики. Их рост составляет два метра, у них широкие плечи, узкая талия, а также мощные ноги и руки, в которые встроен целый набор строительных инструментов.
+[P]Дроиды серии GT относительно умны. Их программы строительства и инженерии позволяют этим дроидам выполнять все стандартные функции на строительной площадке: от базового физического труда до планирования, решения проблем, логистических задач и надзора за другими строительными дроидами. Они даже могут взаимодействовать с боевым строительным дроидом I-C4a от VLS и часто используются для замены органического экипажа этой машины.
+[P]В целом, эти дроиды отличаются спокойной компетентностью, без лишней суеты выполняя приказы и реализуя строительные планы. Те из них, у которых развилась личность, например, служащие в полевых инженерных подразделениях Альянса, получают удовольствие от работы с органиками. На рабочем месте они молчаливы и сосредоточены, но в нерабочее время склонны к болтливости и порой любят поучать.</Description>
     <Source Page="50">Дополнение: Полная оперативность (Fully Operational)</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
@@ -4538,12 +4526,12 @@ These burly-looking class five droids from Veril Line Systems are the latest in 
   </Gear>
   <Gear>
     <Key>DROIDGUARDPOL</Key>
-    <Name>Guardian Police Droid</Name>
+    <Name>Полицейский дроид "Страж" (Guardian Police Droid)</Name>
     <Description>
-      [H3]Guardian Police Droid[h3]
-GU-series "Guardian" police droids were the primary law enforcement droids operated by the Coruscant Security Force during the final years of the Republic. Designed and built by Cybot Galactica specifically for the CSF, countless thousands of these droids patrolled the sprawling upper levels of Coruscant's Galactic City for generations. While in service, GU-series droids gained a repuation as solid and levelheaded, if unimaginative, law enforcers. They were programmed for various police work, such as patrol, peacekeeping, crime scene investigation, detective work, and riot control. Although they were reliable, the GU-series droids suffered drom a lack of iniative. Clever or dedicated criminals could usually outhink them with little difficulty.
-[P]Guardian police droids stand just under two meters tall. They have roughly human proportions, with long dexterous arms powerful legs, and a round head with gold-colored photoreceptors. Their heads are capped with a tall, cap-like structure reminiscent of a shako or kepi, complete with a short brim over their photoreceptors, this structure houses sensors and a powerfil commications suite. The droids are  often painted dark blue with silver and white accents, with a CSF badge painted on their left chest plate. When on patrol, Guardians are typically armed with a BlasTech SS-410 Police Spcial blaster pistol and a simple truncheon. Depending on the situation, they can also be equipped with stun batons, grenade launchers, riot shields, and blaster rifles.
-[P] By the end of the Clone Wars and the rise of the Galactic Empire, most Guardian droids were phased out of operation with the CSF.  Replaced by Stormtroopers and newer-model, more aggressive droids, surplus GU-series droids were sold off to other worlds, reassigned to lower-priority sectors, or simply scrapped. Some can still be found patrolling the lower levels of the Imperial capitol, however. Many of these veteran droids have not had a memory wipe in decades and some have even developed very distinct personalities similar to no-nonsense police officers. They still serve the people of Coruscant, but most are entirely too old and outdated to be carrying out actual police duties.</Description>
+      [H3]Полицейский дроид "Страж"[h3]
+Полицейские дроиды серии GU "Страж" были основными правоохранительными дроидами, использовавшимися Службой безопасности Корусанта в последние годы Республики. Разработанные и построенные Cybot Galactica специально для СБК, бесчисленные тысячи этих дроидов поколениями патрулировали обширные верхние уровни Галактического Города Корусанта. За время службы дроиды серии GU заслужили репутацию надежных и рассудительных, хоть и лишенных воображения, стражей порядка. Они были запрограммированы на выполнение различных полицейских задач, таких как патрулирование, поддержание мира, осмотр места преступления, сыскная работа и подавление беспорядков. Несмотря на свою надежность, дроиды серии GU страдали от недостатка инициативы. Хитрые или целеустремленные преступники обычно могли перехитрить их без особого труда.
+[P]Полицейские дроиды "Страж" имеют рост чуть менее двух метров. У них примерно человеческие пропорции, с длинными ловкими руками, мощными ногами и круглой головой с золотистыми фоторецепторами. Их головы увенчаны высокой конструкцией, напоминающей кивер или кепи, с коротким козырьком над фоторецепторами; в этой конструкции размещаются датчики и мощный комплект связи. Дроиды часто окрашены в темно-синий цвет с серебристыми и белыми акцентами, а на левой нагрудной пластине нарисован знак СБК. При патрулировании "Стражи" обычно вооружены специальным полицейским бластерным пистолетом BlasTech SS-410 и простой дубинкой. В зависимости от ситуации они также могут быть оснащены электрошоковыми дубинками, гранатометами, щитами для разгона толпы и бластерными винтовками.
+[P]К концу Войн клонов и с приходом к власти Галактической Империи большинство дроидов "Страж" были выведены из эксплуатации в СБК. Замененные штурмовиками и более новыми, агрессивными моделями дроидов, излишки серии GU были распроданы на другие миры, переведены в сектора с более низким приоритетом или просто отправлены на слом. Однако некоторых до сих пор можно встретить патрулирующими нижние уровни имперской столицы. Многие из этих дроидов-ветеранов не подвергались стиранию памяти десятилетиями, а у некоторых даже развились весьма яркие личности, напоминающие суровых и деловитых полицейских. Они по-прежнему служат народу Корусанта, но большинство из них слишком стары и устарели для выполнения настоящих полицейских обязанностей.</Description>
     <Source Page="46">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
@@ -4554,13 +4542,13 @@ GU-series "Guardian" police droids were the primary law enforcement droids opera
   </Gear>
   <Gear>
     <Key>DROIDGYRO</Key>
-    <Name>Gyrowheel 1.42.08 Recycling Droid</Name>
+    <Name>Дроид-переработчик Gyrowheel 1.42.08 (Gyrowheel 1.42.08 Recycling Droid)</Name>
     <Description>
-      [H3]Gyrowheel 1.42.08 Recycling Droid[h3]
+      [H3]Дроид-переработчик Gyrowheel 1.42.08[h3]
 
-A relatively common sight aboard colony ships and in the streets and alleys of countless settlements, Veril Line Systems' Gyrowheel series recycling droid is, in its way, perhaps the most useful and important droid a colony can possess. Using a powerful cocktail of natural and artificial enzymes contained within their bodies, these droids turn garbage, food scraps, and other organic refuse into a nourishing nutrient sludge that can make up the large part of many a colonist's daily caloric intake.
+Относительно частое зрелище на борту кораблей-колоний, а также на улицах и в переулках бесчисленных поселений, дроид-переработчик серии Gyrowheel от Veril Line Systems, по-своему, возможно, самый полезный и важный дроид, которым может обладать колония. Используя мощную смесь природных и искусственных ферментов, содержащихся в их телах, эти дроиды превращают мусор, пищевые отходы и другие органические отбросы в питательную кашицу, которая может составлять значительную часть ежедневного потребления калорий многих колонистов.
 
-[P]Standing around two meters high, these hard working droids consist of a broad, round body like a high-walled serving platter around 2.5 meters across covered by a retractable clamshell cover. Dexterous manipulator arms ring the droid's body, and a dull red photoreceptor constantly scans its surroundings for trash. The droid's body is perched on a single hard rubber wheel and is kept balanced by a sophisticated gyro-stabilization system. More a remote than an actual sentient droid, these extremely dim-witted constructs are devoid of individual personality beyond a desire to hunt trash. They operate in packs, scouring their surroundings for organic refuse under the command of a central monitoring computer system.</Description>
+[P]Эти трудолюбивые дроиды высотой около двух метров состоят из широкого круглого тела, похожего на сервировочное блюдо с высокими бортами диаметром около 2,5 метров, покрытого выдвижной крышкой. Ловкие манипуляторы окружают тело дроида, а тусклый красный фоторецептор постоянно сканирует окрестности в поисках мусора. Тело дроида установлено на единственном жестком резиновом колесе и удерживается в равновесии сложной системой гиростабилизации. Будучи скорее дистанционным аппаратом, чем настоящим разумным дроидом, эти крайне тупоумные конструкции лишены индивидуальности, за исключением стремления собирать мусор. Они действуют группами, прочесывая окрестности в поисках органических отходов под управлением центральной контролирующей компьютерной системы.</Description>
     <Source Page="50">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Price>6500</Price>
@@ -4571,11 +4559,11 @@ A relatively common sight aboard colony ships and in the streets and alleys of c
   </Gear>
   <Gear>
     <Key>DROIDIG100</Key>
-    <Name>IG-100 Magnaguard Droid</Name>
+    <Name>Дроид-магнастраж IG-100 (IG-100 Magnaguard Droid)</Name>
     <Description>
-      [H3]IG-100 Magnaguard Droid[h3]
+      [H3]Дроид-магнастраж IG-100[h3]
 
-Thankfully rare, IG-100 MagnaGuard droids are relics of the Clone Wars, during which they served as elite bodyguards and shock troops for Separatist leaders. Though most were destroyed during the wars, some examples of the type are still active in the galaxy. Most such survivors are bound to the service of criminal overlords. Imperial Moffs, or other power brokers. More terrifying are those few who have been manumitted haunting the hyperlanes alone or in pairs, following unknowable agendas. MagnaGuards are fearless combatants and reject ranged weapons out of hand, preferring to swiftly close with their opponents and engage them with their deadly electrostaves, which emit tendrils of energy designed to incapacitate and disorient foes.</Description>
+К счастью, редкие дроиды-магнастражи IG-100 - это реликвии Войн клонов, во время которых они служили элитными телохранителями и ударными войсками у лидеров сепаратистов. Хотя большинство из них было уничтожено в ходе войн, некоторые экземпляры этого типа до сих пор действуют в галактике. Большинство таких уцелевших находятся на службе у криминальных владык, имперских моффов или других влиятельных лиц. Еще более пугающими являются те немногие, которые были освобождены и бродят по гиперпространственным трассам в одиночку или парами, следуя непостижимым целям. Магнастражи - бесстрашные бойцы и категорически отвергают дальнобойное оружие, предпочитая быстро сближаться с противниками и вступать в бой при помощи своих смертоносных электропосохов, испускающих потоки энергии, предназначенные для выведения врагов из строя и их дезориентации.</Description>
     <Source Page="409">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <Price>90000</Price>
@@ -4586,11 +4574,11 @@ Thankfully rare, IG-100 MagnaGuard droids are relics of the Clone Wars, during w
   </Gear>
   <Gear>
     <Key>DROIDINTEROG</Key>
-    <Name>Interrogation Droid</Name>
+    <Name>Дроид-дознаватель (Interrogation Droid)</Name>
     <Description>
-      [H3]Interrogation Droid[h3]
+      [H3]Дроид-дознаватель[h3]
 
-The interrogation droids designed by the Imperial Department of Military Research are among the most feared weapons in the Emperor's vast arsenal. These floating black spheres bristle with instruments of torture. Just the sight of them has been known to elicit confessions and coax out carefully guarded secrets from even the most steadfast of prisoners.</Description>
+Дроиды-дознаватели, разработанные Имперским департаментом военных исследований, входят в число самых пугающих орудий в обширном арсенале Императора. Эти парящие черные сферы буквально ощетинились инструментами пыток. Известно, что один лишь их вид способен выбить признательные показания и выудить тщательно хранимые секреты даже из самых стойких узников.</Description>
     <Source Page="410">Книга правил: Сила и судьба (Force and Destiny)</Source>
     <Custom>DescOnly</Custom>
     <Price>9600</Price>
@@ -4601,12 +4589,12 @@ The interrogation droids designed by the Imperial Department of Military Researc
   </Gear>
   <Gear>
     <Key>DROIDJ9WORK</Key>
-    <Name>J9 Worker Drone</Name>
+    <Name>Рабочий дрон Roche J9 (J9 Worker Drone)</Name>
     <Description>
-      [H3]Roche J9 Worker Drone[h3]
-     [P]Despite its capabilities, the J9 worker drone was an abject commercial failure. Designed as a protocol droid, the series’ moniker, “worker drone,” was deceptive to potential customers, who assumed it was just another labor droid. In addition, the unit's appearance, which was distinctly bug-like, in conjunction with its flat personality, turned many mammalian species off. The Verpine even attempted to market the droid to other insectoid species, still without much success.
-[P]Most of the J9 worker drones purchased by the public were placed in labor jobs, wasting their more advanced systems and programming on menial tasks. Because of this, J9s are some of the most intelligent labor droids on the market. Over time, however, they develop somewhat bitter personalities, as they feel they were destined for something greater but were somehow cheated out of it.
-[P]The Rebel Alliance has acquired a large number of surplus J9 worker drones directly from Roche and has put them to good use. The Alliance realizes that the J9 is much more than a simple labor droid, and many of the units have been assigned to Rebel teams to assist them with translation and analysis. So far, the majority of these J9s have been a success in the field.
+      [H3]Рабочий дрон Roche J9[h3]
+[P]Несмотря на свои широкие возможности, рабочий дрон J9 стал полным коммерческим провалом. Созданный как протокольный дроид, он получил название серии 'рабочий дрон', что вводило в заблуждение потенциальных покупателей, принимавших его за очередного трудового дроида. Кроме того, внешний вид устройства, отчетливо напоминающий насекомое, в сочетании с его невыразительным характером, отталкивал многие млекопитающие виды. Верпины даже пытались продвигать этого дроида среди других насекомоподобных рас, но также без особого успеха.
+[P]Большинство рабочих дронов J9, приобретенных широкой публикой, были задействованы на физических работах, из-за чего их продвинутые системы и программы тратились впустую на рутинные задачи. Из-за этого J9 являются одними из самых интеллектуальных трудовых дроидов на рынке. Однако со временем у них развивается несколько озлобленный характер, поскольку они осознают, что были предназначены для чего-то большего, но их каким-то образом этого лишили.
+[P]Альянс Повстанцев приобрел крупную партию излишков рабочих дронов J9 напрямую у Roche и нашел им достойное применение. Альянс понимает, что J9 - это гораздо больше, чем просто трудовой дроид, и многие из этих устройств были приданы отрядам Повстанцев для помощи в переводе и анализе данных. На данный момент большинство этих J9 отлично зарекомендовали себя в полевых условиях.
     </Description>
     <Source Page="113">Дополнение: Оплоты сопротивления (Strongholds of Resistance)</Source>
     <Custom>DescOnly</Custom>
@@ -4618,15 +4606,15 @@ The interrogation droids designed by the Imperial Department of Military Researc
   </Gear>
   <Gear>
     <Key>DROIDJCPILOT</Key>
-    <Name>JC Series Pilot Droid</Name>
+    <Name>Дроид-пилот серии JC (JC Series Pilot Droid)</Name>
     <Description>
-      [H3]Industrial Automation JC Series Pilot Droid[h3]
+      [H3]Дроид-пилот серии JC от Industrial Automaton[h3]
 
-Pilot droids have been a common sight throughout the galaxy for millennia. They are produced in a variety of styles, from the diminutive repulsor-driven RX series to the lanky, skeletal cyclopes of the FEG series, and range from simple automated pilots following preprogrammed routes to highly talented droids capable of flying a snubfighter against Imperial Navy pilots.
+Дроиды-пилоты были обычным явлением во всей галактике на протяжении тысячелетий. Они производятся в самых разных стилях: от миниатюрных репульсорных моделей серии RX до долговязых скелетообразных циклопов серии FEG, и их возможности варьируются от простых автопилотов, следующих заранее запрограммированным маршрутам, до высокоодаренных дроидов, способных пилотировать истребитель в бою против пилотов Имперского флота.
 
-[P]The JC series produced by Industrial Automaton takes all of these qualities and turns them on their head. A bipedal, humanoid descendant of the well-respected V-series pilot droids, with which the JC series shares much of its internal systems architecture, these new-style pilot droids are unlike any previously seen on the market. They are brash, aggressive, head-strong droids programmed to be highly competitive in all matters to do with flying starships and atmospheric craft. Whereas a typical pilot droid speaks in a calming baritone and has a steady demeanor, JC-series droids speak in a quick, strong feminine voice full of confidence and swagger.
+[P]Серия JC от Industrial Automaton берет все эти качества и переворачивает их с ног на голову. Эти двуногие, гуманоидные потомки уважаемой серии пилотских дроидов V, с которой серия JC имеет много общей внутренней архитектуры систем, представляют собой пилотов нового стиля, не похожих ни на что из ранее виденного на рынке. Это дерзкие, агрессивные и своенравные дроиды, запрограммированные на жесткую конкуренцию во всем, что касается пилотирования звездолетов и атмосферных аппаратов. В то время как типичный пилотский дроид говорит спокойным баритоном и отличается ровным, уравновешенным нравом, дроиды серии JC говорят быстрым, твердым женским голосом, полным уверенности и бравады.
 
-[P]They were designed initially to act as test pilots and were marketed to shipbuilding and military-contracting concerns such as Incom and KDY. Quite intelligent for a nonacademic droid, the JC series is equipped with powerful and versatile piloting software, a datalink that allows them to connect directly to a ship's internal systems, and upgraded servos, circuits, and myomer-synthetic musculature to make them incredibly agile. While they are not built with direct combat in mind, they are equipped with a pop-up blaster pistol concealed in their right forearm along with the programming to use them, giving these droids some self-defense capabilities. Most of the JC series are still in service with their original buyers, flying small- and medium-sized prototype spacecraft to the limits of their construction and often paying for it with their lives. Those few that found their way into general civilian hands, especially in the Outer Rim, have found their share of work with traders, smugglers, explorers, and other individuals who tend to live exciting and dangerous lives and might need the services of a talented copilot.</Description>
+[P]Изначально они были разработаны как летчики-испытатели и продавались судостроительным и военным подрядчикам, таким как Incom и KDY. Весьма умные для дроидов неакадемического класса, машины серии JC оснащены мощным и универсальным пилотским программным обеспечением, каналом передачи данных, позволяющим им напрямую подключаться к внутренним системам корабля, а также улучшенными сервоприводами, схемами и синтетической миомерной мускулатурой, делающими их невероятно ловкими. Хотя они не созданы для прямого боя, они оснащены выдвижным бластерным пистолетом, спрятанным в правом предплечье, и соответствующими программами для его использования, что дает этим дроидам некоторые возможности самообороны. Большинство дроидов серии JC все еще находятся на службе у своих первоначальных покупателей, испытывая малые и средние прототипы космических аппаратов на пределе их конструкционных возможностей и часто расплачиваясь за это своими жизнями. Те немногие, что попали в руки гражданских лиц, особенно во Внешнем Кольце, нашли себе работу у торговцев, контрабандистов, исследователей и других личностей, ведущих насыщенную и опасную жизнь и нуждающихся в услугах талантливого второго пилота.</Description>
     <Source Page="56">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Price>15000</Price>
@@ -4637,14 +4625,14 @@ Pilot droids have been a common sight throughout the galaxy for millennia. They 
   </Gear>
   <Gear>
     <Key>DROIDK9</Key>
-    <Name>K-9 Series Hunting Droid</Name>
+    <Name>Дроид-охотник серии K-9 (K-9 Series Hunting Droid)</Name>
     <Description>
-      [H3]Cybot Galactica K-9 Series Hunting Droid[h3]
+      [H3]Дроид-охотник серии K-9 от Cybot Galactica[h3]
 
-On the wilder worlds in the Outer Rim, many sentients still stalk the wild beasts of their native lands as their ancestors have done for millennia. While much of this activity, especially on the more primitive worlds, is largely done to put food on the table, there are those hardy individuals for whom it is more a sport and less a necessity. Big-game hunting is big business in the Outer Rim, whether for exotic pets, firs, trophies, rare delicacies, or new chemical compounds and other components valuable to corporations. The men and women who spend their time stalking these creatures often travel with an animal or droid companion.
+На более диких мирах Внешнего Кольца многие разумные существа по-прежнему выслеживают диких зверей на своих родных землях, как их предки делали это на протяжении тысячелетий. И хотя большая часть этой деятельности, особенно на более примитивных мирах, направлена в первую очередь на добычу пропитания, есть и такие закаленные люди, для которых это скорее спорт, чем необходимость. Охота на крупную дичь - это крупный бизнес во Внешнем Кольце, будь то добыча экзотических питомцев, мехов, трофеев, редких деликатесов или новых химических соединений и других компонентов, ценных для корпораций. Мужчины и женщины, посвящающие свое время выслеживанию этих существ, часто путешествуют в компании животного или дроида-компаньона.
 
-[P]To aid hunters, Cybot Galactica sells the K-9 series hunting-and-tracking droid. Large, stoutly constructed droids roughly the size of a krayt-dragon hatchling, they have a distinctly canine appearance with their long bodies, wedge-shaped heads, and powerful tails. They are equipped with top-of-the-line sensors that allow them to hear frequencies well outside the ranges of most sentients as well as to see in the dark, perceive thermal emissions, and see over long distances. They are also one of the few droids equipped with advanced olfactory sensors, allowing the K-9 series to track by scent. They have crushing jaws full of sharp teeth, and their feet are equipped with retractable claws to help them take down their prey.
-[P]The K-9 series droids are also quite powerful, agile, and cunning, capable of leading other droids or hunting animals in packs. While they are intelligent, their programming and personalities are so focused that they tend to speak, when they speak at all, in clipped sentences punctuated with animal sounds and machine noises.</Description>
+[P]Чтобы помочь охотникам, Cybot Galactica продает охотничьих и следопытских дроидов серии K-9. Это крупные, крепко сложенные дроиды размером примерно с детеныша крайт-дракона, обладающие ярко выраженным собачьим обликом благодаря длинному телу, клиновидной голове и мощному хвосту. Они оснащены первоклассными сенсорами, позволяющими им слышать частоты, далеко выходящие за пределы диапазона большинства разумных видов, а также видеть в темноте, улавливать тепловое излучение и различать объекты на больших расстояниях. Это также одни из немногих дроидов, оснащенных передовыми обонятельными датчиками, что позволяет серии K-9 брать след по запаху. У них мощные челюсти, полные острых зубов, а на лапах имеются выдвижные когти, помогающие им валить добычу.
+[P]Дроиды серии K-9 также весьма сильны, ловки и хитры, они способны возглавлять стаи других дроидов или охотничьих животных. Несмотря на свой интеллект, их программы и личности настолько узконаправленны, что когда они все же говорят, то используют отрывистые фразы, перемежающиеся звериными звуками и механическим шумом.</Description>
     <Source Page="54">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Price>7500</Price>
@@ -4655,13 +4643,13 @@ On the wilder worlds in the Outer Rim, many sentients still stalk the wild beast
   </Gear>
   <Gear>
     <Key>DROIDKLC</Key>
-    <Name>KLC Series Exchequer Droid</Name>
+    <Name>Казначейский дроид серии KLC (KLC Series Exchequer Droid)</Name>
     <Description>
-      [H3]MerenData KLC Series Exchequer Droid[h3]
+      [H3]Казначейский дроид серии KLC от MerenData[h3]
 
-MerenData's KLC Series Exchequer Droid is marketed throughout the galaxy as The Merchant's Best Friend." These droids are bipedal, humanoid automata similar in stature with sleek lines and nonthreatening facial features designed to put organic users at ease. They are heavily marketed to merchants, bankers, and other powerful entrepreneurs. To this end, KLC Series Exchequers are equipped with a clever and quick-thinking brain optimized for mathematics, negotiations, and market tracking. Their voice synthesizers are calibrated to be smooth and melodious, if perhaps a bit quick, and their pleasing demeanor and handsome design make them some of the more pleasant droids to work with.
+Казначейские дроиды серии KLC от MerenData рекламируются по всей галактике как 'Лучший друг торговца'. Эти двуногие гуманоидные автоматы обладают элегантными обтекаемыми линиями и неугрожающими чертами лица, призванными вызывать доверие у органических пользователей. Они активно продвигаются на рынке среди торговцев, банкиров и других влиятельных предпринимателей. С этой целью казначейские дроиды серии KLC оснащены сообразительным и быстродействующим искусственным мозгом, оптимизированным для математических расчетов, ведения переговоров и отслеживания рынка. Их голосовые синтезаторы настроены на плавную и мелодичную, хотя и слегка торопливую речь, а приятный нрав и привлекательный дизайн делают их одними из самых комфортных в работе дроидов.
 
-[P]The real selling point of these droids is their powerful "Mercantiler" market-tracking computer system. The Mercantiler computer is programmed with a constantly updating database that tracks the variations in major currency conversions in the galaxy, along with an exhaustive price-and-value list of nearly every commodity bought, sold, or traded. This computer also has a constant holonet connection that monitors the major stock markets in the galaxy, keeping the droid continually updated on the latest financial news and information. All this makes the Exchequers capable merchants in their own right.</Description>
+[P]Главным преимуществом этих дроидов является их мощная система отслеживания рынка 'Меркантилер'. Компьютер 'Меркантилер' работает с постоянно обновляемой базой данных, которая отслеживает колебания курсов основных валют в галактике, а также содержит исчерпывающий перечень цен и оценки стоимости практически любого товара, который покупается, продается или обменивается. Этот компьютер также поддерживает постоянное подключение к Holonet для мониторинга основных фондовых рынков галактики, непрерывно снабжая дроида последними финансовыми новостями и аналитикой. Все это делает казначейских дроидов вполне самостоятельными и высококвалифицированными торговцами.</Description>
     <Source Page="56">Дополнение: Шаг в неизвестность (Enter the Unknown)</Source>
     <Custom>DescOnly</Custom>
     <Price>10000</Price>
@@ -4672,11 +4660,11 @@ MerenData's KLC Series Exchequer Droid is marketed throughout the galaxy as The 
   </Gear>
   <Gear>
     <Key>DROIDLSX</Key>
-    <Name>LSx-Series Slicer Droid</Name>
-    <Description>[H3]LSx-series Slicer Droid[h3]
-One of the very few dedicated slicer droids on the market, the LSx-series packs an immense amount of computing power into a small package. A product of the notoriously corrupt and rapacious Loronar Corporation, the I-SX was introduced during the early years of the Galactic Empire as a "programming and computer sciences" droid, marketed toward educational institutions and technology companies. Loronar being Loronar, however, the droid was in fact a dedicated slicer unit geared toward industrial espionage and military intelligence. Along with the aboveboard marketing, Loronar used all of its corporate might to peddle these droids to any law enforcement or government intelligence agency that would take them, including the Empire and various factions within the Rebel Alliance. While the ISB and Imperial military Intelligence agencies demurred, having already signed contracts with Arakyd and MerenData to purchase espionage and slicer droids, the Alliance snapped LSx droids up in bulk to bolster its small intelligence corps.
-[P]LSx-series droids are humanoid-shaped constructs just under two meters tall, with spindly limbs and a long, animal-like head reminiscent of Baktoid's old B1 battle droids. They are equipped with cutting-edge slicer gear and powerful programming and data analysis firmware easily rivaling that of most intelligence agencies and criminal organizations. Packed into their hands and bulky forearms is an array of fine manipulators, computer probes, scomp links, circuit chasers, and other electronics and computer repair tools that allow the droids to access anything from a datapad to a military-grade mainframe. Mounted between the knuckles of their right hand, they even carry a scomp-spiker, a highly illegal piece of industrial espionage and sabotage equipment that pours a devastating high-voltage charge through a computer system to destroy both hardware and software. Although they are not programmed for combat, LSx-series droids can defend themselves if necessary, and the scomp-spiker makes for an extremely nasty weapon against both organics and droids.
-[P]These droids rarely speak, and when they do it is in a nearly indecipherable patois of technical jargon, acronyms, and academic pedantry. However, LSx-series droids that have gone without regular maintenance and memory wipes often learn to express themselves in ways less likely to bore and drive away colleagues. Some develop obsessive and deeply sarcastic personalities. The Rebel Alliance currently uses the majority of LSx-series droids that have been produced, typically assigning them to base duty where they work endless hours attempting to crack Imperial military network security.</Description>
+    <Name>Дроид-слайсер серии LSx (LSx-Series Slicer Droid)</Name>
+    <Description>[H3]Дроид-слайсер серии LSx[h3]
+Один из очень немногих специализированных дроидов-слайсеров на рынке, серия LSx вмещает огромное количество вычислительной мощности в небольшой корпус. Продукт печально известной коррумпированной и хищной корпорации Loronar, LSx был представлен в первые годы Галактической Империи как дроид 'программирования и компьютерных наук', предназначенный для образовательных учреждений и технологических компаний. Однако, как это принято в Loronar, на самом деле этот дроид представлял собой специализированное устройство для взлома, ориентированное на промышленный шпионаж и военную разведку. Наряду с официальным маркетингом, Loronar использовала всю свою корпоративную мощь, чтобы сбыть этих дроидов любым правоохранительным или правительственным разведывательным агентствам, которые согласятся их взять, включая Империю и различные фракции внутри Альянса Повстанцев. В то время как ИББ и военная разведка Империи отказались, уже подписав контракты с Arakyd и MerenData на покупку шпионских дроидов и дроидов-слайсеров, Альянс скупил дроидов LSx оптом, чтобы усилить свой небольшой разведывательный корпус.
+[P]Дроиды серии LSx - это гуманоидные конструкции ростом чуть менее двух метров, с тонкими конечностями и длинной, похожей на звериную головой, напоминающей старых боевых дроидов B1 от Baktoid. Они оснащены передовым оборудованием для взлома, а также мощными программами и прошивками для анализа данных, которые легко конкурируют с большинством разведывательных агентств и преступных организаций. В их кисти и массивные предплечья вмонтирован набор точных манипуляторов, компьютерных зондов, коннекторов, трассировщиков цепей и других инструментов для ремонта электроники и компьютеров, которые позволяют дроидам получать доступ ко всему: от датапада до военного мейнфрейма. Между суставами их правой руки даже установлен шип-коннектор - крайне незаконное оборудование для промышленного шпионажа и саботажа, которое посылает разрушительный высоковольтный заряд через компьютерную систему, уничтожая как аппаратное, так и программное обеспечение. Хотя они не запрограммированы на бой, дроиды серии LSx могут защищаться в случае необходимости, а шип-коннектор служит чрезвычайно опасным оружием как против органиков, так и против дроидов.
+[P]Эти дроиды редко говорят, а когда это делают, используют почти неразборчивый жаргон из технических терминов, аббревиатур и академического педантизма. Однако дроиды серии LSx, которые долго обходились без регулярного обслуживания и стирания памяти, часто учатся выражать свои мысли так, чтобы не наскучивать коллегам и не отпугивать их. У некоторых развиваются навязчивые и глубоко саркастичные личности. В настоящее время Альянс Повстанцев использует большинство произведенных дроидов серии LSx, обычно назначая их на службу на базы, где они работают без устали, пытаясь взломать системы безопасности военной сети Империи.</Description>
     <Source Page="51">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <Price>19000</Price>
@@ -4688,11 +4676,11 @@ One of the very few dedicated slicer droids on the market, the LSx-series packs 
   </Gear>
   <Gear>
     <Key>DROIDM4</Key>
-    <Name>M4-Series Messenger Droid</Name>
-    <Description>[H3]M4-series Messenger Droid[h3]
-Another of Cybot Galactica's popular and well-liked entries into the droid market, the M4-series is perhaps the finest messenger droid currently available. M4-series droids are roughly half a meter tall and have a thin, blocky, pentagonal body with no external limbs and a small, highly secure compartment built into the right side. A large holoprojector lens dominates the front face of the droid, and a small, high-output repulsorlift generator provides propulsion and gives the M4 a surprising burst of speed when needed. As dedicated messenger droids, M4s are equipped with a high-resolution holoprojector and an on-board memory that can store a single message up to five minutes long. M4s also carry a long-range comlink and a sophisticated navigation suite that connects to the HoloNet for real-time travel and navigation information nearly anywhere in the galaxy.
-[P]Relatively bright and remarkably clever, M4-series droids were built with one goal in mind: to deliver their message at any cost. To that end, these droids are overbuilt to an almost ridiculous degree. They are packed full of redundant operating systems and triple-secure encryption for their messages. Their bodies are heavily reinforced and fitted with solid armor that can turn shots from light-caliber slugthrowers and low-powered blasters with ease. Their shape and size allow them to squeeze through tiny spaces, and a patented Cybot Galactica stealth subroutine allows these little droids to flit about largely unnoticed when needed. Thanks to their design, sturdy build, and on-board systems, M4-series droids have developed a reputation for successfully delivering their messages no matter how hard the trip, how long it takes, or how much damage they suffer en route.
-[P]M4s are rare in Imperial service, as the ISB and other intelligence agencies have their own, bespoke messenger droids in the shape of the familiar MSE-series and AS-MI 2-series droids. A fair number of these sturdy droids have found their way into the Alliance, where they work with intelligence and courier services to run encrypted messages between various Rebel cells. Many M4 droids in Alliance employ take immense pleasure in breaking through various levels of Imperial security to deliver their data. One such droid is even rumored to have broken into an Imperial stockade somewhere in the Outer Rim to deliver a message—and a holdout blaster—to an imprisoned Alliance intelligence agent.</Description>
+    <Name>Дроид-курьер серии M4 (M4-Series Messenger Droid)</Name>
+    <Description>[H3]Дроид-курьер серии M4[h3]
+Еще одна популярная и полюбившаяся многим разработка Cybot Galactica на рынке дроидов, серия M4 - это, пожалуй, лучший дроид-курьер из доступных на сегодняшний день. Дроиды серии M4 имеют рост около полуметра и тонкое, угловатое пятиугольное тело без внешних конечностей, а также небольшой, надежно защищенный отсек, встроенный в правый бок. Большую часть передней панели занимает крупная линза голопроектора, а небольшой, но мощный генератор репульсорного подъемника обеспечивает движение и позволяет M4 при необходимости совершать удивительно быстрые рывки. Как специализированные дроиды-курьеры, M4 оснащены голопроектором высокого разрешения и встроенной памятью, способной хранить одно сообщение длительностью до пяти минут. Также M4 несут комлинк дальнего радиуса действия и сложный навигационный комплекс, подключающийся к ГолоСети для получения актуальной информации о маршрутах и навигации практически в любой точке галактики.
+[P]Относительно смышленые и поразительно сообразительные, дроиды серии M4 были созданы с единственной целью: доставить сообщение любой ценой. С этой целью эти дроиды сконструированы с колоссальным, почти абсурдным запасом прочности. Они напичканы дублирующими операционными системами и имеют тройное шифрование для своих сообщений. Их корпуса сильно укреплены и оснащены прочной броней, способной легко выдержать попадания из легкого кинетического оружия и маломощных бластеров. Их форма и размер позволяют им протискиваться в крошечные щели, а запатентованная Cybot Galactica подпрограмма скрытности позволяет этим небольшим дроидам незаметно сновать мимо, когда это необходимо. Благодаря своей конструкции, прочной сборке и бортовым системам, дроиды серии M4 заслужили репутацию устройств, успешно доставляющих свои сообщения, независимо от того, насколько труден путь, сколько времени он занимает или какой урон они получают в дороге.
+[P]M4 редко встречаются на имперской службе, так как ИББ и другие разведывательные ведомства используют собственные, сделанные на заказ дроиды-курьеры в виде знакомых всем дроидов серий MSE и AS-MI 2. Значительное количество этих крепких дроидов попало в руки Альянса, где они работают в разведке и курьерских службах, передавая зашифрованные сообщения между различными ячейками Повстанцев. Многие M4 на службе Альянса получают огромное удовольствие от преодоления различных уровней имперской безопасности для доставки своих данных. Ходят слухи, что один такой дроид даже проник в имперскую тюрьму где-то во Внешнем Кольце, чтобы доставить сообщение и компактный бластер пленному агенту разведки Альянса.</Description>
     <Source Page="52">Дополнение: Шифры и Маски (Cyphers and Masks)</Source>
     <Custom>DescOnly</Custom>
     <Price>6500</Price>
@@ -4704,11 +4692,11 @@ Another of Cybot Galactica's popular and well-liked entries into the droid marke
   </Gear>
   <Gear>
     <Key>DROIDMAINT</Key>
-    <Name>Maintenance Droid</Name>
+    <Name>Дроид технического обслуживания (Maintenance Droid)</Name>
     <Description>
-      [H3]Maintenance Droid (Various Models)[h3]
+      [H3]Дроид технического обслуживания (различные модели)[h3]
 
-Taking a multitude of forms, maintenance droids can appear in literally any shape imaginable, from spider-like machines to small, box-like automatons and even to large, vehicle-sized behemoths that repair bridges and the like. They can be found anywhere in the galaxy that has the proper technology level to support droids and starports in particular are typically crawling with the things. Maintenance droids generally have a low level of intelligence and are not a threat to organic beings, but malfunctions or malicious reprogramming have been known to turn them against their masters, sometimes with terribly effective results.</Description>
+Дроиды технического обслуживания бывают самых разных форм и могут иметь буквально любой мыслимый облик: от паукообразных машин и небольших коробчатых автоматов до исполинских механизмов размером с транспортное средство, которые ремонтируют мосты и тому подобное. Их можно встретить в любом уголке галактики, где уровень технологий позволяет использовать дроидов, а космопорты, в частности, обычно просто кишат ими. Как правило, дроиды технического обслуживания не отличаются высоким интеллектом и не представляют угрозы для органических существ, однако известны случаи, когда сбои в работе или злонамеренное перепрограммирование заставляли их обращаться против своих хозяев, порой с ужасающими последствиями.</Description>
     <Source Page="409">Книга правил: Край Империи (Edge of the Empire)</Source>
     <Custom>DescOnly</Custom>
     <Price>7500</Price>
@@ -4719,11 +4707,11 @@ Taking a multitude of forms, maintenance droids can appear in literally any shap
   </Gear>
   <Gear>
     <Key>DROIDMEDIC</Key>
-    <Name>Medical Droid</Name>
+    <Name>Медицинский дроид (Medical Droid)</Name>
     <Description>
-      [H3]Medical Droid (Various Models)[h3]
+      [H3]Медицинский дроид (различные модели)[h3]
 
-Medical droids take a variety of forms, from simple attendant droids capable of dressing flesh wounds or diagnosing basic illnesses up to the elaborate and incredibly advanced surgical droids that can be found on military starships and major urban centers throughout the galaxy.</Description>
+Медицинские дроиды бывают самых разных форм: от простых дроидов-ассистентов, способных обрабатывать поверхностные раны или диагностировать распространенные заболевания, вплоть до сложных и невероятно совершенных хирургических дроидов, которых можно встретить на военных звездолетах и в крупных городских центрах по всей галактике.</Description>
     <Sources>
       <Source Page="409">Книга правил: Край Империи (Edge of the Empire)</Source>
       <Source Page="410">Книга правил: Сила и судьба (Force and Destiny)</Source>
@@ -4737,11 +4725,11 @@ Medical droids take a variety of forms, from simple attendant droids capable of 
   </Gear>
   <Gear>
     <Key>DROIDMINIMED</Key>
-    <Name>Mini-Med Droid</Name>
+    <Name>Мини-мед. дроид (Mini-Med Droid)</Name>
     <Description>
-      [H3]Mini-Med Droid[h3]
+      [H3]Мини-мед. дроид[h3]
 
-The Mini-Med is less a droid and more of a skilled set of surgeon's tools. Designed specifically to aid sapient doctors, the Mini-Med is a small, spherical droid with five spindly legs that can double as manipulators. It cannot perform any sort of operations on its own, but when working under the direction of a talented doctor, a team of Mini-Meds can greatly enhance his abilities. However, their almost spider-like appearance has guaranteed they've not caught on in galactic society. Even pragmatic doctors tend to use them only when the patient is anesthetized.</Description>
+Мини-мед. - это не столько полноценный дроид, сколько набор высокоточных хирургических инструментов. Специально созданный для помощи разумным врачам, Мини-мед представляет собой небольшой сферический аппарат с пятью тонкими ножками, которые также выполняют функцию манипуляторов. Сам по себе он не способен проводить какие-либо операции, но работая под руководством талантливого врача, команда Мини-медов может многократно расширить его возможности. Однако их внешний вид, уж слишком напоминающий пауков, стал причиной того, что они так и не прижились в галактическом обществе. Даже самые прагматичные врачи предпочитают использовать их лишь тогда, когда пациент находится под наркозом.</Description>
     <Source Page="49">Дополнение: Далекие горизонты (Far Horizons)</Source>
     <Custom>DescOnly</Custom>
     <Price>900</Price>
@@ -4752,13 +4740,13 @@ The Mini-Med is less a droid and more of a skilled set of surgeon's tools. Desig
   </Gear>
   <Gear>
     <Key>DROIDMISEC</Key>
-    <Name>MI-Series Security Droid</Name>
+    <Name>Охранный дроид серии MI (MI-Series Security Droid)</Name>
     <Description>
-      [H3]MI-Series Security Droid[h3]
-Holowan MEchanicals' imposing MI-series security droids are some of the most efficent and dengerous droids in the galaxy. A recent entry into an already crowded security droids field, Holowan made its new droids stand out by arming them to their metaphorical teeth and margeting them heavily among wealthy civilians and small planetary governments. Its plan paid off, and within a scant few years it had a nearly two-year waiting list for new MI-series models.
-[P]At first glance, MI-series droids look more like a frontline combat droids than private security units. They stand just over two meters tall and are covered in thick plasteel armor of a type usually found in heavy battel hardsuits and power-assisted armor. They have two heavy duty front legs that end in broad feet, and a small, armored head fitted with two large, red photoreceptors. Their most striking features are the two sets of arms mounted to their torso.
-[P]The upper arms, which are mounted to the droid's shoulders, are proportional to the size of the droid. Each of these arm ends in a powerful weapon cluster that includes a pair of light repeating blasters and a pair of short-range stun blasters. The lower arms are huge, seeming much larger than the droid's chassis should be able to support and end in a  pair of massive, powerful hands, each with two fingers  and an opposable thumb. The weapons loadout, multitude of arms, and very aggressive programming with which these droids are equipped makes them incredibly formidable opponents.
-[P]MI-series droids have stern humorless personalities and are given to barking orders and making bold declarations. Their voices have a deep, resonant tone that heightens their intimidation factor. They are programmed to close quickly with non-hostiles invading their personal space while warning or ordering them away from some forbidden area. Very few individuals in the galaxy can withstand having a two-meter tall heavily armedm very angry froid looming over them while demanding they leave an area lest the droid open fire. MI-series droids that go for too long without a memory wipe tend to develop distrubing, almost sadistic personality traits and can become unhinged and dangerous without constant upkeep. At least one of these powerful droids, a unit designated MI-726, is known to have gone rogue and taken up a life of anti-Imperial crime.</Description>
+      [H3]Охранный дроид серии MI[h3]
+Внушительные охранные дроиды серии MI от Holowan Mechanics - одни из самых эффективных и опасных дроидов в галактике. Недавно появившись на и без того переполненном рынке охранных дроидов, Holowan выделила свои новые разработки, вооружив их, что называется, до зубов, и активно продвигая среди богатых гражданских лиц и небольших планетарных правительств. План сработал, и всего за несколько лет очередь на новые модели серии MI растянулась почти на два года.
+[P]На первый взгляд, дроиды серии MI больше похожи на фронтовых боевых дроидов, чем на частных охранников. Их рост составляет чуть более двух метров, и они покрыты толстой пласталевой броней того типа, который обычно используется в тяжелых боевых экзоскелетах и силовой броне. У них две мощные передние ноги с широкими ступнями и небольшая бронированная голова с двумя большими красными фоторецепторами. Их самые заметные черты - это два набора рук, прикрепленных к торсу.
+[P]Верхние руки, закрепленные на плечах дроида, пропорциональны его размеру. Каждая из этих рук заканчивается мощным оружейным комплексом, включающим пару легких бластеров-пулеметов и пару оглушающих бластеров ближнего радиуса действия. Нижние руки огромны и кажутся слишком большими для шасси дроида, заканчиваясь парой массивных, мощных кистей, каждая с двумя пальцами и противопоставленным большим пальцем. Арсенал вооружения, множество конечностей и крайне агрессивное программирование, которыми оснащены эти дроиды, делают их невероятно грозными противниками.
+[P]Дроиды серии MI обладают суровым, лишенным чувства юмора характером и склонны выкрикивать приказы и делать громкие заявления. Их голоса имеют глубокий, резонирующий тембр, что усиливает фактор запугивания. Они запрограммированы на быстрое сближение с невраждебными целями, вторгающимися в их личное пространство, предупреждая или приказывая им покинуть запретную зону. Очень немногие в галактике способны выдержать, когда над ними нависает двухметровый, до зубов вооруженный и очень злой дроид, требующий покинуть территорию под угрозой открытия огня. Дроиды серии MI, которые слишком долго обходятся без стирания памяти, склонны развивать тревожные, почти садистские черты личности и могут стать неуравновешенными и опасными без постоянного обслуживания. Известно, что по крайней мере один из этих мощных дроидов, аппарат под обозначением MI-726, вышел из-под контроля и встал на путь антиимперской преступной деятельности.</Description>
     <Source Page="46">Дополнение: Вечный дозор (Endless Vigil)</Source>
     <Custom>DescOnly</Custom>
     <Type>Droids</Type>
